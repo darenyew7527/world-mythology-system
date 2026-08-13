@@ -1,0 +1,67 @@
+{"category":"SOCIAL","code":"ALLY_OF","description":null,"inverse_code":"ALLY_OF","is_symmetric":1,"label_en":"ally of","label_zh":"盟友"}
+{"category":"TEXT","code":"APPEARS_IN","description":null,"inverse_code":"HAS_APPEARANCE_OF","is_symmetric":0,"label_en":"appears in","label_zh":"出现于"}
+{"category":"ASSOCIATION","code":"ASSOCIATED_WITH","description":null,"inverse_code":"ASSOCIATED_WITH","is_symmetric":1,"label_en":"associated with","label_zh":"关联"}
+{"category":"EVIDENCE","code":"ATTESTED_BY","description":null,"inverse_code":"WITNESS_OF","is_symmetric":0,"label_en":"attested by","label_zh":"由……见证"}
+{"category":"PLACE","code":"BIRTHPLACE_OF","description":null,"inverse_code":"BORN_IN","is_symmetric":0,"label_en":"birthplace of","label_zh":"诞生地"}
+{"category":"PLACE","code":"BORN_IN","description":null,"inverse_code":"BIRTHPLACE_OF","is_symmetric":0,"label_en":"born in","label_zh":"诞生于"}
+{"category":"POSSESSION","code":"CARRIED_BY","description":null,"inverse_code":"CARRIES","is_symmetric":0,"label_en":"carried by","label_zh":"由……携带"}
+{"category":"POSSESSION","code":"CARRIES","description":null,"inverse_code":"CARRIED_BY","is_symmetric":0,"label_en":"carries","label_zh":"携带"}
+{"category":"EVENT","code":"CAUSED","description":null,"inverse_code":"CAUSED_BY","is_symmetric":0,"label_en":"caused","label_zh":"导致"}
+{"category":"EVENT","code":"CAUSED_BY","description":null,"inverse_code":"CAUSED","is_symmetric":0,"label_en":"caused by","label_zh":"由……导致"}
+{"category":"KINSHIP","code":"CHILD_OF","description":null,"inverse_code":"PARENT_OF","is_symmetric":0,"label_en":"child of","label_zh":"子女／后代"}
+{"category":"COMPARISON","code":"COMPARABLE_TO","description":null,"inverse_code":"COMPARABLE_TO","is_symmetric":1,"label_en":"comparable to","label_zh":"可比较但不等同"}
+{"category":"KINSHIP","code":"CONSORT_OF","description":null,"inverse_code":"CONSORT_OF","is_symmetric":1,"label_en":"consort of","label_zh":"配偶／伴侣"}
+{"category":"CREATION","code":"CREATED_BY","description":null,"inverse_code":"CREATOR_OF","is_symmetric":0,"label_en":"created by","label_zh":"由……创造"}
+{"category":"CREATION","code":"CREATOR_OF","description":null,"inverse_code":"CREATED_BY","is_symmetric":0,"label_en":"creator of","label_zh":"创造者"}
+{"category":"PLACE","code":"DEATHPLACE_OF","description":null,"inverse_code":"DIED_IN","is_symmetric":0,"label_en":"deathplace of","label_zh":"死亡地点"}
+{"category":"CONFLICT","code":"DEFEATED","description":null,"inverse_code":"DEFEATED_BY","is_symmetric":0,"label_en":"defeated","label_zh":"击败"}
+{"category":"CONFLICT","code":"DEFEATED_BY","description":null,"inverse_code":"DEFEATED","is_symmetric":0,"label_en":"defeated by","label_zh":"被……击败"}
+{"category":"OBJECT","code":"DEPICTED_ON","description":null,"inverse_code":"DEPICTS","is_symmetric":0,"label_en":"depicted on","label_zh":"描绘于"}
+{"category":"OBJECT","code":"DEPICTS","description":null,"inverse_code":"DEPICTED_ON","is_symmetric":0,"label_en":"depicts","label_zh":"描绘"}
+{"category":"EVENT","code":"DESTROYED","description":null,"inverse_code":"DESTROYED_BY","is_symmetric":0,"label_en":"destroyed","label_zh":"毁灭"}
+{"category":"EVENT","code":"DESTROYED_BY","description":null,"inverse_code":"DESTROYED","is_symmetric":0,"label_en":"destroyed by","label_zh":"被……毁灭"}
+{"category":"PLACE","code":"DIED_IN","description":null,"inverse_code":"DEATHPLACE_OF","is_symmetric":0,"label_en":"died in","label_zh":"死亡于"}
+{"category":"IDENTITY","code":"EARLIER_COUNTERPART_OF","description":null,"inverse_code":"LATER_EQUIVALENT_OF","is_symmetric":0,"label_en":"earlier counterpart of","label_zh":"早期对应"}
+{"category":"CLASSIFICATION","code":"ELEMENT_OF","description":null,"inverse_code":"HAS_ELEMENT","is_symmetric":0,"label_en":"element of","label_zh":"构成元素"}
+{"category":"SOCIAL","code":"ENEMY_OF","description":null,"inverse_code":"ENEMY_OF","is_symmetric":1,"label_en":"enemy of","label_zh":"敌人"}
+{"category":"OBJECT","code":"EXCAVATED_AT","description":null,"inverse_code":"FINDSPOT_OF","is_symmetric":0,"label_en":"excavated at","label_zh":"出土于"}
+{"category":"KINSHIP","code":"FATHER_OF","description":null,"inverse_code":"CHILD_OF","is_symmetric":0,"label_en":"father of","label_zh":"父亲"}
+{"category":"OBJECT","code":"FINDSPOT_OF","description":null,"inverse_code":"EXCAVATED_AT","is_symmetric":0,"label_en":"findspot of","label_zh":"出土地"}
+{"category":"CONFLICT","code":"FREED","description":null,"inverse_code":"FREED_BY","is_symmetric":0,"label_en":"freed","label_zh":"释放"}
+{"category":"CONFLICT","code":"FREED_BY","description":null,"inverse_code":"FREED","is_symmetric":0,"label_en":"freed by","label_zh":"被……释放"}
+{"category":"TEXT","code":"HAS_APPEARANCE_OF","description":null,"inverse_code":"APPEARS_IN","is_symmetric":0,"label_en":"has appearance of","label_zh":"包含形象／角色"}
+{"category":"CLASSIFICATION","code":"HAS_ELEMENT","description":null,"inverse_code":"ELEMENT_OF","is_symmetric":0,"label_en":"has element","label_zh":"包含元素"}
+{"category":"CLASSIFICATION","code":"HAS_MEMBER","description":null,"inverse_code":"MEMBER_OF","is_symmetric":0,"label_en":"has member","label_zh":"包含成员"}
+{"category":"EVENT","code":"HAS_PARTICIPANT","description":null,"inverse_code":"PARTICIPATED_IN","is_symmetric":0,"label_en":"has participant","label_zh":"参与者"}
+{"category":"IDENTITY","code":"HAS_VARIANT","description":null,"inverse_code":"VARIANT_OF","is_symmetric":0,"label_en":"has variant","label_zh":"具有变体"}
+{"category":"OBJECT","code":"HELD_BY_MUSEUM","description":null,"inverse_code":"HOLDS","is_symmetric":0,"label_en":"held by museum","label_zh":"由博物馆收藏"}
+{"category":"OBJECT","code":"HOLDS","description":null,"inverse_code":"HELD_BY_MUSEUM","is_symmetric":0,"label_en":"holds","label_zh":"收藏"}
+{"category":"IDENTITY","code":"IDENTIFIED_WITH","description":null,"inverse_code":"IDENTIFIED_WITH","is_symmetric":1,"label_en":"identified with","label_zh":"被认同为／融合"}
+{"category":"CONFLICT","code":"IMPRISONED","description":null,"inverse_code":"IMPRISONED_BY","is_symmetric":0,"label_en":"imprisoned","label_zh":"囚禁"}
+{"category":"CONFLICT","code":"IMPRISONED_BY","description":null,"inverse_code":"IMPRISONED","is_symmetric":0,"label_en":"imprisoned by","label_zh":"被……囚禁"}
+{"category":"PLACE","code":"INHABITED_BY","description":null,"inverse_code":"LIVES_IN","is_symmetric":0,"label_en":"inhabited by","label_zh":"居住者"}
+{"category":"CONFLICT","code":"KILLED","description":null,"inverse_code":"KILLED_BY","is_symmetric":0,"label_en":"killed","label_zh":"杀死"}
+{"category":"CONFLICT","code":"KILLED_BY","description":null,"inverse_code":"KILLED","is_symmetric":0,"label_en":"killed by","label_zh":"被……杀死"}
+{"category":"IDENTITY","code":"LATER_EQUIVALENT_OF","description":null,"inverse_code":"EARLIER_COUNTERPART_OF","is_symmetric":0,"label_en":"later equivalent of","label_zh":"后世对应"}
+{"category":"PLACE","code":"LIVES_IN","description":null,"inverse_code":"INHABITED_BY","is_symmetric":0,"label_en":"lives in","label_zh":"居住于"}
+{"category":"CLASSIFICATION","code":"MEMBER_OF","description":null,"inverse_code":"HAS_MEMBER","is_symmetric":0,"label_en":"member of","label_zh":"属于体系"}
+{"category":"TEXT","code":"MENTIONED_IN","description":null,"inverse_code":"MENTIONS","is_symmetric":0,"label_en":"mentioned in","label_zh":"见于文献"}
+{"category":"TEXT","code":"MENTIONS","description":null,"inverse_code":"MENTIONED_IN","is_symmetric":0,"label_en":"mentions","label_zh":"提及"}
+{"category":"KINSHIP","code":"MOTHER_OF","description":null,"inverse_code":"CHILD_OF","is_symmetric":0,"label_en":"mother of","label_zh":"母亲"}
+{"category":"POSSESSION","code":"OWNED_BY","description":null,"inverse_code":"OWNS","is_symmetric":0,"label_en":"owned by","label_zh":"属于"}
+{"category":"POSSESSION","code":"OWNS","description":null,"inverse_code":"OWNED_BY","is_symmetric":0,"label_en":"owns","label_zh":"拥有"}
+{"category":"KINSHIP","code":"PARENT_OF","description":null,"inverse_code":"CHILD_OF","is_symmetric":0,"label_en":"parent of","label_zh":"父母／亲代"}
+{"category":"EVENT","code":"PARTICIPATED_IN","description":null,"inverse_code":"HAS_PARTICIPANT","is_symmetric":0,"label_en":"participated in","label_zh":"参与事件"}
+{"category":"ASSOCIATION","code":"PROTECTED","description":null,"inverse_code":"PROTECTED_BY","is_symmetric":0,"label_en":"protected","label_zh":"保护"}
+{"category":"ASSOCIATION","code":"PROTECTED_BY","description":null,"inverse_code":"PROTECTED","is_symmetric":0,"label_en":"protected by","label_zh":"受……保护"}
+{"category":"SYMBOL","code":"REPRESENTED_BY","description":null,"inverse_code":"REPRESENTS","is_symmetric":0,"label_en":"represented by","label_zh":"被……象征"}
+{"category":"SYMBOL","code":"REPRESENTS","description":null,"inverse_code":"REPRESENTED_BY","is_symmetric":0,"label_en":"represents","label_zh":"代表／象征"}
+{"category":"PLACE","code":"RULED_BY","description":null,"inverse_code":"RULES","is_symmetric":0,"label_en":"ruled by","label_zh":"由……统治"}
+{"category":"PLACE","code":"RULES","description":null,"inverse_code":"RULED_BY","is_symmetric":0,"label_en":"rules","label_zh":"统治"}
+{"category":"KINSHIP","code":"SIBLING_OF","description":null,"inverse_code":"SIBLING_OF","is_symmetric":1,"label_en":"sibling of","label_zh":"兄弟姐妹"}
+{"category":"CULT","code":"SITE_OF_WORSHIP_FOR","description":null,"inverse_code":"WORSHIPPED_AT","is_symmetric":0,"label_en":"site of worship for","label_zh":"崇拜地点"}
+{"category":"POSSESSION","code":"USED_BY","description":null,"inverse_code":"USES","is_symmetric":0,"label_en":"used by","label_zh":"被……使用"}
+{"category":"POSSESSION","code":"USES","description":null,"inverse_code":"USED_BY","is_symmetric":0,"label_en":"uses","label_zh":"使用"}
+{"category":"IDENTITY","code":"VARIANT_OF","description":null,"inverse_code":"HAS_VARIANT","is_symmetric":0,"label_en":"variant of","label_zh":"变体"}
+{"category":"EVIDENCE","code":"WITNESS_OF","description":null,"inverse_code":"ATTESTED_BY","is_symmetric":0,"label_en":"witness of","label_zh":"文本／物证见证"}
+{"category":"CULT","code":"WORSHIPPED_AT","description":null,"inverse_code":"SITE_OF_WORSHIP_FOR","is_symmetric":0,"label_en":"worshipped at","label_zh":"崇拜于"}

@@ -1,0 +1,532 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns">
+  <key id="name" for="node" attr.name="name" attr.type="string"/>
+  <key id="type" for="node" attr.name="type" attr.type="string"/>
+  <key id="relation" for="edge" attr.name="relation" attr.type="string"/>
+  <graph id="world_mythology" edgedefault="directed">
+    <node id="artifact.babylonian.marduk_net"><data key="name">Net of Marduk</data><data key="type">ARTIFACT</data></node>
+    <node id="artifact.chinese.huntian_ling"><data key="name">Huntian Ling</data><data key="type">ARTIFACT</data></node>
+    <node id="artifact.chinese.qiankun_quan"><data key="name">Qiankun Quan</data><data key="type">ARTIFACT</data></node>
+    <node id="artifact.egyptian.solar_barque"><data key="name">Solar barque</data><data key="type">SHIP</data></node>
+    <node id="artifact.greek.aegis"><data key="name">Aegis</data><data key="type">ARTIFACT</data></node>
+    <node id="artifact.greek.caduceus"><data key="name">Caduceus</data><data key="type">SCEPTER</data></node>
+    <node id="artifact.greek.helm_hades"><data key="name">Helm of Hades</data><data key="type">ARMOR</data></node>
+    <node id="artifact.mesopotamian.tablet_destinies"><data key="name">Tablet of Destinies</data><data key="type">ARTIFACT</data></node>
+    <node id="artifact.norse.draupnir"><data key="name">Draupnir</data><data key="type">RING</data></node>
+    <node id="artifact.norse.gleipnir"><data key="name">Gleipnir</data><data key="type">ARTIFACT</data></node>
+    <node id="being.chinese.pangu"><data key="name">Pangu</data><data key="type">GIANT</data></node>
+    <node id="being.norse.bestla"><data key="name">Bestla</data><data key="type">GIANT</data></node>
+    <node id="being.norse.brokkr"><data key="name">Brokkr</data><data key="type">DWARF</data></node>
+    <node id="being.norse.eitri"><data key="name">Eitri</data><data key="type">DWARF</data></node>
+    <node id="being.norse.mimir"><data key="name">Mímir</data><data key="type">CREATURE</data></node>
+    <node id="being.norse.sindri"><data key="name">Sindri</data><data key="type">DWARF</data></node>
+    <node id="being.norse.sons_of_ivaldi"><data key="name">Sons of Ivaldi</data><data key="type">CREATURE</data></node>
+    <node id="being.norse.ymir"><data key="name">Ymir</data><data key="type">GIANT</data></node>
+    <node id="being.zoroastrian.angra_mainyu"><data key="name">Angra Mainyu</data><data key="type">DEITY</data></node>
+    <node id="concept.chinese.wuxing"><data key="name">Wuxing</data><data key="type">CONCEPT</data></node>
+    <node id="concept.chinese.wuxing.huo"><data key="name">Huo (wuxing)</data><data key="type">ELEMENT</data></node>
+    <node id="concept.chinese.wuxing.jin"><data key="name">Jin (wuxing)</data><data key="type">ELEMENT</data></node>
+    <node id="concept.chinese.wuxing.mu"><data key="name">Mu (wuxing)</data><data key="type">ELEMENT</data></node>
+    <node id="concept.chinese.wuxing.shui"><data key="name">Shui (wuxing)</data><data key="type">ELEMENT</data></node>
+    <node id="concept.chinese.wuxing.tu"><data key="name">Tu (wuxing)</data><data key="type">ELEMENT</data></node>
+    <node id="concept.comparative.agriculture"><data key="name">Agriculture</data><data key="type">CONCEPT</data></node>
+    <node id="concept.comparative.air"><data key="name">Air / Breath</data><data key="type">ELEMENT</data></node>
+    <node id="concept.comparative.chaos"><data key="name">Chaos</data><data key="type">CONCEPT</data></node>
+    <node id="concept.comparative.creation"><data key="name">Creation</data><data key="type">CONCEPT</data></node>
+    <node id="concept.comparative.darkness"><data key="name">Darkness</data><data key="type">ELEMENT</data></node>
+    <node id="concept.comparative.death"><data key="name">Death</data><data key="type">CONCEPT</data></node>
+    <node id="concept.comparative.desire"><data key="name">Desire</data><data key="type">CONCEPT</data></node>
+    <node id="concept.comparative.destruction"><data key="name">Destruction</data><data key="type">CONCEPT</data></node>
+    <node id="concept.comparative.disease"><data key="name">Disease</data><data key="type">POWER</data></node>
+    <node id="concept.comparative.dream"><data key="name">Dream</data><data key="type">CONCEPT</data></node>
+    <node id="concept.comparative.earth"><data key="name">Earth</data><data key="type">ELEMENT</data></node>
+    <node id="concept.comparative.fate"><data key="name">Fate</data><data key="type">CONCEPT</data></node>
+    <node id="concept.comparative.fertility"><data key="name">Fertility</data><data key="type">POWER</data></node>
+    <node id="concept.comparative.fire"><data key="name">Fire</data><data key="type">ELEMENT</data></node>
+    <node id="concept.comparative.healing"><data key="name">Healing</data><data key="type">POWER</data></node>
+    <node id="concept.comparative.hunting"><data key="name">Hunting</data><data key="type">CONCEPT</data></node>
+    <node id="concept.comparative.ice"><data key="name">Ice</data><data key="type">ELEMENT</data></node>
+    <node id="concept.comparative.justice"><data key="name">Justice</data><data key="type">CONCEPT</data></node>
+    <node id="concept.comparative.kingship"><data key="name">Kingship</data><data key="type">CONCEPT</data></node>
+    <node id="concept.comparative.knowledge"><data key="name">Knowledge</data><data key="type">CONCEPT</data></node>
+    <node id="concept.comparative.life"><data key="name">Life</data><data key="type">CONCEPT</data></node>
+    <node id="concept.comparative.light"><data key="name">Light</data><data key="type">ELEMENT</data></node>
+    <node id="concept.comparative.lightning"><data key="name">Lightning</data><data key="type">POWER</data></node>
+    <node id="concept.comparative.love"><data key="name">Love</data><data key="type">CONCEPT</data></node>
+    <node id="concept.comparative.magic"><data key="name">Magic</data><data key="type">POWER</data></node>
+    <node id="concept.comparative.memory"><data key="name">Memory</data><data key="type">CONCEPT</data></node>
+    <node id="concept.comparative.metal"><data key="name">Metal</data><data key="type">ELEMENT</data></node>
+    <node id="concept.comparative.moon"><data key="name">Moon</data><data key="type">ELEMENT</data></node>
+    <node id="concept.comparative.music"><data key="name">Music</data><data key="type">CONCEPT</data></node>
+    <node id="concept.comparative.navigation"><data key="name">Navigation</data><data key="type">CONCEPT</data></node>
+    <node id="concept.comparative.ocean"><data key="name">Ocean</data><data key="type">ELEMENT</data></node>
+    <node id="concept.comparative.order"><data key="name">Order</data><data key="type">CONCEPT</data></node>
+    <node id="concept.comparative.poetry"><data key="name">Poetry</data><data key="type">CONCEPT</data></node>
+    <node id="concept.comparative.rebirth"><data key="name">Rebirth</data><data key="type">CONCEPT</data></node>
+    <node id="concept.comparative.river"><data key="name">River</data><data key="type">ELEMENT</data></node>
+    <node id="concept.comparative.sky"><data key="name">Sky</data><data key="type">ELEMENT</data></node>
+    <node id="concept.comparative.snow"><data key="name">Snow</data><data key="type">ELEMENT</data></node>
+    <node id="concept.comparative.soul"><data key="name">Soul</data><data key="type">CONCEPT</data></node>
+    <node id="concept.comparative.stars"><data key="name">Stars</data><data key="type">ELEMENT</data></node>
+    <node id="concept.comparative.storm"><data key="name">Storm</data><data key="type">POWER</data></node>
+    <node id="concept.comparative.sun"><data key="name">Sun</data><data key="type">ELEMENT</data></node>
+    <node id="concept.comparative.thunder"><data key="name">Thunder</data><data key="type">POWER</data></node>
+    <node id="concept.comparative.time"><data key="name">Time</data><data key="type">CONCEPT</data></node>
+    <node id="concept.comparative.war"><data key="name">War</data><data key="type">CONCEPT</data></node>
+    <node id="concept.comparative.water"><data key="name">Water</data><data key="type">ELEMENT</data></node>
+    <node id="concept.comparative.wind"><data key="name">Wind</data><data key="type">ELEMENT</data></node>
+    <node id="concept.comparative.wisdom"><data key="name">Wisdom</data><data key="type">CONCEPT</data></node>
+    <node id="concept.comparative.wood"><data key="name">Wood</data><data key="type">ELEMENT</data></node>
+    <node id="concept.egyptian.isfet"><data key="name">Isfet</data><data key="type">CONCEPT</data></node>
+    <node id="concept.egyptian.ma_at"><data key="name">Ma'at as order</data><data key="type">CONCEPT</data></node>
+    <node id="concept.greek.classical_elements"><data key="name">Classical Greek element traditions</data><data key="type">CONCEPT</data></node>
+    <node id="concept.indian.pancamahabhuta"><data key="name">Pañcamahābhūta</data><data key="type">CONCEPT</data></node>
+    <node id="concept.norse.fire_ice_cosmogony"><data key="name">Norse fire-and-ice cosmogonic contrast</data><data key="type">COSMOLOGY</data></node>
+    <node id="concept.zoroastrian.asha"><data key="name">Asha</data><data key="type">CONCEPT</data></node>
+    <node id="concept.zoroastrian.druj"><data key="name">Druj</data><data key="type">CONCEPT</data></node>
+    <node id="creature.greek.cyclopes_hesiodic"><data key="name">Hesiodic Cyclopes</data><data key="type">GIANT</data></node>
+    <node id="creature.greek.typhon"><data key="name">Typhon</data><data key="type">MONSTER</data></node>
+    <node id="creature.norse.fenrir"><data key="name">Fenrir</data><data key="type">MONSTER</data></node>
+    <node id="creature.norse.gullinbursti"><data key="name">Gullinbursti</data><data key="type">DIVINE_BEAST</data></node>
+    <node id="creature.norse.jormungandr"><data key="name">Jörmungandr</data><data key="type">DRAGON</data></node>
+    <node id="deity.akkadian.ishtar"><data key="name">Ishtar</data><data key="type">DEITY</data></node>
+    <node id="deity.assyrian.ashur"><data key="name">Ashur</data><data key="type">DEITY</data></node>
+    <node id="deity.babylonian.marduk"><data key="name">Marduk</data><data key="type">DEITY</data></node>
+    <node id="deity.babylonian.tiamat"><data key="name">Tiamat</data><data key="type">PRIMORDIAL_DEITY</data></node>
+    <node id="deity.chinese.fu_xi"><data key="name">Fuxi</data><data key="type">DEITY</data></node>
+    <node id="deity.chinese.nezha"><data key="name">Nezha</data><data key="type">DEITY</data></node>
+    <node id="deity.chinese.nu_wa"><data key="name">Nüwa</data><data key="type">DEITY</data></node>
+    <node id="deity.egyptian.amun"><data key="name">Amun</data><data key="type">DEITY</data></node>
+    <node id="deity.egyptian.anubis"><data key="name">Anubis</data><data key="type">DEITY</data></node>
+    <node id="deity.egyptian.atum"><data key="name">Atum</data><data key="type">PRIMORDIAL_DEITY</data></node>
+    <node id="deity.egyptian.geb"><data key="name">Geb</data><data key="type">DEITY</data></node>
+    <node id="deity.egyptian.hathor"><data key="name">Hathor</data><data key="type">DEITY</data></node>
+    <node id="deity.egyptian.horus"><data key="name">Horus</data><data key="type">DEITY</data></node>
+    <node id="deity.egyptian.isis"><data key="name">Isis</data><data key="type">DEITY</data></node>
+    <node id="deity.egyptian.ma_at"><data key="name">Ma'at</data><data key="type">DEITY</data></node>
+    <node id="deity.egyptian.nephthys"><data key="name">Nephthys</data><data key="type">DEITY</data></node>
+    <node id="deity.egyptian.nut"><data key="name">Nut</data><data key="type">DEITY</data></node>
+    <node id="deity.egyptian.osiris"><data key="name">Osiris</data><data key="type">DEITY</data></node>
+    <node id="deity.egyptian.ptah"><data key="name">Ptah</data><data key="type">DEITY</data></node>
+    <node id="deity.egyptian.ra"><data key="name">Ra</data><data key="type">DEITY</data></node>
+    <node id="deity.egyptian.sekhmet"><data key="name">Sekhmet</data><data key="type">DEITY</data></node>
+    <node id="deity.egyptian.seth"><data key="name">Seth</data><data key="type">DEITY</data></node>
+    <node id="deity.egyptian.shu"><data key="name">Shu</data><data key="type">DEITY</data></node>
+    <node id="deity.egyptian.tefnut"><data key="name">Tefnut</data><data key="type">DEITY</data></node>
+    <node id="deity.egyptian.thoth"><data key="name">Thoth</data><data key="type">DEITY</data></node>
+    <node id="deity.greek.aphrodite"><data key="name">Aphrodite</data><data key="type">DEITY</data></node>
+    <node id="deity.greek.apollo"><data key="name">Apollo</data><data key="type">DEITY</data></node>
+    <node id="deity.greek.ares"><data key="name">Ares</data><data key="type">DEITY</data></node>
+    <node id="deity.greek.artemis"><data key="name">Artemis</data><data key="type">DEITY</data></node>
+    <node id="deity.greek.athena"><data key="name">Athena</data><data key="type">DEITY</data></node>
+    <node id="deity.greek.cronus"><data key="name">Cronus</data><data key="type">DEITY</data></node>
+    <node id="deity.greek.demeter"><data key="name">Demeter</data><data key="type">DEITY</data></node>
+    <node id="deity.greek.dionysus"><data key="name">Dionysus</data><data key="type">DEITY</data></node>
+    <node id="deity.greek.gaia"><data key="name">Gaia</data><data key="type">PRIMORDIAL_DEITY</data></node>
+    <node id="deity.greek.hades"><data key="name">Hades</data><data key="type">DEITY</data></node>
+    <node id="deity.greek.hephaestus"><data key="name">Hephaestus</data><data key="type">DEITY</data></node>
+    <node id="deity.greek.hera"><data key="name">Hera</data><data key="type">DEITY</data></node>
+    <node id="deity.greek.hermes"><data key="name">Hermes</data><data key="type">DEITY</data></node>
+    <node id="deity.greek.metis"><data key="name">Metis</data><data key="type">DEITY</data></node>
+    <node id="deity.greek.poseidon"><data key="name">Poseidon</data><data key="type">DEITY</data></node>
+    <node id="deity.greek.rhea"><data key="name">Rhea</data><data key="type">DEITY</data></node>
+    <node id="deity.greek.uranus"><data key="name">Uranus</data><data key="type">PRIMORDIAL_DEITY</data></node>
+    <node id="deity.greek.zeus"><data key="name">Zeus</data><data key="type">DEITY</data></node>
+    <node id="deity.hawaiian.pele"><data key="name">Pele</data><data key="type">DEITY</data></node>
+    <node id="deity.hindu.brahma"><data key="name">Brahma</data><data key="type">DEITY</data></node>
+    <node id="deity.hindu.shiva"><data key="name">Shiva</data><data key="type">DEITY</data></node>
+    <node id="deity.hindu.vishnu"><data key="name">Vishnu</data><data key="type">DEITY</data></node>
+    <node id="deity.irish.bridig"><data key="name">Brigid</data><data key="type">DEITY</data></node>
+    <node id="deity.irish.dagda"><data key="name">The Dagda</data><data key="type">DEITY</data></node>
+    <node id="deity.irish.lugh"><data key="name">Lugh</data><data key="type">DEITY</data></node>
+    <node id="deity.irish.morrigan"><data key="name">The Morrígan</data><data key="type">DEITY</data></node>
+    <node id="deity.japanese.amaterasu"><data key="name">Amaterasu</data><data key="type">DEITY</data></node>
+    <node id="deity.japanese.izanagi"><data key="name">Izanagi</data><data key="type">DEITY</data></node>
+    <node id="deity.japanese.izanami"><data key="name">Izanami</data><data key="type">DEITY</data></node>
+    <node id="deity.japanese.susanoo"><data key="name">Susanoo</data><data key="type">DEITY</data></node>
+    <node id="deity.japanese.tsukuyomi"><data key="name">Tsukuyomi</data><data key="type">DEITY</data></node>
+    <node id="deity.maori.papatuanuku"><data key="name">Papatūānuku</data><data key="type">PRIMORDIAL_DEITY</data></node>
+    <node id="deity.maori.ranginui"><data key="name">Ranginui</data><data key="type">PRIMORDIAL_DEITY</data></node>
+    <node id="deity.maya.chaac"><data key="name">Chaac</data><data key="type">DEITY</data></node>
+    <node id="deity.maya.itzamna"><data key="name">Itzamna</data><data key="type">DEITY</data></node>
+    <node id="deity.maya.kukulkan"><data key="name">Kukulkan</data><data key="type">DEITY</data></node>
+    <node id="deity.mexica.huitzilopochtli"><data key="name">Huitzilopochtli</data><data key="type">DEITY</data></node>
+    <node id="deity.mexica.quetzalcoatl"><data key="name">Quetzalcoatl</data><data key="type">DEITY</data></node>
+    <node id="deity.mexica.tezcatlipoca"><data key="name">Tezcatlipoca</data><data key="type">DEITY</data></node>
+    <node id="deity.mexica.tlaloc"><data key="name">Tlaloc</data><data key="type">DEITY</data></node>
+    <node id="deity.norse.baldr"><data key="name">Baldr</data><data key="type">DEITY</data></node>
+    <node id="deity.norse.borr"><data key="name">Borr</data><data key="type">DEITY</data></node>
+    <node id="deity.norse.buri"><data key="name">Búri</data><data key="type">ANCESTOR_DEITY</data></node>
+    <node id="deity.norse.freyja"><data key="name">Freyja</data><data key="type">DEITY</data></node>
+    <node id="deity.norse.freyr"><data key="name">Freyr</data><data key="type">DEITY</data></node>
+    <node id="deity.norse.frigg"><data key="name">Frigg</data><data key="type">DEITY</data></node>
+    <node id="deity.norse.heimdall"><data key="name">Heimdallr</data><data key="type">DEITY</data></node>
+    <node id="deity.norse.hel"><data key="name">Hel</data><data key="type">DEITY</data></node>
+    <node id="deity.norse.loki"><data key="name">Loki</data><data key="type">DEITY</data></node>
+    <node id="deity.norse.njord"><data key="name">Njörðr</data><data key="type">DEITY</data></node>
+    <node id="deity.norse.odin"><data key="name">Odin</data><data key="type">DEITY</data></node>
+    <node id="deity.norse.thor"><data key="name">Thor</data><data key="type">DEITY</data></node>
+    <node id="deity.norse.tyr"><data key="name">Týr</data><data key="type">DEITY</data></node>
+    <node id="deity.norse.ve"><data key="name">Vé</data><data key="type">DEITY</data></node>
+    <node id="deity.norse.vili"><data key="name">Vili</data><data key="type">DEITY</data></node>
+    <node id="deity.polynesian.tane"><data key="name">Tāne</data><data key="type">DEITY</data></node>
+    <node id="deity.polynesian.tangaroa"><data key="name">Tangaroa</data><data key="type">DEITY</data></node>
+    <node id="deity.slavic.mokosh"><data key="name">Mokosh</data><data key="type">DEITY</data></node>
+    <node id="deity.slavic.perun"><data key="name">Perun</data><data key="type">DEITY</data></node>
+    <node id="deity.slavic.veles"><data key="name">Veles</data><data key="type">DEITY</data></node>
+    <node id="deity.sumerian.an"><data key="name">An</data><data key="type">DEITY</data></node>
+    <node id="deity.sumerian.enki"><data key="name">Enki</data><data key="type">DEITY</data></node>
+    <node id="deity.sumerian.enlil"><data key="name">Enlil</data><data key="type">DEITY</data></node>
+    <node id="deity.sumerian.ereshkigal"><data key="name">Ereshkigal</data><data key="type">DEITY</data></node>
+    <node id="deity.sumerian.inanna"><data key="name">Inanna</data><data key="type">DEITY</data></node>
+    <node id="deity.sumerian.nanna"><data key="name">Nanna</data><data key="type">DEITY</data></node>
+    <node id="deity.sumerian.ninhursag"><data key="name">Ninhursag</data><data key="type">DEITY</data></node>
+    <node id="deity.sumerian.utu"><data key="name">Utu</data><data key="type">DEITY</data></node>
+    <node id="deity.ugaritic.anat"><data key="name">Anat</data><data key="type">DEITY</data></node>
+    <node id="deity.ugaritic.asherah"><data key="name">Athirat / Asherah</data><data key="type">DEITY</data></node>
+    <node id="deity.ugaritic.baal"><data key="name">Baal of Ugarit</data><data key="type">DEITY</data></node>
+    <node id="deity.ugaritic.el"><data key="name">El of Ugarit</data><data key="type">DEITY</data></node>
+    <node id="deity.ugaritic.mot"><data key="name">Mot</data><data key="type">DEITY</data></node>
+    <node id="deity.ugaritic.yam"><data key="name">Yam</data><data key="type">DEITY</data></node>
+    <node id="deity.vedic.indra"><data key="name">Indra</data><data key="type">DEITY</data></node>
+    <node id="deity.yoruba.ogun"><data key="name">Ogun</data><data key="type">DEITY</data></node>
+    <node id="deity.yoruba.olodumare"><data key="name">Olodumare</data><data key="type">DEITY</data></node>
+    <node id="deity.yoruba.orunmila"><data key="name">Orunmila</data><data key="type">DEITY</data></node>
+    <node id="deity.yoruba.oshun"><data key="name">Oshun</data><data key="type">DEITY</data></node>
+    <node id="deity.yoruba.shango"><data key="name">Shango</data><data key="type">DEITY</data></node>
+    <node id="deity.zoroastrian.ahura_mazda"><data key="name">Ahura Mazda</data><data key="type">DEITY</data></node>
+    <node id="deity.zoroastrian.mithra"><data key="name">Mithra</data><data key="type">DEITY</data></node>
+    <node id="element.chinese.huo"><data key="name">Huo (Wuxing)</data><data key="type">ELEMENT</data></node>
+    <node id="element.chinese.jin"><data key="name">Jin (Wuxing)</data><data key="type">ELEMENT</data></node>
+    <node id="element.chinese.mu"><data key="name">Mu (Wuxing)</data><data key="type">ELEMENT</data></node>
+    <node id="element.chinese.shui"><data key="name">Shui (Wuxing)</data><data key="type">ELEMENT</data></node>
+    <node id="element.chinese.tu"><data key="name">Tu (Wuxing)</data><data key="type">ELEMENT</data></node>
+    <node id="element.indian.agni"><data key="name">Agni</data><data key="type">ELEMENT</data></node>
+    <node id="element.indian.akasha"><data key="name">Ākāśa</data><data key="type">ELEMENT</data></node>
+    <node id="element.indian.ap"><data key="name">Āpas</data><data key="type">ELEMENT</data></node>
+    <node id="element.indian.prithvi"><data key="name">Pṛthvī</data><data key="type">ELEMENT</data></node>
+    <node id="element.indian.vayu"><data key="name">Vāyu</data><data key="type">ELEMENT</data></node>
+    <node id="event.babylonian.marduk_tiamat"><data key="name">Combat of Marduk and Tiamat</data><data key="type">EVENT</data></node>
+    <node id="event.greek.titanomachy"><data key="name">Titanomachy</data><data key="type">EVENT</data></node>
+    <node id="event.greek.zeus_typhon_battle"><data key="name">Battle of Zeus and Typhon</data><data key="type">EVENT</data></node>
+    <node id="event.norse.forging_divine_treasures"><data key="name">Forging of the divine treasures</data><data key="type">EVENT</data></node>
+    <node id="event.norse.ragnarok"><data key="name">Ragnarök</data><data key="type">EVENT</data></node>
+    <node id="event.sumerian.inanna_descent"><data key="name">Descent of Inanna</data><data key="type">EVENT</data></node>
+    <node id="hero.chinese.sun_wukong"><data key="name">Sun Wukong</data><data key="type">HERO</data></node>
+    <node id="hero.chinese.yellow_emperor"><data key="name">Yellow Emperor</data><data key="type">HERO</data></node>
+    <node id="hero.indian.arjuna"><data key="name">Arjuna</data><data key="type">HERO</data></node>
+    <node id="hero.irish.cu_chulainn"><data key="name">Cú Chulainn</data><data key="type">HERO</data></node>
+    <node id="hero.irish.fergus_mac_roich"><data key="name">Fergus mac Róich</data><data key="type">HERO</data></node>
+    <node id="hero.japanese.yamato_takeru"><data key="name">Yamato Takeru</data><data key="type">HERO</data></node>
+    <node id="hero.kiche.hunahpu"><data key="name">Hunahpu</data><data key="type">HERO</data></node>
+    <node id="hero.kiche.xbalanque"><data key="name">Xbalanque</data><data key="type">HERO</data></node>
+    <node id="hero.polynesian.maui"><data key="name">Māui</data><data key="type">HERO</data></node>
+    <node id="institution.british_museum"><data key="name">British Museum</data><data key="type">INSTITUTION</data></node>
+    <node id="institution.louvre"><data key="name">Musée du Louvre</data><data key="type">INSTITUTION</data></node>
+    <node id="institution.met"><data key="name">Metropolitan Museum of Art</data><data key="type">INSTITUTION</data></node>
+    <node id="institution.swedish_history_museum"><data key="name">Swedish History Museum</data><data key="type">INSTITUTION</data></node>
+    <node id="museum.babylon.flood_tablet_k3375"><data key="name">Flood Tablet K.3375</data><data key="type">MUSEUM_OBJECT</data></node>
+    <node id="museum.egypt.papyrus_ani_frame3"><data key="name">Papyrus of Ani, frame 3</data><data key="type">MUSEUM_OBJECT</data></node>
+    <node id="museum.greek.zeus_poseidon_met_21_88_52"><data key="name">Bronze statuette: Zeus or Poseidon</data><data key="type">MUSEUM_OBJECT</data></node>
+    <node id="museum.norse.mjolnir_rings"><data key="name">Thor's hammer rings collection entry</data><data key="type">MUSEUM_OBJECT</data></node>
+    <node id="museum.ugarit.baal_cycle_ao16643"><data key="name">Baal Cycle tablet AO 16643</data><data key="type">MUSEUM_OBJECT</data></node>
+    <node id="museum.ugarit.baal_thunder_ao15775"><data key="name">Baal with Thunderbolt stele AO 15775</data><data key="type">MUSEUM_OBJECT</data></node>
+    <node id="place.norse.mimisbrunnr"><data key="name">Mímisbrunnr</data><data key="type">MYTHICAL_PLACE</data></node>
+    <node id="realm.egypt.duat"><data key="name">Duat</data><data key="type">REALM</data></node>
+    <node id="realm.greek.tartarus"><data key="name">Tartarus</data><data key="type">REALM</data></node>
+    <node id="realm.norse.valhalla"><data key="name">Valhalla</data><data key="type">REALM</data></node>
+    <node id="realm.sumerian.kur"><data key="name">Sumerian netherworld</data><data key="type">REALM</data></node>
+    <node id="site.bolivia.tiwanaku"><data key="name">Tiwanaku</data><data key="type">ARCHAEOLOGICAL_SITE</data></node>
+    <node id="site.cambodia.angkor"><data key="name">Angkor</data><data key="type">ARCHAEOLOGICAL_SITE</data></node>
+    <node id="site.celtic.groves_scope"><data key="name">Sacred groves research scope</data><data key="type">PLACE</data></node>
+    <node id="site.celtic.hillforts_scope"><data key="name">Celtic hillforts research scope</data><data key="type">ARCHAEOLOGICAL_SITE</data></node>
+    <node id="site.chile.rapa_nui"><data key="name">Rapa Nui</data><data key="type">MONUMENT</data></node>
+    <node id="site.china.kunlun_scope"><data key="name">Kunlun-related cultural locations</data><data key="type">PLACE</data></node>
+    <node id="site.china.ritual_sites_scope"><data key="name">Ancient Chinese ritual sites research scope</data><data key="type">ARCHAEOLOGICAL_SITE</data></node>
+    <node id="site.china.taishan"><data key="name">Mount Taishan</data><data key="type">PLACE</data></node>
+    <node id="site.denmark.hedeby"><data key="name">Hedeby</data><data key="type">ARCHAEOLOGICAL_SITE</data></node>
+    <node id="site.egypt.abu_simbel"><data key="name">Abu Simbel</data><data key="type">TEMPLE</data></node>
+    <node id="site.egypt.abydos"><data key="name">Abydos</data><data key="type">ARCHAEOLOGICAL_SITE</data></node>
+    <node id="site.egypt.dahshur"><data key="name">Dahshur</data><data key="type">PYRAMID</data></node>
+    <node id="site.egypt.dendera"><data key="name">Dendera Temple Complex</data><data key="type">TEMPLE</data></node>
+    <node id="site.egypt.edfu"><data key="name">Temple of Edfu</data><data key="type">TEMPLE</data></node>
+    <node id="site.egypt.giza"><data key="name">Giza pyramid fields</data><data key="type">PYRAMID</data></node>
+    <node id="site.egypt.karnak"><data key="name">Karnak</data><data key="type">TEMPLE</data></node>
+    <node id="site.egypt.luxor_temple"><data key="name">Luxor Temple</data><data key="type">TEMPLE</data></node>
+    <node id="site.egypt.philae"><data key="name">Philae</data><data key="type">TEMPLE</data></node>
+    <node id="site.egypt.saqqara"><data key="name">Saqqara</data><data key="type">ARCHAEOLOGICAL_SITE</data></node>
+    <node id="site.egypt.valley_kings"><data key="name">Valley of the Kings</data><data key="type">TOMB</data></node>
+    <node id="site.ethiopia.aksum"><data key="name">Aksum</data><data key="type">ARCHAEOLOGICAL_SITE</data></node>
+    <node id="site.ethiopia.lalibela"><data key="name">Rock-Hewn Churches of Lalibela</data><data key="type">MONUMENT</data></node>
+    <node id="site.greece.acropolis"><data key="name">Acropolis of Athens</data><data key="type">ARCHAEOLOGICAL_SITE</data></node>
+    <node id="site.greece.delos"><data key="name">Delos</data><data key="type">ARCHAEOLOGICAL_SITE</data></node>
+    <node id="site.greece.delphi"><data key="name">Delphi</data><data key="type">ARCHAEOLOGICAL_SITE</data></node>
+    <node id="site.greece.dodona"><data key="name">Dodona</data><data key="type">ARCHAEOLOGICAL_SITE</data></node>
+    <node id="site.greece.eleusis"><data key="name">Eleusis</data><data key="type">ARCHAEOLOGICAL_SITE</data></node>
+    <node id="site.greece.epidaurus"><data key="name">Epidaurus</data><data key="type">ARCHAEOLOGICAL_SITE</data></node>
+    <node id="site.greece.knossos"><data key="name">Knossos</data><data key="type">ARCHAEOLOGICAL_SITE</data></node>
+    <node id="site.greece.mycenae"><data key="name">Mycenae</data><data key="type">ARCHAEOLOGICAL_SITE</data></node>
+    <node id="site.greece.olympia"><data key="name">Olympia</data><data key="type">ARCHAEOLOGICAL_SITE</data></node>
+    <node id="site.guatemala.tikal"><data key="name">Tikal</data><data key="type">ARCHAEOLOGICAL_SITE</data></node>
+    <node id="site.iceland.sacred_scope"><data key="name">Icelandic sacred sites research scope</data><data key="type">PLACE</data></node>
+    <node id="site.india.elephanta"><data key="name">Elephanta Caves</data><data key="type">TEMPLE</data></node>
+    <node id="site.india.ellora"><data key="name">Ellora Caves</data><data key="type">TEMPLE</data></node>
+    <node id="site.india.khajuraho"><data key="name">Khajuraho Group of Monuments</data><data key="type">TEMPLE</data></node>
+    <node id="site.india.konark"><data key="name">Sun Temple at Konark</data><data key="type">TEMPLE</data></node>
+    <node id="site.india.varanasi"><data key="name">Varanasi</data><data key="type">PLACE</data></node>
+    <node id="site.indonesia.borobudur"><data key="name">Borobudur</data><data key="type">TEMPLE</data></node>
+    <node id="site.indonesia.prambanan"><data key="name">Prambanan</data><data key="type">TEMPLE</data></node>
+    <node id="site.iraq.ashur"><data key="name">Ashur (Qal'at Sherqat)</data><data key="type">ARCHAEOLOGICAL_SITE</data></node>
+    <node id="site.iraq.babylon"><data key="name">Babylon</data><data key="type">ARCHAEOLOGICAL_SITE</data></node>
+    <node id="site.iraq.eridu"><data key="name">Eridu</data><data key="type">ARCHAEOLOGICAL_SITE</data></node>
+    <node id="site.iraq.nineveh"><data key="name">Nineveh</data><data key="type">ARCHAEOLOGICAL_SITE</data></node>
+    <node id="site.iraq.nippur"><data key="name">Nippur</data><data key="type">ARCHAEOLOGICAL_SITE</data></node>
+    <node id="site.iraq.ur"><data key="name">Ur</data><data key="type">ARCHAEOLOGICAL_SITE</data></node>
+    <node id="site.iraq.uruk"><data key="name">Uruk</data><data key="type">ARCHAEOLOGICAL_SITE</data></node>
+    <node id="site.ireland.newgrange"><data key="name">Newgrange</data><data key="type">TOMB</data></node>
+    <node id="site.italy.pompeii"><data key="name">Pompeii</data><data key="type">ARCHAEOLOGICAL_SITE</data></node>
+    <node id="site.italy.rome"><data key="name">Ancient Rome</data><data key="type">ARCHAEOLOGICAL_SITE</data></node>
+    <node id="site.japan.shrines_scope"><data key="name">Major Japanese shrines research scope</data><data key="type">TEMPLE</data></node>
+    <node id="site.mexico.chichen_itza"><data key="name">Chichen-Itza</data><data key="type">ARCHAEOLOGICAL_SITE</data></node>
+    <node id="site.mexico.monte_alban"><data key="name">Monte Albán</data><data key="type">ARCHAEOLOGICAL_SITE</data></node>
+    <node id="site.mexico.palenque"><data key="name">Palenque</data><data key="type">ARCHAEOLOGICAL_SITE</data></node>
+    <node id="site.mexico.tenochtitlan"><data key="name">Tenochtitlan</data><data key="type">ARCHAEOLOGICAL_SITE</data></node>
+    <node id="site.mexico.teotihuacan"><data key="name">Teotihuacan</data><data key="type">ARCHAEOLOGICAL_SITE</data></node>
+    <node id="site.micronesia.nan_madol"><data key="name">Nan Madol</data><data key="type">ARCHAEOLOGICAL_SITE</data></node>
+    <node id="site.nigeria.benin_city"><data key="name">Benin City historical sites</data><data key="type">ARCHAEOLOGICAL_SITE</data></node>
+    <node id="site.nigeria.ife"><data key="name">Ile-Ife</data><data key="type">ARCHAEOLOGICAL_SITE</data></node>
+    <node id="site.norse.runestones_scope"><data key="name">Norse runestones research scope</data><data key="type">INSCRIPTION</data></node>
+    <node id="site.peru.cusco"><data key="name">Cusco</data><data key="type">ARCHAEOLOGICAL_SITE</data></node>
+    <node id="site.peru.machu_picchu"><data key="name">Machu Picchu</data><data key="type">ARCHAEOLOGICAL_SITE</data></node>
+    <node id="site.peru.nazca"><data key="name">Nazca Lines</data><data key="type">MONUMENT</data></node>
+    <node id="site.polynesia.taputapuatea"><data key="name">Taputapuātea</data><data key="type">ARCHAEOLOGICAL_SITE</data></node>
+    <node id="site.sweden.birka"><data key="name">Birka</data><data key="type">ARCHAEOLOGICAL_SITE</data></node>
+    <node id="site.sweden.uppsala"><data key="name">Old Uppsala</data><data key="type">ARCHAEOLOGICAL_SITE</data></node>
+    <node id="site.syria.mari"><data key="name">Mari</data><data key="type">ARCHAEOLOGICAL_SITE</data></node>
+    <node id="site.syria.ugarit"><data key="name">Ugarit / Ras Shamra</data><data key="type">ARCHAEOLOGICAL_SITE</data></node>
+    <node id="site.tibet.kailash"><data key="name">Mount Kailash</data><data key="type">PLACE</data></node>
+    <node id="site.uk.avebury"><data key="name">Avebury</data><data key="type">MONUMENT</data></node>
+    <node id="site.uk.stonehenge"><data key="name">Stonehenge</data><data key="type">MONUMENT</data></node>
+    <node id="site.zimbabwe.great_zimbabwe"><data key="name">Great Zimbabwe</data><data key="type">ARCHAEOLOGICAL_SITE</data></node>
+    <node id="text.africa.epics"><data key="name">African epic traditions</data><data key="type">ORAL_TRADITION</data></node>
+    <node id="text.akkadian.adapa"><data key="name">Adapa</data><data key="type">TEXT</data></node>
+    <node id="text.akkadian.anzu"><data key="name">Anzu Myth</data><data key="type">TEXT</data></node>
+    <node id="text.akkadian.erra_epic"><data key="name">Erra Epic</data><data key="type">EPIC</data></node>
+    <node id="text.akkadian.etana"><data key="name">Etana</data><data key="type">EPIC</data></node>
+    <node id="text.andean.huarochiri"><data key="name">Huarochirí Manuscript</data><data key="type">MANUSCRIPT</data></node>
+    <node id="text.babylonian.atrahasis"><data key="name">Atrahasis</data><data key="type">EPIC</data></node>
+    <node id="text.babylonian.enuma_elish"><data key="name">Enūma Eliš</data><data key="type">EPIC</data></node>
+    <node id="text.buddhist.corpus"><data key="name">Buddhist textual traditions</data><data key="type">SCRIPTURE</data></node>
+    <node id="text.central_asian.epics"><data key="name">Central Asian epics</data><data key="type">ORAL_TRADITION</data></node>
+    <node id="text.chinese.buddhist_translations"><data key="name">Chinese Buddhist translations</data><data key="type">SCRIPTURE</data></node>
+    <node id="text.chinese.chuci"><data key="name">Chu Ci</data><data key="type">TEXT</data></node>
+    <node id="text.chinese.daoist_corpus"><data key="name">Daoist canonical traditions</data><data key="type">SCRIPTURE</data></node>
+    <node id="text.chinese.fengshen_yanyi"><data key="name">Investiture of the Gods</data><data key="type">TEXT</data></node>
+    <node id="text.chinese.folk_archives"><data key="name">Chinese folk mythology archives</data><data key="type">ORAL_TRADITION</data></node>
+    <node id="text.chinese.han_shu_wuxing_zhi"><data key="name">Han Shu: Wuxing Zhi</data><data key="type">TEXT</data></node>
+    <node id="text.chinese.hong_fan"><data key="name">Hong Fan</data><data key="type">TEXT</data></node>
+    <node id="text.chinese.huainanzi"><data key="name">Huainanzi</data><data key="type">TEXT</data></node>
+    <node id="text.chinese.local_gazetteers"><data key="name">Chinese local gazetteers</data><data key="type">TEXT</data></node>
+    <node id="text.chinese.mutianzizhuan"><data key="name">Tale of King Mu, Son of Heaven</data><data key="type">TEXT</data></node>
+    <node id="text.chinese.shang_shu"><data key="name">Shang Shu</data><data key="type">TEXT</data></node>
+    <node id="text.chinese.shangshu"><data key="name">Shangshu-related traditions</data><data key="type">TEXT</data></node>
+    <node id="text.chinese.shanhaijing"><data key="name">Classic of Mountains and Seas</data><data key="type">TEXT</data></node>
+    <node id="text.chinese.shiji_ancient"><data key="name">Ancient-history traditions in Shiji</data><data key="type">TEXT</data></node>
+    <node id="text.chinese.soushenji"><data key="name">Soushen Ji</data><data key="type">TEXT</data></node>
+    <node id="text.chinese.tianwen"><data key="name">Heavenly Questions</data><data key="type">TEXT</data></node>
+    <node id="text.chinese.xiyouji"><data key="name">Journey to the West</data><data key="type">TEXT</data></node>
+    <node id="text.egypt.amduat"><data key="name">Amduat</data><data key="type">TEXT</data></node>
+    <node id="text.egypt.book_caverns"><data key="name">Book of Caverns</data><data key="type">TEXT</data></node>
+    <node id="text.egypt.book_dead"><data key="name">Book of the Dead</data><data key="type">PAPYRUS</data></node>
+    <node id="text.egypt.book_gates"><data key="name">Book of Gates</data><data key="type">TEXT</data></node>
+    <node id="text.egypt.coffin_texts"><data key="name">Coffin Texts</data><data key="type">INSCRIPTION</data></node>
+    <node id="text.egypt.litany_re"><data key="name">Litany of Re</data><data key="type">TEXT</data></node>
+    <node id="text.egypt.memphite_theology"><data key="name">Memphite Theology</data><data key="type">INSCRIPTION</data></node>
+    <node id="text.egypt.pyramid_texts"><data key="name">Pyramid Texts</data><data key="type">INSCRIPTION</data></node>
+    <node id="text.egypt.temple_tomb_inscriptions"><data key="name">Egyptian temple and tomb inscriptions</data><data key="type">INSCRIPTION</data></node>
+    <node id="text.greek.argonautica"><data key="name">Argonautica</data><data key="type">EPIC</data></node>
+    <node id="text.greek.bibliotheca"><data key="name">Bibliotheca</data><data key="type">TEXT</data></node>
+    <node id="text.greek.homeric_hymns"><data key="name">Homeric Hymns</data><data key="type">TEXT</data></node>
+    <node id="text.greek.iliad"><data key="name">Iliad</data><data key="type">EPIC</data></node>
+    <node id="text.greek.inscriptions"><data key="name">Ancient Greek religious inscriptions</data><data key="type">INSCRIPTION</data></node>
+    <node id="text.greek.odyssey"><data key="name">Odyssey</data><data key="type">EPIC</data></node>
+    <node id="text.greek.orphic_hymns"><data key="name">Orphic Hymns</data><data key="type">TEXT</data></node>
+    <node id="text.greek.theogony"><data key="name">Theogony</data><data key="type">EPIC</data></node>
+    <node id="text.greek.tragedies"><data key="name">Ancient Greek tragedies</data><data key="type">TEXT</data></node>
+    <node id="text.greek.works_days"><data key="name">Works and Days</data><data key="type">EPIC</data></node>
+    <node id="text.hawaiian.kumulipo"><data key="name">Kumulipo</data><data key="type">ORAL_TRADITION</data></node>
+    <node id="text.hindu.puranas"><data key="name">Purāṇas</data><data key="type">SCRIPTURE</data></node>
+    <node id="text.hindu.upanishads"><data key="name">Upanishads</data><data key="type">SCRIPTURE</data></node>
+    <node id="text.indian.bhagavad_gita"><data key="name">Bhagavad Gītā</data><data key="type">SCRIPTURE</data></node>
+    <node id="text.indian.mahabharata"><data key="name">Mahābhārata</data><data key="type">EPIC</data></node>
+    <node id="text.indian.ramayana"><data key="name">Rāmāyaṇa</data><data key="type">EPIC</data></node>
+    <node id="text.indian.regional_epics"><data key="name">Indian regional epics and oral traditions</data><data key="type">ORAL_TRADITION</data></node>
+    <node id="text.jain.corpus"><data key="name">Jain textual traditions</data><data key="type">SCRIPTURE</data></node>
+    <node id="text.japanese.fudoki"><data key="name">Fudoki</data><data key="type">TEXT</data></node>
+    <node id="text.japanese.kojiki"><data key="name">Kojiki</data><data key="type">TEXT</data></node>
+    <node id="text.japanese.local_legends"><data key="name">Japanese local legends</data><data key="type">ORAL_TRADITION</data></node>
+    <node id="text.japanese.manyoshu"><data key="name">Man'yōshū mythic materials</data><data key="type">TEXT</data></node>
+    <node id="text.japanese.nihon_shoki"><data key="name">Nihon Shoki</data><data key="type">TEXT</data></node>
+    <node id="text.japanese.shrine_engisho"><data key="name">Shrine origin narratives</data><data key="type">TEXT</data></node>
+    <node id="text.kiche.popol_vuh"><data key="name">Popol Vuh</data><data key="type">MANUSCRIPT</data></node>
+    <node id="text.maori.creation_traditions"><data key="name">Māori creation traditions</data><data key="type">ORAL_TRADITION</data></node>
+    <node id="text.maya.dresden_codex"><data key="name">Dresden Maya Codex</data><data key="type">MANUSCRIPT</data></node>
+    <node id="text.maya.madrid_codex"><data key="name">Madrid Maya Codex</data><data key="type">MANUSCRIPT</data></node>
+    <node id="text.maya.paris_codex"><data key="name">Paris Maya Codex</data><data key="type">MANUSCRIPT</data></node>
+    <node id="text.mesoamerica.codex_borgia"><data key="name">Codex Borgia</data><data key="type">MANUSCRIPT</data></node>
+    <node id="text.mesopotamia.gilgamesh"><data key="name">Epic of Gilgamesh</data><data key="type">EPIC</data></node>
+    <node id="text.mexica.codex_mendoza"><data key="name">Codex Mendoza</data><data key="type">MANUSCRIPT</data></node>
+    <node id="text.mexica.florentine_codex"><data key="name">Florentine Codex</data><data key="type">MANUSCRIPT</data></node>
+    <node id="text.mongol.epics"><data key="name">Mongol epics and oral traditions</data><data key="type">ORAL_TRADITION</data></node>
+    <node id="text.norse.grimnismal"><data key="name">Grímnismál</data><data key="type">TEXT</data></node>
+    <node id="text.norse.gylfaginning"><data key="name">Gylfaginning</data><data key="type">TEXT</data></node>
+    <node id="text.norse.havamal"><data key="name">Hávamál</data><data key="type">TEXT</data></node>
+    <node id="text.norse.lokasenna"><data key="name">Lokasenna</data><data key="type">TEXT</data></node>
+    <node id="text.norse.poetic_edda"><data key="name">Poetic Edda</data><data key="type">MANUSCRIPT</data></node>
+    <node id="text.norse.prose_edda"><data key="name">Prose Edda</data><data key="type">TEXT</data></node>
+    <node id="text.norse.runic_corpus"><data key="name">Old Norse runic corpus</data><data key="type">INSCRIPTION</data></node>
+    <node id="text.norse.sagas"><data key="name">Norse sagas collection scope</data><data key="type">TEXT</data></node>
+    <node id="text.norse.skaldskaparmal"><data key="name">Skáldskaparmál</data><data key="type">TEXT</data></node>
+    <node id="text.norse.thrymskvida"><data key="name">Þrymskviða</data><data key="type">TEXT</data></node>
+    <node id="text.norse.vafthrudnismal"><data key="name">Vafþrúðnismál</data><data key="type">TEXT</data></node>
+    <node id="text.norse.voluspa"><data key="name">Völuspá</data><data key="type">TEXT</data></node>
+    <node id="text.persian.shahnameh"><data key="name">Shahnameh</data><data key="type">EPIC</data></node>
+    <node id="text.polynesia.creation_chants"><data key="name">Polynesian creation chants</data><data key="type">ORAL_TRADITION</data></node>
+    <node id="text.roman.aeneid"><data key="name">Aeneid</data><data key="type">EPIC</data></node>
+    <node id="text.roman.metamorphoses"><data key="name">Metamorphoses</data><data key="type">EPIC</data></node>
+    <node id="text.sumerian.enki_ninhursag"><data key="name">Enki and Ninhursag</data><data key="type">TEXT</data></node>
+    <node id="text.sumerian.enki_world_order"><data key="name">Enki and the World Order</data><data key="type">TEXT</data></node>
+    <node id="text.sumerian.inanna_descent"><data key="name">Inanna's Descent</data><data key="type">TEXT</data></node>
+    <node id="text.sumerian.king_list"><data key="name">Sumerian King List</data><data key="type">TEXT</data></node>
+    <node id="text.turkic.inscriptions"><data key="name">Old Turkic inscriptions</data><data key="type">INSCRIPTION</data></node>
+    <node id="text.ugaritic.baal_cycle"><data key="name">Baal Cycle</data><data key="type">TABLET</data></node>
+    <node id="text.vedic.aranyakas"><data key="name">Aranyakas</data><data key="type">SCRIPTURE</data></node>
+    <node id="text.vedic.atharvaveda"><data key="name">Atharvaveda</data><data key="type">SCRIPTURE</data></node>
+    <node id="text.vedic.brahmanas"><data key="name">Brahmanas</data><data key="type">SCRIPTURE</data></node>
+    <node id="text.vedic.rigveda"><data key="name">Rigveda</data><data key="type">SCRIPTURE</data></node>
+    <node id="text.vedic.samaveda"><data key="name">Samaveda</data><data key="type">SCRIPTURE</data></node>
+    <node id="text.vedic.yajurveda"><data key="name">Yajurveda</data><data key="type">SCRIPTURE</data></node>
+    <node id="text.yoruba.ifa_corpus"><data key="name">Ifá corpus</data><data key="type">ORAL_TRADITION</data></node>
+    <node id="text.zoroastrian.avesta"><data key="name">Avesta</data><data key="type">SCRIPTURE</data></node>
+    <node id="text.zoroastrian.bundahishn"><data key="name">Bundahišn</data><data key="type">TEXT</data></node>
+    <node id="text.zoroastrian.denkard"><data key="name">Dēnkard</data><data key="type">TEXT</data></node>
+    <node id="weapon.arthurian.excalibur"><data key="name">Excalibur</data><data key="type">WEAPON</data></node>
+    <node id="weapon.babylonian.marduk_bow"><data key="name">Bow of Marduk</data><data key="type">WEAPON</data></node>
+    <node id="weapon.chinese.ruyi_jingu_bang"><data key="name">Ruyi Jingu Bang</data><data key="type">WEAPON</data></node>
+    <node id="weapon.chinese.xuanyuan_sword"><data key="name">Xuanyuan Sword tradition</data><data key="type">WEAPON</data></node>
+    <node id="weapon.greek.apollo_bow"><data key="name">Bow of Apollo</data><data key="type">WEAPON</data></node>
+    <node id="weapon.greek.artemis_bow"><data key="name">Bow of Artemis</data><data key="type">WEAPON</data></node>
+    <node id="weapon.greek.poseidon_trident"><data key="name">Trident of Poseidon</data><data key="type">WEAPON</data></node>
+    <node id="weapon.greek.zeus_thunderbolt"><data key="name">Thunderbolt of Zeus</data><data key="type">WEAPON</data></node>
+    <node id="weapon.hindu.pashupatastra"><data key="name">Pashupatastra</data><data key="type">WEAPON</data></node>
+    <node id="weapon.hindu.sudarshana_chakra"><data key="name">Sudarshana Chakra</data><data key="type">WEAPON</data></node>
+    <node id="weapon.hindu.trishula"><data key="name">Trishula</data><data key="type">WEAPON</data></node>
+    <node id="weapon.indian.brahmastra"><data key="name">Brahmastra</data><data key="type">WEAPON</data></node>
+    <node id="weapon.indian.gandiva"><data key="name">Gandiva</data><data key="type">WEAPON</data></node>
+    <node id="weapon.irish.caladbolg"><data key="name">Caladbolg</data><data key="type">WEAPON</data></node>
+    <node id="weapon.irish.fragarach"><data key="name">Fragarach</data><data key="type">WEAPON</data></node>
+    <node id="weapon.irish.gae_bulg"><data key="name">Gáe Bulg</data><data key="type">WEAPON</data></node>
+    <node id="weapon.japanese.amenonuhoko"><data key="name">Ame-no-Nuboko</data><data key="type">WEAPON</data></node>
+    <node id="weapon.japanese.kusanagi"><data key="name">Kusanagi-no-Tsurugi</data><data key="type">WEAPON</data></node>
+    <node id="weapon.norse.freyr_sword"><data key="name">Sword of Freyr</data><data key="type">WEAPON</data></node>
+    <node id="weapon.norse.gram"><data key="name">Gram</data><data key="type">WEAPON</data></node>
+    <node id="weapon.norse.gungnir"><data key="name">Gungnir</data><data key="type">WEAPON</data></node>
+    <node id="weapon.norse.mjolnir"><data key="name">Mjölnir</data><data key="type">WEAPON</data></node>
+    <node id="weapon.norse.tyrfing"><data key="name">Tyrfing</data><data key="type">WEAPON</data></node>
+    <node id="weapon.vedic.vajra"><data key="name">Vajra</data><data key="type">WEAPON</data></node>
+    <edge id="claim.babylon.flood_tablet_held_bm" source="museum.babylon.flood_tablet_k3375" target="institution.british_museum"><data key="relation">HELD_BY_MUSEUM</data></edge>
+    <edge id="claim.babylon.flood_tablet_witness_gilgamesh" source="museum.babylon.flood_tablet_k3375" target="text.mesopotamia.gilgamesh"><data key="relation">WITNESS_OF</data></edge>
+    <edge id="claim.babylonian.marduk_defeats_tiamat" source="deity.babylonian.marduk" target="deity.babylonian.tiamat"><data key="relation">DEFEATED</data></edge>
+    <edge id="claim.babylonian.marduk_participates_combat" source="deity.babylonian.marduk" target="event.babylonian.marduk_tiamat"><data key="relation">PARTICIPATED_IN</data></edge>
+    <edge id="claim.babylonian.marduk_uses_bow" source="deity.babylonian.marduk" target="weapon.babylonian.marduk_bow"><data key="relation">USES</data></edge>
+    <edge id="claim.babylonian.marduk_uses_net" source="deity.babylonian.marduk" target="artifact.babylonian.marduk_net"><data key="relation">USES</data></edge>
+    <edge id="claim.babylonian.tiamat_participates_combat" source="deity.babylonian.tiamat" target="event.babylonian.marduk_tiamat"><data key="relation">PARTICIPATED_IN</data></edge>
+    <edge id="claim.bestla.parent_odin" source="being.norse.bestla" target="deity.norse.odin"><data key="relation">PARENT_OF</data></edge>
+    <edge id="claim.bestla.parent_ve" source="being.norse.bestla" target="deity.norse.ve"><data key="relation">PARENT_OF</data></edge>
+    <edge id="claim.bestla.parent_vili" source="being.norse.bestla" target="deity.norse.vili"><data key="relation">PARENT_OF</data></edge>
+    <edge id="claim.borr.child_buri" source="deity.norse.borr" target="deity.norse.buri"><data key="relation">CHILD_OF</data></edge>
+    <edge id="claim.borr.consort_bestla" source="deity.norse.borr" target="being.norse.bestla"><data key="relation">CONSORT_OF</data></edge>
+    <edge id="claim.borr.parent_odin" source="deity.norse.borr" target="deity.norse.odin"><data key="relation">PARENT_OF</data></edge>
+    <edge id="claim.borr.parent_ve" source="deity.norse.borr" target="deity.norse.ve"><data key="relation">PARENT_OF</data></edge>
+    <edge id="claim.borr.parent_vili" source="deity.norse.borr" target="deity.norse.vili"><data key="relation">PARENT_OF</data></edge>
+    <edge id="claim.brokkr.creator_draupnir" source="being.norse.brokkr" target="artifact.norse.draupnir"><data key="relation">CREATOR_OF</data></edge>
+    <edge id="claim.brokkr.creator_gullinbursti" source="being.norse.brokkr" target="creature.norse.gullinbursti"><data key="relation">CREATOR_OF</data></edge>
+    <edge id="claim.brokkr.creator_mjolnir" source="being.norse.brokkr" target="weapon.norse.mjolnir"><data key="relation">CREATOR_OF</data></edge>
+    <edge id="claim.brokkr.participated_forging" source="being.norse.brokkr" target="event.norse.forging_divine_treasures"><data key="relation">PARTICIPATED_IN</data></edge>
+    <edge id="claim.brokkr.sibling_eitri" source="being.norse.brokkr" target="being.norse.eitri"><data key="relation">SIBLING_OF</data></edge>
+    <edge id="claim.egypt.amun_worshipped_karnak" source="deity.egyptian.amun" target="site.egypt.karnak"><data key="relation">WORSHIPPED_AT</data></edge>
+    <edge id="claim.egypt.ma_at_personification_represents_order" source="deity.egyptian.ma_at" target="concept.egyptian.ma_at"><data key="relation">REPRESENTS</data></edge>
+    <edge id="claim.egypt.osiris_rules_duat" source="deity.egyptian.osiris" target="realm.egypt.duat"><data key="relation">RULES</data></edge>
+    <edge id="claim.egypt.papyrus_ani_depicts_horus" source="museum.egypt.papyrus_ani_frame3" target="deity.egyptian.horus"><data key="relation">DEPICTS</data></edge>
+    <edge id="claim.egypt.papyrus_ani_depicts_osiris" source="museum.egypt.papyrus_ani_frame3" target="deity.egyptian.osiris"><data key="relation">DEPICTS</data></edge>
+    <edge id="claim.egypt.papyrus_ani_held_bm" source="museum.egypt.papyrus_ani_frame3" target="institution.british_museum"><data key="relation">HELD_BY_MUSEUM</data></edge>
+    <edge id="claim.egypt.papyrus_ani_witness_book_dead" source="museum.egypt.papyrus_ani_frame3" target="text.egypt.book_dead"><data key="relation">WITNESS_OF</data></edge>
+    <edge id="claim.egypt.ra_associated_solar_barque" source="deity.egyptian.ra" target="artifact.egyptian.solar_barque"><data key="relation">ASSOCIATED_WITH</data></edge>
+    <edge id="claim.eitri.creator_draupnir" source="being.norse.eitri" target="artifact.norse.draupnir"><data key="relation">CREATOR_OF</data></edge>
+    <edge id="claim.eitri.creator_gullinbursti" source="being.norse.eitri" target="creature.norse.gullinbursti"><data key="relation">CREATOR_OF</data></edge>
+    <edge id="claim.eitri.creator_mjolnir" source="being.norse.eitri" target="weapon.norse.mjolnir"><data key="relation">CREATOR_OF</data></edge>
+    <edge id="claim.eitri.participated_forging" source="being.norse.eitri" target="event.norse.forging_divine_treasures"><data key="relation">PARTICIPATED_IN</data></edge>
+    <edge id="claim.greek.apollo_born_delos" source="deity.greek.apollo" target="site.greece.delos"><data key="relation">BORN_IN</data></edge>
+    <edge id="claim.greek.apollo_worshipped_delphi" source="deity.greek.apollo" target="site.greece.delphi"><data key="relation">WORSHIPPED_AT</data></edge>
+    <edge id="claim.greek.cronus_father_zeus" source="deity.greek.cronus" target="deity.greek.zeus"><data key="relation">FATHER_OF</data></edge>
+    <edge id="claim.greek.cyclopes_create_thunderbolt" source="creature.greek.cyclopes_hesiodic" target="weapon.greek.zeus_thunderbolt"><data key="relation">CREATOR_OF</data></edge>
+    <edge id="claim.greek.poseidon_uses_trident" source="deity.greek.poseidon" target="weapon.greek.poseidon_trident"><data key="relation">USES</data></edge>
+    <edge id="claim.greek.rhea_mother_zeus" source="deity.greek.rhea" target="deity.greek.zeus"><data key="relation">MOTHER_OF</data></edge>
+    <edge id="claim.greek.zeus_uses_thunderbolt" source="deity.greek.zeus" target="weapon.greek.zeus_thunderbolt"><data key="relation">USES</data></edge>
+    <edge id="claim.greek.zeus_worshipped_olympia" source="deity.greek.zeus" target="site.greece.olympia"><data key="relation">WORSHIPPED_AT</data></edge>
+    <edge id="claim.ifa.associated_orunmila" source="text.yoruba.ifa_corpus" target="deity.yoruba.orunmila"><data key="relation">ASSOCIATED_WITH</data></edge>
+    <edge id="claim.mesopotamia.enlil_owns_tablet_destinies" source="deity.sumerian.enlil" target="artifact.mesopotamian.tablet_destinies"><data key="relation">OWNS</data></edge>
+    <edge id="claim.met_bronze_depicts_poseidon" source="museum.greek.zeus_poseidon_met_21_88_52" target="deity.greek.poseidon"><data key="relation">DEPICTS</data></edge>
+    <edge id="claim.met_bronze_depicts_zeus" source="museum.greek.zeus_poseidon_met_21_88_52" target="deity.greek.zeus"><data key="relation">DEPICTS</data></edge>
+    <edge id="claim.metis.consort_zeus" source="deity.greek.metis" target="deity.greek.zeus"><data key="relation">CONSORT_OF</data></edge>
+    <edge id="claim.metis.imprisoned_zeus" source="deity.greek.metis" target="deity.greek.zeus"><data key="relation">IMPRISONED_BY</data></edge>
+    <edge id="claim.metis.mentioned_theogony" source="deity.greek.metis" target="text.greek.theogony"><data key="relation">MENTIONED_IN</data></edge>
+    <edge id="claim.metis.parent_athena" source="deity.greek.metis" target="deity.greek.athena"><data key="relation">PARENT_OF</data></edge>
+    <edge id="claim.mimir.owns_well" source="being.norse.mimir" target="place.norse.mimisbrunnr"><data key="relation">OWNS</data></edge>
+    <edge id="claim.norse.fenrir_kills_odin" source="creature.norse.fenrir" target="deity.norse.odin"><data key="relation">KILLED</data></edge>
+    <edge id="claim.norse.fenrir_participates_ragnarok" source="creature.norse.fenrir" target="event.norse.ragnarok"><data key="relation">PARTICIPATED_IN</data></edge>
+    <edge id="claim.norse.ivaldi_create_gungnir" source="being.norse.sons_of_ivaldi" target="weapon.norse.gungnir"><data key="relation">CREATOR_OF</data></edge>
+    <edge id="claim.norse.mjolnir_rings_associated_thor" source="museum.norse.mjolnir_rings" target="deity.norse.thor"><data key="relation">ASSOCIATED_WITH</data></edge>
+    <edge id="claim.norse.mjolnir_rings_held" source="museum.norse.mjolnir_rings" target="institution.swedish_history_museum"><data key="relation">HELD_BY_MUSEUM</data></edge>
+    <edge id="claim.norse.odin_owns_gungnir" source="deity.norse.odin" target="weapon.norse.gungnir"><data key="relation">OWNS</data></edge>
+    <edge id="claim.norse.odin_participates_ragnarok" source="deity.norse.odin" target="event.norse.ragnarok"><data key="relation">PARTICIPATED_IN</data></edge>
+    <edge id="claim.norse.odin_uses_gungnir" source="deity.norse.odin" target="weapon.norse.gungnir"><data key="relation">USES</data></edge>
+    <edge id="claim.norse.thor_owns_mjolnir" source="deity.norse.thor" target="weapon.norse.mjolnir"><data key="relation">OWNS</data></edge>
+    <edge id="claim.norse.thor_uses_mjolnir" source="deity.norse.thor" target="weapon.norse.mjolnir"><data key="relation">USES</data></edge>
+    <edge id="claim.odin.associated_mimisbrunnr" source="deity.norse.odin" target="place.norse.mimisbrunnr"><data key="relation">ASSOCIATED_WITH</data></edge>
+    <edge id="claim.pancamahabhuta.member.agni" source="element.indian.agni" target="concept.indian.pancamahabhuta"><data key="relation">MEMBER_OF</data></edge>
+    <edge id="claim.pancamahabhuta.member.akasha" source="element.indian.akasha" target="concept.indian.pancamahabhuta"><data key="relation">MEMBER_OF</data></edge>
+    <edge id="claim.pancamahabhuta.member.ap" source="element.indian.ap" target="concept.indian.pancamahabhuta"><data key="relation">MEMBER_OF</data></edge>
+    <edge id="claim.pancamahabhuta.member.prithvi" source="element.indian.prithvi" target="concept.indian.pancamahabhuta"><data key="relation">MEMBER_OF</data></edge>
+    <edge id="claim.pancamahabhuta.member.vayu" source="element.indian.vayu" target="concept.indian.pancamahabhuta"><data key="relation">MEMBER_OF</data></edge>
+    <edge id="claim.sumerian.enki_mentioned_world_order" source="deity.sumerian.enki" target="text.sumerian.enki_world_order"><data key="relation">MENTIONED_IN</data></edge>
+    <edge id="claim.sumerian.ereshkigal_appears_descent" source="deity.sumerian.ereshkigal" target="text.sumerian.inanna_descent"><data key="relation">APPEARS_IN</data></edge>
+    <edge id="claim.sumerian.inanna_appears_descent" source="deity.sumerian.inanna" target="text.sumerian.inanna_descent"><data key="relation">APPEARS_IN</data></edge>
+    <edge id="claim.sumerian.inanna_participates_descent" source="deity.sumerian.inanna" target="event.sumerian.inanna_descent"><data key="relation">PARTICIPATED_IN</data></edge>
+    <edge id="claim.typhon.child_gaia" source="creature.greek.typhon" target="deity.greek.gaia"><data key="relation">CHILD_OF</data></edge>
+    <edge id="claim.typhon.child_tartarus" source="creature.greek.typhon" target="realm.greek.tartarus"><data key="relation">CHILD_OF</data></edge>
+    <edge id="claim.typhon.defeated_zeus" source="creature.greek.typhon" target="deity.greek.zeus"><data key="relation">DEFEATED_BY</data></edge>
+    <edge id="claim.typhon.mentioned_theogony" source="creature.greek.typhon" target="text.greek.theogony"><data key="relation">MENTIONED_IN</data></edge>
+    <edge id="claim.typhon.participated_battle" source="creature.greek.typhon" target="event.greek.zeus_typhon_battle"><data key="relation">PARTICIPATED_IN</data></edge>
+    <edge id="claim.ugarit.baal_associated_lightning" source="deity.ugaritic.baal" target="concept.comparative.lightning"><data key="relation">ASSOCIATED_WITH</data></edge>
+    <edge id="claim.ugarit.baal_enemy_yam" source="deity.ugaritic.baal" target="deity.ugaritic.yam"><data key="relation">ENEMY_OF</data></edge>
+    <edge id="claim.ugarit.baal_tablet_held_louvre" source="museum.ugarit.baal_cycle_ao16643" target="institution.louvre"><data key="relation">HELD_BY_MUSEUM</data></edge>
+    <edge id="claim.ugarit.stele_held_louvre" source="museum.ugarit.baal_thunder_ao15775" target="institution.louvre"><data key="relation">HELD_BY_MUSEUM</data></edge>
+    <edge id="claim.ve.sibling_odin" source="deity.norse.ve" target="deity.norse.odin"><data key="relation">SIBLING_OF</data></edge>
+    <edge id="claim.vili.sibling_odin" source="deity.norse.vili" target="deity.norse.odin"><data key="relation">SIBLING_OF</data></edge>
+    <edge id="claim.vili.sibling_ve" source="deity.norse.vili" target="deity.norse.ve"><data key="relation">SIBLING_OF</data></edge>
+    <edge id="claim.wuxing.huo.member" source="element.chinese.huo" target="concept.chinese.wuxing"><data key="relation">ELEMENT_OF</data></edge>
+    <edge id="claim.wuxing.jin.member" source="element.chinese.jin" target="concept.chinese.wuxing"><data key="relation">ELEMENT_OF</data></edge>
+    <edge id="claim.wuxing.member.huo" source="element.chinese.huo" target="concept.chinese.wuxing"><data key="relation">MEMBER_OF</data></edge>
+    <edge id="claim.wuxing.member.jin" source="element.chinese.jin" target="concept.chinese.wuxing"><data key="relation">MEMBER_OF</data></edge>
+    <edge id="claim.wuxing.member.mu" source="element.chinese.mu" target="concept.chinese.wuxing"><data key="relation">MEMBER_OF</data></edge>
+    <edge id="claim.wuxing.member.shui" source="element.chinese.shui" target="concept.chinese.wuxing"><data key="relation">MEMBER_OF</data></edge>
+    <edge id="claim.wuxing.member.tu" source="element.chinese.tu" target="concept.chinese.wuxing"><data key="relation">MEMBER_OF</data></edge>
+    <edge id="claim.wuxing.mentioned_hanshu" source="concept.chinese.wuxing" target="text.chinese.han_shu_wuxing_zhi"><data key="relation">MENTIONED_IN</data></edge>
+    <edge id="claim.wuxing.mentioned_hongfan" source="concept.chinese.wuxing" target="text.chinese.hong_fan"><data key="relation">MENTIONED_IN</data></edge>
+    <edge id="claim.wuxing.mu.member" source="element.chinese.mu" target="concept.chinese.wuxing"><data key="relation">ELEMENT_OF</data></edge>
+    <edge id="claim.wuxing.shui.member" source="element.chinese.shui" target="concept.chinese.wuxing"><data key="relation">ELEMENT_OF</data></edge>
+    <edge id="claim.wuxing.tu.member" source="element.chinese.tu" target="concept.chinese.wuxing"><data key="relation">ELEMENT_OF</data></edge>
+    <edge id="claim.zeus.participated_typhon" source="deity.greek.zeus" target="event.greek.zeus_typhon_battle"><data key="relation">PARTICIPATED_IN</data></edge>
+  </graph>
+</graphml>

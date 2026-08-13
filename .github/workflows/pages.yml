@@ -1,0 +1,50 @@
+name: 发布中文公开网页 / Deploy Chinese public explorer
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v6
+      - uses: actions/setup-python@v6
+        with:
+          python-version: "3.11"
+      - uses: actions/setup-node@v6
+        with:
+          node-version: "24"
+          cache: npm
+          cache-dependency-path: web/package-lock.json
+      - name: 从 SQLite 生成浏览器安全快照 / Build browser-safe snapshot from SQLite
+        run: python3 scripts/generate_web_data.py
+      - name: 构建静态网页 / Build static site
+        working-directory: web
+        run: npm ci && npm run build
+      - name: 上传 Pages 文件 / Upload Pages artifact
+        uses: actions/upload-pages-artifact@v5
+        with:
+          path: web/dist
+
+  deploy:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    needs: build
+    steps:
+      - name: 发布 GitHub Pages / Deploy GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v5
+

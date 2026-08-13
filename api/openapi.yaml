@@ -1,0 +1,85 @@
+openapi: 3.1.0
+info:
+  title: World Mythology System API
+  version: 0.1.0-draft
+  description: Read-only draft contract for evidence-aware mythology data.
+servers:
+  - url: https://api.example.invalid/v1
+    description: Design placeholder; no deployment exists in this baseline.
+paths:
+  /entities/{entity_id}:
+    get:
+      summary: Fetch one canonical entity and its classifications
+      parameters:
+        - $ref: '#/components/parameters/EntityId'
+      responses:
+        '200':
+          description: Entity
+          content:
+            application/json:
+              schema: {$ref: '#/components/schemas/Entity'}
+        '404': {description: Not found}
+  /entities/{entity_id}/network:
+    get:
+      summary: Fetch forward and inferred inverse relationship edges
+      parameters:
+        - $ref: '#/components/parameters/EntityId'
+        - name: include_modern
+          in: query
+          schema: {type: boolean, default: false}
+      responses:
+        '200':
+          description: Evidence-linked edges
+  /claims:
+    get:
+      summary: Filter claims by subject, predicate, scope and review status
+      parameters:
+        - {name: subject_id, in: query, schema: {type: string}}
+        - {name: predicate, in: query, schema: {type: string}}
+        - {name: assertion_scope, in: query, schema: {type: string}}
+        - {name: review_status, in: query, schema: {type: string}}
+      responses:
+        '200': {description: Claims with evidence and sources}
+  /search:
+    get:
+      summary: Multilingual candidate search without automatic identity merge
+      parameters:
+        - {name: q, in: query, required: true, schema: {type: string}}
+        - {name: civilization_id, in: query, schema: {type: string}}
+        - {name: type, in: query, schema: {type: string}}
+      responses:
+        '200': {description: Ranked identity candidates}
+  /sources/{source_id}:
+    get:
+      summary: Source, rights, witness and community-context metadata
+      parameters:
+        - name: source_id
+          in: path
+          required: true
+          schema: {type: string}
+      responses:
+        '200': {description: Source record}
+  /coverage/latest:
+    get:
+      summary: Current registered-baseline metrics; never global completeness
+      responses:
+        '200': {description: Versioned coverage metrics}
+components:
+  parameters:
+    EntityId:
+      name: entity_id
+      in: path
+      required: true
+      schema: {type: string}
+  schemas:
+    Entity:
+      type: object
+      required: [id, canonical_name, primary_type, research_status, evidence_status]
+      properties:
+        id: {type: string, examples: [deity.greek.zeus]}
+        canonical_name: {type: string}
+        name_zh: {type: [string, 'null']}
+        original_name: {type: [string, 'null']}
+        primary_type: {type: string}
+        research_status: {type: string}
+        evidence_status: {type: string}

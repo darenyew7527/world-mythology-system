@@ -1,0 +1,79 @@
+entity_id,place_type,ancient_name,modern_name,country_code,latitude,longitude,date_range,builders,architecture_summary,excavation_summary,major_finds_summary,unesco_status,reality_status,evidence_grade
+museum.ugarit.baal_thunder_ao15775,MONUMENT,,,,,,,,,,,,REAL_ARCHAEOLOGICAL,UNASSESSED
+place.norse.mimisbrunnr,MYTHICAL_WELL,Mímisbrunnr,,,,,Mythic time,,,,,,MYTHICAL,TEXTUAL
+realm.egypt.duat,REALM,,,,,,,,,,,,MYTHICAL,UNASSESSED
+realm.greek.tartarus,MYTHICAL_REALM,Τάρταρος,,,,,Mythic time,,,,,,MYTHICAL,TEXTUAL
+realm.norse.valhalla,REALM,,,,,,,,,,,,MYTHICAL,UNASSESSED
+realm.sumerian.kur,REALM,,,,,,,,,,,,MYTHICAL,UNASSESSED
+site.bolivia.tiwanaku,ANCIENT_CITY,,,BO,,,,,,,,World Heritage,REAL_ARCHAEOLOGICAL,BASELINE_METADATA
+site.cambodia.angkor,TEMPLE_CITY,,,KH,,,,,,,,World Heritage,REAL_ARCHAEOLOGICAL,BASELINE_METADATA
+site.celtic.groves_scope,COLLECTION_SCOPE,,,,,,,,,,,,MIXED,BASELINE_METADATA
+site.celtic.hillforts_scope,COLLECTION_SCOPE,,,,,,,,,,,,REAL_ARCHAEOLOGICAL,BASELINE_METADATA
+site.chile.rapa_nui,CULTURAL_LANDSCAPE,,,CL,,,,,,,,World Heritage,REAL_ARCHAEOLOGICAL,BASELINE_METADATA
+site.china.kunlun_scope,MYTH_GEOGRAPHY_SCOPE,,,CN,,,,,,,,,MIXED,BASELINE_METADATA
+site.china.ritual_sites_scope,COLLECTION_SCOPE,,,CN,,,,,,,,,REAL_ARCHAEOLOGICAL,BASELINE_METADATA
+site.china.taishan,SACRED_MOUNTAIN,,,CN,,,,,,,,World Heritage 437,REAL_SACRED,BASELINE_METADATA
+site.denmark.hedeby,VIKING_AGE_TRADING_TOWN,,,DE,,,,,,,,World Heritage,REAL_ARCHAEOLOGICAL,BASELINE_METADATA
+site.egypt.abu_simbel,ROCK_CUT_TEMPLES,,,EG,,,,,,,,Nubian Monuments World Heritage component,REAL_ARCHAEOLOGICAL,BASELINE_METADATA
+site.egypt.abydos,SACRED_CITY_AND_NECROPOLIS,,,EG,,,,,,,,,REAL_ARCHAEOLOGICAL,BASELINE_METADATA
+site.egypt.dahshur,PYRAMID_FIELD,,,EG,,,,,,,,World Heritage property 86 component,REAL_ARCHAEOLOGICAL,BASELINE_METADATA
+site.egypt.dendera,TEMPLE_COMPLEX,,,EG,,,,,,,,,REAL_ARCHAEOLOGICAL,BASELINE_METADATA
+site.egypt.edfu,TEMPLE,,,EG,,,,,,,,,REAL_ARCHAEOLOGICAL,BASELINE_METADATA
+site.egypt.giza,PYRAMID_COMPLEX,,,EG,,,,,,,,World Heritage property 86 component,REAL_ARCHAEOLOGICAL,BASELINE_METADATA
+site.egypt.karnak,TEMPLE_COMPLEX,,,EG,,,,,,,,World Heritage property 87 component,REAL_ARCHAEOLOGICAL,BASELINE_METADATA
+site.egypt.luxor_temple,TEMPLE,,,EG,,,,,,,,World Heritage property 87 component,REAL_ARCHAEOLOGICAL,BASELINE_METADATA
+site.egypt.philae,TEMPLE_COMPLEX,,,EG,,,,,,,,Nubian Monuments World Heritage component,REAL_ARCHAEOLOGICAL,BASELINE_METADATA
+site.egypt.saqqara,NECROPOLIS,,,EG,,,,,,,,World Heritage property 86 component,REAL_ARCHAEOLOGICAL,BASELINE_METADATA
+site.egypt.valley_kings,ROYAL_NECROPOLIS,,,EG,,,,,,,,World Heritage property 87 component,REAL_ARCHAEOLOGICAL,BASELINE_METADATA
+site.ethiopia.aksum,ANCIENT_CITY_AND_STELAE,,,ET,,,,,,,,World Heritage,REAL_ARCHAEOLOGICAL,BASELINE_METADATA
+site.ethiopia.lalibela,ROCK_HEWN_CHURCHES,,,ET,,,,,,,,World Heritage,REAL_SACRED,BASELINE_METADATA
+site.greece.acropolis,SANCTUARY_AND_CITADEL,,,GR,,,,,,,,World Heritage,REAL_ARCHAEOLOGICAL,BASELINE_METADATA
+site.greece.delos,ISLAND_SANCTUARY,,,GR,,,,,,,,World Heritage 530,REAL_ARCHAEOLOGICAL,BASELINE_METADATA
+site.greece.delphi,PANHELLENIC_SANCTUARY,,,GR,,,,,,,,World Heritage 393,REAL_ARCHAEOLOGICAL,BASELINE_METADATA
+site.greece.dodona,ORACULAR_SANCTUARY,,,GR,,,,,,,,,REAL_ARCHAEOLOGICAL,BASELINE_METADATA
+site.greece.eleusis,MYSTERY_CULT_SANCTUARY,,,GR,,,,,,,,,REAL_ARCHAEOLOGICAL,BASELINE_METADATA
+site.greece.epidaurus,HEALING_SANCTUARY,,,GR,,,,,,,,World Heritage,REAL_ARCHAEOLOGICAL,BASELINE_METADATA
+site.greece.knossos,PALATIAL_COMPLEX,,,GR,,,,,,,,,REAL_ARCHAEOLOGICAL,BASELINE_METADATA
+site.greece.mycenae,CITADEL_AND_TOMBS,,,GR,,,,,,,,World Heritage,REAL_ARCHAEOLOGICAL,BASELINE_METADATA
+site.greece.olympia,PANHELLENIC_SANCTUARY,,,GR,,,,,,,,World Heritage 517,REAL_ARCHAEOLOGICAL,BASELINE_METADATA
+site.guatemala.tikal,ANCIENT_CITY,,,GT,,,,,,,,World Heritage 64,REAL_ARCHAEOLOGICAL,BASELINE_METADATA
+site.iceland.sacred_scope,COLLECTION_SCOPE,,,IS,,,,,,,,,MIXED,BASELINE_METADATA
+site.india.elephanta,ROCK_CUT_CAVES,,,IN,,,,,,,,World Heritage,REAL_ARCHAEOLOGICAL,BASELINE_METADATA
+site.india.ellora,ROCK_CUT_CAVES,,,IN,,,,,,,,World Heritage,REAL_ARCHAEOLOGICAL,BASELINE_METADATA
+site.india.khajuraho,TEMPLE_GROUP,,,IN,,,,,,,,World Heritage,REAL_ARCHAEOLOGICAL,BASELINE_METADATA
+site.india.konark,TEMPLE,,,IN,,,,,,,,World Heritage,REAL_ARCHAEOLOGICAL,BASELINE_METADATA
+site.india.varanasi,LIVING_SACRED_CITY,,,IN,,,,,,,,,REAL_SACRED,BASELINE_METADATA
+site.indonesia.borobudur,BUDDHIST_MONUMENT,,,ID,,,,,,,,World Heritage,REAL_ARCHAEOLOGICAL,BASELINE_METADATA
+site.indonesia.prambanan,TEMPLE_COMPOUND,,,ID,,,,,,,,World Heritage,REAL_ARCHAEOLOGICAL,BASELINE_METADATA
+site.iraq.ashur,ANCIENT_CITY,,,IQ,,,,,,,,World Heritage 1130,REAL_ARCHAEOLOGICAL,BASELINE_METADATA
+site.iraq.babylon,ANCIENT_CITY,,,IQ,,,,,,,,World Heritage 278,REAL_ARCHAEOLOGICAL,BASELINE_METADATA
+site.iraq.eridu,ANCIENT_CITY,,,IQ,,,,,,,,Ahwar World Heritage component,REAL_ARCHAEOLOGICAL,BASELINE_METADATA
+site.iraq.nineveh,ANCIENT_CITY,,,IQ,,,,,,,,,REAL_ARCHAEOLOGICAL,BASELINE_METADATA
+site.iraq.nippur,ANCIENT_CITY,,,IQ,,,,,,,,,REAL_ARCHAEOLOGICAL,BASELINE_METADATA
+site.iraq.ur,ANCIENT_CITY,,,IQ,,,,,,,,Ahwar World Heritage component,REAL_ARCHAEOLOGICAL,BASELINE_METADATA
+site.iraq.uruk,ANCIENT_CITY,,,IQ,,,,,,,,Ahwar World Heritage component,REAL_ARCHAEOLOGICAL,BASELINE_METADATA
+site.ireland.newgrange,PASSAGE_TOMB,,,IE,,,,,,,,Brú na Bóinne World Heritage component,REAL_ARCHAEOLOGICAL,BASELINE_METADATA
+site.italy.pompeii,BURIED_CITY,,,IT,,,,,,,,World Heritage,REAL_ARCHAEOLOGICAL,BASELINE_METADATA
+site.italy.rome,HISTORIC_CITY,,,IT,,,,,,,,World Heritage historic centre,REAL_HISTORIC,BASELINE_METADATA
+site.japan.shrines_scope,COLLECTION_SCOPE,,,JP,,,,,,,,,REAL_SACRED,BASELINE_METADATA
+site.mexico.chichen_itza,ANCIENT_CITY,,,MX,,,,,,,,World Heritage 483,REAL_ARCHAEOLOGICAL,BASELINE_METADATA
+site.mexico.monte_alban,ANCIENT_CITY,,,MX,,,,,,,,World Heritage,REAL_ARCHAEOLOGICAL,BASELINE_METADATA
+site.mexico.palenque,ANCIENT_CITY,,,MX,,,,,,,,World Heritage,REAL_ARCHAEOLOGICAL,BASELINE_METADATA
+site.mexico.tenochtitlan,ANCIENT_CAPITAL,,,MX,,,,,,,,Within Historic Centre of Mexico City World Heritage,REAL_HISTORIC,BASELINE_METADATA
+site.mexico.teotihuacan,ANCIENT_CITY,,,MX,,,,,,,,World Heritage 414,REAL_ARCHAEOLOGICAL,BASELINE_METADATA
+site.micronesia.nan_madol,CEREMONIAL_CENTRE,,,FM,,,,,,,,World Heritage,REAL_ARCHAEOLOGICAL,BASELINE_METADATA
+site.nigeria.benin_city,HISTORIC_CITY_SCOPE,,,NG,,,,,,,,,REAL_HISTORIC,BASELINE_METADATA
+site.nigeria.ife,HISTORIC_SACRED_CITY,,,NG,,,,,,,,,REAL_SACRED,BASELINE_METADATA
+site.norse.runestones_scope,COLLECTION_SCOPE,,,,,,,,,,,,REAL_ARCHAEOLOGICAL,BASELINE_METADATA
+site.peru.cusco,HISTORIC_CAPITAL,,,PE,,,,,,,,World Heritage,REAL_HISTORIC,BASELINE_METADATA
+site.peru.machu_picchu,ANDEAN_CITY,,,PE,,,,,,,,World Heritage,REAL_ARCHAEOLOGICAL,BASELINE_METADATA
+site.peru.nazca,GEOGLYPHS,,,PE,,,,,,,,World Heritage,REAL_ARCHAEOLOGICAL,BASELINE_METADATA
+site.polynesia.taputapuatea,MARAЕ_AND_SACRED_LANDSCAPE,,,PF,,,,,,,,World Heritage 1529,REAL_SACRED,BASELINE_METADATA
+site.sweden.birka,VIKING_AGE_SETTLEMENT,,,SE,,,,,,,,World Heritage 555,REAL_ARCHAEOLOGICAL,BASELINE_METADATA
+site.sweden.uppsala,BURIAL_AND_CULT_CENTRE,,,SE,,,,,,,,,REAL_ARCHAEOLOGICAL,BASELINE_METADATA
+site.syria.mari,ANCIENT_CITY,,,SY,,,,,,,,,REAL_ARCHAEOLOGICAL,BASELINE_METADATA
+site.syria.ugarit,ANCIENT_CITY,,,SY,,,,,,,,,REAL_ARCHAEOLOGICAL,BASELINE_METADATA
+site.tibet.kailash,LIVING_SACRED_MOUNTAIN,,,CN,,,,,,,,,REAL_SACRED,BASELINE_METADATA
+site.uk.avebury,MEGALITHIC_MONUMENT,,,GB,,,,,,,,World Heritage,REAL_ARCHAEOLOGICAL,BASELINE_METADATA
+site.uk.stonehenge,MEGALITHIC_MONUMENT,,,GB,,,,,,,,World Heritage,REAL_ARCHAEOLOGICAL,BASELINE_METADATA
+site.zimbabwe.great_zimbabwe,STONE_CITY,,,ZW,,,,,,,,World Heritage,REAL_ARCHAEOLOGICAL,BASELINE_METADATA

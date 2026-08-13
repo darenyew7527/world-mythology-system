@@ -1,0 +1,65 @@
+name: "资料纠错 / Data correction"
+description: "报告名称、关系、年代、分类或来源错误 / Report an error in names, relations, dates, classification, or citations"
+title: "[纠错] "
+labels: ["data: correction", "needs: review"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        感谢纠错。中文或英文都可以；请提供可追踪来源和具体定位。不同版本可以并存，不必先决定唯一答案。
+        Thank you. Chinese and English are both welcome. Please include a traceable source and precise locator.
+  - type: input
+    id: entity
+    attributes:
+      label: "实体名称与 ID / Entity name and ID"
+      placeholder: "例如：宙斯 / Zeus — deity.greek.zeus"
+    validations:
+      required: true
+  - type: textarea
+    id: current
+    attributes:
+      label: "当前内容 / Current content"
+      description: "请复制或概括需要纠正的内容。"
+    validations:
+      required: true
+  - type: textarea
+    id: proposed
+    attributes:
+      label: "建议修改 / Proposed correction"
+      description: "如果这是另一版本而不是错误，请明确说明。"
+    validations:
+      required: true
+  - type: textarea
+    id: sources
+    attributes:
+      label: "来源与定位 / Sources and locators"
+      description: "标题、作者／机构、稳定链接、章节／行号／页码／馆藏号／DOI 等。"
+    validations:
+      required: true
+  - type: dropdown
+    id: layer
+    attributes:
+      label: "资料层级 / Knowledge layer"
+      options:
+        - 原始文本、铭文或考古资料 / Primary text, inscription, or archaeology
+        - 口述传统或活态传统 / Oral or living tradition
+        - 现代学术研究 / Modern scholarship
+        - 后世文学或民间传说 / Later literature or folklore
+        - 现代影视、漫画或游戏 / Modern adaptation
+        - 不确定 / Unsure
+    validations:
+      required: true
+  - type: textarea
+    id: rights
+    attributes:
+      label: "版权与文化权限 / Rights and cultural context"
+      description: "若涉及受限制知识、社区授权或来源使用条款，请在此说明。"
+  - type: checkboxes
+    id: checks
+    attributes:
+      label: "提交确认 / Confirmation"
+      options:
+        - label: "我没有把现代改编当作古代原始证据。 / I did not present a modern adaptation as ancient evidence."
+          required: true
+        - label: "我没有粘贴受版权保护作品的大段正文或受限制知识。 / I did not paste long copyrighted passages or restricted knowledge."
+          required: true

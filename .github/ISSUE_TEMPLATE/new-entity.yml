@@ -1,0 +1,62 @@
+name: "建议新实体 / Suggest a new entity"
+description: "建议神祇、英雄、怪物、神器、文本、遗址或其他实体 / Suggest a deity, hero, creature, artifact, text, site, or other entity"
+title: "[新实体] "
+labels: ["data: new-entity", "needs: sources"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        初始列表不是范围上限。请帮助我们确认这个实体的原生名称、文化语境与来源。
+        Seed lists are not limits. Help establish the entity's original names, cultural context, and sources.
+  - type: input
+    id: name
+    attributes:
+      label: "名称 / Name"
+      placeholder: "中文名 / English name / 原文名"
+    validations:
+      required: true
+  - type: input
+    id: tradition
+    attributes:
+      label: "文明、文化或传统 / Civilization, culture, or tradition"
+    validations:
+      required: true
+  - type: dropdown
+    id: entity_type
+    attributes:
+      label: "实体类别 / Entity type"
+      options:
+        - 神祇或原初神 / Deity or primordial deity
+        - 英雄或历史人物 / Hero or historical figure
+        - 怪物、神兽、精灵或巨人 / Creature, monster, spirit, or giant
+        - 武器、神器或圣物 / Weapon, artifact, or sacred object
+        - 元素、力量或概念 / Element, power, or concept
+        - 神话事件或宇宙结构 / Mythic event or cosmology
+        - 古籍、铭文、手稿或口述传统 / Text, inscription, manuscript, or oral tradition
+        - 现实遗址或神话地点 / Archaeological site or mythical place
+        - 博物馆对象 / Museum object
+        - 其他 / Other
+    validations:
+      required: true
+  - type: textarea
+    id: names
+    attributes:
+      label: "原文名、转写与别名 / Original names, transliterations, and aliases"
+  - type: textarea
+    id: summary
+    attributes:
+      label: "简要说明 / Short description"
+      description: "说明它是什么、为什么应作为独立实体，以及可能连接哪些现有实体。"
+    validations:
+      required: true
+  - type: textarea
+    id: sources
+    attributes:
+      label: "来源与定位 / Sources and locators"
+    validations:
+      required: true
+  - type: textarea
+    id: permissions
+    attributes:
+      label: "活态传统与权限说明 / Living-tradition and permission context"
+      description: "如适用，请说明社区自我命名、公开范围与授权语境。"

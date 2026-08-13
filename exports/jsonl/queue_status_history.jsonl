@@ -1,0 +1,34 @@
+{"changed_at":"2026-08-10T00:00:00Z","id":"history.queue.celtic.newgrange_guardrail.1","new_status":"NEEDS_REVIEW","old_status":null,"queue_id":"queue.celtic.newgrange_guardrail","reason":"First-round discovery baseline"}
+{"changed_at":"2026-08-10T00:00:00Z","id":"history.queue.china.wuxing_sources.1","new_status":"SOURCE_FOUND","old_status":null,"queue_id":"queue.china.wuxing_sources","reason":"First-round discovery baseline"}
+{"changed_at":"2026-08-10T00:00:00Z","id":"history.queue.egypt.amun_ra.1","new_status":"NEW","old_status":null,"queue_id":"queue.egypt.amun_ra","reason":"First-round discovery baseline"}
+{"changed_at":"2026-08-10T00:00:00Z","id":"history.queue.egypt.ra_horakhty.1","new_status":"NEW","old_status":null,"queue_id":"queue.egypt.ra_horakhty","reason":"First-round discovery baseline"}
+{"changed_at":"2026-08-10T00:00:00Z","id":"history.queue.greek.hydra.1","new_status":"DISCOVERED","old_status":null,"queue_id":"queue.greek.hydra","reason":"First-round discovery baseline"}
+{"changed_at":"2026-08-10T00:00:00Z","id":"history.queue.greek.metis.1","new_status":"NEW","old_status":null,"queue_id":"queue.greek.metis","reason":"First-round discovery baseline"}
+{"changed_at":"2026-08-10T00:00:00Z","id":"history.queue.greek.olympia_cult.1","new_status":"SOURCE_FOUND","old_status":null,"queue_id":"queue.greek.olympia_cult","reason":"First-round discovery baseline"}
+{"changed_at":"2026-08-10T00:00:00Z","id":"history.queue.greek.typhon.1","new_status":"NEW","old_status":null,"queue_id":"queue.greek.typhon","reason":"First-round discovery baseline"}
+{"changed_at":"2026-08-10T00:00:00Z","id":"history.queue.ifa.permission_model.1","new_status":"NEEDS_REVIEW","old_status":null,"queue_id":"queue.ifa.permission_model","reason":"First-round discovery baseline"}
+{"changed_at":"2026-08-10T00:00:00Z","id":"history.queue.india.weapon_sources.1","new_status":"SOURCE_FOUND","old_status":null,"queue_id":"queue.india.weapon_sources","reason":"First-round discovery baseline"}
+{"changed_at":"2026-08-10T00:00:00Z","id":"history.queue.japan.kusanagi_versions.1","new_status":"SOURCE_FOUND","old_status":null,"queue_id":"queue.japan.kusanagi_versions","reason":"First-round discovery baseline"}
+{"changed_at":"2026-08-10T00:00:00Z","id":"history.queue.maya.hero_twins.1","new_status":"SOURCE_FOUND","old_status":null,"queue_id":"queue.maya.hero_twins","reason":"First-round discovery baseline"}
+{"changed_at":"2026-08-10T00:00:00Z","id":"history.queue.mesopotamia.anzu.1","new_status":"SOURCE_FOUND","old_status":null,"queue_id":"queue.mesopotamia.anzu","reason":"First-round discovery baseline"}
+{"changed_at":"2026-08-10T00:00:00Z","id":"history.queue.mesopotamia.inanna_ishtar.1","new_status":"NEEDS_REVIEW","old_status":null,"queue_id":"queue.mesopotamia.inanna_ishtar","reason":"First-round discovery baseline"}
+{"changed_at":"2026-08-10T00:00:00Z","id":"history.queue.mexica.templo_mayor_objects.1","new_status":"SOURCE_FOUND","old_status":null,"queue_id":"queue.mexica.templo_mayor_objects","reason":"First-round discovery baseline"}
+{"changed_at":"2026-08-10T00:00:00Z","id":"history.queue.norse.bestla.1","new_status":"NEW","old_status":null,"queue_id":"queue.norse.bestla","reason":"First-round discovery baseline"}
+{"changed_at":"2026-08-10T00:00:00Z","id":"history.queue.norse.borr.1","new_status":"NEW","old_status":null,"queue_id":"queue.norse.borr","reason":"First-round discovery baseline"}
+{"changed_at":"2026-08-10T00:00:00Z","id":"history.queue.norse.brokkr_eitri.1","new_status":"SOURCE_FOUND","old_status":null,"queue_id":"queue.norse.brokkr_eitri","reason":"First-round discovery baseline"}
+{"changed_at":"2026-08-10T00:00:00Z","id":"history.queue.norse.mimir.1","new_status":"NEW","old_status":null,"queue_id":"queue.norse.mimir","reason":"First-round discovery baseline"}
+{"changed_at":"2026-08-10T00:00:00Z","id":"history.queue.norse.ve.1","new_status":"NEW","old_status":null,"queue_id":"queue.norse.ve","reason":"First-round discovery baseline"}
+{"changed_at":"2026-08-10T00:00:00Z","id":"history.queue.norse.vili.1","new_status":"NEW","old_status":null,"queue_id":"queue.norse.vili","reason":"First-round discovery baseline"}
+{"changed_at":"2026-08-10T00:00:00Z","id":"history.queue.polynesia.iwi_variants.1","new_status":"SOURCE_FOUND","old_status":null,"queue_id":"queue.polynesia.iwi_variants","reason":"First-round discovery baseline"}
+{"changed_at":"2026-08-10T00:00:00Z","id":"history.queue.slavic.primary_claims.1","new_status":"SOURCE_FOUND","old_status":null,"queue_id":"queue.slavic.primary_claims","reason":"First-round discovery baseline"}
+{"changed_at":"2026-08-10T00:00:00Z","id":"history.queue.ugarit.baal_title.1","new_status":"CONFLICT","old_status":null,"queue_id":"queue.ugarit.baal_title","reason":"First-round discovery baseline"}
+{"changed_at":"2026-08-10T00:00:00Z","id":"history.queue.zoroastrian.avesta_witnesses.1","new_status":"SOURCE_FOUND","old_status":null,"queue_id":"queue.zoroastrian.avesta_witnesses","reason":"First-round discovery baseline"}
+{"changed_at":"2026-08-11T03:05:26Z","id":"qhist.20260811.bestla","new_status":"PARTIAL","old_status":"NEW","queue_id":"queue.norse.bestla","reason":"Entity and Gylfaginning genealogy added"}
+{"changed_at":"2026-08-11T03:05:26Z","id":"qhist.20260811.borr","new_status":"PARTIAL","old_status":"NEW","queue_id":"queue.norse.borr","reason":"Entity and Gylfaginning genealogy added"}
+{"changed_at":"2026-08-11T03:05:26Z","id":"qhist.20260811.brokkr_eitri","new_status":"PARTIAL","old_status":"SOURCE_FOUND","queue_id":"queue.norse.brokkr_eitri","reason":"Separate smith entities, products and identity conflict recorded"}
+{"changed_at":"2026-08-11T03:05:26Z","id":"qhist.20260811.metis","new_status":"PARTIAL","old_status":"NEW","queue_id":"queue.greek.metis","reason":"Entity, genealogy claims and evidence added"}
+{"changed_at":"2026-08-11T03:05:26Z","id":"qhist.20260811.mimir","new_status":"PARTIAL","old_status":"NEW","queue_id":"queue.norse.mimir","reason":"Entity and well relationship added; classification remains open"}
+{"changed_at":"2026-08-11T03:05:26Z","id":"qhist.20260811.typhon","new_status":"PARTIAL","old_status":"NEW","queue_id":"queue.greek.typhon","reason":"Entity, primary-text claims and evidence added"}
+{"changed_at":"2026-08-11T03:05:26Z","id":"qhist.20260811.ve","new_status":"PARTIAL","old_status":"NEW","queue_id":"queue.norse.ve","reason":"Entity, sibling and cosmogony claims added"}
+{"changed_at":"2026-08-11T03:05:26Z","id":"qhist.20260811.vili","new_status":"PARTIAL","old_status":"NEW","queue_id":"queue.norse.vili","reason":"Entity, sibling and cosmogony claims added"}
+{"changed_at":"2026-08-11T03:05:26Z","id":"qhist.20260811.wuxing","new_status":"PARTIAL","old_status":"SOURCE_FOUND","queue_id":"queue.china.wuxing_sources","reason":"Hong Fan and Han Shu source locations and native component entities added"}

@@ -1,0 +1,43 @@
+name: 数据与网页检查 / Data and web checks
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+
+permissions:
+  contents: read
+
+jobs:
+  data:
+    name: Python 数据质量 / Python data quality
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v6
+      - uses: actions/setup-python@v6
+        with:
+          python-version: "3.11"
+      - name: 运行持久数据库流水线 / Run persistent database pipeline
+        run: python3 scripts/run_pipeline.py
+      - name: 运行回归测试 / Run regression tests
+        run: python3 -m unittest discover -s tests -v
+      - name: 生成公开快照 / Generate public snapshot
+        run: python3 scripts/generate_web_data.py
+
+  web:
+    name: 中文公开网页 / Chinese public web app
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v6
+      - uses: actions/setup-node@v6
+        with:
+          node-version: "24"
+          cache: npm
+          cache-dependency-path: web/package-lock.json
+      - name: 安装依赖 / Install dependencies
+        working-directory: web
+        run: npm ci
+      - name: 构建网页 / Build web app
+        working-directory: web
+        run: npm run build
+

@@ -1,0 +1,14 @@
+{"action":"EXPAND","item_id":"queue.greek.typhon","item_kind":"QUEUE","result":"PARTIAL","session_id":"research.20260811.expansion1"}
+{"action":"EXPAND","item_id":"queue.greek.metis","item_kind":"QUEUE","result":"PARTIAL","session_id":"research.20260811.expansion1"}
+{"action":"EXPAND","item_id":"queue.norse.borr","item_kind":"QUEUE","result":"PARTIAL","session_id":"research.20260811.expansion1"}
+{"action":"EXPAND","item_id":"queue.norse.bestla","item_kind":"QUEUE","result":"PARTIAL","session_id":"research.20260811.expansion1"}
+{"action":"EXPAND","item_id":"queue.norse.vili","item_kind":"QUEUE","result":"PARTIAL","session_id":"research.20260811.expansion1"}
+{"action":"EXPAND","item_id":"queue.norse.ve","item_kind":"QUEUE","result":"PARTIAL","session_id":"research.20260811.expansion1"}
+{"action":"EXPAND","item_id":"queue.norse.mimir","item_kind":"QUEUE","result":"PARTIAL","session_id":"research.20260811.expansion1"}
+{"action":"EXPAND","item_id":"queue.norse.brokkr_eitri","item_kind":"QUEUE","result":"PARTIAL_WITH_CONFLICT","session_id":"research.20260811.expansion1"}
+{"action":"EXPAND","item_id":"queue.china.wuxing_sources","item_kind":"QUEUE","result":"PARTIAL","session_id":"research.20260811.expansion1"}
+{"action":"CREATE","item_id":"creature.greek.typhon","item_kind":"ENTITY","result":"SOURCE_BACKED_BASELINE","session_id":"research.20260811.expansion1"}
+{"action":"CREATE","item_id":"deity.greek.metis","item_kind":"ENTITY","result":"SOURCE_BACKED_BASELINE","session_id":"research.20260811.expansion1"}
+{"action":"CREATE","item_id":"being.norse.eitri","item_kind":"ENTITY","result":"IDENTITY_NOT_MERGED","session_id":"research.20260811.expansion1"}
+{"action":"CREATE","item_id":"being.norse.sindri","item_kind":"ENTITY","result":"CONFLICT_RETAINED","session_id":"research.20260811.expansion1"}
+{"action":"EXPAND","item_id":"concept.chinese.wuxing","item_kind":"ENTITY","result":"NATIVE_COMPONENTS_ADDED","session_id":"research.20260811.expansion1"}

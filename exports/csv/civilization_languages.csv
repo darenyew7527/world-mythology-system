@@ -1,0 +1,24 @@
+civilization_id,language_id,usage_role,notes
+civ.akkadian,lang.akk,ATTESTED,Baseline language link for discovery and name routing; not an exclusivity claim.
+civ.assyrian,lang.akk,ATTESTED,Baseline language link for discovery and name routing; not an exclusivity claim.
+civ.babylonian,lang.akk,ATTESTED,Baseline language link for discovery and name routing; not an exclusivity claim.
+civ.chinese_ancient,lang.lzh,ATTESTED,Baseline language link for discovery and name routing; not an exclusivity claim.
+civ.chinese_folk,lang.zh,ATTESTED,Baseline language link for discovery and name routing; not an exclusivity claim.
+civ.daoist,lang.lzh,ATTESTED,Baseline language link for discovery and name routing; not an exclusivity claim.
+civ.egyptian,lang.egy,ATTESTED,Baseline language link for discovery and name routing; not an exclusivity claim.
+civ.greek,lang.grc,ATTESTED,Baseline language link for discovery and name routing; not an exclusivity claim.
+civ.hawaiian,lang.haw,ATTESTED,Baseline language link for discovery and name routing; not an exclusivity claim.
+civ.hindu,lang.san,ATTESTED,Baseline language link for discovery and name routing; not an exclusivity claim.
+civ.ifa,lang.yrb,ATTESTED,Baseline language link for discovery and name routing; not an exclusivity claim.
+civ.irish,lang.gle,ATTESTED,Baseline language link for discovery and name routing; not an exclusivity claim.
+civ.japanese_shinto,lang.ojp,ATTESTED,Baseline language link for discovery and name routing; not an exclusivity claim.
+civ.maori,lang.mai,ATTESTED,Baseline language link for discovery and name routing; not an exclusivity claim.
+civ.maya,lang.myn,ATTESTED,Baseline language link for discovery and name routing; not an exclusivity claim.
+civ.mexica,lang.nci,ATTESTED,Baseline language link for discovery and name routing; not an exclusivity claim.
+civ.norse,lang.non,ATTESTED,Baseline language link for discovery and name routing; not an exclusivity claim.
+civ.roman,lang.lat,ATTESTED,Baseline language link for discovery and name routing; not an exclusivity claim.
+civ.sumerian,lang.sux,ATTESTED,Baseline language link for discovery and name routing; not an exclusivity claim.
+civ.ugaritic,lang.uga,ATTESTED,Baseline language link for discovery and name routing; not an exclusivity claim.
+civ.vedic,lang.san,ATTESTED,Baseline language link for discovery and name routing; not an exclusivity claim.
+civ.yoruba,lang.yrb,ATTESTED,Baseline language link for discovery and name routing; not an exclusivity claim.
+civ.zoroastrian,lang.ave,ATTESTED,Baseline language link for discovery and name routing; not an exclusivity claim.

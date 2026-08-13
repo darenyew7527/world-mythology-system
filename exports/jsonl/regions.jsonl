@@ -1,0 +1,20 @@
+{"canonical_name":"Arctic","id":"region.arctic","name_zh":"北极地区","notes":null,"parent_id":"region.global","region_type":"CULTURAL"}
+{"canonical_name":"Central Africa","id":"region.central_africa","name_zh":"中非","notes":null,"parent_id":"region.global","region_type":"CULTURAL"}
+{"canonical_name":"Central Asia","id":"region.central_asia","name_zh":"中亚","notes":null,"parent_id":"region.global","region_type":"CULTURAL"}
+{"canonical_name":"East Africa","id":"region.east_africa","name_zh":"东非","notes":null,"parent_id":"region.global","region_type":"CULTURAL"}
+{"canonical_name":"East Asia","id":"region.east_asia","name_zh":"东亚","notes":null,"parent_id":"region.global","region_type":"CULTURAL"}
+{"canonical_name":"Eastern Europe","id":"region.eastern_europe","name_zh":"东欧","notes":null,"parent_id":"region.europe","region_type":"CULTURAL"}
+{"canonical_name":"Europe","id":"region.europe","name_zh":"欧洲","notes":null,"parent_id":"region.global","region_type":"CULTURAL"}
+{"canonical_name":"Global","id":"region.global","name_zh":"全球","notes":null,"parent_id":null,"region_type":"CULTURAL"}
+{"canonical_name":"Mediterranean","id":"region.mediterranean","name_zh":"地中海","notes":null,"parent_id":"region.europe","region_type":"CULTURAL"}
+{"canonical_name":"Mesoamerica","id":"region.mesoamerica","name_zh":"中部美洲","notes":null,"parent_id":"region.north_america","region_type":"CULTURAL"}
+{"canonical_name":"North America","id":"region.north_america","name_zh":"北美洲","notes":null,"parent_id":"region.global","region_type":"CULTURAL"}
+{"canonical_name":"Northeast Africa","id":"region.northeast_africa","name_zh":"东北非洲","notes":null,"parent_id":"region.global","region_type":"CULTURAL"}
+{"canonical_name":"Northern Europe","id":"region.northern_europe","name_zh":"北欧","notes":null,"parent_id":"region.europe","region_type":"CULTURAL"}
+{"canonical_name":"Oceania","id":"region.oceania","name_zh":"大洋洲","notes":null,"parent_id":"region.global","region_type":"CULTURAL"}
+{"canonical_name":"South America","id":"region.south_america","name_zh":"南美洲","notes":null,"parent_id":"region.global","region_type":"CULTURAL"}
+{"canonical_name":"South Asia","id":"region.south_asia","name_zh":"南亚","notes":null,"parent_id":"region.global","region_type":"CULTURAL"}
+{"canonical_name":"Southeast Asia","id":"region.southeast_asia","name_zh":"东南亚","notes":null,"parent_id":"region.global","region_type":"CULTURAL"}
+{"canonical_name":"Southern Africa","id":"region.southern_africa","name_zh":"南部非洲","notes":null,"parent_id":"region.global","region_type":"CULTURAL"}
+{"canonical_name":"West Africa","id":"region.west_africa","name_zh":"西非","notes":null,"parent_id":"region.global","region_type":"CULTURAL"}
+{"canonical_name":"West Asia","id":"region.west_asia","name_zh":"西亚","notes":null,"parent_id":"region.global","region_type":"CULTURAL"}

@@ -1,0 +1,19 @@
+id,canonical_name,name_zh,parent_id,civilization_id,region_id,description,research_status
+culture.egypt.middle_kingdom,Egyptian Middle Kingdom,埃及中王国,,civ.egyptian,region.northeast_africa,Includes major Coffin Text horizons.,PARTIAL
+culture.egypt.new_kingdom,Egyptian New Kingdom,埃及新王国,,civ.egyptian,region.northeast_africa,Includes Theban royal tomb and major Book of the Dead witnesses.,PARTIAL
+culture.egypt.old_kingdom,Egyptian Old Kingdom,埃及古王国,,civ.egyptian,region.northeast_africa,Includes earliest Pyramid Text witnesses.,PARTIAL
+culture.greek.archaic,Archaic Greek,古风时期希腊,,civ.greek,region.mediterranean,Textual and material horizon including Homeric and Hesiodic traditions.,PARTIAL
+culture.greek.classical,Classical Greek,古典时期希腊,,civ.greek,region.mediterranean,"City-state cult, drama and inscriptional horizon.",PARTIAL
+culture.greek.hellenistic,Hellenistic Greek,希腊化时期,,civ.greek,region.mediterranean,Post-Alexander Mediterranean and Near Eastern Greek-language horizon.,PARTIAL
+culture.india.epic_sanskrit,Sanskrit epic traditions,梵语史诗传统,,civ.hindu,region.south_asia,Mahābhārata and Rāmāyaṇa version families.,PARTIAL
+culture.maya.kiche,K'iche' Maya,基切玛雅,,civ.maya,region.mesoamerica,Community and language context of the Popol Vuh tradition.,PARTIAL
+culture.mesopotamia.neo_assyrian,Neo-Assyrian,新亚述时期,,civ.assyrian,region.west_asia,Includes Ashurbanipal library copies.,PARTIAL
+culture.mesopotamia.old_babylonian,Old Babylonian,古巴比伦时期,,civ.babylonian,region.west_asia,Textual witness horizon for several Sumerian and Akkadian compositions.,PARTIAL
+culture.mesopotamia.standard_babylonian,Standard Babylonian literary tradition,标准巴比伦文学传统,,civ.babylonian,region.west_asia,First-millennium standard literary recensions.,PARTIAL
+culture.mexica.late_postclassic,Late Postclassic Mexica,后古典期晚期墨西卡,,civ.mexica,region.mesoamerica,Tenochtitlan imperial and ritual context.,PARTIAL
+culture.norse.medieval_icelandic_textual,Medieval Icelandic textual culture,中世纪冰岛文献文化,,civ.norse,region.northern_europe,Christian-era manuscript culture preserving Eddic and saga materials.,PARTIAL
+culture.norse.viking_age,Viking Age Scandinavian,维京时代斯堪的纳维亚,,civ.norse,region.northern_europe,Material and inscriptional horizon; distinct from later manuscript recording.,PARTIAL
+culture.polynesia.raiatea,Raiatea / Taputapuātea,赖阿特阿／塔普塔普阿泰阿,,civ.polynesian,region.oceania,Living sacred-landscape and inter-island network context.,PARTIAL
+culture.ugarit.late_bronze,Late Bronze Age Ugarit,青铜时代晚期乌加里特,,civ.ugaritic,region.west_asia,Ras Shamra tablet and cultic object horizon.,PARTIAL
+culture.vedic.early,Early Vedic,早期吠陀,,civ.vedic,region.south_asia,Early Vedic textual and ritual horizon; dates remain scholarly questions.,PARTIAL
+culture.yoruba.ifa_living,Living Ifá lineages,活态 Ifá 传承,,civ.ifa,region.west_africa,Lineage-based living knowledge; access and permission are contextual.,PARTIAL

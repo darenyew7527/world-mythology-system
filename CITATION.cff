@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "如果本项目帮助了你的研究或作品，请引用此软件与数据版本。 / If this project helps your work, please cite this software and data release."
+title: "世界神话系统 / World Mythology System"
+type: software
+authors:
+  - name: "World Mythology System contributors"
+version: "0.3.1-public-preview"
+date-released: 2026-08-13
+url: "https://github.com/darenyew7527/world-mythology-system"
+repository-code: "https://github.com/darenyew7527/world-mythology-system"
+license: MIT
+keywords:
+  - mythology
+  - knowledge-graph
+  - digital-humanities
+  - archaeology
+  - multilingual
+abstract: "A continuously expandable, multilingual, evidence-aware knowledge system for world mythology, texts, sites, artifacts, and cultural traditions."

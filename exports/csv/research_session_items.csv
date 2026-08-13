@@ -1,0 +1,15 @@
+session_id,item_kind,item_id,action,result
+research.20260811.expansion1,QUEUE,queue.greek.typhon,EXPAND,PARTIAL
+research.20260811.expansion1,QUEUE,queue.greek.metis,EXPAND,PARTIAL
+research.20260811.expansion1,QUEUE,queue.norse.borr,EXPAND,PARTIAL
+research.20260811.expansion1,QUEUE,queue.norse.bestla,EXPAND,PARTIAL
+research.20260811.expansion1,QUEUE,queue.norse.vili,EXPAND,PARTIAL
+research.20260811.expansion1,QUEUE,queue.norse.ve,EXPAND,PARTIAL
+research.20260811.expansion1,QUEUE,queue.norse.mimir,EXPAND,PARTIAL
+research.20260811.expansion1,QUEUE,queue.norse.brokkr_eitri,EXPAND,PARTIAL_WITH_CONFLICT
+research.20260811.expansion1,QUEUE,queue.china.wuxing_sources,EXPAND,PARTIAL
+research.20260811.expansion1,ENTITY,creature.greek.typhon,CREATE,SOURCE_BACKED_BASELINE
+research.20260811.expansion1,ENTITY,deity.greek.metis,CREATE,SOURCE_BACKED_BASELINE
+research.20260811.expansion1,ENTITY,being.norse.eitri,CREATE,IDENTITY_NOT_MERGED
+research.20260811.expansion1,ENTITY,being.norse.sindri,CREATE,CONFLICT_RETAINED
+research.20260811.expansion1,ENTITY,concept.chinese.wuxing,EXPAND,NATIVE_COMPONENTS_ADDED

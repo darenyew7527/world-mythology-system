@@ -1,0 +1,7 @@
+entity_id,event_type,time_layer,cause_summary,process_summary,result_summary,symbolism_summary
+event.babylonian.marduk_tiamat,CREATION_COMBAT,,,,,
+event.greek.titanomachy,DIVINE_WAR,,,,,
+event.greek.zeus_typhon_battle,DIVINE_CONFLICT,Mythic time,Typhon threatens divine and mortal rule,"Zeus attacks with thunder, lightning and thunderbolt",Typhon is defeated and cast into Tartarus,
+event.norse.forging_divine_treasures,ARTIFACT_CREATION,Mythic time,Loki’s wager concerning smithcraft,Brokkr tends the bellows while the smith produces three treasures,"Gullinbursti, Draupnir and Mjölnir are presented to the gods",
+event.norse.ragnarok,WORLD_END_AND_RENEWAL,,,,,
+event.sumerian.inanna_descent,UNDERWORLD_JOURNEY,,,,,

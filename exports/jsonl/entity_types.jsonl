@@ -1,0 +1,54 @@
+{"code":"ANCESTOR_DEITY","description":null,"label_en":"Ancestor deity","label_zh":"祖先神","parent_code":"DEITY"}
+{"code":"ARCHAEOLOGICAL_SITE","description":null,"label_en":"Archaeological site","label_zh":"考古遗址","parent_code":"PLACE"}
+{"code":"ARMOR","description":null,"label_en":"Armor","label_zh":"铠甲","parent_code":"ARTIFACT"}
+{"code":"ARTIFACT","description":null,"label_en":"Artifact","label_zh":"神器／宝物","parent_code":"ENTITY"}
+{"code":"CHARIOT","description":null,"label_en":"Chariot","label_zh":"战车","parent_code":"ARTIFACT"}
+{"code":"CONCEPT","description":null,"label_en":"Concept","label_zh":"概念","parent_code":"ENTITY"}
+{"code":"COSMOLOGY","description":null,"label_en":"Cosmology","label_zh":"宇宙结构","parent_code":"ENTITY"}
+{"code":"CREATURE","description":null,"label_en":"Creature","label_zh":"生物","parent_code":"ENTITY"}
+{"code":"CROWN","description":null,"label_en":"Crown","label_zh":"王冠","parent_code":"ARTIFACT"}
+{"code":"DEITY","description":null,"label_en":"Deity","label_zh":"神祇","parent_code":"ENTITY"}
+{"code":"DEMIGOD","description":null,"label_en":"Demigod","label_zh":"半神","parent_code":"PERSON"}
+{"code":"DEMON","description":null,"label_en":"Demon","label_zh":"恶魔","parent_code":"CREATURE"}
+{"code":"DIVINE_BEAST","description":null,"label_en":"Divine beast","label_zh":"神兽","parent_code":"CREATURE"}
+{"code":"DRAGON","description":null,"label_en":"Dragon","label_zh":"龙","parent_code":"CREATURE"}
+{"code":"DWARF","description":"Culture-specific small supernatural smith or being; do not equate globally by size alone.","label_en":"Dwarf","label_zh":"矮人／侏儒","parent_code":"CREATURE"}
+{"code":"ELEMENT","description":null,"label_en":"Element","label_zh":"元素","parent_code":"ENTITY"}
+{"code":"ENTITY","description":null,"label_en":"Entity","label_zh":"实体","parent_code":null}
+{"code":"EPIC","description":null,"label_en":"Epic","label_zh":"史诗","parent_code":"TEXT"}
+{"code":"EVENT","description":null,"label_en":"Mythic event","label_zh":"神话事件","parent_code":"ENTITY"}
+{"code":"FESTIVAL","description":null,"label_en":"Festival","label_zh":"节庆","parent_code":"RITUAL"}
+{"code":"GIANT","description":null,"label_en":"Giant","label_zh":"巨人","parent_code":"CREATURE"}
+{"code":"HERO","description":null,"label_en":"Hero","label_zh":"英雄","parent_code":"PERSON"}
+{"code":"HISTORICAL_FIGURE","description":null,"label_en":"Historical figure","label_zh":"历史人物","parent_code":"PERSON"}
+{"code":"INSCRIPTION","description":null,"label_en":"Inscription","label_zh":"铭文","parent_code":"TEXT"}
+{"code":"INSTITUTION","description":null,"label_en":"Institution","label_zh":"机构","parent_code":"ENTITY"}
+{"code":"MANUSCRIPT","description":null,"label_en":"Manuscript","label_zh":"手稿","parent_code":"TEXT"}
+{"code":"MODERN_WORK","description":null,"label_en":"Modern work","label_zh":"现代作品","parent_code":"ENTITY"}
+{"code":"MONSTER","description":null,"label_en":"Monster","label_zh":"怪物","parent_code":"CREATURE"}
+{"code":"MONUMENT","description":null,"label_en":"Monument","label_zh":"古迹／纪念建筑","parent_code":"ARCHAEOLOGICAL_SITE"}
+{"code":"MOUNT","description":null,"label_en":"Mount","label_zh":"坐骑","parent_code":"ARTIFACT"}
+{"code":"MUSEUM_OBJECT","description":null,"label_en":"Museum object","label_zh":"博物馆藏品","parent_code":"ENTITY"}
+{"code":"MYTH","description":null,"label_en":"Myth narrative","label_zh":"神话故事","parent_code":"ENTITY"}
+{"code":"MYTHICAL_PLACE","description":null,"label_en":"Mythical place","label_zh":"神话地点","parent_code":"PLACE"}
+{"code":"ORAL_TRADITION","description":null,"label_en":"Oral tradition","label_zh":"口述传统","parent_code":"TEXT"}
+{"code":"PAPYRUS","description":null,"label_en":"Papyrus","label_zh":"纸草","parent_code":"TEXT"}
+{"code":"PERSON","description":null,"label_en":"Person","label_zh":"人物","parent_code":"ENTITY"}
+{"code":"PLACE","description":null,"label_en":"Place","label_zh":"地点","parent_code":"ENTITY"}
+{"code":"POWER","description":null,"label_en":"Power","label_zh":"力量","parent_code":"ENTITY"}
+{"code":"PRIMORDIAL_DEITY","description":null,"label_en":"Primordial deity","label_zh":"原初神","parent_code":"DEITY"}
+{"code":"PYRAMID","description":null,"label_en":"Pyramid","label_zh":"金字塔","parent_code":"ARCHAEOLOGICAL_SITE"}
+{"code":"REALM","description":null,"label_en":"Realm","label_zh":"世界／界域","parent_code":"PLACE"}
+{"code":"RING","description":null,"label_en":"Ring","label_zh":"戒指","parent_code":"ARTIFACT"}
+{"code":"RITUAL","description":null,"label_en":"Ritual","label_zh":"祭祀／仪式","parent_code":"ENTITY"}
+{"code":"SACRED_OBJECT","description":null,"label_en":"Sacred object","label_zh":"圣物","parent_code":"ARTIFACT"}
+{"code":"SCEPTER","description":null,"label_en":"Scepter","label_zh":"权杖","parent_code":"ARTIFACT"}
+{"code":"SCRIPTURE","description":null,"label_en":"Scripture","label_zh":"经文","parent_code":"TEXT"}
+{"code":"SHIP","description":null,"label_en":"Ship","label_zh":"船","parent_code":"ARTIFACT"}
+{"code":"SPIRIT","description":null,"label_en":"Spirit","label_zh":"精灵／灵体","parent_code":"CREATURE"}
+{"code":"TABLET","description":null,"label_en":"Tablet","label_zh":"泥板","parent_code":"TEXT"}
+{"code":"TEMPLE","description":null,"label_en":"Temple","label_zh":"神庙","parent_code":"ARCHAEOLOGICAL_SITE"}
+{"code":"TEXT","description":null,"label_en":"Text","label_zh":"古籍／文献","parent_code":"ENTITY"}
+{"code":"TOMB","description":null,"label_en":"Tomb","label_zh":"墓葬","parent_code":"ARCHAEOLOGICAL_SITE"}
+{"code":"UNDEAD","description":null,"label_en":"Undead","label_zh":"亡灵","parent_code":"CREATURE"}
+{"code":"WEAPON","description":null,"label_en":"Weapon","label_zh":"武器","parent_code":"ARTIFACT"}

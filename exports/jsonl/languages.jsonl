@@ -1,0 +1,21 @@
+{"canonical_name":"Akkadian","historical_stage":null,"id":"lang.akk","iso_639_3":"akk","name_zh":"阿卡德语","notes":null,"script_name":"Cuneiform"}
+{"canonical_name":"Avestan","historical_stage":null,"id":"lang.ave","iso_639_3":"ave","name_zh":"阿维斯陀语","notes":null,"script_name":"Avestan"}
+{"canonical_name":"Egyptian","historical_stage":null,"id":"lang.egy","iso_639_3":"egy","name_zh":"古埃及语","notes":null,"script_name":"Hieroglyphic/Hieratic/Demotic"}
+{"canonical_name":"English","historical_stage":null,"id":"lang.en","iso_639_3":"eng","name_zh":"英语","notes":null,"script_name":"Latin"}
+{"canonical_name":"Irish","historical_stage":null,"id":"lang.gle","iso_639_3":"gle","name_zh":"爱尔兰语","notes":null,"script_name":"Latin/Ogham"}
+{"canonical_name":"Ancient Greek","historical_stage":null,"id":"lang.grc","iso_639_3":"grc","name_zh":"古希腊语","notes":null,"script_name":"Greek"}
+{"canonical_name":"Hawaiian","historical_stage":null,"id":"lang.haw","iso_639_3":"haw","name_zh":"夏威夷语","notes":null,"script_name":"Latin"}
+{"canonical_name":"Japanese","historical_stage":null,"id":"lang.jpn","iso_639_3":"jpn","name_zh":"日语","notes":null,"script_name":"Kanji/Kana"}
+{"canonical_name":"Latin","historical_stage":null,"id":"lang.lat","iso_639_3":"lat","name_zh":"拉丁语","notes":null,"script_name":"Latin"}
+{"canonical_name":"Classical Chinese","historical_stage":null,"id":"lang.lzh","iso_639_3":"lzh","name_zh":"文言文","notes":null,"script_name":"Han"}
+{"canonical_name":"Māori","historical_stage":null,"id":"lang.mai","iso_639_3":"mri","name_zh":"毛利语","notes":null,"script_name":"Latin"}
+{"canonical_name":"Mayan languages","historical_stage":null,"id":"lang.myn","iso_639_3":"myn","name_zh":"玛雅语言","notes":null,"script_name":"Maya script/Latin"}
+{"canonical_name":"Classical Nahuatl","historical_stage":null,"id":"lang.nci","iso_639_3":"nci","name_zh":"古典纳瓦特尔语","notes":null,"script_name":"Latin/Pictorial"}
+{"canonical_name":"Old Norse","historical_stage":null,"id":"lang.non","iso_639_3":"non","name_zh":"古诺斯语","notes":null,"script_name":"Runic/Latin"}
+{"canonical_name":"Old Japanese","historical_stage":null,"id":"lang.ojp","iso_639_3":"ojp","name_zh":"上代日语","notes":null,"script_name":"Man'yōgana"}
+{"canonical_name":"Middle Persian","historical_stage":null,"id":"lang.pal","iso_639_3":"pal","name_zh":"中古波斯语","notes":null,"script_name":"Pahlavi"}
+{"canonical_name":"Sanskrit","historical_stage":null,"id":"lang.san","iso_639_3":"san","name_zh":"梵语","notes":null,"script_name":"Multiple"}
+{"canonical_name":"Sumerian","historical_stage":null,"id":"lang.sux","iso_639_3":"sux","name_zh":"苏美尔语","notes":null,"script_name":"Cuneiform"}
+{"canonical_name":"Ugaritic","historical_stage":null,"id":"lang.uga","iso_639_3":"uga","name_zh":"乌加里特语","notes":null,"script_name":"Ugaritic cuneiform"}
+{"canonical_name":"Yoruba","historical_stage":null,"id":"lang.yrb","iso_639_3":"yor","name_zh":"约鲁巴语","notes":null,"script_name":"Latin"}
+{"canonical_name":"Chinese","historical_stage":null,"id":"lang.zh","iso_639_3":"zho","name_zh":"中文","notes":null,"script_name":"Han"}

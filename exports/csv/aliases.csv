@@ -1,0 +1,15 @@
+id,alias_text,normalized_text,language_id,entity_id,candidate_entity_id,resolution_status,confidence,source_id,notes
+alias.asherah.athirat,Athirat,athirat,lang.en,deity.ugaritic.asherah,,RESOLVED,0.95,,Ugaritic name in modern transliteration
+alias.baal.ba_lu,Baʿlu,baʿlu,lang.uga,deity.ugaritic.baal,,RESOLVED,1.0,,Ugaritic form; does not resolve every deity titled baal
+alias.borr.bor,Bor,bor,lang.en,deity.norse.borr,,RESOLVED,0.9,source.norse.prose_edda.vsnr,Anglicized spelling
+alias.enlil.ellil,Ellil,ellil,lang.akk,deity.sumerian.enlil,,RESOLVED,0.95,,Akkadian form; language context retained
+alias.inanna.inana,Inana,inana,lang.sux,deity.sumerian.inanna,,RESOLVED,1.0,,ETCSL spelling convention
+alias.mimir.mim,Mim,mim,lang.en,being.norse.mimir,,RESOLVED,0.8,source.norse.prose_edda.vsnr,English spelling variant
+alias.mjolnir.mjollnir,Mjǫllnir,mjǫllnir,lang.non,weapon.norse.mjolnir,,RESOLVED,1.0,,Old Norse form
+alias.odin.odinn,Óðinn,óðinn,lang.non,deity.norse.odin,,RESOLVED,1.0,,Old Norse form
+alias.ra.ray,Rē,rē,lang.en,deity.egyptian.ra,,RESOLVED,0.99,,Modern transliteration variant
+alias.ra.re,Re,re,lang.en,deity.egyptian.ra,,RESOLVED,0.99,,Modern Egyptological spelling variant
+alias.thor.thorr,Þórr,þórr,lang.non,deity.norse.thor,,RESOLVED,1.0,,Old Norse form
+alias.typhon.typhoeus,Typhoeus,typhoeus,lang.en,creature.greek.typhon,,RESOLVED,0.85,source.greek.theogony.perseus_eng1,Resolved only for this canonical record and cited translation; Typhaon is not merged
+alias.wuxing.five_agents,Five Agents,five agents,lang.en,concept.chinese.wuxing,,RESOLVED,0.8,source.china.hong_fan.ctext,Alternative translation
+alias.wuxing.five_phases,Five Phases,five phases,lang.en,concept.chinese.wuxing,,RESOLVED,0.95,source.china.hong_fan.ctext,Preferred comparative translation; does not imply identity with Greek elements

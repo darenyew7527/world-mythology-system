@@ -1,0 +1,18 @@
+# 怪物、神兽与生物索引
+
+| ID | 中文 | English | Type | Civilization | Detail/Status | Evidence |
+|---|---|---|---|---|---|---|
+| being.chinese.pangu | 盘古 | Pangu | GIANT | 中国上古神话 | PARTIAL | UNVERIFIED |
+| creature.greek.cyclopes_hesiodic | 赫西俄德传统独眼巨人 | Hesiodic Cyclopes | GIANT | 古希腊 | DISCOVERED | SOURCE_BACKED |
+| creature.greek.typhon | 提丰 | Typhon | MONSTER | 古希腊 | PARTIAL | PARTIAL |
+| deity.babylonian.tiamat | 提亚马特 | Tiamat | PRIMORDIAL_DEITY | 巴比伦 | PARTIAL | SOURCE_BACKED |
+| being.norse.bestla | 贝斯特拉 | Bestla | GIANT | 北欧 | PARTIAL | PARTIAL |
+| being.norse.brokkr | 布洛克 | Brokkr | DWARF | 北欧 | PARTIAL | PARTIAL |
+| being.norse.eitri | 艾特里 | Eitri | DWARF | 北欧 | PARTIAL | PARTIAL |
+| creature.norse.fenrir | 芬里尔 | Fenrir | MONSTER | 北欧 | PARTIAL | SOURCE_BACKED |
+| creature.norse.gullinbursti | 金鬃野猪 | Gullinbursti | DIVINE_BEAST | 北欧 | PARTIAL | PARTIAL |
+| creature.norse.jormungandr | 耶梦加得 | Jörmungandr | DRAGON | 北欧 | PARTIAL | UNVERIFIED |
+| being.norse.mimir | 密米尔 | Mímir | CREATURE | 北欧 | PARTIAL | PARTIAL |
+| being.norse.sindri | 辛德里 | Sindri | DWARF | 北欧 | NEEDS_REVIEW | CONFLICTING |
+| being.norse.sons_of_ivaldi | 伊瓦尔迪之子 | Sons of Ivaldi | CREATURE | 北欧 | DISCOVERED | SOURCE_BACKED |
+| being.norse.ymir | 尤弥尔 | Ymir | GIANT | 北欧 | PARTIAL | UNVERIFIED |

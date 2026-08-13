@@ -1,0 +1,53 @@
+name: "建议新来源 / Suggest a source"
+description: "补充原始文本、馆藏、数字版、学术资料或授权的传统记录 / Add a primary text, collection, scholarly edition, or authorized tradition record"
+title: "[来源] "
+labels: ["data: source", "needs: verification"]
+body:
+  - type: input
+    id: title
+    attributes:
+      label: "来源标题 / Source title"
+    validations:
+      required: true
+  - type: input
+    id: author
+    attributes:
+      label: "作者或机构 / Author or institution"
+  - type: input
+    id: locator
+    attributes:
+      label: "稳定链接、DOI、ISBN 或馆藏号 / Stable URL, DOI, ISBN, or catalogue number"
+    validations:
+      required: true
+  - type: textarea
+    id: exact
+    attributes:
+      label: "具体定位 / Precise locator"
+      description: "章节、卷、诗节、行号、页码、泥板号、手稿号等。"
+  - type: textarea
+    id: supports
+    attributes:
+      label: "它支持什么说法 / Claim supported"
+      description: "列出相关实体 ID（如果知道）以及来源能支持的具体说法。"
+    validations:
+      required: true
+  - type: dropdown
+    id: source_type
+    attributes:
+      label: "来源类型 / Source type"
+      options:
+        - 原始文本 / Primary text
+        - 铭文、泥板、纸草或手稿 / Inscription, tablet, papyrus, or manuscript
+        - 考古或博物馆记录 / Archaeological or museum record
+        - 学术校勘、论文或专著 / Scholarly edition, paper, or monograph
+        - 官方遗址或 UNESCO / Official site or UNESCO
+        - 口述或活态传统记录 / Oral or living-tradition record
+        - 后世文学、民间传说或现代改编 / Later literature, folklore, or adaptation
+        - 其他 / Other
+    validations:
+      required: true
+  - type: textarea
+    id: rights
+    attributes:
+      label: "使用条款与文化权限 / Rights and cultural permissions"
+      description: "请链接或概括相关版权、复用限制与社区授权。"

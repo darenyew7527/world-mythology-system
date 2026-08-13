@@ -1,0 +1,556 @@
+{
+  "counts": {
+    "aliases": 14,
+    "artifact_profiles": 35,
+    "civilization_languages": 23,
+    "civilizations": 95,
+    "claims": 109,
+    "collection_queue": 31,
+    "conflicts": 2,
+    "coverage_metrics": 58,
+    "coverage_reports": 2,
+    "creature_profiles": 14,
+    "cultures": 18,
+    "dataset_releases": 2,
+    "deity_profiles": 111,
+    "entities": 430,
+    "entity_attributes": 0,
+    "entity_civilizations": 373,
+    "entity_classifications": 447,
+    "entity_redirects": 5,
+    "entity_types": 54,
+    "event_participants": 9,
+    "evidence": 103,
+    "identity_candidates": 2,
+    "import_errors": 0,
+    "import_runs": 0,
+    "languages": 21,
+    "modern_adaptations": 0,
+    "museum_object_profiles": 6,
+    "myth_event_profiles": 6,
+    "names": 1012,
+    "place_profiles": 78,
+    "project_metadata": 6,
+    "quality_findings": 0,
+    "quality_runs": 1,
+    "queue_discoveries": 31,
+    "queue_status_history": 34,
+    "regions": 20,
+    "relationship_types": 67,
+    "research_session_items": 14,
+    "research_sessions": 2,
+    "schema_migrations": 4,
+    "sources": 87,
+    "text_profiles": 104,
+    "tradition_links": 6
+  },
+  "database": "world_mythology.sqlite",
+  "database_sha256": "25f10f16dff8a26503591cce201f2f4a48135ded9ab125961198fa8bbc040b5e",
+  "excluded_object_types": [
+    "view",
+    "sqlite_internal"
+  ],
+  "files": [
+    {
+      "bytes": 1846,
+      "path": "csv/aliases.csv",
+      "sha256": "6b3bb0eee4024915b8574e5b7cf8b81d6d6f1e3b8e1c321a1b0ef260461084e1"
+    },
+    {
+      "bytes": 2059,
+      "path": "csv/artifact_profiles.csv",
+      "sha256": "20f946e3c4f82b3468a370480501f3db7aa8906a8c27a66011863c44bac4ec56"
+    },
+    {
+      "bytes": 2607,
+      "path": "csv/civilization_languages.csv",
+      "sha256": "a6dc431c7a5704147bc0ac39425818cf4055605ffb4cb5e7a2bcf5d1e6b56582"
+    },
+    {
+      "bytes": 9610,
+      "path": "csv/civilizations.csv",
+      "sha256": "2de8d9ae6614c8cc378e96ebd38dc260dd6b105c1b63c82c96fe0e2c7315480d"
+    },
+    {
+      "bytes": 31734,
+      "path": "csv/claims.csv",
+      "sha256": "8cb7919888ad89e79608b3eab920355f1b8b8811a34af7a50ec66542ec1962f0"
+    },
+    {
+      "bytes": 9361,
+      "path": "csv/collection_queue.csv",
+      "sha256": "a4e7c8f1b67ba831d1a3401359d5313abc1dd6ee5711564e3f8015548131b477"
+    },
+    {
+      "bytes": 662,
+      "path": "csv/conflicts.csv",
+      "sha256": "5d239f35879c885bf7e5a287f074e67cafd3edcf2ba33fb87b57c3c80ce1509a"
+    },
+    {
+      "bytes": 8317,
+      "path": "csv/coverage_metrics.csv",
+      "sha256": "1303137aca04cfb1d3604c058275287f00eaf2d218cb3aef02dc6904151c27a7"
+    },
+    {
+      "bytes": 388,
+      "path": "csv/coverage_reports.csv",
+      "sha256": "757c79f3bd3d6250f20111404e8fb20856ca15275c209408d26adde5f337c010"
+    },
+    {
+      "bytes": 1272,
+      "path": "csv/creature_profiles.csv",
+      "sha256": "4c039e4ea360b0862e2b1aa15ac08cea0c73d931f96af7c34f7f06c0c2970af9"
+    },
+    {
+      "bytes": 3128,
+      "path": "csv/cultures.csv",
+      "sha256": "08df12610aceccea92fb45a1cf702520500c1b1eff876183b65d4f609c689a45"
+    },
+    {
+      "bytes": 712,
+      "path": "csv/dataset_releases.csv",
+      "sha256": "ec20b3076b45611cafe77904127cb2bfe2f6799855047f6db45be6df364deff9"
+    },
+    {
+      "bytes": 5649,
+      "path": "csv/deity_profiles.csv",
+      "sha256": "dff2e3dc10ffb5150e39301d616078cbdc38e7c2471b9c5e63c8eebae8012342"
+    },
+    {
+      "bytes": 72518,
+      "path": "csv/entities.csv",
+      "sha256": "b1f32b138edc16a86c4ff08b27622b44e35b774175772dc3f6d702ffccea6cd8"
+    },
+    {
+      "bytes": 98,
+      "path": "csv/entity_attributes.csv",
+      "sha256": "e69fb3db99db0463fd52eba22f5950a535a154946605fc7a7440e1319c256beb"
+    },
+    {
+      "bytes": 26415,
+      "path": "csv/entity_civilizations.csv",
+      "sha256": "0a34cd93d1aab7ad50467f941499cf440dc3152f6ae211dbfe2718c5bca5d882"
+    },
+    {
+      "bytes": 17051,
+      "path": "csv/entity_classifications.csv",
+      "sha256": "1ced0b96f0aac822dba649400e6176eb98daac151589eae24c9093d4a5c1150e"
+    },
+    {
+      "bytes": 987,
+      "path": "csv/entity_redirects.csv",
+      "sha256": "94714c4176fb97e12ac0c40c76f27418da83add9980daffe2d665bfd53cae297"
+    },
+    {
+      "bytes": 2097,
+      "path": "csv/entity_types.csv",
+      "sha256": "87aaa1238629c7b728d63e562380bb9c2a6ddd2b345a9ad76ad73bfec17c0578"
+    },
+    {
+      "bytes": 1010,
+      "path": "csv/event_participants.csv",
+      "sha256": "e21b3d8fadc852cd39977db3074936ee450d8c5be393f88442e5eb7726307937"
+    },
+    {
+      "bytes": 23409,
+      "path": "csv/evidence.csv",
+      "sha256": "0111b9d1732cf1170b2daecd97cb2478b3e4b2613cb3c518efea7a221269bdfd"
+    },
+    {
+      "bytes": 543,
+      "path": "csv/identity_candidates.csv",
+      "sha256": "3950e14567e71835cfcc9f4763871cac40166089215a1c508160d97bf98d5e60"
+    },
+    {
+      "bytes": 60,
+      "path": "csv/import_errors.csv",
+      "sha256": "0bc52275737f29da2ec3decba75f35e0d6bf18f2361ed9f3ff68250796400752"
+    },
+    {
+      "bytes": 109,
+      "path": "csv/import_runs.csv",
+      "sha256": "f316757d849e503bb8370d2fac315b9260b584bb4e89068a64caeee6dfb92e6f"
+    },
+    {
+      "bytes": 1078,
+      "path": "csv/languages.csv",
+      "sha256": "862a10d200f7e6d374b37ad9c46e1fed9186a5c15a56b85fd09807c232eba0b5"
+    },
+    {
+      "bytes": 113,
+      "path": "csv/modern_adaptations.csv",
+      "sha256": "634b80f8bcac08f7e5556224203f0d11ba33048519604a8c006900ecff80189f"
+    },
+    {
+      "bytes": 616,
+      "path": "csv/museum_object_profiles.csv",
+      "sha256": "548555f3da15ec68dd80241589a92ea71997464498fe83cf27c9d69e1266f464"
+    },
+    {
+      "bytes": 721,
+      "path": "csv/myth_event_profiles.csv",
+      "sha256": "da1c8f8c500ef017ac920b3771232aa69fe3e340fb056977c0d1b5ee6da3ab6f"
+    },
+    {
+      "bytes": 110843,
+      "path": "csv/names.csv",
+      "sha256": "9d4aa8b0dc97f5a812562390a63d9c2b8d43288133274efc9612b0d16b3190f6"
+    },
+    {
+      "bytes": 7901,
+      "path": "csv/place_profiles.csv",
+      "sha256": "a9eeac34430bd628fc08d20f9a8102fbb40ef4684e686149482a27358c3c9737"
+    },
+    {
+      "bytes": 448,
+      "path": "csv/project_metadata.csv",
+      "sha256": "3a20d9b09a4b9629c3cca54dfd773e260be2ff120f6add4adf354d4eb42758aa"
+    },
+    {
+      "bytes": 71,
+      "path": "csv/quality_findings.csv",
+      "sha256": "d5098e713a0bab50ae60e408740d74d0022380755c71961c43291d0f69178cca"
+    },
+    {
+      "bytes": 134,
+      "path": "csv/quality_runs.csv",
+      "sha256": "19552a9dca6fffaf4026cf75ab98ae72e4dec94e1b995cc4a34454cb2f8d0f23"
+    },
+    {
+      "bytes": 4842,
+      "path": "csv/queue_discoveries.csv",
+      "sha256": "7ab30e9f4dfbf596c58c60de7e38c542c7146479be345605b6391edcc4633063"
+    },
+    {
+      "bytes": 4231,
+      "path": "csv/queue_status_history.csv",
+      "sha256": "da6d30e158a8a13a1ca6dc13f0185eae125cd8f045d72de18bea497c0dd4abc6"
+    },
+    {
+      "bytes": 1337,
+      "path": "csv/regions.csv",
+      "sha256": "131e8ecc65304a678ddb82dfb1bb60b6c4e09a0ef66a7d131d6bc7db2a8f0adb"
+    },
+    {
+      "bytes": 3897,
+      "path": "csv/relationship_types.csv",
+      "sha256": "a290171e5b6ba014935cbaec7d204a9a143e83036934258170f8a59cd7cd3968"
+    },
+    {
+      "bytes": 1105,
+      "path": "csv/research_session_items.csv",
+      "sha256": "dbc1c577547204ad92e39a1974336174f1adc9c79790d1749cf7b69f8f68c773"
+    },
+    {
+      "bytes": 930,
+      "path": "csv/research_sessions.csv",
+      "sha256": "8e99257ecdeaa4625fbbc0502ed4cc7b9469204c255834a5d868a6b59b371548"
+    },
+    {
+      "bytes": 272,
+      "path": "csv/schema_migrations.csv",
+      "sha256": "7b25ca18443c009fa9ba0c62e650acf69eaf70cc4fd069fc55f14dd7b15ff7d3"
+    },
+    {
+      "bytes": 27978,
+      "path": "csv/sources.csv",
+      "sha256": "4f7de4f56a49ef2c05aa104aa28f82a24e39834302c7729722930b6b29366528"
+    },
+    {
+      "bytes": 10003,
+      "path": "csv/text_profiles.csv",
+      "sha256": "16e3b5720411d2601418c093b62ab85c8d7b7d87b36aa1854e5f596091153133"
+    },
+    {
+      "bytes": 746,
+      "path": "csv/tradition_links.csv",
+      "sha256": "78599808fe85bc68ca9af777a314e8ff6e75423dae9baf7cb6d2abab462f1052"
+    },
+    {
+      "bytes": 63495,
+      "path": "graph/knowledge_graph.graphml",
+      "sha256": "062fe47358e3ebea83487908f87ac7bf73b62647e05b9a74d16de44443a8ef92"
+    },
+    {
+      "bytes": 131338,
+      "path": "graph/knowledge_graph.json",
+      "sha256": "a11ba6bf2e4a83c70cde13f5d9b83a47377195a4e501b8704e0046c386d465e9"
+    },
+    {
+      "bytes": 18839,
+      "path": "graph/relationships.csv",
+      "sha256": "7d40404562713993e21142403a89907648a0cac88fa95da98407db2b699b71e3"
+    },
+    {
+      "bytes": 3973,
+      "path": "jsonl/aliases.jsonl",
+      "sha256": "15a4751dd8b0e161bf7d6fd9b36e88ae91f668d83aa1db4d05c03b5ddf7b4108"
+    },
+    {
+      "bytes": 8213,
+      "path": "jsonl/artifact_profiles.jsonl",
+      "sha256": "073efa5519a8f698becc1e2e62d97298e60b09dd2cbdb24756eb7d0d8c3b34ca"
+    },
+    {
+      "bytes": 4011,
+      "path": "jsonl/civilization_languages.jsonl",
+      "sha256": "10e6569e20149b106e34a11ad8dfe1783be0608384204e6c56e0e75fb0436167"
+    },
+    {
+      "bytes": 28730,
+      "path": "jsonl/civilizations.jsonl",
+      "sha256": "d788d0c5d81df909243cca3a2d9eb9ddca7cea5166676744ccd3f31f00383c77"
+    },
+    {
+      "bytes": 66260,
+      "path": "jsonl/claims.jsonl",
+      "sha256": "0b52b509e51e995c55121a040ead7667592269090d1db9981062168d9f3ef345"
+    },
+    {
+      "bytes": 18483,
+      "path": "jsonl/collection_queue.jsonl",
+      "sha256": "9bef1868cd4709917d1e95699fdd34fdb132b8682536d876167123422a8f607f"
+    },
+    {
+      "bytes": 838,
+      "path": "jsonl/conflicts.jsonl",
+      "sha256": "050c1bc1846d8dd3e7791670fe9c72ba326514cbb68f434a61ec2b83c5c9267c"
+    },
+    {
+      "bytes": 12485,
+      "path": "jsonl/coverage_metrics.jsonl",
+      "sha256": "7bdede276e57f7d10aac906c5ff513cf3bb404bd2d75b9fd3c92e62103dbfe26"
+    },
+    {
+      "bytes": 463,
+      "path": "jsonl/coverage_reports.jsonl",
+      "sha256": "89abac82195d6a2dc085cfbe9a4a35392ada42ef8fddc8eeb0a5193ef7ed8c9f"
+    },
+    {
+      "bytes": 3308,
+      "path": "jsonl/creature_profiles.jsonl",
+      "sha256": "4f6b0f3ca5d503c34b21fd00fddbf2f480d4826ce1150d8c6bbc2b0c19d74bd2"
+    },
+    {
+      "bytes": 5304,
+      "path": "jsonl/cultures.jsonl",
+      "sha256": "4ebb06d0d458e2051b7433a09921879aa2f45ceb02bbb2ffebc63a5a864ea1d1"
+    },
+    {
+      "bytes": 845,
+      "path": "jsonl/dataset_releases.jsonl",
+      "sha256": "6b6dcae3bb264f42be41ecf74a69e34fc52d13c7439316d7f4473a0609f81b52"
+    },
+    {
+      "bytes": 29103,
+      "path": "jsonl/deity_profiles.jsonl",
+      "sha256": "6d2bd43196b40c0948caddbd95ac7dcc4cfc14ab7da038145968084c23979bc5"
+    },
+    {
+      "bytes": 210513,
+      "path": "jsonl/entities.jsonl",
+      "sha256": "aab1bd3dc400150b0b1cf6311a2197d86285c278c77a5f1f41f098c8d6fef896"
+    },
+    {
+      "bytes": 0,
+      "path": "jsonl/entity_attributes.jsonl",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "bytes": 57219,
+      "path": "jsonl/entity_civilizations.jsonl",
+      "sha256": "48a8ae9e45798982031690bcac69dc1930ec17562b92c7e735407075ebd8bff1"
+    },
+    {
+      "bytes": 41543,
+      "path": "jsonl/entity_classifications.jsonl",
+      "sha256": "6ddcf9bb06aa4d7eb9b8d4665414bcecc7db93c7ce9948d1c74d3d54ed16235f"
+    },
+    {
+      "bytes": 1353,
+      "path": "jsonl/entity_redirects.jsonl",
+      "sha256": "b32bdc66c6bebf45550a468bc08106a634b069723009336f2b86416d2f992c83"
+    },
+    {
+      "bytes": 5884,
+      "path": "jsonl/entity_types.jsonl",
+      "sha256": "92a46753caa1eeaa091a3d3f8288f0539ff96d60a4ff6c9ab1993a7f7888730c"
+    },
+    {
+      "bytes": 1586,
+      "path": "jsonl/event_participants.jsonl",
+      "sha256": "5d4cfff29e0ddf627776a4f621500fc0cfba0e80a70b3775f529ffdf25077fb2"
+    },
+    {
+      "bytes": 44417,
+      "path": "jsonl/evidence.jsonl",
+      "sha256": "e01f6f8a9ff19561d7afd7b4dc393ff6b5e7684df272a8dcd266bd194f150880"
+    },
+    {
+      "bytes": 664,
+      "path": "jsonl/identity_candidates.jsonl",
+      "sha256": "77f0fe1a0f3b80bbbe82e17004a97e68543d1327c35238af70a94e83b302d0e2"
+    },
+    {
+      "bytes": 0,
+      "path": "jsonl/import_errors.jsonl",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "bytes": 0,
+      "path": "jsonl/import_runs.jsonl",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "bytes": 3212,
+      "path": "jsonl/languages.jsonl",
+      "sha256": "cbe12243fc75f6aaa5979c4421a9b6651460ee23b5615ebffa41f32d0096a6f9"
+    },
+    {
+      "bytes": 0,
+      "path": "jsonl/modern_adaptations.jsonl",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "bytes": 1325,
+      "path": "jsonl/museum_object_profiles.jsonl",
+      "sha256": "3e3f79ca00c5c997e5b661821f66df5f85d8bd7b73db9789b1d6416f21bc77d7"
+    },
+    {
+      "bytes": 1416,
+      "path": "jsonl/myth_event_profiles.jsonl",
+      "sha256": "e6f5d8195c2ddce8bb8412148a913fc4f5e5c8ac8941ff1bd6e0574c4a0ae8de"
+    },
+    {
+      "bytes": 289720,
+      "path": "jsonl/names.jsonl",
+      "sha256": "562b9942a02b595811e9afcd1275fe210a8a1f21abd0bdfaa9b2f50a28ae4b88"
+    },
+    {
+      "bytes": 29761,
+      "path": "jsonl/place_profiles.jsonl",
+      "sha256": "81d85d0eaa8ebe4560d6f29fb53833d9d58d40715d6b5fcede9d7b0412fa1fc7"
+    },
+    {
+      "bytes": 637,
+      "path": "jsonl/project_metadata.jsonl",
+      "sha256": "5c07104edcd50ecbef2984d3c1a56821e3a11ae3db7209d3e41bc0b354f85a7e"
+    },
+    {
+      "bytes": 0,
+      "path": "jsonl/quality_findings.jsonl",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "bytes": 156,
+      "path": "jsonl/quality_runs.jsonl",
+      "sha256": "9c3ed6fb60135a9f67436bb421b55781fb072ec1737c97c31c6fb1c92376db34"
+    },
+    {
+      "bytes": 9504,
+      "path": "jsonl/queue_discoveries.jsonl",
+      "sha256": "660645ad79b754f0e95d47b511b87f1e31737d036be68d081c452e13487e587c"
+    },
+    {
+      "bytes": 6871,
+      "path": "jsonl/queue_status_history.jsonl",
+      "sha256": "0c788eb2869f7af9556a8f0a69eed3a795fc46853c9050ab3557512da9b73d16"
+    },
+    {
+      "bytes": 2925,
+      "path": "jsonl/regions.jsonl",
+      "sha256": "285e52b652367ab5fb9b0ec87b32cc204a309576ffc3f3bed7fbfa84eca73753"
+    },
+    {
+      "bytes": 10527,
+      "path": "jsonl/relationship_types.jsonl",
+      "sha256": "6c323a1559b4d01c0f39e7381915a408021a47771e3f61d201dc17f8882209b0"
+    },
+    {
+      "bytes": 1972,
+      "path": "jsonl/research_session_items.jsonl",
+      "sha256": "2a019f3459aa5bdffb6f61a4c46c6d47dc756fa18f784d1137ff401be741e73a"
+    },
+    {
+      "bytes": 1064,
+      "path": "jsonl/research_sessions.jsonl",
+      "sha256": "da73455f166ef9ea4e65ff3a519d47dc1c1d02a394908b364eb0fcf6d420d353"
+    },
+    {
+      "bytes": 392,
+      "path": "jsonl/schema_migrations.jsonl",
+      "sha256": "dec87329eef2d9a8768ebc07e708945ea06baceb286c960c3283a1a86891e626"
+    },
+    {
+      "bytes": 73904,
+      "path": "jsonl/sources.jsonl",
+      "sha256": "740462ac8ae42daa6354aeb1b4302331dfcad77642d368f08d4c2abda74d8647"
+    },
+    {
+      "bytes": 34712,
+      "path": "jsonl/text_profiles.jsonl",
+      "sha256": "f68403a8e453000c9d4397c1120fe345901b090cb98ed0b4b67c64767def72a9"
+    },
+    {
+      "bytes": 1245,
+      "path": "jsonl/tradition_links.jsonl",
+      "sha256": "00f268819dfe771c0add0bededc8bc6f809cb7a0ccf9d352d7640e73e626a9c7"
+    }
+  ],
+  "format_version": 2,
+  "graph_counts": {
+    "edges": 94,
+    "nodes": 430
+  },
+  "release": {
+    "built_at": "2026-08-11T03:05:26Z",
+    "data_version": "0.2.0-expansion-20260811",
+    "git_commit": "05579fc",
+    "schema_version": 2
+  },
+  "tables": [
+    "aliases",
+    "artifact_profiles",
+    "civilization_languages",
+    "civilizations",
+    "claims",
+    "collection_queue",
+    "conflicts",
+    "coverage_metrics",
+    "coverage_reports",
+    "creature_profiles",
+    "cultures",
+    "dataset_releases",
+    "deity_profiles",
+    "entities",
+    "entity_attributes",
+    "entity_civilizations",
+    "entity_classifications",
+    "entity_redirects",
+    "entity_types",
+    "event_participants",
+    "evidence",
+    "identity_candidates",
+    "import_errors",
+    "import_runs",
+    "languages",
+    "modern_adaptations",
+    "museum_object_profiles",
+    "myth_event_profiles",
+    "names",
+    "place_profiles",
+    "project_metadata",
+    "quality_findings",
+    "quality_runs",
+    "queue_discoveries",
+    "queue_status_history",
+    "regions",
+    "relationship_types",
+    "research_session_items",
+    "research_sessions",
+    "schema_migrations",
+    "sources",
+    "text_profiles",
+    "tradition_links"
+  ]
+}

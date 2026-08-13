@@ -1,0 +1,96 @@
+id,canonical_name,name_zh,original_name,parent_id,region_id,tradition_type,period_start,period_end,description,research_status,evidence_status
+civ.ainu,Ainu,阿伊努,,,region.east_asia,TRADITION,,,,DISCOVERED,UNVERIFIED
+civ.akan,Akan,Akan,,,region.west_africa,TRADITION_FAMILY,,,,DISCOVERED,UNVERIFIED
+civ.akkadian,Akkadian,阿卡德,,,region.west_asia,CIVILIZATION,,,,COLLECTING,PARTIAL
+civ.aleut,Aleut / Unangax̂,阿留申／乌南甘,,,region.arctic,TRADITION,,,,DISCOVERED,UNVERIFIED
+civ.andean,Andean,安第斯,,,region.south_america,TRADITION_FAMILY,,,,DISCOVERED,UNVERIFIED
+civ.anglo_saxon,Anglo-Saxon,盎格鲁-撒克逊,,civ.germanic,region.northern_europe,TRADITION,,,,DISCOVERED,UNVERIFIED
+civ.assyrian,Assyrian,亚述,,civ.akkadian,region.west_asia,CIVILIZATION,,,,DISCOVERED,UNVERIFIED
+civ.australian_aboriginal,Australian Aboriginal Traditions,澳大利亚原住民传统,,,region.oceania,TRADITION_FAMILY,,,,DISCOVERED,UNVERIFIED
+civ.aztec,Aztec,阿兹特克,,,region.mesoamerica,HISTORIOGRAPHIC_UMBRELLA,,,,COLLECTING,PARTIAL
+civ.babylonian,Babylonian,巴比伦,,civ.akkadian,region.west_asia,CIVILIZATION,,,,COLLECTING,PARTIAL
+civ.baltic,Baltic,波罗的海,,,region.eastern_europe,TRADITION_FAMILY,,,,DISCOVERED,UNVERIFIED
+civ.bhutanese,Bhutanese,不丹,,,region.south_asia,TRADITION_FAMILY,,,,DISCOVERED,UNVERIFIED
+civ.buddhist,Buddhist,佛教传统,,,region.south_asia,RELIGIOUS_TRADITION,,,,DISCOVERED,UNVERIFIED
+civ.burmese,Burmese Traditions,缅甸传统,,,region.southeast_asia,TRADITION_FAMILY,,,,DISCOVERED,UNVERIFIED
+civ.canaanite,Canaanite,迦南,,,region.west_asia,TRADITION_FAMILY,,,,DISCOVERED,UNVERIFIED
+civ.celtic,Celtic,凯尔特,,,region.europe,TRADITION_FAMILY,,,,COLLECTING,PARTIAL
+civ.central_african,Central African Traditions,中非传统,,,region.central_africa,TRADITION_FAMILY,,,,DISCOVERED,UNVERIFIED
+civ.central_asian,Central Asian,中亚,,,region.central_asia,TRADITION_FAMILY,,,,DISCOVERED,UNVERIFIED
+civ.chinese_ancient,Ancient Chinese,中国上古神话,,,region.east_asia,TRADITION_FAMILY,,,,COLLECTING,PARTIAL
+civ.chinese_folk,Chinese Folk Religion,中国民间信仰,,,region.east_asia,TRADITION_FAMILY,,,,COLLECTING,PARTIAL
+civ.chinese_local,Chinese Local Traditions,中国地方神系,,civ.chinese_folk,region.east_asia,TRADITION_FAMILY,,,,DISCOVERED,UNVERIFIED
+civ.daoist,Chinese Daoist,中国道教,,,region.east_asia,RELIGIOUS_TRADITION,,,,COLLECTING,PARTIAL
+civ.east_african,East African Traditions,东非传统,,,region.east_africa,TRADITION_FAMILY,,,,DISCOVERED,UNVERIFIED
+civ.egyptian,Ancient Egyptian,古埃及,,,region.northeast_africa,CIVILIZATION,,,,COLLECTING,PARTIAL
+civ.ethiopian,Ethiopian Traditions,埃塞俄比亚传统,,,region.east_africa,TRADITION_FAMILY,,,,DISCOVERED,UNVERIFIED
+civ.etruscan,Etruscan,伊特鲁里亚,,,region.mediterranean,CIVILIZATION,,,,DISCOVERED,UNVERIFIED
+civ.filipino,Philippine Traditions,菲律宾传统,,,region.southeast_asia,TRADITION_FAMILY,,,,DISCOVERED,UNVERIFIED
+civ.finnish,Finnish,芬兰,,,region.northern_europe,TRADITION,,,,DISCOVERED,UNVERIFIED
+civ.gaulish,Gaulish,高卢,,civ.celtic,region.europe,TRADITION,,,,DISCOVERED,UNVERIFIED
+civ.germanic,Germanic,日耳曼,,,region.northern_europe,TRADITION,,,,DISCOVERED,UNVERIFIED
+civ.greek,Ancient Greek,古希腊,,,region.mediterranean,CIVILIZATION,,,,COLLECTING,PARTIAL
+civ.hawaiian,Hawaiian,夏威夷,,,region.oceania,TRADITION_FAMILY,,,,COLLECTING,PARTIAL
+civ.hindu,Hindu,印度教传统,,,region.south_asia,RELIGIOUS_TRADITION,,,,COLLECTING,PARTIAL
+civ.hittite,Hittite,赫梯,,,region.west_asia,CIVILIZATION,,,,DISCOVERED,UNVERIFIED
+civ.hurrian,Hurrian,胡里安,,,region.west_asia,CIVILIZATION,,,,DISCOVERED,UNVERIFIED
+civ.ifa,Ifá,Ifá,,civ.yoruba,region.west_africa,DIVINATION_AND_ORAL_CORPUS,,,,COLLECTING,PARTIAL
+civ.igbo,Igbo,Igbo,,,region.west_africa,TRADITION_FAMILY,,,,DISCOVERED,UNVERIFIED
+civ.inca,Inca,印加,,,region.south_america,CIVILIZATION,,,,DISCOVERED,UNVERIFIED
+civ.indian_regional,Indian Regional Traditions,印度地方传统,,,region.south_asia,TRADITION_FAMILY,,,,DISCOVERED,UNVERIFIED
+civ.indigenous_south_american,South American Indigenous Traditions,南美洲原住民传统,,,region.south_america,TRADITION_FAMILY,,,,DISCOVERED,UNVERIFIED
+civ.indonesian,Indonesian Traditions,印尼传统,,,region.southeast_asia,TRADITION_FAMILY,,,,DISCOVERED,UNVERIFIED
+civ.inuit,Inuit,因纽特,,,region.arctic,TRADITION_FAMILY,,,,DISCOVERED,UNVERIFIED
+civ.irish,Irish,爱尔兰,,civ.celtic,region.europe,TRADITION,,,,DISCOVERED,UNVERIFIED
+civ.jain,Jain,耆那教传统,,,region.south_asia,RELIGIOUS_TRADITION,,,,DISCOVERED,UNVERIFIED
+civ.japanese_shinto,Japanese Shinto,日本神道,,,region.east_asia,RELIGIOUS_TRADITION,,,,COLLECTING,PARTIAL
+civ.khmer,Khmer Traditions,柬埔寨传统,,,region.southeast_asia,TRADITION_FAMILY,,,,DISCOVERED,UNVERIFIED
+civ.korean,Korean,韩国,,,region.east_asia,TRADITION_FAMILY,,,,DISCOVERED,UNVERIFIED
+civ.kushite,Kushite,库施,,civ.nubian,region.northeast_africa,CIVILIZATION,,,,DISCOVERED,UNVERIFIED
+civ.lao,Lao Traditions,老挝传统,,,region.southeast_asia,TRADITION_FAMILY,,,,DISCOVERED,UNVERIFIED
+civ.malagasy,Malagasy Traditions,马达加斯加传统,,,region.east_africa,TRADITION_FAMILY,,,,DISCOVERED,UNVERIFIED
+civ.malay_archipelago,Malay Archipelago Traditions,马来群岛传统,,,region.southeast_asia,TRADITION_FAMILY,,,,DISCOVERED,UNVERIFIED
+civ.maori,Māori,毛利,,,region.oceania,TRADITION_FAMILY,,,,DISCOVERED,UNVERIFIED
+civ.maya,Maya,玛雅,,,region.mesoamerica,CIVILIZATION_FAMILY,,,,COLLECTING,PARTIAL
+civ.median,Median,米底,,,region.west_asia,CIVILIZATION,,,,DISCOVERED,UNVERIFIED
+civ.melanesian,Melanesian,美拉尼西亚,,,region.oceania,TRADITION_FAMILY,,,,DISCOVERED,UNVERIFIED
+civ.mesoamerican,Mesoamerican Traditions,中美洲传统,,,region.mesoamerica,TRADITION_FAMILY,,,,DISCOVERED,UNVERIFIED
+civ.mexica,Mexica,墨西卡,,,region.mesoamerica,CIVILIZATION,,,,COLLECTING,PARTIAL
+civ.micronesian,Micronesian,密克罗尼西亚,,,region.oceania,TRADITION_FAMILY,,,,DISCOVERED,UNVERIFIED
+civ.minoan,Minoan,米诺斯,,,region.mediterranean,CIVILIZATION,,,,DISCOVERED,UNVERIFIED
+civ.mixtec,Mixtec,米斯特克,,,region.mesoamerica,CIVILIZATION,,,,DISCOVERED,UNVERIFIED
+civ.moche,Moche,莫切,,,region.south_america,CIVILIZATION,,,,DISCOVERED,UNVERIFIED
+civ.mongol,Mongol,蒙古,,,region.central_asia,TRADITION_FAMILY,,,,DISCOVERED,UNVERIFIED
+civ.mycenaean,Mycenaean,迈锡尼,,,region.mediterranean,CIVILIZATION,,,,DISCOVERED,UNVERIFIED
+civ.native_north_american,North American Indigenous Traditions,北美原住民传统,,,region.north_america,TRADITION_FAMILY,,,,DISCOVERED,UNVERIFIED
+civ.nazca,Nazca,纳斯卡,,,region.south_america,CIVILIZATION,,,,DISCOVERED,UNVERIFIED
+civ.nepalese,Nepalese,尼泊尔,,,region.south_asia,TRADITION_FAMILY,,,,DISCOVERED,UNVERIFIED
+civ.norse,Norse,北欧,,,region.northern_europe,TRADITION,,,,COLLECTING,PARTIAL
+civ.nubian,Nubian,努比亚,,,region.northeast_africa,CIVILIZATION,,,,DISCOVERED,UNVERIFIED
+civ.olmec,Olmec,奥尔梅克,,,region.mesoamerica,CIVILIZATION,,,,DISCOVERED,UNVERIFIED
+civ.pacific_islands,Pacific Island Traditions,太平洋岛屿传统,,,region.oceania,TRADITION_FAMILY,,,,DISCOVERED,UNVERIFIED
+civ.parthian,Parthian,帕提亚,,,region.west_asia,CIVILIZATION,,,,DISCOVERED,UNVERIFIED
+civ.persian,Persian,波斯,,,region.west_asia,TRADITION_FAMILY,,,,COLLECTING,PARTIAL
+civ.phoenician,Phoenician,腓尼基,,civ.canaanite,region.west_asia,CIVILIZATION,,,,DISCOVERED,UNVERIFIED
+civ.polynesian,Polynesian,波利尼西亚,,,region.oceania,TRADITION_FAMILY,,,,COLLECTING,PARTIAL
+civ.roman,Ancient Roman,古罗马,,,region.mediterranean,CIVILIZATION,,,,DISCOVERED,UNVERIFIED
+civ.sami,Sámi,萨米,,,region.northern_europe,TRADITION,,,,DISCOVERED,UNVERIFIED
+civ.scythian,Scythian,斯基泰,,,region.central_asia,TRADITION_FAMILY,,,,DISCOVERED,UNVERIFIED
+civ.siberian,Siberian,西伯利亚,,,region.arctic,TRADITION_FAMILY,,,,DISCOVERED,UNVERIFIED
+civ.slavic,Slavic,斯拉夫,,,region.eastern_europe,TRADITION_FAMILY,,,,COLLECTING,PARTIAL
+civ.southern_african,Southern African Traditions,南非传统,,,region.southern_africa,TRADITION_FAMILY,,,,DISCOVERED,UNVERIFIED
+civ.sumerian,Sumerian,苏美尔,,,region.west_asia,CIVILIZATION,,,,COLLECTING,PARTIAL
+civ.thai,Thai Traditions,泰国传统,,,region.southeast_asia,TRADITION_FAMILY,,,,DISCOVERED,UNVERIFIED
+civ.tibetan,Tibetan,西藏,,,region.east_asia,TRADITION_FAMILY,,,,DISCOVERED,UNVERIFIED
+civ.tiwanaku,Tiwanaku,蒂亚瓦纳科,,,region.south_america,CIVILIZATION,,,,DISCOVERED,UNVERIFIED
+civ.toltec,Toltec,托尔特克,,,region.mesoamerica,CIVILIZATION,,,,DISCOVERED,UNVERIFIED
+civ.turkic,Turkic,突厥,,,region.central_asia,TRADITION_FAMILY,,,,DISCOVERED,UNVERIFIED
+civ.ugaritic,Ugaritic,乌加里特,,,region.west_asia,CIVILIZATION,,,,COLLECTING,PARTIAL
+civ.vedic,Vedic,吠陀传统,,,region.south_asia,RELIGIOUS_TRADITION,,,,COLLECTING,PARTIAL
+civ.vietnamese,Vietnamese Traditions,越南传统,,,region.southeast_asia,TRADITION_FAMILY,,,,DISCOVERED,UNVERIFIED
+civ.vodun,Vodun,Vodun,,,region.west_africa,RELIGIOUS_TRADITION,,,,DISCOVERED,UNVERIFIED
+civ.welsh,Welsh,威尔士,,civ.celtic,region.europe,TRADITION,,,,DISCOVERED,UNVERIFIED
+civ.west_african,West African Traditions,西非传统,,,region.west_africa,TRADITION_FAMILY,,,,DISCOVERED,UNVERIFIED
+civ.yoruba,Yoruba,约鲁巴,,,region.west_africa,TRADITION_FAMILY,,,,COLLECTING,PARTIAL
+civ.zapotec,Zapotec,萨波特克,,,region.mesoamerica,CIVILIZATION,,,,DISCOVERED,UNVERIFIED
+civ.zoroastrian,Zoroastrian,琐罗亚斯德传统,,civ.persian,region.west_asia,RELIGIOUS_TRADITION,,,,COLLECTING,PARTIAL

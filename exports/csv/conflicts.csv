@@ -1,0 +1,3 @@
+id,subject_id,variant_group,claim_a_id,claim_b_id,conflict_type,status,summary,resolution_notes
+conflict.eitri_sindri,being.norse.eitri,norse.smith_brother_name,,,IDENTITY_AMBIGUITY,OPEN,"Eitri and Sindri may name the same smith in different textual/reference traditions, but automatic merging would erase witness differences.",Collect manuscript readings and edition apparatus before resolution.
+conflict.met_21_88_52.identity,museum.greek.zeus_poseidon_met_21_88_52,met.21_88_52.identity,claim.met_bronze_depicts_zeus,claim.met_bronze_depicts_poseidon,IDENTITY_AMBIGUITY,OPEN,The statuette's lost attribute prevents a secure choice between Zeus and Poseidon.,

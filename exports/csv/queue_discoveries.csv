@@ -1,0 +1,32 @@
+id,queue_id,discovered_from_entity_id,discovered_from_claim_id,discovered_from_source_id,discovery_context,discovered_at
+discovery.20260811.creation_triads,queue.norse.creation_triad_variants,deity.norse.vili,claim.vili.cosmogony,source.norse.prose_edda.vsnr,Snorri triad requires comparison with Poetic Edda triad,2026-08-11T03:05:26Z
+discovery.20260811.eitri_sindri,queue.norse.sindri_eitri_identity,being.norse.eitri,,source.norse.skaldskaparmal.vsnr1998,Reference-name divergence retained as unresolved identity,2026-08-11T03:05:26Z
+discovery.20260811.gullinbursti,queue.norse.gullinbursti_variants,creature.norse.gullinbursti,claim.brokkr.creator_gullinbursti,source.norse.skaldskaparmal.vsnr1998,Forged boar opens ownership and funeral-episode branches,2026-08-11T03:05:26Z
+discovery.20260811.mimir_head,queue.norse.mimir_head_traditions,being.norse.mimir,claim.mimir.owns_well,source.norse.prose_edda.vsnr,Well narrative points to distinct counsel/head traditions,2026-08-11T03:05:26Z
+discovery.20260811.typhaon,queue.greek.typhaon_distinction,creature.greek.typhon,claim.typhon.mentioned_theogony,source.greek.theogony.perseus_eng1,Typhon naming could not be safely normalized across witnesses,2026-08-11T03:05:26Z
+discovery.20260811.wuxing_history,queue.china.wuxing_semantic_history,concept.chinese.wuxing,claim.wuxing.mentioned_hanshu,source.china.han_shu.wuxing_zhi.ctext,Later text develops earlier enumeration,2026-08-11T03:05:26Z
+discovery.queue.celtic.newgrange_guardrail.1,queue.celtic.newgrange_guardrail,site.ireland.newgrange,,,Layer-separation task,2026-08-10T00:00:00Z
+discovery.queue.china.wuxing_sources.1,queue.china.wuxing_sources,concept.chinese.wuxing,,,Native element-system evidence gap,2026-08-10T00:00:00Z
+discovery.queue.egypt.amun_ra.1,queue.egypt.amun_ra,deity.egyptian.amun,,,Composite-deity and periodization branch,2026-08-10T00:00:00Z
+discovery.queue.egypt.ra_horakhty.1,queue.egypt.ra_horakhty,deity.egyptian.ra,,,Composite-deity branch,2026-08-10T00:00:00Z
+discovery.queue.greek.hydra.1,queue.greek.hydra,creature.greek.cyclopes_hesiodic,,,Mythic-creature expansion branch,2026-08-10T00:00:00Z
+discovery.queue.greek.metis.1,queue.greek.metis,deity.greek.zeus,,,Discovered from Zeus genealogy,2026-08-10T00:00:00Z
+discovery.queue.greek.olympia_cult.1,queue.greek.olympia_cult,site.greece.olympia,,,Expand archaeological cult evidence,2026-08-10T00:00:00Z
+discovery.queue.greek.typhon.1,queue.greek.typhon,deity.greek.zeus,,,Discovered while expanding Zeus and the Theogony,2026-08-10T00:00:00Z
+discovery.queue.ifa.permission_model.1,queue.ifa.permission_model,text.yoruba.ifa_corpus,,,Living-tradition governance,2026-08-10T00:00:00Z
+discovery.queue.india.weapon_sources.1,queue.india.weapon_sources,weapon.vedic.vajra,,,Seed artifact evidence gap,2026-08-10T00:00:00Z
+discovery.queue.japan.kusanagi_versions.1,queue.japan.kusanagi_versions,weapon.japanese.kusanagi,,,Artifact version branch,2026-08-10T00:00:00Z
+discovery.queue.maya.hero_twins.1,queue.maya.hero_twins,text.kiche.popol_vuh,,,Popol Vuh expansion,2026-08-10T00:00:00Z
+discovery.queue.mesopotamia.anzu.1,queue.mesopotamia.anzu,artifact.mesopotamian.tablet_destinies,,,Tablet of Destinies narrative branch,2026-08-10T00:00:00Z
+discovery.queue.mesopotamia.inanna_ishtar.1,queue.mesopotamia.inanna_ishtar,deity.sumerian.inanna,,,Identity-without-merger research task,2026-08-10T00:00:00Z
+discovery.queue.mexica.templo_mayor_objects.1,queue.mexica.templo_mayor_objects,site.mexico.tenochtitlan,,,Archaeological-object expansion,2026-08-10T00:00:00Z
+discovery.queue.norse.bestla.1,queue.norse.bestla,deity.norse.odin,,,Odin genealogy expansion,2026-08-10T00:00:00Z
+discovery.queue.norse.borr.1,queue.norse.borr,deity.norse.odin,,,Odin genealogy expansion,2026-08-10T00:00:00Z
+discovery.queue.norse.brokkr_eitri.1,queue.norse.brokkr_eitri,weapon.norse.mjolnir,,,Mjölnir manufacture branch,2026-08-10T00:00:00Z
+discovery.queue.norse.mimir.1,queue.norse.mimir,deity.norse.odin,,,Wisdom and well narrative branch,2026-08-10T00:00:00Z
+discovery.queue.norse.ve.1,queue.norse.ve,deity.norse.odin,,,Odin sibling/cosmogony expansion,2026-08-10T00:00:00Z
+discovery.queue.norse.vili.1,queue.norse.vili,deity.norse.odin,,,Odin sibling/cosmogony expansion,2026-08-10T00:00:00Z
+discovery.queue.polynesia.iwi_variants.1,queue.polynesia.iwi_variants,text.maori.creation_traditions,,,Living-tradition variant expansion,2026-08-10T00:00:00Z
+discovery.queue.slavic.primary_claims.1,queue.slavic.primary_claims,deity.slavic.perun,,,Sparse-source expansion,2026-08-10T00:00:00Z
+discovery.queue.ugarit.baal_title.1,queue.ugarit.baal_title,deity.ugaritic.baal,,,Alias and identity ambiguity,2026-08-10T00:00:00Z
+discovery.queue.zoroastrian.avesta_witnesses.1,queue.zoroastrian.avesta_witnesses,text.zoroastrian.avesta,,,Version-layer expansion,2026-08-10T00:00:00Z

@@ -1,0 +1,35 @@
+id,queue_id,old_status,new_status,changed_at,reason
+history.queue.celtic.newgrange_guardrail.1,queue.celtic.newgrange_guardrail,,NEEDS_REVIEW,2026-08-10T00:00:00Z,First-round discovery baseline
+history.queue.china.wuxing_sources.1,queue.china.wuxing_sources,,SOURCE_FOUND,2026-08-10T00:00:00Z,First-round discovery baseline
+history.queue.egypt.amun_ra.1,queue.egypt.amun_ra,,NEW,2026-08-10T00:00:00Z,First-round discovery baseline
+history.queue.egypt.ra_horakhty.1,queue.egypt.ra_horakhty,,NEW,2026-08-10T00:00:00Z,First-round discovery baseline
+history.queue.greek.hydra.1,queue.greek.hydra,,DISCOVERED,2026-08-10T00:00:00Z,First-round discovery baseline
+history.queue.greek.metis.1,queue.greek.metis,,NEW,2026-08-10T00:00:00Z,First-round discovery baseline
+history.queue.greek.olympia_cult.1,queue.greek.olympia_cult,,SOURCE_FOUND,2026-08-10T00:00:00Z,First-round discovery baseline
+history.queue.greek.typhon.1,queue.greek.typhon,,NEW,2026-08-10T00:00:00Z,First-round discovery baseline
+history.queue.ifa.permission_model.1,queue.ifa.permission_model,,NEEDS_REVIEW,2026-08-10T00:00:00Z,First-round discovery baseline
+history.queue.india.weapon_sources.1,queue.india.weapon_sources,,SOURCE_FOUND,2026-08-10T00:00:00Z,First-round discovery baseline
+history.queue.japan.kusanagi_versions.1,queue.japan.kusanagi_versions,,SOURCE_FOUND,2026-08-10T00:00:00Z,First-round discovery baseline
+history.queue.maya.hero_twins.1,queue.maya.hero_twins,,SOURCE_FOUND,2026-08-10T00:00:00Z,First-round discovery baseline
+history.queue.mesopotamia.anzu.1,queue.mesopotamia.anzu,,SOURCE_FOUND,2026-08-10T00:00:00Z,First-round discovery baseline
+history.queue.mesopotamia.inanna_ishtar.1,queue.mesopotamia.inanna_ishtar,,NEEDS_REVIEW,2026-08-10T00:00:00Z,First-round discovery baseline
+history.queue.mexica.templo_mayor_objects.1,queue.mexica.templo_mayor_objects,,SOURCE_FOUND,2026-08-10T00:00:00Z,First-round discovery baseline
+history.queue.norse.bestla.1,queue.norse.bestla,,NEW,2026-08-10T00:00:00Z,First-round discovery baseline
+history.queue.norse.borr.1,queue.norse.borr,,NEW,2026-08-10T00:00:00Z,First-round discovery baseline
+history.queue.norse.brokkr_eitri.1,queue.norse.brokkr_eitri,,SOURCE_FOUND,2026-08-10T00:00:00Z,First-round discovery baseline
+history.queue.norse.mimir.1,queue.norse.mimir,,NEW,2026-08-10T00:00:00Z,First-round discovery baseline
+history.queue.norse.ve.1,queue.norse.ve,,NEW,2026-08-10T00:00:00Z,First-round discovery baseline
+history.queue.norse.vili.1,queue.norse.vili,,NEW,2026-08-10T00:00:00Z,First-round discovery baseline
+history.queue.polynesia.iwi_variants.1,queue.polynesia.iwi_variants,,SOURCE_FOUND,2026-08-10T00:00:00Z,First-round discovery baseline
+history.queue.slavic.primary_claims.1,queue.slavic.primary_claims,,SOURCE_FOUND,2026-08-10T00:00:00Z,First-round discovery baseline
+history.queue.ugarit.baal_title.1,queue.ugarit.baal_title,,CONFLICT,2026-08-10T00:00:00Z,First-round discovery baseline
+history.queue.zoroastrian.avesta_witnesses.1,queue.zoroastrian.avesta_witnesses,,SOURCE_FOUND,2026-08-10T00:00:00Z,First-round discovery baseline
+qhist.20260811.bestla,queue.norse.bestla,NEW,PARTIAL,2026-08-11T03:05:26Z,Entity and Gylfaginning genealogy added
+qhist.20260811.borr,queue.norse.borr,NEW,PARTIAL,2026-08-11T03:05:26Z,Entity and Gylfaginning genealogy added
+qhist.20260811.brokkr_eitri,queue.norse.brokkr_eitri,SOURCE_FOUND,PARTIAL,2026-08-11T03:05:26Z,"Separate smith entities, products and identity conflict recorded"
+qhist.20260811.metis,queue.greek.metis,NEW,PARTIAL,2026-08-11T03:05:26Z,"Entity, genealogy claims and evidence added"
+qhist.20260811.mimir,queue.norse.mimir,NEW,PARTIAL,2026-08-11T03:05:26Z,Entity and well relationship added; classification remains open
+qhist.20260811.typhon,queue.greek.typhon,NEW,PARTIAL,2026-08-11T03:05:26Z,"Entity, primary-text claims and evidence added"
+qhist.20260811.ve,queue.norse.ve,NEW,PARTIAL,2026-08-11T03:05:26Z,"Entity, sibling and cosmogony claims added"
+qhist.20260811.vili,queue.norse.vili,NEW,PARTIAL,2026-08-11T03:05:26Z,"Entity, sibling and cosmogony claims added"
+qhist.20260811.wuxing,queue.china.wuxing_sources,SOURCE_FOUND,PARTIAL,2026-08-11T03:05:26Z,Hong Fan and Han Shu source locations and native component entities added

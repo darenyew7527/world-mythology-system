@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+build/
+dist/
+web/node_modules/
+web/dist/
+*.egg-info/
+reports/source_http_cache.json
+*.sqlite-wal
+*.sqlite-shm
+*.sqlite-journal
+artifacts/qa/

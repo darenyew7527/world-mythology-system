@@ -1,0 +1,9 @@
+{"claim_id":"claim.babylonian.marduk_participates_combat","event_id":"event.babylonian.marduk_tiamat","outcome":null,"participant_id":"deity.babylonian.marduk","role":"PARTICIPANT"}
+{"claim_id":"claim.babylonian.tiamat_participates_combat","event_id":"event.babylonian.marduk_tiamat","outcome":null,"participant_id":"deity.babylonian.tiamat","role":"PARTICIPANT"}
+{"claim_id":"claim.typhon.participated_battle","event_id":"event.greek.zeus_typhon_battle","outcome":"Defeated","participant_id":"creature.greek.typhon","role":"OPPONENT"}
+{"claim_id":"claim.zeus.participated_typhon","event_id":"event.greek.zeus_typhon_battle","outcome":"Victorious","participant_id":"deity.greek.zeus","role":"OPPONENT"}
+{"claim_id":"claim.brokkr.participated_forging","event_id":"event.norse.forging_divine_treasures","outcome":"Treasures completed","participant_id":"being.norse.brokkr","role":"SMITH_AND_BELLOWS"}
+{"claim_id":"claim.eitri.participated_forging","event_id":"event.norse.forging_divine_treasures","outcome":"Treasures completed","participant_id":"being.norse.eitri","role":"SMITH"}
+{"claim_id":"claim.norse.odin_participates_ragnarok","event_id":"event.norse.ragnarok","outcome":null,"participant_id":"deity.norse.odin","role":"PARTICIPANT"}
+{"claim_id":"claim.norse.fenrir_participates_ragnarok","event_id":"event.norse.ragnarok","outcome":null,"participant_id":"creature.norse.fenrir","role":"PARTICIPANT"}
+{"claim_id":"claim.sumerian.inanna_participates_descent","event_id":"event.sumerian.inanna_descent","outcome":null,"participant_id":"deity.sumerian.inanna","role":"PARTICIPANT"}

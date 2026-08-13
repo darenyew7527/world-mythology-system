@@ -1,0 +1,7 @@
+source_civilization_id,link_type,target_civilization_id,claim_id,notes
+civ.anglo_saxon,SUBTRADITION_OF,civ.germanic,,First-round scope relationship; historical nuance remains researchable.
+civ.babylonian,SUBTRADITION_OF,civ.akkadian,,First-round scope relationship; historical nuance remains researchable.
+civ.gaulish,SUBTRADITION_OF,civ.celtic,,First-round scope relationship; historical nuance remains researchable.
+civ.ifa,SUBTRADITION_OF,civ.yoruba,,First-round scope relationship; historical nuance remains researchable.
+civ.irish,SUBTRADITION_OF,civ.celtic,,First-round scope relationship; historical nuance remains researchable.
+civ.welsh,SUBTRADITION_OF,civ.celtic,,First-round scope relationship; historical nuance remains researchable.

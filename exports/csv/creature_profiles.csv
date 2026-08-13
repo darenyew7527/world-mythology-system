@@ -1,0 +1,15 @@
+entity_id,creature_class,appearance_json,abilities_json,weaknesses_json,habitat_summary,origin_summary,fate_summary
+being.chinese.pangu,GIANT,{},[],[],,,
+being.norse.bestla,GIANT,{},[],[],,Daughter of Bölþorn in Gylfaginning,
+being.norse.brokkr,DWARF,{},"[""smithing""]",[],Smithy in Skáldskaparmál episode,,
+being.norse.eitri,DWARF,{},"[""smithing""]",[],Smithy in Skáldskaparmál episode,,
+being.norse.mimir,UNRESOLVED_SUPERNATURAL_BEING,{},"[""wisdom"",""counsel""]",[],Mímisbrunnr association,,
+being.norse.sindri,DWARF,{},"[""smithing""]",[],,,
+being.norse.sons_of_ivaldi,CREATURE,{},[],[],,,
+being.norse.ymir,GIANT,{},[],[],,,
+creature.greek.cyclopes_hesiodic,GIANT,{},[],[],,,
+creature.greek.typhon,MONSTER,"{""heads"":""one hundred serpent heads in Hesiod 824-835"",""features"":[""flashing fire"",""many voices""]}","[""immense strength"",""fire"",""terrifying voices""]",[],,Child of Gaia and Tartarus in Hesiod,Defeated by Zeus and cast into Tartarus in Hesiod
+creature.norse.fenrir,MONSTER,{},[],[],,,
+creature.norse.gullinbursti,DIVINE_BEAST,"{""bristles"":""golden""}","[""shines in darkness""]",[],,Forged in the treasure contest,Given to Freyr in the narrative
+creature.norse.jormungandr,DRAGON,{},[],[],,,
+deity.babylonian.tiamat,DRAGON,{},[],[],,,

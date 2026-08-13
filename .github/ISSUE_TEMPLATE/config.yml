@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: "讨论区 / Discussions"
+    url: "https://github.com/darenyew7527/world-mythology-system/discussions"
+    about: "提出问题、讨论版本差异或分享研究方向 / Ask questions, compare variants, or share research directions"
+  - name: "安全报告 / Security report"
+    url: "https://github.com/darenyew7527/world-mythology-system/security/advisories/new"
+    about: "私密报告可被利用的软件漏洞 / Privately report an exploitable software vulnerability"
