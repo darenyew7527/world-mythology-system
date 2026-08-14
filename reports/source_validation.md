@@ -6,7 +6,7 @@
 
 | Status | Count |
 |---|---:|
-| URL_SYNTAX_VALID | 100 |
+| URL_SYNTAX_VALID | 129 |
 
 ## 同一文本见证的多个入口
 
@@ -26,7 +26,12 @@
 | `source.greek.homeric_hymn_poseidon22.scaife` | `source.greek.homeric_hymns.scaife` |
 | `source.greek.homeric_hymn_selene32.scaife` | `source.greek.homeric_hymns.scaife` |
 | `source.greek.theogony.perseus_eng1` | `source.greek.theogony.scaife` |
+| `source.japanese.naruikazuchi.kokugakuin` | `source.japanese.kojiki_kami_index.kokugakuin` |
+| `source.japanese.takemikazuchi_names.kokugakuin` | `source.japanese.takemikazuchi.kokugakuin` |
+| `source.japanese.wakaikazuchi.kokugakuin` | `source.japanese.kojiki_kami_index.kokugakuin` |
 | `source.mexica.florentine.loc` | `source.mexica.florentine.getty` |
 | `source.slavic.laurentian.unesco` | `source.slavic.laurentian.nlr` |
+| `source.slavic.pvl.obdurodon` | `source.slavic.laurentian.nlr` |
+| `source.yoruba.sango_decision.unesco` | `source.yoruba.sango_festival.unesco` |
 
 网络可达性会变化；即使有回执，`WEB_CONFIRMED` 也只证明回执记录的检查时点与结果，不代表永久在线、内容正确或学术结论成立。

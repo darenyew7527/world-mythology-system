@@ -471,9 +471,62 @@ def build_snapshot(database_path: Path) -> dict[str, Any]:
         """,
     )
 
+    comparisons: list[dict[str, Any]] = []
+    for comparison in _rows(
+        connection,
+        """
+        SELECT id, concept_entity_id, canonical_name, name_zh,
+               description_en, description_zh, methodology_en, methodology_zh,
+               research_status
+        FROM comparison_sets
+        ORDER BY canonical_name, id
+        """,
+    ):
+        members = _rows(
+            connection,
+            """
+            SELECT m.entity_id, m.member_role, m.native_scope_en, m.native_scope_zh,
+                   m.distinction_en, m.distinction_zh, m.sort_order, m.claim_id,
+                   COUNT(ev.id) AS evidence_count
+            FROM comparison_set_members m
+            LEFT JOIN evidence ev ON ev.claim_id=m.claim_id
+            WHERE m.comparison_set_id=?
+            GROUP BY m.comparison_set_id, m.entity_id
+            ORDER BY m.sort_order, m.entity_id
+            """,
+            (comparison["id"],),
+        )
+        comparisons.append(
+            {
+                "id": comparison["id"],
+                "conceptEntityId": _clean(comparison["concept_entity_id"]),
+                "canonicalName": comparison["canonical_name"],
+                "nameZh": _clean(comparison["name_zh"]),
+                "descriptionEn": comparison["description_en"],
+                "descriptionZh": comparison["description_zh"],
+                "methodologyEn": comparison["methodology_en"],
+                "methodologyZh": comparison["methodology_zh"],
+                "researchStatus": comparison["research_status"],
+                "members": [
+                    {
+                        "entityId": member["entity_id"],
+                        "role": member["member_role"],
+                        "nativeScopeEn": member["native_scope_en"],
+                        "nativeScopeZh": member["native_scope_zh"],
+                        "distinctionEn": member["distinction_en"],
+                        "distinctionZh": member["distinction_zh"],
+                        "sortOrder": member["sort_order"],
+                        "claimId": _clean(member["claim_id"]),
+                        "evidenceCount": member["evidence_count"],
+                    }
+                    for member in members
+                ],
+            }
+        )
+
     snapshot = {
         "meta": {
-            "projectVersion": "0.5.1-mobile-graph-hotfix",
+            "projectVersion": "0.6.0-thunder-comparison",
             "datasetRelease": release,
             "generatedFrom": "database/world_mythology.sqlite",
             "completionClaim": (
@@ -503,6 +556,7 @@ def build_snapshot(database_path: Path) -> dict[str, Any]:
         "claims": public_claims,
         "sources": sorted(public_sources.values(), key=lambda item: (item["title"] or "", item["id"])),
         "queue": queue,
+        "comparisons": comparisons,
     }
     connection.close()
     return snapshot

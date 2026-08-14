@@ -2,7 +2,7 @@
 
 数据库：`world_mythology.sqlite`。本页由 `scripts/generate_schema_catalog.py` 从实际数据库反射生成。
 
-- 持久表：43
+- 持久表：45
 - 只读视图：32
 
 ## 对象索引
@@ -10,58 +10,60 @@
 | 对象 | 类型 | 当前行数 |
 |---|---:|---:|
 | `aliases` | table | 14 |
-| `artifact_profiles` | table | 35 |
+| `artifact_profiles` | table | 38 |
 | `civilization_languages` | table | 23 |
 | `civilizations` | table | 95 |
-| `claims` | table | 221 |
-| `collection_queue` | table | 42 |
-| `conflicts` | table | 4 |
-| `coverage_metrics` | table | 148 |
-| `coverage_reports` | table | 5 |
-| `creature_profiles` | table | 14 |
+| `claims` | table | 286 |
+| `collection_queue` | table | 51 |
+| `comparison_set_members` | table | 10 |
+| `comparison_sets` | table | 1 |
+| `conflicts` | table | 10 |
+| `coverage_metrics` | table | 178 |
+| `coverage_reports` | table | 6 |
+| `creature_profiles` | table | 16 |
 | `cultures` | table | 18 |
-| `dataset_releases` | table | 5 |
-| `deity_profiles` | table | 132 |
-| `entities` | table | 468 |
+| `dataset_releases` | table | 6 |
+| `deity_profiles` | table | 153 |
+| `entities` | table | 506 |
 | `entity_attributes` | table | 0 |
-| `entity_civilizations` | table | 411 |
-| `entity_classifications` | table | 496 |
+| `entity_civilizations` | table | 446 |
+| `entity_classifications` | table | 534 |
 | `entity_redirects` | table | 5 |
 | `entity_types` | table | 55 |
-| `event_participants` | table | 14 |
-| `evidence` | table | 215 |
-| `identity_candidates` | table | 2 |
+| `event_participants` | table | 18 |
+| `evidence` | table | 282 |
+| `identity_candidates` | table | 4 |
 | `import_errors` | table | 0 |
 | `import_runs` | table | 0 |
 | `languages` | table | 21 |
-| `modern_adaptations` | table | 0 |
+| `modern_adaptations` | table | 3 |
 | `museum_object_profiles` | table | 6 |
-| `myth_event_profiles` | table | 7 |
-| `names` | table | 1113 |
-| `place_profiles` | table | 78 |
+| `myth_event_profiles` | table | 9 |
+| `names` | table | 1170 |
+| `place_profiles` | table | 80 |
 | `project_metadata` | table | 6 |
 | `quality_findings` | table | 0 |
 | `quality_runs` | table | 1 |
-| `queue_discoveries` | table | 42 |
-| `queue_status_history` | table | 45 |
+| `queue_discoveries` | table | 51 |
+| `queue_status_history` | table | 56 |
 | `regions` | table | 20 |
-| `relationship_types` | table | 67 |
-| `research_session_items` | table | 72 |
-| `research_sessions` | table | 4 |
-| `schema_migrations` | table | 8 |
-| `sources` | table | 100 |
-| `text_profiles` | table | 117 |
+| `relationship_types` | table | 70 |
+| `research_session_items` | table | 197 |
+| `research_sessions` | table | 5 |
+| `schema_migrations` | table | 9 |
+| `sources` | table | 129 |
+| `text_profiles` | table | 119 |
 | `tradition_links` | table | 6 |
-| `archaeological_sites` | view | 66 |
-| `artifacts` | view | 35 |
-| `claim_evidence_summary` | view | 221 |
-| `concepts` | view | 40 |
+| `archaeological_sites` | view | 68 |
+| `artifacts` | view | 38 |
+| `claim_evidence_summary` | view | 286 |
+| `concepts` | view | 42 |
 | `cosmologies` | view | 1 |
-| `creatures` | view | 14 |
-| `deities` | view | 132 |
+| `creatures` | view | 16 |
+| `deities` | view | 153 |
 | `elements` | view | 32 |
-| `events` | view | 7 |
-| `festivals` | view | 0 |
+| `events` | view | 9 |
+| `festivals` | view | 1 |
 | `heroes` | view | 9 |
 | `historical_figures` | view | 0 |
 | `inscriptions` | view | 8 |
@@ -75,15 +77,15 @@
 | `powers` | view | 7 |
 | `pyramids` | view | 2 |
 | `realms` | view | 4 |
-| `relationship_edges_bidirectional` | view | 386 |
-| `relationships` | view | 193 |
-| `rituals` | view | 0 |
-| `sacred_objects` | view | 0 |
+| `relationship_edges_bidirectional` | view | 514 |
+| `relationships` | view | 257 |
+| `rituals` | view | 1 |
+| `sacred_objects` | view | 1 |
 | `tablets` | view | 2 |
-| `temples` | view | 13 |
-| `texts` | view | 117 |
+| `temples` | view | 14 |
+| `texts` | view | 119 |
 | `tombs` | view | 2 |
-| `weapons` | view | 24 |
+| `weapons` | view | 26 |
 
 ## `aliases` (table)
 
@@ -350,6 +352,86 @@ CREATE TABLE collection_queue (
     attempts INTEGER NOT NULL DEFAULT 0 CHECK(attempts >= 0),
     last_error TEXT,
     next_action TEXT,
+    created_at TEXT NOT NULL,
+    updated_at TEXT NOT NULL
+)
+```
+
+## `comparison_set_members` (table)
+
+| 序号 | 字段 | SQLite 类型 | NOT NULL | 默认值 | PK 序位 |
+|---:|---|---|---:|---|---:|
+| 0 | `comparison_set_id` | TEXT | 1 |  | 1 |
+| 1 | `entity_id` | TEXT | 1 |  | 2 |
+| 2 | `member_role` | TEXT | 1 | 'COMPARAND' | 0 |
+| 3 | `native_scope_en` | TEXT | 1 |  | 0 |
+| 4 | `native_scope_zh` | TEXT | 1 |  | 0 |
+| 5 | `distinction_en` | TEXT | 1 |  | 0 |
+| 6 | `distinction_zh` | TEXT | 1 |  | 0 |
+| 7 | `sort_order` | INTEGER | 1 | 0 | 0 |
+| 8 | `claim_id` | TEXT | 0 |  | 0 |
+
+外键：
+
+| 字段 | 目标 | ON UPDATE | ON DELETE |
+|---|---|---|---|
+| `claim_id` | `claims.id` | NO ACTION | NO ACTION |
+| `entity_id` | `entities.id` | NO ACTION | CASCADE |
+| `comparison_set_id` | `comparison_sets.id` | NO ACTION | CASCADE |
+
+定义：
+
+```sql
+CREATE TABLE comparison_set_members (
+    comparison_set_id TEXT NOT NULL REFERENCES comparison_sets(id) ON DELETE CASCADE,
+    entity_id TEXT NOT NULL REFERENCES entities(id) ON DELETE CASCADE,
+    member_role TEXT NOT NULL DEFAULT 'COMPARAND',
+    native_scope_en TEXT NOT NULL,
+    native_scope_zh TEXT NOT NULL,
+    distinction_en TEXT NOT NULL,
+    distinction_zh TEXT NOT NULL,
+    sort_order INTEGER NOT NULL DEFAULT 0,
+    claim_id TEXT REFERENCES claims(id),
+    PRIMARY KEY(comparison_set_id, entity_id)
+)
+```
+
+## `comparison_sets` (table)
+
+| 序号 | 字段 | SQLite 类型 | NOT NULL | 默认值 | PK 序位 |
+|---:|---|---|---:|---|---:|
+| 0 | `id` | TEXT | 0 |  | 1 |
+| 1 | `concept_entity_id` | TEXT | 0 |  | 0 |
+| 2 | `canonical_name` | TEXT | 1 |  | 0 |
+| 3 | `name_zh` | TEXT | 0 |  | 0 |
+| 4 | `description_en` | TEXT | 1 |  | 0 |
+| 5 | `description_zh` | TEXT | 1 |  | 0 |
+| 6 | `methodology_en` | TEXT | 1 |  | 0 |
+| 7 | `methodology_zh` | TEXT | 1 |  | 0 |
+| 8 | `research_status` | TEXT | 1 | 'PARTIAL' | 0 |
+| 9 | `created_at` | TEXT | 1 |  | 0 |
+| 10 | `updated_at` | TEXT | 1 |  | 0 |
+
+外键：
+
+| 字段 | 目标 | ON UPDATE | ON DELETE |
+|---|---|---|---|
+| `concept_entity_id` | `entities.id` | NO ACTION | NO ACTION |
+
+定义：
+
+```sql
+CREATE TABLE comparison_sets (
+    id TEXT PRIMARY KEY,
+    concept_entity_id TEXT REFERENCES entities(id),
+    canonical_name TEXT NOT NULL,
+    name_zh TEXT,
+    description_en TEXT NOT NULL,
+    description_zh TEXT NOT NULL,
+    methodology_en TEXT NOT NULL,
+    methodology_zh TEXT NOT NULL,
+    research_status TEXT NOT NULL DEFAULT 'PARTIAL'
+        CHECK(research_status IN ('DISCOVERED','SOURCE_FOUND','COLLECTING','PARTIAL','BASELINE_COMPLETE','NEEDS_REVIEW','CONFLICT','LOW_EVIDENCE','EXPAND_LATER')),
     created_at TEXT NOT NULL,
     updated_at TEXT NOT NULL
 )

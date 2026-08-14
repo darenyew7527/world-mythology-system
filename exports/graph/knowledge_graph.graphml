@@ -14,10 +14,12 @@
     <node id="artifact.mesopotamian.tablet_destinies"><data key="name">Tablet of Destinies</data><data key="type">ARTIFACT</data></node>
     <node id="artifact.norse.draupnir"><data key="name">Draupnir</data><data key="type">RING</data></node>
     <node id="artifact.norse.gleipnir"><data key="name">Gleipnir</data><data key="type">ARTIFACT</data></node>
+    <node id="artifact.yoruba.ose_sango"><data key="name">Ose Sango</data><data key="type">SACRED_OBJECT</data></node>
     <node id="being.chinese.pangu"><data key="name">Pangu</data><data key="type">GIANT</data></node>
     <node id="being.norse.bestla"><data key="name">Bestla</data><data key="type">GIANT</data></node>
     <node id="being.norse.brokkr"><data key="name">Brokkr</data><data key="type">DWARF</data></node>
     <node id="being.norse.eitri"><data key="name">Eitri</data><data key="type">DWARF</data></node>
+    <node id="being.norse.jarnsaxa"><data key="name">Jarnsaxa</data><data key="type">GIANT</data></node>
     <node id="being.norse.mimir"><data key="name">Mímir</data><data key="type">CREATURE</data></node>
     <node id="being.norse.sindri"><data key="name">Sindri</data><data key="type">DWARF</data></node>
     <node id="being.norse.sons_of_ivaldi"><data key="name">Sons of Ivaldi</data><data key="type">CREATURE</data></node>
@@ -85,6 +87,7 @@
     <node id="concept.greek.classical_elements"><data key="name">Classical Greek element traditions</data><data key="type">CONCEPT</data></node>
     <node id="concept.indian.pancamahabhuta"><data key="name">Pañcamahābhūta</data><data key="type">CONCEPT</data></node>
     <node id="concept.norse.fire_ice_cosmogony"><data key="name">Norse fire-and-ice cosmogonic contrast</data><data key="type">COSMOLOGY</data></node>
+    <node id="concept.ugaritic.baal_title"><data key="name">Ugaritic b-l title lexeme</data><data key="type">CONCEPT</data></node>
     <node id="concept.zoroastrian.asha"><data key="name">Asha</data><data key="type">CONCEPT</data></node>
     <node id="concept.zoroastrian.druj"><data key="name">Druj</data><data key="type">CONCEPT</data></node>
     <node id="creature.greek.cyclopes_hesiodic"><data key="name">Hesiodic Cyclopes</data><data key="type">GIANT</data></node>
@@ -92,11 +95,14 @@
     <node id="creature.norse.fenrir"><data key="name">Fenrir</data><data key="type">MONSTER</data></node>
     <node id="creature.norse.gullinbursti"><data key="name">Gullinbursti</data><data key="type">DIVINE_BEAST</data></node>
     <node id="creature.norse.jormungandr"><data key="name">Jörmungandr</data><data key="type">DRAGON</data></node>
+    <node id="creature.vedic.vritra"><data key="name">Vrtra</data><data key="type">MONSTER</data></node>
     <node id="deity.akkadian.ishtar"><data key="name">Ishtar</data><data key="type">DEITY</data></node>
     <node id="deity.assyrian.ashur"><data key="name">Ashur</data><data key="type">DEITY</data></node>
     <node id="deity.babylonian.marduk"><data key="name">Marduk</data><data key="type">DEITY</data></node>
     <node id="deity.babylonian.tiamat"><data key="name">Tiamat</data><data key="type">PRIMORDIAL_DEITY</data></node>
     <node id="deity.chinese.fu_xi"><data key="name">Fuxi</data><data key="type">DEITY</data></node>
+    <node id="deity.chinese.leigong"><data key="name">Leigong</data><data key="type">DEITY</data></node>
+    <node id="deity.chinese.leize_thunder_spirit"><data key="name">Thunder Spirit of Leize</data><data key="type">DEITY</data></node>
     <node id="deity.chinese.nezha"><data key="name">Nezha</data><data key="type">DEITY</data></node>
     <node id="deity.chinese.nu_wa"><data key="name">Nüwa</data><data key="type">DEITY</data></node>
     <node id="deity.egyptian.amun"><data key="name">Amun</data><data key="type">DEITY</data></node>
@@ -165,10 +171,20 @@
     <node id="deity.irish.lugh"><data key="name">Lugh</data><data key="type">DEITY</data></node>
     <node id="deity.irish.morrigan"><data key="name">The Morrígan</data><data key="type">DEITY</data></node>
     <node id="deity.japanese.amaterasu"><data key="name">Amaterasu</data><data key="type">DEITY</data></node>
+    <node id="deity.japanese.fusuikazuchi"><data key="name">Fusuikazuchi</data><data key="type">DEITY</data></node>
+    <node id="deity.japanese.honoikazuchi"><data key="name">Honoikazuchi</data><data key="type">DEITY</data></node>
     <node id="deity.japanese.izanagi"><data key="name">Izanagi</data><data key="type">DEITY</data></node>
     <node id="deity.japanese.izanami"><data key="name">Izanami</data><data key="type">DEITY</data></node>
+    <node id="deity.japanese.kuroikazuchi"><data key="name">Kuroikazuchi</data><data key="type">DEITY</data></node>
+    <node id="deity.japanese.naruikazuchi"><data key="name">Naruikazuchi</data><data key="type">DEITY</data></node>
+    <node id="deity.japanese.ooikazuchi"><data key="name">Ooikazuchi</data><data key="type">DEITY</data></node>
+    <node id="deity.japanese.raijin"><data key="name">Raijin</data><data key="type">DEITY</data></node>
+    <node id="deity.japanese.sakuikazuchi"><data key="name">Sakuikazuchi</data><data key="type">DEITY</data></node>
     <node id="deity.japanese.susanoo"><data key="name">Susanoo</data><data key="type">DEITY</data></node>
+    <node id="deity.japanese.takemikazuchi"><data key="name">Takemikazuchi</data><data key="type">DEITY</data></node>
+    <node id="deity.japanese.tsuchiikazuchi"><data key="name">Tsuchiikazuchi</data><data key="type">DEITY</data></node>
     <node id="deity.japanese.tsukuyomi"><data key="name">Tsukuyomi</data><data key="type">DEITY</data></node>
+    <node id="deity.japanese.wakaikazuchi"><data key="name">Wakaikazuchi</data><data key="type">DEITY</data></node>
     <node id="deity.maori.papatuanuku"><data key="name">Papatūānuku</data><data key="type">PRIMORDIAL_DEITY</data></node>
     <node id="deity.maori.ranginui"><data key="name">Ranginui</data><data key="type">PRIMORDIAL_DEITY</data></node>
     <node id="deity.maya.chaac"><data key="name">Chaac</data><data key="type">DEITY</data></node>
@@ -186,11 +202,18 @@
     <node id="deity.norse.frigg"><data key="name">Frigg</data><data key="type">DEITY</data></node>
     <node id="deity.norse.heimdall"><data key="name">Heimdallr</data><data key="type">DEITY</data></node>
     <node id="deity.norse.hel"><data key="name">Hel</data><data key="type">DEITY</data></node>
+    <node id="deity.norse.jord"><data key="name">Jord</data><data key="type">DEITY</data></node>
     <node id="deity.norse.loki"><data key="name">Loki</data><data key="type">DEITY</data></node>
+    <node id="deity.norse.magni"><data key="name">Magni</data><data key="type">DEITY</data></node>
+    <node id="deity.norse.meili"><data key="name">Meili</data><data key="type">DEITY</data></node>
+    <node id="deity.norse.modi"><data key="name">Modi</data><data key="type">DEITY</data></node>
     <node id="deity.norse.njord"><data key="name">Njörðr</data><data key="type">DEITY</data></node>
     <node id="deity.norse.odin"><data key="name">Odin</data><data key="type">DEITY</data></node>
+    <node id="deity.norse.sif"><data key="name">Sif</data><data key="type">DEITY</data></node>
     <node id="deity.norse.thor"><data key="name">Thor</data><data key="type">DEITY</data></node>
+    <node id="deity.norse.thrud"><data key="name">Thrud</data><data key="type">DEITY</data></node>
     <node id="deity.norse.tyr"><data key="name">Týr</data><data key="type">DEITY</data></node>
+    <node id="deity.norse.ullr"><data key="name">Ullr</data><data key="type">DEITY</data></node>
     <node id="deity.norse.ve"><data key="name">Vé</data><data key="type">DEITY</data></node>
     <node id="deity.norse.vili"><data key="name">Vili</data><data key="type">DEITY</data></node>
     <node id="deity.polynesian.tane"><data key="name">Tāne</data><data key="type">DEITY</data></node>
@@ -210,9 +233,11 @@
     <node id="deity.ugaritic.asherah"><data key="name">Athirat / Asherah</data><data key="type">DEITY</data></node>
     <node id="deity.ugaritic.baal"><data key="name">Baal of Ugarit</data><data key="type">DEITY</data></node>
     <node id="deity.ugaritic.el"><data key="name">El of Ugarit</data><data key="type">DEITY</data></node>
+    <node id="deity.ugaritic.kothar_wa_khasis"><data key="name">Kothar-wa-Khasis</data><data key="type">DEITY</data></node>
     <node id="deity.ugaritic.mot"><data key="name">Mot</data><data key="type">DEITY</data></node>
     <node id="deity.ugaritic.yam"><data key="name">Yam</data><data key="type">DEITY</data></node>
     <node id="deity.vedic.indra"><data key="name">Indra</data><data key="type">DEITY</data></node>
+    <node id="deity.vedic.tvastr"><data key="name">Tvastr</data><data key="type">DEITY</data></node>
     <node id="deity.yoruba.ogun"><data key="name">Ogun</data><data key="type">DEITY</data></node>
     <node id="deity.yoruba.olodumare"><data key="name">Olodumare</data><data key="type">DEITY</data></node>
     <node id="deity.yoruba.orunmila"><data key="name">Orunmila</data><data key="type">DEITY</data></node>
@@ -237,6 +262,10 @@
     <node id="event.norse.forging_divine_treasures"><data key="name">Forging of the divine treasures</data><data key="type">EVENT</data></node>
     <node id="event.norse.ragnarok"><data key="name">Ragnarök</data><data key="type">EVENT</data></node>
     <node id="event.sumerian.inanna_descent"><data key="name">Descent of Inanna</data><data key="type">EVENT</data></node>
+    <node id="event.ugaritic.baal_yamm_ktu12"><data key="name">Baal and Yamm in KTU 1.2 IV</data><data key="type">EVENT</data></node>
+    <node id="event.vedic.indra_vritra_rv132"><data key="name">Indra and Vrtra in Rigveda 1.32</data><data key="type">EVENT</data></node>
+    <node id="festival.yoruba.sango_oyo"><data key="name">Sango Festival, Oyo</data><data key="type">FESTIVAL</data></node>
+    <node id="group.japanese.eight_thunder_kami"><data key="name">Eight Thunder Kami of the Kojiki</data><data key="type">CONCEPT</data></node>
     <node id="hero.chinese.sun_wukong"><data key="name">Sun Wukong</data><data key="type">HERO</data></node>
     <node id="hero.chinese.yellow_emperor"><data key="name">Yellow Emperor</data><data key="type">HERO</data></node>
     <node id="hero.indian.arjuna"><data key="name">Arjuna</data><data key="type">HERO</data></node>
@@ -250,6 +279,9 @@
     <node id="institution.louvre"><data key="name">Musée du Louvre</data><data key="type">INSTITUTION</data></node>
     <node id="institution.met"><data key="name">Metropolitan Museum of Art</data><data key="type">INSTITUTION</data></node>
     <node id="institution.swedish_history_museum"><data key="name">Swedish History Museum</data><data key="type">INSTITUTION</data></node>
+    <node id="modern.marvel.mcu.hela"><data key="name">Marvel Studios Hela</data><data key="type">MODERN_WORK</data></node>
+    <node id="modern.marvel.mcu.loki"><data key="name">Marvel Studios Loki</data><data key="type">MODERN_WORK</data></node>
+    <node id="modern.marvel.mcu.thor"><data key="name">Marvel Studios Thor</data><data key="type">MODERN_WORK</data></node>
     <node id="museum.babylon.flood_tablet_k3375"><data key="name">Flood Tablet K.3375</data><data key="type">MUSEUM_OBJECT</data></node>
     <node id="museum.egypt.papyrus_ani_frame3"><data key="name">Papyrus of Ani, frame 3</data><data key="type">MUSEUM_OBJECT</data></node>
     <node id="museum.greek.zeus_poseidon_met_21_88_52"><data key="name">Bronze statuette: Zeus or Poseidon</data><data key="type">MUSEUM_OBJECT</data></node>
@@ -269,6 +301,7 @@
     <node id="site.china.kunlun_scope"><data key="name">Kunlun-related cultural locations</data><data key="type">PLACE</data></node>
     <node id="site.china.ritual_sites_scope"><data key="name">Ancient Chinese ritual sites research scope</data><data key="type">ARCHAEOLOGICAL_SITE</data></node>
     <node id="site.china.taishan"><data key="name">Mount Taishan</data><data key="type">PLACE</data></node>
+    <node id="site.chinese.mogao_cave_285"><data key="name">Mogao Cave 285</data><data key="type">ARCHAEOLOGICAL_SITE</data></node>
     <node id="site.denmark.hedeby"><data key="name">Hedeby</data><data key="type">ARCHAEOLOGICAL_SITE</data></node>
     <node id="site.egypt.abu_simbel"><data key="name">Abu Simbel</data><data key="type">TEMPLE</data></node>
     <node id="site.egypt.abydos"><data key="name">Abydos</data><data key="type">ARCHAEOLOGICAL_SITE</data></node>
@@ -332,6 +365,7 @@
     <node id="site.tibet.kailash"><data key="name">Mount Kailash</data><data key="type">PLACE</data></node>
     <node id="site.uk.avebury"><data key="name">Avebury</data><data key="type">MONUMENT</data></node>
     <node id="site.uk.stonehenge"><data key="name">Stonehenge</data><data key="type">MONUMENT</data></node>
+    <node id="site.yoruba.koso_temple"><data key="name">Koso Temple</data><data key="type">TEMPLE</data></node>
     <node id="site.zimbabwe.great_zimbabwe"><data key="name">Great Zimbabwe</data><data key="type">ARCHAEOLOGICAL_SITE</data></node>
     <node id="text.africa.epics"><data key="name">African epic traditions</data><data key="type">ORAL_TRADITION</data></node>
     <node id="text.akkadian.adapa"><data key="name">Adapa</data><data key="type">TEXT</data></node>
@@ -352,6 +386,7 @@
     <node id="text.chinese.hong_fan"><data key="name">Hong Fan</data><data key="type">TEXT</data></node>
     <node id="text.chinese.huainanzi"><data key="name">Huainanzi</data><data key="type">TEXT</data></node>
     <node id="text.chinese.local_gazetteers"><data key="name">Chinese local gazetteers</data><data key="type">TEXT</data></node>
+    <node id="text.chinese.lunheng"><data key="name">Lunheng</data><data key="type">TEXT</data></node>
     <node id="text.chinese.mutianzizhuan"><data key="name">Tale of King Mu, Son of Heaven</data><data key="type">TEXT</data></node>
     <node id="text.chinese.shang_shu"><data key="name">Shang Shu</data><data key="type">TEXT</data></node>
     <node id="text.chinese.shangshu"><data key="name">Shangshu-related traditions</data><data key="type">TEXT</data></node>
@@ -432,6 +467,7 @@
     <node id="text.polynesia.creation_chants"><data key="name">Polynesian creation chants</data><data key="type">ORAL_TRADITION</data></node>
     <node id="text.roman.aeneid"><data key="name">Aeneid</data><data key="type">EPIC</data></node>
     <node id="text.roman.metamorphoses"><data key="name">Metamorphoses</data><data key="type">EPIC</data></node>
+    <node id="text.slavic.primary_chronicle"><data key="name">Tale of Bygone Years</data><data key="type">TEXT</data></node>
     <node id="text.sumerian.enki_ninhursag"><data key="name">Enki and Ninhursag</data><data key="type">TEXT</data></node>
     <node id="text.sumerian.enki_world_order"><data key="name">Enki and the World Order</data><data key="type">TEXT</data></node>
     <node id="text.sumerian.inanna_descent"><data key="name">Inanna's Descent</data><data key="type">TEXT</data></node>
@@ -471,6 +507,8 @@
     <node id="weapon.norse.gungnir"><data key="name">Gungnir</data><data key="type">WEAPON</data></node>
     <node id="weapon.norse.mjolnir"><data key="name">Mjölnir</data><data key="type">WEAPON</data></node>
     <node id="weapon.norse.tyrfing"><data key="name">Tyrfing</data><data key="type">WEAPON</data></node>
+    <node id="weapon.ugaritic.ayyamur"><data key="name">Ayyamur</data><data key="type">WEAPON</data></node>
+    <node id="weapon.ugaritic.yagrush"><data key="name">Yagrush</data><data key="type">WEAPON</data></node>
     <node id="weapon.vedic.vajra"><data key="name">Vajra</data><data key="type">WEAPON</data></node>
     <edge id="claim.babylon.flood_tablet_held_bm" source="museum.babylon.flood_tablet_k3375" target="institution.british_museum"><data key="relation">HELD_BY_MUSEUM</data></edge>
     <edge id="claim.babylon.flood_tablet_witness_gilgamesh" source="museum.babylon.flood_tablet_k3375" target="text.mesopotamia.gilgamesh"><data key="relation">WITNESS_OF</data></edge>
@@ -649,6 +687,70 @@
     <edge id="claim.v050.theogony.titanomachy_appears" source="event.greek.titanomachy" target="text.greek.theogony"><data key="relation">APPEARS_IN</data></edge>
     <edge id="claim.v050.theogony.uranus_parent_cronus" source="deity.greek.uranus" target="deity.greek.cronus"><data key="relation">PARENT_OF</data></edge>
     <edge id="claim.v050.theogony.zeus_participated_titanomachy" source="deity.greek.zeus" target="event.greek.titanomachy"><data key="relation">PARTICIPATED_IN</data></edge>
+    <edge id="claim.v060.chinese.leigong_appears_chuci" source="deity.chinese.leigong" target="text.chinese.chuci"><data key="relation">APPEARS_IN</data></edge>
+    <edge id="claim.v060.chinese.leigong_appears_lunheng" source="deity.chinese.leigong" target="text.chinese.lunheng"><data key="relation">APPEARS_IN</data></edge>
+    <edge id="claim.v060.chinese.leigong_associated_mogao285" source="deity.chinese.leigong" target="site.chinese.mogao_cave_285"><data key="relation">ASSOCIATED_WITH</data></edge>
+    <edge id="claim.v060.chinese.leigong_thunder_scope" source="deity.chinese.leigong" target="concept.comparative.thunder"><data key="relation">ASSOCIATED_WITH</data></edge>
+    <edge id="claim.v060.chinese.leize_appears_shanhaijing" source="deity.chinese.leize_thunder_spirit" target="text.chinese.shanhaijing"><data key="relation">APPEARS_IN</data></edge>
+    <edge id="claim.v060.chinese.leize_thunder_scope" source="deity.chinese.leize_thunder_spirit" target="concept.comparative.thunder"><data key="relation">ASSOCIATED_WITH</data></edge>
+    <edge id="claim.v060.greek.zeus_thunder_scope" source="deity.greek.zeus" target="concept.comparative.thunder"><data key="relation">ASSOCIATED_WITH</data></edge>
+    <edge id="claim.v060.japanese.eight_thunder_appears_kojiki" source="group.japanese.eight_thunder_kami" target="text.japanese.kojiki"><data key="relation">APPEARS_IN</data></edge>
+    <edge id="claim.v060.japanese.fusuikazuchi_member" source="deity.japanese.fusuikazuchi" target="group.japanese.eight_thunder_kami"><data key="relation">MEMBER_OF</data></edge>
+    <edge id="claim.v060.japanese.honoikazuchi_member" source="deity.japanese.honoikazuchi" target="group.japanese.eight_thunder_kami"><data key="relation">MEMBER_OF</data></edge>
+    <edge id="claim.v060.japanese.kuroikazuchi_member" source="deity.japanese.kuroikazuchi" target="group.japanese.eight_thunder_kami"><data key="relation">MEMBER_OF</data></edge>
+    <edge id="claim.v060.japanese.naruikazuchi_member" source="deity.japanese.naruikazuchi" target="group.japanese.eight_thunder_kami"><data key="relation">MEMBER_OF</data></edge>
+    <edge id="claim.v060.japanese.ooikazuchi_member" source="deity.japanese.ooikazuchi" target="group.japanese.eight_thunder_kami"><data key="relation">MEMBER_OF</data></edge>
+    <edge id="claim.v060.japanese.raijin_thunder_scope" source="deity.japanese.raijin" target="concept.comparative.thunder"><data key="relation">ASSOCIATED_WITH</data></edge>
+    <edge id="claim.v060.japanese.sakuikazuchi_member" source="deity.japanese.sakuikazuchi" target="group.japanese.eight_thunder_kami"><data key="relation">MEMBER_OF</data></edge>
+    <edge id="claim.v060.japanese.takemikazuchi_appears_kojiki" source="deity.japanese.takemikazuchi" target="text.japanese.kojiki"><data key="relation">APPEARS_IN</data></edge>
+    <edge id="claim.v060.japanese.takemikazuchi_thunder_scope" source="deity.japanese.takemikazuchi" target="concept.comparative.thunder"><data key="relation">ASSOCIATED_WITH</data></edge>
+    <edge id="claim.v060.japanese.tsuchiikazuchi_member" source="deity.japanese.tsuchiikazuchi" target="group.japanese.eight_thunder_kami"><data key="relation">MEMBER_OF</data></edge>
+    <edge id="claim.v060.japanese.wakaikazuchi_member" source="deity.japanese.wakaikazuchi" target="group.japanese.eight_thunder_kami"><data key="relation">MEMBER_OF</data></edge>
+    <edge id="claim.v060.modern.thor_sibling_hela" source="modern.marvel.mcu.thor" target="modern.marvel.mcu.hela"><data key="relation">SIBLING_OF</data></edge>
+    <edge id="claim.v060.modern.thor_sibling_loki" source="modern.marvel.mcu.thor" target="modern.marvel.mcu.loki"><data key="relation">SIBLING_OF</data></edge>
+    <edge id="claim.v060.norse.jarnsaxa_parent_magni" source="being.norse.jarnsaxa" target="deity.norse.magni"><data key="relation">PARENT_OF</data></edge>
+    <edge id="claim.v060.norse.loki_appears_thrymskvida" source="deity.norse.loki" target="text.norse.thrymskvida"><data key="relation">APPEARS_IN</data></edge>
+    <edge id="claim.v060.norse.loki_parent_hel" source="deity.norse.loki" target="deity.norse.hel"><data key="relation">PARENT_OF</data></edge>
+    <edge id="claim.v060.norse.sif_parent_thrud" source="deity.norse.sif" target="deity.norse.thrud"><data key="relation">PARENT_OF</data></edge>
+    <edge id="claim.v060.norse.sif_parent_ullr" source="deity.norse.sif" target="deity.norse.ullr"><data key="relation">PARENT_OF</data></edge>
+    <edge id="claim.v060.norse.thor_appears_thrymskvida" source="deity.norse.thor" target="text.norse.thrymskvida"><data key="relation">APPEARS_IN</data></edge>
+    <edge id="claim.v060.norse.thor_child_jord" source="deity.norse.thor" target="deity.norse.jord"><data key="relation">CHILD_OF</data></edge>
+    <edge id="claim.v060.norse.thor_child_odin" source="deity.norse.thor" target="deity.norse.odin"><data key="relation">CHILD_OF</data></edge>
+    <edge id="claim.v060.norse.thor_consort_sif" source="deity.norse.thor" target="deity.norse.sif"><data key="relation">CONSORT_OF</data></edge>
+    <edge id="claim.v060.norse.thor_loki_thrymskvida" source="deity.norse.thor" target="deity.norse.loki"><data key="relation">ASSOCIATED_WITH</data></edge>
+    <edge id="claim.v060.norse.thor_parent_magni" source="deity.norse.thor" target="deity.norse.magni"><data key="relation">PARENT_OF</data></edge>
+    <edge id="claim.v060.norse.thor_parent_modi" source="deity.norse.thor" target="deity.norse.modi"><data key="relation">PARENT_OF</data></edge>
+    <edge id="claim.v060.norse.thor_parent_thrud" source="deity.norse.thor" target="deity.norse.thrud"><data key="relation">PARENT_OF</data></edge>
+    <edge id="claim.v060.norse.thor_sibling_baldr" source="deity.norse.thor" target="deity.norse.baldr"><data key="relation">SIBLING_OF</data></edge>
+    <edge id="claim.v060.norse.thor_sibling_meili" source="deity.norse.thor" target="deity.norse.meili"><data key="relation">SIBLING_OF</data></edge>
+    <edge id="claim.v060.norse.thor_step_parent_ullr" source="deity.norse.thor" target="deity.norse.ullr"><data key="relation">STEP_PARENT_OF</data></edge>
+    <edge id="claim.v060.norse.thor_thunder_scope" source="deity.norse.thor" target="concept.comparative.thunder"><data key="relation">ASSOCIATED_WITH</data></edge>
+    <edge id="claim.v060.slavic.perun_appears_pvl" source="deity.slavic.perun" target="text.slavic.primary_chronicle"><data key="relation">APPEARS_IN</data></edge>
+    <edge id="claim.v060.slavic.perun_coinvoked_veles" source="deity.slavic.perun" target="deity.slavic.veles"><data key="relation">CO_INVOKED_WITH</data></edge>
+    <edge id="claim.v060.slavic.perun_thunder_scope" source="deity.slavic.perun" target="concept.comparative.thunder"><data key="relation">ASSOCIATED_WITH</data></edge>
+    <edge id="claim.v060.ugaritic.ayyamur_appears_baal_cycle" source="weapon.ugaritic.ayyamur" target="text.ugaritic.baal_cycle"><data key="relation">APPEARS_IN</data></edge>
+    <edge id="claim.v060.ugaritic.baal_associated_title" source="deity.ugaritic.baal" target="concept.ugaritic.baal_title"><data key="relation">ASSOCIATED_WITH</data></edge>
+    <edge id="claim.v060.ugaritic.baal_participated_yamm_event" source="deity.ugaritic.baal" target="event.ugaritic.baal_yamm_ktu12"><data key="relation">PARTICIPATED_IN</data></edge>
+    <edge id="claim.v060.ugaritic.baal_thunder_scope" source="deity.ugaritic.baal" target="concept.comparative.thunder"><data key="relation">ASSOCIATED_WITH</data></edge>
+    <edge id="claim.v060.ugaritic.baal_uses_ayyamur" source="deity.ugaritic.baal" target="weapon.ugaritic.ayyamur"><data key="relation">USES</data></edge>
+    <edge id="claim.v060.ugaritic.baal_uses_yagrush" source="deity.ugaritic.baal" target="weapon.ugaritic.yagrush"><data key="relation">USES</data></edge>
+    <edge id="claim.v060.ugaritic.event_appears_baal_cycle" source="event.ugaritic.baal_yamm_ktu12" target="text.ugaritic.baal_cycle"><data key="relation">APPEARS_IN</data></edge>
+    <edge id="claim.v060.ugaritic.kothar_created_ayyamur" source="deity.ugaritic.kothar_wa_khasis" target="weapon.ugaritic.ayyamur"><data key="relation">CREATOR_OF</data></edge>
+    <edge id="claim.v060.ugaritic.kothar_created_yagrush" source="deity.ugaritic.kothar_wa_khasis" target="weapon.ugaritic.yagrush"><data key="relation">CREATOR_OF</data></edge>
+    <edge id="claim.v060.ugaritic.yagrush_appears_baal_cycle" source="weapon.ugaritic.yagrush" target="text.ugaritic.baal_cycle"><data key="relation">APPEARS_IN</data></edge>
+    <edge id="claim.v060.ugaritic.yamm_participated_event" source="deity.ugaritic.yam" target="event.ugaritic.baal_yamm_ktu12"><data key="relation">PARTICIPATED_IN</data></edge>
+    <edge id="claim.v060.vedic.event_appears_rigveda" source="event.vedic.indra_vritra_rv132" target="text.vedic.rigveda"><data key="relation">APPEARS_IN</data></edge>
+    <edge id="claim.v060.vedic.indra_killed_vrtra" source="deity.vedic.indra" target="creature.vedic.vritra"><data key="relation">KILLED</data></edge>
+    <edge id="claim.v060.vedic.indra_participated_vrtra_event" source="deity.vedic.indra" target="event.vedic.indra_vritra_rv132"><data key="relation">PARTICIPATED_IN</data></edge>
+    <edge id="claim.v060.vedic.indra_thunder_scope" source="deity.vedic.indra" target="concept.comparative.thunder"><data key="relation">ASSOCIATED_WITH</data></edge>
+    <edge id="claim.v060.vedic.indra_uses_vajra" source="deity.vedic.indra" target="weapon.vedic.vajra"><data key="relation">USES</data></edge>
+    <edge id="claim.v060.vedic.tvastr_created_vajra" source="deity.vedic.tvastr" target="weapon.vedic.vajra"><data key="relation">CREATOR_OF</data></edge>
+    <edge id="claim.v060.vedic.vajra_appears_rigveda" source="weapon.vedic.vajra" target="text.vedic.rigveda"><data key="relation">APPEARS_IN</data></edge>
+    <edge id="claim.v060.vedic.vrtra_participated_event" source="creature.vedic.vritra" target="event.vedic.indra_vritra_rv132"><data key="relation">PARTICIPATED_IN</data></edge>
+    <edge id="claim.v060.yoruba.festival_associated_koso" source="festival.yoruba.sango_oyo" target="site.yoruba.koso_temple"><data key="relation">ASSOCIATED_WITH</data></edge>
+    <edge id="claim.v060.yoruba.sango_associated_festival" source="deity.yoruba.shango" target="festival.yoruba.sango_oyo"><data key="relation">ASSOCIATED_WITH</data></edge>
+    <edge id="claim.v060.yoruba.sango_associated_ose" source="deity.yoruba.shango" target="artifact.yoruba.ose_sango"><data key="relation">ASSOCIATED_WITH</data></edge>
+    <edge id="claim.v060.yoruba.sango_thunder_scope" source="deity.yoruba.shango" target="concept.comparative.thunder"><data key="relation">ASSOCIATED_WITH</data></edge>
     <edge id="claim.ve.sibling_odin" source="deity.norse.ve" target="deity.norse.odin"><data key="relation">SIBLING_OF</data></edge>
     <edge id="claim.vili.sibling_odin" source="deity.norse.vili" target="deity.norse.odin"><data key="relation">SIBLING_OF</data></edge>
     <edge id="claim.vili.sibling_ve" source="deity.norse.vili" target="deity.norse.ve"><data key="relation">SIBLING_OF</data></edge>

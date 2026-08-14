@@ -6,7 +6,7 @@
 - 原文名: 古事記
 - 转写: —
 - 研究状态: `PARTIAL`
-- 证据状态: `UNVERIFIED`
+- 证据状态: `PARTIAL`
 
 ## 分类
 
@@ -14,7 +14,10 @@
 
 ## 关系网络
 
-当前无关系边；保留为研究缺口。
+| Relation | Target | Review / layer | Evidence | Confidence | Direction |
+|---|---|---|---:|---:|---|
+| `HAS_APPEARANCE_OF` | 《古事记》八雷神 (`group.japanese.eight_thunder_kami`) | VERIFIED / TEXT_SAYS / TEXTUAL_WITNESS | 1 | 0.99 | inferred inverse; `claim.v060.japanese.eight_thunder_appears_kojiki` |
+| `HAS_APPEARANCE_OF` | 建御雷 (`deity.japanese.takemikazuchi`) | VERIFIED / TEXT_SAYS / TEXTUAL_WITNESS | 1 | 0.97 | inferred inverse; `claim.v060.japanese.takemikazuchi_appears_kojiki` |
 
 ## Claims 与证据
 

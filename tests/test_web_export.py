@@ -16,12 +16,14 @@ class PublicWebExportTests(unittest.TestCase):
 
     def test_public_snapshot_preserves_core_counts(self):
         counts = self.snapshot["meta"]["counts"]
-        self.assertEqual(counts["registeredEntities"], 468)
-        self.assertEqual(counts["canonicalEntities"], 463)
-        self.assertEqual(counts["civilizations"], 95)
-        self.assertEqual(counts["sources"], 100)
-        self.assertEqual(counts["claims"], 221)
-        self.assertEqual(counts["directRelationships"], 193)
+        # Floors detect regressions while allowing the permanent research
+        # queue and append-only migrations to expand the public snapshot.
+        self.assertGreaterEqual(counts["registeredEntities"], 468)
+        self.assertGreaterEqual(counts["canonicalEntities"], 463)
+        self.assertGreaterEqual(counts["civilizations"], 95)
+        self.assertGreaterEqual(counts["sources"], 100)
+        self.assertGreaterEqual(counts["claims"], 221)
+        self.assertGreaterEqual(counts["directRelationships"], 193)
 
     def test_public_snapshot_excludes_evidence_quotes(self):
         serialized = json.dumps(self.snapshot, ensure_ascii=False)

@@ -6,6 +6,7 @@
 | deity.chinese.fu_xi | 伏羲 | Fuxi | DEITY | 中国上古神话 | PARTIAL | UNVERIFIED |
 | deity.chinese.nu_wa | 女娲 | Nüwa | DEITY | 中国上古神话 | PARTIAL | UNVERIFIED |
 | being.chinese.pangu | 盘古 | Pangu | GIANT | 中国上古神话 | PARTIAL | UNVERIFIED |
+| deity.chinese.leize_thunder_spirit | 雷泽雷神 | Thunder Spirit of Leize | DEITY | 中国上古神话 | PARTIAL | SOURCE_BACKED |
 | hero.chinese.yellow_emperor | 黄帝 | Yellow Emperor | HERO | 中国上古神话 | PARTIAL | UNVERIFIED |
 | deity.egyptian.amun | 阿蒙 | Amun | DEITY | 古埃及 | PARTIAL | SOURCE_BACKED |
 | deity.egyptian.anubis | 阿努比斯 | Anubis | DEITY | 古埃及 | PARTIAL | UNVERIFIED |
@@ -67,6 +68,7 @@
 | deity.assyrian.ashur | 阿舒尔 | Ashur | DEITY | 亚述 | PARTIAL | UNVERIFIED |
 | deity.babylonian.marduk | 马尔杜克 | Marduk | DEITY | 巴比伦 | PARTIAL | SOURCE_BACKED |
 | deity.babylonian.tiamat | 提亚马特 | Tiamat | PRIMORDIAL_DEITY | 巴比伦 | PARTIAL | SOURCE_BACKED |
+| deity.chinese.leigong | 雷公 | Leigong | DEITY | 中国民间信仰 | CONFLICT | CONFLICTING |
 | deity.chinese.nezha | 哪吒 | Nezha | DEITY | 中国民间信仰 | PARTIAL | UNVERIFIED |
 | deity.hawaiian.pele | 佩蕾 | Pele | DEITY | 夏威夷 | PARTIAL | UNVERIFIED |
 | deity.hindu.brahma | 梵天 | Brahma | DEITY | 印度教传统 | PARTIAL | UNVERIFIED |
@@ -78,10 +80,20 @@
 | deity.irish.dagda | 达格达 | The Dagda | DEITY | 爱尔兰 | PARTIAL | UNVERIFIED |
 | deity.irish.morrigan | 莫莉甘 | The Morrígan | DEITY | 爱尔兰 | PARTIAL | UNVERIFIED |
 | deity.japanese.amaterasu | 天照大神 | Amaterasu | DEITY | 日本神道 | PARTIAL | UNVERIFIED |
+| deity.japanese.fusuikazuchi | 伏雷 | Fusuikazuchi | DEITY | 日本神道 | PARTIAL | SOURCE_BACKED |
+| deity.japanese.honoikazuchi | 火雷 | Honoikazuchi | DEITY | 日本神道 | PARTIAL | SOURCE_BACKED |
 | deity.japanese.izanagi | 伊邪那岐 | Izanagi | DEITY | 日本神道 | PARTIAL | UNVERIFIED |
 | deity.japanese.izanami | 伊邪那美 | Izanami | DEITY | 日本神道 | PARTIAL | UNVERIFIED |
+| deity.japanese.kuroikazuchi | 黑雷 | Kuroikazuchi | DEITY | 日本神道 | PARTIAL | SOURCE_BACKED |
+| deity.japanese.naruikazuchi | 鸣雷 | Naruikazuchi | DEITY | 日本神道 | PARTIAL | SOURCE_BACKED |
+| deity.japanese.ooikazuchi | 大雷 | Ooikazuchi | DEITY | 日本神道 | PARTIAL | SOURCE_BACKED |
+| deity.japanese.raijin | 雷神 | Raijin | DEITY | 日本神道 | CONFLICT | CONFLICTING |
+| deity.japanese.sakuikazuchi | 析雷 | Sakuikazuchi | DEITY | 日本神道 | PARTIAL | SOURCE_BACKED |
 | deity.japanese.susanoo | 须佐之男 | Susanoo | DEITY | 日本神道 | PARTIAL | UNVERIFIED |
+| deity.japanese.takemikazuchi | 建御雷 | Takemikazuchi | DEITY | 日本神道 | CONFLICT | CONFLICTING |
+| deity.japanese.tsuchiikazuchi | 土雷 | Tsuchiikazuchi | DEITY | 日本神道 | PARTIAL | SOURCE_BACKED |
 | deity.japanese.tsukuyomi | 月读 | Tsukuyomi | DEITY | 日本神道 | PARTIAL | UNVERIFIED |
+| deity.japanese.wakaikazuchi | 若雷 | Wakaikazuchi | DEITY | 日本神道 | PARTIAL | SOURCE_BACKED |
 | deity.maya.chaac | 恰克 | Chaac | DEITY | 玛雅 | PARTIAL | UNVERIFIED |
 | deity.maya.itzamna | 伊察姆纳 | Itzamna | DEITY | 玛雅 | PARTIAL | UNVERIFIED |
 | deity.maya.kukulkan | 库库尔坎 | Kukulkan | DEITY | 玛雅 | PARTIAL | UNVERIFIED |
@@ -91,27 +103,34 @@
 | deity.mexica.tlaloc | 特拉洛克 | Tlaloc | DEITY | 墨西卡 | PARTIAL | UNVERIFIED |
 | deity.maori.papatuanuku | 帕帕图阿努库 | Papatūānuku | PRIMORDIAL_DEITY | 毛利 | PARTIAL | UNVERIFIED |
 | deity.maori.ranginui | 兰吉努伊 | Ranginui | PRIMORDIAL_DEITY | 毛利 | PARTIAL | UNVERIFIED |
-| deity.norse.baldr | 巴德尔 | Baldr | DEITY | 北欧 | PARTIAL | UNVERIFIED |
+| deity.norse.baldr | 巴德尔 | Baldr | DEITY | 北欧 | PARTIAL | PARTIAL |
 | deity.norse.borr | 博尔 | Borr | DEITY | 北欧 | PARTIAL | SOURCE_BACKED |
 | deity.norse.buri | 布里 | Búri | ANCESTOR_DEITY | 北欧 | PARTIAL | PARTIAL |
 | deity.norse.freyja | 芙蕾雅 | Freyja | DEITY | 北欧 | PARTIAL | UNVERIFIED |
 | deity.norse.freyr | 弗雷 | Freyr | DEITY | 北欧 | PARTIAL | UNVERIFIED |
 | deity.norse.frigg | 弗丽嘉 | Frigg | DEITY | 北欧 | PARTIAL | UNVERIFIED |
 | deity.norse.heimdall | 海姆达尔 | Heimdallr | DEITY | 北欧 | PARTIAL | UNVERIFIED |
-| deity.norse.hel | 赫尔 | Hel | DEITY | 北欧 | PARTIAL | UNVERIFIED |
-| deity.norse.loki | 洛基 | Loki | DEITY | 北欧 | PARTIAL | UNVERIFIED |
+| deity.norse.hel | 赫尔 | Hel | DEITY | 北欧 | PARTIAL | PARTIAL |
+| deity.norse.jord | 约尔德／大地女神 | Jord | DEITY | 北欧 | PARTIAL | PARTIAL |
+| deity.norse.loki | 洛基 | Loki | DEITY | 北欧 | PARTIAL | SOURCE_BACKED |
+| deity.norse.magni | 马格尼 | Magni | DEITY | 北欧 | PARTIAL | PARTIAL |
+| deity.norse.meili | 梅利 | Meili | DEITY | 北欧 | PARTIAL | PARTIAL |
+| deity.norse.modi | 莫迪 | Modi | DEITY | 北欧 | PARTIAL | PARTIAL |
 | deity.norse.njord | 尼奥尔德 | Njörðr | DEITY | 北欧 | PARTIAL | UNVERIFIED |
 | deity.norse.odin | 奥丁 | Odin | DEITY | 北欧 | PARTIAL | SOURCE_BACKED |
+| deity.norse.sif | 希芙 | Sif | DEITY | 北欧 | PARTIAL | SOURCE_BACKED |
 | deity.norse.thor | 索尔／雷神托尔 | Thor | DEITY | 北欧 | PARTIAL | SOURCE_BACKED |
+| deity.norse.thrud | 斯露德 | Thrud | DEITY | 北欧 | PARTIAL | PARTIAL |
 | deity.norse.tyr | 提尔 | Týr | DEITY | 北欧 | PARTIAL | UNVERIFIED |
+| deity.norse.ullr | 乌勒尔 | Ullr | DEITY | 北欧 | PARTIAL | PARTIAL |
 | deity.norse.vili | 维利 | Vili | DEITY | 北欧 | PARTIAL | SOURCE_BACKED |
 | deity.norse.ve | 维 | Vé | DEITY | 北欧 | PARTIAL | SOURCE_BACKED |
 | being.norse.ymir | 尤弥尔 | Ymir | GIANT | 北欧 | PARTIAL | UNVERIFIED |
 | deity.polynesian.tangaroa | 塔加罗阿 | Tangaroa | DEITY | 波利尼西亚 | PARTIAL | UNVERIFIED |
 | deity.polynesian.tane | 塔内 | Tāne | DEITY | 波利尼西亚 | PARTIAL | UNVERIFIED |
 | deity.slavic.mokosh | 莫科什 | Mokosh | DEITY | 斯拉夫 | PARTIAL | UNVERIFIED |
-| deity.slavic.perun | 佩伦 | Perun | DEITY | 斯拉夫 | PARTIAL | UNVERIFIED |
-| deity.slavic.veles | 维列斯 | Veles | DEITY | 斯拉夫 | PARTIAL | UNVERIFIED |
+| deity.slavic.perun | 佩伦 | Perun | DEITY | 斯拉夫 | CONFLICT | CONFLICTING |
+| deity.slavic.veles | 维列斯 | Veles | DEITY | 斯拉夫 | PARTIAL | PARTIAL |
 | deity.sumerian.an | 安 | An | DEITY | 苏美尔 | PARTIAL | UNVERIFIED |
 | deity.sumerian.enki | 恩基 | Enki | DEITY | 苏美尔 | PARTIAL | SOURCE_BACKED |
 | deity.sumerian.enlil | 恩利尔 | Enlil | DEITY | 苏美尔 | PARTIAL | SOURCE_BACKED |
@@ -122,15 +141,17 @@
 | deity.sumerian.utu | 乌图 | Utu | DEITY | 苏美尔 | PARTIAL | UNVERIFIED |
 | deity.ugaritic.anat | 阿娜特 | Anat | DEITY | 乌加里特 | PARTIAL | UNVERIFIED |
 | deity.ugaritic.asherah | 阿西拉特／亚舍拉 | Athirat / Asherah | DEITY | 乌加里特 | PARTIAL | UNVERIFIED |
-| deity.ugaritic.baal | 乌加里特巴力 | Baal of Ugarit | DEITY | 乌加里特 | PARTIAL | SOURCE_BACKED |
+| deity.ugaritic.baal | 乌加里特巴力 | Baal of Ugarit | DEITY | 乌加里特 | CONFLICT | CONFLICTING |
 | deity.ugaritic.el | 乌加里特伊勒 | El of Ugarit | DEITY | 乌加里特 | PARTIAL | UNVERIFIED |
+| deity.ugaritic.kothar_wa_khasis | 科塔尔-瓦-哈西斯 | Kothar-wa-Khasis | DEITY | 乌加里特 | PARTIAL | SOURCE_BACKED |
 | deity.ugaritic.mot | 穆特 | Mot | DEITY | 乌加里特 | PARTIAL | UNVERIFIED |
-| deity.ugaritic.yam | 雅姆 | Yam | DEITY | 乌加里特 | PARTIAL | UNVERIFIED |
-| deity.vedic.indra | 因陀罗 | Indra | DEITY | 吠陀传统 | PARTIAL | UNVERIFIED |
+| deity.ugaritic.yam | 雅姆 | Yam | DEITY | 乌加里特 | PARTIAL | SOURCE_BACKED |
+| deity.vedic.indra | 因陀罗 | Indra | DEITY | 吠陀传统 | PARTIAL | SOURCE_BACKED |
+| deity.vedic.tvastr | 陀湿多 | Tvastr | DEITY | 吠陀传统 | PARTIAL | SOURCE_BACKED |
 | deity.yoruba.ogun | 奥贡 | Ogun | DEITY | 约鲁巴 | PARTIAL | UNVERIFIED |
 | deity.yoruba.olodumare | 奥洛杜马雷 | Olodumare | DEITY | 约鲁巴 | PARTIAL | UNVERIFIED |
 | deity.yoruba.oshun | 奥舒恩 | Oshun | DEITY | 约鲁巴 | PARTIAL | UNVERIFIED |
-| deity.yoruba.shango | 尚戈 | Shango | DEITY | 约鲁巴 | PARTIAL | UNVERIFIED |
+| deity.yoruba.shango | 尚戈 | Shango | DEITY | 约鲁巴 | PARTIAL | SOURCE_BACKED |
 | deity.zoroastrian.ahura_mazda | 阿胡拉·马兹达 | Ahura Mazda | DEITY | 琐罗亚斯德传统 | PARTIAL | UNVERIFIED |
 | being.zoroastrian.angra_mainyu | 安格拉·曼纽 | Angra Mainyu | DEITY | 琐罗亚斯德传统 | PARTIAL | UNVERIFIED |
 | deity.zoroastrian.mithra | 密特拉 | Mithra | DEITY | 琐罗亚斯德传统 | PARTIAL | UNVERIFIED |

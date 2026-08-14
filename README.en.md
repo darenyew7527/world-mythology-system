@@ -10,17 +10,18 @@ The repository contains a reproducible staged knowledge baseline, not a claim of
 
 The bilingual React explorer provides searchable entities, filters, relationship graphs, claims, evidence locators, sources, coverage, and the permanent research queue. Chinese is the default interface; English can be selected from the header.
 
-Current `v0.5.1-mobile-graph-hotfix` checkpoint:
+Current `v0.6.0-thunder-comparison` checkpoint:
 
-- 468 registered entities / 463 browsable canonical entities
+- 506 registered entities / 501 browsable canonical entities
 - 95 civilizations and traditions
-- 100 source records
-- 221 structured claims and 215 evidence records
-- 193 direct relationship assertions
+- 129 source records
+- 286 structured claims and 282 evidence records
+- 257 direct relationship assertions
 - A bilingual genealogy mode for parents, children, siblings, consorts, and their evidence
+- An evidence-led comparison of Thor, Zeus, Indra, Raijin, Takemikazuchi, Leigong, the Leize thunder spirit, Perun, Ṣàngó, and Ugaritic Baʿlu/Haddu
 - Structured deity, artifact, text, place, creature, and event profiles in the entity view
 
-v0.5.1 fixes clipped mobile graph nodes, target-relative genealogy labels, selected-entity centering, and iPhone safe-area spacing. The mythology data remains on the same v0.5.0 evidence baseline. See the [v0.5.1 release notes](RELEASE_NOTES_v0.5.1.md) and [v0.5.0 research expansion notes](RELEASE_NOTES_v0.5.0.md).
+v0.6 also expands Thor’s source-specific genealogy. Loki is not Thor’s brother in the registered Old Norse witnesses; Hel is Loki’s daughter and Þrúðr is Thor’s daughter. The Marvel screen continuity’s adoptive-brother Loki and half-sister Hela are stored only as modern adaptations. See the [v0.6 release notes](RELEASE_NOTES_v0.6.0.md).
 
 These are release checkpoint counts, not project limits.
 

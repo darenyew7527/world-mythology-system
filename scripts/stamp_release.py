@@ -33,8 +33,10 @@ def current_git_commit() -> str:
     ).stdout.strip()
 
 
-def stamp(database: Path, git_commit: str) -> dict:
-    input_hash = sha256_file(database)
+def stamp(database: Path, git_commit: str, *, pre_stamp_hash: str | None = None) -> dict:
+    input_hash = pre_stamp_hash or sha256_file(database)
+    if len(input_hash) != 64 or any(character not in "0123456789abcdef" for character in input_hash.lower()):
+        raise ValueError("pre-stamp hash must be a 64-character SHA-256 hexadecimal digest")
     stamped_at = utc_now()
     with connect(database) as conn:
         release = conn.execute(
@@ -86,6 +88,15 @@ if __name__ == "__main__":
     parser = argparse.ArgumentParser()
     parser.add_argument("--database", type=Path, default=DEFAULT_DB_PATH)
     parser.add_argument("--git-commit", default=None)
+    parser.add_argument(
+        "--pre-stamp-hash",
+        default=None,
+        help="preserve the known hash of the original unstamped snapshot when restamping",
+    )
     args = parser.parse_args()
-    result = stamp(args.database.resolve(), args.git_commit or current_git_commit())
+    result = stamp(
+        args.database.resolve(),
+        args.git_commit or current_git_commit(),
+        pre_stamp_hash=args.pre_stamp_hash,
+    )
     print(json.dumps(result, ensure_ascii=False, indent=2))

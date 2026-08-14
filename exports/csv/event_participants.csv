@@ -13,3 +13,7 @@ event.norse.forging_divine_treasures,being.norse.eitri,SMITH,Treasures completed
 event.norse.ragnarok,deity.norse.odin,PARTICIPANT,,claim.norse.odin_participates_ragnarok
 event.norse.ragnarok,creature.norse.fenrir,PARTICIPANT,,claim.norse.fenrir_participates_ragnarok
 event.sumerian.inanna_descent,deity.sumerian.inanna,PARTICIPANT,,claim.sumerian.inanna_participates_descent
+event.ugaritic.baal_yamm_ktu12,deity.ugaritic.baal,COMBATANT,Yamm is made to fall in the registered reading,claim.v060.ugaritic.baal_participated_yamm_event
+event.ugaritic.baal_yamm_ktu12,deity.ugaritic.yam,OPPONENT,Falls after the second named weapon blow in the registered reading,claim.v060.ugaritic.yamm_participated_event
+event.vedic.indra_vritra_rv132,deity.vedic.indra,COMBATANT,Kills Vrtra in this hymn witness,claim.v060.vedic.indra_participated_vrtra_event
+event.vedic.indra_vritra_rv132,creature.vedic.vritra,OPPONENT,Killed in this hymn witness,claim.v060.vedic.vrtra_participated_event

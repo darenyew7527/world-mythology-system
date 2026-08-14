@@ -10,6 +10,7 @@ artifact.greek.helm_hades,ARMOR,1,
 artifact.mesopotamian.tablet_destinies,ARTIFACT,1,
 artifact.norse.draupnir,RING,1,
 artifact.norse.gleipnir,ARTIFACT,1,
+artifact.yoruba.ose_sango,SACRED_OBJECT,1,v0.6.0 thunder and storm comparison checkpoint
 being.chinese.pangu,GIANT,1,
 being.chinese.pangu,PRIMORDIAL_DEITY,0,
 being.norse.bestla,GIANT,1,Primary classification at research checkpoint 2026-08-11
@@ -17,6 +18,7 @@ being.norse.brokkr,DWARF,1,Primary classification at research checkpoint 2026-08
 being.norse.brokkr,CREATURE,0,DWARF is nested under CREATURE
 being.norse.eitri,DWARF,1,Primary classification at research checkpoint 2026-08-11
 being.norse.eitri,CREATURE,0,DWARF is nested under CREATURE
+being.norse.jarnsaxa,GIANT,1,v0.6.0 thunder and storm comparison checkpoint
 being.norse.mimir,CREATURE,1,Primary classification at research checkpoint 2026-08-11
 being.norse.sindri,DWARF,1,Primary classification at research checkpoint 2026-08-11
 being.norse.sindri,CREATURE,0,DWARF is nested under CREATURE
@@ -87,6 +89,7 @@ concept.egyptian.ma_at,CONCEPT,1,
 concept.greek.classical_elements,CONCEPT,1,
 concept.indian.pancamahabhuta,CONCEPT,1,
 concept.norse.fire_ice_cosmogony,COSMOLOGY,1,
+concept.ugaritic.baal_title,CONCEPT,1,v0.6.0 thunder and storm comparison checkpoint
 concept.zoroastrian.asha,CONCEPT,1,
 concept.zoroastrian.druj,CONCEPT,1,
 creature.greek.cyclopes_hesiodic,GIANT,1,
@@ -95,12 +98,15 @@ creature.norse.fenrir,MONSTER,1,
 creature.norse.gullinbursti,DIVINE_BEAST,1,Primary classification at research checkpoint 2026-08-11
 creature.norse.gullinbursti,ARTIFACT,0,Crafted living being in Skáldskaparmál; retain both classes
 creature.norse.jormungandr,DRAGON,1,
+creature.vedic.vritra,MONSTER,1,v0.6.0 thunder and storm comparison checkpoint
 deity.akkadian.ishtar,DEITY,1,
 deity.assyrian.ashur,DEITY,1,
 deity.babylonian.marduk,DEITY,1,
 deity.babylonian.tiamat,PRIMORDIAL_DEITY,1,
 deity.babylonian.tiamat,DRAGON,0,
 deity.chinese.fu_xi,DEITY,1,
+deity.chinese.leigong,DEITY,1,v0.6.0 thunder and storm comparison checkpoint
+deity.chinese.leize_thunder_spirit,DEITY,1,v0.6.0 thunder and storm comparison checkpoint
 deity.chinese.nezha,DEITY,1,
 deity.chinese.nu_wa,DEITY,1,
 deity.egyptian.amun,DEITY,1,
@@ -182,10 +188,20 @@ deity.irish.dagda,DEITY,1,
 deity.irish.lugh,DEITY,1,
 deity.irish.morrigan,DEITY,1,
 deity.japanese.amaterasu,DEITY,1,
+deity.japanese.fusuikazuchi,DEITY,1,v0.6.0 thunder and storm comparison checkpoint
+deity.japanese.honoikazuchi,DEITY,1,v0.6.0 thunder and storm comparison checkpoint
 deity.japanese.izanagi,DEITY,1,
 deity.japanese.izanami,DEITY,1,
+deity.japanese.kuroikazuchi,DEITY,1,v0.6.0 thunder and storm comparison checkpoint
+deity.japanese.naruikazuchi,DEITY,1,v0.6.0 thunder and storm comparison checkpoint
+deity.japanese.ooikazuchi,DEITY,1,v0.6.0 thunder and storm comparison checkpoint
+deity.japanese.raijin,DEITY,1,v0.6.0 thunder and storm comparison checkpoint
+deity.japanese.sakuikazuchi,DEITY,1,v0.6.0 thunder and storm comparison checkpoint
 deity.japanese.susanoo,DEITY,1,
+deity.japanese.takemikazuchi,DEITY,1,v0.6.0 thunder and storm comparison checkpoint
+deity.japanese.tsuchiikazuchi,DEITY,1,v0.6.0 thunder and storm comparison checkpoint
 deity.japanese.tsukuyomi,DEITY,1,
+deity.japanese.wakaikazuchi,DEITY,1,v0.6.0 thunder and storm comparison checkpoint
 deity.maori.papatuanuku,PRIMORDIAL_DEITY,1,
 deity.maori.ranginui,PRIMORDIAL_DEITY,1,
 deity.maya.chaac,DEITY,1,
@@ -204,11 +220,18 @@ deity.norse.frigg,DEITY,1,
 deity.norse.heimdall,DEITY,1,
 deity.norse.hel,DEITY,1,
 deity.norse.hel,CONCEPT,0,
+deity.norse.jord,DEITY,1,v0.6.0 thunder and storm comparison checkpoint
 deity.norse.loki,DEITY,1,
+deity.norse.magni,DEITY,1,v0.6.0 thunder and storm comparison checkpoint
+deity.norse.meili,DEITY,1,v0.6.0 thunder and storm comparison checkpoint
+deity.norse.modi,DEITY,1,v0.6.0 thunder and storm comparison checkpoint
 deity.norse.njord,DEITY,1,
 deity.norse.odin,DEITY,1,
+deity.norse.sif,DEITY,1,v0.6.0 thunder and storm comparison checkpoint
 deity.norse.thor,DEITY,1,
+deity.norse.thrud,DEITY,1,v0.6.0 thunder and storm comparison checkpoint
 deity.norse.tyr,DEITY,1,
+deity.norse.ullr,DEITY,1,v0.6.0 thunder and storm comparison checkpoint
 deity.norse.ve,DEITY,1,Primary classification at research checkpoint 2026-08-11
 deity.norse.vili,DEITY,1,Primary classification at research checkpoint 2026-08-11
 deity.polynesian.tane,DEITY,1,
@@ -228,11 +251,13 @@ deity.ugaritic.anat,DEITY,1,
 deity.ugaritic.asherah,DEITY,1,
 deity.ugaritic.baal,DEITY,1,
 deity.ugaritic.el,DEITY,1,
+deity.ugaritic.kothar_wa_khasis,DEITY,1,v0.6.0 thunder and storm comparison checkpoint
 deity.ugaritic.mot,DEITY,1,
 deity.ugaritic.mot,CONCEPT,0,
 deity.ugaritic.yam,DEITY,1,
 deity.ugaritic.yam,CONCEPT,0,
 deity.vedic.indra,DEITY,1,
+deity.vedic.tvastr,DEITY,1,v0.6.0 thunder and storm comparison checkpoint
 deity.yoruba.ogun,DEITY,1,
 deity.yoruba.olodumare,DEITY,1,
 deity.yoruba.orunmila,DEITY,1,
@@ -257,6 +282,10 @@ event.greek.zeus_typhon_battle,EVENT,1,Primary classification at research checkp
 event.norse.forging_divine_treasures,EVENT,1,Primary classification at research checkpoint 2026-08-11
 event.norse.ragnarok,EVENT,1,
 event.sumerian.inanna_descent,EVENT,1,
+event.ugaritic.baal_yamm_ktu12,EVENT,1,v0.6.0 thunder and storm comparison checkpoint
+event.vedic.indra_vritra_rv132,EVENT,1,v0.6.0 thunder and storm comparison checkpoint
+festival.yoruba.sango_oyo,FESTIVAL,1,v0.6.0 thunder and storm comparison checkpoint
+group.japanese.eight_thunder_kami,CONCEPT,1,v0.6.0 thunder and storm comparison checkpoint
 hero.chinese.sun_wukong,HERO,1,
 hero.chinese.yellow_emperor,HERO,1,
 hero.chinese.yellow_emperor,ANCESTOR_DEITY,0,
@@ -271,6 +300,9 @@ institution.british_museum,INSTITUTION,1,
 institution.louvre,INSTITUTION,1,
 institution.met,INSTITUTION,1,
 institution.swedish_history_museum,INSTITUTION,1,
+modern.marvel.mcu.hela,MODERN_WORK,1,v0.6.0 thunder and storm comparison checkpoint
+modern.marvel.mcu.loki,MODERN_WORK,1,v0.6.0 thunder and storm comparison checkpoint
+modern.marvel.mcu.thor,MODERN_WORK,1,v0.6.0 thunder and storm comparison checkpoint
 museum.babylon.flood_tablet_k3375,MUSEUM_OBJECT,1,
 museum.egypt.papyrus_ani_frame3,MUSEUM_OBJECT,1,
 museum.greek.zeus_poseidon_met_21_88_52,MUSEUM_OBJECT,1,
@@ -292,6 +324,7 @@ site.chile.rapa_nui,MONUMENT,1,
 site.china.kunlun_scope,PLACE,1,
 site.china.ritual_sites_scope,ARCHAEOLOGICAL_SITE,1,
 site.china.taishan,PLACE,1,
+site.chinese.mogao_cave_285,ARCHAEOLOGICAL_SITE,1,v0.6.0 thunder and storm comparison checkpoint
 site.denmark.hedeby,ARCHAEOLOGICAL_SITE,1,
 site.egypt.abu_simbel,TEMPLE,1,
 site.egypt.abydos,ARCHAEOLOGICAL_SITE,1,
@@ -355,6 +388,7 @@ site.syria.ugarit,ARCHAEOLOGICAL_SITE,1,
 site.tibet.kailash,PLACE,1,
 site.uk.avebury,MONUMENT,1,
 site.uk.stonehenge,MONUMENT,1,
+site.yoruba.koso_temple,TEMPLE,1,v0.6.0 thunder and storm comparison checkpoint
 site.zimbabwe.great_zimbabwe,ARCHAEOLOGICAL_SITE,1,
 text.africa.epics,ORAL_TRADITION,1,
 text.akkadian.adapa,TEXT,1,
@@ -375,6 +409,7 @@ text.chinese.han_shu_wuxing_zhi,TEXT,1,Primary classification at research checkp
 text.chinese.hong_fan,TEXT,1,Primary classification at research checkpoint 2026-08-11
 text.chinese.huainanzi,TEXT,1,
 text.chinese.local_gazetteers,TEXT,1,
+text.chinese.lunheng,TEXT,1,v0.6.0 thunder and storm comparison checkpoint
 text.chinese.mutianzizhuan,TEXT,1,
 text.chinese.shang_shu,TEXT,1,Primary classification at research checkpoint 2026-08-11
 text.chinese.shangshu,TEXT,1,
@@ -455,6 +490,7 @@ text.persian.shahnameh,EPIC,1,
 text.polynesia.creation_chants,ORAL_TRADITION,1,
 text.roman.aeneid,EPIC,1,
 text.roman.metamorphoses,EPIC,1,
+text.slavic.primary_chronicle,TEXT,1,v0.6.0 thunder and storm comparison checkpoint
 text.sumerian.enki_ninhursag,TEXT,1,
 text.sumerian.enki_world_order,TEXT,1,
 text.sumerian.inanna_descent,TEXT,1,
@@ -494,4 +530,6 @@ weapon.norse.gram,WEAPON,1,
 weapon.norse.gungnir,WEAPON,1,
 weapon.norse.mjolnir,WEAPON,1,
 weapon.norse.tyrfing,WEAPON,1,
+weapon.ugaritic.ayyamur,WEAPON,1,v0.6.0 thunder and storm comparison checkpoint
+weapon.ugaritic.yagrush,WEAPON,1,v0.6.0 thunder and storm comparison checkpoint
 weapon.vedic.vajra,WEAPON,1,

@@ -6,7 +6,7 @@
 - 原文名: 山海經
 - 转写: —
 - 研究状态: `PARTIAL`
-- 证据状态: `UNVERIFIED`
+- 证据状态: `PARTIAL`
 
 ## 分类
 
@@ -14,7 +14,9 @@
 
 ## 关系网络
 
-当前无关系边；保留为研究缺口。
+| Relation | Target | Review / layer | Evidence | Confidence | Direction |
+|---|---|---|---:|---:|---|
+| `HAS_APPEARANCE_OF` | 雷泽雷神 (`deity.chinese.leize_thunder_spirit`) | VERIFIED / TEXT_SAYS / TEXTUAL_WITNESS | 1 | 0.99 | inferred inverse; `claim.v060.chinese.leize_appears_shanhaijing` |
 
 ## Claims 与证据
 

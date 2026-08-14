@@ -6,7 +6,7 @@
 - 原文名: Велес
 - 转写: —
 - 研究状态: `PARTIAL`
-- 证据状态: `UNVERIFIED`
+- 证据状态: `PARTIAL`
 
 ## 分类
 
@@ -14,7 +14,9 @@
 
 ## 关系网络
 
-当前无关系边；保留为研究缺口。
+| Relation | Target | Review / layer | Evidence | Confidence | Direction |
+|---|---|---|---:|---:|---|
+| `CO_INVOKED_WITH` | 佩伦 (`deity.slavic.perun`) | VERIFIED / TEXT_SAYS / RITUAL_PRACTICE | 1 | 0.97 | inferred inverse; `claim.v060.slavic.perun_coinvoked_veles` |
 
 ## Claims 与证据
 

@@ -73,6 +73,13 @@ export const DatabaseIcon = (props) => (
   <Icon {...props}><ellipse cx="12" cy="5" rx="7.5" ry="3" {...stroke} /><path d="M4.5 5v7c0 1.7 3.4 3 7.5 3s7.5-1.3 7.5-3V5M4.5 12v7c0 1.7 3.4 3 7.5 3s7.5-1.3 7.5-3v-7" {...stroke} /></Icon>
 )
 
+export const ThunderIcon = (props) => (
+  <Icon {...props}>
+    <path d="M13.7 2.8 6.8 13h5l-1.4 8.2L17.8 10h-5.2l1.1-7.2Z" {...stroke} />
+    <path d="M4 7.5h3M17.3 17H20" {...stroke} opacity=".65" />
+  </Icon>
+)
+
 export const AlertIcon = (props) => (
   <Icon {...props}><path d="M12 3 2.8 20h18.4L12 3Z" {...stroke} /><path d="M12 9v5M12 17.5h.01" {...stroke} /></Icon>
 )

@@ -6,3 +6,5 @@ event.greek.zeus_typhon_battle,DIVINE_CONFLICT,Mythic time,Typhon threatens divi
 event.norse.forging_divine_treasures,ARTIFACT_CREATION,Mythic time,Loki’s wager concerning smithcraft,Brokkr tends the bellows while the smith produces three treasures,"Gullinbursti, Draupnir and Mjölnir are presented to the gods",
 event.norse.ragnarok,WORLD_END_AND_RENEWAL,,,,,
 event.sumerian.inanna_descent,UNDERWORLD_JOURNEY,,,,,
+event.ugaritic.baal_yamm_ktu12,DIVINE_COMBAT,KTU 1.2 IV textual layer,乌加里特神话中的王权与冲突语境。,巴力依次使用 Yagrush 与 Ayyamur 对抗 Yamm。,第二件武器使 Yamm 倒地；后续层须按泥板版本继续扩张。,不以现代“混沌大战”标签覆盖原文与学术争议。
+event.vedic.indra_vritra_rv132,DIVINE_COMBAT,Rigveda 1.32 textual layer,颂歌中的弗栗多／蛇敌阻水语境。,因陀罗以金刚杵击杀对手，水流得以流出。,严格作为颂歌叙事结果保存。,不把跨文明“屠龙”相似性自动解释成共同来源。

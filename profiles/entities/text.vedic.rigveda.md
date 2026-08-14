@@ -6,7 +6,7 @@
 - 原文名: ऋग्वेद
 - 转写: —
 - 研究状态: `PARTIAL`
-- 证据状态: `UNVERIFIED`
+- 证据状态: `PARTIAL`
 
 ## 分类
 
@@ -14,7 +14,10 @@
 
 ## 关系网络
 
-当前无关系边；保留为研究缺口。
+| Relation | Target | Review / layer | Evidence | Confidence | Direction |
+|---|---|---|---:|---:|---|
+| `HAS_APPEARANCE_OF` | 因陀罗与弗栗多之战（《梨俱吠陀》1.32） (`event.vedic.indra_vritra_rv132`) | VERIFIED / TEXT_SAYS / TEXTUAL_WITNESS | 1 | 0.99 | inferred inverse; `claim.v060.vedic.event_appears_rigveda` |
+| `HAS_APPEARANCE_OF` | 金刚杵／雷霆 (`weapon.vedic.vajra`) | VERIFIED / TEXT_SAYS / TEXTUAL_WITNESS | 1 | 0.99 | inferred inverse; `claim.v060.vedic.vajra_appears_rigveda` |
 
 ## Claims 与证据
 

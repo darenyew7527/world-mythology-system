@@ -1,5 +1,15 @@
 # 更新日志 / Changelog
 
+## v0.6.0-thunder-comparison — 2026-08-14
+
+- 新增证据驱动的“雷神、闪电与风暴神对照”，首批 10 个比较成员全部连接已定位 Claim 与 Evidence；比较不表示同一神、共同起源或传播关系。
+- 补齐 Thor 的 Odin／Jǫrð 父母层、Sif 配偶层、Magni／Móði／Þrúðr 子女层、Meili 与 Baldr 兄弟见证，以及 Ullr 继子关系。
+- 明确古诺斯 Loki 不是 Thor 的兄弟，Hel 是 Loki 与 Angrboða 之女；MCU Loki 养兄弟与 Hela 同父异母姐姐另建现代实体和改编关系。
+- 新增／扩展 Indra—Vajra—Vṛtra、Raijin 泛称与《古事记》八雷神、Takemikazuchi、雷公与雷泽雷神、Perun、Ṣàngó、Baʿlu/Haddu—Yagrush—Ayyamur—Yamm 等资料层。
+- 新增 `comparison_sets`／`comparison_set_members`，保留原生范围、比较边界、文化权限、身份争议与永久发现路径。
+- 数据库达到 506 个登记实体、129 条来源、286 条 Claims、282 条 Evidence 与 257 条直接关系；新增 65 条 v0.6 Claims 和 67 条 Evidence。
+- 刷新全部持久表 JSONL/CSV、知识图谱、档案、Source Registry、Schema Catalog、Coverage、缺失／冲突报告，并新增 v0.6 数据与网页回归检查。
+
 ## v0.5.1-mobile-graph-hotfix — 2026-08-14
 
 - 使用独立的 390px 手机 SVG 布局，移除强制 150%／175% 宽度导致的左右节点裁切。

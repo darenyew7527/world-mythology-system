@@ -6,7 +6,7 @@
 - 原文名: —
 - 转写: —
 - 研究状态: `PARTIAL`
-- 证据状态: `UNVERIFIED`
+- 证据状态: `PARTIAL`
 
 ## 分类
 
@@ -14,7 +14,11 @@
 
 ## 关系网络
 
-当前无关系边；保留为研究缺口。
+| Relation | Target | Review / layer | Evidence | Confidence | Direction |
+|---|---|---|---:|---:|---|
+| `HAS_APPEARANCE_OF` | 阿亚穆尔 (`weapon.ugaritic.ayyamur`) | VERIFIED / TEXT_SAYS / TEXTUAL_WITNESS | 1 | 0.97 | inferred inverse; `claim.v060.ugaritic.ayyamur_appears_baal_cycle` |
+| `HAS_APPEARANCE_OF` | 巴力与雅姆之战（KTU 1.2 IV） (`event.ugaritic.baal_yamm_ktu12`) | VERIFIED / TEXT_SAYS / TEXTUAL_WITNESS | 1 | 0.99 | inferred inverse; `claim.v060.ugaritic.event_appears_baal_cycle` |
+| `HAS_APPEARANCE_OF` | 亚格鲁什 (`weapon.ugaritic.yagrush`) | VERIFIED / TEXT_SAYS / TEXTUAL_WITNESS | 1 | 0.97 | inferred inverse; `claim.v060.ugaritic.yagrush_appears_baal_cycle` |
 
 ## Claims 与证据
 

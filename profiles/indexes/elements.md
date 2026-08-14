@@ -12,6 +12,7 @@
 | concept.comparative.destruction | 毁灭 | Destruction | CONCEPT | — | PARTIAL | UNVERIFIED |
 | concept.comparative.dream | 梦 | Dream | CONCEPT | — | PARTIAL | UNVERIFIED |
 | concept.zoroastrian.druj | 德鲁杰（虚妄／失序） | Druj | CONCEPT | 琐罗亚斯德传统 | PARTIAL | UNVERIFIED |
+| group.japanese.eight_thunder_kami | 《古事记》八雷神 | Eight Thunder Kami of the Kojiki | CONCEPT | 日本神道 | PARTIAL | SOURCE_BACKED |
 | concept.comparative.fate | 命运 | Fate | CONCEPT | — | PARTIAL | UNVERIFIED |
 | concept.comparative.hearth | 炉火／灶火 | Hearth | CONCEPT | 古希腊 | PARTIAL | PARTIAL |
 | concept.comparative.hunting | 狩猎 | Hunting | CONCEPT | — | PARTIAL | UNVERIFIED |
@@ -33,15 +34,16 @@
 | concept.comparative.sleep | 睡眠 | Sleep | CONCEPT | 古希腊 | PARTIAL | PARTIAL |
 | concept.comparative.soul | 灵魂 | Soul | CONCEPT | — | PARTIAL | UNVERIFIED |
 | concept.comparative.time | 时间 | Time | CONCEPT | — | PARTIAL | UNVERIFIED |
+| concept.ugaritic.baal_title | 乌加里特 bʿl“主／领主”头衔 | Ugaritic b-l title lexeme | CONCEPT | 乌加里特 | PARTIAL | PARTIAL |
 | concept.comparative.war | 战争 | War | CONCEPT | — | PARTIAL | UNVERIFIED |
 | concept.comparative.wisdom | 智慧 | Wisdom | CONCEPT | — | PARTIAL | UNVERIFIED |
 | concept.chinese.wuxing | 五行 | Wuxing | CONCEPT | 中国上古神话 | PARTIAL | SOURCE_BACKED |
 | concept.norse.fire_ice_cosmogony | 北欧火与冰宇宙生成结构 | Norse fire-and-ice cosmogonic contrast | COSMOLOGY | 北欧 | PARTIAL | UNVERIFIED |
 | being.zoroastrian.angra_mainyu | 安格拉·曼纽 | Angra Mainyu | DEITY | 琐罗亚斯德传统 | PARTIAL | UNVERIFIED |
-| deity.norse.hel | 赫尔 | Hel | DEITY | 北欧 | PARTIAL | UNVERIFIED |
+| deity.norse.hel | 赫尔 | Hel | DEITY | 北欧 | PARTIAL | PARTIAL |
 | deity.egyptian.ma_at | 玛阿特 | Ma'at | DEITY | 古埃及 | PARTIAL | PARTIAL |
 | deity.ugaritic.mot | 穆特 | Mot | DEITY | 乌加里特 | PARTIAL | UNVERIFIED |
-| deity.ugaritic.yam | 雅姆 | Yam | DEITY | 乌加里特 | PARTIAL | UNVERIFIED |
+| deity.ugaritic.yam | 雅姆 | Yam | DEITY | 乌加里特 | PARTIAL | SOURCE_BACKED |
 | element.indian.agni | 火 | Agni | ELEMENT | 印度教传统 | PARTIAL | PARTIAL |
 | concept.comparative.air | 气／空气 | Air / Breath | ELEMENT | — | PARTIAL | UNVERIFIED |
 | concept.comparative.darkness | 黑暗 | Darkness | ELEMENT | — | PARTIAL | UNVERIFIED |
@@ -80,5 +82,5 @@
 | concept.comparative.lightning | 闪电 | Lightning | POWER | — | PARTIAL | UNVERIFIED |
 | concept.comparative.magic | 魔法 | Magic | POWER | — | PARTIAL | UNVERIFIED |
 | concept.comparative.storm | 风暴 | Storm | POWER | — | PARTIAL | UNVERIFIED |
-| concept.comparative.thunder | 雷 | Thunder | POWER | — | PARTIAL | UNVERIFIED |
+| concept.comparative.thunder | 雷 | Thunder | POWER | — | PARTIAL | PARTIAL |
 | deity.greek.gaia | 盖亚 | Gaia | PRIMORDIAL_DEITY | 古希腊 | PARTIAL | SOURCE_BACKED |

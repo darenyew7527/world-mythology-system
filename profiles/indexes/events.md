@@ -9,3 +9,5 @@
 | event.norse.forging_divine_treasures | 诸神宝物锻造 | Forging of the divine treasures | EVENT | 北欧 | PARTIAL | PARTIAL |
 | event.norse.ragnarok | 诸神黄昏 | Ragnarök | EVENT | 北欧 | PARTIAL | UNVERIFIED |
 | event.sumerian.inanna_descent | 伊南娜下冥界事件 | Descent of Inanna | EVENT | 苏美尔 | PARTIAL | UNVERIFIED |
+| event.ugaritic.baal_yamm_ktu12 | 巴力与雅姆之战（KTU 1.2 IV） | Baal and Yamm in KTU 1.2 IV | EVENT | 乌加里特 | PARTIAL | SOURCE_BACKED |
+| event.vedic.indra_vritra_rv132 | 因陀罗与弗栗多之战（《梨俱吠陀》1.32） | Indra and Vrtra in Rigveda 1.32 | EVENT | 吠陀传统 | PARTIAL | SOURCE_BACKED |

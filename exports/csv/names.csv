@@ -1042,6 +1042,63 @@ name.v050.text_greek_homeric_hymn_hermes_4.zh,text.greek.homeric_hymn_hermes_4,�
 name.v050.text_greek_homeric_hymn_poseidon_22.en,text.greek.homeric_hymn_poseidon_22,Homeric Hymn 22 to Poseidon,homeric hymn 22 to poseidon,lang.en,Latin,CANONICAL,,1,,v0.5.0 canonical reading label
 name.v050.text_greek_homeric_hymn_poseidon_22.zh,text.greek.homeric_hymn_poseidon_22,《荷马颂歌·致波塞冬》（第22首）,《荷马颂歌·致波塞冬》（第22首）,lang.zh,Han,TRANSLATION,,1,,v0.5.0 Chinese reading label
 name.v050.zeus.grc,deity.greek.zeus,Ζεύς,ζεύς,lang.grc,Greek,ORIGINAL,,1,source.greek.theogony.perseus_eng1,Ancient Greek name
+name.v060.baal.baalu,deity.ugaritic.baal,Baʿlu,baʿlu,lang.uga,Latin,TRANSLITERATION,,0,source.ugaritic.hadad.bm,Title/name form in Ugaritic context
+name.v060.baal.haddu,deity.ugaritic.baal,Haddu,haddu,lang.uga,Latin,TEXTUAL_NAME,,0,source.ugaritic.hadad.bm,Ugaritic storm-deity name; does not merge every regional Hadad or Baal figure
+name.v060.baal.lexeme,concept.ugaritic.baal_title,bʿl,bʿl,lang.uga,Latin,LEXEME,,1,source.ugaritic.hadad.bm,Lord/master title lexeme
+name.v060.baal.ugaritic,deity.ugaritic.baal,𐎁𐎓𐎍,b-l,lang.uga,Ugaritic cuneiform,ORIGINAL,,1,source.ugaritic.hadad.bm,Consonantal Ugaritic spelling b-l
+name.v060.canonical.artifact_yoruba_ose_sango,artifact.yoruba.ose_sango,Ose Sango,ose sango,,Latin,EDITORIAL_CANONICAL,,1,,Editorial canonical display label; not asserted as an original-language attestation.
+name.v060.canonical.being_norse_jarnsaxa,being.norse.jarnsaxa,Jarnsaxa,jarnsaxa,,Latin,EDITORIAL_CANONICAL,,1,,Editorial canonical display label; not asserted as an original-language attestation.
+name.v060.canonical.concept_ugaritic_baal_title,concept.ugaritic.baal_title,Ugaritic b-l title lexeme,ugaritic b-l title lexeme,,Latin,EDITORIAL_CANONICAL,,1,,Editorial canonical display label; not asserted as an original-language attestation.
+name.v060.canonical.creature_vedic_vritra,creature.vedic.vritra,Vrtra,vrtra,,Latin,EDITORIAL_CANONICAL,,1,,Editorial canonical display label; not asserted as an original-language attestation.
+name.v060.canonical.deity_chinese_leigong,deity.chinese.leigong,Leigong,leigong,,Latin,EDITORIAL_CANONICAL,,1,,Editorial canonical display label; not asserted as an original-language attestation.
+name.v060.canonical.deity_chinese_leize_thunder_spirit,deity.chinese.leize_thunder_spirit,Thunder Spirit of Leize,thunder spirit of leize,,Latin,EDITORIAL_CANONICAL,,1,,Editorial canonical display label; not asserted as an original-language attestation.
+name.v060.canonical.deity_japanese_fusuikazuchi,deity.japanese.fusuikazuchi,Fusuikazuchi,fusuikazuchi,,Latin,EDITORIAL_CANONICAL,,1,,Editorial canonical display label; not asserted as an original-language attestation.
+name.v060.canonical.deity_japanese_honoikazuchi,deity.japanese.honoikazuchi,Honoikazuchi,honoikazuchi,,Latin,EDITORIAL_CANONICAL,,1,,Editorial canonical display label; not asserted as an original-language attestation.
+name.v060.canonical.deity_japanese_kuroikazuchi,deity.japanese.kuroikazuchi,Kuroikazuchi,kuroikazuchi,,Latin,EDITORIAL_CANONICAL,,1,,Editorial canonical display label; not asserted as an original-language attestation.
+name.v060.canonical.deity_japanese_naruikazuchi,deity.japanese.naruikazuchi,Naruikazuchi,naruikazuchi,,Latin,EDITORIAL_CANONICAL,,1,,Editorial canonical display label; not asserted as an original-language attestation.
+name.v060.canonical.deity_japanese_ooikazuchi,deity.japanese.ooikazuchi,Ooikazuchi,ooikazuchi,,Latin,EDITORIAL_CANONICAL,,1,,Editorial canonical display label; not asserted as an original-language attestation.
+name.v060.canonical.deity_japanese_raijin,deity.japanese.raijin,Raijin,raijin,,Latin,EDITORIAL_CANONICAL,,1,,Editorial canonical display label; not asserted as an original-language attestation.
+name.v060.canonical.deity_japanese_sakuikazuchi,deity.japanese.sakuikazuchi,Sakuikazuchi,sakuikazuchi,,Latin,EDITORIAL_CANONICAL,,1,,Editorial canonical display label; not asserted as an original-language attestation.
+name.v060.canonical.deity_japanese_takemikazuchi,deity.japanese.takemikazuchi,Takemikazuchi,takemikazuchi,,Latin,EDITORIAL_CANONICAL,,1,,Editorial canonical display label; not asserted as an original-language attestation.
+name.v060.canonical.deity_japanese_tsuchiikazuchi,deity.japanese.tsuchiikazuchi,Tsuchiikazuchi,tsuchiikazuchi,,Latin,EDITORIAL_CANONICAL,,1,,Editorial canonical display label; not asserted as an original-language attestation.
+name.v060.canonical.deity_japanese_wakaikazuchi,deity.japanese.wakaikazuchi,Wakaikazuchi,wakaikazuchi,,Latin,EDITORIAL_CANONICAL,,1,,Editorial canonical display label; not asserted as an original-language attestation.
+name.v060.canonical.deity_norse_jord,deity.norse.jord,Jord,jord,,Latin,EDITORIAL_CANONICAL,,1,,Editorial canonical display label; not asserted as an original-language attestation.
+name.v060.canonical.deity_norse_magni,deity.norse.magni,Magni,magni,,Latin,EDITORIAL_CANONICAL,,1,,Editorial canonical display label; not asserted as an original-language attestation.
+name.v060.canonical.deity_norse_meili,deity.norse.meili,Meili,meili,,Latin,EDITORIAL_CANONICAL,,1,,Editorial canonical display label; not asserted as an original-language attestation.
+name.v060.canonical.deity_norse_modi,deity.norse.modi,Modi,modi,,Latin,EDITORIAL_CANONICAL,,1,,Editorial canonical display label; not asserted as an original-language attestation.
+name.v060.canonical.deity_norse_sif,deity.norse.sif,Sif,sif,,Latin,EDITORIAL_CANONICAL,,1,,Editorial canonical display label; not asserted as an original-language attestation.
+name.v060.canonical.deity_norse_thrud,deity.norse.thrud,Thrud,thrud,,Latin,EDITORIAL_CANONICAL,,1,,Editorial canonical display label; not asserted as an original-language attestation.
+name.v060.canonical.deity_norse_ullr,deity.norse.ullr,Ullr,ullr,,Latin,EDITORIAL_CANONICAL,,1,,Editorial canonical display label; not asserted as an original-language attestation.
+name.v060.canonical.deity_ugaritic_kothar_wa_khasis,deity.ugaritic.kothar_wa_khasis,Kothar-wa-Khasis,kothar-wa-khasis,,Latin,EDITORIAL_CANONICAL,,1,,Editorial canonical display label; not asserted as an original-language attestation.
+name.v060.canonical.deity_vedic_tvastr,deity.vedic.tvastr,Tvastr,tvastr,,Latin,EDITORIAL_CANONICAL,,1,,Editorial canonical display label; not asserted as an original-language attestation.
+name.v060.canonical.event_ugaritic_baal_yamm_ktu12,event.ugaritic.baal_yamm_ktu12,Baal and Yamm in KTU 1.2 IV,baal and yamm in ktu 1.2 iv,,Latin,EDITORIAL_CANONICAL,,1,,Editorial canonical display label; not asserted as an original-language attestation.
+name.v060.canonical.event_vedic_indra_vritra_rv132,event.vedic.indra_vritra_rv132,Indra and Vrtra in Rigveda 1.32,indra and vrtra in rigveda 1.32,,Latin,EDITORIAL_CANONICAL,,1,,Editorial canonical display label; not asserted as an original-language attestation.
+name.v060.canonical.festival_yoruba_sango_oyo,festival.yoruba.sango_oyo,"Sango Festival, Oyo","sango festival, oyo",,Latin,EDITORIAL_CANONICAL,,1,,Editorial canonical display label; not asserted as an original-language attestation.
+name.v060.canonical.group_japanese_eight_thunder_kami,group.japanese.eight_thunder_kami,Eight Thunder Kami of the Kojiki,eight thunder kami of the kojiki,,Latin,EDITORIAL_CANONICAL,,1,,Editorial canonical display label; not asserted as an original-language attestation.
+name.v060.canonical.modern_marvel_mcu_hela,modern.marvel.mcu.hela,Marvel Studios Hela,marvel studios hela,,Latin,EDITORIAL_CANONICAL,,1,,Editorial canonical display label; not asserted as an original-language attestation.
+name.v060.canonical.modern_marvel_mcu_loki,modern.marvel.mcu.loki,Marvel Studios Loki,marvel studios loki,,Latin,EDITORIAL_CANONICAL,,1,,Editorial canonical display label; not asserted as an original-language attestation.
+name.v060.canonical.modern_marvel_mcu_thor,modern.marvel.mcu.thor,Marvel Studios Thor,marvel studios thor,,Latin,EDITORIAL_CANONICAL,,1,,Editorial canonical display label; not asserted as an original-language attestation.
+name.v060.canonical.site_chinese_mogao_cave_285,site.chinese.mogao_cave_285,Mogao Cave 285,mogao cave 285,,Latin,EDITORIAL_CANONICAL,,1,,Editorial canonical display label; not asserted as an original-language attestation.
+name.v060.canonical.site_yoruba_koso_temple,site.yoruba.koso_temple,Koso Temple,koso temple,,Latin,EDITORIAL_CANONICAL,,1,,Editorial canonical display label; not asserted as an original-language attestation.
+name.v060.canonical.text_chinese_lunheng,text.chinese.lunheng,Lunheng,lunheng,,Latin,EDITORIAL_CANONICAL,,1,,Editorial canonical display label; not asserted as an original-language attestation.
+name.v060.canonical.text_slavic_primary_chronicle,text.slavic.primary_chronicle,Tale of Bygone Years,tale of bygone years,,Latin,EDITORIAL_CANONICAL,,1,,Editorial canonical display label; not asserted as an original-language attestation.
+name.v060.canonical.weapon_ugaritic_ayyamur,weapon.ugaritic.ayyamur,Ayyamur,ayyamur,,Latin,EDITORIAL_CANONICAL,,1,,Editorial canonical display label; not asserted as an original-language attestation.
+name.v060.canonical.weapon_ugaritic_yagrush,weapon.ugaritic.yagrush,Yagrush,yagrush,,Latin,EDITORIAL_CANONICAL,,1,,Editorial canonical display label; not asserted as an original-language attestation.
+name.v060.indra.san,deity.vedic.indra,इन्द्र,indra,lang.san,Devanagari,ORIGINAL,IAST,1,source.vedic.rigveda.1_32.vhp,
+name.v060.jord.non,deity.norse.jord,Jǫrð,jord,lang.non,Latin,ORIGINAL,,1,source.norse.skaldskaparmal.vsnr1998,
+name.v060.leigong.lzh,deity.chinese.leigong,雷公,雷公,lang.lzh,Han,ORIGINAL,,1,source.chinese.lunheng_leixu.ctext,
+name.v060.ose_sango.yrb,artifact.yoruba.ose_sango,Oṣé Ṣàngó,oṣé ṣàngó,lang.yrb,Latin,ORIGINAL,,1,source.yoruba.ose_sango.met.1983_603_5,Sacred staff designation
+name.v060.perun.historical,deity.slavic.perun,Перунъ,перунъ,,Cyrillic,HISTORICAL_FORM,,1,source.slavic.pvl.obdurodon,Chronicle-layer form; normalized display remains Perun
+name.v060.raijin.jpn,deity.japanese.raijin,雷神,雷神,lang.jpn,Kanji,ORIGINAL,,1,source.japanese.raijin.kokugakuin,Umbrella designation
+name.v060.sango.sango,deity.yoruba.shango,Sango,sango,lang.en,Latin,TRANSLITERATION,,0,source.yoruba.sango_festival.unesco,Diacritic-free form
+name.v060.sango.shango,deity.yoruba.shango,Shango,shango,lang.en,Latin,ENGLISH_VARIANT,,0,source.yoruba.sango_festival.unesco,Common English spelling
+name.v060.takemikazuchi.kojiki,deity.japanese.takemikazuchi,建御雷之男神,建御雷之男神,lang.ojp,Kanji,ORIGINAL,,1,source.japanese.takemikazuchi_names.kokugakuin,Kojiki form
+name.v060.takemikazuchi.takefutsu,deity.japanese.takemikazuchi,建布都神,建布都神,lang.ojp,Kanji,TEXTUAL_VARIANT,,0,source.japanese.takemikazuchi_names.kokugakuin,Kojiki textual name; do not turn etymological proposals into settled fact
+name.v060.takemikazuchi.toyofutsu,deity.japanese.takemikazuchi,豊布都神,豊布都神,lang.ojp,Kanji,TEXTUAL_VARIANT,,0,source.japanese.takemikazuchi_names.kokugakuin,Kojiki textual name; do not turn etymological proposals into settled fact
+name.v060.thor.non,deity.norse.thor,Þórr,thorr,lang.non,Latin,ORIGINAL,,1,source.norse.skaldskaparmal.vsnr1998,Normalized Old Norse form
+name.v060.thrud.non,deity.norse.thrud,Þrúðr,thrudr,lang.non,Latin,ORIGINAL,,1,source.norse.skaldskaparmal.vsnr1998,Daughter of Thor in this witness layer
+name.v060.vrtra.ahi,creature.vedic.vritra,अहि,ahi,lang.san,Devanagari,TEXTUAL_DESIGNATION,IAST,0,source.vedic.rigveda.1_32.vhp,"Serpent designation in RV 1.32; retained as a witness-level name, not a global synonym"
+name.v060.vrtra.san,creature.vedic.vritra,वृत्र,vrtra,lang.san,Devanagari,ORIGINAL,IAST,1,source.vedic.rigveda.1_32.vhp,
 name.ve.non,deity.norse.ve,Vé,vé,lang.non,Latin,ORIGINAL,,1,source.norse.gylfaginning.vsnr2005,
 name.vili.non,deity.norse.vili,Vili,vili,lang.non,Latin,ORIGINAL,,1,source.norse.gylfaginning.vsnr2005,
 name.weapon.arthurian.excalibur.canonical,weapon.arthurian.excalibur,Excalibur,excalibur,lang.en,,CANONICAL,,1,,

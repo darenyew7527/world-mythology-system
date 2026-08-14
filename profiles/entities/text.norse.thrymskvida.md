@@ -6,7 +6,7 @@
 - 原文名: Þrymskviða
 - 转写: —
 - 研究状态: `PARTIAL`
-- 证据状态: `UNVERIFIED`
+- 证据状态: `PARTIAL`
 
 ## 分类
 
@@ -14,7 +14,10 @@
 
 ## 关系网络
 
-当前无关系边；保留为研究缺口。
+| Relation | Target | Review / layer | Evidence | Confidence | Direction |
+|---|---|---|---:|---:|---|
+| `HAS_APPEARANCE_OF` | 洛基 (`deity.norse.loki`) | VERIFIED / TEXT_SAYS / TEXTUAL_WITNESS | 1 | 0.99 | inferred inverse; `claim.v060.norse.loki_appears_thrymskvida` |
+| `HAS_APPEARANCE_OF` | 索尔／雷神托尔 (`deity.norse.thor`) | VERIFIED / TEXT_SAYS / TEXTUAL_WITNESS | 1 | 0.99 | inferred inverse; `claim.v060.norse.thor_appears_thrymskvida` |
 
 ## Claims 与证据
 

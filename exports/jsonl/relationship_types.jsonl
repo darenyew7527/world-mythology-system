@@ -11,6 +11,7 @@
 {"category":"KINSHIP","code":"CHILD_OF","description":null,"inverse_code":"PARENT_OF","is_symmetric":0,"label_en":"child of","label_zh":"子女／后代"}
 {"category":"COMPARISON","code":"COMPARABLE_TO","description":null,"inverse_code":"COMPARABLE_TO","is_symmetric":1,"label_en":"comparable to","label_zh":"可比较但不等同"}
 {"category":"KINSHIP","code":"CONSORT_OF","description":null,"inverse_code":"CONSORT_OF","is_symmetric":1,"label_en":"consort of","label_zh":"配偶／伴侣"}
+{"category":"RITUAL","code":"CO_INVOKED_WITH","description":"Two entities named together in a source; does not imply enmity, identity, or a reconstructed cosmic opposition.","inverse_code":"CO_INVOKED_WITH","is_symmetric":1,"label_en":"co-invoked with","label_zh":"共同受誓言援引"}
 {"category":"CREATION","code":"CREATED_BY","description":null,"inverse_code":"CREATOR_OF","is_symmetric":0,"label_en":"created by","label_zh":"由……创造"}
 {"category":"CREATION","code":"CREATOR_OF","description":null,"inverse_code":"CREATED_BY","is_symmetric":0,"label_en":"creator of","label_zh":"创造者"}
 {"category":"PLACE","code":"DEATHPLACE_OF","description":null,"inverse_code":"DIED_IN","is_symmetric":0,"label_en":"deathplace of","label_zh":"死亡地点"}
@@ -60,6 +61,8 @@
 {"category":"PLACE","code":"RULES","description":null,"inverse_code":"RULED_BY","is_symmetric":0,"label_en":"rules","label_zh":"统治"}
 {"category":"KINSHIP","code":"SIBLING_OF","description":null,"inverse_code":"SIBLING_OF","is_symmetric":1,"label_en":"sibling of","label_zh":"兄弟姐妹"}
 {"category":"CULT","code":"SITE_OF_WORSHIP_FOR","description":null,"inverse_code":"WORSHIPPED_AT","is_symmetric":0,"label_en":"site of worship for","label_zh":"崇拜地点"}
+{"category":"KINSHIP","code":"STEP_CHILD_OF","description":"Inverse of STEP_PARENT_OF.","inverse_code":"STEP_PARENT_OF","is_symmetric":0,"label_en":"step-child of","label_zh":"继子女"}
+{"category":"KINSHIP","code":"STEP_PARENT_OF","description":"Witness-specific social kinship; never normalized into biological parentage.","inverse_code":"STEP_CHILD_OF","is_symmetric":0,"label_en":"step-parent of","label_zh":"继父母"}
 {"category":"POSSESSION","code":"USED_BY","description":null,"inverse_code":"USES","is_symmetric":0,"label_en":"used by","label_zh":"被……使用"}
 {"category":"POSSESSION","code":"USES","description":null,"inverse_code":"USED_BY","is_symmetric":0,"label_en":"uses","label_zh":"使用"}
 {"category":"IDENTITY","code":"VARIANT_OF","description":null,"inverse_code":"HAS_VARIANT","is_symmetric":0,"label_en":"variant of","label_zh":"变体"}

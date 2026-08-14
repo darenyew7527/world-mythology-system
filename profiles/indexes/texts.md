@@ -7,12 +7,13 @@
 | text.akkadian.erra_epic | 埃拉史诗 | Erra Epic | EPIC | 阿卡德 | First millennium BCE witnesses | UNVERIFIED |
 | text.akkadian.etana | 埃塔纳史诗 | Etana | EPIC | 阿卡德 | Multiple witnesses | UNVERIFIED |
 | text.chinese.shiji_ancient | 史记相关古史 | Ancient-history traditions in Shiji | TEXT | 中国上古神话 | Western Han | UNVERIFIED |
-| text.chinese.chuci | 楚辞 | Chu Ci | TEXT | 中国上古神话 | Warring States to Han compilation | UNVERIFIED |
-| text.chinese.shanhaijing | 山海经 | Classic of Mountains and Seas | TEXT | 中国上古神话 | Layered ancient text | UNVERIFIED |
+| text.chinese.chuci | 楚辞 | Chu Ci | TEXT | 中国上古神话 | Warring States to Han compilation | PARTIAL |
+| text.chinese.shanhaijing | 山海经 | Classic of Mountains and Seas | TEXT | 中国上古神话 | Layered ancient text | PARTIAL |
 | text.chinese.han_shu_wuxing_zhi | 汉书·五行志 | Han Shu: Wuxing Zhi | TEXT | 中国上古神话 | Eastern Han | PARTIAL |
 | text.chinese.tianwen | 天问 | Heavenly Questions | TEXT | 中国上古神话 | Preserved in Chu Ci | UNVERIFIED |
 | text.chinese.hong_fan | 洪范 | Hong Fan | TEXT | 中国上古神话 | Received chapter with complex dating history | PARTIAL |
 | text.chinese.huainanzi | 淮南子 | Huainanzi | TEXT | 中国上古神话 | Western Han | UNVERIFIED |
+| text.chinese.lunheng | 论衡 | Lunheng | TEXT | 中国上古神话 | Eastern Han | PARTIAL |
 | text.chinese.shang_shu | 尚书 | Shang Shu | TEXT | 中国上古神话 | Multiple textual layers; do not assign a single date | PARTIAL |
 | text.chinese.shangshu | 尚书相关传统 | Shangshu-related traditions | TEXT | 中国上古神话 | Layered compilation | UNVERIFIED |
 | text.chinese.mutianzizhuan | 穆天子传 | Tale of King Mu, Son of Heaven | TEXT | 中国上古神话 | Ancient text with complex transmission | UNVERIFIED |
@@ -74,7 +75,7 @@
 | text.jain.corpus | 耆那教文献总集入口 | Jain textual traditions | SCRIPTURE | 耆那教传统 | Multiple periods | UNVERIFIED |
 | text.japanese.fudoki | 风土记 | Fudoki | TEXT | 日本神道 | Eighth century onward | UNVERIFIED |
 | text.japanese.local_legends | 日本地方传说资料入口 | Japanese local legends | ORAL_TRADITION | 日本神道 | Living and historical traditions | UNVERIFIED |
-| text.japanese.kojiki | 古事记 | Kojiki | TEXT | 日本神道 | Early eighth century | UNVERIFIED |
+| text.japanese.kojiki | 古事记 | Kojiki | TEXT | 日本神道 | Early eighth century | PARTIAL |
 | text.japanese.manyoshu | 万叶集相关神话材料 | Man'yōshū mythic materials | TEXT | 日本神道 | Eighth-century compilation | UNVERIFIED |
 | text.japanese.nihon_shoki | 日本书纪 | Nihon Shoki | TEXT | 日本神道 | Early eighth century | SOURCE_BACKED |
 | text.japanese.shrine_engisho | 神社缘起 | Shrine origin narratives | TEXT | 日本神道 | Multiple periods | UNVERIFIED |
@@ -99,20 +100,21 @@
 | text.norse.skaldskaparmal | 诗语法 | Skáldskaparmál | TEXT | 北欧 | Thirteenth century | UNVERIFIED |
 | text.norse.vafthrudnismal | 瓦夫苏鲁德尼尔之歌 | Vafþrúðnismál | TEXT | 北欧 | Preserved in medieval manuscripts | UNVERIFIED |
 | text.norse.voluspa | 女巫的预言 | Völuspá | TEXT | 北欧 | Preserved in medieval manuscripts | UNVERIFIED |
-| text.norse.thrymskvida | 索列姆之歌 | Þrymskviða | TEXT | 北欧 | Preserved in medieval manuscripts | UNVERIFIED |
+| text.norse.thrymskvida | 索列姆之歌 | Þrymskviða | TEXT | 北欧 | Preserved in medieval manuscripts | PARTIAL |
 | text.persian.shahnameh | 列王纪 | Shahnameh | EPIC | 波斯 | Around 1000 CE | UNVERIFIED |
 | text.polynesia.creation_chants | 波利尼西亚创世吟唱总集入口 | Polynesian creation chants | ORAL_TRADITION | 波利尼西亚 | Living and historical traditions | UNVERIFIED |
+| text.slavic.primary_chronicle | 往年纪事 | Tale of Bygone Years | TEXT | 斯拉夫 | Early 12th-century compilation layers | PARTIAL |
 | text.sumerian.enki_ninhursag | 恩基与宁胡尔萨格 | Enki and Ninhursag | TEXT | 苏美尔 | Old Babylonian witnesses | UNVERIFIED |
 | text.sumerian.enki_world_order | 恩基与世界秩序 | Enki and the World Order | TEXT | 苏美尔 | Old Babylonian witnesses | UNVERIFIED |
 | text.sumerian.inanna_descent | 伊南娜下冥界 | Inanna's Descent | TEXT | 苏美尔 | Old Babylonian witnesses | UNVERIFIED |
 | text.sumerian.king_list | 苏美尔王表 | Sumerian King List | TEXT | 苏美尔 | Multiple witnesses | UNVERIFIED |
 | text.turkic.inscriptions | 突厥碑铭总集入口 | Old Turkic inscriptions | INSCRIPTION | 突厥 | Early medieval | UNVERIFIED |
-| text.ugaritic.baal_cycle | 巴力神话组诗 | Baal Cycle | TABLET | 乌加里特 | Late Bronze Age | UNVERIFIED |
+| text.ugaritic.baal_cycle | 巴力神话组诗 | Baal Cycle | TABLET | 乌加里特 | Late Bronze Age | PARTIAL |
 | museum.ugarit.baal_cycle_ao16643 | 巴力神话泥板 AO 16643 | Baal Cycle tablet AO 16643 | MUSEUM_OBJECT | 乌加里特 | — | SOURCE_BACKED |
 | text.vedic.aranyakas | 森林书 | Aranyakas | SCRIPTURE | 吠陀传统 | Vedic period | UNVERIFIED |
 | text.vedic.atharvaveda | 阿闼婆吠陀 | Atharvaveda | SCRIPTURE | 吠陀传统 | Vedic period | UNVERIFIED |
 | text.vedic.brahmanas | 梵书 | Brahmanas | SCRIPTURE | 吠陀传统 | Vedic period | UNVERIFIED |
-| text.vedic.rigveda | 梨俱吠陀 | Rigveda | SCRIPTURE | 吠陀传统 | Vedic period; layered composition | UNVERIFIED |
+| text.vedic.rigveda | 梨俱吠陀 | Rigveda | SCRIPTURE | 吠陀传统 | Vedic period; layered composition | PARTIAL |
 | text.vedic.samaveda | 娑摩吠陀 | Samaveda | SCRIPTURE | 吠陀传统 | Vedic period | UNVERIFIED |
 | text.vedic.yajurveda | 夜柔吠陀 | Yajurveda | SCRIPTURE | 吠陀传统 | Vedic period | UNVERIFIED |
 | text.africa.epics | 非洲史诗总集入口 | African epic traditions | ORAL_TRADITION | 西非传统 | Living and historical traditions | UNVERIFIED |

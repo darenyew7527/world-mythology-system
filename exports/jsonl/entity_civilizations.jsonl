@@ -8,10 +8,12 @@
 {"association_role":"ORIGIN_OR_ATTESTATION","certainty":"SUPPORTED","civilization_id":"civ.akkadian","entity_id":"artifact.mesopotamian.tablet_destinies","notes":null}
 {"association_role":"ORIGIN_OR_ATTESTATION","certainty":"SUPPORTED","civilization_id":"civ.norse","entity_id":"artifact.norse.draupnir","notes":null}
 {"association_role":"ORIGIN_OR_ATTESTATION","certainty":"SUPPORTED","civilization_id":"civ.norse","entity_id":"artifact.norse.gleipnir","notes":null}
+{"association_role":"ORIGIN","certainty":"SUPPORTED","civilization_id":"civ.yoruba","entity_id":"artifact.yoruba.ose_sango","notes":"v0.6.0 witness-scoped baseline"}
 {"association_role":"ORIGIN_OR_ATTESTATION","certainty":"SUPPORTED","civilization_id":"civ.chinese_ancient","entity_id":"being.chinese.pangu","notes":null}
 {"association_role":"ORIGIN","certainty":"SUPPORTED","civilization_id":"civ.norse","entity_id":"being.norse.bestla","notes":"Text-tradition association, not historical existence"}
 {"association_role":"ORIGIN","certainty":"SUPPORTED","civilization_id":"civ.norse","entity_id":"being.norse.brokkr","notes":"Text-tradition association, not historical existence"}
 {"association_role":"ORIGIN","certainty":"SUPPORTED","civilization_id":"civ.norse","entity_id":"being.norse.eitri","notes":"Text-tradition association, not historical existence"}
+{"association_role":"ORIGIN","certainty":"SUPPORTED","civilization_id":"civ.norse","entity_id":"being.norse.jarnsaxa","notes":"v0.6.0 witness-scoped baseline"}
 {"association_role":"ORIGIN","certainty":"SUPPORTED","civilization_id":"civ.norse","entity_id":"being.norse.mimir","notes":"Text-tradition association, not historical existence"}
 {"association_role":"ORIGIN","certainty":"SUPPORTED","civilization_id":"civ.norse","entity_id":"being.norse.sindri","notes":"Text-tradition association, not historical existence"}
 {"association_role":"ORIGIN_OR_ATTESTATION","certainty":"SUPPORTED","civilization_id":"civ.norse","entity_id":"being.norse.sons_of_ivaldi","notes":null}
@@ -31,6 +33,7 @@
 {"association_role":"ORIGIN_OR_ATTESTATION","certainty":"SUPPORTED","civilization_id":"civ.greek","entity_id":"concept.greek.classical_elements","notes":null}
 {"association_role":"ORIGIN_OR_ATTESTATION","certainty":"SUPPORTED","civilization_id":"civ.hindu","entity_id":"concept.indian.pancamahabhuta","notes":null}
 {"association_role":"ORIGIN_OR_ATTESTATION","certainty":"SUPPORTED","civilization_id":"civ.norse","entity_id":"concept.norse.fire_ice_cosmogony","notes":null}
+{"association_role":"ORIGIN","certainty":"SUPPORTED","civilization_id":"civ.ugaritic","entity_id":"concept.ugaritic.baal_title","notes":"v0.6.0 witness-scoped baseline"}
 {"association_role":"ORIGIN_OR_ATTESTATION","certainty":"SUPPORTED","civilization_id":"civ.zoroastrian","entity_id":"concept.zoroastrian.asha","notes":null}
 {"association_role":"ORIGIN_OR_ATTESTATION","certainty":"SUPPORTED","civilization_id":"civ.zoroastrian","entity_id":"concept.zoroastrian.druj","notes":null}
 {"association_role":"ORIGIN_OR_ATTESTATION","certainty":"SUPPORTED","civilization_id":"civ.greek","entity_id":"creature.greek.cyclopes_hesiodic","notes":null}
@@ -38,11 +41,14 @@
 {"association_role":"ORIGIN_OR_ATTESTATION","certainty":"SUPPORTED","civilization_id":"civ.norse","entity_id":"creature.norse.fenrir","notes":null}
 {"association_role":"ORIGIN","certainty":"SUPPORTED","civilization_id":"civ.norse","entity_id":"creature.norse.gullinbursti","notes":"Text-tradition association, not historical existence"}
 {"association_role":"ORIGIN_OR_ATTESTATION","certainty":"SUPPORTED","civilization_id":"civ.norse","entity_id":"creature.norse.jormungandr","notes":null}
+{"association_role":"ORIGIN","certainty":"SUPPORTED","civilization_id":"civ.vedic","entity_id":"creature.vedic.vritra","notes":"v0.6.0 witness-scoped baseline"}
 {"association_role":"ORIGIN_OR_ATTESTATION","certainty":"SUPPORTED","civilization_id":"civ.akkadian","entity_id":"deity.akkadian.ishtar","notes":null}
 {"association_role":"ORIGIN_OR_ATTESTATION","certainty":"SUPPORTED","civilization_id":"civ.assyrian","entity_id":"deity.assyrian.ashur","notes":null}
 {"association_role":"ORIGIN_OR_ATTESTATION","certainty":"SUPPORTED","civilization_id":"civ.babylonian","entity_id":"deity.babylonian.marduk","notes":null}
 {"association_role":"ORIGIN_OR_ATTESTATION","certainty":"SUPPORTED","civilization_id":"civ.babylonian","entity_id":"deity.babylonian.tiamat","notes":null}
 {"association_role":"ORIGIN_OR_ATTESTATION","certainty":"SUPPORTED","civilization_id":"civ.chinese_ancient","entity_id":"deity.chinese.fu_xi","notes":null}
+{"association_role":"ORIGIN","certainty":"SUPPORTED","civilization_id":"civ.chinese_folk","entity_id":"deity.chinese.leigong","notes":"v0.6.0 witness-scoped baseline"}
+{"association_role":"ORIGIN","certainty":"SUPPORTED","civilization_id":"civ.chinese_ancient","entity_id":"deity.chinese.leize_thunder_spirit","notes":"v0.6.0 witness-scoped baseline"}
 {"association_role":"ORIGIN_OR_ATTESTATION","certainty":"SUPPORTED","civilization_id":"civ.chinese_folk","entity_id":"deity.chinese.nezha","notes":null}
 {"association_role":"ORIGIN_OR_ATTESTATION","certainty":"SUPPORTED","civilization_id":"civ.chinese_ancient","entity_id":"deity.chinese.nu_wa","notes":null}
 {"association_role":"ORIGIN_OR_ATTESTATION","certainty":"SUPPORTED","civilization_id":"civ.egyptian","entity_id":"deity.egyptian.amun","notes":null}
@@ -111,10 +117,20 @@
 {"association_role":"ORIGIN_OR_ATTESTATION","certainty":"SUPPORTED","civilization_id":"civ.irish","entity_id":"deity.irish.lugh","notes":null}
 {"association_role":"ORIGIN_OR_ATTESTATION","certainty":"SUPPORTED","civilization_id":"civ.irish","entity_id":"deity.irish.morrigan","notes":null}
 {"association_role":"ORIGIN_OR_ATTESTATION","certainty":"SUPPORTED","civilization_id":"civ.japanese_shinto","entity_id":"deity.japanese.amaterasu","notes":null}
+{"association_role":"ORIGIN","certainty":"SUPPORTED","civilization_id":"civ.japanese_shinto","entity_id":"deity.japanese.fusuikazuchi","notes":"v0.6.0 witness-scoped baseline"}
+{"association_role":"ORIGIN","certainty":"SUPPORTED","civilization_id":"civ.japanese_shinto","entity_id":"deity.japanese.honoikazuchi","notes":"v0.6.0 witness-scoped baseline"}
 {"association_role":"ORIGIN_OR_ATTESTATION","certainty":"SUPPORTED","civilization_id":"civ.japanese_shinto","entity_id":"deity.japanese.izanagi","notes":null}
 {"association_role":"ORIGIN_OR_ATTESTATION","certainty":"SUPPORTED","civilization_id":"civ.japanese_shinto","entity_id":"deity.japanese.izanami","notes":null}
+{"association_role":"ORIGIN","certainty":"SUPPORTED","civilization_id":"civ.japanese_shinto","entity_id":"deity.japanese.kuroikazuchi","notes":"v0.6.0 witness-scoped baseline"}
+{"association_role":"ORIGIN","certainty":"SUPPORTED","civilization_id":"civ.japanese_shinto","entity_id":"deity.japanese.naruikazuchi","notes":"v0.6.0 witness-scoped baseline"}
+{"association_role":"ORIGIN","certainty":"SUPPORTED","civilization_id":"civ.japanese_shinto","entity_id":"deity.japanese.ooikazuchi","notes":"v0.6.0 witness-scoped baseline"}
+{"association_role":"ORIGIN","certainty":"SUPPORTED","civilization_id":"civ.japanese_shinto","entity_id":"deity.japanese.raijin","notes":"v0.6.0 witness-scoped baseline"}
+{"association_role":"ORIGIN","certainty":"SUPPORTED","civilization_id":"civ.japanese_shinto","entity_id":"deity.japanese.sakuikazuchi","notes":"v0.6.0 witness-scoped baseline"}
 {"association_role":"ORIGIN_OR_ATTESTATION","certainty":"SUPPORTED","civilization_id":"civ.japanese_shinto","entity_id":"deity.japanese.susanoo","notes":null}
+{"association_role":"ORIGIN","certainty":"SUPPORTED","civilization_id":"civ.japanese_shinto","entity_id":"deity.japanese.takemikazuchi","notes":"v0.6.0 witness-scoped baseline"}
+{"association_role":"ORIGIN","certainty":"SUPPORTED","civilization_id":"civ.japanese_shinto","entity_id":"deity.japanese.tsuchiikazuchi","notes":"v0.6.0 witness-scoped baseline"}
 {"association_role":"ORIGIN_OR_ATTESTATION","certainty":"SUPPORTED","civilization_id":"civ.japanese_shinto","entity_id":"deity.japanese.tsukuyomi","notes":null}
+{"association_role":"ORIGIN","certainty":"SUPPORTED","civilization_id":"civ.japanese_shinto","entity_id":"deity.japanese.wakaikazuchi","notes":"v0.6.0 witness-scoped baseline"}
 {"association_role":"ORIGIN_OR_ATTESTATION","certainty":"SUPPORTED","civilization_id":"civ.maori","entity_id":"deity.maori.papatuanuku","notes":null}
 {"association_role":"ORIGIN_OR_ATTESTATION","certainty":"SUPPORTED","civilization_id":"civ.maori","entity_id":"deity.maori.ranginui","notes":null}
 {"association_role":"ORIGIN_OR_ATTESTATION","certainty":"SUPPORTED","civilization_id":"civ.maya","entity_id":"deity.maya.chaac","notes":null}
@@ -132,11 +148,18 @@
 {"association_role":"ORIGIN_OR_ATTESTATION","certainty":"SUPPORTED","civilization_id":"civ.norse","entity_id":"deity.norse.frigg","notes":null}
 {"association_role":"ORIGIN_OR_ATTESTATION","certainty":"SUPPORTED","civilization_id":"civ.norse","entity_id":"deity.norse.heimdall","notes":null}
 {"association_role":"ORIGIN_OR_ATTESTATION","certainty":"SUPPORTED","civilization_id":"civ.norse","entity_id":"deity.norse.hel","notes":null}
+{"association_role":"ORIGIN","certainty":"SUPPORTED","civilization_id":"civ.norse","entity_id":"deity.norse.jord","notes":"v0.6.0 witness-scoped baseline"}
 {"association_role":"ORIGIN_OR_ATTESTATION","certainty":"SUPPORTED","civilization_id":"civ.norse","entity_id":"deity.norse.loki","notes":null}
+{"association_role":"ORIGIN","certainty":"SUPPORTED","civilization_id":"civ.norse","entity_id":"deity.norse.magni","notes":"v0.6.0 witness-scoped baseline"}
+{"association_role":"ORIGIN","certainty":"SUPPORTED","civilization_id":"civ.norse","entity_id":"deity.norse.meili","notes":"v0.6.0 witness-scoped baseline"}
+{"association_role":"ORIGIN","certainty":"SUPPORTED","civilization_id":"civ.norse","entity_id":"deity.norse.modi","notes":"v0.6.0 witness-scoped baseline"}
 {"association_role":"ORIGIN_OR_ATTESTATION","certainty":"SUPPORTED","civilization_id":"civ.norse","entity_id":"deity.norse.njord","notes":null}
 {"association_role":"ORIGIN_OR_ATTESTATION","certainty":"SUPPORTED","civilization_id":"civ.norse","entity_id":"deity.norse.odin","notes":null}
+{"association_role":"ORIGIN","certainty":"SUPPORTED","civilization_id":"civ.norse","entity_id":"deity.norse.sif","notes":"v0.6.0 witness-scoped baseline"}
 {"association_role":"ORIGIN_OR_ATTESTATION","certainty":"SUPPORTED","civilization_id":"civ.norse","entity_id":"deity.norse.thor","notes":null}
+{"association_role":"ORIGIN","certainty":"SUPPORTED","civilization_id":"civ.norse","entity_id":"deity.norse.thrud","notes":"v0.6.0 witness-scoped baseline"}
 {"association_role":"ORIGIN_OR_ATTESTATION","certainty":"SUPPORTED","civilization_id":"civ.norse","entity_id":"deity.norse.tyr","notes":null}
+{"association_role":"ORIGIN","certainty":"SUPPORTED","civilization_id":"civ.norse","entity_id":"deity.norse.ullr","notes":"v0.6.0 witness-scoped baseline"}
 {"association_role":"ORIGIN","certainty":"SUPPORTED","civilization_id":"civ.norse","entity_id":"deity.norse.ve","notes":"Text-tradition association, not historical existence"}
 {"association_role":"ORIGIN","certainty":"SUPPORTED","civilization_id":"civ.norse","entity_id":"deity.norse.vili","notes":"Text-tradition association, not historical existence"}
 {"association_role":"ORIGIN_OR_ATTESTATION","certainty":"SUPPORTED","civilization_id":"civ.polynesian","entity_id":"deity.polynesian.tane","notes":null}
@@ -156,9 +179,11 @@
 {"association_role":"ORIGIN_OR_ATTESTATION","certainty":"SUPPORTED","civilization_id":"civ.ugaritic","entity_id":"deity.ugaritic.asherah","notes":null}
 {"association_role":"ORIGIN_OR_ATTESTATION","certainty":"SUPPORTED","civilization_id":"civ.ugaritic","entity_id":"deity.ugaritic.baal","notes":null}
 {"association_role":"ORIGIN_OR_ATTESTATION","certainty":"SUPPORTED","civilization_id":"civ.ugaritic","entity_id":"deity.ugaritic.el","notes":null}
+{"association_role":"ORIGIN","certainty":"SUPPORTED","civilization_id":"civ.ugaritic","entity_id":"deity.ugaritic.kothar_wa_khasis","notes":"v0.6.0 witness-scoped baseline"}
 {"association_role":"ORIGIN_OR_ATTESTATION","certainty":"SUPPORTED","civilization_id":"civ.ugaritic","entity_id":"deity.ugaritic.mot","notes":null}
 {"association_role":"ORIGIN_OR_ATTESTATION","certainty":"SUPPORTED","civilization_id":"civ.ugaritic","entity_id":"deity.ugaritic.yam","notes":null}
 {"association_role":"ORIGIN_OR_ATTESTATION","certainty":"SUPPORTED","civilization_id":"civ.vedic","entity_id":"deity.vedic.indra","notes":null}
+{"association_role":"ORIGIN","certainty":"SUPPORTED","civilization_id":"civ.vedic","entity_id":"deity.vedic.tvastr","notes":"v0.6.0 witness-scoped baseline"}
 {"association_role":"ORIGIN_OR_ATTESTATION","certainty":"SUPPORTED","civilization_id":"civ.yoruba","entity_id":"deity.yoruba.ogun","notes":null}
 {"association_role":"ORIGIN_OR_ATTESTATION","certainty":"SUPPORTED","civilization_id":"civ.yoruba","entity_id":"deity.yoruba.olodumare","notes":null}
 {"association_role":"ORIGIN_OR_ATTESTATION","certainty":"SUPPORTED","civilization_id":"civ.ifa","entity_id":"deity.yoruba.orunmila","notes":null}
@@ -183,6 +208,10 @@
 {"association_role":"ORIGIN","certainty":"SUPPORTED","civilization_id":"civ.norse","entity_id":"event.norse.forging_divine_treasures","notes":"Text-tradition association, not historical existence"}
 {"association_role":"ORIGIN_OR_ATTESTATION","certainty":"SUPPORTED","civilization_id":"civ.norse","entity_id":"event.norse.ragnarok","notes":null}
 {"association_role":"ORIGIN_OR_ATTESTATION","certainty":"SUPPORTED","civilization_id":"civ.sumerian","entity_id":"event.sumerian.inanna_descent","notes":null}
+{"association_role":"ORIGIN","certainty":"SUPPORTED","civilization_id":"civ.ugaritic","entity_id":"event.ugaritic.baal_yamm_ktu12","notes":"v0.6.0 witness-scoped baseline"}
+{"association_role":"ORIGIN","certainty":"SUPPORTED","civilization_id":"civ.vedic","entity_id":"event.vedic.indra_vritra_rv132","notes":"v0.6.0 witness-scoped baseline"}
+{"association_role":"ORIGIN","certainty":"SUPPORTED","civilization_id":"civ.yoruba","entity_id":"festival.yoruba.sango_oyo","notes":"v0.6.0 witness-scoped baseline"}
+{"association_role":"ORIGIN","certainty":"SUPPORTED","civilization_id":"civ.japanese_shinto","entity_id":"group.japanese.eight_thunder_kami","notes":"v0.6.0 witness-scoped baseline"}
 {"association_role":"ORIGIN_OR_ATTESTATION","certainty":"SUPPORTED","civilization_id":"civ.chinese_folk","entity_id":"hero.chinese.sun_wukong","notes":null}
 {"association_role":"ORIGIN_OR_ATTESTATION","certainty":"SUPPORTED","civilization_id":"civ.chinese_ancient","entity_id":"hero.chinese.yellow_emperor","notes":null}
 {"association_role":"ORIGIN_OR_ATTESTATION","certainty":"SUPPORTED","civilization_id":"civ.hindu","entity_id":"hero.indian.arjuna","notes":null}
@@ -211,6 +240,7 @@
 {"association_role":"ORIGIN_OR_ATTESTATION","certainty":"SUPPORTED","civilization_id":"civ.chinese_ancient","entity_id":"site.china.kunlun_scope","notes":null}
 {"association_role":"ORIGIN_OR_ATTESTATION","certainty":"SUPPORTED","civilization_id":"civ.chinese_ancient","entity_id":"site.china.ritual_sites_scope","notes":null}
 {"association_role":"ORIGIN_OR_ATTESTATION","certainty":"SUPPORTED","civilization_id":"civ.chinese_ancient","entity_id":"site.china.taishan","notes":null}
+{"association_role":"ORIGIN","certainty":"SUPPORTED","civilization_id":"civ.chinese_ancient","entity_id":"site.chinese.mogao_cave_285","notes":"v0.6.0 witness-scoped baseline"}
 {"association_role":"ORIGIN_OR_ATTESTATION","certainty":"SUPPORTED","civilization_id":"civ.norse","entity_id":"site.denmark.hedeby","notes":null}
 {"association_role":"ORIGIN_OR_ATTESTATION","certainty":"SUPPORTED","civilization_id":"civ.egyptian","entity_id":"site.egypt.abu_simbel","notes":null}
 {"association_role":"ORIGIN_OR_ATTESTATION","certainty":"SUPPORTED","civilization_id":"civ.egyptian","entity_id":"site.egypt.abydos","notes":null}
@@ -269,6 +299,7 @@
 {"association_role":"ORIGIN_OR_ATTESTATION","certainty":"SUPPORTED","civilization_id":"civ.akkadian","entity_id":"site.syria.mari","notes":null}
 {"association_role":"ORIGIN_OR_ATTESTATION","certainty":"SUPPORTED","civilization_id":"civ.ugaritic","entity_id":"site.syria.ugarit","notes":null}
 {"association_role":"ORIGIN_OR_ATTESTATION","certainty":"SUPPORTED","civilization_id":"civ.tibetan","entity_id":"site.tibet.kailash","notes":null}
+{"association_role":"ORIGIN","certainty":"SUPPORTED","civilization_id":"civ.yoruba","entity_id":"site.yoruba.koso_temple","notes":"v0.6.0 witness-scoped baseline"}
 {"association_role":"ORIGIN_OR_ATTESTATION","certainty":"SUPPORTED","civilization_id":"civ.southern_african","entity_id":"site.zimbabwe.great_zimbabwe","notes":null}
 {"association_role":"ORIGIN_OR_ATTESTATION","certainty":"SUPPORTED","civilization_id":"civ.west_african","entity_id":"text.africa.epics","notes":null}
 {"association_role":"ORIGIN_OR_ATTESTATION","certainty":"SUPPORTED","civilization_id":"civ.akkadian","entity_id":"text.akkadian.adapa","notes":null}
@@ -289,6 +320,7 @@
 {"association_role":"ORIGIN","certainty":"SUPPORTED","civilization_id":"civ.chinese_ancient","entity_id":"text.chinese.hong_fan","notes":"Text-tradition association, not historical existence"}
 {"association_role":"ORIGIN_OR_ATTESTATION","certainty":"SUPPORTED","civilization_id":"civ.chinese_ancient","entity_id":"text.chinese.huainanzi","notes":null}
 {"association_role":"ORIGIN_OR_ATTESTATION","certainty":"SUPPORTED","civilization_id":"civ.chinese_local","entity_id":"text.chinese.local_gazetteers","notes":null}
+{"association_role":"ORIGIN","certainty":"SUPPORTED","civilization_id":"civ.chinese_ancient","entity_id":"text.chinese.lunheng","notes":"v0.6.0 witness-scoped baseline"}
 {"association_role":"ORIGIN_OR_ATTESTATION","certainty":"SUPPORTED","civilization_id":"civ.chinese_ancient","entity_id":"text.chinese.mutianzizhuan","notes":null}
 {"association_role":"ORIGIN","certainty":"SUPPORTED","civilization_id":"civ.chinese_ancient","entity_id":"text.chinese.shang_shu","notes":"Text-tradition association, not historical existence"}
 {"association_role":"ORIGIN_OR_ATTESTATION","certainty":"SUPPORTED","civilization_id":"civ.chinese_ancient","entity_id":"text.chinese.shangshu","notes":null}
@@ -369,6 +401,7 @@
 {"association_role":"ORIGIN_OR_ATTESTATION","certainty":"SUPPORTED","civilization_id":"civ.polynesian","entity_id":"text.polynesia.creation_chants","notes":null}
 {"association_role":"ORIGIN_OR_ATTESTATION","certainty":"SUPPORTED","civilization_id":"civ.roman","entity_id":"text.roman.aeneid","notes":null}
 {"association_role":"ORIGIN_OR_ATTESTATION","certainty":"SUPPORTED","civilization_id":"civ.roman","entity_id":"text.roman.metamorphoses","notes":null}
+{"association_role":"ORIGIN","certainty":"SUPPORTED","civilization_id":"civ.slavic","entity_id":"text.slavic.primary_chronicle","notes":"v0.6.0 witness-scoped baseline"}
 {"association_role":"ORIGIN_OR_ATTESTATION","certainty":"SUPPORTED","civilization_id":"civ.sumerian","entity_id":"text.sumerian.enki_ninhursag","notes":null}
 {"association_role":"ORIGIN_OR_ATTESTATION","certainty":"SUPPORTED","civilization_id":"civ.sumerian","entity_id":"text.sumerian.enki_world_order","notes":null}
 {"association_role":"ORIGIN_OR_ATTESTATION","certainty":"SUPPORTED","civilization_id":"civ.sumerian","entity_id":"text.sumerian.inanna_descent","notes":null}
@@ -408,4 +441,6 @@
 {"association_role":"ORIGIN_OR_ATTESTATION","certainty":"SUPPORTED","civilization_id":"civ.norse","entity_id":"weapon.norse.gungnir","notes":null}
 {"association_role":"ORIGIN_OR_ATTESTATION","certainty":"SUPPORTED","civilization_id":"civ.norse","entity_id":"weapon.norse.mjolnir","notes":null}
 {"association_role":"ORIGIN_OR_ATTESTATION","certainty":"SUPPORTED","civilization_id":"civ.norse","entity_id":"weapon.norse.tyrfing","notes":null}
+{"association_role":"ORIGIN","certainty":"SUPPORTED","civilization_id":"civ.ugaritic","entity_id":"weapon.ugaritic.ayyamur","notes":"v0.6.0 witness-scoped baseline"}
+{"association_role":"ORIGIN","certainty":"SUPPORTED","civilization_id":"civ.ugaritic","entity_id":"weapon.ugaritic.yagrush","notes":"v0.6.0 witness-scoped baseline"}
 {"association_role":"ORIGIN_OR_ATTESTATION","certainty":"SUPPORTED","civilization_id":"civ.vedic","entity_id":"weapon.vedic.vajra","notes":null}

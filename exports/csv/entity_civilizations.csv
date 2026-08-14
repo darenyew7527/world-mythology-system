@@ -9,10 +9,12 @@ artifact.greek.helm_hades,civ.greek,ORIGIN_OR_ATTESTATION,SUPPORTED,
 artifact.mesopotamian.tablet_destinies,civ.akkadian,ORIGIN_OR_ATTESTATION,SUPPORTED,
 artifact.norse.draupnir,civ.norse,ORIGIN_OR_ATTESTATION,SUPPORTED,
 artifact.norse.gleipnir,civ.norse,ORIGIN_OR_ATTESTATION,SUPPORTED,
+artifact.yoruba.ose_sango,civ.yoruba,ORIGIN,SUPPORTED,v0.6.0 witness-scoped baseline
 being.chinese.pangu,civ.chinese_ancient,ORIGIN_OR_ATTESTATION,SUPPORTED,
 being.norse.bestla,civ.norse,ORIGIN,SUPPORTED,"Text-tradition association, not historical existence"
 being.norse.brokkr,civ.norse,ORIGIN,SUPPORTED,"Text-tradition association, not historical existence"
 being.norse.eitri,civ.norse,ORIGIN,SUPPORTED,"Text-tradition association, not historical existence"
+being.norse.jarnsaxa,civ.norse,ORIGIN,SUPPORTED,v0.6.0 witness-scoped baseline
 being.norse.mimir,civ.norse,ORIGIN,SUPPORTED,"Text-tradition association, not historical existence"
 being.norse.sindri,civ.norse,ORIGIN,SUPPORTED,"Text-tradition association, not historical existence"
 being.norse.sons_of_ivaldi,civ.norse,ORIGIN_OR_ATTESTATION,SUPPORTED,
@@ -32,6 +34,7 @@ concept.egyptian.ma_at,civ.egyptian,ORIGIN_OR_ATTESTATION,SUPPORTED,
 concept.greek.classical_elements,civ.greek,ORIGIN_OR_ATTESTATION,SUPPORTED,
 concept.indian.pancamahabhuta,civ.hindu,ORIGIN_OR_ATTESTATION,SUPPORTED,
 concept.norse.fire_ice_cosmogony,civ.norse,ORIGIN_OR_ATTESTATION,SUPPORTED,
+concept.ugaritic.baal_title,civ.ugaritic,ORIGIN,SUPPORTED,v0.6.0 witness-scoped baseline
 concept.zoroastrian.asha,civ.zoroastrian,ORIGIN_OR_ATTESTATION,SUPPORTED,
 concept.zoroastrian.druj,civ.zoroastrian,ORIGIN_OR_ATTESTATION,SUPPORTED,
 creature.greek.cyclopes_hesiodic,civ.greek,ORIGIN_OR_ATTESTATION,SUPPORTED,
@@ -39,11 +42,14 @@ creature.greek.typhon,civ.greek,ORIGIN,SUPPORTED,"Text-tradition association, no
 creature.norse.fenrir,civ.norse,ORIGIN_OR_ATTESTATION,SUPPORTED,
 creature.norse.gullinbursti,civ.norse,ORIGIN,SUPPORTED,"Text-tradition association, not historical existence"
 creature.norse.jormungandr,civ.norse,ORIGIN_OR_ATTESTATION,SUPPORTED,
+creature.vedic.vritra,civ.vedic,ORIGIN,SUPPORTED,v0.6.0 witness-scoped baseline
 deity.akkadian.ishtar,civ.akkadian,ORIGIN_OR_ATTESTATION,SUPPORTED,
 deity.assyrian.ashur,civ.assyrian,ORIGIN_OR_ATTESTATION,SUPPORTED,
 deity.babylonian.marduk,civ.babylonian,ORIGIN_OR_ATTESTATION,SUPPORTED,
 deity.babylonian.tiamat,civ.babylonian,ORIGIN_OR_ATTESTATION,SUPPORTED,
 deity.chinese.fu_xi,civ.chinese_ancient,ORIGIN_OR_ATTESTATION,SUPPORTED,
+deity.chinese.leigong,civ.chinese_folk,ORIGIN,SUPPORTED,v0.6.0 witness-scoped baseline
+deity.chinese.leize_thunder_spirit,civ.chinese_ancient,ORIGIN,SUPPORTED,v0.6.0 witness-scoped baseline
 deity.chinese.nezha,civ.chinese_folk,ORIGIN_OR_ATTESTATION,SUPPORTED,
 deity.chinese.nu_wa,civ.chinese_ancient,ORIGIN_OR_ATTESTATION,SUPPORTED,
 deity.egyptian.amun,civ.egyptian,ORIGIN_OR_ATTESTATION,SUPPORTED,
@@ -112,10 +118,20 @@ deity.irish.dagda,civ.irish,ORIGIN_OR_ATTESTATION,SUPPORTED,
 deity.irish.lugh,civ.irish,ORIGIN_OR_ATTESTATION,SUPPORTED,
 deity.irish.morrigan,civ.irish,ORIGIN_OR_ATTESTATION,SUPPORTED,
 deity.japanese.amaterasu,civ.japanese_shinto,ORIGIN_OR_ATTESTATION,SUPPORTED,
+deity.japanese.fusuikazuchi,civ.japanese_shinto,ORIGIN,SUPPORTED,v0.6.0 witness-scoped baseline
+deity.japanese.honoikazuchi,civ.japanese_shinto,ORIGIN,SUPPORTED,v0.6.0 witness-scoped baseline
 deity.japanese.izanagi,civ.japanese_shinto,ORIGIN_OR_ATTESTATION,SUPPORTED,
 deity.japanese.izanami,civ.japanese_shinto,ORIGIN_OR_ATTESTATION,SUPPORTED,
+deity.japanese.kuroikazuchi,civ.japanese_shinto,ORIGIN,SUPPORTED,v0.6.0 witness-scoped baseline
+deity.japanese.naruikazuchi,civ.japanese_shinto,ORIGIN,SUPPORTED,v0.6.0 witness-scoped baseline
+deity.japanese.ooikazuchi,civ.japanese_shinto,ORIGIN,SUPPORTED,v0.6.0 witness-scoped baseline
+deity.japanese.raijin,civ.japanese_shinto,ORIGIN,SUPPORTED,v0.6.0 witness-scoped baseline
+deity.japanese.sakuikazuchi,civ.japanese_shinto,ORIGIN,SUPPORTED,v0.6.0 witness-scoped baseline
 deity.japanese.susanoo,civ.japanese_shinto,ORIGIN_OR_ATTESTATION,SUPPORTED,
+deity.japanese.takemikazuchi,civ.japanese_shinto,ORIGIN,SUPPORTED,v0.6.0 witness-scoped baseline
+deity.japanese.tsuchiikazuchi,civ.japanese_shinto,ORIGIN,SUPPORTED,v0.6.0 witness-scoped baseline
 deity.japanese.tsukuyomi,civ.japanese_shinto,ORIGIN_OR_ATTESTATION,SUPPORTED,
+deity.japanese.wakaikazuchi,civ.japanese_shinto,ORIGIN,SUPPORTED,v0.6.0 witness-scoped baseline
 deity.maori.papatuanuku,civ.maori,ORIGIN_OR_ATTESTATION,SUPPORTED,
 deity.maori.ranginui,civ.maori,ORIGIN_OR_ATTESTATION,SUPPORTED,
 deity.maya.chaac,civ.maya,ORIGIN_OR_ATTESTATION,SUPPORTED,
@@ -133,11 +149,18 @@ deity.norse.freyr,civ.norse,ORIGIN_OR_ATTESTATION,SUPPORTED,
 deity.norse.frigg,civ.norse,ORIGIN_OR_ATTESTATION,SUPPORTED,
 deity.norse.heimdall,civ.norse,ORIGIN_OR_ATTESTATION,SUPPORTED,
 deity.norse.hel,civ.norse,ORIGIN_OR_ATTESTATION,SUPPORTED,
+deity.norse.jord,civ.norse,ORIGIN,SUPPORTED,v0.6.0 witness-scoped baseline
 deity.norse.loki,civ.norse,ORIGIN_OR_ATTESTATION,SUPPORTED,
+deity.norse.magni,civ.norse,ORIGIN,SUPPORTED,v0.6.0 witness-scoped baseline
+deity.norse.meili,civ.norse,ORIGIN,SUPPORTED,v0.6.0 witness-scoped baseline
+deity.norse.modi,civ.norse,ORIGIN,SUPPORTED,v0.6.0 witness-scoped baseline
 deity.norse.njord,civ.norse,ORIGIN_OR_ATTESTATION,SUPPORTED,
 deity.norse.odin,civ.norse,ORIGIN_OR_ATTESTATION,SUPPORTED,
+deity.norse.sif,civ.norse,ORIGIN,SUPPORTED,v0.6.0 witness-scoped baseline
 deity.norse.thor,civ.norse,ORIGIN_OR_ATTESTATION,SUPPORTED,
+deity.norse.thrud,civ.norse,ORIGIN,SUPPORTED,v0.6.0 witness-scoped baseline
 deity.norse.tyr,civ.norse,ORIGIN_OR_ATTESTATION,SUPPORTED,
+deity.norse.ullr,civ.norse,ORIGIN,SUPPORTED,v0.6.0 witness-scoped baseline
 deity.norse.ve,civ.norse,ORIGIN,SUPPORTED,"Text-tradition association, not historical existence"
 deity.norse.vili,civ.norse,ORIGIN,SUPPORTED,"Text-tradition association, not historical existence"
 deity.polynesian.tane,civ.polynesian,ORIGIN_OR_ATTESTATION,SUPPORTED,
@@ -157,9 +180,11 @@ deity.ugaritic.anat,civ.ugaritic,ORIGIN_OR_ATTESTATION,SUPPORTED,
 deity.ugaritic.asherah,civ.ugaritic,ORIGIN_OR_ATTESTATION,SUPPORTED,
 deity.ugaritic.baal,civ.ugaritic,ORIGIN_OR_ATTESTATION,SUPPORTED,
 deity.ugaritic.el,civ.ugaritic,ORIGIN_OR_ATTESTATION,SUPPORTED,
+deity.ugaritic.kothar_wa_khasis,civ.ugaritic,ORIGIN,SUPPORTED,v0.6.0 witness-scoped baseline
 deity.ugaritic.mot,civ.ugaritic,ORIGIN_OR_ATTESTATION,SUPPORTED,
 deity.ugaritic.yam,civ.ugaritic,ORIGIN_OR_ATTESTATION,SUPPORTED,
 deity.vedic.indra,civ.vedic,ORIGIN_OR_ATTESTATION,SUPPORTED,
+deity.vedic.tvastr,civ.vedic,ORIGIN,SUPPORTED,v0.6.0 witness-scoped baseline
 deity.yoruba.ogun,civ.yoruba,ORIGIN_OR_ATTESTATION,SUPPORTED,
 deity.yoruba.olodumare,civ.yoruba,ORIGIN_OR_ATTESTATION,SUPPORTED,
 deity.yoruba.orunmila,civ.ifa,ORIGIN_OR_ATTESTATION,SUPPORTED,
@@ -184,6 +209,10 @@ event.greek.zeus_typhon_battle,civ.greek,ORIGIN,SUPPORTED,"Text-tradition associ
 event.norse.forging_divine_treasures,civ.norse,ORIGIN,SUPPORTED,"Text-tradition association, not historical existence"
 event.norse.ragnarok,civ.norse,ORIGIN_OR_ATTESTATION,SUPPORTED,
 event.sumerian.inanna_descent,civ.sumerian,ORIGIN_OR_ATTESTATION,SUPPORTED,
+event.ugaritic.baal_yamm_ktu12,civ.ugaritic,ORIGIN,SUPPORTED,v0.6.0 witness-scoped baseline
+event.vedic.indra_vritra_rv132,civ.vedic,ORIGIN,SUPPORTED,v0.6.0 witness-scoped baseline
+festival.yoruba.sango_oyo,civ.yoruba,ORIGIN,SUPPORTED,v0.6.0 witness-scoped baseline
+group.japanese.eight_thunder_kami,civ.japanese_shinto,ORIGIN,SUPPORTED,v0.6.0 witness-scoped baseline
 hero.chinese.sun_wukong,civ.chinese_folk,ORIGIN_OR_ATTESTATION,SUPPORTED,
 hero.chinese.yellow_emperor,civ.chinese_ancient,ORIGIN_OR_ATTESTATION,SUPPORTED,
 hero.indian.arjuna,civ.hindu,ORIGIN_OR_ATTESTATION,SUPPORTED,
@@ -212,6 +241,7 @@ site.chile.rapa_nui,civ.polynesian,ORIGIN_OR_ATTESTATION,SUPPORTED,
 site.china.kunlun_scope,civ.chinese_ancient,ORIGIN_OR_ATTESTATION,SUPPORTED,
 site.china.ritual_sites_scope,civ.chinese_ancient,ORIGIN_OR_ATTESTATION,SUPPORTED,
 site.china.taishan,civ.chinese_ancient,ORIGIN_OR_ATTESTATION,SUPPORTED,
+site.chinese.mogao_cave_285,civ.chinese_ancient,ORIGIN,SUPPORTED,v0.6.0 witness-scoped baseline
 site.denmark.hedeby,civ.norse,ORIGIN_OR_ATTESTATION,SUPPORTED,
 site.egypt.abu_simbel,civ.egyptian,ORIGIN_OR_ATTESTATION,SUPPORTED,
 site.egypt.abydos,civ.egyptian,ORIGIN_OR_ATTESTATION,SUPPORTED,
@@ -270,6 +300,7 @@ site.sweden.uppsala,civ.norse,ORIGIN_OR_ATTESTATION,SUPPORTED,
 site.syria.mari,civ.akkadian,ORIGIN_OR_ATTESTATION,SUPPORTED,
 site.syria.ugarit,civ.ugaritic,ORIGIN_OR_ATTESTATION,SUPPORTED,
 site.tibet.kailash,civ.tibetan,ORIGIN_OR_ATTESTATION,SUPPORTED,
+site.yoruba.koso_temple,civ.yoruba,ORIGIN,SUPPORTED,v0.6.0 witness-scoped baseline
 site.zimbabwe.great_zimbabwe,civ.southern_african,ORIGIN_OR_ATTESTATION,SUPPORTED,
 text.africa.epics,civ.west_african,ORIGIN_OR_ATTESTATION,SUPPORTED,
 text.akkadian.adapa,civ.akkadian,ORIGIN_OR_ATTESTATION,SUPPORTED,
@@ -290,6 +321,7 @@ text.chinese.han_shu_wuxing_zhi,civ.chinese_ancient,ORIGIN,SUPPORTED,"Text-tradi
 text.chinese.hong_fan,civ.chinese_ancient,ORIGIN,SUPPORTED,"Text-tradition association, not historical existence"
 text.chinese.huainanzi,civ.chinese_ancient,ORIGIN_OR_ATTESTATION,SUPPORTED,
 text.chinese.local_gazetteers,civ.chinese_local,ORIGIN_OR_ATTESTATION,SUPPORTED,
+text.chinese.lunheng,civ.chinese_ancient,ORIGIN,SUPPORTED,v0.6.0 witness-scoped baseline
 text.chinese.mutianzizhuan,civ.chinese_ancient,ORIGIN_OR_ATTESTATION,SUPPORTED,
 text.chinese.shang_shu,civ.chinese_ancient,ORIGIN,SUPPORTED,"Text-tradition association, not historical existence"
 text.chinese.shangshu,civ.chinese_ancient,ORIGIN_OR_ATTESTATION,SUPPORTED,
@@ -370,6 +402,7 @@ text.persian.shahnameh,civ.persian,ORIGIN_OR_ATTESTATION,SUPPORTED,
 text.polynesia.creation_chants,civ.polynesian,ORIGIN_OR_ATTESTATION,SUPPORTED,
 text.roman.aeneid,civ.roman,ORIGIN_OR_ATTESTATION,SUPPORTED,
 text.roman.metamorphoses,civ.roman,ORIGIN_OR_ATTESTATION,SUPPORTED,
+text.slavic.primary_chronicle,civ.slavic,ORIGIN,SUPPORTED,v0.6.0 witness-scoped baseline
 text.sumerian.enki_ninhursag,civ.sumerian,ORIGIN_OR_ATTESTATION,SUPPORTED,
 text.sumerian.enki_world_order,civ.sumerian,ORIGIN_OR_ATTESTATION,SUPPORTED,
 text.sumerian.inanna_descent,civ.sumerian,ORIGIN_OR_ATTESTATION,SUPPORTED,
@@ -409,4 +442,6 @@ weapon.norse.gram,civ.norse,ORIGIN_OR_ATTESTATION,SUPPORTED,
 weapon.norse.gungnir,civ.norse,ORIGIN_OR_ATTESTATION,SUPPORTED,
 weapon.norse.mjolnir,civ.norse,ORIGIN_OR_ATTESTATION,SUPPORTED,
 weapon.norse.tyrfing,civ.norse,ORIGIN_OR_ATTESTATION,SUPPORTED,
+weapon.ugaritic.ayyamur,civ.ugaritic,ORIGIN,SUPPORTED,v0.6.0 witness-scoped baseline
+weapon.ugaritic.yagrush,civ.ugaritic,ORIGIN,SUPPORTED,v0.6.0 witness-scoped baseline
 weapon.vedic.vajra,civ.vedic,ORIGIN_OR_ATTESTATION,SUPPORTED,

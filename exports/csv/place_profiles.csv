@@ -13,6 +13,7 @@ site.chile.rapa_nui,CULTURAL_LANDSCAPE,,,CL,,,,,,,,World Heritage,REAL_ARCHAEOLO
 site.china.kunlun_scope,MYTH_GEOGRAPHY_SCOPE,,,CN,,,,,,,,,MIXED,BASELINE_METADATA
 site.china.ritual_sites_scope,COLLECTION_SCOPE,,,CN,,,,,,,,,REAL_ARCHAEOLOGICAL,BASELINE_METADATA
 site.china.taishan,SACRED_MOUNTAIN,,,CN,,,,,,,,World Heritage 437,REAL_SACRED,BASELINE_METADATA
+site.chinese.mogao_cave_285,CAVE_TEMPLE,莫高窟第285窟,Mogao Cave 285,CN,,,Western Wei; dated inscriptions 538-539 CE,,Rock-cut Buddhist cave with a painted ceiling program.,Official Dunhuang Academy site record; excavation history remains queued.,Thunder-deity imagery is an iconographic identification within a wider ceiling program.,"Part of Mogao Caves, World Heritage property 440",REAL_ARCHAEOLOGICAL,OFFICIAL_SITE
 site.denmark.hedeby,VIKING_AGE_TRADING_TOWN,,,DE,,,,,,,,World Heritage,REAL_ARCHAEOLOGICAL,BASELINE_METADATA
 site.egypt.abu_simbel,ROCK_CUT_TEMPLES,,,EG,,,,,,,,Nubian Monuments World Heritage component,REAL_ARCHAEOLOGICAL,BASELINE_METADATA
 site.egypt.abydos,SACRED_CITY_AND_NECROPOLIS,,,EG,,,,,,,,,REAL_ARCHAEOLOGICAL,BASELINE_METADATA
@@ -76,4 +77,5 @@ site.syria.ugarit,ANCIENT_CITY,,,SY,,,,,,,,,REAL_ARCHAEOLOGICAL,BASELINE_METADAT
 site.tibet.kailash,LIVING_SACRED_MOUNTAIN,,,CN,,,,,,,,,REAL_SACRED,BASELINE_METADATA
 site.uk.avebury,MEGALITHIC_MONUMENT,,,GB,,,,,,,,World Heritage,REAL_ARCHAEOLOGICAL,BASELINE_METADATA
 site.uk.stonehenge,MEGALITHIC_MONUMENT,,,GB,,,,,,,,World Heritage,REAL_ARCHAEOLOGICAL,BASELINE_METADATA
+site.yoruba.koso_temple,LIVING_TEMPLE,,Koso Temple,NG,,,Living sacred site,,Only the public site-level association is registered; restricted interiors are intentionally omitted.,,,"Associated with the UNESCO-inscribed Sango Festival, Oyo",REAL_SACRED,COMMUNITY_BACKED_PUBLIC_SOURCE
 site.zimbabwe.great_zimbabwe,STONE_CITY,,,ZW,,,,,,,,World Heritage,REAL_ARCHAEOLOGICAL,BASELINE_METADATA

@@ -20,6 +20,7 @@ text.chinese.han_shu_wuxing_zhi,HISTORIOGRAPHICAL_TREATISE,lang.lzh,Ban Gu tradi
 text.chinese.hong_fan,CHAPTER,lang.lzh,,,Received chapter with complex dating history,,Section within Zhou Documents,,,Ancient text public domain; digital edition terms vary,Enumerates nine divisions including the five xing and their dispositions.
 text.chinese.huainanzi,PHILOSOPHICAL_COMPENDIUM,lang.lzh,Compiled under Liu An,,Western Han,,,,,,
 text.chinese.local_gazetteers,CORPUS_SCOPE,lang.lzh,Multiple,,Multiple periods,,,,,,
+text.chinese.lunheng,PHILOSOPHICAL_TEXT,lang.lzh,Wang Chong,,Eastern Han,Transmitted editions,Thematic chapters including Lei Xu,Chinese Text Project,urn:ctext:lunheng/lei-xu,Traditional witness and site rights differ,Lei Xu records and argues against a thunder-god image explanation.
 text.chinese.mutianzizhuan,NARRATIVE,lang.lzh,Unknown,,Ancient text with complex transmission,,,,,,
 text.chinese.shang_shu,RECEIVED_CLASSIC,lang.lzh,,Layered received compilation,Multiple textual layers; do not assign a single date,,Canon includes Zhou Documents and Hong Fan,,,Ancient text public domain; digital edition terms vary,Documents and speeches transmitted in received and excavated traditions.
 text.chinese.shangshu,CLASSIC,lang.lzh,Multiple,,Layered compilation,,,,,,
@@ -100,6 +101,7 @@ text.persian.shahnameh,EPIC,,Ferdowsi,,Around 1000 CE,,,,,,
 text.polynesia.creation_chants,CORPUS_SCOPE,,Multiple communities,,Living and historical traditions,,,,,,
 text.roman.aeneid,EPIC,lang.lat,Virgil,,Late first century BCE,,,,,,
 text.roman.metamorphoses,EPIC,lang.lat,Ovid,,Early Roman Empire,,,,,,
+text.slavic.primary_chronicle,CHRONICLE,,,Traditionally associated with early Rus chronicle compilation,Early 12th-century compilation layers,Laurentian Codex 1377 among major witnesses,Annal entries,Obdurodon / National Library of Russia,PVL digital edition; Laurentian Codex,Edition and manuscript rights differ,"Perun evidence is indexed by the 907, 945, 971, 980 and 988 annal entries."
 text.sumerian.enki_ninhursag,MYTHIC_COMPOSITION,lang.sux,Multiple,,Old Babylonian witnesses,,,,,,
 text.sumerian.enki_world_order,MYTHIC_COMPOSITION,lang.sux,Multiple,,Old Babylonian witnesses,,,,,,
 text.sumerian.inanna_descent,MYTHIC_COMPOSITION,lang.sux,Multiple,,Old Babylonian witnesses,,,,,,

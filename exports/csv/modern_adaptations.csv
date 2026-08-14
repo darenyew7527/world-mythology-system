@@ -1,1 +1,4 @@
 id,ancient_entity_id,modern_entity_id,modern_work_entity_id,medium,adaptation_notes,source_id,canonicality_scope
+adaptation.v060.marvel.hela,deity.norse.hel,modern.marvel.mcu.hela,,FILM_AND_STREAMING_CONTINUITY,Marvel Studios Hela is Thor’s half-sister; Snorri’s Hel is Loki and Angrboda’s daughter.,source.marvel.thor.onscreen,POPULAR_CULTURE
+adaptation.v060.marvel.loki,deity.norse.loki,modern.marvel.mcu.loki,,FILM_AND_STREAMING_CONTINUITY,"Marvel Studios screen Loki is Thor’s adoptive brother in that continuity, unlike the Old Norse relationship layer.",source.marvel.thor.onscreen,POPULAR_CULTURE
+adaptation.v060.marvel.thor,deity.norse.thor,modern.marvel.mcu.thor,,FILM_AND_STREAMING_CONTINUITY,Marvel Studios screen Thor is a separate modern interpretation; its family relations do not alter the Old Norse record.,source.marvel.thor.onscreen,POPULAR_CULTURE

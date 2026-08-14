@@ -434,6 +434,41 @@ CREATE TABLE IF NOT EXISTS modern_adaptations (
     CHECK(ancient_entity_id <> modern_entity_id)
 );
 
+-- Comparison sets group entities for evidence-led comparison without asserting
+-- identity, equivalence, common origin, or direct historical transmission.
+-- Each member keeps a native-scope note so broad labels such as "thunder god"
+-- do not flatten culture-specific roles into a universal category.
+CREATE TABLE IF NOT EXISTS comparison_sets (
+    id TEXT PRIMARY KEY,
+    concept_entity_id TEXT REFERENCES entities(id),
+    canonical_name TEXT NOT NULL,
+    name_zh TEXT,
+    description_en TEXT NOT NULL,
+    description_zh TEXT NOT NULL,
+    methodology_en TEXT NOT NULL,
+    methodology_zh TEXT NOT NULL,
+    research_status TEXT NOT NULL DEFAULT 'PARTIAL'
+        CHECK(research_status IN ('DISCOVERED','SOURCE_FOUND','COLLECTING','PARTIAL','BASELINE_COMPLETE','NEEDS_REVIEW','CONFLICT','LOW_EVIDENCE','EXPAND_LATER')),
+    created_at TEXT NOT NULL,
+    updated_at TEXT NOT NULL
+);
+
+CREATE TABLE IF NOT EXISTS comparison_set_members (
+    comparison_set_id TEXT NOT NULL REFERENCES comparison_sets(id) ON DELETE CASCADE,
+    entity_id TEXT NOT NULL REFERENCES entities(id) ON DELETE CASCADE,
+    member_role TEXT NOT NULL DEFAULT 'COMPARAND',
+    native_scope_en TEXT NOT NULL,
+    native_scope_zh TEXT NOT NULL,
+    distinction_en TEXT NOT NULL,
+    distinction_zh TEXT NOT NULL,
+    sort_order INTEGER NOT NULL DEFAULT 0,
+    claim_id TEXT REFERENCES claims(id),
+    PRIMARY KEY(comparison_set_id, entity_id)
+);
+
+CREATE INDEX IF NOT EXISTS idx_comparison_members_entity
+    ON comparison_set_members(entity_id, comparison_set_id);
+
 CREATE TABLE IF NOT EXISTS conflicts (
     id TEXT PRIMARY KEY,
     subject_id TEXT REFERENCES entities(id),

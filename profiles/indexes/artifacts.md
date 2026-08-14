@@ -36,4 +36,7 @@
 | weapon.norse.mjolnir | 妙尔尼尔 | Mjölnir | WEAPON | 北欧 | PARTIAL | UNVERIFIED |
 | weapon.norse.freyr_sword | 弗雷之剑 | Sword of Freyr | WEAPON | 北欧 | PARTIAL | UNVERIFIED |
 | weapon.norse.tyrfing | 提尔锋 | Tyrfing | WEAPON | 北欧 | PARTIAL | UNVERIFIED |
-| weapon.vedic.vajra | 金刚杵／雷霆 | Vajra | WEAPON | 吠陀传统 | PARTIAL | UNVERIFIED |
+| weapon.ugaritic.ayyamur | 阿亚穆尔 | Ayyamur | WEAPON | 乌加里特 | PARTIAL | SOURCE_BACKED |
+| weapon.ugaritic.yagrush | 亚格鲁什 | Yagrush | WEAPON | 乌加里特 | PARTIAL | SOURCE_BACKED |
+| weapon.vedic.vajra | 金刚杵／雷霆 | Vajra | WEAPON | 吠陀传统 | PARTIAL | SOURCE_BACKED |
+| artifact.yoruba.ose_sango | 尚戈双斧祭仪杖 | Ose Sango | SACRED_OBJECT | 约鲁巴 | PARTIAL | PARTIAL |

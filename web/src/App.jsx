@@ -9,11 +9,14 @@ import Header from './components/Header.jsx'
 import { SearchIcon } from './components/Icons.jsx'
 import MetricStrip from './components/MetricStrip.jsx'
 import ProgressView from './components/ProgressView.jsx'
+import ThunderView from './components/ThunderView.jsx'
 import { t } from './i18n.js'
 
 const FEATURED_IDS = [
   'deity.greek.zeus',
   'deity.norse.odin',
+  'deity.norse.thor',
+  'deity.norse.loki',
   'deity.egyptian.ra',
   'deity.vedic.indra',
   'being.chinese.pangu',
@@ -115,6 +118,11 @@ export default function App() {
     window.history.replaceState(null, '', `#entity=${encodeURIComponent(id)}`)
     if (options.openMobile !== false) setMobileDetailOpen(true)
   }, [entityById])
+
+  const openEntity = useCallback((id) => {
+    selectEntity(id)
+    setActiveView('explore')
+  }, [selectEntity])
 
   const resetFilters = () => {
     setTypeFilter('ALL')
@@ -219,6 +227,15 @@ export default function App() {
           entity={selectedEntity}
           language={language}
           onSelect={(id) => selectEntity(id, { openMobile: false })}
+        />
+      )}
+      {activeView === 'thunder' && (
+        <ThunderView
+          comparisons={data.comparisons || []}
+          copy={copy}
+          entities={data.entities}
+          language={language}
+          onOpenEntity={openEntity}
         />
       )}
       {activeView === 'evidence' && <EvidenceView claims={data.claims} copy={copy} language={language} />}

@@ -10,6 +10,7 @@
 | site.syria.mari | 马里 | Mari | ARCHAEOLOGICAL_SITE | 阿卡德 | REAL_ARCHAEOLOGICAL | — |
 | site.china.ritual_sites_scope | 中国古代祭祀遗址研究入口 | Ancient Chinese ritual sites research scope | ARCHAEOLOGICAL_SITE | 中国上古神话 | REAL_ARCHAEOLOGICAL | — |
 | site.china.kunlun_scope | 昆仑相关文化地点 | Kunlun-related cultural locations | PLACE | 中国上古神话 | MIXED | — |
+| site.chinese.mogao_cave_285 | 莫高窟第285窟 | Mogao Cave 285 | ARCHAEOLOGICAL_SITE | 中国上古神话 | REAL_ARCHAEOLOGICAL | Part of Mogao Caves, World Heritage property 440 |
 | site.china.taishan | 泰山 | Mount Taishan | PLACE | 中国上古神话 | REAL_SACRED | World Heritage 437 |
 | site.egypt.abu_simbel | 阿布辛贝 | Abu Simbel | TEMPLE | 古埃及 | REAL_ARCHAEOLOGICAL | Nubian Monuments World Heritage component |
 | site.egypt.abydos | 阿拜多斯 | Abydos | ARCHAEOLOGICAL_SITE | 古埃及 | REAL_ARCHAEOLOGICAL | — |
@@ -79,4 +80,5 @@
 | museum.ugarit.baal_thunder_ao15775 | 雷霆巴力石碑 AO 15775 | Baal with Thunderbolt stele AO 15775 | MUSEUM_OBJECT | 乌加里特 | REAL_ARCHAEOLOGICAL | — |
 | site.syria.ugarit | 乌加里特／拉斯沙姆拉 | Ugarit / Ras Shamra | ARCHAEOLOGICAL_SITE | 乌加里特 | REAL_ARCHAEOLOGICAL | — |
 | site.nigeria.ife | 伊莱-伊费 | Ile-Ife | ARCHAEOLOGICAL_SITE | 约鲁巴 | REAL_SACRED | — |
+| site.yoruba.koso_temple | 科索神庙 | Koso Temple | TEMPLE | 约鲁巴 | REAL_SACRED | Associated with the UNESCO-inscribed Sango Festival, Oyo |
 | site.mexico.monte_alban | 蒙特阿尔班 | Monte Albán | ARCHAEOLOGICAL_SITE | 萨波特克 | REAL_ARCHAEOLOGICAL | World Heritage |

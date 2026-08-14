@@ -12,6 +12,7 @@ CAUSED_BY,CAUSED,caused by,由……导致,EVENT,0,
 CHILD_OF,PARENT_OF,child of,子女／后代,KINSHIP,0,
 COMPARABLE_TO,COMPARABLE_TO,comparable to,可比较但不等同,COMPARISON,1,
 CONSORT_OF,CONSORT_OF,consort of,配偶／伴侣,KINSHIP,1,
+CO_INVOKED_WITH,CO_INVOKED_WITH,co-invoked with,共同受誓言援引,RITUAL,1,"Two entities named together in a source; does not imply enmity, identity, or a reconstructed cosmic opposition."
 CREATED_BY,CREATOR_OF,created by,由……创造,CREATION,0,
 CREATOR_OF,CREATED_BY,creator of,创造者,CREATION,0,
 DEATHPLACE_OF,DIED_IN,deathplace of,死亡地点,PLACE,0,
@@ -61,6 +62,8 @@ RULED_BY,RULES,ruled by,由……统治,PLACE,0,
 RULES,RULED_BY,rules,统治,PLACE,0,
 SIBLING_OF,SIBLING_OF,sibling of,兄弟姐妹,KINSHIP,1,
 SITE_OF_WORSHIP_FOR,WORSHIPPED_AT,site of worship for,崇拜地点,CULT,0,
+STEP_CHILD_OF,STEP_PARENT_OF,step-child of,继子女,KINSHIP,0,Inverse of STEP_PARENT_OF.
+STEP_PARENT_OF,STEP_CHILD_OF,step-parent of,继父母,KINSHIP,0,Witness-specific social kinship; never normalized into biological parentage.
 USED_BY,USES,used by,被……使用,POSSESSION,0,
 USES,USED_BY,uses,使用,POSSESSION,0,
 VARIANT_OF,HAS_VARIANT,variant of,变体,IDENTITY,0,

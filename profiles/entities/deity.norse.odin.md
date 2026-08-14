@@ -21,6 +21,7 @@
 | `CHILD_OF` | 博尔 (`deity.norse.borr`) | PROVISIONAL / TEXT_SAYS / MYTHIC_NARRATIVE | 1 | 0.98 | inferred inverse; `claim.borr.parent_odin` |
 | `KILLED_BY` | 芬里尔 (`creature.norse.fenrir`) | VERIFIED / IN_TRADITION / MYTHIC_NARRATIVE | 1 | 0.90 | inferred inverse; `claim.norse.fenrir_kills_odin` |
 | `OWNS` | 冈格尼尔 (`weapon.norse.gungnir`) | VERIFIED / IN_TRADITION / MYTHIC_NARRATIVE | 1 | 0.90 | stored claim; `claim.norse.odin_owns_gungnir` |
+| `PARENT_OF` | 索尔／雷神托尔 (`deity.norse.thor`) | VERIFIED / TEXT_SAYS / TEXTUAL_WITNESS | 1 | 0.99 | inferred inverse; `claim.v060.norse.thor_child_odin` |
 | `PARTICIPATED_IN` | 诸神黄昏 (`event.norse.ragnarok`) | VERIFIED / IN_TRADITION / MYTHIC_NARRATIVE | 1 | 0.90 | stored claim; `claim.norse.odin_participates_ragnarok` |
 | `SIBLING_OF` | 维利 (`deity.norse.vili`) | PROVISIONAL / TEXT_SAYS / MYTHIC_NARRATIVE | 1 | 0.98 | inferred inverse; `claim.vili.sibling_odin` |
 | `SIBLING_OF` | 维 (`deity.norse.ve`) | PROVISIONAL / TEXT_SAYS / MYTHIC_NARRATIVE | 1 | 0.98 | inferred inverse; `claim.ve.sibling_odin` |

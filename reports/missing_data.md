@@ -4,28 +4,29 @@
 
 | Type | Registered | Unverified | Without outgoing claim |
 |---|---:|---:|---:|
-| `DEITY` | 117 | 70 | 70 |
-| `TEXT` | 58 | 41 | 48 |
-| `ARCHAEOLOGICAL_SITE` | 43 | 42 | 42 |
-| `CONCEPT` | 34 | 30 | 33 |
+| `DEITY` | 138 | 62 | 71 |
+| `TEXT` | 60 | 37 | 50 |
+| `ARCHAEOLOGICAL_SITE` | 44 | 42 | 43 |
+| `CONCEPT` | 36 | 30 | 34 |
 | `ELEMENT` | 32 | 17 | 22 |
-| `WEAPON` | 24 | 22 | 22 |
+| `WEAPON` | 26 | 21 | 21 |
 | `EPIC` | 15 | 15 | 15 |
-| `SCRIPTURE` | 14 | 14 | 14 |
-| `TEMPLE` | 13 | 13 | 13 |
+| `SCRIPTURE` | 14 | 13 | 14 |
+| `TEMPLE` | 14 | 13 | 14 |
 | `HERO` | 9 | 9 | 9 |
 | `ORAL_TRADITION` | 10 | 9 | 9 |
 | `INSCRIPTION` | 8 | 8 | 8 |
 | `MANUSCRIPT` | 9 | 7 | 7 |
-| `POWER` | 7 | 7 | 7 |
+| `POWER` | 7 | 6 | 7 |
 | `PLACE` | 6 | 6 | 6 |
 | `ARTIFACT` | 6 | 5 | 5 |
-| `EVENT` | 7 | 3 | 5 |
+| `EVENT` | 9 | 3 | 5 |
 | `MONUMENT` | 5 | 5 | 5 |
 | `INSTITUTION` | 4 | 4 | 4 |
 | `REALM` | 4 | 3 | 4 |
 | `PRIMORDIAL_DEITY` | 11 | 3 | 3 |
-| `GIANT` | 4 | 2 | 2 |
+| `GIANT` | 5 | 2 | 2 |
+| `MODERN_WORK` | 3 | 0 | 2 |
 | `PYRAMID` | 2 | 2 | 2 |
 | `ANCESTOR_DEITY` | 1 | 0 | 1 |
 | `ARMOR` | 1 | 1 | 1 |
@@ -36,12 +37,14 @@
 | `MYTHICAL_PLACE` | 1 | 0 | 1 |
 | `PAPYRUS` | 1 | 1 | 1 |
 | `RING` | 1 | 1 | 1 |
+| `SACRED_OBJECT` | 1 | 0 | 1 |
 | `SCEPTER` | 1 | 1 | 1 |
 | `SHIP` | 1 | 1 | 1 |
-| `TABLET` | 1 | 1 | 1 |
+| `TABLET` | 1 | 0 | 1 |
 | `TOMB` | 2 | 1 | 1 |
 | `CREATURE` | 2 | 0 | 0 |
-| `MONSTER` | 2 | 0 | 0 |
+| `FESTIVAL` | 1 | 0 | 0 |
+| `MONSTER` | 3 | 0 | 0 |
 | `MUSEUM_OBJECT` | 6 | 0 | 0 |
 
 ## 尚未固定来源的 claims

@@ -20,6 +20,7 @@
 
 | Relation | Target | Review / layer | Evidence | Confidence | Direction |
 |---|---|---|---:|---:|---|
+| `ASSOCIATED_WITH` | 雷 (`concept.comparative.thunder`) | VERIFIED / TEXT_SAYS / MYTHIC_NARRATIVE | 1 | 0.98 | stored claim; `claim.v060.greek.zeus_thunder_scope` |
 | `CHILD_OF` | 克洛诺斯 (`deity.greek.cronus`) | VERIFIED / IN_TRADITION / MYTHIC_NARRATIVE | 1 | 0.80 | inferred inverse; `claim.greek.cronus_father_zeus` |
 | `CHILD_OF` | 瑞亚 (`deity.greek.rhea`) | VERIFIED / IN_TRADITION / MYTHIC_NARRATIVE | 1 | 0.80 | inferred inverse; `claim.greek.rhea_mother_zeus` |
 | `CONSORT_OF` | 墨提斯 (`deity.greek.metis`) | VERIFIED / TEXT_SAYS / MYTHIC_NARRATIVE | 1 | 0.99 | inferred inverse; `claim.metis.consort_zeus` |
@@ -48,6 +49,8 @@
   - 来源：[Archaeological Site of Olympia](https://whc.unesco.org/en/list/517/)；定位：World Heritage property description
 - `claim.v050.theogony.zeus_participated_titanomachy` [VERIFIED / TEXT_SAYS / 0.98] Theogony 617-735 makes Zeus a leading participant in the war against the Titans.
   - 来源：[Hesiod, Theogony, Evelyn-White English text](https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0130)；定位：lines 617-735
+- `claim.v060.greek.zeus_thunder_scope` [VERIFIED / TEXT_SAYS / 0.98] Hesiod’s Theogony places thunder, lightning and the thunderbolt among the powers given to Zeus by the Cyclopes.
+  - 来源：[Hesiod, Theogony, Evelyn-White English text](https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0130)；定位：Theogony 139-141 and 501-506
 - `claim.zeus.participated_typhon` [VERIFIED / TEXT_SAYS / 0.99] Zeus is the victorious combatant in the Hesiodic Typhon episode.
   - 来源：[Hesiod, Theogony, Evelyn-White English text](https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0130)；定位：Theogony 820-885
 

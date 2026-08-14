@@ -122,9 +122,11 @@ class MobileGraphV051Tests(unittest.TestCase):
                 "SELECT name FROM schema_migrations WHERE version=8"
             ).fetchone()
             self.assertEqual(migration[0], "20260814_v051_mobile_graph_hotfix")
-            self.assertEqual(connection.execute("SELECT COUNT(*) FROM claims").fetchone()[0], 221)
-            self.assertEqual(connection.execute("SELECT COUNT(*) FROM evidence").fetchone()[0], 215)
-            self.assertEqual(connection.execute("SELECT COUNT(*) FROM sources").fetchone()[0], 100)
+            # This historical release test must remain valid as append-only
+            # research migrations add later claims, evidence and sources.
+            self.assertGreaterEqual(connection.execute("SELECT COUNT(*) FROM claims").fetchone()[0], 221)
+            self.assertGreaterEqual(connection.execute("SELECT COUNT(*) FROM evidence").fetchone()[0], 215)
+            self.assertGreaterEqual(connection.execute("SELECT COUNT(*) FROM sources").fetchone()[0], 100)
         finally:
             connection.close()
 

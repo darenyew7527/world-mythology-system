@@ -1,3 +1,5 @@
 id,entity_a_id,entity_b_id,assessment,confidence,source_id,notes
 identity.eitri_sindri,being.norse.eitri,being.norse.sindri,POSSIBLY_SAME,0.55,source.norse.skaldskaparmal.vsnr1998,Different reference traditions use Eitri or Sindri for Brokkr’s smith brother; preserve separate entities until witness-level collation.
 identity.inanna_ishtar,deity.sumerian.inanna,deity.akkadian.ishtar,IDENTIFIED_IN_SOURCE,0.9,,"Closely identified across Sumerian/Akkadian traditions, but language, period and local forms remain separate canonical entities."
+identity.v060.chinese.leigong_leize,deity.chinese.leigong,deity.chinese.leize_thunder_spirit,DISPUTED_IDENTITY,0.3,source.chinese.shanhaijing_leize.ctext,"Functional similarity alone is insufficient; names, forms and textual layers differ."
+identity.v060.japanese.raijin_takemikazuchi,deity.japanese.raijin,deity.japanese.takemikazuchi,EXPLICITLY_DISTINCT,0.9,source.japanese.takemikazuchi.kokugakuin,The project treats umbrella Raijin traditions and the classical martial envoy as distinct records; thunder association is not identity.
