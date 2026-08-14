@@ -1,6 +1,11 @@
 event_id,participant_id,role,outcome,claim_id
 event.babylonian.marduk_tiamat,deity.babylonian.marduk,PARTICIPANT,,claim.babylonian.marduk_participates_combat
 event.babylonian.marduk_tiamat,deity.babylonian.tiamat,PARTICIPANT,,claim.babylonian.tiamat_participates_combat
+event.greek.persephone_abduction,deity.greek.persephone,ABDUCTED,Taken to the underworld in this hymn witness,claim.v050.h2.persephone_participated
+event.greek.persephone_abduction,deity.greek.demeter,SEARCHER,Searches for Persephone,claim.v050.h2.demeter_participated
+event.greek.persephone_abduction,deity.greek.hades,ABDUCTOR,Takes Persephone below,claim.v050.h2.hades_participated
+event.greek.titanomachy,deity.greek.zeus,LEADER,Victory in the Hesiodic witness,claim.v050.theogony.zeus_participated_titanomachy
+event.greek.titanomachy,deity.greek.cronus,TITAN_LEADER,Defeat in the Hesiodic witness,claim.v050.theogony.cronus_participated_titanomachy
 event.greek.zeus_typhon_battle,creature.greek.typhon,OPPONENT,Defeated,claim.typhon.participated_battle
 event.greek.zeus_typhon_battle,deity.greek.zeus,OPPONENT,Victorious,claim.zeus.participated_typhon
 event.norse.forging_divine_treasures,being.norse.brokkr,SMITH_AND_BELLOWS,Treasures completed,claim.brokkr.participated_forging

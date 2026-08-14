@@ -4,12 +4,12 @@
 
 | Type | Registered | Unverified | Without outgoing claim |
 |---|---:|---:|---:|
-| `DEITY` | 112 | 80 | 80 |
-| `TEXT` | 49 | 41 | 48 |
+| `DEITY` | 117 | 70 | 70 |
+| `TEXT` | 58 | 41 | 48 |
 | `ARCHAEOLOGICAL_SITE` | 43 | 42 | 42 |
-| `CONCEPT` | 34 | 31 | 33 |
-| `WEAPON` | 24 | 24 | 24 |
+| `CONCEPT` | 34 | 30 | 33 |
 | `ELEMENT` | 32 | 17 | 22 |
+| `WEAPON` | 24 | 22 | 22 |
 | `EPIC` | 15 | 15 | 15 |
 | `SCRIPTURE` | 14 | 14 | 14 |
 | `TEMPLE` | 13 | 13 | 13 |
@@ -18,13 +18,13 @@
 | `INSCRIPTION` | 8 | 8 | 8 |
 | `MANUSCRIPT` | 9 | 7 | 7 |
 | `POWER` | 7 | 7 | 7 |
-| `ARTIFACT` | 6 | 6 | 6 |
-| `EVENT` | 6 | 4 | 6 |
 | `PLACE` | 6 | 6 | 6 |
+| `ARTIFACT` | 6 | 5 | 5 |
+| `EVENT` | 7 | 3 | 5 |
 | `MONUMENT` | 5 | 5 | 5 |
-| `PRIMORDIAL_DEITY` | 11 | 5 | 5 |
 | `INSTITUTION` | 4 | 4 | 4 |
 | `REALM` | 4 | 3 | 4 |
+| `PRIMORDIAL_DEITY` | 11 | 3 | 3 |
 | `GIANT` | 4 | 2 | 2 |
 | `PYRAMID` | 2 | 2 | 2 |
 | `ANCESTOR_DEITY` | 1 | 0 | 1 |

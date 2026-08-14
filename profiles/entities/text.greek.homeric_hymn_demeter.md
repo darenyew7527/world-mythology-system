@@ -20,6 +20,7 @@ Long Homeric Hymn to Demeter; v0.4 registers the Hecate and Helios passages at l
 
 | Relation | Target | Review / layer | Evidence | Confidence | Direction |
 |---|---|---|---:|---:|---|
+| `HAS_APPEARANCE_OF` | 珀耳塞福涅被劫 (`event.greek.persephone_abduction`) | VERIFIED / TEXT_SAYS / TEXTUAL_WITNESS | 1 | 0.99 | inferred inverse; `claim.v050.h2.event_appears` |
 | `HAS_APPEARANCE_OF` | 赫卡忒 (`deity.greek.hecate`) | VERIFIED / TEXT_SAYS / TEXTUAL_WITNESS | 1 | 0.99 | inferred inverse; `claim.v040.hecate.appears_hymn2` |
 | `HAS_APPEARANCE_OF` | 赫利俄斯 (`deity.greek.helios`) | VERIFIED / TEXT_SAYS / TEXTUAL_WITNESS | 1 | 0.99 | inferred inverse; `claim.v040.helios.appears_hymn2` |
 

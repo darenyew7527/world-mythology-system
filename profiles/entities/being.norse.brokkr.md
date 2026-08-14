@@ -6,7 +6,7 @@
 - 原文名: Brokkr
 - 转写: Brokkr
 - 研究状态: `PARTIAL`
-- 证据状态: `PARTIAL`
+- 证据状态: `SOURCE_BACKED`
 
 ## 概要
 

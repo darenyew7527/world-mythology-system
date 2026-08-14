@@ -1003,6 +1003,45 @@ name.text.zoroastrian.denkard.canonical,text.zoroastrian.denkard,Dēnkard,dēnka
 name.text.zoroastrian.denkard.zh,text.zoroastrian.denkard,宗教行传,宗教行传,lang.zh,,TRANSLATION,,1,,
 name.typhon.typhoeus,creature.greek.typhon,Typhoeus,typhoeus,lang.en,Latin,ALIAS,,0,source.greek.theogony.perseus_eng1,Evelyn-White form in the cited passage; Typhaon remains a separate research problem
 name.typhon_battle.en,event.greek.zeus_typhon_battle,Battle of Zeus and Typhon,battle of zeus and typhon,lang.en,Latin,TRANSLATION,,1,source.greek.theogony.perseus_eng1,Reading label for the event record
+name.v050.ares.grc,deity.greek.ares,Ἄρης,ἄρης,lang.grc,Greek,ORIGINAL,,1,source.greek.homeric_hymn_ares8.scaife,Ancient Greek name
+name.v050.artemis.grc,deity.greek.artemis,Ἄρτεμις,ἄρτεμις,lang.grc,Greek,ORIGINAL,,1,source.greek.homeric_hymn_artemis27.scaife,Ancient Greek name
+name.v050.athena.grc,deity.greek.athena,Ἀθηνᾶ,ἀθηνᾶ,lang.grc,Greek,ORIGINAL,,1,source.greek.homeric_hymn_athena28.scaife,Ancient Greek name
+name.v050.deity_greek_dione.en,deity.greek.dione,Dione,dione,lang.en,Latin,CANONICAL,,1,,v0.5.0 canonical reading label
+name.v050.deity_greek_dione.zh,deity.greek.dione,狄俄涅,狄俄涅,lang.zh,Han,TRANSLATION,,1,,v0.5.0 Chinese reading label
+name.v050.deity_greek_leto.en,deity.greek.leto,Leto,leto,lang.en,Latin,CANONICAL,,1,,v0.5.0 canonical reading label
+name.v050.deity_greek_leto.zh,deity.greek.leto,勒托,勒托,lang.zh,Han,TRANSLATION,,1,,v0.5.0 Chinese reading label
+name.v050.deity_greek_maia.en,deity.greek.maia,Maia,maia,lang.en,Latin,CANONICAL,,1,,v0.5.0 canonical reading label
+name.v050.deity_greek_maia.zh,deity.greek.maia,迈亚,迈亚,lang.zh,Han,TRANSLATION,,1,,v0.5.0 Chinese reading label
+name.v050.deity_greek_persephone.en,deity.greek.persephone,Persephone,persephone,lang.en,Latin,CANONICAL,,1,,v0.5.0 canonical reading label
+name.v050.deity_greek_persephone.zh,deity.greek.persephone,珀耳塞福涅,珀耳塞福涅,lang.zh,Han,TRANSLATION,,1,,v0.5.0 Chinese reading label
+name.v050.deity_greek_semele.en,deity.greek.semele,Semele,semele,lang.en,Latin,CANONICAL,,1,,v0.5.0 canonical reading label
+name.v050.deity_greek_semele.zh,deity.greek.semele,塞墨勒,塞墨勒,lang.zh,Han,TRANSLATION,,1,,v0.5.0 Chinese reading label
+name.v050.dionysus.grc,deity.greek.dionysus,Διόνυσος,διόνυσος,lang.grc,Greek,ORIGINAL,,1,source.greek.homeric_hymn_dionysus7.scaife,Ancient Greek name
+name.v050.event_greek_persephone_abduction.en,event.greek.persephone_abduction,Abduction of Persephone,abduction of persephone,lang.en,Latin,CANONICAL,,1,,v0.5.0 canonical reading label
+name.v050.event_greek_persephone_abduction.zh,event.greek.persephone_abduction,珀耳塞福涅被劫,珀耳塞福涅被劫,lang.zh,Han,TRANSLATION,,1,,v0.5.0 Chinese reading label
+name.v050.hades.grc,deity.greek.hades,Ἅιδης,ἅιδης,lang.grc,Greek,ORIGINAL,,1,source.greek.homeric_hymn_demeter.scaife,Ancient Greek name
+name.v050.hephaestus.grc,deity.greek.hephaestus,Ἥφαιστος,ἥφαιστος,lang.grc,Greek,ORIGINAL,,1,source.greek.homeric_hymn_hephaestus20.scaife,Ancient Greek name
+name.v050.hermes.grc,deity.greek.hermes,Ἑρμῆς,ἑρμῆς,lang.grc,Greek,ORIGINAL,,1,source.greek.homeric_hymn_hermes4.scaife,Ancient Greek name
+name.v050.poseidon.grc,deity.greek.poseidon,Ποσειδῶν,ποσειδῶν,lang.grc,Greek,ORIGINAL,,1,source.greek.homeric_hymn_poseidon22.scaife,Ancient Greek name
+name.v050.text_greek_homeric_hymn_aphrodite_5.en,text.greek.homeric_hymn_aphrodite_5,Homeric Hymn 5 to Aphrodite,homeric hymn 5 to aphrodite,lang.en,Latin,CANONICAL,,1,,v0.5.0 canonical reading label
+name.v050.text_greek_homeric_hymn_aphrodite_5.zh,text.greek.homeric_hymn_aphrodite_5,《荷马颂歌·致阿佛洛狄忒》（第5首）,《荷马颂歌·致阿佛洛狄忒》（第5首）,lang.zh,Han,TRANSLATION,,1,,v0.5.0 Chinese reading label
+name.v050.text_greek_homeric_hymn_apollo_3.en,text.greek.homeric_hymn_apollo_3,Homeric Hymn 3 to Apollo,homeric hymn 3 to apollo,lang.en,Latin,CANONICAL,,1,,v0.5.0 canonical reading label
+name.v050.text_greek_homeric_hymn_apollo_3.zh,text.greek.homeric_hymn_apollo_3,《荷马颂歌·致阿波罗》（第3首）,《荷马颂歌·致阿波罗》（第3首）,lang.zh,Han,TRANSLATION,,1,,v0.5.0 Chinese reading label
+name.v050.text_greek_homeric_hymn_ares_8.en,text.greek.homeric_hymn_ares_8,Homeric Hymn 8 to Ares,homeric hymn 8 to ares,lang.en,Latin,CANONICAL,,1,,v0.5.0 canonical reading label
+name.v050.text_greek_homeric_hymn_ares_8.zh,text.greek.homeric_hymn_ares_8,《荷马颂歌·致阿瑞斯》（第8首）,《荷马颂歌·致阿瑞斯》（第8首）,lang.zh,Han,TRANSLATION,,1,,v0.5.0 Chinese reading label
+name.v050.text_greek_homeric_hymn_artemis_27.en,text.greek.homeric_hymn_artemis_27,Homeric Hymn 27 to Artemis,homeric hymn 27 to artemis,lang.en,Latin,CANONICAL,,1,,v0.5.0 canonical reading label
+name.v050.text_greek_homeric_hymn_artemis_27.zh,text.greek.homeric_hymn_artemis_27,《荷马颂歌·致阿耳忒弥斯》（第27首）,《荷马颂歌·致阿耳忒弥斯》（第27首）,lang.zh,Han,TRANSLATION,,1,,v0.5.0 Chinese reading label
+name.v050.text_greek_homeric_hymn_athena_28.en,text.greek.homeric_hymn_athena_28,Homeric Hymn 28 to Athena,homeric hymn 28 to athena,lang.en,Latin,CANONICAL,,1,,v0.5.0 canonical reading label
+name.v050.text_greek_homeric_hymn_athena_28.zh,text.greek.homeric_hymn_athena_28,《荷马颂歌·致雅典娜》（第28首）,《荷马颂歌·致雅典娜》（第28首）,lang.zh,Han,TRANSLATION,,1,,v0.5.0 Chinese reading label
+name.v050.text_greek_homeric_hymn_dionysus_7.en,text.greek.homeric_hymn_dionysus_7,Homeric Hymn 7 to Dionysus,homeric hymn 7 to dionysus,lang.en,Latin,CANONICAL,,1,,v0.5.0 canonical reading label
+name.v050.text_greek_homeric_hymn_dionysus_7.zh,text.greek.homeric_hymn_dionysus_7,《荷马颂歌·致狄俄倪索斯》（第7首）,《荷马颂歌·致狄俄倪索斯》（第7首）,lang.zh,Han,TRANSLATION,,1,,v0.5.0 Chinese reading label
+name.v050.text_greek_homeric_hymn_hephaestus_20.en,text.greek.homeric_hymn_hephaestus_20,Homeric Hymn 20 to Hephaestus,homeric hymn 20 to hephaestus,lang.en,Latin,CANONICAL,,1,,v0.5.0 canonical reading label
+name.v050.text_greek_homeric_hymn_hephaestus_20.zh,text.greek.homeric_hymn_hephaestus_20,《荷马颂歌·致赫淮斯托斯》（第20首）,《荷马颂歌·致赫淮斯托斯》（第20首）,lang.zh,Han,TRANSLATION,,1,,v0.5.0 Chinese reading label
+name.v050.text_greek_homeric_hymn_hermes_4.en,text.greek.homeric_hymn_hermes_4,Homeric Hymn 4 to Hermes,homeric hymn 4 to hermes,lang.en,Latin,CANONICAL,,1,,v0.5.0 canonical reading label
+name.v050.text_greek_homeric_hymn_hermes_4.zh,text.greek.homeric_hymn_hermes_4,《荷马颂歌·致赫尔墨斯》（第4首）,《荷马颂歌·致赫尔墨斯》（第4首）,lang.zh,Han,TRANSLATION,,1,,v0.5.0 Chinese reading label
+name.v050.text_greek_homeric_hymn_poseidon_22.en,text.greek.homeric_hymn_poseidon_22,Homeric Hymn 22 to Poseidon,homeric hymn 22 to poseidon,lang.en,Latin,CANONICAL,,1,,v0.5.0 canonical reading label
+name.v050.text_greek_homeric_hymn_poseidon_22.zh,text.greek.homeric_hymn_poseidon_22,《荷马颂歌·致波塞冬》（第22首）,《荷马颂歌·致波塞冬》（第22首）,lang.zh,Han,TRANSLATION,,1,,v0.5.0 Chinese reading label
+name.v050.zeus.grc,deity.greek.zeus,Ζεύς,ζεύς,lang.grc,Greek,ORIGINAL,,1,source.greek.theogony.perseus_eng1,Ancient Greek name
 name.ve.non,deity.norse.ve,Vé,vé,lang.non,Latin,ORIGINAL,,1,source.norse.gylfaginning.vsnr2005,
 name.vili.non,deity.norse.vili,Vili,vili,lang.non,Latin,ORIGINAL,,1,source.norse.gylfaginning.vsnr2005,
 name.weapon.arthurian.excalibur.canonical,weapon.arthurian.excalibur,Excalibur,excalibur,lang.en,,CANONICAL,,1,,

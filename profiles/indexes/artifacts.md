@@ -4,9 +4,9 @@
 |---|---|---|---|---|---|---|
 | artifact.mesopotamian.tablet_destinies | 命运泥板 | Tablet of Destinies | ARTIFACT | 阿卡德 | PARTIAL | UNVERIFIED |
 | artifact.egyptian.solar_barque | 太阳船 | Solar barque | SHIP | 古埃及 | PARTIAL | UNVERIFIED |
-| artifact.greek.aegis | 埃癸斯神盾 | Aegis | ARTIFACT | 古希腊 | PARTIAL | UNVERIFIED |
-| weapon.greek.apollo_bow | 阿波罗之弓 | Bow of Apollo | WEAPON | 古希腊 | PARTIAL | UNVERIFIED |
-| weapon.greek.artemis_bow | 阿耳忒弥斯之弓 | Bow of Artemis | WEAPON | 古希腊 | PARTIAL | UNVERIFIED |
+| artifact.greek.aegis | 埃癸斯神盾 | Aegis | ARTIFACT | 古希腊 | PARTIAL | SOURCE_BACKED |
+| weapon.greek.apollo_bow | 阿波罗之弓 | Bow of Apollo | WEAPON | 古希腊 | PARTIAL | SOURCE_BACKED |
+| weapon.greek.artemis_bow | 阿耳忒弥斯之弓 | Bow of Artemis | WEAPON | 古希腊 | PARTIAL | SOURCE_BACKED |
 | artifact.greek.caduceus | 赫尔墨斯杖 | Caduceus | SCEPTER | 古希腊 | PARTIAL | UNVERIFIED |
 | artifact.greek.helm_hades | 哈得斯隐身头盔 | Helm of Hades | ARMOR | 古希腊 | PARTIAL | UNVERIFIED |
 | weapon.greek.zeus_thunderbolt | 宙斯雷霆 | Thunderbolt of Zeus | WEAPON | 古希腊 | PARTIAL | UNVERIFIED |

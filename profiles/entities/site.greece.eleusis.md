@@ -14,7 +14,9 @@
 
 ## 关系网络
 
-当前无关系边；保留为研究缺口。
+| Relation | Target | Review / layer | Evidence | Confidence | Direction |
+|---|---|---|---:|---:|---|
+| `ASSOCIATED_WITH` | 得墨忒耳 (`deity.greek.demeter`) | VERIFIED / TEXT_SAYS / TEXTUAL_WITNESS | 1 | 0.98 | inferred inverse; `claim.v050.h2.demeter_associated_eleusis` |
 
 ## Claims 与证据
 

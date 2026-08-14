@@ -3,22 +3,22 @@ artifact.babylonian.marduk_net,Net of Marduk,马尔杜克之网,,,ARTIFACT,civ.b
 artifact.chinese.huntian_ling,Huntian Ling,混天绫,混天綾,,ARTIFACT,civ.chinese_folk,,,,,PARTIAL,UNVERIFIED,1,{},2026-08-10T00:00:00Z,2026-08-10T00:00:00Z
 artifact.chinese.qiankun_quan,Qiankun Quan,乾坤圈,乾坤圈,,ARTIFACT,civ.chinese_folk,,,,,PARTIAL,UNVERIFIED,1,{},2026-08-10T00:00:00Z,2026-08-10T00:00:00Z
 artifact.egyptian.solar_barque,Solar barque,太阳船,,,SHIP,civ.egyptian,,,,,PARTIAL,UNVERIFIED,1,{},2026-08-10T00:00:00Z,2026-08-10T00:00:00Z
-artifact.greek.aegis,Aegis,埃癸斯神盾,αἰγίς,,ARTIFACT,civ.greek,,,,,PARTIAL,UNVERIFIED,1,{},2026-08-10T00:00:00Z,2026-08-10T00:00:00Z
+artifact.greek.aegis,Aegis,埃癸斯神盾,αἰγίς,,ARTIFACT,civ.greek,,,,,PARTIAL,SOURCE_BACKED,1,{},2026-08-10T00:00:00Z,2026-08-14T00:00:00Z
 artifact.greek.caduceus,Caduceus,赫尔墨斯杖,κηρύκειον,,SCEPTER,civ.greek,,,,,PARTIAL,UNVERIFIED,1,{},2026-08-10T00:00:00Z,2026-08-10T00:00:00Z
 artifact.greek.helm_hades,Helm of Hades,哈得斯隐身头盔,,,ARMOR,civ.greek,,,,,PARTIAL,UNVERIFIED,1,{},2026-08-10T00:00:00Z,2026-08-10T00:00:00Z
 artifact.mesopotamian.tablet_destinies,Tablet of Destinies,命运泥板,,,ARTIFACT,civ.akkadian,,,,,PARTIAL,UNVERIFIED,1,{},2026-08-10T00:00:00Z,2026-08-10T00:00:00Z
 artifact.norse.draupnir,Draupnir,德罗普尼尔,Draupnir,,RING,civ.norse,,,,,PARTIAL,UNVERIFIED,1,{},2026-08-10T00:00:00Z,2026-08-10T00:00:00Z
 artifact.norse.gleipnir,Gleipnir,格莱普尼尔,Gleipnir,,ARTIFACT,civ.norse,,,,,PARTIAL,UNVERIFIED,1,{},2026-08-10T00:00:00Z,2026-08-10T00:00:00Z
 being.chinese.pangu,Pangu,盘古,盤古,,GIANT,civ.chinese_ancient,,,,,PARTIAL,UNVERIFIED,1,{},2026-08-10T00:00:00Z,2026-08-10T00:00:00Z
-being.norse.bestla,Bestla,贝斯特拉,Bestla,Bestla,GIANT,civ.norse,,,Medieval Icelandic textual witness,"Daughter of Bölþorn and mother of Odin, Vili and Vé in Gylfaginning.",PARTIAL,PARTIAL,1,{},2026-08-11T03:05:26Z,2026-08-11T03:05:26Z
-being.norse.brokkr,Brokkr,布洛克,Brokkr,Brokkr,DWARF,civ.norse,,,Medieval Icelandic textual witness,Dwarf smith who works the bellows in the treasure-forging episode.,PARTIAL,PARTIAL,1,{},2026-08-11T03:05:26Z,2026-08-11T03:05:26Z
-being.norse.eitri,Eitri,艾特里,Eitri,Eitri,DWARF,civ.norse,,,Medieval Icelandic textual witness,Dwarf smith named as Brokkr’s brother in one common naming tradition.,PARTIAL,PARTIAL,1,"{""identity_caution"":""Kept separate from Sindri pending witness-specific review.""}",2026-08-11T03:05:26Z,2026-08-11T03:05:26Z
-being.norse.mimir,Mímir,密米尔,Mímir,Mímir,CREATURE,civ.norse,,,Eddic and medieval Icelandic witnesses,Wisdom figure associated with Mímisbrunnr; ontological class remains under review.,PARTIAL,PARTIAL,1,"{""classification_caution"":""Source roles do not justify a forced universal species label.""}",2026-08-11T03:05:26Z,2026-08-11T03:05:26Z
+being.norse.bestla,Bestla,贝斯特拉,Bestla,Bestla,GIANT,civ.norse,,,Medieval Icelandic textual witness,"Daughter of Bölþorn and mother of Odin, Vili and Vé in Gylfaginning.",PARTIAL,SOURCE_BACKED,1,{},2026-08-11T03:05:26Z,2026-08-14T00:00:00Z
+being.norse.brokkr,Brokkr,布洛克,Brokkr,Brokkr,DWARF,civ.norse,,,Medieval Icelandic textual witness,Dwarf smith who works the bellows in the treasure-forging episode.,PARTIAL,SOURCE_BACKED,1,{},2026-08-11T03:05:26Z,2026-08-14T00:00:00Z
+being.norse.eitri,Eitri,艾特里,Eitri,Eitri,DWARF,civ.norse,,,Medieval Icelandic textual witness,Dwarf smith named as Brokkr’s brother in one common naming tradition.,CONFLICT,CONFLICTING,1,"{""identity_caution"":""Kept separate from Sindri pending witness-specific review.""}",2026-08-11T03:05:26Z,2026-08-14T00:00:00Z
+being.norse.mimir,Mímir,密米尔,Mímir,Mímir,CREATURE,civ.norse,,,Eddic and medieval Icelandic witnesses,Wisdom figure associated with Mímisbrunnr; ontological class remains under review.,PARTIAL,SOURCE_BACKED,1,"{""classification_caution"":""Source roles do not justify a forced universal species label.""}",2026-08-11T03:05:26Z,2026-08-14T00:00:00Z
 being.norse.sindri,Sindri,辛德里,Sindri,Sindri,DWARF,civ.norse,,,Eddic and later naming traditions,Name associated in later/reference traditions with Brokkr’s smith brother; not automatically merged with Eitri.,NEEDS_REVIEW,CONFLICTING,1,"{""identity_caution"":""Candidate identity with Eitri, not canonical alias.""}",2026-08-11T03:05:26Z,2026-08-11T03:05:26Z
-being.norse.sons_of_ivaldi,Sons of Ivaldi,伊瓦尔迪之子,Ívaldasynir,,CREATURE,civ.norse,,,,,DISCOVERED,SOURCE_BACKED,1,{},2026-08-10T00:00:00Z,2026-08-10T00:00:00Z
+being.norse.sons_of_ivaldi,Sons of Ivaldi,伊瓦尔迪之子,Ívaldasynir,,CREATURE,civ.norse,,,,,DISCOVERED,SOURCE_BACKED,1,{},2026-08-10T00:00:00Z,2026-08-14T00:00:00Z
 being.norse.ymir,Ymir,尤弥尔,Ymir,,GIANT,civ.norse,,,,,PARTIAL,UNVERIFIED,1,{},2026-08-10T00:00:00Z,2026-08-10T00:00:00Z
 being.zoroastrian.angra_mainyu,Angra Mainyu,安格拉·曼纽,𐬀𐬢𐬭𐬀 𐬨𐬀𐬌𐬥𐬌𐬌𐬎,,DEITY,civ.zoroastrian,,,,,PARTIAL,UNVERIFIED,1,{},2026-08-10T00:00:00Z,2026-08-10T00:00:00Z
-concept.chinese.wuxing,Wuxing,五行,五行,,CONCEPT,civ.chinese_ancient,,,,,PARTIAL,UNVERIFIED,1,{},2026-08-10T00:00:00Z,2026-08-10T00:00:00Z
+concept.chinese.wuxing,Wuxing,五行,五行,,CONCEPT,civ.chinese_ancient,,,,,PARTIAL,SOURCE_BACKED,1,{},2026-08-10T00:00:00Z,2026-08-14T00:00:00Z
 concept.chinese.wuxing.huo,Huo (wuxing),五行之火,火,huǒ,ELEMENT,civ.chinese_ancient,,,Early Chinese received textual tradition,Redirect-only duplicate identifier created during expansion migration 2; use entity_redirects canonical target.,EXPAND_LATER,PARTIAL,1,"{""redirect_only"":true,""reason"":""migration_2_duplicate""}",2026-08-11T03:05:26Z,2026-08-11T03:22:00Z
 concept.chinese.wuxing.jin,Jin (wuxing),五行之金,金,jīn,ELEMENT,civ.chinese_ancient,,,Early Chinese received textual tradition,Redirect-only duplicate identifier created during expansion migration 2; use entity_redirects canonical target.,EXPAND_LATER,PARTIAL,1,"{""redirect_only"":true,""reason"":""migration_2_duplicate""}",2026-08-11T03:05:26Z,2026-08-11T03:22:00Z
 concept.chinese.wuxing.mu,Mu (wuxing),五行之木,木,mù,ELEMENT,civ.chinese_ancient,,,Early Chinese received textual tradition,Redirect-only duplicate identifier created during expansion migration 2; use entity_redirects canonical target.,EXPAND_LATER,PARTIAL,1,"{""redirect_only"":true,""reason"":""migration_2_duplicate""}",2026-08-11T03:05:26Z,2026-08-11T03:22:00Z
@@ -82,70 +82,75 @@ concept.indian.pancamahabhuta,Pañcamahābhūta,五大,पञ्चमहाभ�
 concept.norse.fire_ice_cosmogony,Norse fire-and-ice cosmogonic contrast,北欧火与冰宇宙生成结构,,,COSMOLOGY,civ.norse,,,,,PARTIAL,UNVERIFIED,1,{},2026-08-10T00:00:00Z,2026-08-10T00:00:00Z
 concept.zoroastrian.asha,Asha,阿沙（真理／秩序）,aša,,CONCEPT,civ.zoroastrian,,,,,PARTIAL,UNVERIFIED,1,{},2026-08-10T00:00:00Z,2026-08-10T00:00:00Z
 concept.zoroastrian.druj,Druj,德鲁杰（虚妄／失序）,druj,,CONCEPT,civ.zoroastrian,,,,,PARTIAL,UNVERIFIED,1,{},2026-08-10T00:00:00Z,2026-08-10T00:00:00Z
-creature.greek.cyclopes_hesiodic,Hesiodic Cyclopes,赫西俄德传统独眼巨人,Κύκλωπες,,GIANT,civ.greek,,,,,DISCOVERED,SOURCE_BACKED,1,{},2026-08-10T00:00:00Z,2026-08-10T00:00:00Z
-creature.greek.typhon,Typhon,提丰,,Typhōn,MONSTER,civ.greek,,,Archaic Greek textual tradition,Serpentine multi-voiced opponent of Zeus in Hesiod; later variants must remain separately sourced.,PARTIAL,PARTIAL,1,"{""variant_caution"":""Do not auto-merge Typhon, Typhoeus and Typhaon across witnesses.""}",2026-08-11T03:05:26Z,2026-08-11T03:05:26Z
-creature.norse.fenrir,Fenrir,芬里尔,Fenrir,,MONSTER,civ.norse,,,,,PARTIAL,SOURCE_BACKED,1,{},2026-08-10T00:00:00Z,2026-08-10T00:00:00Z
+creature.greek.cyclopes_hesiodic,Hesiodic Cyclopes,赫西俄德传统独眼巨人,Κύκλωπες,,GIANT,civ.greek,,,,,DISCOVERED,SOURCE_BACKED,1,{},2026-08-10T00:00:00Z,2026-08-14T00:00:00Z
+creature.greek.typhon,Typhon,提丰,,Typhōn,MONSTER,civ.greek,,,Archaic Greek textual tradition,Serpentine multi-voiced opponent of Zeus in Hesiod; later variants must remain separately sourced.,PARTIAL,SOURCE_BACKED,1,"{""variant_caution"":""Do not auto-merge Typhon, Typhoeus and Typhaon across witnesses.""}",2026-08-11T03:05:26Z,2026-08-14T00:00:00Z
+creature.norse.fenrir,Fenrir,芬里尔,Fenrir,,MONSTER,civ.norse,,,,,PARTIAL,SOURCE_BACKED,1,{},2026-08-10T00:00:00Z,2026-08-14T00:00:00Z
 creature.norse.gullinbursti,Gullinbursti,金鬃野猪,Gullinbursti,Gullinbursti,DIVINE_BEAST,civ.norse,,,Medieval Icelandic textual witness,Golden-bristled boar produced in the smithing contest and given to Freyr.,PARTIAL,PARTIAL,1,"{""hybrid_classification"":[""DIVINE_BEAST"",""ARTIFACT""]}",2026-08-11T03:05:26Z,2026-08-11T03:05:26Z
 creature.norse.jormungandr,Jörmungandr,耶梦加得,Jǫrmungandr,,DRAGON,civ.norse,,,,,PARTIAL,UNVERIFIED,1,{},2026-08-10T00:00:00Z,2026-08-10T00:00:00Z
 deity.akkadian.ishtar,Ishtar,伊什塔尔,Ištar,,DEITY,civ.akkadian,,,,,PARTIAL,UNVERIFIED,1,{},2026-08-10T00:00:00Z,2026-08-10T00:00:00Z
 deity.assyrian.ashur,Ashur,阿舒尔,Aššur,,DEITY,civ.assyrian,,,,,PARTIAL,UNVERIFIED,1,{},2026-08-10T00:00:00Z,2026-08-10T00:00:00Z
-deity.babylonian.marduk,Marduk,马尔杜克,Marduk,,DEITY,civ.babylonian,,,,,PARTIAL,SOURCE_BACKED,1,{},2026-08-10T00:00:00Z,2026-08-10T00:00:00Z
-deity.babylonian.tiamat,Tiamat,提亚马特,Tiāmat,,PRIMORDIAL_DEITY,civ.babylonian,,,,,PARTIAL,SOURCE_BACKED,1,{},2026-08-10T00:00:00Z,2026-08-10T00:00:00Z
+deity.babylonian.marduk,Marduk,马尔杜克,Marduk,,DEITY,civ.babylonian,,,,,PARTIAL,SOURCE_BACKED,1,{},2026-08-10T00:00:00Z,2026-08-14T00:00:00Z
+deity.babylonian.tiamat,Tiamat,提亚马特,Tiāmat,,PRIMORDIAL_DEITY,civ.babylonian,,,,,PARTIAL,SOURCE_BACKED,1,{},2026-08-10T00:00:00Z,2026-08-14T00:00:00Z
 deity.chinese.fu_xi,Fuxi,伏羲,伏羲,,DEITY,civ.chinese_ancient,,,,,PARTIAL,UNVERIFIED,1,{},2026-08-10T00:00:00Z,2026-08-10T00:00:00Z
 deity.chinese.nezha,Nezha,哪吒,哪吒,,DEITY,civ.chinese_folk,,,,,PARTIAL,UNVERIFIED,1,{},2026-08-10T00:00:00Z,2026-08-10T00:00:00Z
 deity.chinese.nu_wa,Nüwa,女娲,女媧,,DEITY,civ.chinese_ancient,,,,,PARTIAL,UNVERIFIED,1,{},2026-08-10T00:00:00Z,2026-08-10T00:00:00Z
-deity.egyptian.amun,Amun,阿蒙,Jmn,,DEITY,civ.egyptian,,,,,PARTIAL,SOURCE_BACKED,1,{},2026-08-10T00:00:00Z,2026-08-10T00:00:00Z
+deity.egyptian.amun,Amun,阿蒙,Jmn,,DEITY,civ.egyptian,,,,,PARTIAL,SOURCE_BACKED,1,{},2026-08-10T00:00:00Z,2026-08-14T00:00:00Z
 deity.egyptian.anubis,Anubis,阿努比斯,Jnpw,,DEITY,civ.egyptian,,,,,PARTIAL,UNVERIFIED,1,{},2026-08-10T00:00:00Z,2026-08-10T00:00:00Z
 deity.egyptian.atum,Atum,阿图姆,Jtm,,PRIMORDIAL_DEITY,civ.egyptian,,,,,PARTIAL,UNVERIFIED,1,{},2026-08-10T00:00:00Z,2026-08-10T00:00:00Z
 deity.egyptian.geb,Geb,盖布,Gbb,,DEITY,civ.egyptian,,,,,PARTIAL,UNVERIFIED,1,{},2026-08-10T00:00:00Z,2026-08-10T00:00:00Z
 deity.egyptian.hathor,Hathor,哈托尔,Ḥwt-Ḥr,,DEITY,civ.egyptian,,,,,PARTIAL,UNVERIFIED,1,{},2026-08-10T00:00:00Z,2026-08-10T00:00:00Z
 deity.egyptian.horus,Horus,荷鲁斯,Ḥr,,DEITY,civ.egyptian,,,,,PARTIAL,UNVERIFIED,1,{},2026-08-10T00:00:00Z,2026-08-10T00:00:00Z
 deity.egyptian.isis,Isis,伊西斯,Ꜣst,,DEITY,civ.egyptian,,,,,PARTIAL,UNVERIFIED,1,{},2026-08-10T00:00:00Z,2026-08-10T00:00:00Z
-deity.egyptian.ma_at,Ma'at,玛阿特,Mꜣꜥt,,DEITY,civ.egyptian,,,,,PARTIAL,PARTIAL,1,{},2026-08-10T00:00:00Z,2026-08-10T00:00:00Z
+deity.egyptian.ma_at,Ma'at,玛阿特,Mꜣꜥt,,DEITY,civ.egyptian,,,,,PARTIAL,PARTIAL,1,{},2026-08-10T00:00:00Z,2026-08-14T00:00:00Z
 deity.egyptian.nephthys,Nephthys,奈芙蒂斯,Nbt-ḥwt,,DEITY,civ.egyptian,,,,,PARTIAL,UNVERIFIED,1,{},2026-08-10T00:00:00Z,2026-08-10T00:00:00Z
 deity.egyptian.nut,Nut,努特,Nwt,,DEITY,civ.egyptian,,,,,PARTIAL,UNVERIFIED,1,{},2026-08-10T00:00:00Z,2026-08-10T00:00:00Z
-deity.egyptian.osiris,Osiris,奥西里斯,Wsjr,,DEITY,civ.egyptian,,,,,PARTIAL,SOURCE_BACKED,1,{},2026-08-10T00:00:00Z,2026-08-10T00:00:00Z
+deity.egyptian.osiris,Osiris,奥西里斯,Wsjr,,DEITY,civ.egyptian,,,,,PARTIAL,SOURCE_BACKED,1,{},2026-08-10T00:00:00Z,2026-08-14T00:00:00Z
 deity.egyptian.ptah,Ptah,卜塔,Ptḥ,,DEITY,civ.egyptian,,,,,PARTIAL,UNVERIFIED,1,{},2026-08-10T00:00:00Z,2026-08-10T00:00:00Z
-deity.egyptian.ra,Ra,拉／瑞,Rꜥ,,DEITY,civ.egyptian,,,,,PARTIAL,SOURCE_BACKED,1,{},2026-08-10T00:00:00Z,2026-08-10T00:00:00Z
+deity.egyptian.ra,Ra,拉／瑞,Rꜥ,,DEITY,civ.egyptian,,,,,PARTIAL,SOURCE_BACKED,1,{},2026-08-10T00:00:00Z,2026-08-14T00:00:00Z
 deity.egyptian.sekhmet,Sekhmet,塞赫麦特,Sḫmt,,DEITY,civ.egyptian,,,,,PARTIAL,UNVERIFIED,1,{},2026-08-10T00:00:00Z,2026-08-10T00:00:00Z
 deity.egyptian.seth,Seth,塞特,Stẖ,,DEITY,civ.egyptian,,,,,PARTIAL,UNVERIFIED,1,{},2026-08-10T00:00:00Z,2026-08-10T00:00:00Z
 deity.egyptian.shu,Shu,舒,Šw,,DEITY,civ.egyptian,,,,,PARTIAL,UNVERIFIED,1,{},2026-08-10T00:00:00Z,2026-08-10T00:00:00Z
 deity.egyptian.tefnut,Tefnut,泰芙努特,Tfnwt,,DEITY,civ.egyptian,,,,,PARTIAL,UNVERIFIED,1,{},2026-08-10T00:00:00Z,2026-08-10T00:00:00Z
 deity.egyptian.thoth,Thoth,托特,Ḏḥwty,,DEITY,civ.egyptian,,,,,PARTIAL,UNVERIFIED,1,{},2026-08-10T00:00:00Z,2026-08-10T00:00:00Z
 deity.greek.aether,Aether,埃忒耳,Αἰθήρ,Aithḗr,PRIMORDIAL_DEITY,civ.greek,,,Archaic Greek textual tradition,Aether is born from Nyx through union with Erebus in Theogony 124-125.,PARTIAL,SOURCE_BACKED,1,"{""translation_caution"":""Do not automatically equate Aether with every culture’s air or sky concept.""}",2026-08-14T00:00:00Z,2026-08-14T00:00:00Z
-deity.greek.aphrodite,Aphrodite,阿佛洛狄忒,Ἀφροδίτη,,DEITY,civ.greek,,,,,PARTIAL,UNVERIFIED,1,{},2026-08-10T00:00:00Z,2026-08-10T00:00:00Z
-deity.greek.apollo,Apollo,阿波罗,Ἀπόλλων,,DEITY,civ.greek,,,,,PARTIAL,SOURCE_BACKED,1,{},2026-08-10T00:00:00Z,2026-08-10T00:00:00Z
-deity.greek.ares,Ares,阿瑞斯,Ἄρης,,DEITY,civ.greek,,,,,PARTIAL,UNVERIFIED,1,{},2026-08-10T00:00:00Z,2026-08-10T00:00:00Z
-deity.greek.artemis,Artemis,阿耳忒弥斯,Ἄρτεμις,,DEITY,civ.greek,,,,,PARTIAL,UNVERIFIED,1,{},2026-08-10T00:00:00Z,2026-08-10T00:00:00Z
+deity.greek.aphrodite,Aphrodite,阿佛洛狄忒,Ἀφροδίτη,Aphroditē,DEITY,civ.greek,,,,爱欲女神；赫西俄德起源叙事与《伊利亚特》的宙斯—狄俄涅谱系作为冲突版本并存。 / Goddess of desire; the Hesiodic origin and Iliadic Zeus–Dione genealogy remain coexisting variants.,CONFLICT,CONFLICTING,2,"{""variant_caution"":""Hesiodic and Iliadic origins coexist; no automatic resolution""}",2026-08-10T00:00:00Z,2026-08-14T00:00:00Z
+deity.greek.apollo,Apollo,阿波罗,Ἀπόλλων,Apollōn,DEITY,civ.greek,,,,"勒托与宙斯之子；第3首《荷马颂歌》连接提洛岛诞生、弓、琴与神谕。 / Son of Leto and Zeus; Hymn 3 connects his Delian birth, bow, lyre and oracle.",PARTIAL,SOURCE_BACKED,2,{},2026-08-10T00:00:00Z,2026-08-14T00:00:00Z
+deity.greek.ares,Ares,阿瑞斯,Ἄρης,Arēs,DEITY,civ.greek,,,,宙斯与赫拉之子；第8首颂歌同时保存武力称号与克制、和平祈愿。 / Son of Zeus and Hera; Hymn 8 combines martial titles with a prayer for restraint.,PARTIAL,SOURCE_BACKED,2,{},2026-08-10T00:00:00Z,2026-08-14T00:00:00Z
+deity.greek.artemis,Artemis,阿耳忒弥斯,Ἄρτεμις,Artemis,DEITY,civ.greek,,,,"勒托与宙斯之女；第27首《荷马颂歌》描绘其弓箭、猎犬、鹿与阿波罗关系。 / Daughter of Leto and Zeus; Hymn 27 depicts archery, hounds and deer.",PARTIAL,SOURCE_BACKED,2,{},2026-08-10T00:00:00Z,2026-08-14T00:00:00Z
 deity.greek.asteria,Asteria,阿斯忒里亚,Ἀστερία,Astería,DEITY,civ.greek,,,Archaic Greek textual tradition,Parent of Hecate with Perses in Hesiod’s Theogony.,PARTIAL,SOURCE_BACKED,1,"{""scope_caution"":""This record follows the Hesiodic Hecate genealogy only.""}",2026-08-14T00:00:00Z,2026-08-14T00:00:00Z
-deity.greek.athena,Athena,雅典娜,Ἀθηνᾶ,,DEITY,civ.greek,,,,,PARTIAL,UNVERIFIED,1,{},2026-08-10T00:00:00Z,2026-08-10T00:00:00Z
+deity.greek.athena,Athena,雅典娜,Ἀθηνᾶ,Athēna,DEITY,civ.greek,,,,赫西俄德与颂歌传统中从宙斯而生、具武装与城邦守护层面的女神；埃癸斯证据另接《伊利亚特》。 / Armed daughter of Zeus and city guardian in registered witnesses.,PARTIAL,SOURCE_BACKED,2,{},2026-08-10T00:00:00Z,2026-08-14T00:00:00Z
 deity.greek.chaos,Chaos,卡俄斯,Χάος,Kháos,PRIMORDIAL_DEITY,civ.greek,,,Archaic Greek textual tradition,The first named cosmogonic condition or being in Hesiod’s Theogony; its ontology should not be flattened into the modern everyday sense of disorder.,PARTIAL,SOURCE_BACKED,1,"{""classification_caution"":""Keep Hesiodic Chaos distinct from generic comparative chaos concepts.""}",2026-08-14T00:00:00Z,2026-08-14T00:00:00Z
-deity.greek.cronus,Cronus,克洛诺斯,Κρόνος,,DEITY,civ.greek,,,,,PARTIAL,SOURCE_BACKED,1,{},2026-08-10T00:00:00Z,2026-08-10T00:00:00Z
-deity.greek.demeter,Demeter,得墨忒耳,Δημήτηρ,,DEITY,civ.greek,,,,,PARTIAL,UNVERIFIED,1,{},2026-08-10T00:00:00Z,2026-08-10T00:00:00Z
-deity.greek.dionysus,Dionysus,狄俄倪索斯,Διόνυσος,,DEITY,civ.greek,,,,,PARTIAL,UNVERIFIED,1,{},2026-08-10T00:00:00Z,2026-08-10T00:00:00Z
+deity.greek.cronus,Cronus,克洛诺斯,Κρόνος,,DEITY,civ.greek,,,,,PARTIAL,SOURCE_BACKED,1,{},2026-08-10T00:00:00Z,2026-08-14T00:00:00Z
+deity.greek.demeter,Demeter,得墨忒耳,Δημήτηρ,Dēmētēr,DEITY,civ.greek,,,,克洛诺斯与瑞亚之女、珀耳塞福涅之母；第2首颂歌连接寻找女儿与厄琉西斯仪式叙事。 / Daughter of Cronus and Rhea and mother of Persephone in registered witnesses.,PARTIAL,SOURCE_BACKED,2,{},2026-08-10T00:00:00Z,2026-08-14T00:00:00Z
+deity.greek.dione,Dione,狄俄涅,Διώνη,Diōnē,DEITY,civ.greek,,region.europe,Archaic Greek textual tradition,《伊利亚特》第5卷称阿佛洛狄忒投入其母狄俄涅怀中；该谱系与赫西俄德起源叙事并存。 / The Iliad names Dione as Aphrodite’s mother; this coexists with the Hesiodic origin account.,PARTIAL,SOURCE_BACKED,1,"{""variant_caution"":""Iliadic Aphrodite genealogy""}",2026-08-14T00:00:00Z,2026-08-14T00:00:00Z
+deity.greek.dionysus,Dionysus,狄俄倪索斯,Διόνυσος,Dionysos,DEITY,civ.greek,,,,宙斯与塞墨勒之子；第7首《荷马颂歌》保存海盗事件的神话叙事。 / Son of Zeus and Semele; Hymn 7 preserves the pirate episode.,PARTIAL,SOURCE_BACKED,2,{},2026-08-10T00:00:00Z,2026-08-14T00:00:00Z
 deity.greek.eos,Eos,厄俄斯,Ἠώς,Ēṓs,DEITY,civ.greek,,,Archaic Greek textual tradition,Dawn deity named with Helios and Selene among the children of Hyperion and Theia in Hesiod.,PARTIAL,SOURCE_BACKED,1,{},2026-08-14T00:00:00Z,2026-08-14T00:00:00Z
 deity.greek.erebus,Erebus,厄瑞玻斯,Ἔρεβος,Érebos,PRIMORDIAL_DEITY,civ.greek,,,Archaic Greek textual tradition,Erebus is born from Chaos in Theogony 123 and joins Nyx in the genealogy of Aether and Hemera.,PARTIAL,SOURCE_BACKED,1,{},2026-08-14T00:00:00Z,2026-08-14T00:00:00Z
-deity.greek.gaia,Gaia,盖亚,Γαῖα,,PRIMORDIAL_DEITY,civ.greek,,,,,PARTIAL,UNVERIFIED,1,{},2026-08-10T00:00:00Z,2026-08-10T00:00:00Z
-deity.greek.hades,Hades,哈得斯,ᾍδης,,DEITY,civ.greek,,,,,PARTIAL,UNVERIFIED,1,{},2026-08-10T00:00:00Z,2026-08-10T00:00:00Z
+deity.greek.gaia,Gaia,盖亚,Γαῖα,Gaia,PRIMORDIAL_DEITY,civ.greek,,,,《神谱》宇宙起源与家谱中的大地神；本版本连接乌拉诺斯与克洛诺斯谱系。 / Earth deity in Hesiodic cosmogony and genealogy.,PARTIAL,SOURCE_BACKED,2,{},2026-08-10T00:00:00Z,2026-08-14T00:00:00Z
+deity.greek.hades,Hades,哈得斯,Ἅιδης,Haidēs,DEITY,civ.greek,,,,《神谱》家谱中的克洛诺斯与瑞亚之子；《荷马颂歌·致得墨忒耳》中的冥界统治者与劫掠者。 / Son of Cronus and Rhea and underworld ruler in the Hymn to Demeter.,PARTIAL,SOURCE_BACKED,2,{},2026-08-10T00:00:00Z,2026-08-14T00:00:00Z
 deity.greek.hecate,Hecate,赫卡忒,Ἑκάτη,Hekátē,DEITY,civ.greek,,,Archaic Greek textual tradition,Daughter of Asteria and Perses who receives extensive honors in Hesiod; a torch-bearing helper of Demeter in Homeric Hymn 2.,PARTIAL,SOURCE_BACKED,1,"{""layer_caution"":""The v0.4 baseline separates early Hesiodic and Hymn-to-Demeter testimony from later magic, crossroads and underworld layers.""}",2026-08-14T00:00:00Z,2026-08-14T00:00:00Z
 deity.greek.helios,Helios,赫利俄斯,Ἥλιος,Hḗlios,DEITY,civ.greek,,,Archaic Greek textual tradition,"Solar deity, child of Hyperion and Theia in Hesiod, celebrated with a chariot in Homeric Hymn 31.",PARTIAL,SOURCE_BACKED,1,"{""identity_caution"":""Do not silently merge Helios with Apollo; identifications belong in sourced, dated claims.""}",2026-08-14T00:00:00Z,2026-08-14T00:00:00Z
 deity.greek.hemera,Hemera,赫墨拉,Ἡμέρα,Hēméra,PRIMORDIAL_DEITY,civ.greek,,,Archaic Greek textual tradition,"Hemera, Day, is born from Nyx through union with Erebus in Theogony 124-125.",PARTIAL,SOURCE_BACKED,1,{},2026-08-14T00:00:00Z,2026-08-14T00:00:00Z
-deity.greek.hephaestus,Hephaestus,赫淮斯托斯,Ἥφαιστος,,DEITY,civ.greek,,,,,PARTIAL,UNVERIFIED,1,{},2026-08-10T00:00:00Z,2026-08-10T00:00:00Z
-deity.greek.hera,Hera,赫拉,Ἥρα,,DEITY,civ.greek,,,,,PARTIAL,UNVERIFIED,1,{},2026-08-10T00:00:00Z,2026-08-10T00:00:00Z
-deity.greek.hermes,Hermes,赫尔墨斯,Ἑρμῆς,,DEITY,civ.greek,,,,,PARTIAL,UNVERIFIED,1,{},2026-08-10T00:00:00Z,2026-08-10T00:00:00Z
+deity.greek.hephaestus,Hephaestus,赫淮斯托斯,Ἥφαιστος,Hēphaistos,DEITY,civ.greek,,,,赫西俄德家谱中赫拉独自产生之神；第20首颂歌与雅典娜共同关联工艺教导。 / Born from Hera alone in the registered Hesiodic witness; linked with craft instruction in Hymn 20.,PARTIAL,SOURCE_BACKED,2,{},2026-08-10T00:00:00Z,2026-08-14T00:00:00Z
+deity.greek.hera,Hera,赫拉,Ἥρα,Hēra,DEITY,civ.greek,,,,《神谱》所见克洛诺斯与瑞亚之女，并在该见证中成为宙斯的配偶与阿瑞斯、赫淮斯托斯谱系的一环。 / Hera in the registered Hesiodic genealogy.,PARTIAL,SOURCE_BACKED,2,{},2026-08-10T00:00:00Z,2026-08-14T00:00:00Z
+deity.greek.hermes,Hermes,赫尔墨斯,Ἑρμῆς,Hermēs,DEITY,civ.greek,,,,"宙斯与迈亚之子；第4首《荷马颂歌》叙其诞生、制琴、盗牛与神使身份。 / Son of Zeus and Maia; Hymn 4 narrates his birth, lyre-making, cattle theft and messenger role.",PARTIAL,SOURCE_BACKED,2,{},2026-08-10T00:00:00Z,2026-08-14T00:00:00Z
 deity.greek.hestia,Hestia,赫斯提亚,Ἑστία,Hestía,DEITY,civ.greek,,,Archaic Greek textual tradition,Child of Rhea and Cronus in Hesiod and recipient of first-and-last banquet libations in Homeric Hymn 29.,PARTIAL,SOURCE_BACKED,1,"{""layer_caution"":""Cult practice and later civic traditions remain queued for archaeological and epigraphic expansion.""}",2026-08-14T00:00:00Z,2026-08-14T00:00:00Z
 deity.greek.hyperion,Hyperion,许珀里翁,Ὑπερίων,Hyperíōn,DEITY,civ.greek,,,Archaic Greek textual tradition,"Titan child of Gaia and Uranus and parent, with Theia, of Helios, Selene and Eos in Hesiod.",PARTIAL,SOURCE_BACKED,1,{},2026-08-14T00:00:00Z,2026-08-14T00:00:00Z
 deity.greek.hypnos,Hypnos,许普诺斯,Ὕπνος,Hýpnos,DEITY,civ.greek,,,Archaic Greek textual tradition,Personified Sleep among the children of Nyx in Hesiod’s Theogony.,PARTIAL,SOURCE_BACKED,1,"{""layer_caution"":""Later literary and visual traditions require separate witness-level claims.""}",2026-08-14T00:00:00Z,2026-08-14T00:00:00Z
-deity.greek.metis,Metis,墨提斯,Μῆτις,Mētis,DEITY,civ.greek,,,Archaic Greek textual tradition,"Figure of wisdom in Hesiod, first consort of Zeus and mother of Athena in that witness.",PARTIAL,PARTIAL,1,{},2026-08-11T03:05:26Z,2026-08-11T03:05:26Z
+deity.greek.leto,Leto,勒托,Λητώ,Lētō,DEITY,civ.greek,,region.europe,Archaic Greek textual tradition,阿波罗与阿耳忒弥斯的母亲；本检查点仅登记赫西俄德与《荷马颂歌》中的见证。 / Mother of Apollo and Artemis in the registered Hesiodic and hymnic witnesses.,PARTIAL,SOURCE_BACKED,1,"{""scope_caution"":""witness-specific genealogy""}",2026-08-14T00:00:00Z,2026-08-14T00:00:00Z
+deity.greek.maia,Maia,迈亚,Μαῖα,Maia,DEITY,civ.greek,,region.europe,Archaic Greek textual tradition,赫尔墨斯之母；不同传统层需要逐条登记。 / Mother of Hermes in the registered witnesses; later layers remain separate.,PARTIAL,SOURCE_BACKED,1,"{""scope_caution"":""witness-specific genealogy""}",2026-08-14T00:00:00Z,2026-08-14T00:00:00Z
+deity.greek.metis,Metis,墨提斯,Μῆτις,Mētis,DEITY,civ.greek,,,Archaic Greek textual tradition,"Figure of wisdom in Hesiod, first consort of Zeus and mother of Athena in that witness.",PARTIAL,SOURCE_BACKED,1,{},2026-08-11T03:05:26Z,2026-08-14T00:00:00Z
 deity.greek.nyx,Nyx,倪克斯,Νύξ,Nýx,PRIMORDIAL_DEITY,civ.greek,,,Archaic Greek textual tradition,"Night figure in Hesiodic genealogy, born from Chaos and parent of multiple personified powers in that witness.",PARTIAL,SOURCE_BACKED,1,"{""layer_caution"":""Genealogies vary by witness; this baseline is Hesiod-specific.""}",2026-08-14T00:00:00Z,2026-08-14T00:00:00Z
-deity.greek.perses,Perses,珀耳塞斯,Πέρσης,Pérsēs,DEITY,civ.greek,,,Archaic Greek textual tradition,Parent of Hecate with Asteria in Hesiod’s Theogony.,PARTIAL,CONFLICTING,1,"{""identity_caution"":""Greek tradition contains more than one figure named Perses; do not merge by name alone.""}",2026-08-14T00:00:00Z,2026-08-14T00:00:00Z
-deity.greek.poseidon,Poseidon,波塞冬,Ποσειδῶν,,DEITY,civ.greek,,,,,PARTIAL,SOURCE_BACKED,1,{},2026-08-10T00:00:00Z,2026-08-10T00:00:00Z
-deity.greek.rhea,Rhea,瑞亚,Ῥέα,,DEITY,civ.greek,,,,,PARTIAL,SOURCE_BACKED,1,{},2026-08-10T00:00:00Z,2026-08-10T00:00:00Z
+deity.greek.persephone,Persephone,珀耳塞福涅,Περσεφόνη,Persephonē,DEITY,civ.greek,,region.europe,Archaic Greek textual tradition,《神谱》与《荷马颂歌·致得墨忒耳》中的得墨忒耳之女；冥界叙事按文本版本保存。 / Daughter of Demeter in the registered Theogony and Hymn to Demeter witnesses.,PARTIAL,SOURCE_BACKED,1,"{""scope_caution"":""abduction and return accounts are witness-specific""}",2026-08-14T00:00:00Z,2026-08-14T00:00:00Z
+deity.greek.perses,Perses,珀耳塞斯,Πέρσης,Pérsēs,DEITY,civ.greek,,,Archaic Greek textual tradition,Parent of Hecate with Asteria in Hesiod’s Theogony.,CONFLICT,CONFLICTING,1,"{""identity_caution"":""Greek tradition contains more than one figure named Perses; do not merge by name alone.""}",2026-08-14T00:00:00Z,2026-08-14T00:00:00Z
+deity.greek.poseidon,Poseidon,波塞冬,Ποσειδῶν,Poseidōn,DEITY,civ.greek,,,,"《神谱》家谱中的克洛诺斯与瑞亚之子；第22首《荷马颂歌》联系大地、海洋、马与船。 / Son of Cronus and Rhea; linked with earth, sea, horses and ships in Hymn 22.",PARTIAL,SOURCE_BACKED,2,{},2026-08-10T00:00:00Z,2026-08-14T00:00:00Z
+deity.greek.rhea,Rhea,瑞亚,Ῥέα,,DEITY,civ.greek,,,,,PARTIAL,SOURCE_BACKED,1,{},2026-08-10T00:00:00Z,2026-08-14T00:00:00Z
 deity.greek.selene,Selene,塞勒涅,Σελήνη,Selḗnē,DEITY,civ.greek,,,Archaic Greek textual tradition,"Lunar deity, child of Hyperion and Theia in Hesiod and subject of Homeric Hymn 32.",PARTIAL,SOURCE_BACKED,1,"{""identity_caution"":""Do not silently merge Selene with Artemis or other lunar figures.""}",2026-08-14T00:00:00Z,2026-08-14T00:00:00Z
+deity.greek.semele,Semele,塞墨勒,Σεμέλη,Semelē,DEITY,civ.greek,,region.europe,Archaic Greek textual tradition,狄俄倪索斯的凡人母亲之一种古代叙事见证。 / Mortal mother of Dionysus in the registered ancient witnesses.,PARTIAL,SOURCE_BACKED,1,"{""scope_caution"":""mythic genealogy, not historical biography""}",2026-08-14T00:00:00Z,2026-08-14T00:00:00Z
 deity.greek.thanatos,Thanatos,塔纳托斯,Θάνατος,Thánatos,DEITY,civ.greek,,,Archaic Greek textual tradition,Personified Death among the children of Nyx in Hesiod’s Theogony.,PARTIAL,SOURCE_BACKED,1,"{""layer_caution"":""Later literary and visual traditions require separate witness-level claims.""}",2026-08-14T00:00:00Z,2026-08-14T00:00:00Z
 deity.greek.theia,Theia,忒亚,Θεία,Theía,DEITY,civ.greek,,,Archaic Greek textual tradition,"Titan child of Gaia and Uranus and parent, with Hyperion, of Helios, Selene and Eos in Hesiod.",PARTIAL,SOURCE_BACKED,1,{},2026-08-14T00:00:00Z,2026-08-14T00:00:00Z
-deity.greek.uranus,Uranus,乌拉诺斯,Οὐρανός,,PRIMORDIAL_DEITY,civ.greek,,,,,PARTIAL,UNVERIFIED,1,{},2026-08-10T00:00:00Z,2026-08-10T00:00:00Z
-deity.greek.zeus,Zeus,宙斯,Ζεύς,,DEITY,civ.greek,,,,,PARTIAL,SOURCE_BACKED,1,{},2026-08-10T00:00:00Z,2026-08-10T00:00:00Z
+deity.greek.uranus,Uranus,乌拉诺斯,Οὐρανός,Ouranos,PRIMORDIAL_DEITY,civ.greek,,,,《神谱》中由盖亚生出的星空之天，并为泰坦谱系的父辈。 / Starry Heaven born from Gaia and parent in the Titan genealogy in the registered Hesiodic witness.,PARTIAL,SOURCE_BACKED,2,{},2026-08-10T00:00:00Z,2026-08-14T00:00:00Z
+deity.greek.zeus,Zeus,宙斯,Ζεύς,Zeus,DEITY,civ.greek,,,,希腊文本传统中的神王；当前页面分别连接雷霆、奥林匹亚、提丰之战和赫西俄德家谱证据。 / Divine ruler in registered Greek textual and cult evidence.,PARTIAL,SOURCE_BACKED,2,{},2026-08-10T00:00:00Z,2026-08-14T00:00:00Z
 deity.hawaiian.pele,Pele,佩蕾,Pele,,DEITY,civ.hawaiian,,,,,PARTIAL,UNVERIFIED,1,{},2026-08-10T00:00:00Z,2026-08-10T00:00:00Z
 deity.hindu.brahma,Brahma,梵天,ब्रह्मा,,DEITY,civ.hindu,,,,,PARTIAL,UNVERIFIED,1,{},2026-08-10T00:00:00Z,2026-08-10T00:00:00Z
 deity.hindu.shiva,Shiva,湿婆,शिव,,DEITY,civ.hindu,,,,,PARTIAL,UNVERIFIED,1,{},2026-08-10T00:00:00Z,2026-08-10T00:00:00Z
@@ -169,7 +174,7 @@ deity.mexica.quetzalcoatl,Quetzalcoatl,羽蛇神,Quetzalcōātl,,DEITY,civ.mexic
 deity.mexica.tezcatlipoca,Tezcatlipoca,特斯卡特利波卡,Tezcatlipōca,,DEITY,civ.mexica,,,,,PARTIAL,UNVERIFIED,1,{},2026-08-10T00:00:00Z,2026-08-10T00:00:00Z
 deity.mexica.tlaloc,Tlaloc,特拉洛克,Tlāloc,,DEITY,civ.mexica,,,,,PARTIAL,UNVERIFIED,1,{},2026-08-10T00:00:00Z,2026-08-10T00:00:00Z
 deity.norse.baldr,Baldr,巴德尔,Baldr,,DEITY,civ.norse,,,,,PARTIAL,UNVERIFIED,1,{},2026-08-10T00:00:00Z,2026-08-10T00:00:00Z
-deity.norse.borr,Borr,博尔,Borr,Borr,DEITY,civ.norse,,,Medieval Icelandic textual witness,"Son of Búri and father of Odin, Vili and Vé in Gylfaginning.",PARTIAL,PARTIAL,1,{},2026-08-11T03:05:26Z,2026-08-11T03:05:26Z
+deity.norse.borr,Borr,博尔,Borr,Borr,DEITY,civ.norse,,,Medieval Icelandic textual witness,"Son of Búri and father of Odin, Vili and Vé in Gylfaginning.",PARTIAL,SOURCE_BACKED,1,{},2026-08-11T03:05:26Z,2026-08-14T00:00:00Z
 deity.norse.buri,Búri,布里,Búri,Búri,ANCESTOR_DEITY,civ.norse,,,Medieval Icelandic textual witness,Ancestor licked free from rime by Auðhumla in Gylfaginning.,PARTIAL,PARTIAL,1,{},2026-08-11T03:05:26Z,2026-08-11T03:05:26Z
 deity.norse.freyja,Freyja,芙蕾雅,Freyja,,DEITY,civ.norse,,,,,PARTIAL,UNVERIFIED,1,{},2026-08-10T00:00:00Z,2026-08-10T00:00:00Z
 deity.norse.freyr,Freyr,弗雷,Freyr,,DEITY,civ.norse,,,,,PARTIAL,UNVERIFIED,1,{},2026-08-10T00:00:00Z,2026-08-10T00:00:00Z
@@ -178,27 +183,27 @@ deity.norse.heimdall,Heimdallr,海姆达尔,Heimdallr,,DEITY,civ.norse,,,,,PARTI
 deity.norse.hel,Hel,赫尔,Hel,,DEITY,civ.norse,,,,,PARTIAL,UNVERIFIED,1,{},2026-08-10T00:00:00Z,2026-08-10T00:00:00Z
 deity.norse.loki,Loki,洛基,Loki,,DEITY,civ.norse,,,,,PARTIAL,UNVERIFIED,1,{},2026-08-10T00:00:00Z,2026-08-10T00:00:00Z
 deity.norse.njord,Njörðr,尼奥尔德,Njǫrðr,,DEITY,civ.norse,,,,,PARTIAL,UNVERIFIED,1,{},2026-08-10T00:00:00Z,2026-08-10T00:00:00Z
-deity.norse.odin,Odin,奥丁,Óðinn,,DEITY,civ.norse,,,,,PARTIAL,SOURCE_BACKED,1,{},2026-08-10T00:00:00Z,2026-08-10T00:00:00Z
-deity.norse.thor,Thor,索尔／雷神托尔,Þórr,,DEITY,civ.norse,,,,,PARTIAL,SOURCE_BACKED,1,{},2026-08-10T00:00:00Z,2026-08-10T00:00:00Z
+deity.norse.odin,Odin,奥丁,Óðinn,,DEITY,civ.norse,,,,,PARTIAL,SOURCE_BACKED,1,{},2026-08-10T00:00:00Z,2026-08-14T00:00:00Z
+deity.norse.thor,Thor,索尔／雷神托尔,Þórr,,DEITY,civ.norse,,,,,PARTIAL,SOURCE_BACKED,1,{},2026-08-10T00:00:00Z,2026-08-14T00:00:00Z
 deity.norse.tyr,Týr,提尔,Týr,,DEITY,civ.norse,,,,,PARTIAL,UNVERIFIED,1,{},2026-08-10T00:00:00Z,2026-08-10T00:00:00Z
-deity.norse.ve,Vé,维,Vé,Vé,DEITY,civ.norse,,,Medieval Icelandic textual witness,Brother of Odin and Vili; participates in cosmogonic acts in Gylfaginning.,PARTIAL,PARTIAL,1,{},2026-08-11T03:05:26Z,2026-08-11T03:05:26Z
-deity.norse.vili,Vili,维利,Vili,Vili,DEITY,civ.norse,,,Medieval Icelandic textual witness,Brother of Odin and Vé; participates in cosmogonic acts in Gylfaginning.,PARTIAL,PARTIAL,1,{},2026-08-11T03:05:26Z,2026-08-11T03:05:26Z
+deity.norse.ve,Vé,维,Vé,Vé,DEITY,civ.norse,,,Medieval Icelandic textual witness,Brother of Odin and Vili; participates in cosmogonic acts in Gylfaginning.,PARTIAL,SOURCE_BACKED,1,{},2026-08-11T03:05:26Z,2026-08-14T00:00:00Z
+deity.norse.vili,Vili,维利,Vili,Vili,DEITY,civ.norse,,,Medieval Icelandic textual witness,Brother of Odin and Vé; participates in cosmogonic acts in Gylfaginning.,PARTIAL,SOURCE_BACKED,1,{},2026-08-11T03:05:26Z,2026-08-14T00:00:00Z
 deity.polynesian.tane,Tāne,塔内,Tāne,,DEITY,civ.polynesian,,,,,PARTIAL,UNVERIFIED,1,{},2026-08-10T00:00:00Z,2026-08-10T00:00:00Z
 deity.polynesian.tangaroa,Tangaroa,塔加罗阿,Tangaroa,,DEITY,civ.polynesian,,,,,PARTIAL,UNVERIFIED,1,{},2026-08-10T00:00:00Z,2026-08-10T00:00:00Z
 deity.slavic.mokosh,Mokosh,莫科什,Мокошь,,DEITY,civ.slavic,,,,,PARTIAL,UNVERIFIED,1,{},2026-08-10T00:00:00Z,2026-08-10T00:00:00Z
 deity.slavic.perun,Perun,佩伦,Перун,,DEITY,civ.slavic,,,,,PARTIAL,UNVERIFIED,1,{},2026-08-10T00:00:00Z,2026-08-10T00:00:00Z
 deity.slavic.veles,Veles,维列斯,Велес,,DEITY,civ.slavic,,,,,PARTIAL,UNVERIFIED,1,{},2026-08-10T00:00:00Z,2026-08-10T00:00:00Z
 deity.sumerian.an,An,安,𒀭,,DEITY,civ.sumerian,,,,,PARTIAL,UNVERIFIED,1,{},2026-08-10T00:00:00Z,2026-08-10T00:00:00Z
-deity.sumerian.enki,Enki,恩基,𒀭𒂗𒆠,,DEITY,civ.sumerian,,,,,PARTIAL,SOURCE_BACKED,1,{},2026-08-10T00:00:00Z,2026-08-10T00:00:00Z
-deity.sumerian.enlil,Enlil,恩利尔,𒀭𒂗𒆤,,DEITY,civ.sumerian,,,,,PARTIAL,SOURCE_BACKED,1,{},2026-08-10T00:00:00Z,2026-08-10T00:00:00Z
-deity.sumerian.ereshkigal,Ereshkigal,埃列什基伽勒,Ereškigal,,DEITY,civ.sumerian,,,,,PARTIAL,SOURCE_BACKED,1,{},2026-08-10T00:00:00Z,2026-08-10T00:00:00Z
-deity.sumerian.inanna,Inanna,伊南娜,Inana,,DEITY,civ.sumerian,,,,,PARTIAL,SOURCE_BACKED,1,{},2026-08-10T00:00:00Z,2026-08-10T00:00:00Z
+deity.sumerian.enki,Enki,恩基,𒀭𒂗𒆠,,DEITY,civ.sumerian,,,,,PARTIAL,SOURCE_BACKED,1,{},2026-08-10T00:00:00Z,2026-08-14T00:00:00Z
+deity.sumerian.enlil,Enlil,恩利尔,𒀭𒂗𒆤,,DEITY,civ.sumerian,,,,,PARTIAL,SOURCE_BACKED,1,{},2026-08-10T00:00:00Z,2026-08-14T00:00:00Z
+deity.sumerian.ereshkigal,Ereshkigal,埃列什基伽勒,Ereškigal,,DEITY,civ.sumerian,,,,,PARTIAL,SOURCE_BACKED,1,{},2026-08-10T00:00:00Z,2026-08-14T00:00:00Z
+deity.sumerian.inanna,Inanna,伊南娜,Inana,,DEITY,civ.sumerian,,,,,PARTIAL,SOURCE_BACKED,1,{},2026-08-10T00:00:00Z,2026-08-14T00:00:00Z
 deity.sumerian.nanna,Nanna,南纳,Nanna,,DEITY,civ.sumerian,,,,,PARTIAL,UNVERIFIED,1,{},2026-08-10T00:00:00Z,2026-08-10T00:00:00Z
 deity.sumerian.ninhursag,Ninhursag,宁胡尔萨格,Ninḫursaĝa,,DEITY,civ.sumerian,,,,,PARTIAL,UNVERIFIED,1,{},2026-08-10T00:00:00Z,2026-08-10T00:00:00Z
 deity.sumerian.utu,Utu,乌图,Utu,,DEITY,civ.sumerian,,,,,PARTIAL,UNVERIFIED,1,{},2026-08-10T00:00:00Z,2026-08-10T00:00:00Z
 deity.ugaritic.anat,Anat,阿娜特,ʿAnatu,,DEITY,civ.ugaritic,,,,,PARTIAL,UNVERIFIED,1,{},2026-08-10T00:00:00Z,2026-08-10T00:00:00Z
 deity.ugaritic.asherah,Athirat / Asherah,阿西拉特／亚舍拉,ʾAṯiratu,,DEITY,civ.ugaritic,,,,,PARTIAL,UNVERIFIED,1,{},2026-08-10T00:00:00Z,2026-08-10T00:00:00Z
-deity.ugaritic.baal,Baal of Ugarit,乌加里特巴力,Baʿlu,,DEITY,civ.ugaritic,,,,,PARTIAL,SOURCE_BACKED,1,{},2026-08-10T00:00:00Z,2026-08-10T00:00:00Z
+deity.ugaritic.baal,Baal of Ugarit,乌加里特巴力,Baʿlu,,DEITY,civ.ugaritic,,,,,PARTIAL,SOURCE_BACKED,1,{},2026-08-10T00:00:00Z,2026-08-14T00:00:00Z
 deity.ugaritic.el,El of Ugarit,乌加里特伊勒,Ilu,,DEITY,civ.ugaritic,,,,,PARTIAL,UNVERIFIED,1,{},2026-08-10T00:00:00Z,2026-08-10T00:00:00Z
 deity.ugaritic.mot,Mot,穆特,Môtu,,DEITY,civ.ugaritic,,,,,PARTIAL,UNVERIFIED,1,{},2026-08-10T00:00:00Z,2026-08-10T00:00:00Z
 deity.ugaritic.yam,Yam,雅姆,Yammu,,DEITY,civ.ugaritic,,,,,PARTIAL,UNVERIFIED,1,{},2026-08-10T00:00:00Z,2026-08-10T00:00:00Z
@@ -210,18 +215,19 @@ deity.yoruba.oshun,Oshun,奥舒恩,Ọ̀ṣun,,DEITY,civ.yoruba,,,,,PARTIAL,UNVE
 deity.yoruba.shango,Shango,尚戈,Ṣàngó,,DEITY,civ.yoruba,,,,,PARTIAL,UNVERIFIED,1,{},2026-08-10T00:00:00Z,2026-08-10T00:00:00Z
 deity.zoroastrian.ahura_mazda,Ahura Mazda,阿胡拉·马兹达,𐬨𐬀𐬰𐬛𐬁 𐬀𐬵𐬎𐬭𐬀,,DEITY,civ.zoroastrian,,,,,PARTIAL,UNVERIFIED,1,{},2026-08-10T00:00:00Z,2026-08-10T00:00:00Z
 deity.zoroastrian.mithra,Mithra,密特拉,Miθra,,DEITY,civ.zoroastrian,,,,,PARTIAL,UNVERIFIED,1,{},2026-08-10T00:00:00Z,2026-08-10T00:00:00Z
-element.chinese.huo,Huo (Wuxing),火（五行）,火,,ELEMENT,civ.chinese_ancient,,,,Fire as a native member of the wuxing system; Hong Fan describes it as blazing and rising.,PARTIAL,PARTIAL,2,"{""native_system"":""concept.chinese.wuxing"",""dedup_checkpoint"":""2026-08-11""}",2026-08-10T00:00:00Z,2026-08-11T03:22:00Z
-element.chinese.jin,Jin (Wuxing),金（五行）,金,,ELEMENT,civ.chinese_ancient,,,,Metal as a native member of the wuxing system; Hong Fan describes it through yielding and change.,PARTIAL,PARTIAL,2,"{""native_system"":""concept.chinese.wuxing"",""dedup_checkpoint"":""2026-08-11""}",2026-08-10T00:00:00Z,2026-08-11T03:22:00Z
-element.chinese.mu,Mu (Wuxing),木（五行）,木,,ELEMENT,civ.chinese_ancient,,,,Wood as a native member of the wuxing system; Hong Fan describes it through bending and straightening.,PARTIAL,PARTIAL,2,"{""native_system"":""concept.chinese.wuxing"",""dedup_checkpoint"":""2026-08-11""}",2026-08-10T00:00:00Z,2026-08-11T03:22:00Z
-element.chinese.shui,Shui (Wuxing),水（五行）,水,,ELEMENT,civ.chinese_ancient,,,,Water as a native member of the wuxing system; Hong Fan describes it as moistening and descending.,PARTIAL,PARTIAL,2,"{""native_system"":""concept.chinese.wuxing"",""dedup_checkpoint"":""2026-08-11""}",2026-08-10T00:00:00Z,2026-08-11T03:22:00Z
-element.chinese.tu,Tu (Wuxing),土（五行）,土,,ELEMENT,civ.chinese_ancient,,,,Earth/soil as a native member of the wuxing system; Hong Fan describes it through sowing and gathering.,PARTIAL,PARTIAL,2,"{""native_system"":""concept.chinese.wuxing"",""dedup_checkpoint"":""2026-08-11""}",2026-08-10T00:00:00Z,2026-08-11T03:22:00Z
-element.indian.agni,Agni,火,अग्नि,,ELEMENT,civ.hindu,,,,,PARTIAL,PARTIAL,1,{},2026-08-10T00:00:00Z,2026-08-10T00:00:00Z
-element.indian.akasha,Ākāśa,空／以太,आकाश,,ELEMENT,civ.hindu,,,,,PARTIAL,PARTIAL,1,{},2026-08-10T00:00:00Z,2026-08-10T00:00:00Z
-element.indian.ap,Āpas,水,आपस्,,ELEMENT,civ.hindu,,,,,PARTIAL,PARTIAL,1,{},2026-08-10T00:00:00Z,2026-08-10T00:00:00Z
-element.indian.prithvi,Pṛthvī,地,पृथ्वी,,ELEMENT,civ.hindu,,,,,PARTIAL,PARTIAL,1,{},2026-08-10T00:00:00Z,2026-08-10T00:00:00Z
-element.indian.vayu,Vāyu,风／气,वायु,,ELEMENT,civ.hindu,,,,,PARTIAL,PARTIAL,1,{},2026-08-10T00:00:00Z,2026-08-10T00:00:00Z
+element.chinese.huo,Huo (Wuxing),火（五行）,火,,ELEMENT,civ.chinese_ancient,,,,Fire as a native member of the wuxing system; Hong Fan describes it as blazing and rising.,PARTIAL,SOURCE_BACKED,2,"{""native_system"":""concept.chinese.wuxing"",""dedup_checkpoint"":""2026-08-11""}",2026-08-10T00:00:00Z,2026-08-14T00:00:00Z
+element.chinese.jin,Jin (Wuxing),金（五行）,金,,ELEMENT,civ.chinese_ancient,,,,Metal as a native member of the wuxing system; Hong Fan describes it through yielding and change.,PARTIAL,SOURCE_BACKED,2,"{""native_system"":""concept.chinese.wuxing"",""dedup_checkpoint"":""2026-08-11""}",2026-08-10T00:00:00Z,2026-08-14T00:00:00Z
+element.chinese.mu,Mu (Wuxing),木（五行）,木,,ELEMENT,civ.chinese_ancient,,,,Wood as a native member of the wuxing system; Hong Fan describes it through bending and straightening.,PARTIAL,SOURCE_BACKED,2,"{""native_system"":""concept.chinese.wuxing"",""dedup_checkpoint"":""2026-08-11""}",2026-08-10T00:00:00Z,2026-08-14T00:00:00Z
+element.chinese.shui,Shui (Wuxing),水（五行）,水,,ELEMENT,civ.chinese_ancient,,,,Water as a native member of the wuxing system; Hong Fan describes it as moistening and descending.,PARTIAL,SOURCE_BACKED,2,"{""native_system"":""concept.chinese.wuxing"",""dedup_checkpoint"":""2026-08-11""}",2026-08-10T00:00:00Z,2026-08-14T00:00:00Z
+element.chinese.tu,Tu (Wuxing),土（五行）,土,,ELEMENT,civ.chinese_ancient,,,,Earth/soil as a native member of the wuxing system; Hong Fan describes it through sowing and gathering.,PARTIAL,SOURCE_BACKED,2,"{""native_system"":""concept.chinese.wuxing"",""dedup_checkpoint"":""2026-08-11""}",2026-08-10T00:00:00Z,2026-08-14T00:00:00Z
+element.indian.agni,Agni,火,अग्नि,,ELEMENT,civ.hindu,,,,,PARTIAL,PARTIAL,1,{},2026-08-10T00:00:00Z,2026-08-14T00:00:00Z
+element.indian.akasha,Ākāśa,空／以太,आकाश,,ELEMENT,civ.hindu,,,,,PARTIAL,PARTIAL,1,{},2026-08-10T00:00:00Z,2026-08-14T00:00:00Z
+element.indian.ap,Āpas,水,आपस्,,ELEMENT,civ.hindu,,,,,PARTIAL,PARTIAL,1,{},2026-08-10T00:00:00Z,2026-08-14T00:00:00Z
+element.indian.prithvi,Pṛthvī,地,पृथ्वी,,ELEMENT,civ.hindu,,,,,PARTIAL,PARTIAL,1,{},2026-08-10T00:00:00Z,2026-08-14T00:00:00Z
+element.indian.vayu,Vāyu,风／气,वायु,,ELEMENT,civ.hindu,,,,,PARTIAL,PARTIAL,1,{},2026-08-10T00:00:00Z,2026-08-14T00:00:00Z
 event.babylonian.marduk_tiamat,Combat of Marduk and Tiamat,马尔杜克与提亚马特之战,,,EVENT,civ.babylonian,,,,,PARTIAL,UNVERIFIED,1,{},2026-08-10T00:00:00Z,2026-08-10T00:00:00Z
-event.greek.titanomachy,Titanomachy,泰坦战争,Τιτανομαχία,,EVENT,civ.greek,,,,,PARTIAL,UNVERIFIED,1,{},2026-08-10T00:00:00Z,2026-08-10T00:00:00Z
+event.greek.persephone_abduction,Abduction of Persephone,珀耳塞福涅被劫,ἁρπαγὴ Περσεφόνης,harpagē Persephonēs,EVENT,civ.greek,,region.europe,Archaic Greek textual tradition,《荷马颂歌·致得墨忒耳》所叙珀耳塞福涅被哈得斯劫往冥界、得墨忒耳寻找女儿的事件层。 / Hymnic event layer for Persephone’s abduction and Demeter’s search.,PARTIAL,SOURCE_BACKED,1,"{""reality_status"":""MYTHIC_NARRATIVE"",""witness"":""Homeric Hymn 2""}",2026-08-14T00:00:00Z,2026-08-14T00:00:00Z
+event.greek.titanomachy,Titanomachy,泰坦战争,Τιτανομαχία,,EVENT,civ.greek,,,,,PARTIAL,SOURCE_BACKED,1,{},2026-08-10T00:00:00Z,2026-08-14T00:00:00Z
 event.greek.zeus_typhon_battle,Battle of Zeus and Typhon,宙斯与提丰之战,,,EVENT,civ.greek,,,Mythic time,Combat narrated in Hesiod Theogony 820-868.,PARTIAL,PARTIAL,1,{},2026-08-11T03:05:26Z,2026-08-11T03:05:26Z
 event.norse.forging_divine_treasures,Forging of the divine treasures,诸神宝物锻造,,,EVENT,civ.norse,,,Mythic narrative preserved in medieval text,"Smithing contest that produces Gullinbursti, Draupnir and Mjölnir.",PARTIAL,PARTIAL,1,{},2026-08-11T03:05:26Z,2026-08-11T03:05:26Z
 event.norse.ragnarok,Ragnarök,诸神黄昏,Ragnarǫk,,EVENT,civ.norse,,,,,PARTIAL,UNVERIFIED,1,{},2026-08-10T00:00:00Z,2026-08-10T00:00:00Z
@@ -239,12 +245,12 @@ institution.british_museum,British Museum,大英博物馆,,,INSTITUTION,,,,,,PAR
 institution.louvre,Musée du Louvre,卢浮宫博物馆,,,INSTITUTION,,,,,,PARTIAL,UNVERIFIED,1,{},2026-08-10T00:00:00Z,2026-08-10T00:00:00Z
 institution.met,Metropolitan Museum of Art,大都会艺术博物馆,,,INSTITUTION,,,,,,PARTIAL,UNVERIFIED,1,{},2026-08-10T00:00:00Z,2026-08-10T00:00:00Z
 institution.swedish_history_museum,Swedish History Museum,瑞典历史博物馆,,,INSTITUTION,,,,,,PARTIAL,UNVERIFIED,1,{},2026-08-10T00:00:00Z,2026-08-10T00:00:00Z
-museum.babylon.flood_tablet_k3375,Flood Tablet K.3375,洪水泥板 K.3375,,,MUSEUM_OBJECT,civ.assyrian,,,,,PARTIAL,SOURCE_BACKED,1,{},2026-08-10T00:00:00Z,2026-08-10T00:00:00Z
-museum.egypt.papyrus_ani_frame3,"Papyrus of Ani, frame 3",阿尼纸草第3框,,,MUSEUM_OBJECT,civ.egyptian,,,,,PARTIAL,SOURCE_BACKED,1,{},2026-08-10T00:00:00Z,2026-08-10T00:00:00Z
-museum.greek.zeus_poseidon_met_21_88_52,Bronze statuette: Zeus or Poseidon,宙斯或波塞冬青铜像,,,MUSEUM_OBJECT,civ.greek,,,,,CONFLICT,CONFLICTING,1,{},2026-08-10T00:00:00Z,2026-08-10T00:00:00Z
-museum.norse.mjolnir_rings,Thor's hammer rings collection entry,雷神锤环形护符藏品组,,,MUSEUM_OBJECT,civ.norse,,,,,PARTIAL,SOURCE_BACKED,1,{},2026-08-10T00:00:00Z,2026-08-10T00:00:00Z
-museum.ugarit.baal_cycle_ao16643,Baal Cycle tablet AO 16643,巴力神话泥板 AO 16643,,,MUSEUM_OBJECT,civ.ugaritic,,,,,PARTIAL,SOURCE_BACKED,1,{},2026-08-10T00:00:00Z,2026-08-10T00:00:00Z
-museum.ugarit.baal_thunder_ao15775,Baal with Thunderbolt stele AO 15775,雷霆巴力石碑 AO 15775,,,MUSEUM_OBJECT,civ.ugaritic,,,,,PARTIAL,SOURCE_BACKED,1,{},2026-08-10T00:00:00Z,2026-08-10T00:00:00Z
+museum.babylon.flood_tablet_k3375,Flood Tablet K.3375,洪水泥板 K.3375,,,MUSEUM_OBJECT,civ.assyrian,,,,,PARTIAL,SOURCE_BACKED,1,{},2026-08-10T00:00:00Z,2026-08-14T00:00:00Z
+museum.egypt.papyrus_ani_frame3,"Papyrus of Ani, frame 3",阿尼纸草第3框,,,MUSEUM_OBJECT,civ.egyptian,,,,,PARTIAL,SOURCE_BACKED,1,{},2026-08-10T00:00:00Z,2026-08-14T00:00:00Z
+museum.greek.zeus_poseidon_met_21_88_52,Bronze statuette: Zeus or Poseidon,宙斯或波塞冬青铜像,,,MUSEUM_OBJECT,civ.greek,,,,,CONFLICT,CONFLICTING,1,{},2026-08-10T00:00:00Z,2026-08-14T00:00:00Z
+museum.norse.mjolnir_rings,Thor's hammer rings collection entry,雷神锤环形护符藏品组,,,MUSEUM_OBJECT,civ.norse,,,,,PARTIAL,SOURCE_BACKED,1,{},2026-08-10T00:00:00Z,2026-08-14T00:00:00Z
+museum.ugarit.baal_cycle_ao16643,Baal Cycle tablet AO 16643,巴力神话泥板 AO 16643,,,MUSEUM_OBJECT,civ.ugaritic,,,,,PARTIAL,SOURCE_BACKED,1,{},2026-08-10T00:00:00Z,2026-08-14T00:00:00Z
+museum.ugarit.baal_thunder_ao15775,Baal with Thunderbolt stele AO 15775,雷霆巴力石碑 AO 15775,,,MUSEUM_OBJECT,civ.ugaritic,,,,,PARTIAL,SOURCE_BACKED,1,{},2026-08-10T00:00:00Z,2026-08-14T00:00:00Z
 place.norse.mimisbrunnr,Mímisbrunnr,密米尔之泉,Mímisbrunnr,Mímisbrunnr,MYTHICAL_PLACE,civ.norse,,,Eddic and medieval Icelandic witnesses,Wisdom well beneath a root of Yggdrasil in Gylfaginning.,PARTIAL,PARTIAL,1,"{""reality_status"":""MYTHICAL""}",2026-08-11T03:05:26Z,2026-08-11T03:05:26Z
 realm.egypt.duat,Duat,杜阿特／埃及冥界,dwꜣt,,REALM,civ.egyptian,,,,,PARTIAL,UNVERIFIED,1,{},2026-08-10T00:00:00Z,2026-08-10T00:00:00Z
 realm.greek.tartarus,Tartarus,塔耳塔罗斯,Τάρταρος,Tartaros,REALM,civ.greek,,,Archaic Greek textual tradition,Mythic underworld depth and personified progenitor in some Greek genealogical passages.,PARTIAL,PARTIAL,1,"{""reality_status"":""MYTHICAL""}",2026-08-11T03:05:26Z,2026-08-11T03:05:26Z
@@ -297,7 +303,7 @@ site.iraq.nineveh,Nineveh,尼尼微,,,ARCHAEOLOGICAL_SITE,civ.assyrian,,,,,PARTI
 site.iraq.nippur,Nippur,尼普尔,,,ARCHAEOLOGICAL_SITE,civ.sumerian,,,,,PARTIAL,UNVERIFIED,1,{},2026-08-10T00:00:00Z,2026-08-10T00:00:00Z
 site.iraq.ur,Ur,乌尔,,,ARCHAEOLOGICAL_SITE,civ.sumerian,,,,,PARTIAL,UNVERIFIED,1,{},2026-08-10T00:00:00Z,2026-08-10T00:00:00Z
 site.iraq.uruk,Uruk,乌鲁克,,,ARCHAEOLOGICAL_SITE,civ.sumerian,,,,,PARTIAL,UNVERIFIED,1,{},2026-08-10T00:00:00Z,2026-08-10T00:00:00Z
-site.ireland.newgrange,Newgrange,纽格莱奇,,,TOMB,,,,,,PARTIAL,SOURCE_BACKED,1,{},2026-08-10T00:00:00Z,2026-08-10T00:00:00Z
+site.ireland.newgrange,Newgrange,纽格莱奇,,,TOMB,,,,,,PARTIAL,SOURCE_BACKED,1,{},2026-08-10T00:00:00Z,2026-08-14T00:00:00Z
 site.italy.pompeii,Pompeii,庞贝,,,ARCHAEOLOGICAL_SITE,civ.roman,,,,,PARTIAL,UNVERIFIED,1,{},2026-08-10T00:00:00Z,2026-08-10T00:00:00Z
 site.italy.rome,Ancient Rome,古罗马,,,ARCHAEOLOGICAL_SITE,civ.roman,,,,,PARTIAL,UNVERIFIED,1,{},2026-08-10T00:00:00Z,2026-08-10T00:00:00Z
 site.japan.shrines_scope,Major Japanese shrines research scope,日本主要神社研究入口,,,TEMPLE,civ.japanese_shinto,,,,,PARTIAL,UNVERIFIED,1,{},2026-08-10T00:00:00Z,2026-08-10T00:00:00Z
@@ -305,7 +311,7 @@ site.mexico.chichen_itza,Chichen-Itza,奇琴伊察,,,ARCHAEOLOGICAL_SITE,civ.may
 site.mexico.monte_alban,Monte Albán,蒙特阿尔班,,,ARCHAEOLOGICAL_SITE,civ.zapotec,,,,,PARTIAL,UNVERIFIED,1,{},2026-08-10T00:00:00Z,2026-08-10T00:00:00Z
 site.mexico.palenque,Palenque,帕伦克,,,ARCHAEOLOGICAL_SITE,civ.maya,,,,,PARTIAL,UNVERIFIED,1,{},2026-08-10T00:00:00Z,2026-08-10T00:00:00Z
 site.mexico.tenochtitlan,Tenochtitlan,特诺奇蒂特兰,,,ARCHAEOLOGICAL_SITE,civ.mexica,,,,,PARTIAL,UNVERIFIED,1,{},2026-08-10T00:00:00Z,2026-08-10T00:00:00Z
-site.mexico.teotihuacan,Teotihuacan,特奥蒂瓦坎,,,ARCHAEOLOGICAL_SITE,,,,,,PARTIAL,SOURCE_BACKED,1,{},2026-08-10T00:00:00Z,2026-08-10T00:00:00Z
+site.mexico.teotihuacan,Teotihuacan,特奥蒂瓦坎,,,ARCHAEOLOGICAL_SITE,,,,,,PARTIAL,SOURCE_BACKED,1,{},2026-08-10T00:00:00Z,2026-08-14T00:00:00Z
 site.micronesia.nan_madol,Nan Madol,南马都尔,,,ARCHAEOLOGICAL_SITE,civ.micronesian,,,,,PARTIAL,UNVERIFIED,1,{},2026-08-10T00:00:00Z,2026-08-10T00:00:00Z
 site.nigeria.benin_city,Benin City historical sites,贝宁城历史遗址,,,ARCHAEOLOGICAL_SITE,,,,,,PARTIAL,UNVERIFIED,1,{},2026-08-10T00:00:00Z,2026-08-10T00:00:00Z
 site.nigeria.ife,Ile-Ife,伊莱-伊费,,,ARCHAEOLOGICAL_SITE,civ.yoruba,,,,,PARTIAL,UNVERIFIED,1,{},2026-08-10T00:00:00Z,2026-08-10T00:00:00Z
@@ -360,9 +366,18 @@ text.egypt.pyramid_texts,Pyramid Texts,金字塔铭文,,,INSCRIPTION,civ.egyptia
 text.egypt.temple_tomb_inscriptions,Egyptian temple and tomb inscriptions,埃及神庙与墓葬铭文总集入口,,,INSCRIPTION,civ.egyptian,,,,,PARTIAL,UNVERIFIED,1,{},2026-08-10T00:00:00Z,2026-08-10T00:00:00Z
 text.greek.argonautica,Argonautica,阿尔戈英雄纪,Ἀργοναυτικά,,EPIC,civ.greek,,,,,PARTIAL,UNVERIFIED,1,{},2026-08-10T00:00:00Z,2026-08-10T00:00:00Z
 text.greek.bibliotheca,Bibliotheca,书库（希腊神话汇编）,Βιβλιοθήκη,,TEXT,civ.greek,,,,,PARTIAL,UNVERIFIED,1,{},2026-08-10T00:00:00Z,2026-08-10T00:00:00Z
+text.greek.homeric_hymn_aphrodite_5,Homeric Hymn 5 to Aphrodite,《荷马颂歌·致阿佛洛狄忒》（第5首）,Εἰς Ἀφροδίτην,Eis Aphroditēn,TEXT,civ.greek,,region.europe,Archaic Greek poetic tradition,阿佛洛狄忒影响众神与生灵、以及例外范围的古代文本见证。 / Ancient witness for Aphrodite’s influence and its stated exceptions.,PARTIAL,SOURCE_BACKED,1,{},2026-08-14T00:00:00Z,2026-08-14T00:00:00Z
+text.greek.homeric_hymn_apollo_3,Homeric Hymn 3 to Apollo,《荷马颂歌·致阿波罗》（第3首）,Εἰς Ἀπόλλωνα,Eis Apollōna,TEXT,civ.greek,,region.europe,Archaic Greek poetic tradition,"阿波罗的提洛岛诞生、弓、琴与神谕中心的主要古代文本见证。 / Major ancient witness for Apollo’s Delian birth, bow, lyre and oracle.",PARTIAL,SOURCE_BACKED,1,{},2026-08-14T00:00:00Z,2026-08-14T00:00:00Z
+text.greek.homeric_hymn_ares_8,Homeric Hymn 8 to Ares,《荷马颂歌·致阿瑞斯》（第8首）,Εἰς Ἄρην,Eis Arēn,TEXT,civ.greek,,region.europe,Ancient Greek hymn tradition,阿瑞斯的武力称号与克制、和平祈愿并见的短颂歌。 / Short hymn combining martial titles with a prayer for restraint and peace.,PARTIAL,SOURCE_BACKED,1,{},2026-08-14T00:00:00Z,2026-08-14T00:00:00Z
+text.greek.homeric_hymn_artemis_27,Homeric Hymn 27 to Artemis,《荷马颂歌·致阿耳忒弥斯》（第27首）,Εἰς Ἄρτεμιν,Eis Artemin,TEXT,civ.greek,,region.europe,Ancient Greek hymn tradition,"阿耳忒弥斯的弓箭、猎犬、鹿与阿波罗关系的颂歌见证。 / Hymnic witness for Artemis’s archery, hounds, deer and relation to Apollo.",PARTIAL,SOURCE_BACKED,1,{},2026-08-14T00:00:00Z,2026-08-14T00:00:00Z
+text.greek.homeric_hymn_athena_28,Homeric Hymn 28 to Athena,《荷马颂歌·致雅典娜》（第28首）,Εἰς Ἀθηνᾶν,Eis Athēnan,TEXT,civ.greek,,region.europe,Ancient Greek hymn tradition,雅典娜从宙斯头部出生并披挂武装的颂歌见证。 / Hymnic witness for Athena’s birth from Zeus’s head and martial equipment.,PARTIAL,SOURCE_BACKED,1,{},2026-08-14T00:00:00Z,2026-08-14T00:00:00Z
 text.greek.homeric_hymn_demeter,Homeric Hymn 2 to Demeter,《荷马颂歌·致得墨忒耳》,,,TEXT,civ.greek,,,Archaic Greek poetic tradition,Long Homeric Hymn to Demeter; v0.4 registers the Hecate and Helios passages at lines 25-62.,PARTIAL,PARTIAL,1,"{""work_number"":2,""part_of"":""text.greek.homeric_hymns""}",2026-08-14T00:00:00Z,2026-08-14T00:00:00Z
+text.greek.homeric_hymn_dionysus_7,Homeric Hymn 7 to Dionysus,《荷马颂歌·致狄俄倪索斯》（第7首）,Εἰς Διόνυσον,Eis Dionyson,TEXT,civ.greek,,region.europe,Archaic Greek poetic tradition,狄俄倪索斯与海盗故事的古代文本见证。 / Ancient witness for Dionysus and the pirate episode.,PARTIAL,SOURCE_BACKED,1,{},2026-08-14T00:00:00Z,2026-08-14T00:00:00Z
 text.greek.homeric_hymn_helios_31,Homeric Hymn 31 to Helios,《荷马颂歌·致赫利俄斯》（第31首）,,,TEXT,civ.greek,,,Archaic Greek poetic tradition,"Hymn to Helios describing his genealogy, radiance and chariot.",PARTIAL,PARTIAL,1,"{""work_number"":31,""part_of"":""text.greek.homeric_hymns""}",2026-08-14T00:00:00Z,2026-08-14T00:00:00Z
+text.greek.homeric_hymn_hephaestus_20,Homeric Hymn 20 to Hephaestus,《荷马颂歌·致赫淮斯托斯》（第20首）,Εἰς Ἥφαιστον,Eis Hēphaiston,TEXT,civ.greek,,region.europe,Ancient Greek hymn tradition,"赫淮斯托斯、雅典娜与工艺教导的短颂歌见证。 / Short hymnic witness for Hephaestus, Athena and craft instruction.",PARTIAL,SOURCE_BACKED,1,{},2026-08-14T00:00:00Z,2026-08-14T00:00:00Z
+text.greek.homeric_hymn_hermes_4,Homeric Hymn 4 to Hermes,《荷马颂歌·致赫尔墨斯》（第4首）,Εἰς Ἑρμῆν,Eis Hermēn,TEXT,civ.greek,,region.europe,Archaic Greek poetic tradition,"赫尔墨斯诞生、制琴、盗牛与神使身份的古代文本见证。 / Ancient witness for Hermes’s birth, lyre-making, cattle theft and messenger role.",PARTIAL,SOURCE_BACKED,1,{},2026-08-14T00:00:00Z,2026-08-14T00:00:00Z
 text.greek.homeric_hymn_hestia_29,Homeric Hymn 29 to Hestia,《荷马颂歌·致赫斯提亚》（第29首）,,,TEXT,civ.greek,,,Archaic Greek poetic tradition,Fourteen-line hymn honoring Hestia and Hermes; individual composition dating remains under review.,PARTIAL,PARTIAL,1,"{""work_number"":29,""part_of"":""text.greek.homeric_hymns""}",2026-08-14T00:00:00Z,2026-08-14T00:00:00Z
+text.greek.homeric_hymn_poseidon_22,Homeric Hymn 22 to Poseidon,《荷马颂歌·致波塞冬》（第22首）,Εἰς Ποσειδῶνα,Eis Poseidōna,TEXT,civ.greek,,region.europe,Ancient Greek hymn tradition,"波塞冬与大地、海洋、马匹和船只的短颂歌见证。 / Short hymnic witness linking Poseidon with earth, sea, horses and ships.",PARTIAL,SOURCE_BACKED,1,{},2026-08-14T00:00:00Z,2026-08-14T00:00:00Z
 text.greek.homeric_hymn_selene_32,Homeric Hymn 32 to Selene,《荷马颂歌·致塞勒涅》（第32首）,,,TEXT,civ.greek,,,Archaic Greek poetic tradition,"Twenty-line hymn to Selene describing her radiance, horses and monthly sign.",PARTIAL,PARTIAL,1,"{""work_number"":32,""part_of"":""text.greek.homeric_hymns""}",2026-08-14T00:00:00Z,2026-08-14T00:00:00Z
 text.greek.homeric_hymns,Homeric Hymns,荷马赞歌,Ὁμηρικοὶ ὕμνοι,,TEXT,civ.greek,,,,,PARTIAL,UNVERIFIED,1,{},2026-08-10T00:00:00Z,2026-08-10T00:00:00Z
 text.greek.iliad,Iliad,伊利亚特,Ἰλιάς,,EPIC,civ.greek,,,,,PARTIAL,UNVERIFIED,1,{},2026-08-10T00:00:00Z,2026-08-10T00:00:00Z
@@ -384,9 +399,9 @@ text.japanese.fudoki,Fudoki,风土记,風土記,,TEXT,civ.japanese_shinto,,,,,PA
 text.japanese.kojiki,Kojiki,古事记,古事記,,TEXT,civ.japanese_shinto,,,,,PARTIAL,UNVERIFIED,1,{},2026-08-10T00:00:00Z,2026-08-10T00:00:00Z
 text.japanese.local_legends,Japanese local legends,日本地方传说资料入口,,,ORAL_TRADITION,civ.japanese_shinto,,,,,PARTIAL,UNVERIFIED,1,{},2026-08-10T00:00:00Z,2026-08-10T00:00:00Z
 text.japanese.manyoshu,Man'yōshū mythic materials,万叶集相关神话材料,万葉集,,TEXT,civ.japanese_shinto,,,,,PARTIAL,UNVERIFIED,1,{},2026-08-10T00:00:00Z,2026-08-10T00:00:00Z
-text.japanese.nihon_shoki,Nihon Shoki,日本书纪,日本書紀,,TEXT,civ.japanese_shinto,,,,,PARTIAL,SOURCE_BACKED,1,{},2026-08-10T00:00:00Z,2026-08-10T00:00:00Z
+text.japanese.nihon_shoki,Nihon Shoki,日本书纪,日本書紀,,TEXT,civ.japanese_shinto,,,,,PARTIAL,SOURCE_BACKED,1,{},2026-08-10T00:00:00Z,2026-08-14T00:00:00Z
 text.japanese.shrine_engisho,Shrine origin narratives,神社缘起,神社縁起,,TEXT,civ.japanese_shinto,,,,,PARTIAL,UNVERIFIED,1,{},2026-08-10T00:00:00Z,2026-08-10T00:00:00Z
-text.kiche.popol_vuh,Popol Vuh,波波尔·乌／群书,,,MANUSCRIPT,civ.maya,,,,,PARTIAL,SOURCE_BACKED,1,{},2026-08-10T00:00:00Z,2026-08-10T00:00:00Z
+text.kiche.popol_vuh,Popol Vuh,波波尔·乌／群书,,,MANUSCRIPT,civ.maya,,,,,PARTIAL,SOURCE_BACKED,1,{},2026-08-10T00:00:00Z,2026-08-14T00:00:00Z
 text.maori.creation_traditions,Māori creation traditions,毛利创世传统,,,ORAL_TRADITION,civ.maori,,,,,PARTIAL,UNVERIFIED,1,{},2026-08-10T00:00:00Z,2026-08-10T00:00:00Z
 text.maya.dresden_codex,Dresden Maya Codex,德累斯顿玛雅手抄本,,,MANUSCRIPT,civ.maya,,,,,PARTIAL,UNVERIFIED,1,{},2026-08-10T00:00:00Z,2026-08-10T00:00:00Z
 text.maya.madrid_codex,Madrid Maya Codex,马德里玛雅手抄本,,,MANUSCRIPT,civ.maya,,,,,PARTIAL,UNVERIFIED,1,{},2026-08-10T00:00:00Z,2026-08-10T00:00:00Z
@@ -394,7 +409,7 @@ text.maya.paris_codex,Paris Maya Codex,巴黎玛雅手抄本,,,MANUSCRIPT,civ.ma
 text.mesoamerica.codex_borgia,Codex Borgia,博尔贾手抄本,,,MANUSCRIPT,civ.mesoamerican,,,,,PARTIAL,UNVERIFIED,1,{},2026-08-10T00:00:00Z,2026-08-10T00:00:00Z
 text.mesopotamia.gilgamesh,Epic of Gilgamesh,吉尔伽美什史诗,,,EPIC,civ.babylonian,,,,,PARTIAL,UNVERIFIED,1,{},2026-08-10T00:00:00Z,2026-08-10T00:00:00Z
 text.mexica.codex_mendoza,Codex Mendoza,门多萨手抄本,,,MANUSCRIPT,civ.mexica,,,,,PARTIAL,UNVERIFIED,1,{},2026-08-10T00:00:00Z,2026-08-10T00:00:00Z
-text.mexica.florentine_codex,Florentine Codex,佛罗伦萨手抄本,,,MANUSCRIPT,civ.mexica,,,,,PARTIAL,SOURCE_BACKED,1,{},2026-08-10T00:00:00Z,2026-08-10T00:00:00Z
+text.mexica.florentine_codex,Florentine Codex,佛罗伦萨手抄本,,,MANUSCRIPT,civ.mexica,,,,,PARTIAL,SOURCE_BACKED,1,{},2026-08-10T00:00:00Z,2026-08-14T00:00:00Z
 text.mongol.epics,Mongol epics and oral traditions,蒙古史诗与口述传统入口,,,ORAL_TRADITION,civ.mongol,,,,,PARTIAL,UNVERIFIED,1,{},2026-08-10T00:00:00Z,2026-08-10T00:00:00Z
 text.norse.grimnismal,Grímnismál,格里姆尼尔之歌,Grímnismál,,TEXT,civ.norse,,,,,PARTIAL,UNVERIFIED,1,{},2026-08-10T00:00:00Z,2026-08-10T00:00:00Z
 text.norse.gylfaginning,Gylfaginning,欺骗古鲁菲,Gylfaginning,,TEXT,civ.norse,,,,,PARTIAL,UNVERIFIED,1,{},2026-08-10T00:00:00Z,2026-08-10T00:00:00Z
@@ -424,7 +439,7 @@ text.vedic.brahmanas,Brahmanas,梵书,ब्राह्मण,,SCRIPTURE,civ.ve
 text.vedic.rigveda,Rigveda,梨俱吠陀,ऋग्वेद,,SCRIPTURE,civ.vedic,,,,,PARTIAL,UNVERIFIED,1,{},2026-08-10T00:00:00Z,2026-08-10T00:00:00Z
 text.vedic.samaveda,Samaveda,娑摩吠陀,सामवेद,,SCRIPTURE,civ.vedic,,,,,PARTIAL,UNVERIFIED,1,{},2026-08-10T00:00:00Z,2026-08-10T00:00:00Z
 text.vedic.yajurveda,Yajurveda,夜柔吠陀,यजुर्वेद,,SCRIPTURE,civ.vedic,,,,,PARTIAL,UNVERIFIED,1,{},2026-08-10T00:00:00Z,2026-08-10T00:00:00Z
-text.yoruba.ifa_corpus,Ifá corpus,Ifá 语料传统,,,ORAL_TRADITION,civ.ifa,,,,,PARTIAL,SOURCE_BACKED,1,{},2026-08-10T00:00:00Z,2026-08-10T00:00:00Z
+text.yoruba.ifa_corpus,Ifá corpus,Ifá 语料传统,,,ORAL_TRADITION,civ.ifa,,,,,PARTIAL,SOURCE_BACKED,1,{},2026-08-10T00:00:00Z,2026-08-14T00:00:00Z
 text.zoroastrian.avesta,Avesta,阿维斯陀,Avesta,,SCRIPTURE,civ.zoroastrian,,,,,PARTIAL,UNVERIFIED,1,{},2026-08-10T00:00:00Z,2026-08-10T00:00:00Z
 text.zoroastrian.bundahishn,Bundahišn,创世原本,Bundahišn,,TEXT,civ.zoroastrian,,,,,PARTIAL,UNVERIFIED,1,{},2026-08-10T00:00:00Z,2026-08-10T00:00:00Z
 text.zoroastrian.denkard,Dēnkard,宗教行传,Dēnkard,,TEXT,civ.zoroastrian,,,,,PARTIAL,UNVERIFIED,1,{},2026-08-10T00:00:00Z,2026-08-10T00:00:00Z
@@ -432,8 +447,8 @@ weapon.arthurian.excalibur,Excalibur,王者之剑／誓约胜利之剑,Excalibur
 weapon.babylonian.marduk_bow,Bow of Marduk,马尔杜克之弓,,,WEAPON,civ.babylonian,,,,,PARTIAL,UNVERIFIED,1,{},2026-08-10T00:00:00Z,2026-08-10T00:00:00Z
 weapon.chinese.ruyi_jingu_bang,Ruyi Jingu Bang,如意金箍棒,如意金箍棒,,WEAPON,civ.chinese_folk,,,,,PARTIAL,UNVERIFIED,1,{},2026-08-10T00:00:00Z,2026-08-10T00:00:00Z
 weapon.chinese.xuanyuan_sword,Xuanyuan Sword tradition,轩辕剑相关传统,軒轅劍,,WEAPON,civ.chinese_folk,,,,,NEEDS_REVIEW,UNVERIFIED,1,{},2026-08-10T00:00:00Z,2026-08-10T00:00:00Z
-weapon.greek.apollo_bow,Bow of Apollo,阿波罗之弓,,,WEAPON,civ.greek,,,,,PARTIAL,UNVERIFIED,1,{},2026-08-10T00:00:00Z,2026-08-10T00:00:00Z
-weapon.greek.artemis_bow,Bow of Artemis,阿耳忒弥斯之弓,,,WEAPON,civ.greek,,,,,PARTIAL,UNVERIFIED,1,{},2026-08-10T00:00:00Z,2026-08-10T00:00:00Z
+weapon.greek.apollo_bow,Bow of Apollo,阿波罗之弓,,,WEAPON,civ.greek,,,,,PARTIAL,SOURCE_BACKED,1,{},2026-08-10T00:00:00Z,2026-08-14T00:00:00Z
+weapon.greek.artemis_bow,Bow of Artemis,阿耳忒弥斯之弓,,,WEAPON,civ.greek,,,,,PARTIAL,SOURCE_BACKED,1,{},2026-08-10T00:00:00Z,2026-08-14T00:00:00Z
 weapon.greek.poseidon_trident,Trident of Poseidon,波塞冬三叉戟,τρίαινα,,WEAPON,civ.greek,,,,,PARTIAL,UNVERIFIED,1,{},2026-08-10T00:00:00Z,2026-08-10T00:00:00Z
 weapon.greek.zeus_thunderbolt,Thunderbolt of Zeus,宙斯雷霆,κεραυνός,,WEAPON,civ.greek,,,,,PARTIAL,UNVERIFIED,1,{},2026-08-10T00:00:00Z,2026-08-10T00:00:00Z
 weapon.hindu.pashupatastra,Pashupatastra,兽主神兵,पाशुपतास्त्र,,WEAPON,civ.hindu,,,,,PARTIAL,UNVERIFIED,1,{},2026-08-10T00:00:00Z,2026-08-10T00:00:00Z

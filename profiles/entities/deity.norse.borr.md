@@ -6,7 +6,7 @@
 - 原文名: Borr
 - 转写: Borr
 - 研究状态: `PARTIAL`
-- 证据状态: `PARTIAL`
+- 证据状态: `SOURCE_BACKED`
 
 ## 概要
 

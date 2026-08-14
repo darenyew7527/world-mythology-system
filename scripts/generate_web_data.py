@@ -32,6 +32,16 @@ def _clean(value: Any) -> Any:
     return value
 
 
+def _json_value(value: Any, fallback: Any) -> Any:
+    """Decode profile JSON without letting one legacy value break the site build."""
+    if value is None:
+        return fallback
+    try:
+        return json.loads(value)
+    except (TypeError, json.JSONDecodeError):
+        return fallback
+
+
 def build_snapshot(database_path: Path) -> dict[str, Any]:
     connection = sqlite3.connect(database_path)
     connection.row_factory = sqlite3.Row
@@ -90,6 +100,129 @@ def build_snapshot(database_path: Path) -> dict[str, Any]:
         entity_id = redirects.get(row["entity_id"], row["entity_id"])
         if entity_id in canonical_ids and row["type_code"] not in classifications[entity_id]:
             classifications[entity_id].append(row["type_code"])
+
+    profiles: dict[str, list[dict[str, Any]]] = defaultdict(list)
+    for row in _rows(connection, "SELECT * FROM deity_profiles ORDER BY entity_id"):
+        profiles[row["entity_id"]].append(
+            {
+                "kind": "DEITY",
+                "deityClass": _clean(row["deity_class"]),
+                "pantheonOrFamily": _clean(row["pantheon_or_family"]),
+                "rankOrStatus": _clean(row["rank_or_status"]),
+                "domains": _json_value(row["domains_json"], []),
+                "powers": _json_value(row["powers_json"], []),
+                "limitations": _json_value(row["limitations_json"], []),
+                "appearance": _json_value(row["appearance_json"], {}),
+                "symbols": _json_value(row["symbols_json"], []),
+                "cultSummary": _clean(row["cult_summary"]),
+                "finalFateSummary": _clean(row["final_fate_summary"]),
+            }
+        )
+    for row in _rows(connection, "SELECT * FROM artifact_profiles ORDER BY entity_id"):
+        profiles[row["entity_id"]].append(
+            {
+                "kind": "ARTIFACT",
+                "artifactType": _clean(row["artifact_type"]),
+                "materials": _json_value(row["material_json"], []),
+                "appearance": _json_value(row["appearance_json"], {}),
+                "abilities": _json_value(row["abilities_json"], []),
+                "limitations": _json_value(row["limitations_json"], []),
+                "usageConditions": _json_value(row["usage_conditions_json"], []),
+                "creationSummary": _clean(row["creation_summary"]),
+                "fateSummary": _clean(row["fate_summary"]),
+            }
+        )
+    for row in _rows(connection, "SELECT * FROM creature_profiles ORDER BY entity_id"):
+        profiles[row["entity_id"]].append(
+            {
+                "kind": "CREATURE",
+                "creatureClass": _clean(row["creature_class"]),
+                "appearance": _json_value(row["appearance_json"], {}),
+                "abilities": _json_value(row["abilities_json"], []),
+                "weaknesses": _json_value(row["weaknesses_json"], []),
+                "habitatSummary": _clean(row["habitat_summary"]),
+                "originSummary": _clean(row["origin_summary"]),
+                "fateSummary": _clean(row["fate_summary"]),
+            }
+        )
+    for row in _rows(connection, "SELECT * FROM text_profiles ORDER BY entity_id"):
+        profiles[row["entity_id"]].append(
+            {
+                "kind": "TEXT",
+                "textType": _clean(row["text_type"]),
+                "attributedAuthor": _clean(row["attributed_author"]),
+                "compiler": _clean(row["compiler"]),
+                "compositionPeriod": _clean(row["composition_period"]),
+                "earliestExtantWitness": _clean(row["earliest_extant_witness"]),
+                "chapterStructure": _clean(row["chapter_structure"]),
+                "repository": _clean(row["repository"]),
+                "shelfmark": _clean(row["shelfmark"]),
+                "copyrightStatus": _clean(row["copyright_status"]),
+                "summary": _clean(row["summary"]),
+            }
+        )
+    for row in _rows(connection, "SELECT * FROM place_profiles ORDER BY entity_id"):
+        profiles[row["entity_id"]].append(
+            {
+                "kind": "PLACE",
+                "placeType": _clean(row["place_type"]),
+                "ancientName": _clean(row["ancient_name"]),
+                "modernName": _clean(row["modern_name"]),
+                "countryCode": _clean(row["country_code"]),
+                "latitude": row["latitude"],
+                "longitude": row["longitude"],
+                "dateRange": _clean(row["date_range"]),
+                "builders": _clean(row["builders"]),
+                "architectureSummary": _clean(row["architecture_summary"]),
+                "excavationSummary": _clean(row["excavation_summary"]),
+                "majorFindsSummary": _clean(row["major_finds_summary"]),
+                "unescoStatus": _clean(row["unesco_status"]),
+                "realityStatus": _clean(row["reality_status"]),
+                "evidenceGrade": _clean(row["evidence_grade"]),
+            }
+        )
+    for row in _rows(connection, "SELECT * FROM myth_event_profiles ORDER BY entity_id"):
+        profiles[row["entity_id"]].append(
+            {
+                "kind": "EVENT",
+                "eventType": _clean(row["event_type"]),
+                "timeLayer": _clean(row["time_layer"]),
+                "causeSummary": _clean(row["cause_summary"]),
+                "processSummary": _clean(row["process_summary"]),
+                "resultSummary": _clean(row["result_summary"]),
+                "symbolismSummary": _clean(row["symbolism_summary"]),
+            }
+        )
+
+    conflicts_by_entity: dict[str, list[dict[str, Any]]] = defaultdict(list)
+    for row in _rows(
+        connection,
+        """
+        SELECT f.id, f.subject_id, f.variant_group, f.conflict_type, f.status,
+               f.summary, f.resolution_notes,
+               f.claim_a_id, a.statement AS claim_a_statement,
+               f.claim_b_id, b.statement AS claim_b_statement
+        FROM conflicts f
+        LEFT JOIN claims a ON a.id=f.claim_a_id
+        LEFT JOIN claims b ON b.id=f.claim_b_id
+        ORDER BY f.subject_id, f.id
+        """,
+    ):
+        if row["subject_id"]:
+            conflicts_by_entity[row["subject_id"]].append(
+                {
+                    "id": row["id"],
+                    "variantGroup": _clean(row["variant_group"]),
+                    "conflictType": _clean(row["conflict_type"]),
+                    "status": _clean(row["status"]),
+                    "summary": _clean(row["summary"]),
+                    "resolutionNotes": _clean(row["resolution_notes"]),
+                    "claimAId": _clean(row["claim_a_id"]),
+                    "claimAStatement": _clean(row["claim_a_statement"]),
+                    "claimBId": _clean(row["claim_b_id"]),
+                    "claimBStatement": _clean(row["claim_b_statement"]),
+                }
+            )
 
     claim_lookup = {
         row["id"]: row
@@ -276,6 +409,8 @@ def build_snapshot(database_path: Path) -> dict[str, Any]:
                 "researchStatus": row["research_status"],
                 "evidenceStatus": row["evidence_status"],
                 "aliases": aliases.get(row["id"], []),
+                "profiles": profiles.get(row["id"], []),
+                "conflicts": conflicts_by_entity.get(row["id"], []),
                 "relationships": relationship_map.get(row["id"], []),
                 "claims": claims_by_entity.get(row["id"], []),
             }
@@ -338,7 +473,7 @@ def build_snapshot(database_path: Path) -> dict[str, Any]:
 
     snapshot = {
         "meta": {
-            "projectVersion": "0.4.0-greek-genealogy",
+            "projectVersion": "0.5.0-greek-primary-profiles",
             "datasetRelease": release,
             "generatedFrom": "database/world_mythology.sqlite",
             "completionClaim": (

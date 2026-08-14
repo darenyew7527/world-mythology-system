@@ -1,5 +1,15 @@
 # 更新日志 / Changelog
 
+## v0.5.0-greek-primary-profiles — 2026-08-14
+
+- 为 Zeus、Hera、Poseidon、Hades、Athena、Apollo、Artemis、Hermes、Ares、Aphrodite、Hephaestus、Demeter、Dionysus 及 Gaia、Uranus 补齐原文名、双语摘要和证据范围明确的结构化档案。
+- 新增 Leto、Maia、Semele、Dione、Persephone 五个家谱实体，以及珀耳塞福涅被劫事件；补充 Titanomachy 的事件过程与参与者。
+- 将《荷马颂歌》第 3、4、5、7、8、20、22、27、28 首登记为独立文本与独立来源，所有新来源保持诚实的 `URL_SYNTAX_VALID` 状态。
+- 新增弓、埃癸斯、厄琉西斯关联和 62 条行号级 Claims/Evidence；公开数据库达到 221 Claims、215 Evidence、193 条直接关系。
+- 显式登记 Aphrodite 的赫西俄德起源与《伊利亚特》宙斯—狄俄涅谱系冲突，不强制选定唯一版本。
+- 实体详情页新增神祇／神器／文献／地点／事件结构化档案和版本冲突卡片，深链接仍可直接分享。
+- 刷新全部持久表导出、知识图谱、Markdown 档案、来源登记、覆盖率、缺失与冲突报告；新增 v0.5 数据与网页回归测试。
+
 ## v0.4.0-greek-genealogy — 2026-08-14
 
 - 回应公开社区反馈，新增 Thanatos、Hypnos、Nyx、Hecate、Selene、Helios、Hestia 七位希腊神祇档案。

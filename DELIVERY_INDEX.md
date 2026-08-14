@@ -9,23 +9,23 @@
 | 文明／传统 | 95 |
 | 文化语境 | 18 |
 | 语言 | 21 |
-| 统一实体 | 453 |
+| 统一实体 | 468 |
 | 实体重定向／去重审计 | 5 |
-| 多类型分类 | 481 |
-| 名称与译名 | 1074 |
-| 来源 | 91 |
-| Claims | 159 |
-| Evidence | 153 |
-| 关系边（直接） | 139 |
-| 显式冲突 | 3 |
-| 永久研究队列 | 37 |
+| 多类型分类 | 496 |
+| 名称与译名 | 1113 |
+| 来源 | 100 |
+| Claims | 221 |
+| Evidence | 215 |
+| 关系边（直接） | 193 |
+| 显式冲突 | 4 |
+| 永久研究队列 | 42 |
 
-来源登记状态：`URL_SYNTAX_VALID` 91。
+来源登记状态：`URL_SYNTAX_VALID` 100。
 
 ## 直接打开这些文件
 
 - `database/world_mythology.sqlite`：事实核心数据库。
-- `RELEASE_NOTES_v0.4.0.md`：v0.4.0 中文发布说明、证据边界与后续队列。
+- `RELEASE_NOTES_v0.5.0.md`：v0.5.0 中文发布说明、证据边界与后续队列。
 - `schema/schema.sql`：完整 SQLite Schema。
 - `reports/schema_catalog.md`：从实际数据库生成的逐表、逐字段、外键与 SQL 定义。
 - `reports/source_registry.md`：全部来源、机构、定位符、验证状态和文化／使用限制。

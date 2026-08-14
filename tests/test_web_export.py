@@ -16,12 +16,12 @@ class PublicWebExportTests(unittest.TestCase):
 
     def test_public_snapshot_preserves_core_counts(self):
         counts = self.snapshot["meta"]["counts"]
-        self.assertEqual(counts["registeredEntities"], 453)
-        self.assertEqual(counts["canonicalEntities"], 448)
+        self.assertEqual(counts["registeredEntities"], 468)
+        self.assertEqual(counts["canonicalEntities"], 463)
         self.assertEqual(counts["civilizations"], 95)
-        self.assertEqual(counts["sources"], 91)
-        self.assertEqual(counts["claims"], 159)
-        self.assertEqual(counts["directRelationships"], 139)
+        self.assertEqual(counts["sources"], 100)
+        self.assertEqual(counts["claims"], 221)
+        self.assertEqual(counts["directRelationships"], 193)
 
     def test_public_snapshot_excludes_evidence_quotes(self):
         serialized = json.dumps(self.snapshot, ensure_ascii=False)
@@ -53,6 +53,21 @@ class PublicWebExportTests(unittest.TestCase):
         self.assertIn(("CHILD_OF", "deity.greek.theia"), helios_family)
         self.assertIn(("SIBLING_OF", "deity.greek.selene"), helios_family)
         self.assertTrue(all(relation["evidenceCount"] > 0 for relation in by_id["deity.greek.helios"]["relationships"]))
+
+    def test_public_snapshot_has_v050_profiles_and_variants(self):
+        by_id = {entity["id"]: entity for entity in self.snapshot["entities"]}
+        aphrodite = by_id["deity.greek.aphrodite"]
+        self.assertEqual(aphrodite["evidenceStatus"], "CONFLICTING")
+        self.assertEqual(len(aphrodite["conflicts"]), 1)
+        self.assertEqual(aphrodite["conflicts"][0]["conflictType"], "GENEALOGY_VARIANT")
+        self.assertTrue(aphrodite["profiles"][0]["limitations"])
+        athena = by_id["deity.greek.athena"]
+        self.assertIn("artifact.greek.aegis", {
+            relation["targetId"] for relation in athena["relationships"]
+        })
+        self.assertTrue(athena["profiles"][0]["domains"])
+        event = by_id["event.greek.persephone_abduction"]
+        self.assertEqual(event["profiles"][0]["kind"], "EVENT")
 
     def test_public_snapshot_is_deterministic(self):
         with tempfile.TemporaryDirectory() as directory:

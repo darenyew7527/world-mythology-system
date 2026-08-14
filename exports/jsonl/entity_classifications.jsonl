@@ -135,6 +135,7 @@
 {"entity_id":"deity.greek.cronus","is_primary":1,"notes":null,"type_code":"DEITY"}
 {"entity_id":"deity.greek.cronus","is_primary":0,"notes":"Greek culture-specific classification","type_code":"TITAN"}
 {"entity_id":"deity.greek.demeter","is_primary":1,"notes":null,"type_code":"DEITY"}
+{"entity_id":"deity.greek.dione","is_primary":1,"notes":"v0.5.0 primary-source profile checkpoint","type_code":"DEITY"}
 {"entity_id":"deity.greek.dionysus","is_primary":1,"notes":null,"type_code":"DEITY"}
 {"entity_id":"deity.greek.eos","is_primary":1,"notes":"Primary classification from v0.4.0 Greek genealogy checkpoint","type_code":"DEITY"}
 {"entity_id":"deity.greek.erebus","is_primary":1,"notes":"Primary classification from v0.4.0 Greek genealogy checkpoint","type_code":"PRIMORDIAL_DEITY"}
@@ -153,15 +154,19 @@
 {"entity_id":"deity.greek.hyperion","is_primary":1,"notes":"Primary classification from v0.4.0 Greek genealogy checkpoint","type_code":"DEITY"}
 {"entity_id":"deity.greek.hyperion","is_primary":0,"notes":"Hesiodic divine generation","type_code":"TITAN"}
 {"entity_id":"deity.greek.hypnos","is_primary":1,"notes":"Primary classification from v0.4.0 Greek genealogy checkpoint","type_code":"DEITY"}
+{"entity_id":"deity.greek.leto","is_primary":1,"notes":"v0.5.0 primary-source profile checkpoint","type_code":"DEITY"}
+{"entity_id":"deity.greek.maia","is_primary":1,"notes":"v0.5.0 primary-source profile checkpoint","type_code":"DEITY"}
 {"entity_id":"deity.greek.metis","is_primary":1,"notes":"Primary classification at research checkpoint 2026-08-11","type_code":"DEITY"}
 {"entity_id":"deity.greek.nyx","is_primary":1,"notes":"Primary classification from v0.4.0 Greek genealogy checkpoint","type_code":"PRIMORDIAL_DEITY"}
 {"entity_id":"deity.greek.nyx","is_primary":0,"notes":"Queryable through the deity collection","type_code":"DEITY"}
+{"entity_id":"deity.greek.persephone","is_primary":1,"notes":"v0.5.0 primary-source profile checkpoint","type_code":"DEITY"}
 {"entity_id":"deity.greek.perses","is_primary":1,"notes":"Primary classification from v0.4.0 Greek genealogy checkpoint","type_code":"DEITY"}
 {"entity_id":"deity.greek.perses","is_primary":0,"notes":"Hesiodic divine generation; identity caution applies","type_code":"TITAN"}
 {"entity_id":"deity.greek.poseidon","is_primary":1,"notes":null,"type_code":"DEITY"}
 {"entity_id":"deity.greek.rhea","is_primary":1,"notes":null,"type_code":"DEITY"}
 {"entity_id":"deity.greek.rhea","is_primary":0,"notes":"Greek culture-specific classification","type_code":"TITAN"}
 {"entity_id":"deity.greek.selene","is_primary":1,"notes":"Primary classification from v0.4.0 Greek genealogy checkpoint","type_code":"DEITY"}
+{"entity_id":"deity.greek.semele","is_primary":1,"notes":"v0.5.0 primary-source profile checkpoint","type_code":"DEITY"}
 {"entity_id":"deity.greek.thanatos","is_primary":1,"notes":"Primary classification from v0.4.0 Greek genealogy checkpoint","type_code":"DEITY"}
 {"entity_id":"deity.greek.theia","is_primary":1,"notes":"Primary classification from v0.4.0 Greek genealogy checkpoint","type_code":"DEITY"}
 {"entity_id":"deity.greek.theia","is_primary":0,"notes":"Hesiodic divine generation","type_code":"TITAN"}
@@ -245,6 +250,7 @@
 {"entity_id":"element.indian.prithvi","is_primary":1,"notes":null,"type_code":"ELEMENT"}
 {"entity_id":"element.indian.vayu","is_primary":1,"notes":null,"type_code":"ELEMENT"}
 {"entity_id":"event.babylonian.marduk_tiamat","is_primary":1,"notes":null,"type_code":"EVENT"}
+{"entity_id":"event.greek.persephone_abduction","is_primary":1,"notes":"v0.5.0 primary-source profile checkpoint","type_code":"EVENT"}
 {"entity_id":"event.greek.titanomachy","is_primary":1,"notes":null,"type_code":"EVENT"}
 {"entity_id":"event.greek.zeus_typhon_battle","is_primary":1,"notes":"Primary classification at research checkpoint 2026-08-11","type_code":"EVENT"}
 {"entity_id":"event.norse.forging_divine_treasures","is_primary":1,"notes":"Primary classification at research checkpoint 2026-08-11","type_code":"EVENT"}
@@ -387,9 +393,18 @@
 {"entity_id":"text.egypt.temple_tomb_inscriptions","is_primary":1,"notes":null,"type_code":"INSCRIPTION"}
 {"entity_id":"text.greek.argonautica","is_primary":1,"notes":null,"type_code":"EPIC"}
 {"entity_id":"text.greek.bibliotheca","is_primary":1,"notes":null,"type_code":"TEXT"}
+{"entity_id":"text.greek.homeric_hymn_aphrodite_5","is_primary":1,"notes":"v0.5.0 primary-source profile checkpoint","type_code":"TEXT"}
+{"entity_id":"text.greek.homeric_hymn_apollo_3","is_primary":1,"notes":"v0.5.0 primary-source profile checkpoint","type_code":"TEXT"}
+{"entity_id":"text.greek.homeric_hymn_ares_8","is_primary":1,"notes":"v0.5.0 primary-source profile checkpoint","type_code":"TEXT"}
+{"entity_id":"text.greek.homeric_hymn_artemis_27","is_primary":1,"notes":"v0.5.0 primary-source profile checkpoint","type_code":"TEXT"}
+{"entity_id":"text.greek.homeric_hymn_athena_28","is_primary":1,"notes":"v0.5.0 primary-source profile checkpoint","type_code":"TEXT"}
 {"entity_id":"text.greek.homeric_hymn_demeter","is_primary":1,"notes":"Primary classification from v0.4.0 Greek genealogy checkpoint","type_code":"TEXT"}
+{"entity_id":"text.greek.homeric_hymn_dionysus_7","is_primary":1,"notes":"v0.5.0 primary-source profile checkpoint","type_code":"TEXT"}
 {"entity_id":"text.greek.homeric_hymn_helios_31","is_primary":1,"notes":"Primary classification from v0.4.0 Greek genealogy checkpoint","type_code":"TEXT"}
+{"entity_id":"text.greek.homeric_hymn_hephaestus_20","is_primary":1,"notes":"v0.5.0 primary-source profile checkpoint","type_code":"TEXT"}
+{"entity_id":"text.greek.homeric_hymn_hermes_4","is_primary":1,"notes":"v0.5.0 primary-source profile checkpoint","type_code":"TEXT"}
 {"entity_id":"text.greek.homeric_hymn_hestia_29","is_primary":1,"notes":"Primary classification from v0.4.0 Greek genealogy checkpoint","type_code":"TEXT"}
+{"entity_id":"text.greek.homeric_hymn_poseidon_22","is_primary":1,"notes":"v0.5.0 primary-source profile checkpoint","type_code":"TEXT"}
 {"entity_id":"text.greek.homeric_hymn_selene_32","is_primary":1,"notes":"Primary classification from v0.4.0 Greek genealogy checkpoint","type_code":"TEXT"}
 {"entity_id":"text.greek.homeric_hymns","is_primary":1,"notes":null,"type_code":"TEXT"}
 {"entity_id":"text.greek.iliad","is_primary":1,"notes":null,"type_code":"EPIC"}

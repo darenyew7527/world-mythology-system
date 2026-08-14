@@ -17,7 +17,11 @@
 | Relation | Target | Review / layer | Evidence | Confidence | Direction |
 |---|---|---|---:|---:|---|
 | `MOTHER_OF` | 宙斯 (`deity.greek.zeus`) | VERIFIED / IN_TRADITION / MYTHIC_NARRATIVE | 1 | 0.80 | stored claim; `claim.greek.rhea_mother_zeus` |
+| `PARENT_OF` | 得墨忒耳 (`deity.greek.demeter`) | VERIFIED / TEXT_SAYS / MYTHIC_NARRATIVE | 1 | 0.99 | inferred inverse; `claim.v050.theogony.demeter_child_rhea` |
+| `PARENT_OF` | 哈得斯 (`deity.greek.hades`) | VERIFIED / TEXT_SAYS / MYTHIC_NARRATIVE | 1 | 0.99 | inferred inverse; `claim.v050.theogony.hades_child_rhea` |
+| `PARENT_OF` | 赫拉 (`deity.greek.hera`) | VERIFIED / TEXT_SAYS / MYTHIC_NARRATIVE | 1 | 0.99 | inferred inverse; `claim.v050.theogony.hera_child_rhea` |
 | `PARENT_OF` | 赫斯提亚 (`deity.greek.hestia`) | VERIFIED / TEXT_SAYS / MYTHIC_NARRATIVE | 1 | 0.99 | inferred inverse; `claim.v040.hestia.child_rhea` |
+| `PARENT_OF` | 波塞冬 (`deity.greek.poseidon`) | VERIFIED / TEXT_SAYS / MYTHIC_NARRATIVE | 1 | 0.99 | inferred inverse; `claim.v050.theogony.poseidon_child_rhea` |
 
 ## Claims 与证据
 

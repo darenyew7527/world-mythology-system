@@ -5,8 +5,8 @@
 - 文明／传统: 北欧
 - 原文名: Eitri
 - 转写: Eitri
-- 研究状态: `PARTIAL`
-- 证据状态: `PARTIAL`
+- 研究状态: `CONFLICT`
+- 证据状态: `CONFLICTING`
 
 ## 概要
 

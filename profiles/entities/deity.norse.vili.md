@@ -6,7 +6,7 @@
 - 原文名: Vili
 - 转写: Vili
 - 研究状态: `PARTIAL`
-- 证据状态: `PARTIAL`
+- 证据状态: `SOURCE_BACKED`
 
 ## 概要
 

@@ -30,9 +30,18 @@
 | text.greek.argonautica | 阿尔戈英雄纪 | Argonautica | EPIC | 古希腊 | Hellenistic | UNVERIFIED |
 | text.greek.bibliotheca | 书库（希腊神话汇编） | Bibliotheca | TEXT | 古希腊 | Roman imperial period | UNVERIFIED |
 | text.greek.homeric_hymn_demeter | 《荷马颂歌·致得墨忒耳》 | Homeric Hymn 2 to Demeter | TEXT | 古希腊 | Archaic Greek poetic tradition; exact dating debated | PARTIAL |
+| text.greek.homeric_hymn_hephaestus_20 | 《荷马颂歌·致赫淮斯托斯》（第20首） | Homeric Hymn 20 to Hephaestus | TEXT | 古希腊 | Ancient Greek poetic tradition; individual dating debated | SOURCE_BACKED |
+| text.greek.homeric_hymn_poseidon_22 | 《荷马颂歌·致波塞冬》（第22首） | Homeric Hymn 22 to Poseidon | TEXT | 古希腊 | Ancient Greek poetic tradition; individual dating debated | SOURCE_BACKED |
+| text.greek.homeric_hymn_artemis_27 | 《荷马颂歌·致阿耳忒弥斯》（第27首） | Homeric Hymn 27 to Artemis | TEXT | 古希腊 | Ancient Greek poetic tradition; individual dating debated | SOURCE_BACKED |
+| text.greek.homeric_hymn_athena_28 | 《荷马颂歌·致雅典娜》（第28首） | Homeric Hymn 28 to Athena | TEXT | 古希腊 | Ancient Greek poetic tradition; individual dating debated | SOURCE_BACKED |
 | text.greek.homeric_hymn_hestia_29 | 《荷马颂歌·致赫斯提亚》（第29首） | Homeric Hymn 29 to Hestia | TEXT | 古希腊 | Ancient Greek poetic tradition; exact dating debated | PARTIAL |
+| text.greek.homeric_hymn_apollo_3 | 《荷马颂歌·致阿波罗》（第3首） | Homeric Hymn 3 to Apollo | TEXT | 古希腊 | Ancient Greek poetic tradition; individual dating debated | SOURCE_BACKED |
 | text.greek.homeric_hymn_helios_31 | 《荷马颂歌·致赫利俄斯》（第31首） | Homeric Hymn 31 to Helios | TEXT | 古希腊 | Ancient Greek poetic tradition; exact dating debated | PARTIAL |
 | text.greek.homeric_hymn_selene_32 | 《荷马颂歌·致塞勒涅》（第32首） | Homeric Hymn 32 to Selene | TEXT | 古希腊 | Ancient Greek poetic tradition; exact dating debated | PARTIAL |
+| text.greek.homeric_hymn_hermes_4 | 《荷马颂歌·致赫尔墨斯》（第4首） | Homeric Hymn 4 to Hermes | TEXT | 古希腊 | Ancient Greek poetic tradition; individual dating debated | SOURCE_BACKED |
+| text.greek.homeric_hymn_aphrodite_5 | 《荷马颂歌·致阿佛洛狄忒》（第5首） | Homeric Hymn 5 to Aphrodite | TEXT | 古希腊 | Ancient Greek poetic tradition; individual dating debated | SOURCE_BACKED |
+| text.greek.homeric_hymn_dionysus_7 | 《荷马颂歌·致狄俄倪索斯》（第7首） | Homeric Hymn 7 to Dionysus | TEXT | 古希腊 | Ancient Greek poetic tradition; individual dating debated | SOURCE_BACKED |
+| text.greek.homeric_hymn_ares_8 | 《荷马颂歌·致阿瑞斯》（第8首） | Homeric Hymn 8 to Ares | TEXT | 古希腊 | Ancient Greek poetic tradition; individual dating debated | SOURCE_BACKED |
 | text.greek.homeric_hymns | 荷马赞歌 | Homeric Hymns | TEXT | 古希腊 | Archaic to Hellenistic | UNVERIFIED |
 | text.greek.iliad | 伊利亚特 | Iliad | EPIC | 古希腊 | Archaic Greece | UNVERIFIED |
 | text.greek.odyssey | 奥德赛 | Odyssey | EPIC | 古希腊 | Archaic Greece | UNVERIFIED |

@@ -39,3 +39,8 @@ qhist.20260814.hecate_layers,queue.greek.v040.hecate_later_layers,DISCOVERED,SOU
 qhist.20260814.hestia_cult,queue.greek.v040.hestia_cult,DISCOVERED,SOURCE_FOUND,2026-08-14T00:00:00Z,Hymn source registered; archaeological and epigraphic work remains
 qhist.20260814.nyx_children,queue.greek.v040.nyx_extended_children,DISCOVERED,SOURCE_FOUND,2026-08-14T00:00:00Z,Primary source located; expansion deliberately continues
 qhist.20260814.perses_identity,queue.greek.v040.perses_identity,DISCOVERED,CONFLICT,2026-08-14T00:00:00Z,Homonym requires witness-level identity review
+qhist.20260814.v050.eleusis_layers,queue.greek.v050.eleusis_layers,DISCOVERED,SOURCE_FOUND,2026-08-14T00:00:00Z,Poetic source located; material and historical layers remain open
+qhist.20260814.v050.hades_helm,queue.greek.v050.hades_helm,NEW,DISCOVERED,2026-08-14T00:00:00Z,Seeded helm record lacks an adequate exact witness
+qhist.20260814.v050.hephaestus_parentage,queue.greek.v050.hephaestus_parentage,DISCOVERED,CONFLICT,2026-08-14T00:00:00Z,Hesiodic genealogy should not overwrite alternate ancient accounts
+qhist.20260814.v050.hermes_caduceus,queue.greek.v050.hermes_caduceus,DISCOVERED,SOURCE_FOUND,2026-08-14T00:00:00Z,Early Hermes source registered; object history remains open
+qhist.20260814.v050.olympian_membership,queue.greek.v050.olympian_membership,DISCOVERED,NEEDS_REVIEW,2026-08-14T00:00:00Z,Fixed membership must be historically sourced

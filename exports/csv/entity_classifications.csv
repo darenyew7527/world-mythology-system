@@ -136,6 +136,7 @@ deity.greek.chaos,DEITY,0,Queryable through the deity collection; ontology remai
 deity.greek.cronus,DEITY,1,
 deity.greek.cronus,TITAN,0,Greek culture-specific classification
 deity.greek.demeter,DEITY,1,
+deity.greek.dione,DEITY,1,v0.5.0 primary-source profile checkpoint
 deity.greek.dionysus,DEITY,1,
 deity.greek.eos,DEITY,1,Primary classification from v0.4.0 Greek genealogy checkpoint
 deity.greek.erebus,PRIMORDIAL_DEITY,1,Primary classification from v0.4.0 Greek genealogy checkpoint
@@ -154,15 +155,19 @@ deity.greek.hestia,DEITY,1,Primary classification from v0.4.0 Greek genealogy ch
 deity.greek.hyperion,DEITY,1,Primary classification from v0.4.0 Greek genealogy checkpoint
 deity.greek.hyperion,TITAN,0,Hesiodic divine generation
 deity.greek.hypnos,DEITY,1,Primary classification from v0.4.0 Greek genealogy checkpoint
+deity.greek.leto,DEITY,1,v0.5.0 primary-source profile checkpoint
+deity.greek.maia,DEITY,1,v0.5.0 primary-source profile checkpoint
 deity.greek.metis,DEITY,1,Primary classification at research checkpoint 2026-08-11
 deity.greek.nyx,PRIMORDIAL_DEITY,1,Primary classification from v0.4.0 Greek genealogy checkpoint
 deity.greek.nyx,DEITY,0,Queryable through the deity collection
+deity.greek.persephone,DEITY,1,v0.5.0 primary-source profile checkpoint
 deity.greek.perses,DEITY,1,Primary classification from v0.4.0 Greek genealogy checkpoint
 deity.greek.perses,TITAN,0,Hesiodic divine generation; identity caution applies
 deity.greek.poseidon,DEITY,1,
 deity.greek.rhea,DEITY,1,
 deity.greek.rhea,TITAN,0,Greek culture-specific classification
 deity.greek.selene,DEITY,1,Primary classification from v0.4.0 Greek genealogy checkpoint
+deity.greek.semele,DEITY,1,v0.5.0 primary-source profile checkpoint
 deity.greek.thanatos,DEITY,1,Primary classification from v0.4.0 Greek genealogy checkpoint
 deity.greek.theia,DEITY,1,Primary classification from v0.4.0 Greek genealogy checkpoint
 deity.greek.theia,TITAN,0,Hesiodic divine generation
@@ -246,6 +251,7 @@ element.indian.ap,ELEMENT,1,
 element.indian.prithvi,ELEMENT,1,
 element.indian.vayu,ELEMENT,1,
 event.babylonian.marduk_tiamat,EVENT,1,
+event.greek.persephone_abduction,EVENT,1,v0.5.0 primary-source profile checkpoint
 event.greek.titanomachy,EVENT,1,
 event.greek.zeus_typhon_battle,EVENT,1,Primary classification at research checkpoint 2026-08-11
 event.norse.forging_divine_treasures,EVENT,1,Primary classification at research checkpoint 2026-08-11
@@ -388,9 +394,18 @@ text.egypt.pyramid_texts,INSCRIPTION,1,
 text.egypt.temple_tomb_inscriptions,INSCRIPTION,1,
 text.greek.argonautica,EPIC,1,
 text.greek.bibliotheca,TEXT,1,
+text.greek.homeric_hymn_aphrodite_5,TEXT,1,v0.5.0 primary-source profile checkpoint
+text.greek.homeric_hymn_apollo_3,TEXT,1,v0.5.0 primary-source profile checkpoint
+text.greek.homeric_hymn_ares_8,TEXT,1,v0.5.0 primary-source profile checkpoint
+text.greek.homeric_hymn_artemis_27,TEXT,1,v0.5.0 primary-source profile checkpoint
+text.greek.homeric_hymn_athena_28,TEXT,1,v0.5.0 primary-source profile checkpoint
 text.greek.homeric_hymn_demeter,TEXT,1,Primary classification from v0.4.0 Greek genealogy checkpoint
+text.greek.homeric_hymn_dionysus_7,TEXT,1,v0.5.0 primary-source profile checkpoint
 text.greek.homeric_hymn_helios_31,TEXT,1,Primary classification from v0.4.0 Greek genealogy checkpoint
+text.greek.homeric_hymn_hephaestus_20,TEXT,1,v0.5.0 primary-source profile checkpoint
+text.greek.homeric_hymn_hermes_4,TEXT,1,v0.5.0 primary-source profile checkpoint
 text.greek.homeric_hymn_hestia_29,TEXT,1,Primary classification from v0.4.0 Greek genealogy checkpoint
+text.greek.homeric_hymn_poseidon_22,TEXT,1,v0.5.0 primary-source profile checkpoint
 text.greek.homeric_hymn_selene_32,TEXT,1,Primary classification from v0.4.0 Greek genealogy checkpoint
 text.greek.homeric_hymns,TEXT,1,
 text.greek.iliad,EPIC,1,

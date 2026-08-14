@@ -16,10 +16,14 @@
 
 | Relation | Target | Review / layer | Evidence | Confidence | Direction |
 |---|---|---|---:|---:|---|
+| `HAS_APPEARANCE_OF` | 泰坦战争 (`event.greek.titanomachy`) | VERIFIED / TEXT_SAYS / TEXTUAL_WITNESS | 1 | 0.98 | inferred inverse; `claim.v050.theogony.titanomachy_appears` |
 | `MENTIONS` | 卡俄斯 (`deity.greek.chaos`) | VERIFIED / TEXT_SAYS / TEXTUAL_WITNESS | 1 | 0.99 | inferred inverse; `claim.v040.chaos.mentioned_theogony` |
 | `MENTIONS` | 厄俄斯 (`deity.greek.eos`) | VERIFIED / TEXT_SAYS / TEXTUAL_WITNESS | 1 | 0.99 | inferred inverse; `claim.v040.eos.mentioned_theogony` |
 | `MENTIONS` | 赫卡忒 (`deity.greek.hecate`) | VERIFIED / TEXT_SAYS / TEXTUAL_WITNESS | 1 | 0.99 | inferred inverse; `claim.v040.hecate.mentioned_theogony` |
+| `MENTIONS` | 勒托 (`deity.greek.leto`) | VERIFIED / TEXT_SAYS / TEXTUAL_WITNESS | 1 | 0.99 | inferred inverse; `claim.v050.theogony.leto_mentioned` |
+| `MENTIONS` | 迈亚 (`deity.greek.maia`) | VERIFIED / TEXT_SAYS / TEXTUAL_WITNESS | 1 | 0.99 | inferred inverse; `claim.v050.theogony.maia_mentioned` |
 | `MENTIONS` | 墨提斯 (`deity.greek.metis`) | VERIFIED / TEXT_SAYS / TEXTUAL_WITNESS | 1 | 1.00 | inferred inverse; `claim.metis.mentioned_theogony` |
+| `MENTIONS` | 塞墨勒 (`deity.greek.semele`) | VERIFIED / TEXT_SAYS / TEXTUAL_WITNESS | 1 | 0.99 | inferred inverse; `claim.v050.theogony.semele_mentioned` |
 | `MENTIONS` | 提丰 (`creature.greek.typhon`) | VERIFIED / TEXT_SAYS / TEXTUAL_WITNESS | 1 | 1.00 | inferred inverse; `claim.typhon.mentioned_theogony` |
 
 ## Claims 与证据

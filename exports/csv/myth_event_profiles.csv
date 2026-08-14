@@ -1,6 +1,7 @@
 entity_id,event_type,time_layer,cause_summary,process_summary,result_summary,symbolism_summary
 event.babylonian.marduk_tiamat,CREATION_COMBAT,,,,,
-event.greek.titanomachy,DIVINE_WAR,,,,,
+event.greek.persephone_abduction,UNDERWORLD_JOURNEY,Mythic time in Homeric Hymn 2,Hades takes Persephone with Zeus’s consent in this hymn witness.,"Persephone is taken below; Demeter searches, consults Hecate and Helios, and comes to Eleusis.",The hymn continues through return arrangements and the establishment of mysteries; later versions require separate claims.,No single universal interpretation is imposed.
+event.greek.titanomachy,DIVINE_WAR,Mythic divine-war time in the Hesiodic witness,Conflict between the younger gods led by Zeus and the Titans associated with Cronus.,"Theogony 617-735 narrates release of the Hundred-Handers, battle and use of Zeus’s thunder and lightning.",The Titans are defeated and confined in Tartarus in this witness.,Interpretations remain separate from the text-level event record.
 event.greek.zeus_typhon_battle,DIVINE_CONFLICT,Mythic time,Typhon threatens divine and mortal rule,"Zeus attacks with thunder, lightning and thunderbolt",Typhon is defeated and cast into Tartarus,
 event.norse.forging_divine_treasures,ARTIFACT_CREATION,Mythic time,Loki’s wager concerning smithcraft,Brokkr tends the bellows while the smith produces three treasures,"Gullinbursti, Draupnir and Mjölnir are presented to the gods",
 event.norse.ragnarok,WORLD_END_AND_RENEWAL,,,,,

@@ -73,6 +73,85 @@ function ClaimCard({ claim, copy, language }) {
   )
 }
 
+const profileFieldOrder = {
+  DEITY: ['deityClass', 'pantheonOrFamily', 'rankOrStatus', 'domains', 'powers', 'symbols', 'limitations', 'appearance', 'cultSummary', 'finalFateSummary'],
+  ARTIFACT: ['artifactType', 'materials', 'abilities', 'limitations', 'usageConditions', 'appearance', 'creationSummary', 'fateSummary'],
+  CREATURE: ['creatureClass', 'abilities', 'weaknesses', 'appearance', 'habitatSummary', 'originSummary', 'fateSummary'],
+  TEXT: ['textType', 'attributedAuthor', 'compiler', 'compositionPeriod', 'earliestExtantWitness', 'chapterStructure', 'repository', 'shelfmark', 'copyrightStatus', 'summary'],
+  PLACE: ['placeType', 'ancientName', 'modernName', 'countryCode', 'dateRange', 'builders', 'realityStatus', 'evidenceGrade', 'unescoStatus', 'architectureSummary', 'excavationSummary', 'majorFindsSummary'],
+  EVENT: ['eventType', 'timeLayer', 'causeSummary', 'processSummary', 'resultSummary', 'symbolismSummary'],
+}
+
+const hasProfileValue = (value) => {
+  if (value == null || value === '') return false
+  if (Array.isArray(value)) return value.length > 0
+  if (typeof value === 'object') return Object.keys(value).length > 0
+  return true
+}
+
+const profileValue = (value) => {
+  if (Array.isArray(value)) return value.join(' · ')
+  if (typeof value === 'object' && value !== null) {
+    return Object.entries(value).map(([key, item]) => `${key}: ${item}`).join(' · ')
+  }
+  return String(value)
+}
+
+function ProfilePanel({ copy, profiles }) {
+  if (!profiles?.length) return null
+  return (
+    <section className="profile-panel">
+      <h3>{copy.structuredProfile}</h3>
+      {profiles.map((profile, index) => {
+        const fields = (profileFieldOrder[profile.kind] || Object.keys(profile))
+          .filter((key) => hasProfileValue(profile[key]))
+        if (fields.length === 0) return null
+        return (
+          <article className="profile-card" key={`${profile.kind}-${index}`}>
+            <header><span>{copy.profileKinds[profile.kind] || profile.kind}</span></header>
+            <dl>
+              {fields.map((key) => (
+                <div key={key}>
+                  <dt>{copy.profileFields[key] || key}</dt>
+                  <dd>{profileValue(profile[key])}</dd>
+                </div>
+              ))}
+            </dl>
+          </article>
+        )
+      })}
+    </section>
+  )
+}
+
+function ConflictRegister({ conflicts, copy, language }) {
+  if (!conflicts?.length) return null
+  return (
+    <section className="variant-register">
+      <div className="variant-register-heading">
+        <div><strong>{copy.variantAccounts}</strong><span>{copy.variantAccountsNote}</span></div>
+        <span>{conflicts.length}</span>
+      </div>
+      <div className="variant-grid">
+        {conflicts.map((conflict) => (
+          <article key={conflict.id}>
+            <header>
+              <code>{conflict.conflictType}</code>
+              <span>{statusLabel(conflict.status, language)}</span>
+            </header>
+            <p>{conflict.summary}</p>
+            <ol>
+              {conflict.claimAStatement && <li>{conflict.claimAStatement}</li>}
+              {conflict.claimBStatement && <li>{conflict.claimBStatement}</li>}
+            </ol>
+            {conflict.resolutionNotes && <small>{conflict.resolutionNotes}</small>}
+          </article>
+        ))}
+      </div>
+    </section>
+  )
+}
+
 export default function EntityDetail({
   copy,
   entity,
@@ -166,6 +245,7 @@ export default function EntityDetail({
       <div className="detail-scroll">
         {tab === 'overview' && (
           <div className="overview-layout">
+            <ConflictRegister conflicts={entity.conflicts} copy={copy} language={language} />
             <section className="basic-information">
               <h2>{copy.basicInformation}</h2>
               <dl>
@@ -178,6 +258,7 @@ export default function EntityDetail({
               </dl>
               <h3>{copy.description}</h3>
               <p>{entity.description || copy.descriptionMissing}</p>
+              <ProfilePanel copy={copy} profiles={entity.profiles} />
               <h3>{copy.aliases}</h3>
               <div className="alias-list">
                 {entity.aliases.length > 0 ? entity.aliases.slice(0, 18).map((alias) => <span key={alias}>{alias}</span>) : '—'}

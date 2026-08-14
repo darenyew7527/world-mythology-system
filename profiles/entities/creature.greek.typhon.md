@@ -6,7 +6,7 @@
 - 原文名: —
 - 转写: Typhōn
 - 研究状态: `PARTIAL`
-- 证据状态: `PARTIAL`
+- 证据状态: `SOURCE_BACKED`
 
 ## 概要
 

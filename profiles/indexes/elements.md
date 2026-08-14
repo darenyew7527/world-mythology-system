@@ -35,7 +35,7 @@
 | concept.comparative.time | 时间 | Time | CONCEPT | — | PARTIAL | UNVERIFIED |
 | concept.comparative.war | 战争 | War | CONCEPT | — | PARTIAL | UNVERIFIED |
 | concept.comparative.wisdom | 智慧 | Wisdom | CONCEPT | — | PARTIAL | UNVERIFIED |
-| concept.chinese.wuxing | 五行 | Wuxing | CONCEPT | 中国上古神话 | PARTIAL | UNVERIFIED |
+| concept.chinese.wuxing | 五行 | Wuxing | CONCEPT | 中国上古神话 | PARTIAL | SOURCE_BACKED |
 | concept.norse.fire_ice_cosmogony | 北欧火与冰宇宙生成结构 | Norse fire-and-ice cosmogonic contrast | COSMOLOGY | 北欧 | PARTIAL | UNVERIFIED |
 | being.zoroastrian.angra_mainyu | 安格拉·曼纽 | Angra Mainyu | DEITY | 琐罗亚斯德传统 | PARTIAL | UNVERIFIED |
 | deity.norse.hel | 赫尔 | Hel | DEITY | 北欧 | PARTIAL | UNVERIFIED |
@@ -47,26 +47,26 @@
 | concept.comparative.darkness | 黑暗 | Darkness | ELEMENT | — | PARTIAL | UNVERIFIED |
 | concept.comparative.earth | 土／大地 | Earth | ELEMENT | — | PARTIAL | UNVERIFIED |
 | concept.comparative.fire | 火 | Fire | ELEMENT | — | PARTIAL | UNVERIFIED |
-| element.chinese.huo | 火（五行） | Huo (Wuxing) | ELEMENT | 中国上古神话 | PARTIAL | PARTIAL |
+| element.chinese.huo | 火（五行） | Huo (Wuxing) | ELEMENT | 中国上古神话 | PARTIAL | SOURCE_BACKED |
 | concept.chinese.wuxing.huo | 五行之火 | Huo (wuxing) | ELEMENT | 中国上古神话 | EXPAND_LATER | PARTIAL |
 | concept.comparative.ice | 冰 | Ice | ELEMENT | — | PARTIAL | UNVERIFIED |
-| element.chinese.jin | 金（五行） | Jin (Wuxing) | ELEMENT | 中国上古神话 | PARTIAL | PARTIAL |
+| element.chinese.jin | 金（五行） | Jin (Wuxing) | ELEMENT | 中国上古神话 | PARTIAL | SOURCE_BACKED |
 | concept.chinese.wuxing.jin | 五行之金 | Jin (wuxing) | ELEMENT | 中国上古神话 | EXPAND_LATER | PARTIAL |
 | concept.comparative.light | 光 | Light | ELEMENT | — | PARTIAL | UNVERIFIED |
 | concept.comparative.metal | 金属 | Metal | ELEMENT | — | PARTIAL | UNVERIFIED |
 | concept.comparative.moon | 月亮 | Moon | ELEMENT | — | PARTIAL | UNVERIFIED |
-| element.chinese.mu | 木（五行） | Mu (Wuxing) | ELEMENT | 中国上古神话 | PARTIAL | PARTIAL |
+| element.chinese.mu | 木（五行） | Mu (Wuxing) | ELEMENT | 中国上古神话 | PARTIAL | SOURCE_BACKED |
 | concept.chinese.wuxing.mu | 五行之木 | Mu (wuxing) | ELEMENT | 中国上古神话 | EXPAND_LATER | PARTIAL |
 | concept.comparative.ocean | 海洋 | Ocean | ELEMENT | — | PARTIAL | UNVERIFIED |
 | element.indian.prithvi | 地 | Pṛthvī | ELEMENT | 印度教传统 | PARTIAL | PARTIAL |
 | concept.comparative.river | 河流 | River | ELEMENT | — | PARTIAL | UNVERIFIED |
-| element.chinese.shui | 水（五行） | Shui (Wuxing) | ELEMENT | 中国上古神话 | PARTIAL | PARTIAL |
+| element.chinese.shui | 水（五行） | Shui (Wuxing) | ELEMENT | 中国上古神话 | PARTIAL | SOURCE_BACKED |
 | concept.chinese.wuxing.shui | 五行之水 | Shui (wuxing) | ELEMENT | 中国上古神话 | EXPAND_LATER | PARTIAL |
 | concept.comparative.sky | 天空 | Sky | ELEMENT | — | PARTIAL | UNVERIFIED |
 | concept.comparative.snow | 雪 | Snow | ELEMENT | — | PARTIAL | UNVERIFIED |
 | concept.comparative.stars | 星辰 | Stars | ELEMENT | — | PARTIAL | UNVERIFIED |
 | concept.comparative.sun | 太阳 | Sun | ELEMENT | — | PARTIAL | UNVERIFIED |
-| element.chinese.tu | 土（五行） | Tu (Wuxing) | ELEMENT | 中国上古神话 | PARTIAL | PARTIAL |
+| element.chinese.tu | 土（五行） | Tu (Wuxing) | ELEMENT | 中国上古神话 | PARTIAL | SOURCE_BACKED |
 | concept.chinese.wuxing.tu | 五行之土 | Tu (wuxing) | ELEMENT | 中国上古神话 | EXPAND_LATER | PARTIAL |
 | element.indian.vayu | 风／气 | Vāyu | ELEMENT | 印度教传统 | PARTIAL | PARTIAL |
 | concept.comparative.water | 水 | Water | ELEMENT | — | PARTIAL | UNVERIFIED |
@@ -81,4 +81,4 @@
 | concept.comparative.magic | 魔法 | Magic | POWER | — | PARTIAL | UNVERIFIED |
 | concept.comparative.storm | 风暴 | Storm | POWER | — | PARTIAL | UNVERIFIED |
 | concept.comparative.thunder | 雷 | Thunder | POWER | — | PARTIAL | UNVERIFIED |
-| deity.greek.gaia | 盖亚 | Gaia | PRIMORDIAL_DEITY | 古希腊 | PARTIAL | UNVERIFIED |
+| deity.greek.gaia | 盖亚 | Gaia | PRIMORDIAL_DEITY | 古希腊 | PARTIAL | SOURCE_BACKED |

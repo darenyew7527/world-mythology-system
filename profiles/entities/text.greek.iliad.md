@@ -14,7 +14,10 @@
 
 ## 关系网络
 
-当前无关系边；保留为研究缺口。
+| Relation | Target | Review / layer | Evidence | Confidence | Direction |
+|---|---|---|---:|---:|---|
+| `HAS_APPEARANCE_OF` | 埃癸斯神盾 (`artifact.greek.aegis`) | VERIFIED / TEXT_SAYS / TEXTUAL_WITNESS | 1 | 0.98 | inferred inverse; `claim.v050.iliad5.aegis_appears` |
+| `MENTIONS` | 狄俄涅 (`deity.greek.dione`) | VERIFIED / TEXT_SAYS / TEXTUAL_WITNESS | 1 | 0.99 | inferred inverse; `claim.v050.iliad5.dione_mentioned` |
 
 ## Claims 与证据
 
