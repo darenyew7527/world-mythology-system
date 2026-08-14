@@ -46,6 +46,7 @@ concept.comparative.fate,CONCEPT,1,
 concept.comparative.fertility,POWER,1,
 concept.comparative.fire,ELEMENT,1,
 concept.comparative.healing,POWER,1,
+concept.comparative.hearth,CONCEPT,1,Primary classification from v0.4.0 Greek genealogy checkpoint
 concept.comparative.hunting,CONCEPT,1,
 concept.comparative.ice,ELEMENT,1,
 concept.comparative.justice,CONCEPT,1,
@@ -61,12 +62,14 @@ concept.comparative.metal,ELEMENT,1,
 concept.comparative.moon,ELEMENT,1,
 concept.comparative.music,CONCEPT,1,
 concept.comparative.navigation,CONCEPT,1,
+concept.comparative.night,CONCEPT,1,Primary classification from v0.4.0 Greek genealogy checkpoint
 concept.comparative.ocean,ELEMENT,1,
 concept.comparative.order,CONCEPT,1,
 concept.comparative.poetry,CONCEPT,1,
 concept.comparative.rebirth,CONCEPT,1,
 concept.comparative.river,ELEMENT,1,
 concept.comparative.sky,ELEMENT,1,
+concept.comparative.sleep,CONCEPT,1,Primary classification from v0.4.0 Greek genealogy checkpoint
 concept.comparative.snow,ELEMENT,1,
 concept.comparative.soul,CONCEPT,1,
 concept.comparative.stars,ELEMENT,1,
@@ -119,23 +122,50 @@ deity.egyptian.seth,DEITY,1,
 deity.egyptian.shu,DEITY,1,
 deity.egyptian.tefnut,DEITY,1,
 deity.egyptian.thoth,DEITY,1,
+deity.greek.aether,PRIMORDIAL_DEITY,1,Primary classification from v0.4.0 Greek genealogy checkpoint
+deity.greek.aether,DEITY,0,Queryable through the deity collection
 deity.greek.aphrodite,DEITY,1,
 deity.greek.apollo,DEITY,1,
 deity.greek.ares,DEITY,1,
 deity.greek.artemis,DEITY,1,
+deity.greek.asteria,DEITY,1,Primary classification from v0.4.0 Greek genealogy checkpoint
+deity.greek.asteria,TITAN,0,Hesiodic divine generation
 deity.greek.athena,DEITY,1,
+deity.greek.chaos,PRIMORDIAL_DEITY,1,Primary classification from v0.4.0 Greek genealogy checkpoint
+deity.greek.chaos,DEITY,0,Queryable through the deity collection; ontology remains witness-specific
 deity.greek.cronus,DEITY,1,
+deity.greek.cronus,TITAN,0,Greek culture-specific classification
 deity.greek.demeter,DEITY,1,
 deity.greek.dionysus,DEITY,1,
+deity.greek.eos,DEITY,1,Primary classification from v0.4.0 Greek genealogy checkpoint
+deity.greek.erebus,PRIMORDIAL_DEITY,1,Primary classification from v0.4.0 Greek genealogy checkpoint
+deity.greek.erebus,DEITY,0,Queryable through the deity collection
 deity.greek.gaia,PRIMORDIAL_DEITY,1,
 deity.greek.gaia,CONCEPT,0,
 deity.greek.hades,DEITY,1,
+deity.greek.hecate,DEITY,1,Primary classification from v0.4.0 Greek genealogy checkpoint
+deity.greek.helios,DEITY,1,Primary classification from v0.4.0 Greek genealogy checkpoint
+deity.greek.hemera,PRIMORDIAL_DEITY,1,Primary classification from v0.4.0 Greek genealogy checkpoint
+deity.greek.hemera,DEITY,0,Queryable through the deity collection
 deity.greek.hephaestus,DEITY,1,
 deity.greek.hera,DEITY,1,
 deity.greek.hermes,DEITY,1,
+deity.greek.hestia,DEITY,1,Primary classification from v0.4.0 Greek genealogy checkpoint
+deity.greek.hyperion,DEITY,1,Primary classification from v0.4.0 Greek genealogy checkpoint
+deity.greek.hyperion,TITAN,0,Hesiodic divine generation
+deity.greek.hypnos,DEITY,1,Primary classification from v0.4.0 Greek genealogy checkpoint
 deity.greek.metis,DEITY,1,Primary classification at research checkpoint 2026-08-11
+deity.greek.nyx,PRIMORDIAL_DEITY,1,Primary classification from v0.4.0 Greek genealogy checkpoint
+deity.greek.nyx,DEITY,0,Queryable through the deity collection
+deity.greek.perses,DEITY,1,Primary classification from v0.4.0 Greek genealogy checkpoint
+deity.greek.perses,TITAN,0,Hesiodic divine generation; identity caution applies
 deity.greek.poseidon,DEITY,1,
 deity.greek.rhea,DEITY,1,
+deity.greek.rhea,TITAN,0,Greek culture-specific classification
+deity.greek.selene,DEITY,1,Primary classification from v0.4.0 Greek genealogy checkpoint
+deity.greek.thanatos,DEITY,1,Primary classification from v0.4.0 Greek genealogy checkpoint
+deity.greek.theia,DEITY,1,Primary classification from v0.4.0 Greek genealogy checkpoint
+deity.greek.theia,TITAN,0,Hesiodic divine generation
 deity.greek.uranus,PRIMORDIAL_DEITY,1,
 deity.greek.zeus,DEITY,1,
 deity.hawaiian.pele,DEITY,1,
@@ -358,6 +388,10 @@ text.egypt.pyramid_texts,INSCRIPTION,1,
 text.egypt.temple_tomb_inscriptions,INSCRIPTION,1,
 text.greek.argonautica,EPIC,1,
 text.greek.bibliotheca,TEXT,1,
+text.greek.homeric_hymn_demeter,TEXT,1,Primary classification from v0.4.0 Greek genealogy checkpoint
+text.greek.homeric_hymn_helios_31,TEXT,1,Primary classification from v0.4.0 Greek genealogy checkpoint
+text.greek.homeric_hymn_hestia_29,TEXT,1,Primary classification from v0.4.0 Greek genealogy checkpoint
+text.greek.homeric_hymn_selene_32,TEXT,1,Primary classification from v0.4.0 Greek genealogy checkpoint
 text.greek.homeric_hymns,TEXT,1,
 text.greek.iliad,EPIC,1,
 text.greek.inscriptions,INSCRIPTION,1,

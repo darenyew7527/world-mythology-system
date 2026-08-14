@@ -39,6 +39,10 @@ text.egypt.pyramid_texts,FUNERARY_CORPUS,lang.egy,Multiple,,Old Kingdom onward,,
 text.egypt.temple_tomb_inscriptions,CORPUS_SCOPE,lang.egy,,,Multiple periods,,,,,,
 text.greek.argonautica,EPIC,lang.grc,Apollonius of Rhodes,,Hellenistic,,,,,,
 text.greek.bibliotheca,MYTHOGRAPHY,lang.grc,Pseudo-Apollodorus,,Roman imperial period,,,,,,
+text.greek.homeric_hymn_demeter,HYMN,lang.grc,Anonymous Homeric Hymn tradition,,Archaic Greek poetic tradition; exact dating debated,,"Hymn 2, 495 lines",Perseus / Scaife digital edition,urn:cts:greekLit:tlg0013.tlg002,Ancient text public domain; digital presentation terms apply,Registers Hecate and Helios at lines 25-62 without treating the hymn as historical fact.
+text.greek.homeric_hymn_helios_31,HYMN,lang.grc,Anonymous Homeric Hymn tradition,,Ancient Greek poetic tradition; exact dating debated,,"Hymn 31, lines 1-15a plus closing salutation",Perseus / Scaife digital edition,urn:cts:greekLit:tlg0013.tlg031,Ancient text public domain; digital presentation terms apply,"Describes Helios’s genealogy, radiance, clothing, horses and chariot."
+text.greek.homeric_hymn_hestia_29,HYMN,lang.grc,Anonymous Homeric Hymn tradition,,Ancient Greek poetic tradition; exact dating debated,,"Hymn 29, 14 lines",Perseus / Scaife digital edition,urn:cts:greekLit:tlg0013.tlg029,Ancient text public domain; digital presentation terms apply,Honors Hestia and Hermes and records first-and-last libation language.
+text.greek.homeric_hymn_selene_32,HYMN,lang.grc,Anonymous Homeric Hymn tradition,,Ancient Greek poetic tradition; exact dating debated,,"Hymn 32, 20 lines",Perseus / Scaife digital edition,urn:cts:greekLit:tlg0013.tlg032,Ancient text public domain; digital presentation terms apply,"Describes Selene’s radiance, horses, monthly sign and Pandia genealogy."
 text.greek.homeric_hymns,HYMN_COLLECTION,lang.grc,Multiple anonymous poets,,Archaic to Hellenistic,,,,,,
 text.greek.iliad,EPIC,lang.grc,Homeric tradition,,Archaic Greece,,,,,,
 text.greek.inscriptions,CORPUS_SCOPE,lang.grc,,,Multiple periods,,,,,,

@@ -1,7 +1,7 @@
 key,value,updated_at
 baseline_statement,Current publicly discoverable material has a staged knowledge baseline; the system remains expandable.,2026-08-10T00:00:00Z
 completion_policy,NO_ALL_COMPLETE,2026-08-10T00:00:00Z
-data_version,0.1.0-baseline-20260810,2026-08-10T00:00:00Z
-generated_at,2026-08-10T00:00:00Z,2026-08-10T00:00:00Z
+data_version,0.4.0-greek-genealogy-20260814,2026-08-14T00:00:00Z
+generated_at,2026-08-14T00:00:00Z,2026-08-14T00:00:00Z
 project_name,世界神话系统 / World Mythology System,2026-08-10T00:00:00Z
-schema_version,1,2026-08-10T00:00:00Z
+schema_version,6,2026-08-14T00:00:00Z

@@ -10,13 +10,16 @@ The repository contains a reproducible staged knowledge baseline, not a claim of
 
 The bilingual React explorer provides searchable entities, filters, relationship graphs, claims, evidence locators, sources, coverage, and the permanent research queue. Chinese is the default interface; English can be selected from the header.
 
-Current `v0.3.1-public-preview` checkpoint:
+Current `v0.4.0-greek-genealogy` checkpoint:
 
-- 430 registered entities / 425 browsable canonical entities
+- 453 registered entities / 448 browsable canonical entities
 - 95 civilizations and traditions
-- 87 source records
-- 109 structured claims and 103 evidence records
-- 94 direct relationship assertions
+- 91 source records
+- 159 structured claims and 153 evidence records
+- 139 direct relationship assertions
+- A bilingual genealogy mode for parents, children, siblings, consorts, and their evidence
+
+v0.4.0 responds to public community feedback with Thanatos, Hypnos, Nyx, Hecate, Selene, Helios, Hestia, and their first-ring genealogy. The comment is discovery provenance only; every mythological assertion remains tied to exact lines in the *Theogony* or *Homeric Hymns*. See [v0.4.0 release notes](RELEASE_NOTES_v0.4.0.md).
 
 These are release checkpoint counts, not project limits.
 

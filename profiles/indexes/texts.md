@@ -29,6 +29,10 @@
 | text.greek.tragedies | 古希腊悲剧总集入口 | Ancient Greek tragedies | TEXT | 古希腊 | Classical Greece | UNVERIFIED |
 | text.greek.argonautica | 阿尔戈英雄纪 | Argonautica | EPIC | 古希腊 | Hellenistic | UNVERIFIED |
 | text.greek.bibliotheca | 书库（希腊神话汇编） | Bibliotheca | TEXT | 古希腊 | Roman imperial period | UNVERIFIED |
+| text.greek.homeric_hymn_demeter | 《荷马颂歌·致得墨忒耳》 | Homeric Hymn 2 to Demeter | TEXT | 古希腊 | Archaic Greek poetic tradition; exact dating debated | PARTIAL |
+| text.greek.homeric_hymn_hestia_29 | 《荷马颂歌·致赫斯提亚》（第29首） | Homeric Hymn 29 to Hestia | TEXT | 古希腊 | Ancient Greek poetic tradition; exact dating debated | PARTIAL |
+| text.greek.homeric_hymn_helios_31 | 《荷马颂歌·致赫利俄斯》（第31首） | Homeric Hymn 31 to Helios | TEXT | 古希腊 | Ancient Greek poetic tradition; exact dating debated | PARTIAL |
+| text.greek.homeric_hymn_selene_32 | 《荷马颂歌·致塞勒涅》（第32首） | Homeric Hymn 32 to Selene | TEXT | 古希腊 | Ancient Greek poetic tradition; exact dating debated | PARTIAL |
 | text.greek.homeric_hymns | 荷马赞歌 | Homeric Hymns | TEXT | 古希腊 | Archaic to Hellenistic | UNVERIFIED |
 | text.greek.iliad | 伊利亚特 | Iliad | EPIC | 古希腊 | Archaic Greece | UNVERIFIED |
 | text.greek.odyssey | 奥德赛 | Odyssey | EPIC | 古希腊 | Archaic Greece | UNVERIFIED |

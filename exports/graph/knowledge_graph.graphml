@@ -44,6 +44,7 @@
     <node id="concept.comparative.fertility"><data key="name">Fertility</data><data key="type">POWER</data></node>
     <node id="concept.comparative.fire"><data key="name">Fire</data><data key="type">ELEMENT</data></node>
     <node id="concept.comparative.healing"><data key="name">Healing</data><data key="type">POWER</data></node>
+    <node id="concept.comparative.hearth"><data key="name">Hearth</data><data key="type">CONCEPT</data></node>
     <node id="concept.comparative.hunting"><data key="name">Hunting</data><data key="type">CONCEPT</data></node>
     <node id="concept.comparative.ice"><data key="name">Ice</data><data key="type">ELEMENT</data></node>
     <node id="concept.comparative.justice"><data key="name">Justice</data><data key="type">CONCEPT</data></node>
@@ -59,12 +60,14 @@
     <node id="concept.comparative.moon"><data key="name">Moon</data><data key="type">ELEMENT</data></node>
     <node id="concept.comparative.music"><data key="name">Music</data><data key="type">CONCEPT</data></node>
     <node id="concept.comparative.navigation"><data key="name">Navigation</data><data key="type">CONCEPT</data></node>
+    <node id="concept.comparative.night"><data key="name">Night</data><data key="type">CONCEPT</data></node>
     <node id="concept.comparative.ocean"><data key="name">Ocean</data><data key="type">ELEMENT</data></node>
     <node id="concept.comparative.order"><data key="name">Order</data><data key="type">CONCEPT</data></node>
     <node id="concept.comparative.poetry"><data key="name">Poetry</data><data key="type">CONCEPT</data></node>
     <node id="concept.comparative.rebirth"><data key="name">Rebirth</data><data key="type">CONCEPT</data></node>
     <node id="concept.comparative.river"><data key="name">River</data><data key="type">ELEMENT</data></node>
     <node id="concept.comparative.sky"><data key="name">Sky</data><data key="type">ELEMENT</data></node>
+    <node id="concept.comparative.sleep"><data key="name">Sleep</data><data key="type">CONCEPT</data></node>
     <node id="concept.comparative.snow"><data key="name">Snow</data><data key="type">ELEMENT</data></node>
     <node id="concept.comparative.soul"><data key="name">Soul</data><data key="type">CONCEPT</data></node>
     <node id="concept.comparative.stars"><data key="name">Stars</data><data key="type">ELEMENT</data></node>
@@ -114,22 +117,38 @@
     <node id="deity.egyptian.shu"><data key="name">Shu</data><data key="type">DEITY</data></node>
     <node id="deity.egyptian.tefnut"><data key="name">Tefnut</data><data key="type">DEITY</data></node>
     <node id="deity.egyptian.thoth"><data key="name">Thoth</data><data key="type">DEITY</data></node>
+    <node id="deity.greek.aether"><data key="name">Aether</data><data key="type">PRIMORDIAL_DEITY</data></node>
     <node id="deity.greek.aphrodite"><data key="name">Aphrodite</data><data key="type">DEITY</data></node>
     <node id="deity.greek.apollo"><data key="name">Apollo</data><data key="type">DEITY</data></node>
     <node id="deity.greek.ares"><data key="name">Ares</data><data key="type">DEITY</data></node>
     <node id="deity.greek.artemis"><data key="name">Artemis</data><data key="type">DEITY</data></node>
+    <node id="deity.greek.asteria"><data key="name">Asteria</data><data key="type">DEITY</data></node>
     <node id="deity.greek.athena"><data key="name">Athena</data><data key="type">DEITY</data></node>
+    <node id="deity.greek.chaos"><data key="name">Chaos</data><data key="type">PRIMORDIAL_DEITY</data></node>
     <node id="deity.greek.cronus"><data key="name">Cronus</data><data key="type">DEITY</data></node>
     <node id="deity.greek.demeter"><data key="name">Demeter</data><data key="type">DEITY</data></node>
     <node id="deity.greek.dionysus"><data key="name">Dionysus</data><data key="type">DEITY</data></node>
+    <node id="deity.greek.eos"><data key="name">Eos</data><data key="type">DEITY</data></node>
+    <node id="deity.greek.erebus"><data key="name">Erebus</data><data key="type">PRIMORDIAL_DEITY</data></node>
     <node id="deity.greek.gaia"><data key="name">Gaia</data><data key="type">PRIMORDIAL_DEITY</data></node>
     <node id="deity.greek.hades"><data key="name">Hades</data><data key="type">DEITY</data></node>
+    <node id="deity.greek.hecate"><data key="name">Hecate</data><data key="type">DEITY</data></node>
+    <node id="deity.greek.helios"><data key="name">Helios</data><data key="type">DEITY</data></node>
+    <node id="deity.greek.hemera"><data key="name">Hemera</data><data key="type">PRIMORDIAL_DEITY</data></node>
     <node id="deity.greek.hephaestus"><data key="name">Hephaestus</data><data key="type">DEITY</data></node>
     <node id="deity.greek.hera"><data key="name">Hera</data><data key="type">DEITY</data></node>
     <node id="deity.greek.hermes"><data key="name">Hermes</data><data key="type">DEITY</data></node>
+    <node id="deity.greek.hestia"><data key="name">Hestia</data><data key="type">DEITY</data></node>
+    <node id="deity.greek.hyperion"><data key="name">Hyperion</data><data key="type">DEITY</data></node>
+    <node id="deity.greek.hypnos"><data key="name">Hypnos</data><data key="type">DEITY</data></node>
     <node id="deity.greek.metis"><data key="name">Metis</data><data key="type">DEITY</data></node>
+    <node id="deity.greek.nyx"><data key="name">Nyx</data><data key="type">PRIMORDIAL_DEITY</data></node>
+    <node id="deity.greek.perses"><data key="name">Perses</data><data key="type">DEITY</data></node>
     <node id="deity.greek.poseidon"><data key="name">Poseidon</data><data key="type">DEITY</data></node>
     <node id="deity.greek.rhea"><data key="name">Rhea</data><data key="type">DEITY</data></node>
+    <node id="deity.greek.selene"><data key="name">Selene</data><data key="type">DEITY</data></node>
+    <node id="deity.greek.thanatos"><data key="name">Thanatos</data><data key="type">DEITY</data></node>
+    <node id="deity.greek.theia"><data key="name">Theia</data><data key="type">DEITY</data></node>
     <node id="deity.greek.uranus"><data key="name">Uranus</data><data key="type">PRIMORDIAL_DEITY</data></node>
     <node id="deity.greek.zeus"><data key="name">Zeus</data><data key="type">DEITY</data></node>
     <node id="deity.hawaiian.pele"><data key="name">Pele</data><data key="type">DEITY</data></node>
@@ -346,6 +365,10 @@
     <node id="text.egypt.temple_tomb_inscriptions"><data key="name">Egyptian temple and tomb inscriptions</data><data key="type">INSCRIPTION</data></node>
     <node id="text.greek.argonautica"><data key="name">Argonautica</data><data key="type">EPIC</data></node>
     <node id="text.greek.bibliotheca"><data key="name">Bibliotheca</data><data key="type">TEXT</data></node>
+    <node id="text.greek.homeric_hymn_demeter"><data key="name">Homeric Hymn 2 to Demeter</data><data key="type">TEXT</data></node>
+    <node id="text.greek.homeric_hymn_helios_31"><data key="name">Homeric Hymn 31 to Helios</data><data key="type">TEXT</data></node>
+    <node id="text.greek.homeric_hymn_hestia_29"><data key="name">Homeric Hymn 29 to Hestia</data><data key="type">TEXT</data></node>
+    <node id="text.greek.homeric_hymn_selene_32"><data key="name">Homeric Hymn 32 to Selene</data><data key="type">TEXT</data></node>
     <node id="text.greek.homeric_hymns"><data key="name">Homeric Hymns</data><data key="type">TEXT</data></node>
     <node id="text.greek.iliad"><data key="name">Iliad</data><data key="type">EPIC</data></node>
     <node id="text.greek.inscriptions"><data key="name">Ancient Greek religious inscriptions</data><data key="type">INSCRIPTION</data></node>
@@ -512,6 +535,51 @@
     <edge id="claim.ugarit.baal_enemy_yam" source="deity.ugaritic.baal" target="deity.ugaritic.yam"><data key="relation">ENEMY_OF</data></edge>
     <edge id="claim.ugarit.baal_tablet_held_louvre" source="museum.ugarit.baal_cycle_ao16643" target="institution.louvre"><data key="relation">HELD_BY_MUSEUM</data></edge>
     <edge id="claim.ugarit.stele_held_louvre" source="museum.ugarit.baal_thunder_ao15775" target="institution.louvre"><data key="relation">HELD_BY_MUSEUM</data></edge>
+    <edge id="claim.v040.aether.child_erebus" source="deity.greek.aether" target="deity.greek.erebus"><data key="relation">CHILD_OF</data></edge>
+    <edge id="claim.v040.aether.child_nyx" source="deity.greek.aether" target="deity.greek.nyx"><data key="relation">CHILD_OF</data></edge>
+    <edge id="claim.v040.asteria.parent_hecate" source="deity.greek.asteria" target="deity.greek.hecate"><data key="relation">PARENT_OF</data></edge>
+    <edge id="claim.v040.chaos.mentioned_theogony" source="deity.greek.chaos" target="text.greek.theogony"><data key="relation">MENTIONED_IN</data></edge>
+    <edge id="claim.v040.eos.mentioned_theogony" source="deity.greek.eos" target="text.greek.theogony"><data key="relation">MENTIONED_IN</data></edge>
+    <edge id="claim.v040.erebus.child_chaos" source="deity.greek.erebus" target="deity.greek.chaos"><data key="relation">CHILD_OF</data></edge>
+    <edge id="claim.v040.hecate.appears_hymn2" source="deity.greek.hecate" target="text.greek.homeric_hymn_demeter"><data key="relation">APPEARS_IN</data></edge>
+    <edge id="claim.v040.hecate.mentioned_theogony" source="deity.greek.hecate" target="text.greek.theogony"><data key="relation">MENTIONED_IN</data></edge>
+    <edge id="claim.v040.helios.appears_hymn2" source="deity.greek.helios" target="text.greek.homeric_hymn_demeter"><data key="relation">APPEARS_IN</data></edge>
+    <edge id="claim.v040.helios.appears_hymn31" source="deity.greek.helios" target="text.greek.homeric_hymn_helios_31"><data key="relation">APPEARS_IN</data></edge>
+    <edge id="claim.v040.helios.represents_sun" source="deity.greek.helios" target="concept.comparative.sun"><data key="relation">REPRESENTS</data></edge>
+    <edge id="claim.v040.helios.sibling_eos" source="deity.greek.helios" target="deity.greek.eos"><data key="relation">SIBLING_OF</data></edge>
+    <edge id="claim.v040.helios.sibling_selene" source="deity.greek.helios" target="deity.greek.selene"><data key="relation">SIBLING_OF</data></edge>
+    <edge id="claim.v040.hemera.child_erebus" source="deity.greek.hemera" target="deity.greek.erebus"><data key="relation">CHILD_OF</data></edge>
+    <edge id="claim.v040.hemera.child_nyx" source="deity.greek.hemera" target="deity.greek.nyx"><data key="relation">CHILD_OF</data></edge>
+    <edge id="claim.v040.hestia.appears_hymn29" source="deity.greek.hestia" target="text.greek.homeric_hymn_hestia_29"><data key="relation">APPEARS_IN</data></edge>
+    <edge id="claim.v040.hestia.child_cronus" source="deity.greek.hestia" target="deity.greek.cronus"><data key="relation">CHILD_OF</data></edge>
+    <edge id="claim.v040.hestia.child_rhea" source="deity.greek.hestia" target="deity.greek.rhea"><data key="relation">CHILD_OF</data></edge>
+    <edge id="claim.v040.hestia.represents_hearth" source="deity.greek.hestia" target="concept.comparative.hearth"><data key="relation">REPRESENTS</data></edge>
+    <edge id="claim.v040.hestia.sibling_demeter" source="deity.greek.hestia" target="deity.greek.demeter"><data key="relation">SIBLING_OF</data></edge>
+    <edge id="claim.v040.hestia.sibling_hades" source="deity.greek.hestia" target="deity.greek.hades"><data key="relation">SIBLING_OF</data></edge>
+    <edge id="claim.v040.hestia.sibling_hera" source="deity.greek.hestia" target="deity.greek.hera"><data key="relation">SIBLING_OF</data></edge>
+    <edge id="claim.v040.hestia.sibling_poseidon" source="deity.greek.hestia" target="deity.greek.poseidon"><data key="relation">SIBLING_OF</data></edge>
+    <edge id="claim.v040.hestia.sibling_zeus" source="deity.greek.hestia" target="deity.greek.zeus"><data key="relation">SIBLING_OF</data></edge>
+    <edge id="claim.v040.hyperion.child_gaia" source="deity.greek.hyperion" target="deity.greek.gaia"><data key="relation">CHILD_OF</data></edge>
+    <edge id="claim.v040.hyperion.child_uranus" source="deity.greek.hyperion" target="deity.greek.uranus"><data key="relation">CHILD_OF</data></edge>
+    <edge id="claim.v040.hyperion.parent_eos" source="deity.greek.hyperion" target="deity.greek.eos"><data key="relation">PARENT_OF</data></edge>
+    <edge id="claim.v040.hyperion.parent_helios" source="deity.greek.hyperion" target="deity.greek.helios"><data key="relation">PARENT_OF</data></edge>
+    <edge id="claim.v040.hyperion.parent_selene" source="deity.greek.hyperion" target="deity.greek.selene"><data key="relation">PARENT_OF</data></edge>
+    <edge id="claim.v040.hypnos.child_nyx" source="deity.greek.hypnos" target="deity.greek.nyx"><data key="relation">CHILD_OF</data></edge>
+    <edge id="claim.v040.hypnos.represents_sleep" source="deity.greek.hypnos" target="concept.comparative.sleep"><data key="relation">REPRESENTS</data></edge>
+    <edge id="claim.v040.nyx.child_chaos" source="deity.greek.nyx" target="deity.greek.chaos"><data key="relation">CHILD_OF</data></edge>
+    <edge id="claim.v040.nyx.represents_night" source="deity.greek.nyx" target="concept.comparative.night"><data key="relation">REPRESENTS</data></edge>
+    <edge id="claim.v040.perses.parent_hecate" source="deity.greek.perses" target="deity.greek.hecate"><data key="relation">PARENT_OF</data></edge>
+    <edge id="claim.v040.selene.appears_hymn32" source="deity.greek.selene" target="text.greek.homeric_hymn_selene_32"><data key="relation">APPEARS_IN</data></edge>
+    <edge id="claim.v040.selene.represents_moon" source="deity.greek.selene" target="concept.comparative.moon"><data key="relation">REPRESENTS</data></edge>
+    <edge id="claim.v040.selene.sibling_eos" source="deity.greek.selene" target="deity.greek.eos"><data key="relation">SIBLING_OF</data></edge>
+    <edge id="claim.v040.thanatos.child_nyx" source="deity.greek.thanatos" target="deity.greek.nyx"><data key="relation">CHILD_OF</data></edge>
+    <edge id="claim.v040.thanatos.represents_death" source="deity.greek.thanatos" target="concept.comparative.death"><data key="relation">REPRESENTS</data></edge>
+    <edge id="claim.v040.thanatos.sibling_hypnos" source="deity.greek.thanatos" target="deity.greek.hypnos"><data key="relation">SIBLING_OF</data></edge>
+    <edge id="claim.v040.theia.child_gaia" source="deity.greek.theia" target="deity.greek.gaia"><data key="relation">CHILD_OF</data></edge>
+    <edge id="claim.v040.theia.child_uranus" source="deity.greek.theia" target="deity.greek.uranus"><data key="relation">CHILD_OF</data></edge>
+    <edge id="claim.v040.theia.parent_eos" source="deity.greek.theia" target="deity.greek.eos"><data key="relation">PARENT_OF</data></edge>
+    <edge id="claim.v040.theia.parent_helios" source="deity.greek.theia" target="deity.greek.helios"><data key="relation">PARENT_OF</data></edge>
+    <edge id="claim.v040.theia.parent_selene" source="deity.greek.theia" target="deity.greek.selene"><data key="relation">PARENT_OF</data></edge>
     <edge id="claim.ve.sibling_odin" source="deity.norse.ve" target="deity.norse.odin"><data key="relation">SIBLING_OF</data></edge>
     <edge id="claim.vili.sibling_odin" source="deity.norse.vili" target="deity.norse.odin"><data key="relation">SIBLING_OF</data></edge>
     <edge id="claim.vili.sibling_ve" source="deity.norse.vili" target="deity.norse.ve"><data key="relation">SIBLING_OF</data></edge>

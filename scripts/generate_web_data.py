@@ -338,7 +338,7 @@ def build_snapshot(database_path: Path) -> dict[str, Any]:
 
     snapshot = {
         "meta": {
-            "projectVersion": "0.3.1-public-preview",
+            "projectVersion": "0.4.0-greek-genealogy",
             "datasetRelease": release,
             "generatedFrom": "database/world_mythology.sqlite",
             "completionClaim": (

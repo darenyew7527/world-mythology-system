@@ -23,6 +23,9 @@
 {"association_role":"ORIGIN","certainty":"SUPPORTED","civilization_id":"civ.chinese_ancient","entity_id":"concept.chinese.wuxing.mu","notes":"Text-tradition association, not historical existence"}
 {"association_role":"ORIGIN","certainty":"SUPPORTED","civilization_id":"civ.chinese_ancient","entity_id":"concept.chinese.wuxing.shui","notes":"Text-tradition association, not historical existence"}
 {"association_role":"ORIGIN","certainty":"SUPPORTED","civilization_id":"civ.chinese_ancient","entity_id":"concept.chinese.wuxing.tu","notes":"Text-tradition association, not historical existence"}
+{"association_role":"ORIGIN","certainty":"SUPPORTED","civilization_id":"civ.greek","entity_id":"concept.comparative.hearth","notes":"Registered from the Greek textual baseline; comparative concepts remain navigation aids only"}
+{"association_role":"ORIGIN","certainty":"SUPPORTED","civilization_id":"civ.greek","entity_id":"concept.comparative.night","notes":"Registered from the Greek textual baseline; comparative concepts remain navigation aids only"}
+{"association_role":"ORIGIN","certainty":"SUPPORTED","civilization_id":"civ.greek","entity_id":"concept.comparative.sleep","notes":"Registered from the Greek textual baseline; comparative concepts remain navigation aids only"}
 {"association_role":"ORIGIN_OR_ATTESTATION","certainty":"SUPPORTED","civilization_id":"civ.egyptian","entity_id":"concept.egyptian.isfet","notes":null}
 {"association_role":"ORIGIN_OR_ATTESTATION","certainty":"SUPPORTED","civilization_id":"civ.egyptian","entity_id":"concept.egyptian.ma_at","notes":null}
 {"association_role":"ORIGIN_OR_ATTESTATION","certainty":"SUPPORTED","civilization_id":"civ.greek","entity_id":"concept.greek.classical_elements","notes":null}
@@ -60,22 +63,38 @@
 {"association_role":"ORIGIN_OR_ATTESTATION","certainty":"SUPPORTED","civilization_id":"civ.egyptian","entity_id":"deity.egyptian.shu","notes":null}
 {"association_role":"ORIGIN_OR_ATTESTATION","certainty":"SUPPORTED","civilization_id":"civ.egyptian","entity_id":"deity.egyptian.tefnut","notes":null}
 {"association_role":"ORIGIN_OR_ATTESTATION","certainty":"SUPPORTED","civilization_id":"civ.egyptian","entity_id":"deity.egyptian.thoth","notes":null}
+{"association_role":"ORIGIN","certainty":"SUPPORTED","civilization_id":"civ.greek","entity_id":"deity.greek.aether","notes":"Registered from the Greek textual baseline; comparative concepts remain navigation aids only"}
 {"association_role":"ORIGIN_OR_ATTESTATION","certainty":"SUPPORTED","civilization_id":"civ.greek","entity_id":"deity.greek.aphrodite","notes":null}
 {"association_role":"ORIGIN_OR_ATTESTATION","certainty":"SUPPORTED","civilization_id":"civ.greek","entity_id":"deity.greek.apollo","notes":null}
 {"association_role":"ORIGIN_OR_ATTESTATION","certainty":"SUPPORTED","civilization_id":"civ.greek","entity_id":"deity.greek.ares","notes":null}
 {"association_role":"ORIGIN_OR_ATTESTATION","certainty":"SUPPORTED","civilization_id":"civ.greek","entity_id":"deity.greek.artemis","notes":null}
+{"association_role":"ORIGIN","certainty":"SUPPORTED","civilization_id":"civ.greek","entity_id":"deity.greek.asteria","notes":"Registered from the Greek textual baseline; comparative concepts remain navigation aids only"}
 {"association_role":"ORIGIN_OR_ATTESTATION","certainty":"SUPPORTED","civilization_id":"civ.greek","entity_id":"deity.greek.athena","notes":null}
+{"association_role":"ORIGIN","certainty":"SUPPORTED","civilization_id":"civ.greek","entity_id":"deity.greek.chaos","notes":"Registered from the Greek textual baseline; comparative concepts remain navigation aids only"}
 {"association_role":"ORIGIN_OR_ATTESTATION","certainty":"SUPPORTED","civilization_id":"civ.greek","entity_id":"deity.greek.cronus","notes":null}
 {"association_role":"ORIGIN_OR_ATTESTATION","certainty":"SUPPORTED","civilization_id":"civ.greek","entity_id":"deity.greek.demeter","notes":null}
 {"association_role":"ORIGIN_OR_ATTESTATION","certainty":"SUPPORTED","civilization_id":"civ.greek","entity_id":"deity.greek.dionysus","notes":null}
+{"association_role":"ORIGIN","certainty":"SUPPORTED","civilization_id":"civ.greek","entity_id":"deity.greek.eos","notes":"Registered from the Greek textual baseline; comparative concepts remain navigation aids only"}
+{"association_role":"ORIGIN","certainty":"SUPPORTED","civilization_id":"civ.greek","entity_id":"deity.greek.erebus","notes":"Registered from the Greek textual baseline; comparative concepts remain navigation aids only"}
 {"association_role":"ORIGIN_OR_ATTESTATION","certainty":"SUPPORTED","civilization_id":"civ.greek","entity_id":"deity.greek.gaia","notes":null}
 {"association_role":"ORIGIN_OR_ATTESTATION","certainty":"SUPPORTED","civilization_id":"civ.greek","entity_id":"deity.greek.hades","notes":null}
+{"association_role":"ORIGIN","certainty":"SUPPORTED","civilization_id":"civ.greek","entity_id":"deity.greek.hecate","notes":"Registered from the Greek textual baseline; comparative concepts remain navigation aids only"}
+{"association_role":"ORIGIN","certainty":"SUPPORTED","civilization_id":"civ.greek","entity_id":"deity.greek.helios","notes":"Registered from the Greek textual baseline; comparative concepts remain navigation aids only"}
+{"association_role":"ORIGIN","certainty":"SUPPORTED","civilization_id":"civ.greek","entity_id":"deity.greek.hemera","notes":"Registered from the Greek textual baseline; comparative concepts remain navigation aids only"}
 {"association_role":"ORIGIN_OR_ATTESTATION","certainty":"SUPPORTED","civilization_id":"civ.greek","entity_id":"deity.greek.hephaestus","notes":null}
 {"association_role":"ORIGIN_OR_ATTESTATION","certainty":"SUPPORTED","civilization_id":"civ.greek","entity_id":"deity.greek.hera","notes":null}
 {"association_role":"ORIGIN_OR_ATTESTATION","certainty":"SUPPORTED","civilization_id":"civ.greek","entity_id":"deity.greek.hermes","notes":null}
+{"association_role":"ORIGIN","certainty":"SUPPORTED","civilization_id":"civ.greek","entity_id":"deity.greek.hestia","notes":"Registered from the Greek textual baseline; comparative concepts remain navigation aids only"}
+{"association_role":"ORIGIN","certainty":"SUPPORTED","civilization_id":"civ.greek","entity_id":"deity.greek.hyperion","notes":"Registered from the Greek textual baseline; comparative concepts remain navigation aids only"}
+{"association_role":"ORIGIN","certainty":"SUPPORTED","civilization_id":"civ.greek","entity_id":"deity.greek.hypnos","notes":"Registered from the Greek textual baseline; comparative concepts remain navigation aids only"}
 {"association_role":"ORIGIN","certainty":"SUPPORTED","civilization_id":"civ.greek","entity_id":"deity.greek.metis","notes":"Text-tradition association, not historical existence"}
+{"association_role":"ORIGIN","certainty":"SUPPORTED","civilization_id":"civ.greek","entity_id":"deity.greek.nyx","notes":"Registered from the Greek textual baseline; comparative concepts remain navigation aids only"}
+{"association_role":"ORIGIN","certainty":"SUPPORTED","civilization_id":"civ.greek","entity_id":"deity.greek.perses","notes":"Registered from the Greek textual baseline; comparative concepts remain navigation aids only"}
 {"association_role":"ORIGIN_OR_ATTESTATION","certainty":"SUPPORTED","civilization_id":"civ.greek","entity_id":"deity.greek.poseidon","notes":null}
 {"association_role":"ORIGIN_OR_ATTESTATION","certainty":"SUPPORTED","civilization_id":"civ.greek","entity_id":"deity.greek.rhea","notes":null}
+{"association_role":"ORIGIN","certainty":"SUPPORTED","civilization_id":"civ.greek","entity_id":"deity.greek.selene","notes":"Registered from the Greek textual baseline; comparative concepts remain navigation aids only"}
+{"association_role":"ORIGIN","certainty":"SUPPORTED","civilization_id":"civ.greek","entity_id":"deity.greek.thanatos","notes":"Registered from the Greek textual baseline; comparative concepts remain navigation aids only"}
+{"association_role":"ORIGIN","certainty":"SUPPORTED","civilization_id":"civ.greek","entity_id":"deity.greek.theia","notes":"Registered from the Greek textual baseline; comparative concepts remain navigation aids only"}
 {"association_role":"ORIGIN_OR_ATTESTATION","certainty":"SUPPORTED","civilization_id":"civ.greek","entity_id":"deity.greek.uranus","notes":null}
 {"association_role":"ORIGIN_OR_ATTESTATION","certainty":"SUPPORTED","civilization_id":"civ.greek","entity_id":"deity.greek.zeus","notes":null}
 {"association_role":"ORIGIN_OR_ATTESTATION","certainty":"SUPPORTED","civilization_id":"civ.hawaiian","entity_id":"deity.hawaiian.pele","notes":null}
@@ -283,6 +302,10 @@
 {"association_role":"ORIGIN_OR_ATTESTATION","certainty":"SUPPORTED","civilization_id":"civ.egyptian","entity_id":"text.egypt.temple_tomb_inscriptions","notes":null}
 {"association_role":"ORIGIN_OR_ATTESTATION","certainty":"SUPPORTED","civilization_id":"civ.greek","entity_id":"text.greek.argonautica","notes":null}
 {"association_role":"ORIGIN_OR_ATTESTATION","certainty":"SUPPORTED","civilization_id":"civ.greek","entity_id":"text.greek.bibliotheca","notes":null}
+{"association_role":"ORIGIN","certainty":"SUPPORTED","civilization_id":"civ.greek","entity_id":"text.greek.homeric_hymn_demeter","notes":"Registered from the Greek textual baseline; comparative concepts remain navigation aids only"}
+{"association_role":"ORIGIN","certainty":"SUPPORTED","civilization_id":"civ.greek","entity_id":"text.greek.homeric_hymn_helios_31","notes":"Registered from the Greek textual baseline; comparative concepts remain navigation aids only"}
+{"association_role":"ORIGIN","certainty":"SUPPORTED","civilization_id":"civ.greek","entity_id":"text.greek.homeric_hymn_hestia_29","notes":"Registered from the Greek textual baseline; comparative concepts remain navigation aids only"}
+{"association_role":"ORIGIN","certainty":"SUPPORTED","civilization_id":"civ.greek","entity_id":"text.greek.homeric_hymn_selene_32","notes":"Registered from the Greek textual baseline; comparative concepts remain navigation aids only"}
 {"association_role":"ORIGIN_OR_ATTESTATION","certainty":"SUPPORTED","civilization_id":"civ.greek","entity_id":"text.greek.homeric_hymns","notes":null}
 {"association_role":"ORIGIN_OR_ATTESTATION","certainty":"SUPPORTED","civilization_id":"civ.greek","entity_id":"text.greek.iliad","notes":null}
 {"association_role":"ORIGIN_OR_ATTESTATION","certainty":"SUPPORTED","civilization_id":"civ.greek","entity_id":"text.greek.inscriptions","notes":null}

@@ -4,10 +4,10 @@
 
 | Type | Registered | Unverified | Without outgoing claim |
 |---|---:|---:|---:|
-| `DEITY` | 101 | 80 | 80 |
-| `TEXT` | 45 | 41 | 44 |
+| `DEITY` | 112 | 80 | 80 |
+| `TEXT` | 49 | 41 | 48 |
 | `ARCHAEOLOGICAL_SITE` | 43 | 42 | 42 |
-| `CONCEPT` | 31 | 31 | 30 |
+| `CONCEPT` | 34 | 31 | 33 |
 | `WEAPON` | 24 | 24 | 24 |
 | `ELEMENT` | 32 | 17 | 22 |
 | `EPIC` | 15 | 15 | 15 |
@@ -22,7 +22,7 @@
 | `EVENT` | 6 | 4 | 6 |
 | `PLACE` | 6 | 6 | 6 |
 | `MONUMENT` | 5 | 5 | 5 |
-| `PRIMORDIAL_DEITY` | 6 | 5 | 5 |
+| `PRIMORDIAL_DEITY` | 11 | 5 | 5 |
 | `INSTITUTION` | 4 | 4 | 4 |
 | `REALM` | 4 | 3 | 4 |
 | `GIANT` | 4 | 2 | 2 |

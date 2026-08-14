@@ -145,11 +145,17 @@ name.concept.egyptian.ma_at.zh,concept.egyptian.ma_at,玛阿特（秩序概念�
 name.concept.greek.classical_elements.canonical,concept.greek.classical_elements,Classical Greek element traditions,classical greek element traditions,lang.en,,CANONICAL,,1,,
 name.concept.greek.classical_elements.original,concept.greek.classical_elements,στοιχεῖα,στοιχεῖα,lang.grc,,ORIGINAL,,1,,
 name.concept.greek.classical_elements.zh,concept.greek.classical_elements,希腊古典元素传统,希腊古典元素传统,lang.zh,,TRANSLATION,,1,,
+name.concept.hearth.en,concept.comparative.hearth,Hearth,hearth,lang.en,Latin,TRANSLATION,,1,,"Comparative navigation label, not an identity assertion"
+name.concept.hearth.zh,concept.comparative.hearth,炉火／灶火,炉火／灶火,lang.zh,Han,TRANSLATION,,1,,比较导航标签
 name.concept.indian.pancamahabhuta.canonical,concept.indian.pancamahabhuta,Pañcamahābhūta,pañcamahābhūta,lang.en,,CANONICAL,,1,,
 name.concept.indian.pancamahabhuta.original,concept.indian.pancamahabhuta,पञ्चमहाभूत,पञ्चमहाभूत,lang.san,,ORIGINAL,,1,,
 name.concept.indian.pancamahabhuta.zh,concept.indian.pancamahabhuta,五大,五大,lang.zh,,TRANSLATION,,1,,
+name.concept.night.en,concept.comparative.night,Night,night,lang.en,Latin,TRANSLATION,,1,,"Comparative navigation label, not an identity assertion"
+name.concept.night.zh,concept.comparative.night,夜,夜,lang.zh,Han,TRANSLATION,,1,,比较导航标签
 name.concept.norse.fire_ice_cosmogony.canonical,concept.norse.fire_ice_cosmogony,Norse fire-and-ice cosmogonic contrast,norse fire-and-ice cosmogonic contrast,lang.en,,CANONICAL,,1,,
 name.concept.norse.fire_ice_cosmogony.zh,concept.norse.fire_ice_cosmogony,北欧火与冰宇宙生成结构,北欧火与冰宇宙生成结构,lang.zh,,TRANSLATION,,1,,
+name.concept.sleep.en,concept.comparative.sleep,Sleep,sleep,lang.en,Latin,TRANSLATION,,1,,"Comparative navigation label, not an identity assertion"
+name.concept.sleep.zh,concept.comparative.sleep,睡眠,睡眠,lang.zh,Han,TRANSLATION,,1,,比较导航标签
 name.concept.zoroastrian.asha.canonical,concept.zoroastrian.asha,Asha,asha,lang.en,,CANONICAL,,1,,
 name.concept.zoroastrian.asha.original,concept.zoroastrian.asha,aša,aša,lang.ave,,ORIGINAL,,1,,
 name.concept.zoroastrian.asha.zh,concept.zoroastrian.asha,阿沙（真理／秩序）,阿沙(真理/秩序),lang.zh,,TRANSLATION,,1,,
@@ -492,6 +498,54 @@ name.event.norse.ragnarok.original,event.norse.ragnarok,Ragnarǫk,ragnarǫk,lang
 name.event.norse.ragnarok.zh,event.norse.ragnarok,诸神黄昏,诸神黄昏,lang.zh,,TRANSLATION,,1,,
 name.event.sumerian.inanna_descent.canonical,event.sumerian.inanna_descent,Descent of Inanna,descent of inanna,lang.en,,CANONICAL,,1,,
 name.event.sumerian.inanna_descent.zh,event.sumerian.inanna_descent,伊南娜下冥界事件,伊南娜下冥界事件,lang.zh,,TRANSLATION,,1,,
+name.greek.aether.en,deity.greek.aether,Aether,aether,lang.en,Latin,TRANSLITERATION,Conventional scholarly Latinization,1,source.greek.theogony.perseus_eng1,
+name.greek.aether.grc,deity.greek.aether,Αἰθήρ,αἰθήρ,lang.grc,Greek,ORIGINAL,,1,source.greek.theogony.scaife,Form at Theogony 124-125
+name.greek.aether.zh,deity.greek.aether,埃忒耳,埃忒耳,lang.zh,Han,TRANSLATION,,1,,Chinese transliteration
+name.greek.asteria.en,deity.greek.asteria,Asteria,asteria,lang.en,Latin,TRANSLITERATION,Conventional scholarly Latinization,1,source.greek.theogony.perseus_eng1,
+name.greek.asteria.grc,deity.greek.asteria,Ἀστερία,ἀστερία,lang.grc,Greek,ORIGINAL,,1,source.greek.theogony.scaife,Hesiodic name form
+name.greek.asteria.zh,deity.greek.asteria,阿斯忒里亚,阿斯忒里亚,lang.zh,Han,TRANSLATION,,1,,Chinese transliteration
+name.greek.chaos.en,deity.greek.chaos,Chaos,chaos,lang.en,Latin,TRANSLITERATION,Conventional scholarly Latinization,1,source.greek.theogony.perseus_eng1,
+name.greek.chaos.grc,deity.greek.chaos,Χάος,χάος,lang.grc,Greek,ORIGINAL,,1,source.greek.theogony.scaife,Form at Theogony 116 and 123
+name.greek.chaos.zh,deity.greek.chaos,卡俄斯,卡俄斯,lang.zh,Han,TRANSLATION,,1,,Chinese transliteration; kept distinct from the generic word 混沌
+name.greek.eos.en,deity.greek.eos,Eos,eos,lang.en,Latin,TRANSLITERATION,Conventional scholarly Latinization,1,source.greek.theogony.perseus_eng1,
+name.greek.eos.grc,deity.greek.eos,Ἠώς,ἠώς,lang.grc,Greek,ORIGINAL,,1,source.greek.theogony.scaife,Hesiodic name form
+name.greek.eos.zh,deity.greek.eos,厄俄斯,厄俄斯,lang.zh,Han,TRANSLATION,,1,,Chinese transliteration
+name.greek.erebus.en,deity.greek.erebus,Erebus,erebus,lang.en,Latin,TRANSLITERATION,Conventional scholarly Latinization,1,source.greek.theogony.perseus_eng1,
+name.greek.erebus.grc,deity.greek.erebus,Ἔρεβος,ἔρεβος,lang.grc,Greek,ORIGINAL,,1,source.greek.theogony.scaife,Form at Theogony 123-125
+name.greek.erebus.zh,deity.greek.erebus,厄瑞玻斯,厄瑞玻斯,lang.zh,Han,TRANSLATION,,1,,Chinese transliteration
+name.greek.hecate.en,deity.greek.hecate,Hecate,hecate,lang.en,Latin,TRANSLITERATION,Conventional Latinized form,1,source.greek.theogony.perseus_eng1,
+name.greek.hecate.grc,deity.greek.hecate,Ἑκάτη,ἑκάτη,lang.grc,Greek,ORIGINAL,,1,source.greek.theogony.scaife,Hesiodic name form
+name.greek.hecate.zh,deity.greek.hecate,赫卡忒,赫卡忒,lang.zh,Han,TRANSLATION,,1,,Chinese transliteration
+name.greek.helios.en,deity.greek.helios,Helios,helios,lang.en,Latin,TRANSLITERATION,Conventional scholarly Latinization,1,source.greek.homeric_hymn_helios31.scaife,
+name.greek.helios.grc,deity.greek.helios,Ἥλιος,ἥλιος,lang.grc,Greek,ORIGINAL,,1,source.greek.homeric_hymn_helios31.scaife,Name in Hymn 31
+name.greek.helios.zh,deity.greek.helios,赫利俄斯,赫利俄斯,lang.zh,Han,TRANSLATION,,1,,Chinese transliteration
+name.greek.hemera.en,deity.greek.hemera,Hemera,hemera,lang.en,Latin,TRANSLITERATION,Conventional scholarly Latinization,1,source.greek.theogony.perseus_eng1,
+name.greek.hemera.grc,deity.greek.hemera,Ἡμέρα,ἡμέρα,lang.grc,Greek,ORIGINAL,,1,source.greek.theogony.scaife,Form at Theogony 124-125
+name.greek.hemera.zh,deity.greek.hemera,赫墨拉,赫墨拉,lang.zh,Han,TRANSLATION,,1,,Chinese transliteration
+name.greek.hestia.en,deity.greek.hestia,Hestia,hestia,lang.en,Latin,TRANSLITERATION,Conventional scholarly Latinization,1,source.greek.homeric_hymn_hestia29.scaife,
+name.greek.hestia.grc,deity.greek.hestia,Ἑστία,ἑστία,lang.grc,Greek,ORIGINAL,,1,source.greek.homeric_hymn_hestia29.scaife,Form in Hymn 29
+name.greek.hestia.zh,deity.greek.hestia,赫斯提亚,赫斯提亚,lang.zh,Han,TRANSLATION,,1,,Chinese transliteration
+name.greek.hyperion.en,deity.greek.hyperion,Hyperion,hyperion,lang.en,Latin,TRANSLITERATION,Conventional scholarly Latinization,1,source.greek.theogony.perseus_eng1,
+name.greek.hyperion.grc,deity.greek.hyperion,Ὑπερίων,ὑπερίων,lang.grc,Greek,ORIGINAL,,1,source.greek.theogony.scaife,Form at Theogony 134
+name.greek.hyperion.zh,deity.greek.hyperion,许珀里翁,许珀里翁,lang.zh,Han,TRANSLATION,,1,,Chinese transliteration
+name.greek.hypnos.en,deity.greek.hypnos,Hypnos,hypnos,lang.en,Latin,TRANSLITERATION,Conventional scholarly Latinization,1,source.greek.theogony.perseus_eng1,
+name.greek.hypnos.grc,deity.greek.hypnos,Ὕπνος,ὕπνος,lang.grc,Greek,ORIGINAL,,1,source.greek.theogony.scaife,Hesiodic name form
+name.greek.hypnos.zh,deity.greek.hypnos,许普诺斯,许普诺斯,lang.zh,Han,TRANSLATION,,1,,Chinese transliteration
+name.greek.nyx.en,deity.greek.nyx,Nyx,nyx,lang.en,Latin,TRANSLITERATION,Conventional scholarly Latinization,1,source.greek.theogony.perseus_eng1,
+name.greek.nyx.grc,deity.greek.nyx,Νύξ,νύξ,lang.grc,Greek,ORIGINAL,,1,source.greek.theogony.scaife,Form at Theogony 123-125
+name.greek.nyx.zh,deity.greek.nyx,倪克斯,倪克斯,lang.zh,Han,TRANSLATION,,1,,Chinese transliteration
+name.greek.perses.en,deity.greek.perses,Perses,perses,lang.en,Latin,TRANSLITERATION,Conventional scholarly Latinization,1,source.greek.theogony.perseus_eng1,Identity caution applies
+name.greek.perses.grc,deity.greek.perses,Πέρσης,πέρσης,lang.grc,Greek,ORIGINAL,,1,source.greek.theogony.scaife,Hesiodic name form; homonymous figures remain distinct
+name.greek.perses.zh,deity.greek.perses,珀耳塞斯,珀耳塞斯,lang.zh,Han,TRANSLATION,,1,,Chinese transliteration
+name.greek.selene.en,deity.greek.selene,Selene,selene,lang.en,Latin,TRANSLITERATION,Conventional scholarly Latinization,1,source.greek.homeric_hymn_selene32.scaife,
+name.greek.selene.grc,deity.greek.selene,Σελήνη,σελήνη,lang.grc,Greek,ORIGINAL,,1,source.greek.homeric_hymn_selene32.scaife,Name in Hymn 32
+name.greek.selene.zh,deity.greek.selene,塞勒涅,塞勒涅,lang.zh,Han,TRANSLATION,,1,,Chinese transliteration
+name.greek.thanatos.en,deity.greek.thanatos,Thanatos,thanatos,lang.en,Latin,TRANSLITERATION,Conventional scholarly Latinization,1,source.greek.theogony.perseus_eng1,
+name.greek.thanatos.grc,deity.greek.thanatos,Θάνατος,θάνατος,lang.grc,Greek,ORIGINAL,,1,source.greek.theogony.scaife,Hesiodic name form
+name.greek.thanatos.zh,deity.greek.thanatos,塔纳托斯,塔纳托斯,lang.zh,Han,TRANSLATION,,1,,Chinese transliteration
+name.greek.theia.en,deity.greek.theia,Theia,theia,lang.en,Latin,TRANSLITERATION,Conventional scholarly Latinization,1,source.greek.theogony.perseus_eng1,
+name.greek.theia.grc,deity.greek.theia,Θεία,θεία,lang.grc,Greek,ORIGINAL,,1,source.greek.theogony.scaife,Form at Theogony 135
+name.greek.theia.zh,deity.greek.theia,忒亚,忒亚,lang.zh,Han,TRANSLATION,,1,,Chinese transliteration
 name.gullinbursti.non,creature.norse.gullinbursti,Gullinbursti,gullinbursti,lang.non,Latin,ORIGINAL,,1,source.norse.skaldskaparmal.vsnr1998,
 name.hanshu_wuxing.lzh,text.chinese.han_shu_wuxing_zhi,漢書·五行志,漢書·五行志,lang.lzh,Han,ORIGINAL,,1,source.china.han_shu.wuxing_zhi.ctext,
 name.hero.chinese.sun_wukong.canonical,hero.chinese.sun_wukong,Sun Wukong,sun wukong,lang.en,,CANONICAL,,1,,
@@ -808,6 +862,14 @@ name.text.greek.works_days.original,text.greek.works_days,Ἔργα καὶ Ἡ�
 name.text.greek.works_days.zh,text.greek.works_days,工作与时日,工作与时日,lang.zh,,TRANSLATION,,1,,
 name.text.hawaiian.kumulipo.canonical,text.hawaiian.kumulipo,Kumulipo,kumulipo,lang.en,,CANONICAL,,1,,
 name.text.hawaiian.kumulipo.zh,text.hawaiian.kumulipo,库穆利波创世吟唱,库穆利波创世吟唱,lang.zh,,TRANSLATION,,1,,
+name.text.hh_demeter.en,text.greek.homeric_hymn_demeter,Homeric Hymn 2 to Demeter,homeric hymn 2 to demeter,lang.en,Latin,CANONICAL,,1,source.greek.homeric_hymn_demeter.scaife,Scaife catalogue title
+name.text.hh_demeter.zh,text.greek.homeric_hymn_demeter,《荷马颂歌·致得墨忒耳》,荷马颂歌 致得墨忒耳,lang.zh,Han,TRANSLATION,,1,,Chinese reading title
+name.text.hh_helios31.en,text.greek.homeric_hymn_helios_31,Homeric Hymn 31 to Helios,homeric hymn 31 to helios,lang.en,Latin,CANONICAL,,1,source.greek.homeric_hymn_helios31.scaife,Scaife catalogue title
+name.text.hh_helios31.zh,text.greek.homeric_hymn_helios_31,《荷马颂歌·致赫利俄斯》（第31首）,荷马颂歌 致赫利俄斯 第31首,lang.zh,Han,TRANSLATION,,1,,Chinese reading title
+name.text.hh_hestia29.en,text.greek.homeric_hymn_hestia_29,Homeric Hymn 29 to Hestia,homeric hymn 29 to hestia,lang.en,Latin,CANONICAL,,1,source.greek.homeric_hymn_hestia29.scaife,Scaife catalogue title
+name.text.hh_hestia29.zh,text.greek.homeric_hymn_hestia_29,《荷马颂歌·致赫斯提亚》（第29首）,荷马颂歌 致赫斯提亚 第29首,lang.zh,Han,TRANSLATION,,1,,Chinese reading title
+name.text.hh_selene32.en,text.greek.homeric_hymn_selene_32,Homeric Hymn 32 to Selene,homeric hymn 32 to selene,lang.en,Latin,CANONICAL,,1,source.greek.homeric_hymn_selene32.scaife,Scaife catalogue title
+name.text.hh_selene32.zh,text.greek.homeric_hymn_selene_32,《荷马颂歌·致塞勒涅》（第32首）,荷马颂歌 致塞勒涅 第32首,lang.zh,Han,TRANSLATION,,1,,Chinese reading title
 name.text.hindu.puranas.canonical,text.hindu.puranas,Purāṇas,purāṇas,lang.en,,CANONICAL,,1,,
 name.text.hindu.puranas.original,text.hindu.puranas,पुराण,पुराण,lang.san,,ORIGINAL,,1,,
 name.text.hindu.puranas.zh,text.hindu.puranas,往世书总集入口,往世书总集入口,lang.zh,,TRANSLATION,,1,,

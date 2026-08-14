@@ -16,6 +16,8 @@
 
 | Relation | Target | Review / layer | Evidence | Confidence | Direction |
 |---|---|---|---:|---:|---|
+| `PARENT_OF` | 许珀里翁 (`deity.greek.hyperion`) | VERIFIED / TEXT_SAYS / MYTHIC_NARRATIVE | 1 | 0.99 | inferred inverse; `claim.v040.hyperion.child_gaia` |
+| `PARENT_OF` | 忒亚 (`deity.greek.theia`) | VERIFIED / TEXT_SAYS / MYTHIC_NARRATIVE | 1 | 0.99 | inferred inverse; `claim.v040.theia.child_gaia` |
 | `PARENT_OF` | 提丰 (`creature.greek.typhon`) | VERIFIED / TEXT_SAYS / MYTHIC_NARRATIVE | 1 | 0.99 | inferred inverse; `claim.typhon.child_gaia` |
 
 ## Claims 与证据

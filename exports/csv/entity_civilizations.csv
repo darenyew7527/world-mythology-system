@@ -24,6 +24,9 @@ concept.chinese.wuxing.jin,civ.chinese_ancient,ORIGIN,SUPPORTED,"Text-tradition 
 concept.chinese.wuxing.mu,civ.chinese_ancient,ORIGIN,SUPPORTED,"Text-tradition association, not historical existence"
 concept.chinese.wuxing.shui,civ.chinese_ancient,ORIGIN,SUPPORTED,"Text-tradition association, not historical existence"
 concept.chinese.wuxing.tu,civ.chinese_ancient,ORIGIN,SUPPORTED,"Text-tradition association, not historical existence"
+concept.comparative.hearth,civ.greek,ORIGIN,SUPPORTED,Registered from the Greek textual baseline; comparative concepts remain navigation aids only
+concept.comparative.night,civ.greek,ORIGIN,SUPPORTED,Registered from the Greek textual baseline; comparative concepts remain navigation aids only
+concept.comparative.sleep,civ.greek,ORIGIN,SUPPORTED,Registered from the Greek textual baseline; comparative concepts remain navigation aids only
 concept.egyptian.isfet,civ.egyptian,ORIGIN_OR_ATTESTATION,SUPPORTED,
 concept.egyptian.ma_at,civ.egyptian,ORIGIN_OR_ATTESTATION,SUPPORTED,
 concept.greek.classical_elements,civ.greek,ORIGIN_OR_ATTESTATION,SUPPORTED,
@@ -61,22 +64,38 @@ deity.egyptian.seth,civ.egyptian,ORIGIN_OR_ATTESTATION,SUPPORTED,
 deity.egyptian.shu,civ.egyptian,ORIGIN_OR_ATTESTATION,SUPPORTED,
 deity.egyptian.tefnut,civ.egyptian,ORIGIN_OR_ATTESTATION,SUPPORTED,
 deity.egyptian.thoth,civ.egyptian,ORIGIN_OR_ATTESTATION,SUPPORTED,
+deity.greek.aether,civ.greek,ORIGIN,SUPPORTED,Registered from the Greek textual baseline; comparative concepts remain navigation aids only
 deity.greek.aphrodite,civ.greek,ORIGIN_OR_ATTESTATION,SUPPORTED,
 deity.greek.apollo,civ.greek,ORIGIN_OR_ATTESTATION,SUPPORTED,
 deity.greek.ares,civ.greek,ORIGIN_OR_ATTESTATION,SUPPORTED,
 deity.greek.artemis,civ.greek,ORIGIN_OR_ATTESTATION,SUPPORTED,
+deity.greek.asteria,civ.greek,ORIGIN,SUPPORTED,Registered from the Greek textual baseline; comparative concepts remain navigation aids only
 deity.greek.athena,civ.greek,ORIGIN_OR_ATTESTATION,SUPPORTED,
+deity.greek.chaos,civ.greek,ORIGIN,SUPPORTED,Registered from the Greek textual baseline; comparative concepts remain navigation aids only
 deity.greek.cronus,civ.greek,ORIGIN_OR_ATTESTATION,SUPPORTED,
 deity.greek.demeter,civ.greek,ORIGIN_OR_ATTESTATION,SUPPORTED,
 deity.greek.dionysus,civ.greek,ORIGIN_OR_ATTESTATION,SUPPORTED,
+deity.greek.eos,civ.greek,ORIGIN,SUPPORTED,Registered from the Greek textual baseline; comparative concepts remain navigation aids only
+deity.greek.erebus,civ.greek,ORIGIN,SUPPORTED,Registered from the Greek textual baseline; comparative concepts remain navigation aids only
 deity.greek.gaia,civ.greek,ORIGIN_OR_ATTESTATION,SUPPORTED,
 deity.greek.hades,civ.greek,ORIGIN_OR_ATTESTATION,SUPPORTED,
+deity.greek.hecate,civ.greek,ORIGIN,SUPPORTED,Registered from the Greek textual baseline; comparative concepts remain navigation aids only
+deity.greek.helios,civ.greek,ORIGIN,SUPPORTED,Registered from the Greek textual baseline; comparative concepts remain navigation aids only
+deity.greek.hemera,civ.greek,ORIGIN,SUPPORTED,Registered from the Greek textual baseline; comparative concepts remain navigation aids only
 deity.greek.hephaestus,civ.greek,ORIGIN_OR_ATTESTATION,SUPPORTED,
 deity.greek.hera,civ.greek,ORIGIN_OR_ATTESTATION,SUPPORTED,
 deity.greek.hermes,civ.greek,ORIGIN_OR_ATTESTATION,SUPPORTED,
+deity.greek.hestia,civ.greek,ORIGIN,SUPPORTED,Registered from the Greek textual baseline; comparative concepts remain navigation aids only
+deity.greek.hyperion,civ.greek,ORIGIN,SUPPORTED,Registered from the Greek textual baseline; comparative concepts remain navigation aids only
+deity.greek.hypnos,civ.greek,ORIGIN,SUPPORTED,Registered from the Greek textual baseline; comparative concepts remain navigation aids only
 deity.greek.metis,civ.greek,ORIGIN,SUPPORTED,"Text-tradition association, not historical existence"
+deity.greek.nyx,civ.greek,ORIGIN,SUPPORTED,Registered from the Greek textual baseline; comparative concepts remain navigation aids only
+deity.greek.perses,civ.greek,ORIGIN,SUPPORTED,Registered from the Greek textual baseline; comparative concepts remain navigation aids only
 deity.greek.poseidon,civ.greek,ORIGIN_OR_ATTESTATION,SUPPORTED,
 deity.greek.rhea,civ.greek,ORIGIN_OR_ATTESTATION,SUPPORTED,
+deity.greek.selene,civ.greek,ORIGIN,SUPPORTED,Registered from the Greek textual baseline; comparative concepts remain navigation aids only
+deity.greek.thanatos,civ.greek,ORIGIN,SUPPORTED,Registered from the Greek textual baseline; comparative concepts remain navigation aids only
+deity.greek.theia,civ.greek,ORIGIN,SUPPORTED,Registered from the Greek textual baseline; comparative concepts remain navigation aids only
 deity.greek.uranus,civ.greek,ORIGIN_OR_ATTESTATION,SUPPORTED,
 deity.greek.zeus,civ.greek,ORIGIN_OR_ATTESTATION,SUPPORTED,
 deity.hawaiian.pele,civ.hawaiian,ORIGIN_OR_ATTESTATION,SUPPORTED,
@@ -284,6 +303,10 @@ text.egypt.pyramid_texts,civ.egyptian,ORIGIN_OR_ATTESTATION,SUPPORTED,
 text.egypt.temple_tomb_inscriptions,civ.egyptian,ORIGIN_OR_ATTESTATION,SUPPORTED,
 text.greek.argonautica,civ.greek,ORIGIN_OR_ATTESTATION,SUPPORTED,
 text.greek.bibliotheca,civ.greek,ORIGIN_OR_ATTESTATION,SUPPORTED,
+text.greek.homeric_hymn_demeter,civ.greek,ORIGIN,SUPPORTED,Registered from the Greek textual baseline; comparative concepts remain navigation aids only
+text.greek.homeric_hymn_helios_31,civ.greek,ORIGIN,SUPPORTED,Registered from the Greek textual baseline; comparative concepts remain navigation aids only
+text.greek.homeric_hymn_hestia_29,civ.greek,ORIGIN,SUPPORTED,Registered from the Greek textual baseline; comparative concepts remain navigation aids only
+text.greek.homeric_hymn_selene_32,civ.greek,ORIGIN,SUPPORTED,Registered from the Greek textual baseline; comparative concepts remain navigation aids only
 text.greek.homeric_hymns,civ.greek,ORIGIN_OR_ATTESTATION,SUPPORTED,
 text.greek.iliad,civ.greek,ORIGIN_OR_ATTESTATION,SUPPORTED,
 text.greek.inscriptions,civ.greek,ORIGIN_OR_ATTESTATION,SUPPORTED,

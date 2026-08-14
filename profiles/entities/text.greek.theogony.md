@@ -16,6 +16,9 @@
 
 | Relation | Target | Review / layer | Evidence | Confidence | Direction |
 |---|---|---|---:|---:|---|
+| `MENTIONS` | 卡俄斯 (`deity.greek.chaos`) | VERIFIED / TEXT_SAYS / TEXTUAL_WITNESS | 1 | 0.99 | inferred inverse; `claim.v040.chaos.mentioned_theogony` |
+| `MENTIONS` | 厄俄斯 (`deity.greek.eos`) | VERIFIED / TEXT_SAYS / TEXTUAL_WITNESS | 1 | 0.99 | inferred inverse; `claim.v040.eos.mentioned_theogony` |
+| `MENTIONS` | 赫卡忒 (`deity.greek.hecate`) | VERIFIED / TEXT_SAYS / TEXTUAL_WITNESS | 1 | 0.99 | inferred inverse; `claim.v040.hecate.mentioned_theogony` |
 | `MENTIONS` | 墨提斯 (`deity.greek.metis`) | VERIFIED / TEXT_SAYS / TEXTUAL_WITNESS | 1 | 1.00 | inferred inverse; `claim.metis.mentioned_theogony` |
 | `MENTIONS` | 提丰 (`creature.greek.typhon`) | VERIFIED / TEXT_SAYS / TEXTUAL_WITNESS | 1 | 1.00 | inferred inverse; `claim.typhon.mentioned_theogony` |
 

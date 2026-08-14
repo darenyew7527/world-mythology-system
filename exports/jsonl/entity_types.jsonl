@@ -49,6 +49,7 @@
 {"code":"TABLET","description":null,"label_en":"Tablet","label_zh":"泥板","parent_code":"TEXT"}
 {"code":"TEMPLE","description":null,"label_en":"Temple","label_zh":"神庙","parent_code":"ARCHAEOLOGICAL_SITE"}
 {"code":"TEXT","description":null,"label_en":"Text","label_zh":"古籍／文献","parent_code":"ENTITY"}
+{"code":"TITAN","description":"Greek culture-specific divine generation/classification; never use as a cross-cultural synonym for giant.","label_en":"Titan","label_zh":"提坦神","parent_code":"DEITY"}
 {"code":"TOMB","description":null,"label_en":"Tomb","label_zh":"墓葬","parent_code":"ARCHAEOLOGICAL_SITE"}
 {"code":"UNDEAD","description":null,"label_en":"Undead","label_zh":"亡灵","parent_code":"CREATURE"}
 {"code":"WEAPON","description":null,"label_en":"Weapon","label_zh":"武器","parent_code":"ARTIFACT"}

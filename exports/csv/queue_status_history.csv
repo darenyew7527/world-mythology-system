@@ -33,3 +33,9 @@ qhist.20260811.typhon,queue.greek.typhon,NEW,PARTIAL,2026-08-11T03:05:26Z,"Entit
 qhist.20260811.ve,queue.norse.ve,NEW,PARTIAL,2026-08-11T03:05:26Z,"Entity, sibling and cosmogony claims added"
 qhist.20260811.vili,queue.norse.vili,NEW,PARTIAL,2026-08-11T03:05:26Z,"Entity, sibling and cosmogony claims added"
 qhist.20260811.wuxing,queue.china.wuxing_sources,SOURCE_FOUND,PARTIAL,2026-08-11T03:05:26Z,Hong Fan and Han Shu source locations and native component entities added
+qhist.20260814.celestial_variants,queue.greek.v040.celestial_variants,DISCOVERED,NEEDS_REVIEW,2026-08-14T00:00:00Z,Later identifications must be dated and must not become automatic merges
+qhist.20260814.community_feedback,queue.greek.v040.community_feedback_gaps,DISCOVERED,PARTIAL,2026-08-14T00:00:00Z,Seven requested entities and their first-ring genealogy were added with primary-text evidence; broader coverage remains open
+qhist.20260814.hecate_layers,queue.greek.v040.hecate_later_layers,DISCOVERED,SOURCE_FOUND,2026-08-14T00:00:00Z,Early textual baseline established; later layers queued separately
+qhist.20260814.hestia_cult,queue.greek.v040.hestia_cult,DISCOVERED,SOURCE_FOUND,2026-08-14T00:00:00Z,Hymn source registered; archaeological and epigraphic work remains
+qhist.20260814.nyx_children,queue.greek.v040.nyx_extended_children,DISCOVERED,SOURCE_FOUND,2026-08-14T00:00:00Z,Primary source located; expansion deliberately continues
+qhist.20260814.perses_identity,queue.greek.v040.perses_identity,DISCOVERED,CONFLICT,2026-08-14T00:00:00Z,Homonym requires witness-level identity review

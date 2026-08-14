@@ -50,6 +50,7 @@ SPIRIT,Spirit,精灵／灵体,CREATURE,
 TABLET,Tablet,泥板,TEXT,
 TEMPLE,Temple,神庙,ARCHAEOLOGICAL_SITE,
 TEXT,Text,古籍／文献,ENTITY,
+TITAN,Titan,提坦神,DEITY,Greek culture-specific divine generation/classification; never use as a cross-cultural synonym for giant.
 TOMB,Tomb,墓葬,ARCHAEOLOGICAL_SITE,
 UNDEAD,Undead,亡灵,CREATURE,
 WEAPON,Weapon,武器,ARTIFACT,

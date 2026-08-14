@@ -45,6 +45,7 @@
 {"entity_id":"concept.comparative.fertility","is_primary":1,"notes":null,"type_code":"POWER"}
 {"entity_id":"concept.comparative.fire","is_primary":1,"notes":null,"type_code":"ELEMENT"}
 {"entity_id":"concept.comparative.healing","is_primary":1,"notes":null,"type_code":"POWER"}
+{"entity_id":"concept.comparative.hearth","is_primary":1,"notes":"Primary classification from v0.4.0 Greek genealogy checkpoint","type_code":"CONCEPT"}
 {"entity_id":"concept.comparative.hunting","is_primary":1,"notes":null,"type_code":"CONCEPT"}
 {"entity_id":"concept.comparative.ice","is_primary":1,"notes":null,"type_code":"ELEMENT"}
 {"entity_id":"concept.comparative.justice","is_primary":1,"notes":null,"type_code":"CONCEPT"}
@@ -60,12 +61,14 @@
 {"entity_id":"concept.comparative.moon","is_primary":1,"notes":null,"type_code":"ELEMENT"}
 {"entity_id":"concept.comparative.music","is_primary":1,"notes":null,"type_code":"CONCEPT"}
 {"entity_id":"concept.comparative.navigation","is_primary":1,"notes":null,"type_code":"CONCEPT"}
+{"entity_id":"concept.comparative.night","is_primary":1,"notes":"Primary classification from v0.4.0 Greek genealogy checkpoint","type_code":"CONCEPT"}
 {"entity_id":"concept.comparative.ocean","is_primary":1,"notes":null,"type_code":"ELEMENT"}
 {"entity_id":"concept.comparative.order","is_primary":1,"notes":null,"type_code":"CONCEPT"}
 {"entity_id":"concept.comparative.poetry","is_primary":1,"notes":null,"type_code":"CONCEPT"}
 {"entity_id":"concept.comparative.rebirth","is_primary":1,"notes":null,"type_code":"CONCEPT"}
 {"entity_id":"concept.comparative.river","is_primary":1,"notes":null,"type_code":"ELEMENT"}
 {"entity_id":"concept.comparative.sky","is_primary":1,"notes":null,"type_code":"ELEMENT"}
+{"entity_id":"concept.comparative.sleep","is_primary":1,"notes":"Primary classification from v0.4.0 Greek genealogy checkpoint","type_code":"CONCEPT"}
 {"entity_id":"concept.comparative.snow","is_primary":1,"notes":null,"type_code":"ELEMENT"}
 {"entity_id":"concept.comparative.soul","is_primary":1,"notes":null,"type_code":"CONCEPT"}
 {"entity_id":"concept.comparative.stars","is_primary":1,"notes":null,"type_code":"ELEMENT"}
@@ -118,23 +121,50 @@
 {"entity_id":"deity.egyptian.shu","is_primary":1,"notes":null,"type_code":"DEITY"}
 {"entity_id":"deity.egyptian.tefnut","is_primary":1,"notes":null,"type_code":"DEITY"}
 {"entity_id":"deity.egyptian.thoth","is_primary":1,"notes":null,"type_code":"DEITY"}
+{"entity_id":"deity.greek.aether","is_primary":1,"notes":"Primary classification from v0.4.0 Greek genealogy checkpoint","type_code":"PRIMORDIAL_DEITY"}
+{"entity_id":"deity.greek.aether","is_primary":0,"notes":"Queryable through the deity collection","type_code":"DEITY"}
 {"entity_id":"deity.greek.aphrodite","is_primary":1,"notes":null,"type_code":"DEITY"}
 {"entity_id":"deity.greek.apollo","is_primary":1,"notes":null,"type_code":"DEITY"}
 {"entity_id":"deity.greek.ares","is_primary":1,"notes":null,"type_code":"DEITY"}
 {"entity_id":"deity.greek.artemis","is_primary":1,"notes":null,"type_code":"DEITY"}
+{"entity_id":"deity.greek.asteria","is_primary":1,"notes":"Primary classification from v0.4.0 Greek genealogy checkpoint","type_code":"DEITY"}
+{"entity_id":"deity.greek.asteria","is_primary":0,"notes":"Hesiodic divine generation","type_code":"TITAN"}
 {"entity_id":"deity.greek.athena","is_primary":1,"notes":null,"type_code":"DEITY"}
+{"entity_id":"deity.greek.chaos","is_primary":1,"notes":"Primary classification from v0.4.0 Greek genealogy checkpoint","type_code":"PRIMORDIAL_DEITY"}
+{"entity_id":"deity.greek.chaos","is_primary":0,"notes":"Queryable through the deity collection; ontology remains witness-specific","type_code":"DEITY"}
 {"entity_id":"deity.greek.cronus","is_primary":1,"notes":null,"type_code":"DEITY"}
+{"entity_id":"deity.greek.cronus","is_primary":0,"notes":"Greek culture-specific classification","type_code":"TITAN"}
 {"entity_id":"deity.greek.demeter","is_primary":1,"notes":null,"type_code":"DEITY"}
 {"entity_id":"deity.greek.dionysus","is_primary":1,"notes":null,"type_code":"DEITY"}
+{"entity_id":"deity.greek.eos","is_primary":1,"notes":"Primary classification from v0.4.0 Greek genealogy checkpoint","type_code":"DEITY"}
+{"entity_id":"deity.greek.erebus","is_primary":1,"notes":"Primary classification from v0.4.0 Greek genealogy checkpoint","type_code":"PRIMORDIAL_DEITY"}
+{"entity_id":"deity.greek.erebus","is_primary":0,"notes":"Queryable through the deity collection","type_code":"DEITY"}
 {"entity_id":"deity.greek.gaia","is_primary":1,"notes":null,"type_code":"PRIMORDIAL_DEITY"}
 {"entity_id":"deity.greek.gaia","is_primary":0,"notes":null,"type_code":"CONCEPT"}
 {"entity_id":"deity.greek.hades","is_primary":1,"notes":null,"type_code":"DEITY"}
+{"entity_id":"deity.greek.hecate","is_primary":1,"notes":"Primary classification from v0.4.0 Greek genealogy checkpoint","type_code":"DEITY"}
+{"entity_id":"deity.greek.helios","is_primary":1,"notes":"Primary classification from v0.4.0 Greek genealogy checkpoint","type_code":"DEITY"}
+{"entity_id":"deity.greek.hemera","is_primary":1,"notes":"Primary classification from v0.4.0 Greek genealogy checkpoint","type_code":"PRIMORDIAL_DEITY"}
+{"entity_id":"deity.greek.hemera","is_primary":0,"notes":"Queryable through the deity collection","type_code":"DEITY"}
 {"entity_id":"deity.greek.hephaestus","is_primary":1,"notes":null,"type_code":"DEITY"}
 {"entity_id":"deity.greek.hera","is_primary":1,"notes":null,"type_code":"DEITY"}
 {"entity_id":"deity.greek.hermes","is_primary":1,"notes":null,"type_code":"DEITY"}
+{"entity_id":"deity.greek.hestia","is_primary":1,"notes":"Primary classification from v0.4.0 Greek genealogy checkpoint","type_code":"DEITY"}
+{"entity_id":"deity.greek.hyperion","is_primary":1,"notes":"Primary classification from v0.4.0 Greek genealogy checkpoint","type_code":"DEITY"}
+{"entity_id":"deity.greek.hyperion","is_primary":0,"notes":"Hesiodic divine generation","type_code":"TITAN"}
+{"entity_id":"deity.greek.hypnos","is_primary":1,"notes":"Primary classification from v0.4.0 Greek genealogy checkpoint","type_code":"DEITY"}
 {"entity_id":"deity.greek.metis","is_primary":1,"notes":"Primary classification at research checkpoint 2026-08-11","type_code":"DEITY"}
+{"entity_id":"deity.greek.nyx","is_primary":1,"notes":"Primary classification from v0.4.0 Greek genealogy checkpoint","type_code":"PRIMORDIAL_DEITY"}
+{"entity_id":"deity.greek.nyx","is_primary":0,"notes":"Queryable through the deity collection","type_code":"DEITY"}
+{"entity_id":"deity.greek.perses","is_primary":1,"notes":"Primary classification from v0.4.0 Greek genealogy checkpoint","type_code":"DEITY"}
+{"entity_id":"deity.greek.perses","is_primary":0,"notes":"Hesiodic divine generation; identity caution applies","type_code":"TITAN"}
 {"entity_id":"deity.greek.poseidon","is_primary":1,"notes":null,"type_code":"DEITY"}
 {"entity_id":"deity.greek.rhea","is_primary":1,"notes":null,"type_code":"DEITY"}
+{"entity_id":"deity.greek.rhea","is_primary":0,"notes":"Greek culture-specific classification","type_code":"TITAN"}
+{"entity_id":"deity.greek.selene","is_primary":1,"notes":"Primary classification from v0.4.0 Greek genealogy checkpoint","type_code":"DEITY"}
+{"entity_id":"deity.greek.thanatos","is_primary":1,"notes":"Primary classification from v0.4.0 Greek genealogy checkpoint","type_code":"DEITY"}
+{"entity_id":"deity.greek.theia","is_primary":1,"notes":"Primary classification from v0.4.0 Greek genealogy checkpoint","type_code":"DEITY"}
+{"entity_id":"deity.greek.theia","is_primary":0,"notes":"Hesiodic divine generation","type_code":"TITAN"}
 {"entity_id":"deity.greek.uranus","is_primary":1,"notes":null,"type_code":"PRIMORDIAL_DEITY"}
 {"entity_id":"deity.greek.zeus","is_primary":1,"notes":null,"type_code":"DEITY"}
 {"entity_id":"deity.hawaiian.pele","is_primary":1,"notes":null,"type_code":"DEITY"}
@@ -357,6 +387,10 @@
 {"entity_id":"text.egypt.temple_tomb_inscriptions","is_primary":1,"notes":null,"type_code":"INSCRIPTION"}
 {"entity_id":"text.greek.argonautica","is_primary":1,"notes":null,"type_code":"EPIC"}
 {"entity_id":"text.greek.bibliotheca","is_primary":1,"notes":null,"type_code":"TEXT"}
+{"entity_id":"text.greek.homeric_hymn_demeter","is_primary":1,"notes":"Primary classification from v0.4.0 Greek genealogy checkpoint","type_code":"TEXT"}
+{"entity_id":"text.greek.homeric_hymn_helios_31","is_primary":1,"notes":"Primary classification from v0.4.0 Greek genealogy checkpoint","type_code":"TEXT"}
+{"entity_id":"text.greek.homeric_hymn_hestia_29","is_primary":1,"notes":"Primary classification from v0.4.0 Greek genealogy checkpoint","type_code":"TEXT"}
+{"entity_id":"text.greek.homeric_hymn_selene_32","is_primary":1,"notes":"Primary classification from v0.4.0 Greek genealogy checkpoint","type_code":"TEXT"}
 {"entity_id":"text.greek.homeric_hymns","is_primary":1,"notes":null,"type_code":"TEXT"}
 {"entity_id":"text.greek.iliad","is_primary":1,"notes":null,"type_code":"EPIC"}
 {"entity_id":"text.greek.inscriptions","is_primary":1,"notes":null,"type_code":"INSCRIPTION"}

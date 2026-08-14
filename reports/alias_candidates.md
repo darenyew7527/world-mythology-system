@@ -7,6 +7,7 @@
 | `水` | 4 | `concept.comparative.water,element.chinese.shui,element.indian.ap,concept.chinese.wuxing.shui` |
 | `火` | 4 | `concept.comparative.fire,element.chinese.huo,element.indian.agni,concept.chinese.wuxing.huo` |
 | `木` | 3 | `concept.comparative.wood,element.chinese.mu,concept.chinese.wuxing.mu` |
+| `chaos` | 2 | `concept.comparative.chaos,deity.greek.chaos` |
 | `mꜣꜥt` | 2 | `deity.egyptian.ma_at,concept.egyptian.ma_at` |
 | `土` | 2 | `element.chinese.tu,concept.chinese.wuxing.tu` |
 | `尚書` | 2 | `text.chinese.shangshu,text.chinese.shang_shu` |

@@ -23,6 +23,7 @@
 | `DEPICTED_ON` | 宙斯或波塞冬青铜像 (`museum.greek.zeus_poseidon_met_21_88_52`) | DISPUTED / SCHOLARLY_INTERPRETATION / SCHOLARLY_INTERPRETATION | 1 | 0.50 | inferred inverse; `claim.met_bronze_depicts_zeus` |
 | `IMPRISONED` | 墨提斯 (`deity.greek.metis`) | VERIFIED / TEXT_SAYS / MYTHIC_NARRATIVE | 1 | 0.98 | inferred inverse; `claim.metis.imprisoned_zeus` |
 | `PARTICIPATED_IN` | 宙斯与提丰之战 (`event.greek.zeus_typhon_battle`) | VERIFIED / TEXT_SAYS / MYTHIC_NARRATIVE | 1 | 0.99 | stored claim; `claim.zeus.participated_typhon` |
+| `SIBLING_OF` | 赫斯提亚 (`deity.greek.hestia`) | VERIFIED / TEXT_SAYS / MYTHIC_NARRATIVE | 1 | 0.98 | inferred inverse; `claim.v040.hestia.sibling_zeus` |
 | `USES` | 宙斯雷霆 (`weapon.greek.zeus_thunderbolt`) | VERIFIED / IN_TRADITION / MYTHIC_NARRATIVE | 1 | 0.95 | stored claim; `claim.greek.zeus_uses_thunderbolt` |
 | `WORSHIPPED_AT` | 奥林匹亚 (`site.greece.olympia`) | VERIFIED / HISTORICAL_REALITY / ARCHAEOLOGICAL | 1 | 0.98 | stored claim; `claim.greek.zeus_worshipped_olympia` |
 

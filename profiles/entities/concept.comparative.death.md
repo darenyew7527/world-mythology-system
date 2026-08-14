@@ -18,7 +18,9 @@ Cross-cultural comparison vocabulary; not an assertion that native traditions ar
 
 ## 关系网络
 
-当前无关系边；保留为研究缺口。
+| Relation | Target | Review / layer | Evidence | Confidence | Direction |
+|---|---|---|---:|---:|---|
+| `REPRESENTED_BY` | 塔纳托斯 (`deity.greek.thanatos`) | VERIFIED / SCHOLARLY_INTERPRETATION / SCHOLARLY_INTERPRETATION | 1 | 0.94 | inferred inverse; `claim.v040.thanatos.represents_death` |
 
 ## Claims 与证据
 

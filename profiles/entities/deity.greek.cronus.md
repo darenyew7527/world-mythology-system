@@ -10,13 +10,14 @@
 
 ## 分类
 
-`DEITY`
+`DEITY`, `TITAN`
 
 ## 关系网络
 
 | Relation | Target | Review / layer | Evidence | Confidence | Direction |
 |---|---|---|---:|---:|---|
 | `FATHER_OF` | 宙斯 (`deity.greek.zeus`) | VERIFIED / IN_TRADITION / MYTHIC_NARRATIVE | 1 | 0.80 | stored claim; `claim.greek.cronus_father_zeus` |
+| `PARENT_OF` | 赫斯提亚 (`deity.greek.hestia`) | VERIFIED / TEXT_SAYS / MYTHIC_NARRATIVE | 1 | 0.99 | inferred inverse; `claim.v040.hestia.child_cronus` |
 
 ## Claims 与证据
 

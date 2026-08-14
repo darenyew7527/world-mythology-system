@@ -13,6 +13,7 @@
 | concept.comparative.dream | 梦 | Dream | CONCEPT | — | PARTIAL | UNVERIFIED |
 | concept.zoroastrian.druj | 德鲁杰（虚妄／失序） | Druj | CONCEPT | 琐罗亚斯德传统 | PARTIAL | UNVERIFIED |
 | concept.comparative.fate | 命运 | Fate | CONCEPT | — | PARTIAL | UNVERIFIED |
+| concept.comparative.hearth | 炉火／灶火 | Hearth | CONCEPT | 古希腊 | PARTIAL | PARTIAL |
 | concept.comparative.hunting | 狩猎 | Hunting | CONCEPT | — | PARTIAL | UNVERIFIED |
 | concept.egyptian.isfet | 伊斯菲特（失序） | Isfet | CONCEPT | 古埃及 | PARTIAL | UNVERIFIED |
 | concept.comparative.justice | 正义 | Justice | CONCEPT | — | PARTIAL | UNVERIFIED |
@@ -24,10 +25,12 @@
 | concept.comparative.memory | 记忆 | Memory | CONCEPT | — | PARTIAL | UNVERIFIED |
 | concept.comparative.music | 音乐 | Music | CONCEPT | — | PARTIAL | UNVERIFIED |
 | concept.comparative.navigation | 航海 | Navigation | CONCEPT | — | PARTIAL | UNVERIFIED |
+| concept.comparative.night | 夜 | Night | CONCEPT | 古希腊 | PARTIAL | PARTIAL |
 | concept.comparative.order | 秩序 | Order | CONCEPT | — | PARTIAL | UNVERIFIED |
 | concept.indian.pancamahabhuta | 五大 | Pañcamahābhūta | CONCEPT | 印度教传统 | PARTIAL | UNVERIFIED |
 | concept.comparative.poetry | 诗歌 | Poetry | CONCEPT | — | PARTIAL | UNVERIFIED |
 | concept.comparative.rebirth | 重生 | Rebirth | CONCEPT | — | PARTIAL | UNVERIFIED |
+| concept.comparative.sleep | 睡眠 | Sleep | CONCEPT | 古希腊 | PARTIAL | PARTIAL |
 | concept.comparative.soul | 灵魂 | Soul | CONCEPT | — | PARTIAL | UNVERIFIED |
 | concept.comparative.time | 时间 | Time | CONCEPT | — | PARTIAL | UNVERIFIED |
 | concept.comparative.war | 战争 | War | CONCEPT | — | PARTIAL | UNVERIFIED |

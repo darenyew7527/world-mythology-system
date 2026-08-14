@@ -17,6 +17,7 @@
 | Relation | Target | Review / layer | Evidence | Confidence | Direction |
 |---|---|---|---:|---:|---|
 | `DEPICTED_ON` | 宙斯或波塞冬青铜像 (`museum.greek.zeus_poseidon_met_21_88_52`) | DISPUTED / SCHOLARLY_INTERPRETATION / SCHOLARLY_INTERPRETATION | 1 | 0.50 | inferred inverse; `claim.met_bronze_depicts_poseidon` |
+| `SIBLING_OF` | 赫斯提亚 (`deity.greek.hestia`) | VERIFIED / TEXT_SAYS / MYTHIC_NARRATIVE | 1 | 0.98 | inferred inverse; `claim.v040.hestia.sibling_poseidon` |
 | `USES` | 波塞冬三叉戟 (`weapon.greek.poseidon_trident`) | VERIFIED / SCHOLARLY_INTERPRETATION / SCHOLARLY_INTERPRETATION | 1 | 0.85 | stored claim; `claim.greek.poseidon_uses_trident` |
 
 ## Claims 与证据

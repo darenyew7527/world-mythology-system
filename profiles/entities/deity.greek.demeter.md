@@ -14,7 +14,9 @@
 
 ## 关系网络
 
-当前无关系边；保留为研究缺口。
+| Relation | Target | Review / layer | Evidence | Confidence | Direction |
+|---|---|---|---:|---:|---|
+| `SIBLING_OF` | 赫斯提亚 (`deity.greek.hestia`) | VERIFIED / TEXT_SAYS / MYTHIC_NARRATIVE | 1 | 0.98 | inferred inverse; `claim.v040.hestia.sibling_demeter` |
 
 ## Claims 与证据
 

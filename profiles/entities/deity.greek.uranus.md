@@ -14,7 +14,10 @@
 
 ## 关系网络
 
-当前无关系边；保留为研究缺口。
+| Relation | Target | Review / layer | Evidence | Confidence | Direction |
+|---|---|---|---:|---:|---|
+| `PARENT_OF` | 许珀里翁 (`deity.greek.hyperion`) | VERIFIED / TEXT_SAYS / MYTHIC_NARRATIVE | 1 | 0.99 | inferred inverse; `claim.v040.hyperion.child_uranus` |
+| `PARENT_OF` | 忒亚 (`deity.greek.theia`) | VERIFIED / TEXT_SAYS / MYTHIC_NARRATIVE | 1 | 0.99 | inferred inverse; `claim.v040.theia.child_uranus` |
 
 ## Claims 与证据
 

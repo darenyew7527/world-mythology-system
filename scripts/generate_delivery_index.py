@@ -60,6 +60,7 @@ def generate(db_path: Path = DEFAULT_DB_PATH) -> Path:
         "## 直接打开这些文件",
         "",
         "- `database/world_mythology.sqlite`：事实核心数据库。",
+        "- `RELEASE_NOTES_v0.4.0.md`：v0.4.0 中文发布说明、证据边界与后续队列。",
         "- `schema/schema.sql`：完整 SQLite Schema。",
         "- `reports/schema_catalog.md`：从实际数据库生成的逐表、逐字段、外键与 SQL 定义。",
         "- `reports/source_registry.md`：全部来源、机构、定位符、验证状态和文化／使用限制。",

@@ -1,5 +1,15 @@
 # 更新日志 / Changelog
 
+## v0.4.0-greek-genealogy — 2026-08-14
+
+- 回应公开社区反馈，新增 Thanatos、Hypnos、Nyx、Hecate、Selene、Helios、Hestia 七位希腊神祇档案。
+- 自动扩张第一圈家谱，新增 Chaos、Erebus、Aether、Hemera、Hyperion、Theia、Eos、Asteria、Perses；同名 Perses 保留身份冲突检查，不按名称合并。
+- 新增《神谱》与《荷马颂歌》第 2、29、31、32 首的行号级 Claims 与 Evidence；网友留言只记录为发现路径，不作为证据。
+- 明确分离 Hecate 的早期 Hesiodic／《致得墨忒耳》文本层与待研究的后世魔法、十字路口及冥界层。
+- 新增夜、睡眠与炉火比较导航概念，同时保留原生神祇意义，不宣称跨文明同一。
+- 公开探索器新增中文／英文家谱模式、实体搜索与家谱证据清单。
+- 刷新全表 JSONL/CSV、知识图谱、阅读档案、Source Registry、Coverage、缺失与冲突报告，并生成完整 ZIP、Git bundle 与 SQLite 检查点。
+
 ## v0.3.1-public-preview — 2026-08-13
 
 - 隐私加固：导入审计只保存输入文件名，不再保存本机绝对路径。
