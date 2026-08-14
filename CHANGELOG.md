@@ -1,5 +1,13 @@
 # 更新日志 / Changelog
 
+## v0.5.1-mobile-graph-hotfix — 2026-08-14
+
+- 使用独立的 390px 手机 SVG 布局，移除强制 150%／175% 宽度导致的左右节点裁切。
+- 家谱关系改为显示目标相对当前实体的角色，例如 Odin 的 Bestla、Borr 正确显示为“父母”，不再误标为“子女”。
+- 家谱模式纳入 FATHER_OF／MOTHER_OF，并在中英文关系图与证据清单中统一目标角色文案。
+- 横向实体选择器会将当前选中项居中，并增加滚动吸附；iPhone 底部工具栏加入安全区间距。
+- 新增 390px 节点边界、家谱方向、响应式 CSS 和发布迁移回归测试；神话 Claims、Evidence 与 Sources 沿用 v0.5.0 的同一证据基线。
+
 ## v0.5.0-greek-primary-profiles — 2026-08-14
 
 - 为 Zeus、Hera、Poseidon、Hades、Athena、Apollo、Artemis、Hermes、Ares、Aphrodite、Hephaestus、Demeter、Dionysus 及 Gaia、Uranus 补齐原文名、双语摘要和证据范围明确的结构化档案。

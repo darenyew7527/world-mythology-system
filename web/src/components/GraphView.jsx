@@ -1,13 +1,14 @@
-import { useMemo, useState } from 'react'
+import { useEffect, useMemo, useRef, useState } from 'react'
 import { EntityGlyph } from './Icons.jsx'
-import { civilizationDisplay, entityDisplay, entitySecondary, relationLabel, typeLabel } from '../i18n.js'
+import { civilizationDisplay, entityDisplay, entitySecondary, relationTargetLabel, typeLabel } from '../i18n.js'
 import RelationshipGraph from './RelationshipGraph.jsx'
 
-const FAMILY_RELATIONS = new Set(['PARENT_OF', 'CHILD_OF', 'SIBLING_OF', 'CONSORT_OF'])
+const FAMILY_RELATIONS = new Set(['PARENT_OF', 'FATHER_OF', 'MOTHER_OF', 'CHILD_OF', 'SIBLING_OF', 'CONSORT_OF'])
 
 export default function GraphView({ copy, entities, entity, language, onSelect }) {
   const [mode, setMode] = useState('all')
   const [query, setQuery] = useState('')
+  const selectedItemRef = useRef(null)
 
   const pickerEntities = useMemo(() => {
     const normalized = query.trim().toLocaleLowerCase()
@@ -25,6 +26,10 @@ export default function GraphView({ copy, entities, entity, language, onSelect }
       relationships: entity.relationships.filter((relation) => FAMILY_RELATIONS.has(relation.type)),
     }
   }, [entity, mode])
+
+  useEffect(() => {
+    selectedItemRef.current?.scrollIntoView({ behavior: 'smooth', block: 'nearest', inline: 'center' })
+  }, [entity.id])
 
   return (
     <main className="single-view graph-view">
@@ -44,7 +49,13 @@ export default function GraphView({ copy, entities, entity, language, onSelect }
         </header>
         <div className="graph-picker-list">
           {pickerEntities.map((item) => (
-            <button className={item.id === entity.id ? 'is-selected' : ''} key={item.id} type="button" onClick={() => onSelect(item.id)}>
+            <button
+              className={item.id === entity.id ? 'is-selected' : ''}
+              key={item.id}
+              ref={item.id === entity.id ? selectedItemRef : undefined}
+              type="button"
+              onClick={() => onSelect(item.id)}
+            >
               <span><EntityGlyph size={24} type={item.primaryType} /></span>
               <span>
                 <strong>{entityDisplay(item, language)} {entitySecondary(item, language) && <em>{entitySecondary(item, language)}</em>}</strong>
@@ -84,7 +95,7 @@ export default function GraphView({ copy, entities, entity, language, onSelect }
             <div>
               {graphEntity.relationships.map((relation) => (
                 <button key={`${relation.id}-${relation.targetId}`} onClick={() => onSelect(relation.targetId)} type="button">
-                  <span>{relationLabel(relation.type, language)}</span>
+                  <span>{relationTargetLabel(relation.type, language)}</span>
                   <strong>{language === 'zh' ? relation.targetNameZh || relation.targetName : relation.targetName}</strong>
                   <small>{relation.evidenceCount} {copy.evidence} · {Math.round((relation.confidence || 0) * 100)}%</small>
                 </button>

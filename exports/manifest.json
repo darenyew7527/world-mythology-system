@@ -7,11 +7,11 @@
     "claims": 221,
     "collection_queue": 42,
     "conflicts": 4,
-    "coverage_metrics": 118,
-    "coverage_reports": 4,
+    "coverage_metrics": 148,
+    "coverage_reports": 5,
     "creature_profiles": 14,
     "cultures": 18,
-    "dataset_releases": 4,
+    "dataset_releases": 5,
     "deity_profiles": 132,
     "entities": 468,
     "entity_attributes": 0,
@@ -39,13 +39,13 @@
     "relationship_types": 67,
     "research_session_items": 72,
     "research_sessions": 4,
-    "schema_migrations": 7,
+    "schema_migrations": 8,
     "sources": 100,
     "text_profiles": 117,
     "tradition_links": 6
   },
   "database": "world_mythology.sqlite",
-  "database_sha256": "efe466e7d4ea348246b5ff0ef5684049b63e2b569d96d349842b4f01f9eb7253",
+  "database_sha256": "32c9396f97f6c5721a3f85b626b3a5bc1dd637e91b794395e3243de2a95d7f71",
   "excluded_object_types": [
     "view",
     "sqlite_internal"
@@ -87,14 +87,14 @@
       "sha256": "0bff16d8f57b5c4f213a2fb0e14bc3893bc0cf883ad274d7ce8fc85c2b921456"
     },
     {
-      "bytes": 16764,
+      "bytes": 20990,
       "path": "csv/coverage_metrics.csv",
-      "sha256": "7d8a7f365a4d606914d2ec7e71f04eb7258e65649b64d0336d03cea90a5ce3b0"
+      "sha256": "a7bc4736e6de4041a7990ca5cf998d5d40e381ca2a7f8c04428ec9aa510a1a6b"
     },
     {
-      "bytes": 745,
+      "bytes": 924,
       "path": "csv/coverage_reports.csv",
-      "sha256": "90c698ffa49ba187edbe063dc782fd039392563f071cedb0e494c81a4d8b0730"
+      "sha256": "71548d6a146154ac30135de9f5bc1175d302301c112cb0e9569a7bd7445af67f"
     },
     {
       "bytes": 1272,
@@ -107,9 +107,9 @@
       "sha256": "08df12610aceccea92fb45a1cf702520500c1b1eff876183b65d4f609c689a45"
     },
     {
-      "bytes": 1718,
+      "bytes": 2215,
       "path": "csv/dataset_releases.csv",
-      "sha256": "8f01d0fd365a5820b2bea3b3df327f0a4d3be89661f66744b5defb2d050fedb4"
+      "sha256": "937a6533486225c3ce3fff6aab01945fecb1cc43b7b6ba3311fa07bab80dd270"
     },
     {
       "bytes": 13393,
@@ -202,9 +202,9 @@
       "sha256": "a9eeac34430bd628fc08d20f9a8102fbb40ef4684e686149482a27358c3c9737"
     },
     {
-      "bytes": 462,
+      "bytes": 459,
       "path": "csv/project_metadata.csv",
-      "sha256": "6fa35d9cd6e8f3da6e12c82e3892407239b58c8497b2fd5fa40a15bfbbb49944"
+      "sha256": "b185e46b898e3c1203e3450f62efefb96158e420e943d7a0890b32113275691a"
     },
     {
       "bytes": 71,
@@ -247,9 +247,9 @@
       "sha256": "405a388fa3368d59119370575937a8560037232333f0fa209f4509a5d0748b79"
     },
     {
-      "bytes": 482,
+      "bytes": 539,
       "path": "csv/schema_migrations.csv",
-      "sha256": "070d561dafecd4b9a49660f98aa4ee1a41ad0423acae660af4385bc6610a92d8"
+      "sha256": "0574c39fd5c2935636fda33acd0ff65d1f94760544e84b542b81ba2437239271"
     },
     {
       "bytes": 38985,
@@ -317,14 +317,14 @@
       "sha256": "1f1975ea78cd821265baed0a3234c4dbfaf48c8d00aa280bdfd2b4cd3b6a146f"
     },
     {
-      "bytes": 25300,
+      "bytes": 31710,
       "path": "jsonl/coverage_metrics.jsonl",
-      "sha256": "9245cf986cdbcacf9f184303f36255f83413d9ab82ba21c275c72251c40cea0a"
+      "sha256": "bd3ff8a65bc8ee68bab882ce3cecc8887bef8ad34a39d0f7f9c47bd8257b2165"
     },
     {
-      "bytes": 934,
+      "bytes": 1170,
       "path": "jsonl/coverage_reports.jsonl",
-      "sha256": "a4de2d0fc8a49a6ec6187cb9bb6d53201031352707fce259c211d674e2347879"
+      "sha256": "3fddb4ba96be2cb9f90083dcedf53ae24bfe177081dec1762dc4d824ea1baf59"
     },
     {
       "bytes": 3308,
@@ -337,9 +337,9 @@
       "sha256": "4ebb06d0d458e2051b7433a09921879aa2f45ceb02bbb2ffebc63a5a864ea1d1"
     },
     {
-      "bytes": 2065,
+      "bytes": 2669,
       "path": "jsonl/dataset_releases.jsonl",
-      "sha256": "e524e4cdd74e3ea7c629bf3cde43689bf49fc2b714f95eb1b2e006231aedc073"
+      "sha256": "b4816af3e70cde2b3955d93c65683ad35153afc95b71da6351b7d15d2042072f"
     },
     {
       "bytes": 41046,
@@ -432,9 +432,9 @@
       "sha256": "81d85d0eaa8ebe4560d6f29fb53833d9d58d40715d6b5fcede9d7b0412fa1fc7"
     },
     {
-      "bytes": 651,
+      "bytes": 648,
       "path": "jsonl/project_metadata.jsonl",
-      "sha256": "486ba1a339755bedf5edea503ede4b84322bd9f7ec775aef55ace82dfa6cb76c"
+      "sha256": "9bc653ec7b51573f6ffe46bac0ee43012e09cd18be6aee57721c4f3027b02229"
     },
     {
       "bytes": 0,
@@ -477,9 +477,9 @@
       "sha256": "4734d135a58416e47fa115efebb3e25eb3e5ab27cf8c4c3403ee8e65f54d5083"
     },
     {
-      "bytes": 710,
+      "bytes": 803,
       "path": "jsonl/schema_migrations.jsonl",
-      "sha256": "bbe02922a83f5e01a2fb3d7975205a7602da6874d6a65605e9cc5f624ddbf81d"
+      "sha256": "a7a86d4d1c286421b50a534c92c389c20566fc0832030d42689d9810c2bcbe87"
     },
     {
       "bytes": 91529,
@@ -503,9 +503,9 @@
     "nodes": 468
   },
   "release": {
-    "built_at": "2026-08-14T00:00:00Z",
-    "data_version": "0.5.0-greek-primary-profiles-20260814",
-    "git_commit": "fe651df",
+    "built_at": "2026-08-14T04:23:36Z",
+    "data_version": "0.5.1-mobile-graph-hotfix-20260814",
+    "git_commit": "3eab3065d814195f457642fa851b302ec4934a78",
     "schema_version": 7
   },
   "tables": [

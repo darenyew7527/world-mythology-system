@@ -16,11 +16,11 @@
 | `claims` | table | 221 |
 | `collection_queue` | table | 42 |
 | `conflicts` | table | 4 |
-| `coverage_metrics` | table | 118 |
-| `coverage_reports` | table | 4 |
+| `coverage_metrics` | table | 148 |
+| `coverage_reports` | table | 5 |
 | `creature_profiles` | table | 14 |
 | `cultures` | table | 18 |
-| `dataset_releases` | table | 4 |
+| `dataset_releases` | table | 5 |
 | `deity_profiles` | table | 132 |
 | `entities` | table | 468 |
 | `entity_attributes` | table | 0 |
@@ -48,7 +48,7 @@
 | `relationship_types` | table | 67 |
 | `research_session_items` | table | 72 |
 | `research_sessions` | table | 4 |
-| `schema_migrations` | table | 7 |
+| `schema_migrations` | table | 8 |
 | `sources` | table | 100 |
 | `text_profiles` | table | 117 |
 | `tradition_links` | table | 6 |

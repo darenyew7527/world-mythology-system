@@ -10,7 +10,7 @@ The repository contains a reproducible staged knowledge baseline, not a claim of
 
 The bilingual React explorer provides searchable entities, filters, relationship graphs, claims, evidence locators, sources, coverage, and the permanent research queue. Chinese is the default interface; English can be selected from the header.
 
-Current `v0.5.0-greek-primary-profiles` checkpoint:
+Current `v0.5.1-mobile-graph-hotfix` checkpoint:
 
 - 468 registered entities / 463 browsable canonical entities
 - 95 civilizations and traditions
@@ -20,7 +20,7 @@ Current `v0.5.0-greek-primary-profiles` checkpoint:
 - A bilingual genealogy mode for parents, children, siblings, consorts, and their evidence
 - Structured deity, artifact, text, place, creature, and event profiles in the entity view
 
-v0.5.0 expands the Greek core-deity layer with original names, bilingual summaries, nine separately catalogued Homeric Hymns, the Persephone abduction and Titanomachy event layers, and explicit coexisting Hesiodic/Iliadic Aphrodite genealogies. See [v0.5.0 release notes](RELEASE_NOTES_v0.5.0.md).
+v0.5.1 fixes clipped mobile graph nodes, target-relative genealogy labels, selected-entity centering, and iPhone safe-area spacing. The mythology data remains on the same v0.5.0 evidence baseline. See the [v0.5.1 release notes](RELEASE_NOTES_v0.5.1.md) and [v0.5.0 research expansion notes](RELEASE_NOTES_v0.5.0.md).
 
 These are release checkpoint counts, not project limits.
 

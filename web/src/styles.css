@@ -544,6 +544,7 @@ code {
 
 .relationship-graph { width: 100%; min-height: 390px; }
 .relationship-graph svg { display: block; width: 100%; max-height: 540px; overflow: visible; }
+.relationship-graph .graph-svg-mobile { display: none; }
 .relationship-graph .graph-orbit { fill: none; stroke: rgba(91, 158, 200, 0.15); stroke-dasharray: 2 7; stroke-width: 1; }
 .relationship-graph .graph-orbit-outer { stroke: rgba(201, 154, 82, 0.09); }
 .relation-edge line { stroke: rgba(101, 199, 255, 0.68); stroke-width: 1.25; filter: drop-shadow(0 0 3px rgba(101, 199, 255, 0.5)); }
@@ -868,7 +869,8 @@ code {
   .sources-tab { padding: 16px 14px 22px; }
   .graph-preview-panel { min-height: 0; }
   .relationship-graph { min-height: 330px; overflow: hidden; }
-  .relationship-graph svg { width: 150%; margin-left: -25%; }
+  .relationship-graph .graph-svg-desktop { display: none; }
+  .relationship-graph .graph-svg-mobile { display: block; width: 100%; height: auto; margin: 0; overflow: visible; }
   .claim-grid,
   .source-grid { grid-template-columns: 1fr; }
   .contribution-actions { grid-template-columns: 1fr; }
@@ -880,16 +882,16 @@ code {
   .graph-view { display: block; height: auto; min-height: calc(100vh - 255px); }
   .graph-picker { max-height: 220px; border-right: 0; border-bottom: 1px solid var(--border); }
   .graph-picker > header { padding: 12px 14px; }
-  .graph-picker-list { display: flex; overflow-x: auto; }
-  .graph-picker-list button { min-width: 190px; border-right: 1px solid rgba(201,154,82,.15); border-bottom: 0; }
+  .graph-picker-list { display: flex; overflow-x: auto; scroll-padding-inline: calc(50% - 95px); scroll-snap-type: x proximity; }
+  .graph-picker-list button { min-width: 190px; border-right: 1px solid rgba(201,154,82,.15); border-bottom: 0; scroll-snap-align: center; }
   .full-graph-panel > header { padding: 12px 14px; }
   .full-graph-panel > header > code { display: none; }
   .graph-mode-toolbar { align-items: stretch; flex-wrap: wrap; padding: 8px 12px; }
   .graph-mode-toolbar p { width: 100%; margin: 8px 0 0; }
-  .full-graph-panel .relationship-graph { min-height: 420px; padding: 0; }
+  .full-graph-panel .relationship-graph { min-height: 475px; padding: 0 4px; }
   .family-ledger { margin: 0 10px 12px; }
   .family-ledger > header { align-items: flex-start; flex-direction: column; gap: 3px; }
-  .graph-legend { gap: 12px; padding: 10px 12px; }
+  .graph-legend { gap: 12px; margin-bottom: calc(56px + env(safe-area-inset-bottom)); padding: 10px 12px; }
   .evidence-view,
   .progress-view,
   .contribute-view { padding: 17px 13px; }
@@ -914,7 +916,7 @@ code {
   .contribution-ways { grid-template-columns: 1fr; }
   .contribution-ways article { min-height: 150px; }
   .contribution-principles ol { grid-template-columns: 1fr; }
-  .site-footer { flex-direction: column; justify-content: center; min-height: 76px; padding: 14px; text-align: center; }
+  .site-footer { flex-direction: column; justify-content: center; min-height: 76px; padding: 14px 14px calc(14px + env(safe-area-inset-bottom)); text-align: center; }
 }
 
 @media (max-width: 440px) {
@@ -925,7 +927,6 @@ code {
   .entity-row { grid-template-columns: 45px 1fr 16px; }
   .detail-heading { padding-right: 55px; }
   .detail-heading h1 { font-size: 1.25rem; }
-  .relationship-graph svg { width: 175%; margin-left: -37.5%; }
 }
 
 @media (prefers-reduced-motion: reduce) {

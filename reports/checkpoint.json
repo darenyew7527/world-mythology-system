@@ -1,9 +1,9 @@
 {
-  "checkpoint": "WORLD_MYTHOLOGY_0_5_0_GREEK_PRIMARY_PROFILES_20260814",
+  "checkpoint": "WORLD_MYTHOLOGY_0_5_1_MOBILE_GRAPH_HOTFIX_20260814",
   "completion_claim": "Current publicly discoverable material has a staged knowledge baseline; the system remains expandable.",
-  "database_sha256": "efe466e7d4ea348246b5ff0ef5684049b63e2b569d96d349842b4f01f9eb7253",
+  "database_sha256": "32c9396f97f6c5721a3f85b626b3a5bc1dd637e91b794395e3243de2a95d7f71",
   "entity_profiles": 468,
-  "generated_at": "2026-08-14T03:29:24Z",
+  "generated_at": "2026-08-14T04:33:16Z",
   "metrics": {
     "artifact_profiles_with_abilities": 1,
     "canonical_entities": 463,
@@ -43,8 +43,8 @@
     "Baal as title versus Ugaritic deity",
     "Ancient and later lists of the Olympian gods"
   ],
-  "release_id": "release.0.5.0",
-  "release_stamped_at": "2026-08-14T03:30:38Z",
-  "source_git_commit": "fe651df",
+  "release_id": "release.0.5.1",
+  "release_stamped_at": "2026-08-14T04:34:12Z",
+  "source_git_commit": "3eab3065d814195f457642fa851b302ec4934a78",
   "status": "STAGED_EXPANDABLE_BASELINE"
 }

@@ -473,7 +473,7 @@ def build_snapshot(database_path: Path) -> dict[str, Any]:
 
     snapshot = {
         "meta": {
-            "projectVersion": "0.5.0-greek-primary-profiles",
+            "projectVersion": "0.5.1-mobile-graph-hotfix",
             "datasetRelease": release,
             "generatedFrom": "database/world_mythology.sqlite",
             "completionClaim": (

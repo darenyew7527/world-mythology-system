@@ -48200,12 +48200,12 @@
       "sources": 100
     },
     "datasetRelease": {
-      "built_at": "2026-08-14T00:00:00Z",
-      "data_version": "0.5.0-greek-primary-profiles-20260814",
-      "database_sha256": "6ec1e49612df5cef3d05e2ec9c6fea36e98aa69291789ac08c8e44417f519ae0",
-      "git_commit": "fe651df",
-      "id": "release.0.5.0",
-      "release_notes": "Greek primary-profile checkpoint: core deity descriptions and original names, nine Homeric Hymn subworks and sources, five newly discovered genealogy entities, Persephone abduction and Titanomachy event layers, three artifact witnesses, explicit Aphrodite origin conflict, and a permanent follow-up queue. Source commit stamped; database_sha256 is the pre-stamp snapshot digest.",
+      "built_at": "2026-08-14T04:23:36Z",
+      "data_version": "0.5.1-mobile-graph-hotfix-20260814",
+      "database_sha256": "e6f705c222a7365b3bc6c0cbac29016e6bd1bd9a78729f5b4ed2e8150eddc592",
+      "git_commit": "3eab3065d814195f457642fa851b302ec4934a78",
+      "id": "release.0.5.1",
+      "release_notes": "Mobile graph presentation hotfix: dedicated 390px SVG layout, target-relative genealogy labels, selected-entity centering, safe-area spacing, and responsive regression coverage. Mythology claims, evidence and sources are unchanged from v0.5.0. Source commit stamped; database_sha256 is the pre-stamp snapshot digest.",
       "schema_version": 7
     },
     "evidenceStatusCounts": {
@@ -48215,7 +48215,7 @@
       "UNVERIFIED": 346
     },
     "generatedFrom": "database/world_mythology.sqlite",
-    "projectVersion": "0.5.0-greek-primary-profiles",
+    "projectVersion": "0.5.1-mobile-graph-hotfix",
     "publicDataPolicy": "Source metadata and evidence locators are published; evidence short quotes are excluded.",
     "queueStatusCounts": {
       "CONFLICT": 5,

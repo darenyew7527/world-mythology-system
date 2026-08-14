@@ -293,6 +293,24 @@ const RELATION_ZH = {
   HELD_BY_MUSEUM: '馆藏于',
 }
 
+const RELATION_TARGET_ZH = {
+  PARENT_OF: '子女',
+  FATHER_OF: '子女',
+  MOTHER_OF: '子女',
+  CHILD_OF: '父母',
+  SIBLING_OF: '兄弟姐妹',
+  CONSORT_OF: '配偶／伴侣',
+}
+
+const RELATION_TARGET_EN = {
+  PARENT_OF: 'Child',
+  FATHER_OF: 'Child',
+  MOTHER_OF: 'Child',
+  CHILD_OF: 'Parent',
+  SIBLING_OF: 'Sibling',
+  CONSORT_OF: 'Consort',
+}
+
 const STATUS_ZH = {
   SOURCE_BACKED: '有来源支持',
   PARTIAL: '部分完成',
@@ -322,6 +340,11 @@ export const typeLabel = (value, language) =>
 
 export const relationLabel = (value, language) =>
   language === 'zh' ? RELATION_ZH[value] ?? value : titleCase(value)
+
+export const relationTargetLabel = (value, language) => {
+  if (language === 'zh') return RELATION_TARGET_ZH[value] ?? RELATION_ZH[value] ?? value
+  return RELATION_TARGET_EN[value] ?? titleCase(value)
+}
 
 export const statusLabel = (value, language) =>
   language === 'zh' ? STATUS_ZH[value] ?? value : titleCase(value)
