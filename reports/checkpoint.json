@@ -1,7 +1,7 @@
 {
   "checkpoint": "WORLD_MYTHOLOGY_0_5_1_MOBILE_GRAPH_HOTFIX_20260814",
   "completion_claim": "Current publicly discoverable material has a staged knowledge baseline; the system remains expandable.",
-  "database_sha256": "32c9396f97f6c5721a3f85b626b3a5bc1dd637e91b794395e3243de2a95d7f71",
+  "database_sha256": "fc02719674c91fb464fbaf11bfba6f57419a883b0398445c03d80151432876e0",
   "entity_profiles": 468,
   "generated_at": "2026-08-14T04:33:16Z",
   "metrics": {
@@ -44,7 +44,7 @@
     "Ancient and later lists of the Olympian gods"
   ],
   "release_id": "release.0.5.1",
-  "release_stamped_at": "2026-08-14T04:34:12Z",
-  "source_git_commit": "3eab3065d814195f457642fa851b302ec4934a78",
+  "release_stamped_at": "2026-08-14T04:52:56Z",
+  "source_git_commit": "e16060de39f147e6d7fddc5f37972c42c6b431b9",
   "status": "STAGED_EXPANDABLE_BASELINE"
 }

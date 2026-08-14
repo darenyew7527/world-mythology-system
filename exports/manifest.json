@@ -45,7 +45,7 @@
     "tradition_links": 6
   },
   "database": "world_mythology.sqlite",
-  "database_sha256": "32c9396f97f6c5721a3f85b626b3a5bc1dd637e91b794395e3243de2a95d7f71",
+  "database_sha256": "fc02719674c91fb464fbaf11bfba6f57419a883b0398445c03d80151432876e0",
   "excluded_object_types": [
     "view",
     "sqlite_internal"
@@ -109,7 +109,7 @@
     {
       "bytes": 2215,
       "path": "csv/dataset_releases.csv",
-      "sha256": "937a6533486225c3ce3fff6aab01945fecb1cc43b7b6ba3311fa07bab80dd270"
+      "sha256": "e94670ba934c3edd886cad08f74171aa68ace8af545bf86dcadb63017272b319"
     },
     {
       "bytes": 13393,
@@ -339,7 +339,7 @@
     {
       "bytes": 2669,
       "path": "jsonl/dataset_releases.jsonl",
-      "sha256": "b4816af3e70cde2b3955d93c65683ad35153afc95b71da6351b7d15d2042072f"
+      "sha256": "45f13eb699798312c156ad9a46ee305fdf9e6b0b586b02d29157c66a240c3a7f"
     },
     {
       "bytes": 41046,
@@ -505,7 +505,7 @@
   "release": {
     "built_at": "2026-08-14T04:23:36Z",
     "data_version": "0.5.1-mobile-graph-hotfix-20260814",
-    "git_commit": "3eab3065d814195f457642fa851b302ec4934a78",
+    "git_commit": "e16060de39f147e6d7fddc5f37972c42c6b431b9",
     "schema_version": 7
   },
   "tables": [

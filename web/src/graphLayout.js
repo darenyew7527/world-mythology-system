@@ -36,7 +36,7 @@ export const graphLayout = (compact, kind) => {
     centerX: 380,
     centerY: compact ? 195 : 260,
     radiusX: compact ? 245 : 270,
-    radiusY: compact ? 145 : 200,
+    radiusY: compact ? 125 : 160,
     centerRadius: compact ? 49 : 60,
     targetRadius: compact ? 28 : 34,
     orbitInner: compact ? 104 : 136,

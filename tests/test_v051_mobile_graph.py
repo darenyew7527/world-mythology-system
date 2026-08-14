@@ -63,6 +63,21 @@ class MobileGraphV051Tests(unittest.TestCase):
         self.assertEqual(result["right"]["textAnchor"], "end")
         self.assertGreater(result["right"]["textX"], 0)
 
+    def test_desktop_labels_clear_the_graph_legend(self):
+        result = run_node(
+            """
+            import { graphLayout, nodePosition } from './src/graphLayout.js'
+            const layout = graphLayout(false, 'desktop')
+            const nodes = Array.from({length: 14}, (_, index) => nodePosition(index, 14, layout))
+            console.log(JSON.stringify({layout, nodes}))
+            """
+        )
+        layout = result["layout"]
+        label_clearance = layout["targetRadius"] + 38
+        for node in result["nodes"]:
+            self.assertGreaterEqual(node["y"], layout["targetRadius"])
+            self.assertLessEqual(node["y"], layout["height"] - label_clearance)
+
     def test_genealogy_labels_describe_target_role(self):
         result = run_node(
             """
