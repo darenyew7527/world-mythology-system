@@ -6,7 +6,7 @@
 - 原文名: Ḥr
 - 转写: —
 - 研究状态: `PARTIAL`
-- 证据状态: `UNVERIFIED`
+- 证据状态: `PARTIAL`
 
 ## 分类
 
@@ -17,6 +17,7 @@
 | Relation | Target | Review / layer | Evidence | Confidence | Direction |
 |---|---|---|---:|---:|---|
 | `DEPICTED_ON` | 阿尼纸草第3框 (`museum.egypt.papyrus_ani_frame3`) | VERIFIED / HISTORICAL_REALITY / ARCHAEOLOGICAL | 1 | 0.98 | inferred inverse; `claim.egypt.papyrus_ani_depicts_horus` |
+| `HAS_COMPOSITE_EXPRESSION` | 拉-哈拉赫提 (`deity.egyptian.ra_horakhty`) | VERIFIED / HISTORICAL_REALITY / SCHOLARLY_INTERPRETATION | 1 | 0.96 | inferred inverse; `claim.v070.egypt.ra_horakhty_component_horus` |
 
 ## Claims 与证据
 

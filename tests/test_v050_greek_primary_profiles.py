@@ -116,7 +116,8 @@ class GreekPrimaryProfilesV050Tests(unittest.TestCase):
             )
         }
         self.assertEqual(len(statuses), 5)
-        self.assertEqual(statuses["queue.greek.v050.eleusis_layers"], "SOURCE_FOUND")
+        # v0.8 advances this durable gap while preserving six follow-up branches.
+        self.assertEqual(statuses["queue.greek.v050.eleusis_layers"], "PARTIAL")
         self.assertEqual(statuses["queue.greek.v050.olympian_membership"], "NEEDS_REVIEW")
 
 

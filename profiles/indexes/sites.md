@@ -18,6 +18,7 @@
 | site.egypt.dendera | 丹德拉神庙群 | Dendera Temple Complex | TEMPLE | 古埃及 | REAL_ARCHAEOLOGICAL | — |
 | realm.egypt.duat | 杜阿特／埃及冥界 | Duat | REALM | 古埃及 | MYTHICAL | — |
 | site.egypt.giza | 吉萨金字塔群 | Giza pyramid fields | PYRAMID | 古埃及 | REAL_ARCHAEOLOGICAL | World Heritage property 86 component |
+| site.egypt.karnak_great_temple_amun_ra | 卡纳克阿蒙-拉大神庙 | Great Temple of Amun-Ra at Karnak | TEMPLE | 古埃及 | REAL_ARCHAEOLOGICAL | Within Ancient Thebes World Heritage List 87 |
 | site.egypt.karnak | 卡纳克 | Karnak | TEMPLE | 古埃及 | REAL_ARCHAEOLOGICAL | World Heritage property 87 component |
 | site.egypt.luxor_temple | 卢克索神庙 | Luxor Temple | TEMPLE | 古埃及 | REAL_ARCHAEOLOGICAL | World Heritage property 87 component |
 | site.egypt.philae | 菲莱 | Philae | TEMPLE | 古埃及 | REAL_ARCHAEOLOGICAL | Nubian Monuments World Heritage component |
@@ -31,7 +32,9 @@
 | site.greece.eleusis | 厄琉息斯 | Eleusis | ARCHAEOLOGICAL_SITE | 古希腊 | REAL_ARCHAEOLOGICAL | — |
 | site.greece.epidaurus | 埃皮达鲁斯 | Epidaurus | ARCHAEOLOGICAL_SITE | 古希腊 | REAL_ARCHAEOLOGICAL | World Heritage |
 | site.greece.olympia | 奥林匹亚 | Olympia | ARCHAEOLOGICAL_SITE | 古希腊 | REAL_ARCHAEOLOGICAL | World Heritage 517 |
+| site.greece.sacred_way | 雅典至厄琉息斯圣道 | Sacred Way from Athens to Eleusis | ARCHAEOLOGICAL_SITE | 古希腊 | REAL_ARCHAEOLOGICAL | NOT_LISTED_AS_INDEPENDENT_PROPERTY |
 | realm.greek.tartarus | 塔耳塔罗斯 | Tartarus | REALM | 古希腊 | MYTHICAL | — |
+| site.greece.eleusis_telesterion | 厄琉息斯特勒斯特里翁仪式厅 | Telesterion at Eleusis | ARCHAEOLOGICAL_SITE | 古希腊 | REAL_ARCHAEOLOGICAL | NOT_LISTED_AS_INDEPENDENT_PROPERTY |
 | site.italy.rome | 古罗马 | Ancient Rome | ARCHAEOLOGICAL_SITE | 古罗马 | REAL_HISTORIC | World Heritage historic centre |
 | site.italy.pompeii | 庞贝 | Pompeii | ARCHAEOLOGICAL_SITE | 古罗马 | REAL_ARCHAEOLOGICAL | World Heritage |
 | site.iraq.ashur | 阿舒尔 | Ashur (Qal'at Sherqat) | ARCHAEOLOGICAL_SITE | 亚述 | REAL_ARCHAEOLOGICAL | World Heritage 1130 |
@@ -50,6 +53,7 @@
 | site.india.varanasi | 瓦拉纳西 | Varanasi | PLACE | 印度教传统 | REAL_SACRED | — |
 | site.peru.cusco | 库斯科 | Cusco | ARCHAEOLOGICAL_SITE | 印加 | REAL_HISTORIC | World Heritage |
 | site.peru.machu_picchu | 马丘比丘 | Machu Picchu | ARCHAEOLOGICAL_SITE | 印加 | REAL_ARCHAEOLOGICAL | World Heritage |
+| site.japan.kamigamo_jinja | 贺茂别雷神社（上贺茂神社） | Kamo Wakeikazuchi Jinja (Kamigamo Jinja) | ARCHAEOLOGICAL_SITE | 日本神道 | REAL_SACRED | WORLD_HERITAGE_COMPONENT_688_001 |
 | site.japan.shrines_scope | 日本主要神社研究入口 | Major Japanese shrines research scope | TEMPLE | 日本神道 | REAL_SACRED | — |
 | site.cambodia.angkor | 吴哥 | Angkor | ARCHAEOLOGICAL_SITE | 柬埔寨传统 | REAL_ARCHAEOLOGICAL | World Heritage |
 | site.mexico.chichen_itza | 奇琴伊察 | Chichen-Itza | ARCHAEOLOGICAL_SITE | 玛雅 | REAL_ARCHAEOLOGICAL | World Heritage 483 |

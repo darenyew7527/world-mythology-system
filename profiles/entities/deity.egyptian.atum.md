@@ -6,7 +6,7 @@
 - 原文名: Jtm
 - 转写: —
 - 研究状态: `PARTIAL`
-- 证据状态: `UNVERIFIED`
+- 证据状态: `SOURCE_BACKED`
 
 ## 分类
 
@@ -14,10 +14,13 @@
 
 ## 关系网络
 
-当前无关系边；保留为研究缺口。
+| Relation | Target | Review / layer | Evidence | Confidence | Direction |
+|---|---|---|---:|---:|---|
+| `APPEARS_IN` | 《亡灵书》第17咒文 (`text.egypt.book_dead_spell17`) | VERIFIED / TEXT_SAYS / TEXTUAL_WITNESS | 1 | 0.96 | stored claim; `claim.v070.egypt.atum_spell17` |
 
 ## Claims 与证据
 
-尚无 claim；实体仅为发现/索引入口。
+- `claim.v070.egypt.atum_spell17` [VERIFIED / TEXT_SAYS / 0.96] Atum appears repeatedly in the registered Spell 17 explanations and journey language.
+  - 来源：[Book of the Dead chapter 17](https://www.ucl.ac.uk/museums-static/digitalegypt/literature/religious/bd17.html)；定位：Spell 17, Allen Part a
 
 > 本档案只代表当前阶段性基线，不是对该传统的最终或唯一解释。

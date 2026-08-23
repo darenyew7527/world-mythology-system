@@ -6,7 +6,7 @@
 - 原文名: 雷神
 - 转写: Raijin
 - 研究状态: `CONFLICT`
-- 证据状态: `CONFLICTING`
+- 证据状态: `PARTIAL`
 
 ## 概要
 
@@ -20,7 +20,9 @@
 
 | Relation | Target | Review / layer | Evidence | Confidence | Direction |
 |---|---|---|---:|---:|---|
+| `ASSOCIATED_WITH` | 贺茂别雷大神 (`deity.japanese.kamo_wakeikazuchi`) | VERIFIED / SCHOLARLY_INTERPRETATION / SCHOLARLY_INTERPRETATION | 1 | 0.93 | inferred inverse; `claim.v0100.kamo_associated_raijin` |
 | `ASSOCIATED_WITH` | 雷 (`concept.comparative.thunder`) | VERIFIED / SCHOLARLY_INTERPRETATION / SCHOLARLY_INTERPRETATION | 1 | 0.96 | stored claim; `claim.v060.japanese.raijin_thunder_scope` |
+| `DEPICTED_ON` | 俵屋宗达《风神雷神图屏风》 (`museum.japan.sotatsu_wind_thunder_screens`) | VERIFIED / SCHOLARLY_INTERPRETATION / LATER_RECEPTION | 1 | 0.99 | inferred inverse; `claim.v0100.screen_depicts_raijin` |
 
 ## Claims 与证据
 

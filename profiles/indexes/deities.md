@@ -9,18 +9,23 @@
 | deity.chinese.leize_thunder_spirit | 雷泽雷神 | Thunder Spirit of Leize | DEITY | 中国上古神话 | PARTIAL | SOURCE_BACKED |
 | hero.chinese.yellow_emperor | 黄帝 | Yellow Emperor | HERO | 中国上古神话 | PARTIAL | UNVERIFIED |
 | deity.egyptian.amun | 阿蒙 | Amun | DEITY | 古埃及 | PARTIAL | SOURCE_BACKED |
+| deity.egyptian.amun_ra | 阿蒙-拉 | Amun-Ra | DEITY | 古埃及 | PARTIAL | SOURCE_BACKED |
 | deity.egyptian.anubis | 阿努比斯 | Anubis | DEITY | 古埃及 | PARTIAL | UNVERIFIED |
-| deity.egyptian.atum | 阿图姆 | Atum | PRIMORDIAL_DEITY | 古埃及 | PARTIAL | UNVERIFIED |
+| deity.egyptian.atum | 阿图姆 | Atum | PRIMORDIAL_DEITY | 古埃及 | PARTIAL | SOURCE_BACKED |
 | deity.egyptian.geb | 盖布 | Geb | DEITY | 古埃及 | PARTIAL | UNVERIFIED |
 | deity.egyptian.hathor | 哈托尔 | Hathor | DEITY | 古埃及 | PARTIAL | UNVERIFIED |
-| deity.egyptian.horus | 荷鲁斯 | Horus | DEITY | 古埃及 | PARTIAL | UNVERIFIED |
+| deity.egyptian.horus | 荷鲁斯 | Horus | DEITY | 古埃及 | PARTIAL | PARTIAL |
 | deity.egyptian.isis | 伊西斯 | Isis | DEITY | 古埃及 | PARTIAL | UNVERIFIED |
+| deity.egyptian.khepri | 凯布利／赫普里 | Khepri | DEITY | 古埃及 | CONFLICT | CONFLICTING |
+| deity.egyptian.khonsu | 孔苏 | Khonsu | DEITY | 古埃及 | PARTIAL | SOURCE_BACKED |
 | deity.egyptian.ma_at | 玛阿特 | Ma'at | DEITY | 古埃及 | PARTIAL | PARTIAL |
+| deity.egyptian.mut | 穆特 | Mut | DEITY | 古埃及 | PARTIAL | SOURCE_BACKED |
 | deity.egyptian.nephthys | 奈芙蒂斯 | Nephthys | DEITY | 古埃及 | PARTIAL | UNVERIFIED |
 | deity.egyptian.nut | 努特 | Nut | DEITY | 古埃及 | PARTIAL | UNVERIFIED |
 | deity.egyptian.osiris | 奥西里斯 | Osiris | DEITY | 古埃及 | PARTIAL | SOURCE_BACKED |
 | deity.egyptian.ptah | 卜塔 | Ptah | DEITY | 古埃及 | PARTIAL | UNVERIFIED |
 | deity.egyptian.ra | 拉／瑞 | Ra | DEITY | 古埃及 | PARTIAL | SOURCE_BACKED |
+| deity.egyptian.ra_horakhty | 拉-哈拉赫提 | Ra-Horakhty | DEITY | 古埃及 | PARTIAL | SOURCE_BACKED |
 | deity.egyptian.sekhmet | 塞赫麦特 | Sekhmet | DEITY | 古埃及 | PARTIAL | UNVERIFIED |
 | deity.egyptian.seth | 塞特 | Seth | DEITY | 古埃及 | PARTIAL | UNVERIFIED |
 | deity.egyptian.shu | 舒 | Shu | DEITY | 古埃及 | PARTIAL | UNVERIFIED |
@@ -31,15 +36,18 @@
 | deity.greek.apollo | 阿波罗 | Apollo | DEITY | 古希腊 | PARTIAL | SOURCE_BACKED |
 | deity.greek.ares | 阿瑞斯 | Ares | DEITY | 古希腊 | PARTIAL | SOURCE_BACKED |
 | deity.greek.artemis | 阿耳忒弥斯 | Artemis | DEITY | 古希腊 | PARTIAL | SOURCE_BACKED |
-| deity.greek.asteria | 阿斯忒里亚 | Asteria | DEITY | 古希腊 | PARTIAL | SOURCE_BACKED |
+| deity.greek.asteria | 阿斯忒里亚 | Asteria | DEITY | 古希腊 | PARTIAL | PARTIAL |
+| deity.greek.astraeus | 阿斯特赖俄斯 | Astraeus | DEITY | 古希腊 | PARTIAL | PARTIAL |
 | deity.greek.athena | 雅典娜 | Athena | DEITY | 古希腊 | PARTIAL | SOURCE_BACKED |
 | deity.greek.chaos | 卡俄斯 | Chaos | PRIMORDIAL_DEITY | 古希腊 | PARTIAL | SOURCE_BACKED |
+| deity.greek.crius | 克利俄斯 | Crius | DEITY | 古希腊 | PARTIAL | SOURCE_BACKED |
 | deity.greek.cronus | 克洛诺斯 | Cronus | DEITY | 古希腊 | PARTIAL | SOURCE_BACKED |
 | deity.greek.demeter | 得墨忒耳 | Demeter | DEITY | 古希腊 | PARTIAL | SOURCE_BACKED |
 | deity.greek.dione | 狄俄涅 | Dione | DEITY | 古希腊 | PARTIAL | SOURCE_BACKED |
 | deity.greek.dionysus | 狄俄倪索斯 | Dionysus | DEITY | 古希腊 | PARTIAL | SOURCE_BACKED |
 | deity.greek.eos | 厄俄斯 | Eos | DEITY | 古希腊 | PARTIAL | SOURCE_BACKED |
 | deity.greek.erebus | 厄瑞玻斯 | Erebus | PRIMORDIAL_DEITY | 古希腊 | PARTIAL | SOURCE_BACKED |
+| deity.greek.eurybia | 欧律比亚 | Eurybia | DEITY | 古希腊 | PARTIAL | SOURCE_BACKED |
 | deity.greek.gaia | 盖亚 | Gaia | PRIMORDIAL_DEITY | 古希腊 | PARTIAL | SOURCE_BACKED |
 | deity.greek.hades | 哈得斯 | Hades | DEITY | 古希腊 | PARTIAL | SOURCE_BACKED |
 | deity.greek.hecate | 赫卡忒 | Hecate | DEITY | 古希腊 | PARTIAL | SOURCE_BACKED |
@@ -55,8 +63,10 @@
 | deity.greek.maia | 迈亚 | Maia | DEITY | 古希腊 | PARTIAL | SOURCE_BACKED |
 | deity.greek.metis | 墨提斯 | Metis | DEITY | 古希腊 | PARTIAL | SOURCE_BACKED |
 | deity.greek.nyx | 倪克斯 | Nyx | PRIMORDIAL_DEITY | 古希腊 | PARTIAL | SOURCE_BACKED |
+| deity.greek.pallas_titan | 帕拉斯（提坦） | Pallas (Titan) | DEITY | 古希腊 | PARTIAL | PARTIAL |
 | deity.greek.persephone | 珀耳塞福涅 | Persephone | DEITY | 古希腊 | PARTIAL | SOURCE_BACKED |
-| deity.greek.perses | 珀耳塞斯 | Perses | DEITY | 古希腊 | CONFLICT | CONFLICTING |
+| deity.greek.perses | 珀耳塞斯（提坦） | Perses (Titan) | DEITY | 古希腊 | PARTIAL | SOURCE_BACKED |
+| deity.greek.perses_helios | 珀耳塞斯（赫利俄斯之子） | Perses (son of Helios) | DEITY | 古希腊 | PARTIAL | SOURCE_BACKED |
 | deity.greek.poseidon | 波塞冬 | Poseidon | DEITY | 古希腊 | PARTIAL | SOURCE_BACKED |
 | deity.greek.rhea | 瑞亚 | Rhea | DEITY | 古希腊 | PARTIAL | SOURCE_BACKED |
 | deity.greek.selene | 塞勒涅 | Selene | DEITY | 古希腊 | PARTIAL | SOURCE_BACKED |
@@ -80,17 +90,22 @@
 | deity.irish.dagda | 达格达 | The Dagda | DEITY | 爱尔兰 | PARTIAL | UNVERIFIED |
 | deity.irish.morrigan | 莫莉甘 | The Morrígan | DEITY | 爱尔兰 | PARTIAL | UNVERIFIED |
 | deity.japanese.amaterasu | 天照大神 | Amaterasu | DEITY | 日本神道 | PARTIAL | UNVERIFIED |
+| deity.japanese.fujin | 风神 | Fujin | DEITY | 日本神道 | PARTIAL | PARTIAL |
 | deity.japanese.fusuikazuchi | 伏雷 | Fusuikazuchi | DEITY | 日本神道 | PARTIAL | SOURCE_BACKED |
 | deity.japanese.honoikazuchi | 火雷 | Honoikazuchi | DEITY | 日本神道 | PARTIAL | SOURCE_BACKED |
+| deity.japanese.honoikazuchi_otokuni | 火雷神（乙训传统） | Honoikazuchi (Otokuni tradition) | DEITY | 日本神道 | PARTIAL | SOURCE_BACKED |
 | deity.japanese.izanagi | 伊邪那岐 | Izanagi | DEITY | 日本神道 | PARTIAL | UNVERIFIED |
 | deity.japanese.izanami | 伊邪那美 | Izanami | DEITY | 日本神道 | PARTIAL | UNVERIFIED |
+| deity.japanese.kamo_taketsunumi | 贺茂建角身命 | Kamo Taketsunumi no Mikoto | DEITY | 日本神道 | PARTIAL | SOURCE_BACKED |
+| deity.japanese.kamo_wakeikazuchi | 贺茂别雷大神 | Kamo Wakeikazuchi no Okami | DEITY | 日本神道 | PARTIAL | SOURCE_BACKED |
 | deity.japanese.kuroikazuchi | 黑雷 | Kuroikazuchi | DEITY | 日本神道 | PARTIAL | SOURCE_BACKED |
 | deity.japanese.naruikazuchi | 鸣雷 | Naruikazuchi | DEITY | 日本神道 | PARTIAL | SOURCE_BACKED |
 | deity.japanese.ooikazuchi | 大雷 | Ooikazuchi | DEITY | 日本神道 | PARTIAL | SOURCE_BACKED |
-| deity.japanese.raijin | 雷神 | Raijin | DEITY | 日本神道 | CONFLICT | CONFLICTING |
+| deity.japanese.raijin | 雷神 | Raijin | DEITY | 日本神道 | CONFLICT | PARTIAL |
 | deity.japanese.sakuikazuchi | 析雷 | Sakuikazuchi | DEITY | 日本神道 | PARTIAL | SOURCE_BACKED |
 | deity.japanese.susanoo | 须佐之男 | Susanoo | DEITY | 日本神道 | PARTIAL | UNVERIFIED |
 | deity.japanese.takemikazuchi | 建御雷 | Takemikazuchi | DEITY | 日本神道 | CONFLICT | CONFLICTING |
+| deity.japanese.tamayorihime_kamo | 玉依姬（贺茂传统） | Tamayorihime (Kamo tradition) | DEITY | 日本神道 | PARTIAL | SOURCE_BACKED |
 | deity.japanese.tsuchiikazuchi | 土雷 | Tsuchiikazuchi | DEITY | 日本神道 | PARTIAL | SOURCE_BACKED |
 | deity.japanese.tsukuyomi | 月读 | Tsukuyomi | DEITY | 日本神道 | PARTIAL | UNVERIFIED |
 | deity.japanese.wakaikazuchi | 若雷 | Wakaikazuchi | DEITY | 日本神道 | PARTIAL | SOURCE_BACKED |

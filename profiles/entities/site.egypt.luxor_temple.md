@@ -6,7 +6,7 @@
 - 原文名: —
 - 转写: —
 - 研究状态: `PARTIAL`
-- 证据状态: `UNVERIFIED`
+- 证据状态: `PARTIAL`
 
 ## 分类
 
@@ -14,7 +14,9 @@
 
 ## 关系网络
 
-当前无关系边；保留为研究缺口。
+| Relation | Target | Review / layer | Evidence | Confidence | Direction |
+|---|---|---|---:|---:|---|
+| `ASSOCIATED_WITH` | 奥佩特节 (`festival.egyptian.opet`) | VERIFIED / HISTORICAL_REALITY / RITUAL_PRACTICE | 1 | 0.99 | inferred inverse; `claim.v070.egypt.opet_associated_luxor` |
 
 ## Claims 与证据
 

@@ -55,3 +55,14 @@ qhist.v060.ugaritic.mot,queue.v060.ugaritic.baal_mot_cycle,DISCOVERED,SOURCE_FOU
 qhist.v060.ugaritic.parentage,queue.v060.ugaritic.baal_parentage,DISCOVERED,CONFLICT,2026-08-14T00:00:00Z,Dagan and El genealogy expressions require witness-level comparison
 qhist.v060.vedic.vajra,queue.v060.vedic.vajra_reception,DISCOVERED,SOURCE_FOUND,2026-08-14T00:00:00Z,Rigvedic weapon witness registered
 qhist.v060.yoruba.permissions,queue.v060.yoruba.sango_permissions,SOURCE_FOUND,NEEDS_REVIEW,2026-08-14T00:00:00Z,Community authorization remains required for any non-public expansion
+qhist.v070.egypt.abu_simbel,queue.v070.egypt.abu_simbel_sanctuary,DISCOVERED,SOURCE_FOUND,2026-08-15T00:00:00Z,Official monument and UNESCO property records registered
+qhist.v070.egypt.amun_ra,queue.egypt.amun_ra,NEW,PARTIAL,2026-08-15T00:00:00Z,"Composite entity, Karnak temple and object evidence baseline added"
+qhist.v070.egypt.heliopolis,queue.v070.egypt.heliopolis_solar_forms,DISCOVERED,SOURCE_FOUND,2026-08-15T00:00:00Z,Spell 17 digital witness registered
+qhist.v070.egypt.khepri,queue.v070.egypt.khepri_iconography,DISCOVERED,SOURCE_FOUND,2026-08-15T00:00:00Z,Book of the Dead and British Museum object locators registered
+qhist.v070.egypt.opet,queue.v070.egypt.opet_layers,DISCOVERED,SOURCE_FOUND,2026-08-15T00:00:00Z,Official Luxor and Karnak site records registered
+qhist.v070.egypt.ra_horakhty,queue.egypt.ra_horakhty,NEW,PARTIAL,2026-08-15T00:00:00Z,"Composite entity, Spell 17, Abu Simbel and museum-object baseline added"
+qhist.v070.egypt.syncretism,queue.v070.egypt.syncretism_expansion,DISCOVERED,SOURCE_FOUND,2026-08-15T00:00:00Z,Peer-reviewed composite-deity model registered
+qhist.v070.egypt.triad,queue.v070.egypt.theban_triad_variants,DISCOVERED,SOURCE_FOUND,2026-08-15T00:00:00Z,Theban triad and Opet first-pass evidence registered
+qhist.v080.eleusis_layers,queue.greek.v050.eleusis_layers,SOURCE_FOUND,PARTIAL,2026-08-21T00:00:00Z,"Added ritual, hero, monument, inscription and museum-object layers with evidence locators."
+qhist.v090.perses_identity,queue.greek.v040.perses_identity,CONFLICT,PARTIAL,2026-08-22T00:00:00Z,"Separated three ancient Perses entities with parentage, narrative-role and witness evidence; broader homonym audit remains open."
+queuehist.v0100.raijin_regional,queue.v060.japanese.raijin_regional,SOURCE_FOUND,PARTIAL,2026-08-23T00:00:00Z,"Added Kamo local genealogy, shrine, living festival, ritual and Sotatsu visual-reception layers; wider regional expansion remains open."

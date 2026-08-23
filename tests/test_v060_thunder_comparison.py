@@ -154,7 +154,7 @@ class ThunderComparisonV060Tests(unittest.TestCase):
             item for item in snapshot["comparisons"]
             if item["id"] == "comparison.thunder_storm_deities"
         )
-        self.assertEqual(snapshot["meta"]["projectVersion"], "0.6.0-thunder-comparison")
+        self.assertEqual(snapshot["meta"]["projectVersion"], "0.10.0-japanese-thunder-local-dossiers")
         self.assertEqual(len(comparison["members"]), 10)
         self.assertTrue(comparison["nameZh"])
         self.assertTrue(comparison["methodologyZh"])

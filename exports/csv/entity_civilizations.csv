@@ -29,9 +29,12 @@ concept.chinese.wuxing.tu,civ.chinese_ancient,ORIGIN,SUPPORTED,"Text-tradition a
 concept.comparative.hearth,civ.greek,ORIGIN,SUPPORTED,Registered from the Greek textual baseline; comparative concepts remain navigation aids only
 concept.comparative.night,civ.greek,ORIGIN,SUPPORTED,Registered from the Greek textual baseline; comparative concepts remain navigation aids only
 concept.comparative.sleep,civ.greek,ORIGIN,SUPPORTED,Registered from the Greek textual baseline; comparative concepts remain navigation aids only
+concept.egyptian.divine_syncretism,civ.egyptian,ORIGIN,SUPPORTED,v0.7.0 source-located Egyptian baseline
 concept.egyptian.isfet,civ.egyptian,ORIGIN_OR_ATTESTATION,SUPPORTED,
 concept.egyptian.ma_at,civ.egyptian,ORIGIN_OR_ATTESTATION,SUPPORTED,
 concept.greek.classical_elements,civ.greek,ORIGIN_OR_ATTESTATION,SUPPORTED,
+concept.greek.eleusinian_secrecy,civ.greek,ORIGIN,SUPPORTED,v0.8.0 source-located Greek baseline
+concept.greek.persian_name_aition,civ.greek,ORIGIN,SUPPORTED,v0.9.0 source-located Greek baseline
 concept.indian.pancamahabhuta,civ.hindu,ORIGIN_OR_ATTESTATION,SUPPORTED,
 concept.norse.fire_ice_cosmogony,civ.norse,ORIGIN_OR_ATTESTATION,SUPPORTED,
 concept.ugaritic.baal_title,civ.ugaritic,ORIGIN,SUPPORTED,v0.6.0 witness-scoped baseline
@@ -53,18 +56,23 @@ deity.chinese.leize_thunder_spirit,civ.chinese_ancient,ORIGIN,SUPPORTED,v0.6.0 w
 deity.chinese.nezha,civ.chinese_folk,ORIGIN_OR_ATTESTATION,SUPPORTED,
 deity.chinese.nu_wa,civ.chinese_ancient,ORIGIN_OR_ATTESTATION,SUPPORTED,
 deity.egyptian.amun,civ.egyptian,ORIGIN_OR_ATTESTATION,SUPPORTED,
+deity.egyptian.amun_ra,civ.egyptian,ORIGIN,SUPPORTED,v0.7.0 source-located Egyptian baseline
 deity.egyptian.anubis,civ.egyptian,ORIGIN_OR_ATTESTATION,SUPPORTED,
 deity.egyptian.atum,civ.egyptian,ORIGIN_OR_ATTESTATION,SUPPORTED,
 deity.egyptian.geb,civ.egyptian,ORIGIN_OR_ATTESTATION,SUPPORTED,
 deity.egyptian.hathor,civ.egyptian,ORIGIN_OR_ATTESTATION,SUPPORTED,
 deity.egyptian.horus,civ.egyptian,ORIGIN_OR_ATTESTATION,SUPPORTED,
 deity.egyptian.isis,civ.egyptian,ORIGIN_OR_ATTESTATION,SUPPORTED,
+deity.egyptian.khepri,civ.egyptian,ORIGIN,SUPPORTED,v0.7.0 source-located Egyptian baseline
+deity.egyptian.khonsu,civ.egyptian,ORIGIN,SUPPORTED,v0.7.0 source-located Egyptian baseline
 deity.egyptian.ma_at,civ.egyptian,ORIGIN_OR_ATTESTATION,SUPPORTED,
+deity.egyptian.mut,civ.egyptian,ORIGIN,SUPPORTED,v0.7.0 source-located Egyptian baseline
 deity.egyptian.nephthys,civ.egyptian,ORIGIN_OR_ATTESTATION,SUPPORTED,
 deity.egyptian.nut,civ.egyptian,ORIGIN_OR_ATTESTATION,SUPPORTED,
 deity.egyptian.osiris,civ.egyptian,ORIGIN_OR_ATTESTATION,SUPPORTED,
 deity.egyptian.ptah,civ.egyptian,ORIGIN_OR_ATTESTATION,SUPPORTED,
 deity.egyptian.ra,civ.egyptian,ORIGIN_OR_ATTESTATION,SUPPORTED,
+deity.egyptian.ra_horakhty,civ.egyptian,ORIGIN,SUPPORTED,v0.7.0 source-located Egyptian baseline
 deity.egyptian.sekhmet,civ.egyptian,ORIGIN_OR_ATTESTATION,SUPPORTED,
 deity.egyptian.seth,civ.egyptian,ORIGIN_OR_ATTESTATION,SUPPORTED,
 deity.egyptian.shu,civ.egyptian,ORIGIN_OR_ATTESTATION,SUPPORTED,
@@ -76,14 +84,17 @@ deity.greek.apollo,civ.greek,ORIGIN_OR_ATTESTATION,SUPPORTED,
 deity.greek.ares,civ.greek,ORIGIN_OR_ATTESTATION,SUPPORTED,
 deity.greek.artemis,civ.greek,ORIGIN_OR_ATTESTATION,SUPPORTED,
 deity.greek.asteria,civ.greek,ORIGIN,SUPPORTED,Registered from the Greek textual baseline; comparative concepts remain navigation aids only
+deity.greek.astraeus,civ.greek,ORIGIN,SUPPORTED,v0.9.0 source-located Greek baseline
 deity.greek.athena,civ.greek,ORIGIN_OR_ATTESTATION,SUPPORTED,
 deity.greek.chaos,civ.greek,ORIGIN,SUPPORTED,Registered from the Greek textual baseline; comparative concepts remain navigation aids only
+deity.greek.crius,civ.greek,ORIGIN,SUPPORTED,v0.9.0 source-located Greek baseline
 deity.greek.cronus,civ.greek,ORIGIN_OR_ATTESTATION,SUPPORTED,
 deity.greek.demeter,civ.greek,ORIGIN_OR_ATTESTATION,SUPPORTED,
 deity.greek.dione,civ.greek,ORIGIN,SUPPORTED,Registered within the ancient Greek textual baseline
 deity.greek.dionysus,civ.greek,ORIGIN_OR_ATTESTATION,SUPPORTED,
 deity.greek.eos,civ.greek,ORIGIN,SUPPORTED,Registered from the Greek textual baseline; comparative concepts remain navigation aids only
 deity.greek.erebus,civ.greek,ORIGIN,SUPPORTED,Registered from the Greek textual baseline; comparative concepts remain navigation aids only
+deity.greek.eurybia,civ.greek,ORIGIN,SUPPORTED,v0.9.0 source-located Greek baseline
 deity.greek.gaia,civ.greek,ORIGIN_OR_ATTESTATION,SUPPORTED,
 deity.greek.hades,civ.greek,ORIGIN_OR_ATTESTATION,SUPPORTED,
 deity.greek.hecate,civ.greek,ORIGIN,SUPPORTED,Registered from the Greek textual baseline; comparative concepts remain navigation aids only
@@ -99,8 +110,10 @@ deity.greek.leto,civ.greek,ORIGIN,SUPPORTED,Registered within the ancient Greek 
 deity.greek.maia,civ.greek,ORIGIN,SUPPORTED,Registered within the ancient Greek textual baseline
 deity.greek.metis,civ.greek,ORIGIN,SUPPORTED,"Text-tradition association, not historical existence"
 deity.greek.nyx,civ.greek,ORIGIN,SUPPORTED,Registered from the Greek textual baseline; comparative concepts remain navigation aids only
+deity.greek.pallas_titan,civ.greek,ORIGIN,SUPPORTED,v0.9.0 source-located Greek baseline
 deity.greek.persephone,civ.greek,ORIGIN,SUPPORTED,Registered within the ancient Greek textual baseline
 deity.greek.perses,civ.greek,ORIGIN,SUPPORTED,Registered from the Greek textual baseline; comparative concepts remain navigation aids only
+deity.greek.perses_helios,civ.greek,ORIGIN,SUPPORTED,v0.9.0 source-located Greek baseline
 deity.greek.poseidon,civ.greek,ORIGIN_OR_ATTESTATION,SUPPORTED,
 deity.greek.rhea,civ.greek,ORIGIN_OR_ATTESTATION,SUPPORTED,
 deity.greek.selene,civ.greek,ORIGIN,SUPPORTED,Registered from the Greek textual baseline; comparative concepts remain navigation aids only
@@ -118,10 +131,14 @@ deity.irish.dagda,civ.irish,ORIGIN_OR_ATTESTATION,SUPPORTED,
 deity.irish.lugh,civ.irish,ORIGIN_OR_ATTESTATION,SUPPORTED,
 deity.irish.morrigan,civ.irish,ORIGIN_OR_ATTESTATION,SUPPORTED,
 deity.japanese.amaterasu,civ.japanese_shinto,ORIGIN_OR_ATTESTATION,SUPPORTED,
+deity.japanese.fujin,civ.japanese_shinto,ORIGIN,SUPPORTED,v0.10.0 source-scoped Japanese dossier
 deity.japanese.fusuikazuchi,civ.japanese_shinto,ORIGIN,SUPPORTED,v0.6.0 witness-scoped baseline
 deity.japanese.honoikazuchi,civ.japanese_shinto,ORIGIN,SUPPORTED,v0.6.0 witness-scoped baseline
+deity.japanese.honoikazuchi_otokuni,civ.japanese_shinto,ORIGIN,SUPPORTED,v0.10.0 source-scoped Japanese dossier
 deity.japanese.izanagi,civ.japanese_shinto,ORIGIN_OR_ATTESTATION,SUPPORTED,
 deity.japanese.izanami,civ.japanese_shinto,ORIGIN_OR_ATTESTATION,SUPPORTED,
+deity.japanese.kamo_taketsunumi,civ.japanese_shinto,ORIGIN,SUPPORTED,v0.10.0 source-scoped Japanese dossier
+deity.japanese.kamo_wakeikazuchi,civ.japanese_shinto,ORIGIN,SUPPORTED,v0.10.0 source-scoped Japanese dossier
 deity.japanese.kuroikazuchi,civ.japanese_shinto,ORIGIN,SUPPORTED,v0.6.0 witness-scoped baseline
 deity.japanese.naruikazuchi,civ.japanese_shinto,ORIGIN,SUPPORTED,v0.6.0 witness-scoped baseline
 deity.japanese.ooikazuchi,civ.japanese_shinto,ORIGIN,SUPPORTED,v0.6.0 witness-scoped baseline
@@ -129,6 +146,7 @@ deity.japanese.raijin,civ.japanese_shinto,ORIGIN,SUPPORTED,v0.6.0 witness-scoped
 deity.japanese.sakuikazuchi,civ.japanese_shinto,ORIGIN,SUPPORTED,v0.6.0 witness-scoped baseline
 deity.japanese.susanoo,civ.japanese_shinto,ORIGIN_OR_ATTESTATION,SUPPORTED,
 deity.japanese.takemikazuchi,civ.japanese_shinto,ORIGIN,SUPPORTED,v0.6.0 witness-scoped baseline
+deity.japanese.tamayorihime_kamo,civ.japanese_shinto,ORIGIN,SUPPORTED,v0.10.0 source-scoped Japanese dossier
 deity.japanese.tsuchiikazuchi,civ.japanese_shinto,ORIGIN,SUPPORTED,v0.6.0 witness-scoped baseline
 deity.japanese.tsukuyomi,civ.japanese_shinto,ORIGIN_OR_ATTESTATION,SUPPORTED,
 deity.japanese.wakaikazuchi,civ.japanese_shinto,ORIGIN,SUPPORTED,v0.6.0 witness-scoped baseline
@@ -203,6 +221,8 @@ element.indian.ap,civ.hindu,ORIGIN_OR_ATTESTATION,SUPPORTED,
 element.indian.prithvi,civ.hindu,ORIGIN_OR_ATTESTATION,SUPPORTED,
 element.indian.vayu,civ.hindu,ORIGIN_OR_ATTESTATION,SUPPORTED,
 event.babylonian.marduk_tiamat,civ.babylonian,ORIGIN_OR_ATTESTATION,SUPPORTED,
+event.egyptian.nocturnal_solar_journey,civ.egyptian,ORIGIN,SUPPORTED,v0.7.0 source-located Egyptian baseline
+event.greek.medea_restores_aeetes,civ.greek,ORIGIN,SUPPORTED,v0.9.0 source-located Greek baseline
 event.greek.persephone_abduction,civ.greek,ORIGIN,SUPPORTED,Registered within the ancient Greek textual baseline
 event.greek.titanomachy,civ.greek,ORIGIN_OR_ATTESTATION,SUPPORTED,
 event.greek.zeus_typhon_battle,civ.greek,ORIGIN,SUPPORTED,"Text-tradition association, not historical existence"
@@ -211,10 +231,20 @@ event.norse.ragnarok,civ.norse,ORIGIN_OR_ATTESTATION,SUPPORTED,
 event.sumerian.inanna_descent,civ.sumerian,ORIGIN_OR_ATTESTATION,SUPPORTED,
 event.ugaritic.baal_yamm_ktu12,civ.ugaritic,ORIGIN,SUPPORTED,v0.6.0 witness-scoped baseline
 event.vedic.indra_vritra_rv132,civ.vedic,ORIGIN,SUPPORTED,v0.6.0 witness-scoped baseline
+festival.egyptian.opet,civ.egyptian,ORIGIN,SUPPORTED,v0.7.0 source-located Egyptian baseline
+festival.greek.great_eleusinia,civ.greek,ORIGIN,SUPPORTED,v0.8.0 source-located Greek baseline
+festival.japan.kamo_aoi,civ.japanese_shinto,ORIGIN,SUPPORTED,v0.10.0 source-scoped Japanese dossier
 festival.yoruba.sango_oyo,civ.yoruba,ORIGIN,SUPPORTED,v0.6.0 witness-scoped baseline
+group.egyptian.theban_triad,civ.egyptian,ORIGIN,SUPPORTED,v0.7.0 source-located Egyptian baseline
 group.japanese.eight_thunder_kami,civ.japanese_shinto,ORIGIN,SUPPORTED,v0.6.0 witness-scoped baseline
 hero.chinese.sun_wukong,civ.chinese_folk,ORIGIN_OR_ATTESTATION,SUPPORTED,
 hero.chinese.yellow_emperor,civ.chinese_ancient,ORIGIN_OR_ATTESTATION,SUPPORTED,
+hero.greek.aeetes,civ.greek,ORIGIN,SUPPORTED,v0.9.0 source-located Greek baseline
+hero.greek.andromeda,civ.greek,ORIGIN,SUPPORTED,v0.9.0 source-located Greek baseline
+hero.greek.medea,civ.greek,ORIGIN,SUPPORTED,v0.9.0 source-located Greek baseline
+hero.greek.perses_perseus_son,civ.greek,ORIGIN,SUPPORTED,v0.9.0 source-located Greek baseline
+hero.greek.perseus,civ.greek,ORIGIN,SUPPORTED,v0.9.0 source-located Greek baseline
+hero.greek.triptolemos,civ.greek,ORIGIN,SUPPORTED,v0.8.0 source-located Greek baseline
 hero.indian.arjuna,civ.hindu,ORIGIN_OR_ATTESTATION,SUPPORTED,
 hero.irish.cu_chulainn,civ.irish,ORIGIN_OR_ATTESTATION,SUPPORTED,
 hero.irish.fergus_mac_roich,civ.irish,ORIGIN_OR_ATTESTATION,SUPPORTED,
@@ -222,9 +252,20 @@ hero.japanese.yamato_takeru,civ.japanese_shinto,ORIGIN_OR_ATTESTATION,SUPPORTED,
 hero.kiche.hunahpu,civ.maya,ORIGIN_OR_ATTESTATION,SUPPORTED,
 hero.kiche.xbalanque,civ.maya,ORIGIN_OR_ATTESTATION,SUPPORTED,
 hero.polynesian.maui,civ.polynesian,ORIGIN_OR_ATTESTATION,SUPPORTED,
+historical.japan.tawaraya_sotatsu,civ.japanese_shinto,ORIGIN,SUPPORTED,v0.10.0 source-scoped Japanese dossier
+institution.japan.kyoto_national_museum,civ.japanese_shinto,ORIGIN,SUPPORTED,v0.10.0 source-scoped Japanese dossier
+institution.nam_athens,civ.greek,ORIGIN,SUPPORTED,v0.8.0 source-located Greek baseline
 museum.babylon.flood_tablet_k3375,civ.assyrian,ORIGIN_OR_ATTESTATION,SUPPORTED,
+museum.bm.khepri_hymn_stela_ea826,civ.egyptian,ORIGIN,SUPPORTED,v0.7.0 source-located Egyptian baseline
 museum.egypt.papyrus_ani_frame3,civ.egyptian,ORIGIN_OR_ATTESTATION,SUPPORTED,
 museum.greek.zeus_poseidon_met_21_88_52,civ.greek,ORIGIN_OR_ATTESTATION,SUPPORTED,
+museum.japan.sotatsu_wind_thunder_screens,civ.japanese_shinto,ORIGIN,SUPPORTED,v0.10.0 source-scoped Japanese dossier
+museum.met.amun_re_scarab_09_180_953,civ.egyptian,ORIGIN,SUPPORTED,v0.7.0 source-located Egyptian baseline
+museum.met.eleusinian_relief_14_130_9,civ.greek,ORIGIN,SUPPORTED,v0.8.0 source-located Greek baseline
+museum.met.nauny_book_dead_30_3_31,civ.egyptian,ORIGIN,SUPPORTED,v0.7.0 source-located Egyptian baseline
+museum.met.ra_horakhty_amulet_74_51_4497,civ.egyptian,ORIGIN,SUPPORTED,v0.7.0 source-located Egyptian baseline
+museum.met.ra_horakhty_stela_oc81,civ.egyptian,ORIGIN,SUPPORTED,v0.7.0 source-located Egyptian baseline
+museum.nam.great_eleusinian_relief_126,civ.greek,ORIGIN,SUPPORTED,v0.8.0 source-located Greek baseline
 museum.norse.mjolnir_rings,civ.norse,ORIGIN_OR_ATTESTATION,SUPPORTED,
 museum.ugarit.baal_cycle_ao16643,civ.ugaritic,ORIGIN_OR_ATTESTATION,SUPPORTED,
 museum.ugarit.baal_thunder_ao15775,civ.ugaritic,ORIGIN_OR_ATTESTATION,SUPPORTED,
@@ -233,6 +274,8 @@ realm.egypt.duat,civ.egyptian,ORIGIN_OR_ATTESTATION,SUPPORTED,
 realm.greek.tartarus,civ.greek,ORIGIN,SUPPORTED,"Text-tradition association, not historical existence"
 realm.norse.valhalla,civ.norse,ORIGIN_OR_ATTESTATION,SUPPORTED,
 realm.sumerian.kur,civ.sumerian,ORIGIN_OR_ATTESTATION,SUPPORTED,
+ritual.greek.eleusinian_mysteries,civ.greek,ORIGIN,SUPPORTED,v0.8.0 source-located Greek baseline
+ritual.japan.kamo_kurabeuma,civ.japanese_shinto,ORIGIN,SUPPORTED,v0.10.0 source-scoped Japanese dossier
 site.bolivia.tiwanaku,civ.tiwanaku,ORIGIN_OR_ATTESTATION,SUPPORTED,
 site.cambodia.angkor,civ.khmer,ORIGIN_OR_ATTESTATION,SUPPORTED,
 site.celtic.groves_scope,civ.celtic,ORIGIN_OR_ATTESTATION,SUPPORTED,
@@ -250,6 +293,7 @@ site.egypt.dendera,civ.egyptian,ORIGIN_OR_ATTESTATION,SUPPORTED,
 site.egypt.edfu,civ.egyptian,ORIGIN_OR_ATTESTATION,SUPPORTED,
 site.egypt.giza,civ.egyptian,ORIGIN_OR_ATTESTATION,SUPPORTED,
 site.egypt.karnak,civ.egyptian,ORIGIN_OR_ATTESTATION,SUPPORTED,
+site.egypt.karnak_great_temple_amun_ra,civ.egyptian,ORIGIN,SUPPORTED,v0.7.0 source-located Egyptian baseline
 site.egypt.luxor_temple,civ.egyptian,ORIGIN_OR_ATTESTATION,SUPPORTED,
 site.egypt.philae,civ.egyptian,ORIGIN_OR_ATTESTATION,SUPPORTED,
 site.egypt.saqqara,civ.egyptian,ORIGIN_OR_ATTESTATION,SUPPORTED,
@@ -261,10 +305,12 @@ site.greece.delos,civ.greek,ORIGIN_OR_ATTESTATION,SUPPORTED,
 site.greece.delphi,civ.greek,ORIGIN_OR_ATTESTATION,SUPPORTED,
 site.greece.dodona,civ.greek,ORIGIN_OR_ATTESTATION,SUPPORTED,
 site.greece.eleusis,civ.greek,ORIGIN_OR_ATTESTATION,SUPPORTED,
+site.greece.eleusis_telesterion,civ.greek,ORIGIN,SUPPORTED,v0.8.0 source-located Greek baseline
 site.greece.epidaurus,civ.greek,ORIGIN_OR_ATTESTATION,SUPPORTED,
 site.greece.knossos,civ.minoan,ORIGIN_OR_ATTESTATION,SUPPORTED,
 site.greece.mycenae,civ.mycenaean,ORIGIN_OR_ATTESTATION,SUPPORTED,
 site.greece.olympia,civ.greek,ORIGIN_OR_ATTESTATION,SUPPORTED,
+site.greece.sacred_way,civ.greek,ORIGIN,SUPPORTED,v0.8.0 source-located Greek baseline
 site.guatemala.tikal,civ.maya,ORIGIN_OR_ATTESTATION,SUPPORTED,
 site.iceland.sacred_scope,civ.norse,ORIGIN_OR_ATTESTATION,SUPPORTED,
 site.india.elephanta,civ.hindu,ORIGIN_OR_ATTESTATION,SUPPORTED,
@@ -283,6 +329,7 @@ site.iraq.ur,civ.sumerian,ORIGIN_OR_ATTESTATION,SUPPORTED,
 site.iraq.uruk,civ.sumerian,ORIGIN_OR_ATTESTATION,SUPPORTED,
 site.italy.pompeii,civ.roman,ORIGIN_OR_ATTESTATION,SUPPORTED,
 site.italy.rome,civ.roman,ORIGIN_OR_ATTESTATION,SUPPORTED,
+site.japan.kamigamo_jinja,civ.japanese_shinto,ORIGIN,SUPPORTED,v0.10.0 source-scoped Japanese dossier
 site.japan.shrines_scope,civ.japanese_shinto,ORIGIN_OR_ATTESTATION,SUPPORTED,
 site.mexico.chichen_itza,civ.maya,ORIGIN_OR_ATTESTATION,SUPPORTED,
 site.mexico.monte_alban,civ.zapotec,ORIGIN_OR_ATTESTATION,SUPPORTED,
@@ -333,14 +380,18 @@ text.chinese.xiyouji,civ.chinese_folk,ORIGIN_OR_ATTESTATION,SUPPORTED,
 text.egypt.amduat,civ.egyptian,ORIGIN_OR_ATTESTATION,SUPPORTED,
 text.egypt.book_caverns,civ.egyptian,ORIGIN_OR_ATTESTATION,SUPPORTED,
 text.egypt.book_dead,civ.egyptian,ORIGIN_OR_ATTESTATION,SUPPORTED,
+text.egypt.book_dead_spell17,civ.egyptian,ORIGIN,SUPPORTED,v0.7.0 source-located Egyptian baseline
 text.egypt.book_gates,civ.egyptian,ORIGIN_OR_ATTESTATION,SUPPORTED,
 text.egypt.coffin_texts,civ.egyptian,ORIGIN_OR_ATTESTATION,SUPPORTED,
 text.egypt.litany_re,civ.egyptian,ORIGIN_OR_ATTESTATION,SUPPORTED,
 text.egypt.memphite_theology,civ.egyptian,ORIGIN_OR_ATTESTATION,SUPPORTED,
 text.egypt.pyramid_texts,civ.egyptian,ORIGIN_OR_ATTESTATION,SUPPORTED,
 text.egypt.temple_tomb_inscriptions,civ.egyptian,ORIGIN_OR_ATTESTATION,SUPPORTED,
+text.greek.apollodorus_library,civ.greek,ORIGIN,SUPPORTED,v0.9.0 source-located Greek baseline
 text.greek.argonautica,civ.greek,ORIGIN_OR_ATTESTATION,SUPPORTED,
 text.greek.bibliotheca,civ.greek,ORIGIN_OR_ATTESTATION,SUPPORTED,
+text.greek.diodorus_library,civ.greek,ORIGIN,SUPPORTED,v0.9.0 source-located Greek baseline
+text.greek.herodotus_histories,civ.greek,ORIGIN,SUPPORTED,v0.9.0 source-located Greek baseline
 text.greek.homeric_hymn_aphrodite_5,civ.greek,ORIGIN,SUPPORTED,Registered within the ancient Greek textual baseline
 text.greek.homeric_hymn_apollo_3,civ.greek,ORIGIN,SUPPORTED,Registered within the ancient Greek textual baseline
 text.greek.homeric_hymn_ares_8,civ.greek,ORIGIN,SUPPORTED,Registered within the ancient Greek textual baseline
@@ -355,6 +406,7 @@ text.greek.homeric_hymn_hestia_29,civ.greek,ORIGIN,SUPPORTED,Registered from the
 text.greek.homeric_hymn_poseidon_22,civ.greek,ORIGIN,SUPPORTED,Registered within the ancient Greek textual baseline
 text.greek.homeric_hymn_selene_32,civ.greek,ORIGIN,SUPPORTED,Registered from the Greek textual baseline; comparative concepts remain navigation aids only
 text.greek.homeric_hymns,civ.greek,ORIGIN_OR_ATTESTATION,SUPPORTED,
+text.greek.ieleusis97,civ.greek,ORIGIN,SUPPORTED,v0.8.0 source-located Greek baseline
 text.greek.iliad,civ.greek,ORIGIN_OR_ATTESTATION,SUPPORTED,
 text.greek.inscriptions,civ.greek,ORIGIN_OR_ATTESTATION,SUPPORTED,
 text.greek.odyssey,civ.greek,ORIGIN_OR_ATTESTATION,SUPPORTED,

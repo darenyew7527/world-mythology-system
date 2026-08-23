@@ -1,4 +1,4 @@
-import { useMemo } from 'react'
+import { useMemo, useState } from 'react'
 import { EntityGlyph, ThunderIcon } from './Icons.jsx'
 
 const displayName = (entity, language) => {
@@ -18,8 +18,11 @@ export default function ThunderView({ comparisons, copy, entities, language, onO
     () => new Map(entities.map((entity) => [entity.id, entity])),
     [entities],
   )
-  const comparison = comparisons.find((item) => item.id === 'comparison.thunder_storm_deities')
-    || comparisons[0]
+  const [comparisonId, setComparisonId] = useState(
+    comparisons.find((item) => item.id === 'comparison.egyptian.solar_composite_forms')?.id
+      || comparisons[0]?.id,
+  )
+  const comparison = comparisons.find((item) => item.id === comparisonId) || comparisons[0]
 
   if (!comparison) {
     return <main className="single-view thunder-view"><p>{copy.thunderUnavailable}</p></main>
@@ -33,6 +36,18 @@ export default function ThunderView({ comparisons, copy, entities, language, onO
 
   return (
     <main className="single-view thunder-view">
+      <nav className="comparison-tabs" aria-label={copy.comparisonSets}>
+        {comparisons.map((item) => (
+          <button
+            aria-current={item.id === comparison.id ? 'page' : undefined}
+            key={item.id}
+            onClick={() => setComparisonId(item.id)}
+            type="button"
+          >
+            {language === 'zh' ? item.nameZh : item.canonicalName}
+          </button>
+        ))}
+      </nav>
       <header className="thunder-hero">
         <span className="thunder-mark"><ThunderIcon size={54} /></span>
         <div>
@@ -45,7 +60,7 @@ export default function ThunderView({ comparisons, copy, entities, language, onO
         </aside>
       </header>
 
-      <section className="thor-correction" aria-label={copy.thorCorrectionTitle}>
+      {comparison.id === 'comparison.thunder_storm_deities' && <section className="thor-correction" aria-label={copy.thorCorrectionTitle}>
         <strong>{copy.thorCorrectionTitle}</strong>
         <p>{copy.thorCorrectionBody}</p>
         <div>
@@ -67,7 +82,7 @@ export default function ThunderView({ comparisons, copy, entities, language, onO
             )
           })}
         </div>
-      </section>
+      </section>}
 
       <section className="thunder-comparison" aria-label={copy.thunderComparisonTable}>
         <header>
@@ -102,7 +117,7 @@ export default function ThunderView({ comparisons, copy, entities, language, onO
         })}
       </section>
 
-      <section className="comparison-boundaries">
+      {comparison.id === 'comparison.thunder_storm_deities' && <section className="comparison-boundaries">
         <h2>{copy.comparisonBoundariesTitle}</h2>
         <p>{copy.comparisonBoundariesBody}</p>
         <dl>
@@ -110,7 +125,7 @@ export default function ThunderView({ comparisons, copy, entities, language, onO
             <div key={term}><dt>{term}</dt><dd>{meaning}</dd></div>
           ))}
         </dl>
-      </section>
+      </section>}
     </main>
   )
 }

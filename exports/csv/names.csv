@@ -1003,6 +1003,28 @@ name.text.zoroastrian.denkard.canonical,text.zoroastrian.denkard,Dēnkard,dēnka
 name.text.zoroastrian.denkard.zh,text.zoroastrian.denkard,宗教行传,宗教行传,lang.zh,,TRANSLATION,,1,,
 name.typhon.typhoeus,creature.greek.typhon,Typhoeus,typhoeus,lang.en,Latin,ALIAS,,0,source.greek.theogony.perseus_eng1,Evelyn-White form in the cited passage; Typhaon remains a separate research problem
 name.typhon_battle.en,event.greek.zeus_typhon_battle,Battle of Zeus and Typhon,battle of zeus and typhon,lang.en,Latin,TRANSLATION,,1,source.greek.theogony.perseus_eng1,Reading label for the event record
+name.v0100.aoi.en,festival.japan.kamo_aoi,Kamo Festival (Aoi Matsuri),kamo festival aoi matsuri,lang.en,Latin,PREFERRED,,1,source.japanese.kamo_festival.official,
+name.v0100.aoi.jpn,festival.japan.kamo_aoi,賀茂祭,賀茂祭,lang.jpn,Kanji,ORIGINAL,,1,source.japanese.kamo_festival.official,
+name.v0100.fujin.en,deity.japanese.fujin,Fujin,fujin,lang.en,Latin,PREFERRED,,1,source.japanese.raijin_screen.kyohaku,
+name.v0100.fujin.jpn,deity.japanese.fujin,風神,風神,lang.jpn,Kanji,ORIGINAL,,1,source.japanese.raijin_screen.kyohaku,
+name.v0100.hono_otokuni.en,deity.japanese.honoikazuchi_otokuni,Honoikazuchi (Otokuni tradition),honoikazuchi otokuni,lang.en,Latin,PREFERRED,,1,source.japanese.kamo_genealogy.kokugakuin,Scoped to the red-arrow/Otokuni genealogy.
+name.v0100.hono_otokuni.jpn,deity.japanese.honoikazuchi_otokuni,火雷神,火雷神,lang.jpn,Kanji,ORIGINAL,,1,source.japanese.kamo_genealogy.kokugakuin,
+name.v0100.kamigamo.en,site.japan.kamigamo_jinja,Kamo Wakeikazuchi Jinja (Kamigamo Jinja),kamo wakeikazuchi jinja kamigamo,lang.en,Latin,PREFERRED,,1,source.japanese.kamigamo.unesco688,
+name.v0100.kamigamo.jpn,site.japan.kamigamo_jinja,賀茂別雷神社,賀茂別雷神社,lang.jpn,Kanji,ORIGINAL,,1,source.japanese.kamigamo.about,
+name.v0100.kamo.en,deity.japanese.kamo_wakeikazuchi,Kamo Wakeikazuchi no Okami,kamo wakeikazuchi no okami,lang.en,Latin,PREFERRED,,1,source.japanese.kamigamo.about,
+name.v0100.kamo.jpn,deity.japanese.kamo_wakeikazuchi,賀茂別雷大神,賀茂別雷大神,lang.jpn,Kanji,ORIGINAL,,1,source.japanese.kamigamo.about,
+name.v0100.knm.en,institution.japan.kyoto_national_museum,Kyoto National Museum,kyoto national museum,lang.en,Latin,PREFERRED,,1,source.japanese.raijin_screen.kyohaku,
+name.v0100.knm.jpn,institution.japan.kyoto_national_museum,京都国立博物館,京都国立博物館,lang.jpn,Kanji,ORIGINAL,,1,,
+name.v0100.kurabeuma.en,ritual.japan.kamo_kurabeuma,Kamo Kurabeuma Horse Racing Ritual,kamo kurabeuma,lang.en,Latin,PREFERRED,,1,source.japanese.kamo_kurabeuma.official,
+name.v0100.kurabeuma.jpn,ritual.japan.kamo_kurabeuma,賀茂競馬,賀茂競馬,lang.jpn,Kanji,ORIGINAL,,1,source.japanese.kamo_kurabeuma.official,
+name.v0100.screen.en,museum.japan.sotatsu_wind_thunder_screens,Wind God and Thunder God Screens,wind god thunder god screens,lang.en,Latin,PREFERRED,,1,source.japanese.raijin_screen.kyohaku,
+name.v0100.screen.jpn,museum.japan.sotatsu_wind_thunder_screens,風神雷神図屏風,風神雷神図屏風,lang.jpn,Kanji,ORIGINAL,,1,source.japanese.raijin_screen.kyohaku,
+name.v0100.sotatsu.en,historical.japan.tawaraya_sotatsu,Tawaraya Sotatsu,tawaraya sotatsu,lang.en,Latin,PREFERRED,,1,source.japanese.raijin_screen.kyohaku,
+name.v0100.sotatsu.jpn,historical.japan.tawaraya_sotatsu,俵屋宗達,俵屋宗達,lang.jpn,Kanji,ORIGINAL,,1,source.japanese.raijin_screen.kyohaku,
+name.v0100.taketsunumi.en,deity.japanese.kamo_taketsunumi,Kamo Taketsunumi no Mikoto,kamo taketsunumi no mikoto,lang.en,Latin,PREFERRED,,1,source.japanese.kamo_genealogy.kokugakuin,
+name.v0100.taketsunumi.jpn,deity.japanese.kamo_taketsunumi,賀茂建角身命,賀茂建角身命,lang.jpn,Kanji,ORIGINAL,,1,source.japanese.kamo_genealogy.kokugakuin,
+name.v0100.tamayori.en,deity.japanese.tamayorihime_kamo,Tamayorihime (Kamo tradition),tamayorihime kamo,lang.en,Latin,PREFERRED,,1,source.japanese.tamayorihime.kokugakuin,Scoped to the Kamo genealogy.
+name.v0100.tamayori.jpn,deity.japanese.tamayorihime_kamo,玉依毘売命,玉依毘売命,lang.jpn,Kanji,ORIGINAL,,1,source.japanese.tamayorihime.kokugakuin,
 name.v050.ares.grc,deity.greek.ares,Ἄρης,ἄρης,lang.grc,Greek,ORIGINAL,,1,source.greek.homeric_hymn_ares8.scaife,Ancient Greek name
 name.v050.artemis.grc,deity.greek.artemis,Ἄρτεμις,ἄρτεμις,lang.grc,Greek,ORIGINAL,,1,source.greek.homeric_hymn_artemis27.scaife,Ancient Greek name
 name.v050.athena.grc,deity.greek.athena,Ἀθηνᾶ,ἀθηνᾶ,lang.grc,Greek,ORIGINAL,,1,source.greek.homeric_hymn_athena28.scaife,Ancient Greek name
@@ -1099,6 +1121,91 @@ name.v060.thor.non,deity.norse.thor,Þórr,thorr,lang.non,Latin,ORIGINAL,,1,sour
 name.v060.thrud.non,deity.norse.thrud,Þrúðr,thrudr,lang.non,Latin,ORIGINAL,,1,source.norse.skaldskaparmal.vsnr1998,Daughter of Thor in this witness layer
 name.v060.vrtra.ahi,creature.vedic.vritra,अहि,ahi,lang.san,Devanagari,TEXTUAL_DESIGNATION,IAST,0,source.vedic.rigveda.1_32.vhp,"Serpent designation in RV 1.32; retained as a witness-level name, not a global synonym"
 name.v060.vrtra.san,creature.vedic.vritra,वृत्र,vrtra,lang.san,Devanagari,ORIGINAL,IAST,1,source.vedic.rigveda.1_32.vhp,
+name.v070.amun_ra.egy,deity.egyptian.amun_ra,jmn-rꜥ,jmn rꜥ,lang.egy,Hieroglyphic transliteration,TRANSCRIPTION,Egyptological,1,source.egypt.karnak.origins.cfeetk,Conventional Egyptological transliteration
+name.v070.amun_ra.en,deity.egyptian.amun_ra,Amun-Ra,amun ra,lang.en,Latin,PREFERRED,,1,source.egypt.syncretism.uee2008,English scholarly form
+name.v070.amun_ra.zh,deity.egyptian.amun_ra,阿蒙-拉,阿蒙 拉,lang.zh,Han,TRANSLATION,,1,source.egypt.syncretism.uee2008,Chinese project translation
+name.v070.amun_re.en,deity.egyptian.amun_ra,Amun-Re,amun re,lang.en,Latin,VARIANT,,0,source.egypt.amun_re_scarab.met.09_180_953,Museum catalogue form
+name.v070.bm_stela.en,museum.bm.khepri_hymn_stela_ea826,Stela with hymn to Khepri,stela with hymn to khepri,lang.en,Latin,PREFERRED,,1,source.egypt.khepri_hymn.bm.ea826,Museum catalogue-derived title.
+name.v070.bm_stela.zh,museum.bm.khepri_hymn_stela_ea826,凯布利赞歌石碑 EA826,凯布利赞歌石碑 ea826,lang.zh,Han,TRANSLATION,,1,source.egypt.khepri_hymn.bm.ea826,Chinese project translation.
+name.v070.karnak.egy,site.egypt.karnak_great_temple_amun_ra,Ipet-Sut,ipet sut,lang.egy,Egyptological transliteration,ANCIENT_NAME,Egyptological,1,source.egypt.karnak.mota,Official site gives The Most Select of Places
+name.v070.khepri.egy,deity.egyptian.khepri,ḫprj,ḫprj,lang.egy,Hieroglyphic transliteration,TRANSCRIPTION,Egyptological,1,source.egypt.book_dead17.ucl,Conventional Egyptological transliteration
+name.v070.khepri.en,deity.egyptian.khepri,Khepri,khepri,lang.en,Latin,PREFERRED,,1,source.egypt.book_dead17.ucl,English scholarly form
+name.v070.khepri.zh,deity.egyptian.khepri,凯布利,凯布利,lang.zh,Han,TRANSLATION,,1,source.egypt.khepri_hymn.bm.ea826,Chinese transliteration
+name.v070.khonsu.egy,deity.egyptian.khonsu,ḫnsw,ḫnsw,lang.egy,Hieroglyphic transliteration,TRANSCRIPTION,Egyptological,1,source.egypt.syncretism.uee2008,Conventional transliteration
+name.v070.met_amulet.en,museum.met.ra_horakhty_amulet_74_51_4497,Faience amulet of Ra Horakhty,faience amulet of ra horakhty,lang.en,Latin,PREFERRED,,1,source.egypt.ra_horakhty_amulet.met.74_51_4497,Museum catalogue-derived title.
+name.v070.met_amulet.zh,museum.met.ra_horakhty_amulet_74_51_4497,拉-哈拉赫提釉陶护符 74.51.4497,拉 哈拉赫提釉陶护符 74 51 4497,lang.zh,Han,TRANSLATION,,1,source.egypt.ra_horakhty_amulet.met.74_51_4497,Chinese project translation.
+name.v070.met_scarab.en,museum.met.amun_re_scarab_09_180_953,Scarab inscribed with Amun-Re and Neit,scarab inscribed with amun re and neit,lang.en,Latin,PREFERRED,,1,source.egypt.amun_re_scarab.met.09_180_953,Museum catalogue-derived title.
+name.v070.met_scarab.zh,museum.met.amun_re_scarab_09_180_953,阿蒙-拉与奈特名号圣甲虫 09.180.953,阿蒙 拉与奈特名号圣甲虫 09 180 953,lang.zh,Han,TRANSLATION,,1,source.egypt.amun_re_scarab.met.09_180_953,Chinese project translation.
+name.v070.met_stela.en,museum.met.ra_horakhty_stela_oc81,Stela with man offering to Re-Harakhty,stela with man offering to re harakhty,lang.en,Latin,PREFERRED,,1,source.egypt.ra_horakhty_stela.met.oc81,Museum catalogue-derived title.
+name.v070.met_stela.zh,museum.met.ra_horakhty_stela_oc81,向拉-哈拉赫提献祭未完成木碑 O.C.81,向拉 哈拉赫提献祭未完成木碑 o c 81,lang.zh,Han,TRANSLATION,,1,source.egypt.ra_horakhty_stela.met.oc81,Chinese project translation.
+name.v070.mut.egy,deity.egyptian.mut,mwt,mwt,lang.egy,Hieroglyphic transliteration,TRANSCRIPTION,Egyptological,1,source.egypt.syncretism.uee2008,Conventional transliteration
+name.v070.nauny.en,museum.met.nauny_book_dead_30_3_31,Book of the Dead for Nauny,book of the dead for nauny,lang.en,Latin,PREFERRED,,1,source.egypt.nauny_book_dead.met.30_3_31,Museum catalogue title.
+name.v070.nauny.zh,museum.met.nauny_book_dead_30_3_31,娜乌妮《亡灵书》纸草 30.3.31,娜乌妮 亡灵书 纸草 30 3 31,lang.zh,Han,TRANSLATION,,1,source.egypt.nauny_book_dead.met.30_3_31,Chinese project translation.
+name.v070.opet.en,festival.egyptian.opet,Opet Festival,opet festival,lang.en,Latin,PREFERRED,,1,source.egypt.luxor.mota,English official-site form
+name.v070.opet.zh,festival.egyptian.opet,奥佩特节,奥佩特节,lang.zh,Han,TRANSLATION,,1,source.egypt.luxor.mota,Chinese project translation
+name.v070.ra_horakhty.egy,deity.egyptian.ra_horakhty,rꜥ-ḥr-ꜣḫty,rꜥ ḥr ꜣḫty,lang.egy,Hieroglyphic transliteration,TRANSCRIPTION,Egyptological,1,source.egypt.book_dead17.ucl,Conventional Egyptological transliteration
+name.v070.ra_horakhty.en,deity.egyptian.ra_horakhty,Ra-Horakhty,ra horakhty,lang.en,Latin,PREFERRED,,1,source.egypt.syncretism.uee2008,English scholarly form
+name.v070.ra_horakhty.zh,deity.egyptian.ra_horakhty,拉-哈拉赫提,拉 哈拉赫提,lang.zh,Han,TRANSLATION,,1,source.egypt.syncretism.uee2008,Chinese transliteration
+name.v070.re_harakhty.en,deity.egyptian.ra_horakhty,Re-Harakhty,re harakhty,lang.en,Latin,VARIANT,,0,source.egypt.ra_horakhty_stela.met.oc81,Met catalogue form
+name.v070.solar_journey.en,event.egyptian.nocturnal_solar_journey,Nocturnal journey of the sun god,nocturnal journey of the sun god,lang.en,Latin,EDITORIAL_CANONICAL,,1,source.egypt.nauny_book_dead.met.30_3_31,Project event label for a mythic-cosmological sequence.
+name.v070.solar_journey.zh,event.egyptian.nocturnal_solar_journey,太阳神夜行冥界,太阳神夜行冥界,lang.zh,Han,TRANSLATION,,1,source.egypt.nauny_book_dead.met.30_3_31,Chinese project translation.
+name.v070.spell17.en,text.egypt.book_dead_spell17,Book of the Dead Spell 17,book of the dead spell 17,lang.en,Latin,PREFERRED,,1,source.egypt.book_dead17.ucl,Section-level English title.
+name.v070.spell17.zh,text.egypt.book_dead_spell17,《亡灵书》第17咒文,亡灵书 第17咒文,lang.zh,Han,TRANSLATION,,1,source.egypt.book_dead17.ucl,Chinese project translation.
+name.v070.syncretism.en,concept.egyptian.divine_syncretism,Egyptian divine syncretism,egyptian divine syncretism,lang.en,Latin,EDITORIAL_CANONICAL,,1,source.egypt.syncretism.uee2008,Project concept label grounded in the registered scholarly discussion.
+name.v070.syncretism.zh,concept.egyptian.divine_syncretism,古埃及神祇复合／融合表达,古埃及神祇复合 融合表达,lang.zh,Han,TRANSLATION,,1,source.egypt.syncretism.uee2008,Chinese project translation.
+name.v070.theban_triad.en,group.egyptian.theban_triad,Theban Triad,theban triad,lang.en,Latin,PREFERRED,,1,source.egypt.syncretism.uee2008,Scholarly grouping label.
+name.v070.theban_triad.zh,group.egyptian.theban_triad,底比斯三神组,底比斯三神组,lang.zh,Han,TRANSLATION,,1,source.egypt.syncretism.uee2008,Chinese project translation.
+name.v080.eleusinia.en,festival.greek.great_eleusinia,Great Eleusinia,great eleusinia,lang.en,Latin,PREFERRED,,1,source.greek.mystery_cults.met2013,
+name.v080.eleusinia.zh,festival.greek.great_eleusinia,大厄琉息斯节,大厄琉息斯节,lang.zh,Han,TRANSLATION,,1,,
+name.v080.ieleusis97.en,text.greek.ieleusis97,I.Eleusis 97,i eleusis 97,lang.en,Latin,PREFERRED,,1,source.greek.ieleusis97.phi,
+name.v080.metrelief.en,museum.met.eleusinian_relief_14_130_9,Roman fragments of the Great Eleusinian Relief,roman fragments great eleusinian relief,lang.en,Latin,PREFERRED,,1,source.greek.eleusinian_relief.met141309,
+name.v080.metrelief.zh,museum.met.eleusinian_relief_14_130_9,大厄琉息斯浮雕罗马摹本残片,大厄琉息斯浮雕罗马摹本残片,lang.zh,Han,TRANSLATION,,1,,
+name.v080.mysteries.en,ritual.greek.eleusinian_mysteries,Eleusinian Mysteries,eleusinian mysteries,lang.en,Latin,PREFERRED,,1,source.greek.mystery_cults.met2013,
+name.v080.mysteries.grc,ritual.greek.eleusinian_mysteries,Ἐλευσίνια Μυστήρια,ελευσινια μυστηρια,lang.grc,Greek,ORIGINAL,,1,,Normalized without diacritics for discovery only.
+name.v080.mysteries.zh,ritual.greek.eleusinian_mysteries,厄琉息斯秘仪,厄琉息斯秘仪,lang.zh,Han,TRANSLATION,,1,,
+name.v080.nam.en,institution.nam_athens,"National Archaeological Museum, Athens",national archaeological museum athens,lang.en,Latin,PREFERRED,,1,source.greek.eleusinian_relief.nam126,
+name.v080.nam.zh,institution.nam_athens,雅典国家考古博物馆,雅典国家考古博物馆,lang.zh,Han,TRANSLATION,,1,,
+name.v080.relief126.en,museum.nam.great_eleusinian_relief_126,Great Eleusinian Relief no. 126,great eleusinian relief 126,lang.en,Latin,PREFERRED,,1,source.greek.eleusinian_relief.nam126,
+name.v080.relief126.zh,museum.nam.great_eleusinian_relief_126,大厄琉息斯浮雕126号,大厄琉息斯浮雕126号,lang.zh,Han,TRANSLATION,,1,,
+name.v080.sacredway.en,site.greece.sacred_way,Sacred Way,sacred way,lang.en,Latin,PREFERRED,,1,source.greek.eleusis.hh,
+name.v080.sacredway.grc,site.greece.sacred_way,Ἱερὰ Ὁδός,ιερα οδος,lang.grc,Greek,ORIGINAL,,1,,
+name.v080.sacredway.zh,site.greece.sacred_way,雅典至厄琉息斯圣道,雅典至厄琉息斯圣道,lang.zh,Han,TRANSLATION,,1,,
+name.v080.secrecy.en,concept.greek.eleusinian_secrecy,Eleusinian ritual secrecy,eleusinian ritual secrecy,lang.en,Latin,PREFERRED,,1,source.greek.homeric_hymn_demeter.scaife,
+name.v080.secrecy.zh,concept.greek.eleusinian_secrecy,厄琉息斯仪式保密原则,厄琉息斯仪式保密原则,lang.zh,Han,TRANSLATION,,1,,
+name.v080.telesterion.en,site.greece.eleusis_telesterion,Telesterion,telesterion,lang.en,Latin,PREFERRED,,1,source.greek.eleusis.hh,
+name.v080.telesterion.grc,site.greece.eleusis_telesterion,Τελεστήριον,τελεστηριον,lang.grc,Greek,ORIGINAL,,1,,
+name.v080.telesterion.zh,site.greece.eleusis_telesterion,厄琉息斯特勒斯特里翁仪式厅,厄琉息斯特勒斯特里翁仪式厅,lang.zh,Han,TRANSLATION,,1,,
+name.v080.triptolemos.en,hero.greek.triptolemos,Triptolemos,triptolemos,lang.en,Latin,PREFERRED,,1,source.greek.homeric_hymn_demeter.scaife,Transliteration retained; Triptolemus remains an alias candidate.
+name.v080.triptolemos.grc,hero.greek.triptolemos,Τριπτόλεμος,τριπτολεμος,lang.grc,Greek,ORIGINAL,,1,source.greek.homeric_hymn_demeter.scaife,
+name.v080.triptolemos.zh,hero.greek.triptolemos,特里普托勒摩斯,特里普托勒摩斯,lang.zh,Han,TRANSLATION,,1,,
+name.v090.aeetes.en,hero.greek.aeetes,Aeetes,aeetes,lang.en,Latin,PREFERRED,,1,source.greek.diodorus.library4.uchicago,
+name.v090.aeetes.grc,hero.greek.aeetes,Αἰήτης,αιητης,lang.grc,Greek,ORIGINAL,,1,,
+name.v090.aition.en,concept.greek.persian_name_aition,Greek aition of the Persian name,greek aition persian name,lang.en,Latin,PREFERRED,,1,source.greek.herodotus.histories.uchicago,
+name.v090.andromeda.en,hero.greek.andromeda,Andromeda,andromeda,lang.en,Latin,PREFERRED,,1,source.greek.herodotus.histories.uchicago,
+name.v090.andromeda.grc,hero.greek.andromeda,Ἀνδρομέδα,ανδρομεδα,lang.grc,Greek,ORIGINAL,,1,source.greek.herodotus.histories.scaife,
+name.v090.apollodorus.en,text.greek.apollodorus_library,"Pseudo-Apollodorus, Library",pseudo apollodorus library,lang.en,Latin,PREFERRED,,1,source.greek.apollodorus.library.topostext,
+name.v090.astraeus.en,deity.greek.astraeus,Astraeus,astraeus,lang.en,Latin,PREFERRED,,1,source.greek.theogony.scaife,
+name.v090.astraeus.grc,deity.greek.astraeus,Ἀστραῖος,αστραιος,lang.grc,Greek,ORIGINAL,,1,source.greek.theogony.scaife,
+name.v090.crius.en,deity.greek.crius,Crius,crius,lang.en,Latin,PREFERRED,,1,source.greek.theogony.scaife,
+name.v090.crius.grc,deity.greek.crius,Κρεῖος,κρειος,lang.grc,Greek,ORIGINAL,,1,source.greek.theogony.scaife,
+name.v090.diodorus.en,text.greek.diodorus_library,"Diodorus Siculus, Library of History",diodorus siculus library history,lang.en,Latin,PREFERRED,,1,source.greek.diodorus.library4.uchicago,
+name.v090.eurybia.en,deity.greek.eurybia,Eurybia,eurybia,lang.en,Latin,PREFERRED,,1,source.greek.theogony.scaife,
+name.v090.eurybia.grc,deity.greek.eurybia,Εὐρυβία,ευρυβια,lang.grc,Greek,ORIGINAL,,1,source.greek.theogony.scaife,
+name.v090.event.en,event.greek.medea_restores_aeetes,Medea restores Aeetes,medea restores aeetes,lang.en,Latin,PREFERRED,,1,source.greek.apollodorus.library.topostext,
+name.v090.herodotus.en,text.greek.herodotus_histories,"Herodotus, Histories",herodotus histories,lang.en,Latin,PREFERRED,,1,source.greek.herodotus.histories.uchicago,
+name.v090.medea.en,hero.greek.medea,Medea,medea,lang.en,Latin,PREFERRED,,1,source.greek.apollodorus.library.topostext,
+name.v090.medea.grc,hero.greek.medea,Μήδεια,μηδεια,lang.grc,Greek,ORIGINAL,,1,,
+name.v090.pallas.en,deity.greek.pallas_titan,Pallas (Titan),pallas titan,lang.en,Latin,PREFERRED,,1,source.greek.theogony.scaife,
+name.v090.pallas.grc,deity.greek.pallas_titan,Πάλλας,παλλας,lang.grc,Greek,ORIGINAL,,1,source.greek.theogony.scaife,
+name.v090.perses_helios.en,deity.greek.perses_helios,Perses (son of Helios),perses son helios,lang.en,Latin,PREFERRED,,1,source.greek.diodorus.library4.uchicago,
+name.v090.perses_helios.grc,deity.greek.perses_helios,Πέρσης,περσης,lang.grc,Greek,ORIGINAL,,1,,Shared spelling is not identity evidence.
+name.v090.perses_perseus.en,hero.greek.perses_perseus_son,Perses (son of Perseus),perses son perseus,lang.en,Latin,PREFERRED,,1,source.greek.herodotus.histories.uchicago,
+name.v090.perses_perseus.grc,hero.greek.perses_perseus_son,Πέρσης,περσης,lang.grc,Greek,ORIGINAL,,1,source.greek.herodotus.histories.scaife,Shared spelling is not identity evidence.
+name.v090.perses_titan.en,deity.greek.perses,Perses (Titan),perses titan,lang.en,Latin,PREFERRED,,1,source.greek.theogony.scaife,Scoped display name; ancient text has Perses.
+name.v090.perses_titan.grc,deity.greek.perses,Πέρσης,περσης,lang.grc,Greek,ORIGINAL,,1,source.greek.theogony.scaife,
+name.v090.perses_titan.zh,deity.greek.perses,珀耳塞斯（提坦）,珀耳塞斯 提坦,lang.zh,Han,TRANSLATION,,1,,
+name.v090.perseus.en,hero.greek.perseus,Perseus,perseus,lang.en,Latin,PREFERRED,,1,source.greek.herodotus.histories.uchicago,
+name.v090.perseus.grc,hero.greek.perseus,Περσεύς,περσευς,lang.grc,Greek,ORIGINAL,,1,source.greek.herodotus.histories.scaife,
 name.ve.non,deity.norse.ve,Vé,vé,lang.non,Latin,ORIGINAL,,1,source.norse.gylfaginning.vsnr2005,
 name.vili.non,deity.norse.vili,Vili,vili,lang.non,Latin,ORIGINAL,,1,source.norse.gylfaginning.vsnr2005,
 name.weapon.arthurian.excalibur.canonical,weapon.arthurian.excalibur,Excalibur,excalibur,lang.en,,CANONICAL,,1,,

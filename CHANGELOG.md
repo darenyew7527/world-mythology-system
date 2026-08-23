@@ -1,5 +1,36 @@
 # 更新日志 / Changelog
 
+## v0.10.0-japanese-thunder-local-dossiers — 2026-08-23
+
+- Added Kamo Wakeikazuchi, the scoped Kamo genealogy, Kamigamo Shrine, Kamo/Aoi Festival, Kamo Kurabeuma, Fujin, Sotatsu and the Wind and Thunder God screens.
+- Kept the Otokuni and Kojiki Honoikazuchi records separate under an open identity conflict.
+- Added 11 entities, 6 sources, 16 claims with evidence, 15 graph relations and 6 queue branches.
+- Separated fragmentary textual, living-practice, real-heritage and Edo visual-reception layers.
+
+## v0.9.0-perses-homonym-audit — 2026-08-22
+
+- Separated the Titan Perses, Helios-son Perses, and Perseus-son Perses into three canonical entities.
+- Added Crius, Eurybia, Astraeus, Titan Pallas, Aeetes, Medea, Perseus, Andromeda, three ancient-text entities, and a restoration event.
+- Added 4 sources, 27 claims with 27 evidence records, 26 graph relations, three explicit-distinction assessments, and 6 queue branches.
+- Advanced the Perses conflict while keeping wider homonym discovery open.
+
+## v0.8.0-eleusis-evidence-layers — 2026-08-21
+
+- 从永久队列推进 `queue.greek.v050.eleusis_layers`，新增 Triptolemos、Eleusinian Mysteries、Great Eleusinia、Telesterion、Sacred Way 与 I.Eleusis 97。
+- 新增雅典国家考古博物馆、大厄琉息斯浮雕126号与大都会艺术博物馆14.130.9罗马摹本残片；以 `LATER_COPY_OF` 连接，不合并器物。
+- 新增 7 条权威来源、10 个实体、25 条 Claims、25 条 Evidence、25 条直接关系与 6 个后续队列分支；全部本批 Claims 均有 Evidence。
+- 将“秘仪内容不可从当前公开资料完整重构”登记为开放证据缺口，保留公共行列、建筑功能、古代文本限制与现代解释的不同知识层。
+- 数据库达到 532 个登记实体、150 条来源、346 条 Claims、342 条 Evidence 与 314 条直接关系；刷新全表 JSONL/CSV、图谱、档案、Source Registry、Schema Catalog、Coverage、缺失／冲突报告与回归检查。
+
+## v0.7.0-egyptian-solar-composites — 2026-08-15
+
+- 新增 Amun-Ra、Ra-Horakhty 与 Khepri 的独立档案，以 `COMPOSITE_EXPRESSION_OF` 保存有来源、有限定范围的复合关系，不建立破坏性别名重定向。
+- 新增 Mut、Khonsu、Theban Triad、Opet Festival、Karnak 阿蒙-拉大神庙、《亡灵书》第17咒文与太阳神夜行冥界事件层。
+- 新增大都会艺术博物馆与大英博物馆五件馆藏对象，并将馆藏目录、历史仪式、神话宇宙论和现代学术解释保存在不同知识层。
+- 增加 14 个权威来源、16 个实体、35 条 Claims、35 条 Evidence 与 32 条直接关系；两个旧队列目标推进到 `PARTIAL`，并保留新发现的后续研究分支。
+- 数据库达到 522 个登记实体、143 条来源、321 条 Claims、317 条 Evidence 与 289 条直接关系；全部 v0.7 Claims 都有 Evidence。
+- 刷新全部持久表 JSONL/CSV、知识图谱、档案、Source Registry、Schema Catalog、Coverage、缺失／冲突报告，并新增 v0.7 回归检查。
+
 ## v0.6.0-thunder-comparison — 2026-08-14
 
 - 新增证据驱动的“雷神、闪电与风暴神对照”，首批 10 个比较成员全部连接已定位 Claim 与 Evidence；比较不表示同一神、共同起源或传播关系。

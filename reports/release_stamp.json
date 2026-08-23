@@ -1,8 +1,8 @@
 {
-  "final_database_sha256": "e75a1593b11e266058187dc873fa2f1afd1a21422f49615ee37cb9567ebf7519",
+  "final_database_sha256": "2ab20d9cde42e1000dbabc193aa6dcb023c7b673935467c62e02617ee954c238",
   "hash_semantics": "The in-database digest identifies the immediately preceding snapshot; this external receipt identifies the final stamped database artifact.",
-  "pre_stamp_database_sha256": "a2aa041253ea6e07763ca3e0fb792185683e12198d55b15eba7ae4c4e962b4a6",
-  "release_id": "release.0.6.0",
-  "source_git_commit": "2d78ef749348da31023ee4e6a7347f1ecbf9731d",
-  "stamped_at": "2026-08-14T07:04:26Z"
+  "pre_stamp_database_sha256": "5248149a3c0c5965246a78704f50ad9d790d6abecb599f73ba94ffde87a43b35",
+  "release_id": "release.0.10.0",
+  "source_git_commit": "067e62fbede961b7feeb8f224ae395ae01fed4c2",
+  "stamped_at": "2026-08-23T03:54:57Z"
 }

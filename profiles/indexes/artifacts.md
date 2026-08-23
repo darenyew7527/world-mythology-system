@@ -3,7 +3,7 @@
 | ID | 中文 | English | Type | Civilization | Detail/Status | Evidence |
 |---|---|---|---|---|---|---|
 | artifact.mesopotamian.tablet_destinies | 命运泥板 | Tablet of Destinies | ARTIFACT | 阿卡德 | PARTIAL | UNVERIFIED |
-| artifact.egyptian.solar_barque | 太阳船 | Solar barque | SHIP | 古埃及 | PARTIAL | UNVERIFIED |
+| artifact.egyptian.solar_barque | 太阳船 | Solar barque | SHIP | 古埃及 | PARTIAL | PARTIAL |
 | artifact.greek.aegis | 埃癸斯神盾 | Aegis | ARTIFACT | 古希腊 | PARTIAL | SOURCE_BACKED |
 | weapon.greek.apollo_bow | 阿波罗之弓 | Bow of Apollo | WEAPON | 古希腊 | PARTIAL | SOURCE_BACKED |
 | weapon.greek.artemis_bow | 阿耳忒弥斯之弓 | Bow of Artemis | WEAPON | 古希腊 | PARTIAL | SOURCE_BACKED |

@@ -1,4 +1,12 @@
 {"applied_at":"2026-08-10T00:00:00Z","name":"initial evidence-aware knowledge schema","version":1}
+{"applied_at":"2026-08-15T06:00:00Z","name":"20260815_v070_egyptian_solar_composites","version":10}
+{"applied_at":"2026-08-15T06:30:00Z","name":"20260815_v070_name_completeness","version":11}
+{"applied_at":"2026-08-15T06:45:00Z","name":"20260815_v070_release_metadata_consistency","version":12}
+{"applied_at":"2026-08-21T06:00:00Z","name":"20260821_v080_eleusis_evidence_layers","version":13}
+{"applied_at":"2026-08-22T06:00:00Z","name":"20260822_v090_perses_homonym_audit","version":14}
+{"applied_at":"2026-08-22T06:20:00Z","name":"20260822_v090_deity_profile_repair","version":15}
+{"applied_at":"2026-08-22T06:30:00Z","name":"20260822_v090_regression_repair","version":16}
+{"applied_at":"2026-08-23T07:00:00Z","name":"20260823_v0100_japanese_thunder_local_dossiers","version":17}
 {"applied_at":"2026-08-11T03:05:26Z","name":"20260811_expansion_greek_norse_wuxing","version":2}
 {"applied_at":"2026-08-11T03:05:26Z","name":"20260811_profile_repairs_after_validation","version":3}
 {"applied_at":"2026-08-11T03:22:00Z","name":"20260811_wuxing_duplicate_redirects","version":4}

@@ -6,7 +6,7 @@
 - 原文名: —
 - 转写: —
 - 研究状态: `PARTIAL`
-- 证据状态: `UNVERIFIED`
+- 证据状态: `PARTIAL`
 
 ## 分类
 
@@ -18,6 +18,7 @@
 |---|---|---|---:|---:|---|
 | `HOLDS` | 洪水泥板 K.3375 (`museum.babylon.flood_tablet_k3375`) | VERIFIED / HISTORICAL_REALITY / ARCHAEOLOGICAL | 1 | 0.99 | inferred inverse; `claim.babylon.flood_tablet_held_bm` |
 | `HOLDS` | 阿尼纸草第3框 (`museum.egypt.papyrus_ani_frame3`) | VERIFIED / HISTORICAL_REALITY / ARCHAEOLOGICAL | 1 | 0.99 | inferred inverse; `claim.egypt.papyrus_ani_held_bm` |
+| `HOLDS` | 凯布利赞歌石碑 EA826 (`museum.bm.khepri_hymn_stela_ea826`) | VERIFIED / HISTORICAL_REALITY / ARCHAEOLOGICAL | 1 | 0.99 | inferred inverse; `claim.v070.egypt.khepri_stela_held_bm` |
 
 ## Claims 与证据
 

@@ -1,5 +1,13 @@
 version,name,applied_at
 1,initial evidence-aware knowledge schema,2026-08-10T00:00:00Z
+10,20260815_v070_egyptian_solar_composites,2026-08-15T06:00:00Z
+11,20260815_v070_name_completeness,2026-08-15T06:30:00Z
+12,20260815_v070_release_metadata_consistency,2026-08-15T06:45:00Z
+13,20260821_v080_eleusis_evidence_layers,2026-08-21T06:00:00Z
+14,20260822_v090_perses_homonym_audit,2026-08-22T06:00:00Z
+15,20260822_v090_deity_profile_repair,2026-08-22T06:20:00Z
+16,20260822_v090_regression_repair,2026-08-22T06:30:00Z
+17,20260823_v0100_japanese_thunder_local_dossiers,2026-08-23T07:00:00Z
 2,20260811_expansion_greek_norse_wuxing,2026-08-11T03:05:26Z
 3,20260811_profile_repairs_after_validation,2026-08-11T03:05:26Z
 4,20260811_wuxing_duplicate_redirects,2026-08-11T03:22:00Z

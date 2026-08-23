@@ -24,6 +24,8 @@ Solar deity, child of Hyperion and Theia in Hesiod, celebrated with a chariot in
 | `APPEARS_IN` | 《荷马颂歌·致赫利俄斯》（第31首） (`text.greek.homeric_hymn_helios_31`) | VERIFIED / TEXT_SAYS / TEXTUAL_WITNESS | 1 | 1.00 | stored claim; `claim.v040.helios.appears_hymn31` |
 | `CHILD_OF` | 许珀里翁 (`deity.greek.hyperion`) | VERIFIED / TEXT_SAYS / MYTHIC_NARRATIVE | 1 | 0.99 | inferred inverse; `claim.v040.hyperion.parent_helios` |
 | `CHILD_OF` | 忒亚 (`deity.greek.theia`) | VERIFIED / TEXT_SAYS / MYTHIC_NARRATIVE | 1 | 0.99 | inferred inverse; `claim.v040.theia.parent_helios` |
+| `PARENT_OF` | 埃厄忒斯 (`hero.greek.aeetes`) | VERIFIED / TEXT_SAYS / MYTHIC_NARRATIVE | 1 | 0.99 | stored claim; `claim.v090.helios_parent_aeetes` |
+| `PARENT_OF` | 珀耳塞斯（赫利俄斯之子） (`deity.greek.perses_helios`) | VERIFIED / TEXT_SAYS / MYTHIC_NARRATIVE | 1 | 0.99 | stored claim; `claim.v090.helios_parent_perses` |
 | `REPRESENTS` | 太阳 (`concept.comparative.sun`) | VERIFIED / SCHOLARLY_INTERPRETATION / SCHOLARLY_INTERPRETATION | 1 | 0.95 | stored claim; `claim.v040.helios.represents_sun` |
 | `SIBLING_OF` | 厄俄斯 (`deity.greek.eos`) | VERIFIED / TEXT_SAYS / MYTHIC_NARRATIVE | 1 | 0.98 | stored claim; `claim.v040.helios.sibling_eos` |
 | `SIBLING_OF` | 塞勒涅 (`deity.greek.selene`) | VERIFIED / TEXT_SAYS / MYTHIC_NARRATIVE | 1 | 0.98 | stored claim; `claim.v040.helios.sibling_selene` |
@@ -42,5 +44,9 @@ Solar deity, child of Hyperion and Theia in Hesiod, celebrated with a chariot in
   - 来源：[Hesiod, Theogony, Evelyn-White English text](https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0130)；定位：Theogony 371-374
 - `claim.v040.helios.sibling_selene` [VERIFIED / TEXT_SAYS / 0.98] Helios and Selene occur as children of Hyperion and Theia in Theogony 371-374.
   - 来源：[Hesiod, Theogony, Evelyn-White English text](https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0130)；定位：Theogony 371-374
+- `claim.v090.helios_parent_aeetes` [VERIFIED / TEXT_SAYS / 0.99] Diodorus 4.45.1 names Helios as father of Aeetes.
+  - 来源：[Diodorus Siculus, Library of History, Book 4.45.1](https://penelope.uchicago.edu/thayer/e/roman/texts/diodorus_siculus/4c%2A.html)；定位：Library of History 4.45.1
+- `claim.v090.helios_parent_perses` [VERIFIED / TEXT_SAYS / 0.99] Diodorus 4.45.1 names Helios as father of a different Perses in the Colchian/Tauric narrative.
+  - 来源：[Diodorus Siculus, Library of History, Book 4.45.1](https://penelope.uchicago.edu/thayer/e/roman/texts/diodorus_siculus/4c%2A.html)；定位：Library of History 4.45.1
 
 > 本档案只代表当前阶段性基线，不是对该传统的最终或唯一解释。

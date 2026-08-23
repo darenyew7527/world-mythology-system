@@ -22,6 +22,7 @@ Cross-cultural comparison vocabulary; not an assertion that native traditions ar
 |---|---|---|---:|---:|---|
 | `ASSOCIATED_WITH` | 乌加里特巴力 (`deity.ugaritic.baal`) | VERIFIED / SCHOLARLY_INTERPRETATION / ARCHAEOLOGICAL | 1 | 0.95 | inferred inverse; `claim.v060.ugaritic.baal_thunder_scope` |
 | `ASSOCIATED_WITH` | 因陀罗 (`deity.vedic.indra`) | VERIFIED / TEXT_SAYS / MYTHIC_NARRATIVE | 1 | 0.98 | inferred inverse; `claim.v060.vedic.indra_thunder_scope` |
+| `ASSOCIATED_WITH` | 贺茂别雷大神 (`deity.japanese.kamo_wakeikazuchi`) | VERIFIED / SCHOLARLY_INTERPRETATION / RITUAL_PRACTICE | 1 | 0.95 | inferred inverse; `claim.v0100.kamo_associated_thunder` |
 | `ASSOCIATED_WITH` | 雷公 (`deity.chinese.leigong`) | VERIFIED / TEXT_SAYS / TEXTUAL_WITNESS | 2 | 0.99 | inferred inverse; `claim.v060.chinese.leigong_thunder_scope` |
 | `ASSOCIATED_WITH` | 佩伦 (`deity.slavic.perun`) | VERIFIED / SCHOLARLY_INTERPRETATION / SCHOLARLY_INTERPRETATION | 1 | 0.94 | inferred inverse; `claim.v060.slavic.perun_thunder_scope` |
 | `ASSOCIATED_WITH` | 雷神 (`deity.japanese.raijin`) | VERIFIED / SCHOLARLY_INTERPRETATION / SCHOLARLY_INTERPRETATION | 1 | 0.96 | inferred inverse; `claim.v060.japanese.raijin_thunder_scope` |

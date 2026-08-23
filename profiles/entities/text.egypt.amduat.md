@@ -6,7 +6,7 @@
 - 原文名: —
 - 转写: —
 - 研究状态: `PARTIAL`
-- 证据状态: `UNVERIFIED`
+- 证据状态: `PARTIAL`
 
 ## 分类
 
@@ -14,7 +14,9 @@
 
 ## 关系网络
 
-当前无关系边；保留为研究缺口。
+| Relation | Target | Review / layer | Evidence | Confidence | Direction |
+|---|---|---|---:|---:|---|
+| `HAS_APPEARANCE_OF` | 太阳神夜行冥界 (`event.egyptian.nocturnal_solar_journey`) | VERIFIED / HISTORICAL_REALITY / TEXTUAL_WITNESS | 1 | 0.95 | inferred inverse; `claim.v070.egypt.solar_journey_amduat` |
 
 ## Claims 与证据
 

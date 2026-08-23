@@ -22,6 +22,7 @@ site.egypt.dendera,TEMPLE_COMPLEX,,,EG,,,,,,,,,REAL_ARCHAEOLOGICAL,BASELINE_META
 site.egypt.edfu,TEMPLE,,,EG,,,,,,,,,REAL_ARCHAEOLOGICAL,BASELINE_METADATA
 site.egypt.giza,PYRAMID_COMPLEX,,,EG,,,,,,,,World Heritage property 86 component,REAL_ARCHAEOLOGICAL,BASELINE_METADATA
 site.egypt.karnak,TEMPLE_COMPLEX,,,EG,,,,,,,,World Heritage property 87 component,REAL_ARCHAEOLOGICAL,BASELINE_METADATA
+site.egypt.karnak_great_temple_amun_ra,TEMPLE,Ipet-Sut,"Great Temple of Amun-Ra, Karnak",EGY,25.7188,32.6573,Middle Kingdom foundations through Roman-period additions,Successive Egyptian rulers,Large temple within the Karnak complex; east-west solar axis plus north-south link toward Luxor.,CFEETK records Middle Kingdom foundations and an Intef II column.,"Architectural, textual, sculptural and ritual remains",Within Ancient Thebes World Heritage List 87,REAL_ARCHAEOLOGICAL,HIGH
 site.egypt.luxor_temple,TEMPLE,,,EG,,,,,,,,World Heritage property 87 component,REAL_ARCHAEOLOGICAL,BASELINE_METADATA
 site.egypt.philae,TEMPLE_COMPLEX,,,EG,,,,,,,,Nubian Monuments World Heritage component,REAL_ARCHAEOLOGICAL,BASELINE_METADATA
 site.egypt.saqqara,NECROPOLIS,,,EG,,,,,,,,World Heritage property 86 component,REAL_ARCHAEOLOGICAL,BASELINE_METADATA
@@ -33,10 +34,12 @@ site.greece.delos,ISLAND_SANCTUARY,,,GR,,,,,,,,World Heritage 530,REAL_ARCHAEOLO
 site.greece.delphi,PANHELLENIC_SANCTUARY,,,GR,,,,,,,,World Heritage 393,REAL_ARCHAEOLOGICAL,BASELINE_METADATA
 site.greece.dodona,ORACULAR_SANCTUARY,,,GR,,,,,,,,,REAL_ARCHAEOLOGICAL,BASELINE_METADATA
 site.greece.eleusis,MYSTERY_CULT_SANCTUARY,,,GR,,,,,,,,,REAL_ARCHAEOLOGICAL,BASELINE_METADATA
+site.greece.eleusis_telesterion,RITUAL_HALL,Τελεστήριον,Telesterion at Eleusis,GR,,,Multiple ancient building phases,,Large square columned hall with six entrances in the official public description; only foundations survive.,Modern conservation and study are documented by the Hellenic Ministry project.,Architectural foundations and sanctuary context.,NOT_LISTED_AS_INDEPENDENT_PROPERTY,REAL_ARCHAEOLOGICAL,HIGH
 site.greece.epidaurus,HEALING_SANCTUARY,,,GR,,,,,,,,World Heritage,REAL_ARCHAEOLOGICAL,BASELINE_METADATA
 site.greece.knossos,PALATIAL_COMPLEX,,,GR,,,,,,,,,REAL_ARCHAEOLOGICAL,BASELINE_METADATA
 site.greece.mycenae,CITADEL_AND_TOMBS,,,GR,,,,,,,,World Heritage,REAL_ARCHAEOLOGICAL,BASELINE_METADATA
 site.greece.olympia,PANHELLENIC_SANCTUARY,,,GR,,,,,,,,World Heritage 517,REAL_ARCHAEOLOGICAL,BASELINE_METADATA
+site.greece.sacred_way,PROCESSIONAL_ROUTE,Ἱερὰ Ὁδός,"Sacred Way, Athens-Eleusis",GR,,,Ancient route; monuments span multiple periods,,Processional route approaching Eleusis and continuing through the sanctuary entrance sequence.,Route and associated monuments require segment-level expansion.,"Road segments, funerary monuments and sanctuary approach.",NOT_LISTED_AS_INDEPENDENT_PROPERTY,REAL_ARCHAEOLOGICAL,HIGH
 site.guatemala.tikal,ANCIENT_CITY,,,GT,,,,,,,,World Heritage 64,REAL_ARCHAEOLOGICAL,BASELINE_METADATA
 site.iceland.sacred_scope,COLLECTION_SCOPE,,,IS,,,,,,,,,MIXED,BASELINE_METADATA
 site.india.elephanta,ROCK_CUT_CAVES,,,IN,,,,,,,,World Heritage,REAL_ARCHAEOLOGICAL,BASELINE_METADATA
@@ -56,6 +59,7 @@ site.iraq.uruk,ANCIENT_CITY,,,IQ,,,,,,,,Ahwar World Heritage component,REAL_ARCH
 site.ireland.newgrange,PASSAGE_TOMB,,,IE,,,,,,,,Brú na Bóinne World Heritage component,REAL_ARCHAEOLOGICAL,BASELINE_METADATA
 site.italy.pompeii,BURIED_CITY,,,IT,,,,,,,,World Heritage,REAL_ARCHAEOLOGICAL,BASELINE_METADATA
 site.italy.rome,HISTORIC_CITY,,,IT,,,,,,,,World Heritage historic centre,REAL_HISTORIC,BASELINE_METADATA
+site.japan.kamigamo_jinja,LIVING_SHRINE,賀茂別雷神社,Kamigamo Jinja,JP,35.060528,135.753222,Late seventh century establishment; later reconstructions; continuing use,,Official heritage records distinguish the historical buildings from continuing shrine practice.,,,WORLD_HERITAGE_COMPONENT_688_001,REAL_SACRED,HIGH
 site.japan.shrines_scope,COLLECTION_SCOPE,,,JP,,,,,,,,,REAL_SACRED,BASELINE_METADATA
 site.mexico.chichen_itza,ANCIENT_CITY,,,MX,,,,,,,,World Heritage 483,REAL_ARCHAEOLOGICAL,BASELINE_METADATA
 site.mexico.monte_alban,ANCIENT_CITY,,,MX,,,,,,,,World Heritage,REAL_ARCHAEOLOGICAL,BASELINE_METADATA

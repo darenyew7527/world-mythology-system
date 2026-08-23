@@ -6,7 +6,7 @@
 - 原文名: —
 - 转写: —
 - 研究状态: `PARTIAL`
-- 证据状态: `UNVERIFIED`
+- 证据状态: `PARTIAL`
 
 ## 分类
 
@@ -14,7 +14,13 @@
 
 ## 关系网络
 
-当前无关系边；保留为研究缺口。
+| Relation | Target | Review / layer | Evidence | Confidence | Direction |
+|---|---|---|---:|---:|---|
+| `HOLDS` | 娜乌妮《亡灵书》纸草 30.3.31 (`museum.met.nauny_book_dead_30_3_31`) | VERIFIED / HISTORICAL_REALITY / ARCHAEOLOGICAL | 1 | 0.99 | inferred inverse; `claim.v070.egypt.nauny_held_met` |
+| `HOLDS` | 拉-哈拉赫提釉陶护符 74.51.4497 (`museum.met.ra_horakhty_amulet_74_51_4497`) | VERIFIED / HISTORICAL_REALITY / ARCHAEOLOGICAL | 1 | 0.99 | inferred inverse; `claim.v070.egypt.amulet_held_met` |
+| `HOLDS` | 大厄琉息斯浮雕罗马摹本残片14.130.9 (`museum.met.eleusinian_relief_14_130_9`) | VERIFIED / HISTORICAL_REALITY / ARCHAEOLOGICAL | 1 | 0.99 | inferred inverse; `claim.v080.metrelief_held_met` |
+| `HOLDS` | 阿蒙-拉与奈特名号圣甲虫 09.180.953 (`museum.met.amun_re_scarab_09_180_953`) | VERIFIED / HISTORICAL_REALITY / ARCHAEOLOGICAL | 1 | 0.99 | inferred inverse; `claim.v070.egypt.scarab_held_met` |
+| `HOLDS` | 向拉-哈拉赫提献祭未完成木碑 O.C.81 (`museum.met.ra_horakhty_stela_oc81`) | VERIFIED / HISTORICAL_REALITY / ARCHAEOLOGICAL | 1 | 0.99 | inferred inverse; `claim.v070.egypt.stela_held_met` |
 
 ## Claims 与证据
 

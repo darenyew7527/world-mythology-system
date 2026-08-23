@@ -6,7 +6,7 @@
 - 原文名: —
 - 转写: —
 - 研究状态: `PARTIAL`
-- 证据状态: `UNVERIFIED`
+- 证据状态: `SOURCE_BACKED`
 
 ## 分类
 
@@ -16,10 +16,13 @@
 
 | Relation | Target | Review / layer | Evidence | Confidence | Direction |
 |---|---|---|---:|---:|---|
+| `ASSOCIATED_WITH` | 奥佩特节 (`festival.egyptian.opet`) | VERIFIED / HISTORICAL_REALITY / RITUAL_PRACTICE | 1 | 0.98 | inferred inverse; `claim.v070.egypt.opet_associated_karnak` |
+| `HAS_PART` | 卡纳克阿蒙-拉大神庙 (`site.egypt.karnak_great_temple_amun_ra`) | VERIFIED / HISTORICAL_REALITY / ARCHAEOLOGICAL | 1 | 0.99 | inferred inverse; `claim.v070.egypt.great_temple_part_karnak` |
 | `SITE_OF_WORSHIP_FOR` | 阿蒙 (`deity.egyptian.amun`) | VERIFIED / HISTORICAL_REALITY / ARCHAEOLOGICAL | 1 | 0.95 | inferred inverse; `claim.egypt.amun_worshipped_karnak` |
 
 ## Claims 与证据
 
-尚无 claim；实体仅为发现/索引入口。
+- `claim.v070.egypt.karnak_unesco87` [VERIFIED / HISTORICAL_REALITY / 0.99] UNESCO includes Karnak within the real protected archaeological property Ancient Thebes with its Necropolis.
+  - 来源：[Ancient Thebes with its Necropolis](https://whc.unesco.org/en/list/87/)；定位：World Heritage List 87
 
 > 本档案只代表当前阶段性基线，不是对该传统的最终或唯一解释。

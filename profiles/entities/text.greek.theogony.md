@@ -6,7 +6,7 @@
 - 原文名: Θεογονία
 - 转写: —
 - 研究状态: `PARTIAL`
-- 证据状态: `UNVERIFIED`
+- 证据状态: `PARTIAL`
 
 ## 分类
 
@@ -23,6 +23,7 @@
 | `MENTIONS` | 勒托 (`deity.greek.leto`) | VERIFIED / TEXT_SAYS / TEXTUAL_WITNESS | 1 | 0.99 | inferred inverse; `claim.v050.theogony.leto_mentioned` |
 | `MENTIONS` | 迈亚 (`deity.greek.maia`) | VERIFIED / TEXT_SAYS / TEXTUAL_WITNESS | 1 | 0.99 | inferred inverse; `claim.v050.theogony.maia_mentioned` |
 | `MENTIONS` | 墨提斯 (`deity.greek.metis`) | VERIFIED / TEXT_SAYS / TEXTUAL_WITNESS | 1 | 1.00 | inferred inverse; `claim.metis.mentioned_theogony` |
+| `MENTIONS` | 珀耳塞斯（提坦） (`deity.greek.perses`) | VERIFIED / TEXT_SAYS / TEXTUAL_WITNESS | 1 | 0.99 | inferred inverse; `claim.v090.perses_theogony` |
 | `MENTIONS` | 塞墨勒 (`deity.greek.semele`) | VERIFIED / TEXT_SAYS / TEXTUAL_WITNESS | 1 | 0.99 | inferred inverse; `claim.v050.theogony.semele_mentioned` |
 | `MENTIONS` | 提丰 (`creature.greek.typhon`) | VERIFIED / TEXT_SAYS / TEXTUAL_WITNESS | 1 | 1.00 | inferred inverse; `claim.typhon.mentioned_theogony` |
 

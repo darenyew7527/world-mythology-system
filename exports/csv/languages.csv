@@ -2,6 +2,7 @@ id,canonical_name,name_zh,iso_639_3,script_name,historical_stage,notes
 lang.akk,Akkadian,阿卡德语,akk,Cuneiform,,
 lang.ave,Avestan,阿维斯陀语,ave,Avestan,,
 lang.egy,Egyptian,古埃及语,egy,Hieroglyphic/Hieratic/Demotic,,
+lang.el,Modern Greek,现代希腊语,ell,Greek,Modern,Added for current Greek Ministry and archaeological-project pages; distinct from Ancient Greek lang.grc.
 lang.en,English,英语,eng,Latin,,
 lang.gle,Irish,爱尔兰语,gle,Latin/Ogham,,
 lang.grc,Ancient Greek,古希腊语,grc,Greek,,

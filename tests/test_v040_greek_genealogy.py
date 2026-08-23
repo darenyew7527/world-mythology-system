@@ -68,7 +68,7 @@ class GreekGenealogyV040Tests(unittest.TestCase):
         queue_status = self.connection.execute(
             "SELECT status FROM collection_queue WHERE id='queue.greek.v040.perses_identity'"
         ).fetchone()[0]
-        self.assertEqual(queue_status, "CONFLICT")
+        self.assertEqual(queue_status, "PARTIAL")
 
     def test_public_comment_is_discovery_provenance_not_evidence(self):
         discovery = self.connection.execute(

@@ -83,9 +83,12 @@
 {"entity_id":"concept.comparative.wind","is_primary":1,"notes":null,"type_code":"ELEMENT"}
 {"entity_id":"concept.comparative.wisdom","is_primary":1,"notes":null,"type_code":"CONCEPT"}
 {"entity_id":"concept.comparative.wood","is_primary":1,"notes":null,"type_code":"ELEMENT"}
+{"entity_id":"concept.egyptian.divine_syncretism","is_primary":1,"notes":"v0.7.0 Egyptian solar-composite checkpoint","type_code":"CONCEPT"}
 {"entity_id":"concept.egyptian.isfet","is_primary":1,"notes":null,"type_code":"CONCEPT"}
 {"entity_id":"concept.egyptian.ma_at","is_primary":1,"notes":null,"type_code":"CONCEPT"}
 {"entity_id":"concept.greek.classical_elements","is_primary":1,"notes":null,"type_code":"CONCEPT"}
+{"entity_id":"concept.greek.eleusinian_secrecy","is_primary":1,"notes":"v0.8.0 Eleusis evidence-layer checkpoint","type_code":"CONCEPT"}
+{"entity_id":"concept.greek.persian_name_aition","is_primary":1,"notes":"v0.9.0 Perses homonym audit checkpoint","type_code":"CONCEPT"}
 {"entity_id":"concept.indian.pancamahabhuta","is_primary":1,"notes":null,"type_code":"CONCEPT"}
 {"entity_id":"concept.norse.fire_ice_cosmogony","is_primary":1,"notes":null,"type_code":"COSMOLOGY"}
 {"entity_id":"concept.ugaritic.baal_title","is_primary":1,"notes":"v0.6.0 thunder and storm comparison checkpoint","type_code":"CONCEPT"}
@@ -109,19 +112,24 @@
 {"entity_id":"deity.chinese.nezha","is_primary":1,"notes":null,"type_code":"DEITY"}
 {"entity_id":"deity.chinese.nu_wa","is_primary":1,"notes":null,"type_code":"DEITY"}
 {"entity_id":"deity.egyptian.amun","is_primary":1,"notes":null,"type_code":"DEITY"}
+{"entity_id":"deity.egyptian.amun_ra","is_primary":1,"notes":"v0.7.0 Egyptian solar-composite checkpoint","type_code":"DEITY"}
 {"entity_id":"deity.egyptian.anubis","is_primary":1,"notes":null,"type_code":"DEITY"}
 {"entity_id":"deity.egyptian.atum","is_primary":1,"notes":null,"type_code":"PRIMORDIAL_DEITY"}
 {"entity_id":"deity.egyptian.geb","is_primary":1,"notes":null,"type_code":"DEITY"}
 {"entity_id":"deity.egyptian.hathor","is_primary":1,"notes":null,"type_code":"DEITY"}
 {"entity_id":"deity.egyptian.horus","is_primary":1,"notes":null,"type_code":"DEITY"}
 {"entity_id":"deity.egyptian.isis","is_primary":1,"notes":null,"type_code":"DEITY"}
+{"entity_id":"deity.egyptian.khepri","is_primary":1,"notes":"v0.7.0 Egyptian solar-composite checkpoint","type_code":"DEITY"}
+{"entity_id":"deity.egyptian.khonsu","is_primary":1,"notes":"v0.7.0 Egyptian solar-composite checkpoint","type_code":"DEITY"}
 {"entity_id":"deity.egyptian.ma_at","is_primary":1,"notes":null,"type_code":"DEITY"}
 {"entity_id":"deity.egyptian.ma_at","is_primary":0,"notes":null,"type_code":"CONCEPT"}
+{"entity_id":"deity.egyptian.mut","is_primary":1,"notes":"v0.7.0 Egyptian solar-composite checkpoint","type_code":"DEITY"}
 {"entity_id":"deity.egyptian.nephthys","is_primary":1,"notes":null,"type_code":"DEITY"}
 {"entity_id":"deity.egyptian.nut","is_primary":1,"notes":null,"type_code":"DEITY"}
 {"entity_id":"deity.egyptian.osiris","is_primary":1,"notes":null,"type_code":"DEITY"}
 {"entity_id":"deity.egyptian.ptah","is_primary":1,"notes":null,"type_code":"DEITY"}
 {"entity_id":"deity.egyptian.ra","is_primary":1,"notes":null,"type_code":"DEITY"}
+{"entity_id":"deity.egyptian.ra_horakhty","is_primary":1,"notes":"v0.7.0 Egyptian solar-composite checkpoint","type_code":"DEITY"}
 {"entity_id":"deity.egyptian.sekhmet","is_primary":1,"notes":null,"type_code":"DEITY"}
 {"entity_id":"deity.egyptian.seth","is_primary":1,"notes":null,"type_code":"DEITY"}
 {"entity_id":"deity.egyptian.shu","is_primary":1,"notes":null,"type_code":"DEITY"}
@@ -135,9 +143,11 @@
 {"entity_id":"deity.greek.artemis","is_primary":1,"notes":null,"type_code":"DEITY"}
 {"entity_id":"deity.greek.asteria","is_primary":1,"notes":"Primary classification from v0.4.0 Greek genealogy checkpoint","type_code":"DEITY"}
 {"entity_id":"deity.greek.asteria","is_primary":0,"notes":"Hesiodic divine generation","type_code":"TITAN"}
+{"entity_id":"deity.greek.astraeus","is_primary":1,"notes":"v0.9.0 Perses homonym audit checkpoint","type_code":"DEITY"}
 {"entity_id":"deity.greek.athena","is_primary":1,"notes":null,"type_code":"DEITY"}
 {"entity_id":"deity.greek.chaos","is_primary":1,"notes":"Primary classification from v0.4.0 Greek genealogy checkpoint","type_code":"PRIMORDIAL_DEITY"}
 {"entity_id":"deity.greek.chaos","is_primary":0,"notes":"Queryable through the deity collection; ontology remains witness-specific","type_code":"DEITY"}
+{"entity_id":"deity.greek.crius","is_primary":1,"notes":"v0.9.0 Perses homonym audit checkpoint","type_code":"DEITY"}
 {"entity_id":"deity.greek.cronus","is_primary":1,"notes":null,"type_code":"DEITY"}
 {"entity_id":"deity.greek.cronus","is_primary":0,"notes":"Greek culture-specific classification","type_code":"TITAN"}
 {"entity_id":"deity.greek.demeter","is_primary":1,"notes":null,"type_code":"DEITY"}
@@ -146,6 +156,7 @@
 {"entity_id":"deity.greek.eos","is_primary":1,"notes":"Primary classification from v0.4.0 Greek genealogy checkpoint","type_code":"DEITY"}
 {"entity_id":"deity.greek.erebus","is_primary":1,"notes":"Primary classification from v0.4.0 Greek genealogy checkpoint","type_code":"PRIMORDIAL_DEITY"}
 {"entity_id":"deity.greek.erebus","is_primary":0,"notes":"Queryable through the deity collection","type_code":"DEITY"}
+{"entity_id":"deity.greek.eurybia","is_primary":1,"notes":"v0.9.0 Perses homonym audit checkpoint","type_code":"DEITY"}
 {"entity_id":"deity.greek.gaia","is_primary":1,"notes":null,"type_code":"PRIMORDIAL_DEITY"}
 {"entity_id":"deity.greek.gaia","is_primary":0,"notes":null,"type_code":"CONCEPT"}
 {"entity_id":"deity.greek.hades","is_primary":1,"notes":null,"type_code":"DEITY"}
@@ -165,9 +176,11 @@
 {"entity_id":"deity.greek.metis","is_primary":1,"notes":"Primary classification at research checkpoint 2026-08-11","type_code":"DEITY"}
 {"entity_id":"deity.greek.nyx","is_primary":1,"notes":"Primary classification from v0.4.0 Greek genealogy checkpoint","type_code":"PRIMORDIAL_DEITY"}
 {"entity_id":"deity.greek.nyx","is_primary":0,"notes":"Queryable through the deity collection","type_code":"DEITY"}
+{"entity_id":"deity.greek.pallas_titan","is_primary":1,"notes":"v0.9.0 Perses homonym audit checkpoint","type_code":"DEITY"}
 {"entity_id":"deity.greek.persephone","is_primary":1,"notes":"v0.5.0 primary-source profile checkpoint","type_code":"DEITY"}
 {"entity_id":"deity.greek.perses","is_primary":1,"notes":"Primary classification from v0.4.0 Greek genealogy checkpoint","type_code":"DEITY"}
 {"entity_id":"deity.greek.perses","is_primary":0,"notes":"Hesiodic divine generation; identity caution applies","type_code":"TITAN"}
+{"entity_id":"deity.greek.perses_helios","is_primary":1,"notes":"v0.9.0 Perses homonym audit checkpoint","type_code":"DEITY"}
 {"entity_id":"deity.greek.poseidon","is_primary":1,"notes":null,"type_code":"DEITY"}
 {"entity_id":"deity.greek.rhea","is_primary":1,"notes":null,"type_code":"DEITY"}
 {"entity_id":"deity.greek.rhea","is_primary":0,"notes":"Greek culture-specific classification","type_code":"TITAN"}
@@ -187,10 +200,14 @@
 {"entity_id":"deity.irish.lugh","is_primary":1,"notes":null,"type_code":"DEITY"}
 {"entity_id":"deity.irish.morrigan","is_primary":1,"notes":null,"type_code":"DEITY"}
 {"entity_id":"deity.japanese.amaterasu","is_primary":1,"notes":null,"type_code":"DEITY"}
+{"entity_id":"deity.japanese.fujin","is_primary":1,"notes":"v0.10.0 Japanese thunder local-dossier checkpoint","type_code":"DEITY"}
 {"entity_id":"deity.japanese.fusuikazuchi","is_primary":1,"notes":"v0.6.0 thunder and storm comparison checkpoint","type_code":"DEITY"}
 {"entity_id":"deity.japanese.honoikazuchi","is_primary":1,"notes":"v0.6.0 thunder and storm comparison checkpoint","type_code":"DEITY"}
+{"entity_id":"deity.japanese.honoikazuchi_otokuni","is_primary":1,"notes":"v0.10.0 Japanese thunder local-dossier checkpoint","type_code":"DEITY"}
 {"entity_id":"deity.japanese.izanagi","is_primary":1,"notes":null,"type_code":"DEITY"}
 {"entity_id":"deity.japanese.izanami","is_primary":1,"notes":null,"type_code":"DEITY"}
+{"entity_id":"deity.japanese.kamo_taketsunumi","is_primary":1,"notes":"v0.10.0 Japanese thunder local-dossier checkpoint","type_code":"DEITY"}
+{"entity_id":"deity.japanese.kamo_wakeikazuchi","is_primary":1,"notes":"v0.10.0 Japanese thunder local-dossier checkpoint","type_code":"DEITY"}
 {"entity_id":"deity.japanese.kuroikazuchi","is_primary":1,"notes":"v0.6.0 thunder and storm comparison checkpoint","type_code":"DEITY"}
 {"entity_id":"deity.japanese.naruikazuchi","is_primary":1,"notes":"v0.6.0 thunder and storm comparison checkpoint","type_code":"DEITY"}
 {"entity_id":"deity.japanese.ooikazuchi","is_primary":1,"notes":"v0.6.0 thunder and storm comparison checkpoint","type_code":"DEITY"}
@@ -198,6 +215,7 @@
 {"entity_id":"deity.japanese.sakuikazuchi","is_primary":1,"notes":"v0.6.0 thunder and storm comparison checkpoint","type_code":"DEITY"}
 {"entity_id":"deity.japanese.susanoo","is_primary":1,"notes":null,"type_code":"DEITY"}
 {"entity_id":"deity.japanese.takemikazuchi","is_primary":1,"notes":"v0.6.0 thunder and storm comparison checkpoint","type_code":"DEITY"}
+{"entity_id":"deity.japanese.tamayorihime_kamo","is_primary":1,"notes":"v0.10.0 Japanese thunder local-dossier checkpoint","type_code":"DEITY"}
 {"entity_id":"deity.japanese.tsuchiikazuchi","is_primary":1,"notes":"v0.6.0 thunder and storm comparison checkpoint","type_code":"DEITY"}
 {"entity_id":"deity.japanese.tsukuyomi","is_primary":1,"notes":null,"type_code":"DEITY"}
 {"entity_id":"deity.japanese.wakaikazuchi","is_primary":1,"notes":"v0.6.0 thunder and storm comparison checkpoint","type_code":"DEITY"}
@@ -275,6 +293,8 @@
 {"entity_id":"element.indian.prithvi","is_primary":1,"notes":null,"type_code":"ELEMENT"}
 {"entity_id":"element.indian.vayu","is_primary":1,"notes":null,"type_code":"ELEMENT"}
 {"entity_id":"event.babylonian.marduk_tiamat","is_primary":1,"notes":null,"type_code":"EVENT"}
+{"entity_id":"event.egyptian.nocturnal_solar_journey","is_primary":1,"notes":"v0.7.0 Egyptian solar-composite checkpoint","type_code":"EVENT"}
+{"entity_id":"event.greek.medea_restores_aeetes","is_primary":1,"notes":"v0.9.0 Perses homonym audit checkpoint","type_code":"EVENT"}
 {"entity_id":"event.greek.persephone_abduction","is_primary":1,"notes":"v0.5.0 primary-source profile checkpoint","type_code":"EVENT"}
 {"entity_id":"event.greek.titanomachy","is_primary":1,"notes":null,"type_code":"EVENT"}
 {"entity_id":"event.greek.zeus_typhon_battle","is_primary":1,"notes":"Primary classification at research checkpoint 2026-08-11","type_code":"EVENT"}
@@ -283,11 +303,21 @@
 {"entity_id":"event.sumerian.inanna_descent","is_primary":1,"notes":null,"type_code":"EVENT"}
 {"entity_id":"event.ugaritic.baal_yamm_ktu12","is_primary":1,"notes":"v0.6.0 thunder and storm comparison checkpoint","type_code":"EVENT"}
 {"entity_id":"event.vedic.indra_vritra_rv132","is_primary":1,"notes":"v0.6.0 thunder and storm comparison checkpoint","type_code":"EVENT"}
+{"entity_id":"festival.egyptian.opet","is_primary":1,"notes":"v0.7.0 Egyptian solar-composite checkpoint","type_code":"FESTIVAL"}
+{"entity_id":"festival.greek.great_eleusinia","is_primary":1,"notes":"v0.8.0 Eleusis evidence-layer checkpoint","type_code":"FESTIVAL"}
+{"entity_id":"festival.japan.kamo_aoi","is_primary":1,"notes":"v0.10.0 Japanese thunder local-dossier checkpoint","type_code":"FESTIVAL"}
 {"entity_id":"festival.yoruba.sango_oyo","is_primary":1,"notes":"v0.6.0 thunder and storm comparison checkpoint","type_code":"FESTIVAL"}
+{"entity_id":"group.egyptian.theban_triad","is_primary":1,"notes":"v0.7.0 Egyptian solar-composite checkpoint","type_code":"CONCEPT"}
 {"entity_id":"group.japanese.eight_thunder_kami","is_primary":1,"notes":"v0.6.0 thunder and storm comparison checkpoint","type_code":"CONCEPT"}
 {"entity_id":"hero.chinese.sun_wukong","is_primary":1,"notes":null,"type_code":"HERO"}
 {"entity_id":"hero.chinese.yellow_emperor","is_primary":1,"notes":null,"type_code":"HERO"}
 {"entity_id":"hero.chinese.yellow_emperor","is_primary":0,"notes":null,"type_code":"ANCESTOR_DEITY"}
+{"entity_id":"hero.greek.aeetes","is_primary":1,"notes":"v0.9.0 Perses homonym audit checkpoint","type_code":"HERO"}
+{"entity_id":"hero.greek.andromeda","is_primary":1,"notes":"v0.9.0 Perses homonym audit checkpoint","type_code":"HERO"}
+{"entity_id":"hero.greek.medea","is_primary":1,"notes":"v0.9.0 Perses homonym audit checkpoint","type_code":"HERO"}
+{"entity_id":"hero.greek.perses_perseus_son","is_primary":1,"notes":"v0.9.0 Perses homonym audit checkpoint","type_code":"HERO"}
+{"entity_id":"hero.greek.perseus","is_primary":1,"notes":"v0.9.0 Perses homonym audit checkpoint","type_code":"HERO"}
+{"entity_id":"hero.greek.triptolemos","is_primary":1,"notes":"v0.8.0 Eleusis evidence-layer checkpoint","type_code":"HERO"}
 {"entity_id":"hero.indian.arjuna","is_primary":1,"notes":null,"type_code":"HERO"}
 {"entity_id":"hero.irish.cu_chulainn","is_primary":1,"notes":null,"type_code":"HERO"}
 {"entity_id":"hero.irish.fergus_mac_roich","is_primary":1,"notes":null,"type_code":"HERO"}
@@ -295,16 +325,27 @@
 {"entity_id":"hero.kiche.hunahpu","is_primary":1,"notes":null,"type_code":"HERO"}
 {"entity_id":"hero.kiche.xbalanque","is_primary":1,"notes":null,"type_code":"HERO"}
 {"entity_id":"hero.polynesian.maui","is_primary":1,"notes":null,"type_code":"HERO"}
+{"entity_id":"historical.japan.tawaraya_sotatsu","is_primary":1,"notes":"v0.10.0 Japanese thunder local-dossier checkpoint","type_code":"HISTORICAL_FIGURE"}
 {"entity_id":"institution.british_museum","is_primary":1,"notes":null,"type_code":"INSTITUTION"}
+{"entity_id":"institution.japan.kyoto_national_museum","is_primary":1,"notes":"v0.10.0 Japanese thunder local-dossier checkpoint","type_code":"INSTITUTION"}
 {"entity_id":"institution.louvre","is_primary":1,"notes":null,"type_code":"INSTITUTION"}
 {"entity_id":"institution.met","is_primary":1,"notes":null,"type_code":"INSTITUTION"}
+{"entity_id":"institution.nam_athens","is_primary":1,"notes":"v0.8.0 Eleusis evidence-layer checkpoint","type_code":"INSTITUTION"}
 {"entity_id":"institution.swedish_history_museum","is_primary":1,"notes":null,"type_code":"INSTITUTION"}
 {"entity_id":"modern.marvel.mcu.hela","is_primary":1,"notes":"v0.6.0 thunder and storm comparison checkpoint","type_code":"MODERN_WORK"}
 {"entity_id":"modern.marvel.mcu.loki","is_primary":1,"notes":"v0.6.0 thunder and storm comparison checkpoint","type_code":"MODERN_WORK"}
 {"entity_id":"modern.marvel.mcu.thor","is_primary":1,"notes":"v0.6.0 thunder and storm comparison checkpoint","type_code":"MODERN_WORK"}
 {"entity_id":"museum.babylon.flood_tablet_k3375","is_primary":1,"notes":null,"type_code":"MUSEUM_OBJECT"}
+{"entity_id":"museum.bm.khepri_hymn_stela_ea826","is_primary":1,"notes":"v0.7.0 Egyptian solar-composite checkpoint","type_code":"MUSEUM_OBJECT"}
 {"entity_id":"museum.egypt.papyrus_ani_frame3","is_primary":1,"notes":null,"type_code":"MUSEUM_OBJECT"}
 {"entity_id":"museum.greek.zeus_poseidon_met_21_88_52","is_primary":1,"notes":null,"type_code":"MUSEUM_OBJECT"}
+{"entity_id":"museum.japan.sotatsu_wind_thunder_screens","is_primary":1,"notes":"v0.10.0 Japanese thunder local-dossier checkpoint","type_code":"MUSEUM_OBJECT"}
+{"entity_id":"museum.met.amun_re_scarab_09_180_953","is_primary":1,"notes":"v0.7.0 Egyptian solar-composite checkpoint","type_code":"MUSEUM_OBJECT"}
+{"entity_id":"museum.met.eleusinian_relief_14_130_9","is_primary":1,"notes":"v0.8.0 Eleusis evidence-layer checkpoint","type_code":"MUSEUM_OBJECT"}
+{"entity_id":"museum.met.nauny_book_dead_30_3_31","is_primary":1,"notes":"v0.7.0 Egyptian solar-composite checkpoint","type_code":"MUSEUM_OBJECT"}
+{"entity_id":"museum.met.ra_horakhty_amulet_74_51_4497","is_primary":1,"notes":"v0.7.0 Egyptian solar-composite checkpoint","type_code":"MUSEUM_OBJECT"}
+{"entity_id":"museum.met.ra_horakhty_stela_oc81","is_primary":1,"notes":"v0.7.0 Egyptian solar-composite checkpoint","type_code":"MUSEUM_OBJECT"}
+{"entity_id":"museum.nam.great_eleusinian_relief_126","is_primary":1,"notes":"v0.8.0 Eleusis evidence-layer checkpoint","type_code":"MUSEUM_OBJECT"}
 {"entity_id":"museum.norse.mjolnir_rings","is_primary":1,"notes":null,"type_code":"MUSEUM_OBJECT"}
 {"entity_id":"museum.ugarit.baal_cycle_ao16643","is_primary":1,"notes":null,"type_code":"MUSEUM_OBJECT"}
 {"entity_id":"museum.ugarit.baal_cycle_ao16643","is_primary":0,"notes":null,"type_code":"TABLET"}
@@ -315,6 +356,8 @@
 {"entity_id":"realm.greek.tartarus","is_primary":1,"notes":"Primary classification at research checkpoint 2026-08-11","type_code":"REALM"}
 {"entity_id":"realm.norse.valhalla","is_primary":1,"notes":null,"type_code":"REALM"}
 {"entity_id":"realm.sumerian.kur","is_primary":1,"notes":null,"type_code":"REALM"}
+{"entity_id":"ritual.greek.eleusinian_mysteries","is_primary":1,"notes":"v0.8.0 Eleusis evidence-layer checkpoint","type_code":"RITUAL"}
+{"entity_id":"ritual.japan.kamo_kurabeuma","is_primary":1,"notes":"v0.10.0 Japanese thunder local-dossier checkpoint","type_code":"RITUAL"}
 {"entity_id":"site.bolivia.tiwanaku","is_primary":1,"notes":null,"type_code":"ARCHAEOLOGICAL_SITE"}
 {"entity_id":"site.cambodia.angkor","is_primary":1,"notes":null,"type_code":"ARCHAEOLOGICAL_SITE"}
 {"entity_id":"site.celtic.groves_scope","is_primary":1,"notes":null,"type_code":"PLACE"}
@@ -332,6 +375,7 @@
 {"entity_id":"site.egypt.edfu","is_primary":1,"notes":null,"type_code":"TEMPLE"}
 {"entity_id":"site.egypt.giza","is_primary":1,"notes":null,"type_code":"PYRAMID"}
 {"entity_id":"site.egypt.karnak","is_primary":1,"notes":null,"type_code":"TEMPLE"}
+{"entity_id":"site.egypt.karnak_great_temple_amun_ra","is_primary":1,"notes":"v0.7.0 Egyptian solar-composite checkpoint","type_code":"TEMPLE"}
 {"entity_id":"site.egypt.luxor_temple","is_primary":1,"notes":null,"type_code":"TEMPLE"}
 {"entity_id":"site.egypt.philae","is_primary":1,"notes":null,"type_code":"TEMPLE"}
 {"entity_id":"site.egypt.saqqara","is_primary":1,"notes":null,"type_code":"ARCHAEOLOGICAL_SITE"}
@@ -343,10 +387,12 @@
 {"entity_id":"site.greece.delphi","is_primary":1,"notes":null,"type_code":"ARCHAEOLOGICAL_SITE"}
 {"entity_id":"site.greece.dodona","is_primary":1,"notes":null,"type_code":"ARCHAEOLOGICAL_SITE"}
 {"entity_id":"site.greece.eleusis","is_primary":1,"notes":null,"type_code":"ARCHAEOLOGICAL_SITE"}
+{"entity_id":"site.greece.eleusis_telesterion","is_primary":1,"notes":"v0.8.0 Eleusis evidence-layer checkpoint","type_code":"ARCHAEOLOGICAL_SITE"}
 {"entity_id":"site.greece.epidaurus","is_primary":1,"notes":null,"type_code":"ARCHAEOLOGICAL_SITE"}
 {"entity_id":"site.greece.knossos","is_primary":1,"notes":null,"type_code":"ARCHAEOLOGICAL_SITE"}
 {"entity_id":"site.greece.mycenae","is_primary":1,"notes":null,"type_code":"ARCHAEOLOGICAL_SITE"}
 {"entity_id":"site.greece.olympia","is_primary":1,"notes":null,"type_code":"ARCHAEOLOGICAL_SITE"}
+{"entity_id":"site.greece.sacred_way","is_primary":1,"notes":"v0.8.0 Eleusis evidence-layer checkpoint","type_code":"ARCHAEOLOGICAL_SITE"}
 {"entity_id":"site.guatemala.tikal","is_primary":1,"notes":null,"type_code":"ARCHAEOLOGICAL_SITE"}
 {"entity_id":"site.iceland.sacred_scope","is_primary":1,"notes":null,"type_code":"PLACE"}
 {"entity_id":"site.india.elephanta","is_primary":1,"notes":null,"type_code":"TEMPLE"}
@@ -366,6 +412,7 @@
 {"entity_id":"site.ireland.newgrange","is_primary":1,"notes":null,"type_code":"TOMB"}
 {"entity_id":"site.italy.pompeii","is_primary":1,"notes":null,"type_code":"ARCHAEOLOGICAL_SITE"}
 {"entity_id":"site.italy.rome","is_primary":1,"notes":null,"type_code":"ARCHAEOLOGICAL_SITE"}
+{"entity_id":"site.japan.kamigamo_jinja","is_primary":1,"notes":"v0.10.0 Japanese thunder local-dossier checkpoint","type_code":"ARCHAEOLOGICAL_SITE"}
 {"entity_id":"site.japan.shrines_scope","is_primary":1,"notes":null,"type_code":"TEMPLE"}
 {"entity_id":"site.mexico.chichen_itza","is_primary":1,"notes":null,"type_code":"ARCHAEOLOGICAL_SITE"}
 {"entity_id":"site.mexico.monte_alban","is_primary":1,"notes":null,"type_code":"ARCHAEOLOGICAL_SITE"}
@@ -420,14 +467,18 @@
 {"entity_id":"text.egypt.amduat","is_primary":1,"notes":null,"type_code":"TEXT"}
 {"entity_id":"text.egypt.book_caverns","is_primary":1,"notes":null,"type_code":"TEXT"}
 {"entity_id":"text.egypt.book_dead","is_primary":1,"notes":null,"type_code":"PAPYRUS"}
+{"entity_id":"text.egypt.book_dead_spell17","is_primary":1,"notes":"v0.7.0 Egyptian solar-composite checkpoint","type_code":"TEXT"}
 {"entity_id":"text.egypt.book_gates","is_primary":1,"notes":null,"type_code":"TEXT"}
 {"entity_id":"text.egypt.coffin_texts","is_primary":1,"notes":null,"type_code":"INSCRIPTION"}
 {"entity_id":"text.egypt.litany_re","is_primary":1,"notes":null,"type_code":"TEXT"}
 {"entity_id":"text.egypt.memphite_theology","is_primary":1,"notes":null,"type_code":"INSCRIPTION"}
 {"entity_id":"text.egypt.pyramid_texts","is_primary":1,"notes":null,"type_code":"INSCRIPTION"}
 {"entity_id":"text.egypt.temple_tomb_inscriptions","is_primary":1,"notes":null,"type_code":"INSCRIPTION"}
+{"entity_id":"text.greek.apollodorus_library","is_primary":1,"notes":"v0.9.0 Perses homonym audit checkpoint","type_code":"TEXT"}
 {"entity_id":"text.greek.argonautica","is_primary":1,"notes":null,"type_code":"EPIC"}
 {"entity_id":"text.greek.bibliotheca","is_primary":1,"notes":null,"type_code":"TEXT"}
+{"entity_id":"text.greek.diodorus_library","is_primary":1,"notes":"v0.9.0 Perses homonym audit checkpoint","type_code":"TEXT"}
+{"entity_id":"text.greek.herodotus_histories","is_primary":1,"notes":"v0.9.0 Perses homonym audit checkpoint","type_code":"TEXT"}
 {"entity_id":"text.greek.homeric_hymn_aphrodite_5","is_primary":1,"notes":"v0.5.0 primary-source profile checkpoint","type_code":"TEXT"}
 {"entity_id":"text.greek.homeric_hymn_apollo_3","is_primary":1,"notes":"v0.5.0 primary-source profile checkpoint","type_code":"TEXT"}
 {"entity_id":"text.greek.homeric_hymn_ares_8","is_primary":1,"notes":"v0.5.0 primary-source profile checkpoint","type_code":"TEXT"}
@@ -442,6 +493,7 @@
 {"entity_id":"text.greek.homeric_hymn_poseidon_22","is_primary":1,"notes":"v0.5.0 primary-source profile checkpoint","type_code":"TEXT"}
 {"entity_id":"text.greek.homeric_hymn_selene_32","is_primary":1,"notes":"Primary classification from v0.4.0 Greek genealogy checkpoint","type_code":"TEXT"}
 {"entity_id":"text.greek.homeric_hymns","is_primary":1,"notes":null,"type_code":"TEXT"}
+{"entity_id":"text.greek.ieleusis97","is_primary":1,"notes":"v0.8.0 Eleusis evidence-layer checkpoint","type_code":"INSCRIPTION"}
 {"entity_id":"text.greek.iliad","is_primary":1,"notes":null,"type_code":"EPIC"}
 {"entity_id":"text.greek.inscriptions","is_primary":1,"notes":null,"type_code":"INSCRIPTION"}
 {"entity_id":"text.greek.odyssey","is_primary":1,"notes":null,"type_code":"EPIC"}

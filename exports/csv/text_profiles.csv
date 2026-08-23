@@ -32,14 +32,18 @@ text.chinese.xiyouji,LATER_LITERATURE,lang.lzh,Traditionally attributed to Wu Ch
 text.egypt.amduat,UNDERWORLD_BOOK,lang.egy,Multiple,,New Kingdom,,,,,,
 text.egypt.book_caverns,UNDERWORLD_BOOK,lang.egy,Multiple,,New Kingdom,,,,,,
 text.egypt.book_dead,FUNERARY_CORPUS,lang.egy,Multiple,,New Kingdom onward,,,,,,
+text.egypt.book_dead_spell17,FUNERARY_TEXT_SECTION,lang.egy,,,Developed across multiple funerary witnesses,,Spell/chapter 17 with explanatory glosses and variants,Multiple repositories; UCL digital study entry,,Ancient witnesses public domain; modern editions and translations retain separate rights,"Section-level index for Khepri, Ra-Horakhty, Atum and variant explanatory identifications."
 text.egypt.book_gates,UNDERWORLD_BOOK,lang.egy,Multiple,,New Kingdom,,,,,,
 text.egypt.coffin_texts,FUNERARY_CORPUS,lang.egy,Multiple,,First Intermediate Period and Middle Kingdom,,,,,,
 text.egypt.litany_re,FUNERARY_TEXT,lang.egy,Multiple,,New Kingdom,,,,,,
 text.egypt.memphite_theology,THEOLOGICAL_TEXT,lang.egy,Multiple,,Known through later inscriptional witness,,,,,,
 text.egypt.pyramid_texts,FUNERARY_CORPUS,lang.egy,Multiple,,Old Kingdom onward,,,,,,
 text.egypt.temple_tomb_inscriptions,CORPUS_SCOPE,lang.egy,,,Multiple periods,,,,,,
+text.greek.apollodorus_library,MYTHOGRAPHIC_COMPILATION,lang.grc,Pseudo-Apollodorus,,Commonly dated to the first or second century CE,,Books and numbered sections,,,Ancient text public domain; digital editions retain presentation terms,Genealogical and narrative compendium with separate Perses contexts.
 text.greek.argonautica,EPIC,lang.grc,Apollonius of Rhodes,,Hellenistic,,,,,,
 text.greek.bibliotheca,MYTHOGRAPHY,lang.grc,Pseudo-Apollodorus,,Roman imperial period,,,,,,
+text.greek.diodorus_library,HISTORIOGRAPHY,lang.grc,Diodorus Siculus,,First century BCE,,Books and numbered sections,,,Ancient text public domain; modern editions retain presentation terms,"Book 4 includes an Argonautic excursus naming Helios, Aeetes and Perses."
+text.greek.herodotus_histories,HISTORIOGRAPHY,lang.grc,Herodotus,,Fifth century BCE,,Nine books and numbered sections,,,Ancient text public domain; digital editions retain presentation terms,Book 7.61 contains a Greek aition connecting Perses to the Persian name.
 text.greek.homeric_hymn_aphrodite_5,HYMN,lang.grc,Anonymous Homeric Hymn tradition,,Ancient Greek poetic tradition; individual dating debated,,Hymn 5,Perseus / Scaife digital edition,urn:cts:greekLit:tlg0013.tlg005,Ancient text public domain; digital presentation terms apply,阿佛洛狄忒影响众神与生灵、以及例外范围的古代文本见证。 / Ancient witness for Aphrodite’s influence and its stated exceptions.
 text.greek.homeric_hymn_apollo_3,HYMN,lang.grc,Anonymous Homeric Hymn tradition,,Ancient Greek poetic tradition; individual dating debated,,Hymn 3,Perseus / Scaife digital edition,urn:cts:greekLit:tlg0013.tlg003,Ancient text public domain; digital presentation terms apply,"阿波罗的提洛岛诞生、弓、琴与神谕中心的主要古代文本见证。 / Major ancient witness for Apollo’s Delian birth, bow, lyre and oracle."
 text.greek.homeric_hymn_ares_8,HYMN,lang.grc,Anonymous Homeric Hymn tradition,,Ancient Greek poetic tradition; individual dating debated,,"Hymn 8, 17 lines",Perseus / Scaife digital edition,urn:cts:greekLit:tlg0013.tlg008,Ancient text public domain; digital presentation terms apply,阿瑞斯的武力称号与克制、和平祈愿并见的短颂歌。 / Short hymn combining martial titles with a prayer for restraint and peace.
@@ -54,6 +58,7 @@ text.greek.homeric_hymn_hestia_29,HYMN,lang.grc,Anonymous Homeric Hymn tradition
 text.greek.homeric_hymn_poseidon_22,HYMN,lang.grc,Anonymous Homeric Hymn tradition,,Ancient Greek poetic tradition; individual dating debated,,"Hymn 22, 7 lines",Perseus / Scaife digital edition,urn:cts:greekLit:tlg0013.tlg022,Ancient text public domain; digital presentation terms apply,"波塞冬与大地、海洋、马匹和船只的短颂歌见证。 / Short hymnic witness linking Poseidon with earth, sea, horses and ships."
 text.greek.homeric_hymn_selene_32,HYMN,lang.grc,Anonymous Homeric Hymn tradition,,Ancient Greek poetic tradition; exact dating debated,,"Hymn 32, 20 lines",Perseus / Scaife digital edition,urn:cts:greekLit:tlg0013.tlg032,Ancient text public domain; digital presentation terms apply,"Describes Selene’s radiance, horses, monthly sign and Pandia genealogy."
 text.greek.homeric_hymns,HYMN_COLLECTION,lang.grc,Multiple anonymous poets,,Archaic to Hellenistic,,,,,,
+text.greek.ieleusis97,INSCRIPTION,lang.grc,,,321/0 BCE,,,Epigraphic find from Eleusis,"I.Eleusis 97; IG II² 2841; IG II³,4 213",Ancient text is public domain; PHI database presentation terms apply,Dedication to Demeter and Kore naming Xenokles and sculptor Aristopeithes.
 text.greek.iliad,EPIC,lang.grc,Homeric tradition,,Archaic Greece,,,,,,
 text.greek.inscriptions,CORPUS_SCOPE,lang.grc,,,Multiple periods,,,,,,
 text.greek.odyssey,EPIC,lang.grc,Homeric tradition,,Archaic Greece,,,,,,

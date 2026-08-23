@@ -10,11 +10,13 @@
 {"category":"EVENT","code":"CAUSED_BY","description":null,"inverse_code":"CAUSED","is_symmetric":0,"label_en":"caused by","label_zh":"由……导致"}
 {"category":"KINSHIP","code":"CHILD_OF","description":null,"inverse_code":"PARENT_OF","is_symmetric":0,"label_en":"child of","label_zh":"子女／后代"}
 {"category":"COMPARISON","code":"COMPARABLE_TO","description":null,"inverse_code":"COMPARABLE_TO","is_symmetric":1,"label_en":"comparable to","label_zh":"可比较但不等同"}
+{"category":"IDENTITY","code":"COMPOSITE_EXPRESSION_OF","description":"A dated or witness-scoped divine combination. It does not merge the component records.","inverse_code":"HAS_COMPOSITE_EXPRESSION","is_symmetric":0,"label_en":"composite expression of","label_zh":"复合／融合表达"}
 {"category":"KINSHIP","code":"CONSORT_OF","description":null,"inverse_code":"CONSORT_OF","is_symmetric":1,"label_en":"consort of","label_zh":"配偶／伴侣"}
 {"category":"RITUAL","code":"CO_INVOKED_WITH","description":"Two entities named together in a source; does not imply enmity, identity, or a reconstructed cosmic opposition.","inverse_code":"CO_INVOKED_WITH","is_symmetric":1,"label_en":"co-invoked with","label_zh":"共同受誓言援引"}
 {"category":"CREATION","code":"CREATED_BY","description":null,"inverse_code":"CREATOR_OF","is_symmetric":0,"label_en":"created by","label_zh":"由……创造"}
 {"category":"CREATION","code":"CREATOR_OF","description":null,"inverse_code":"CREATED_BY","is_symmetric":0,"label_en":"creator of","label_zh":"创造者"}
 {"category":"PLACE","code":"DEATHPLACE_OF","description":null,"inverse_code":"DIED_IN","is_symmetric":0,"label_en":"deathplace of","label_zh":"死亡地点"}
+{"category":"CULT","code":"DEDICATED_TO","description":"A text, object or monument records a dedication; this does not imply ownership.","inverse_code":"HAS_DEDICATION","is_symmetric":0,"label_en":"dedicated to","label_zh":"奉献给"}
 {"category":"CONFLICT","code":"DEFEATED","description":null,"inverse_code":"DEFEATED_BY","is_symmetric":0,"label_en":"defeated","label_zh":"击败"}
 {"category":"CONFLICT","code":"DEFEATED_BY","description":null,"inverse_code":"DEFEATED","is_symmetric":0,"label_en":"defeated by","label_zh":"被……击败"}
 {"category":"OBJECT","code":"DEPICTED_ON","description":null,"inverse_code":"DEPICTS","is_symmetric":0,"label_en":"depicted on","label_zh":"描绘于"}
@@ -31,8 +33,12 @@
 {"category":"CONFLICT","code":"FREED","description":null,"inverse_code":"FREED_BY","is_symmetric":0,"label_en":"freed","label_zh":"释放"}
 {"category":"CONFLICT","code":"FREED_BY","description":null,"inverse_code":"FREED","is_symmetric":0,"label_en":"freed by","label_zh":"被……释放"}
 {"category":"TEXT","code":"HAS_APPEARANCE_OF","description":null,"inverse_code":"APPEARS_IN","is_symmetric":0,"label_en":"has appearance of","label_zh":"包含形象／角色"}
+{"category":"IDENTITY","code":"HAS_COMPOSITE_EXPRESSION","description":"Inverse of COMPOSITE_EXPRESSION_OF.","inverse_code":"COMPOSITE_EXPRESSION_OF","is_symmetric":0,"label_en":"has composite expression","label_zh":"具有复合表达"}
+{"category":"CULT","code":"HAS_DEDICATION","description":"Inverse of DEDICATED_TO.","inverse_code":"DEDICATED_TO","is_symmetric":0,"label_en":"has dedication","label_zh":"接受奉献"}
 {"category":"CLASSIFICATION","code":"HAS_ELEMENT","description":null,"inverse_code":"ELEMENT_OF","is_symmetric":0,"label_en":"has element","label_zh":"包含元素"}
+{"category":"OBJECT","code":"HAS_LATER_COPY","description":"Inverse of LATER_COPY_OF.","inverse_code":"LATER_COPY_OF","is_symmetric":0,"label_en":"has later copy","label_zh":"具有后世摹本／复制品"}
 {"category":"CLASSIFICATION","code":"HAS_MEMBER","description":null,"inverse_code":"MEMBER_OF","is_symmetric":0,"label_en":"has member","label_zh":"包含成员"}
+{"category":"STRUCTURE","code":"HAS_PART","description":"Inverse of PART_OF.","inverse_code":"PART_OF","is_symmetric":0,"label_en":"has part","label_zh":"包含组成部分"}
 {"category":"EVENT","code":"HAS_PARTICIPANT","description":null,"inverse_code":"PARTICIPATED_IN","is_symmetric":0,"label_en":"has participant","label_zh":"参与者"}
 {"category":"IDENTITY","code":"HAS_VARIANT","description":null,"inverse_code":"VARIANT_OF","is_symmetric":0,"label_en":"has variant","label_zh":"具有变体"}
 {"category":"OBJECT","code":"HELD_BY_MUSEUM","description":null,"inverse_code":"HOLDS","is_symmetric":0,"label_en":"held by museum","label_zh":"由博物馆收藏"}
@@ -43,6 +49,7 @@
 {"category":"PLACE","code":"INHABITED_BY","description":null,"inverse_code":"LIVES_IN","is_symmetric":0,"label_en":"inhabited by","label_zh":"居住者"}
 {"category":"CONFLICT","code":"KILLED","description":null,"inverse_code":"KILLED_BY","is_symmetric":0,"label_en":"killed","label_zh":"杀死"}
 {"category":"CONFLICT","code":"KILLED_BY","description":null,"inverse_code":"KILLED","is_symmetric":0,"label_en":"killed by","label_zh":"被……杀死"}
+{"category":"OBJECT","code":"LATER_COPY_OF","description":"A later object copies or closely reproduces an earlier work; the records remain distinct.","inverse_code":"HAS_LATER_COPY","is_symmetric":0,"label_en":"later copy of","label_zh":"后世摹本／复制品"}
 {"category":"IDENTITY","code":"LATER_EQUIVALENT_OF","description":null,"inverse_code":"EARLIER_COUNTERPART_OF","is_symmetric":0,"label_en":"later equivalent of","label_zh":"后世对应"}
 {"category":"PLACE","code":"LIVES_IN","description":null,"inverse_code":"INHABITED_BY","is_symmetric":0,"label_en":"lives in","label_zh":"居住于"}
 {"category":"CLASSIFICATION","code":"MEMBER_OF","description":null,"inverse_code":"HAS_MEMBER","is_symmetric":0,"label_en":"member of","label_zh":"属于体系"}
@@ -53,10 +60,13 @@
 {"category":"POSSESSION","code":"OWNS","description":null,"inverse_code":"OWNED_BY","is_symmetric":0,"label_en":"owns","label_zh":"拥有"}
 {"category":"KINSHIP","code":"PARENT_OF","description":null,"inverse_code":"CHILD_OF","is_symmetric":0,"label_en":"parent of","label_zh":"父母／亲代"}
 {"category":"EVENT","code":"PARTICIPATED_IN","description":null,"inverse_code":"HAS_PARTICIPANT","is_symmetric":0,"label_en":"participated in","label_zh":"参与事件"}
+{"category":"STRUCTURE","code":"PART_OF","description":"Structural containment; not identity.","inverse_code":"HAS_PART","is_symmetric":0,"label_en":"part of","label_zh":"属于／构成部分"}
 {"category":"ASSOCIATION","code":"PROTECTED","description":null,"inverse_code":"PROTECTED_BY","is_symmetric":0,"label_en":"protected","label_zh":"保护"}
 {"category":"ASSOCIATION","code":"PROTECTED_BY","description":null,"inverse_code":"PROTECTED","is_symmetric":0,"label_en":"protected by","label_zh":"受……保护"}
+{"category":"MYTH","code":"RECEIVED_RITES_FROM","description":"Inverse of REVEALED_RITES_TO.","inverse_code":"REVEALED_RITES_TO","is_symmetric":0,"label_en":"received rites from","label_zh":"从……获授仪式"}
 {"category":"SYMBOL","code":"REPRESENTED_BY","description":null,"inverse_code":"REPRESENTS","is_symmetric":0,"label_en":"represented by","label_zh":"被……象征"}
 {"category":"SYMBOL","code":"REPRESENTS","description":null,"inverse_code":"REPRESENTED_BY","is_symmetric":0,"label_en":"represents","label_zh":"代表／象征"}
+{"category":"MYTH","code":"REVEALED_RITES_TO","description":"A source-bounded mythic statement that one figure disclosed rites to another.","inverse_code":"RECEIVED_RITES_FROM","is_symmetric":0,"label_en":"revealed rites to","label_zh":"向……揭示仪式"}
 {"category":"PLACE","code":"RULED_BY","description":null,"inverse_code":"RULES","is_symmetric":0,"label_en":"ruled by","label_zh":"由……统治"}
 {"category":"PLACE","code":"RULES","description":null,"inverse_code":"RULED_BY","is_symmetric":0,"label_en":"rules","label_zh":"统治"}
 {"category":"KINSHIP","code":"SIBLING_OF","description":null,"inverse_code":"SIBLING_OF","is_symmetric":1,"label_en":"sibling of","label_zh":"兄弟姐妹"}

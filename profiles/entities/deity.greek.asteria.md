@@ -6,7 +6,7 @@
 - 原文名: Ἀστερία
 - 转写: Astería
 - 研究状态: `PARTIAL`
-- 证据状态: `SOURCE_BACKED`
+- 证据状态: `PARTIAL`
 
 ## 概要
 
@@ -20,6 +20,7 @@ Parent of Hecate with Perses in Hesiod’s Theogony.
 
 | Relation | Target | Review / layer | Evidence | Confidence | Direction |
 |---|---|---|---:|---:|---|
+| `CONSORT_OF` | 珀耳塞斯（提坦） (`deity.greek.perses`) | VERIFIED / TEXT_SAYS / MYTHIC_NARRATIVE | 1 | 0.99 | inferred inverse; `claim.v090.perses_consort_asteria` |
 | `PARENT_OF` | 赫卡忒 (`deity.greek.hecate`) | VERIFIED / TEXT_SAYS / MYTHIC_NARRATIVE | 1 | 0.99 | stored claim; `claim.v040.asteria.parent_hecate` |
 
 ## Claims 与证据

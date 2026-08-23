@@ -84,9 +84,12 @@ concept.comparative.water,ELEMENT,1,
 concept.comparative.wind,ELEMENT,1,
 concept.comparative.wisdom,CONCEPT,1,
 concept.comparative.wood,ELEMENT,1,
+concept.egyptian.divine_syncretism,CONCEPT,1,v0.7.0 Egyptian solar-composite checkpoint
 concept.egyptian.isfet,CONCEPT,1,
 concept.egyptian.ma_at,CONCEPT,1,
 concept.greek.classical_elements,CONCEPT,1,
+concept.greek.eleusinian_secrecy,CONCEPT,1,v0.8.0 Eleusis evidence-layer checkpoint
+concept.greek.persian_name_aition,CONCEPT,1,v0.9.0 Perses homonym audit checkpoint
 concept.indian.pancamahabhuta,CONCEPT,1,
 concept.norse.fire_ice_cosmogony,COSMOLOGY,1,
 concept.ugaritic.baal_title,CONCEPT,1,v0.6.0 thunder and storm comparison checkpoint
@@ -110,19 +113,24 @@ deity.chinese.leize_thunder_spirit,DEITY,1,v0.6.0 thunder and storm comparison c
 deity.chinese.nezha,DEITY,1,
 deity.chinese.nu_wa,DEITY,1,
 deity.egyptian.amun,DEITY,1,
+deity.egyptian.amun_ra,DEITY,1,v0.7.0 Egyptian solar-composite checkpoint
 deity.egyptian.anubis,DEITY,1,
 deity.egyptian.atum,PRIMORDIAL_DEITY,1,
 deity.egyptian.geb,DEITY,1,
 deity.egyptian.hathor,DEITY,1,
 deity.egyptian.horus,DEITY,1,
 deity.egyptian.isis,DEITY,1,
+deity.egyptian.khepri,DEITY,1,v0.7.0 Egyptian solar-composite checkpoint
+deity.egyptian.khonsu,DEITY,1,v0.7.0 Egyptian solar-composite checkpoint
 deity.egyptian.ma_at,DEITY,1,
 deity.egyptian.ma_at,CONCEPT,0,
+deity.egyptian.mut,DEITY,1,v0.7.0 Egyptian solar-composite checkpoint
 deity.egyptian.nephthys,DEITY,1,
 deity.egyptian.nut,DEITY,1,
 deity.egyptian.osiris,DEITY,1,
 deity.egyptian.ptah,DEITY,1,
 deity.egyptian.ra,DEITY,1,
+deity.egyptian.ra_horakhty,DEITY,1,v0.7.0 Egyptian solar-composite checkpoint
 deity.egyptian.sekhmet,DEITY,1,
 deity.egyptian.seth,DEITY,1,
 deity.egyptian.shu,DEITY,1,
@@ -136,9 +144,11 @@ deity.greek.ares,DEITY,1,
 deity.greek.artemis,DEITY,1,
 deity.greek.asteria,DEITY,1,Primary classification from v0.4.0 Greek genealogy checkpoint
 deity.greek.asteria,TITAN,0,Hesiodic divine generation
+deity.greek.astraeus,DEITY,1,v0.9.0 Perses homonym audit checkpoint
 deity.greek.athena,DEITY,1,
 deity.greek.chaos,PRIMORDIAL_DEITY,1,Primary classification from v0.4.0 Greek genealogy checkpoint
 deity.greek.chaos,DEITY,0,Queryable through the deity collection; ontology remains witness-specific
+deity.greek.crius,DEITY,1,v0.9.0 Perses homonym audit checkpoint
 deity.greek.cronus,DEITY,1,
 deity.greek.cronus,TITAN,0,Greek culture-specific classification
 deity.greek.demeter,DEITY,1,
@@ -147,6 +157,7 @@ deity.greek.dionysus,DEITY,1,
 deity.greek.eos,DEITY,1,Primary classification from v0.4.0 Greek genealogy checkpoint
 deity.greek.erebus,PRIMORDIAL_DEITY,1,Primary classification from v0.4.0 Greek genealogy checkpoint
 deity.greek.erebus,DEITY,0,Queryable through the deity collection
+deity.greek.eurybia,DEITY,1,v0.9.0 Perses homonym audit checkpoint
 deity.greek.gaia,PRIMORDIAL_DEITY,1,
 deity.greek.gaia,CONCEPT,0,
 deity.greek.hades,DEITY,1,
@@ -166,9 +177,11 @@ deity.greek.maia,DEITY,1,v0.5.0 primary-source profile checkpoint
 deity.greek.metis,DEITY,1,Primary classification at research checkpoint 2026-08-11
 deity.greek.nyx,PRIMORDIAL_DEITY,1,Primary classification from v0.4.0 Greek genealogy checkpoint
 deity.greek.nyx,DEITY,0,Queryable through the deity collection
+deity.greek.pallas_titan,DEITY,1,v0.9.0 Perses homonym audit checkpoint
 deity.greek.persephone,DEITY,1,v0.5.0 primary-source profile checkpoint
 deity.greek.perses,DEITY,1,Primary classification from v0.4.0 Greek genealogy checkpoint
 deity.greek.perses,TITAN,0,Hesiodic divine generation; identity caution applies
+deity.greek.perses_helios,DEITY,1,v0.9.0 Perses homonym audit checkpoint
 deity.greek.poseidon,DEITY,1,
 deity.greek.rhea,DEITY,1,
 deity.greek.rhea,TITAN,0,Greek culture-specific classification
@@ -188,10 +201,14 @@ deity.irish.dagda,DEITY,1,
 deity.irish.lugh,DEITY,1,
 deity.irish.morrigan,DEITY,1,
 deity.japanese.amaterasu,DEITY,1,
+deity.japanese.fujin,DEITY,1,v0.10.0 Japanese thunder local-dossier checkpoint
 deity.japanese.fusuikazuchi,DEITY,1,v0.6.0 thunder and storm comparison checkpoint
 deity.japanese.honoikazuchi,DEITY,1,v0.6.0 thunder and storm comparison checkpoint
+deity.japanese.honoikazuchi_otokuni,DEITY,1,v0.10.0 Japanese thunder local-dossier checkpoint
 deity.japanese.izanagi,DEITY,1,
 deity.japanese.izanami,DEITY,1,
+deity.japanese.kamo_taketsunumi,DEITY,1,v0.10.0 Japanese thunder local-dossier checkpoint
+deity.japanese.kamo_wakeikazuchi,DEITY,1,v0.10.0 Japanese thunder local-dossier checkpoint
 deity.japanese.kuroikazuchi,DEITY,1,v0.6.0 thunder and storm comparison checkpoint
 deity.japanese.naruikazuchi,DEITY,1,v0.6.0 thunder and storm comparison checkpoint
 deity.japanese.ooikazuchi,DEITY,1,v0.6.0 thunder and storm comparison checkpoint
@@ -199,6 +216,7 @@ deity.japanese.raijin,DEITY,1,v0.6.0 thunder and storm comparison checkpoint
 deity.japanese.sakuikazuchi,DEITY,1,v0.6.0 thunder and storm comparison checkpoint
 deity.japanese.susanoo,DEITY,1,
 deity.japanese.takemikazuchi,DEITY,1,v0.6.0 thunder and storm comparison checkpoint
+deity.japanese.tamayorihime_kamo,DEITY,1,v0.10.0 Japanese thunder local-dossier checkpoint
 deity.japanese.tsuchiikazuchi,DEITY,1,v0.6.0 thunder and storm comparison checkpoint
 deity.japanese.tsukuyomi,DEITY,1,
 deity.japanese.wakaikazuchi,DEITY,1,v0.6.0 thunder and storm comparison checkpoint
@@ -276,6 +294,8 @@ element.indian.ap,ELEMENT,1,
 element.indian.prithvi,ELEMENT,1,
 element.indian.vayu,ELEMENT,1,
 event.babylonian.marduk_tiamat,EVENT,1,
+event.egyptian.nocturnal_solar_journey,EVENT,1,v0.7.0 Egyptian solar-composite checkpoint
+event.greek.medea_restores_aeetes,EVENT,1,v0.9.0 Perses homonym audit checkpoint
 event.greek.persephone_abduction,EVENT,1,v0.5.0 primary-source profile checkpoint
 event.greek.titanomachy,EVENT,1,
 event.greek.zeus_typhon_battle,EVENT,1,Primary classification at research checkpoint 2026-08-11
@@ -284,11 +304,21 @@ event.norse.ragnarok,EVENT,1,
 event.sumerian.inanna_descent,EVENT,1,
 event.ugaritic.baal_yamm_ktu12,EVENT,1,v0.6.0 thunder and storm comparison checkpoint
 event.vedic.indra_vritra_rv132,EVENT,1,v0.6.0 thunder and storm comparison checkpoint
+festival.egyptian.opet,FESTIVAL,1,v0.7.0 Egyptian solar-composite checkpoint
+festival.greek.great_eleusinia,FESTIVAL,1,v0.8.0 Eleusis evidence-layer checkpoint
+festival.japan.kamo_aoi,FESTIVAL,1,v0.10.0 Japanese thunder local-dossier checkpoint
 festival.yoruba.sango_oyo,FESTIVAL,1,v0.6.0 thunder and storm comparison checkpoint
+group.egyptian.theban_triad,CONCEPT,1,v0.7.0 Egyptian solar-composite checkpoint
 group.japanese.eight_thunder_kami,CONCEPT,1,v0.6.0 thunder and storm comparison checkpoint
 hero.chinese.sun_wukong,HERO,1,
 hero.chinese.yellow_emperor,HERO,1,
 hero.chinese.yellow_emperor,ANCESTOR_DEITY,0,
+hero.greek.aeetes,HERO,1,v0.9.0 Perses homonym audit checkpoint
+hero.greek.andromeda,HERO,1,v0.9.0 Perses homonym audit checkpoint
+hero.greek.medea,HERO,1,v0.9.0 Perses homonym audit checkpoint
+hero.greek.perses_perseus_son,HERO,1,v0.9.0 Perses homonym audit checkpoint
+hero.greek.perseus,HERO,1,v0.9.0 Perses homonym audit checkpoint
+hero.greek.triptolemos,HERO,1,v0.8.0 Eleusis evidence-layer checkpoint
 hero.indian.arjuna,HERO,1,
 hero.irish.cu_chulainn,HERO,1,
 hero.irish.fergus_mac_roich,HERO,1,
@@ -296,16 +326,27 @@ hero.japanese.yamato_takeru,HERO,1,
 hero.kiche.hunahpu,HERO,1,
 hero.kiche.xbalanque,HERO,1,
 hero.polynesian.maui,HERO,1,
+historical.japan.tawaraya_sotatsu,HISTORICAL_FIGURE,1,v0.10.0 Japanese thunder local-dossier checkpoint
 institution.british_museum,INSTITUTION,1,
+institution.japan.kyoto_national_museum,INSTITUTION,1,v0.10.0 Japanese thunder local-dossier checkpoint
 institution.louvre,INSTITUTION,1,
 institution.met,INSTITUTION,1,
+institution.nam_athens,INSTITUTION,1,v0.8.0 Eleusis evidence-layer checkpoint
 institution.swedish_history_museum,INSTITUTION,1,
 modern.marvel.mcu.hela,MODERN_WORK,1,v0.6.0 thunder and storm comparison checkpoint
 modern.marvel.mcu.loki,MODERN_WORK,1,v0.6.0 thunder and storm comparison checkpoint
 modern.marvel.mcu.thor,MODERN_WORK,1,v0.6.0 thunder and storm comparison checkpoint
 museum.babylon.flood_tablet_k3375,MUSEUM_OBJECT,1,
+museum.bm.khepri_hymn_stela_ea826,MUSEUM_OBJECT,1,v0.7.0 Egyptian solar-composite checkpoint
 museum.egypt.papyrus_ani_frame3,MUSEUM_OBJECT,1,
 museum.greek.zeus_poseidon_met_21_88_52,MUSEUM_OBJECT,1,
+museum.japan.sotatsu_wind_thunder_screens,MUSEUM_OBJECT,1,v0.10.0 Japanese thunder local-dossier checkpoint
+museum.met.amun_re_scarab_09_180_953,MUSEUM_OBJECT,1,v0.7.0 Egyptian solar-composite checkpoint
+museum.met.eleusinian_relief_14_130_9,MUSEUM_OBJECT,1,v0.8.0 Eleusis evidence-layer checkpoint
+museum.met.nauny_book_dead_30_3_31,MUSEUM_OBJECT,1,v0.7.0 Egyptian solar-composite checkpoint
+museum.met.ra_horakhty_amulet_74_51_4497,MUSEUM_OBJECT,1,v0.7.0 Egyptian solar-composite checkpoint
+museum.met.ra_horakhty_stela_oc81,MUSEUM_OBJECT,1,v0.7.0 Egyptian solar-composite checkpoint
+museum.nam.great_eleusinian_relief_126,MUSEUM_OBJECT,1,v0.8.0 Eleusis evidence-layer checkpoint
 museum.norse.mjolnir_rings,MUSEUM_OBJECT,1,
 museum.ugarit.baal_cycle_ao16643,MUSEUM_OBJECT,1,
 museum.ugarit.baal_cycle_ao16643,TABLET,0,
@@ -316,6 +357,8 @@ realm.egypt.duat,REALM,1,
 realm.greek.tartarus,REALM,1,Primary classification at research checkpoint 2026-08-11
 realm.norse.valhalla,REALM,1,
 realm.sumerian.kur,REALM,1,
+ritual.greek.eleusinian_mysteries,RITUAL,1,v0.8.0 Eleusis evidence-layer checkpoint
+ritual.japan.kamo_kurabeuma,RITUAL,1,v0.10.0 Japanese thunder local-dossier checkpoint
 site.bolivia.tiwanaku,ARCHAEOLOGICAL_SITE,1,
 site.cambodia.angkor,ARCHAEOLOGICAL_SITE,1,
 site.celtic.groves_scope,PLACE,1,
@@ -333,6 +376,7 @@ site.egypt.dendera,TEMPLE,1,
 site.egypt.edfu,TEMPLE,1,
 site.egypt.giza,PYRAMID,1,
 site.egypt.karnak,TEMPLE,1,
+site.egypt.karnak_great_temple_amun_ra,TEMPLE,1,v0.7.0 Egyptian solar-composite checkpoint
 site.egypt.luxor_temple,TEMPLE,1,
 site.egypt.philae,TEMPLE,1,
 site.egypt.saqqara,ARCHAEOLOGICAL_SITE,1,
@@ -344,10 +388,12 @@ site.greece.delos,ARCHAEOLOGICAL_SITE,1,
 site.greece.delphi,ARCHAEOLOGICAL_SITE,1,
 site.greece.dodona,ARCHAEOLOGICAL_SITE,1,
 site.greece.eleusis,ARCHAEOLOGICAL_SITE,1,
+site.greece.eleusis_telesterion,ARCHAEOLOGICAL_SITE,1,v0.8.0 Eleusis evidence-layer checkpoint
 site.greece.epidaurus,ARCHAEOLOGICAL_SITE,1,
 site.greece.knossos,ARCHAEOLOGICAL_SITE,1,
 site.greece.mycenae,ARCHAEOLOGICAL_SITE,1,
 site.greece.olympia,ARCHAEOLOGICAL_SITE,1,
+site.greece.sacred_way,ARCHAEOLOGICAL_SITE,1,v0.8.0 Eleusis evidence-layer checkpoint
 site.guatemala.tikal,ARCHAEOLOGICAL_SITE,1,
 site.iceland.sacred_scope,PLACE,1,
 site.india.elephanta,TEMPLE,1,
@@ -367,6 +413,7 @@ site.iraq.uruk,ARCHAEOLOGICAL_SITE,1,
 site.ireland.newgrange,TOMB,1,
 site.italy.pompeii,ARCHAEOLOGICAL_SITE,1,
 site.italy.rome,ARCHAEOLOGICAL_SITE,1,
+site.japan.kamigamo_jinja,ARCHAEOLOGICAL_SITE,1,v0.10.0 Japanese thunder local-dossier checkpoint
 site.japan.shrines_scope,TEMPLE,1,
 site.mexico.chichen_itza,ARCHAEOLOGICAL_SITE,1,
 site.mexico.monte_alban,ARCHAEOLOGICAL_SITE,1,
@@ -421,14 +468,18 @@ text.chinese.xiyouji,TEXT,1,
 text.egypt.amduat,TEXT,1,
 text.egypt.book_caverns,TEXT,1,
 text.egypt.book_dead,PAPYRUS,1,
+text.egypt.book_dead_spell17,TEXT,1,v0.7.0 Egyptian solar-composite checkpoint
 text.egypt.book_gates,TEXT,1,
 text.egypt.coffin_texts,INSCRIPTION,1,
 text.egypt.litany_re,TEXT,1,
 text.egypt.memphite_theology,INSCRIPTION,1,
 text.egypt.pyramid_texts,INSCRIPTION,1,
 text.egypt.temple_tomb_inscriptions,INSCRIPTION,1,
+text.greek.apollodorus_library,TEXT,1,v0.9.0 Perses homonym audit checkpoint
 text.greek.argonautica,EPIC,1,
 text.greek.bibliotheca,TEXT,1,
+text.greek.diodorus_library,TEXT,1,v0.9.0 Perses homonym audit checkpoint
+text.greek.herodotus_histories,TEXT,1,v0.9.0 Perses homonym audit checkpoint
 text.greek.homeric_hymn_aphrodite_5,TEXT,1,v0.5.0 primary-source profile checkpoint
 text.greek.homeric_hymn_apollo_3,TEXT,1,v0.5.0 primary-source profile checkpoint
 text.greek.homeric_hymn_ares_8,TEXT,1,v0.5.0 primary-source profile checkpoint
@@ -443,6 +494,7 @@ text.greek.homeric_hymn_hestia_29,TEXT,1,Primary classification from v0.4.0 Gree
 text.greek.homeric_hymn_poseidon_22,TEXT,1,v0.5.0 primary-source profile checkpoint
 text.greek.homeric_hymn_selene_32,TEXT,1,Primary classification from v0.4.0 Greek genealogy checkpoint
 text.greek.homeric_hymns,TEXT,1,
+text.greek.ieleusis97,INSCRIPTION,1,v0.8.0 Eleusis evidence-layer checkpoint
 text.greek.iliad,EPIC,1,
 text.greek.inscriptions,INSCRIPTION,1,
 text.greek.odyssey,EPIC,1,

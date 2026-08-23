@@ -12,8 +12,11 @@
 | concept.comparative.destruction | 毁灭 | Destruction | CONCEPT | — | PARTIAL | UNVERIFIED |
 | concept.comparative.dream | 梦 | Dream | CONCEPT | — | PARTIAL | UNVERIFIED |
 | concept.zoroastrian.druj | 德鲁杰（虚妄／失序） | Druj | CONCEPT | 琐罗亚斯德传统 | PARTIAL | UNVERIFIED |
+| concept.egyptian.divine_syncretism | 古埃及神祇复合／融合表达 | Egyptian divine syncretism | CONCEPT | 古埃及 | PARTIAL | SOURCE_BACKED |
 | group.japanese.eight_thunder_kami | 《古事记》八雷神 | Eight Thunder Kami of the Kojiki | CONCEPT | 日本神道 | PARTIAL | SOURCE_BACKED |
+| concept.greek.eleusinian_secrecy | 厄琉息斯仪式保密原则 | Eleusinian ritual secrecy | CONCEPT | 古希腊 | PARTIAL | PARTIAL |
 | concept.comparative.fate | 命运 | Fate | CONCEPT | — | PARTIAL | UNVERIFIED |
+| concept.greek.persian_name_aition | 希腊传统中的“波斯人”名称缘起 | Greek aition of the Persian name | CONCEPT | 古希腊 | PARTIAL | PARTIAL |
 | concept.comparative.hearth | 炉火／灶火 | Hearth | CONCEPT | 古希腊 | PARTIAL | PARTIAL |
 | concept.comparative.hunting | 狩猎 | Hunting | CONCEPT | — | PARTIAL | UNVERIFIED |
 | concept.egyptian.isfet | 伊斯菲特（失序） | Isfet | CONCEPT | 古埃及 | PARTIAL | UNVERIFIED |
@@ -33,6 +36,7 @@
 | concept.comparative.rebirth | 重生 | Rebirth | CONCEPT | — | PARTIAL | UNVERIFIED |
 | concept.comparative.sleep | 睡眠 | Sleep | CONCEPT | 古希腊 | PARTIAL | PARTIAL |
 | concept.comparative.soul | 灵魂 | Soul | CONCEPT | — | PARTIAL | UNVERIFIED |
+| group.egyptian.theban_triad | 底比斯三神组 | Theban Triad | CONCEPT | 古埃及 | PARTIAL | PARTIAL |
 | concept.comparative.time | 时间 | Time | CONCEPT | — | PARTIAL | UNVERIFIED |
 | concept.ugaritic.baal_title | 乌加里特 bʿl“主／领主”头衔 | Ugaritic b-l title lexeme | CONCEPT | 乌加里特 | PARTIAL | PARTIAL |
 | concept.comparative.war | 战争 | War | CONCEPT | — | PARTIAL | UNVERIFIED |

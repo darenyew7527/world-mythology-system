@@ -526,7 +526,7 @@ def build_snapshot(database_path: Path) -> dict[str, Any]:
 
     snapshot = {
         "meta": {
-            "projectVersion": "0.6.0-thunder-comparison",
+            "projectVersion": "0.10.0-japanese-thunder-local-dossiers",
             "datasetRelease": release,
             "generatedFrom": "database/world_mythology.sqlite",
             "completionClaim": (

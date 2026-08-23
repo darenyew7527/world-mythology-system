@@ -17,10 +17,11 @@
 | text.chinese.shang_shu | 尚书 | Shang Shu | TEXT | 中国上古神话 | Multiple textual layers; do not assign a single date | PARTIAL |
 | text.chinese.shangshu | 尚书相关传统 | Shangshu-related traditions | TEXT | 中国上古神话 | Layered compilation | UNVERIFIED |
 | text.chinese.mutianzizhuan | 穆天子传 | Tale of King Mu, Son of Heaven | TEXT | 中国上古神话 | Ancient text with complex transmission | UNVERIFIED |
-| text.egypt.amduat | 冥府书 | Amduat | TEXT | 古埃及 | New Kingdom | UNVERIFIED |
+| text.egypt.amduat | 冥府书 | Amduat | TEXT | 古埃及 | New Kingdom | PARTIAL |
 | text.egypt.book_caverns | 洞穴之书 | Book of Caverns | TEXT | 古埃及 | New Kingdom | UNVERIFIED |
 | text.egypt.book_gates | 门之书 | Book of Gates | TEXT | 古埃及 | New Kingdom | UNVERIFIED |
-| text.egypt.book_dead | 亡灵书 | Book of the Dead | PAPYRUS | 古埃及 | New Kingdom onward | UNVERIFIED |
+| text.egypt.book_dead | 亡灵书 | Book of the Dead | PAPYRUS | 古埃及 | New Kingdom onward | PARTIAL |
+| text.egypt.book_dead_spell17 | 《亡灵书》第17咒文 | Book of the Dead Spell 17 | TEXT | 古埃及 | Developed across multiple funerary witnesses | PARTIAL |
 | text.egypt.coffin_texts | 棺材文 | Coffin Texts | INSCRIPTION | 古埃及 | First Intermediate Period and Middle Kingdom | UNVERIFIED |
 | text.egypt.temple_tomb_inscriptions | 埃及神庙与墓葬铭文总集入口 | Egyptian temple and tomb inscriptions | INSCRIPTION | 古埃及 | Multiple periods | UNVERIFIED |
 | text.egypt.litany_re | 拉神连祷文 | Litany of Re | TEXT | 古埃及 | New Kingdom | UNVERIFIED |
@@ -30,6 +31,8 @@
 | text.greek.tragedies | 古希腊悲剧总集入口 | Ancient Greek tragedies | TEXT | 古希腊 | Classical Greece | UNVERIFIED |
 | text.greek.argonautica | 阿尔戈英雄纪 | Argonautica | EPIC | 古希腊 | Hellenistic | UNVERIFIED |
 | text.greek.bibliotheca | 书库（希腊神话汇编） | Bibliotheca | TEXT | 古希腊 | Roman imperial period | UNVERIFIED |
+| text.greek.diodorus_library | 狄奥多罗斯《历史文库》 | Diodorus Siculus, Library of History | TEXT | 古希腊 | First century BCE | PARTIAL |
+| text.greek.herodotus_histories | 希罗多德《历史》 | Herodotus, Histories | TEXT | 古希腊 | Fifth century BCE | PARTIAL |
 | text.greek.homeric_hymn_demeter | 《荷马颂歌·致得墨忒耳》 | Homeric Hymn 2 to Demeter | TEXT | 古希腊 | Archaic Greek poetic tradition; exact dating debated | PARTIAL |
 | text.greek.homeric_hymn_hephaestus_20 | 《荷马颂歌·致赫淮斯托斯》（第20首） | Homeric Hymn 20 to Hephaestus | TEXT | 古希腊 | Ancient Greek poetic tradition; individual dating debated | SOURCE_BACKED |
 | text.greek.homeric_hymn_poseidon_22 | 《荷马颂歌·致波塞冬》（第22首） | Homeric Hymn 22 to Poseidon | TEXT | 古希腊 | Ancient Greek poetic tradition; individual dating debated | SOURCE_BACKED |
@@ -44,10 +47,12 @@
 | text.greek.homeric_hymn_dionysus_7 | 《荷马颂歌·致狄俄倪索斯》（第7首） | Homeric Hymn 7 to Dionysus | TEXT | 古希腊 | Ancient Greek poetic tradition; individual dating debated | SOURCE_BACKED |
 | text.greek.homeric_hymn_ares_8 | 《荷马颂歌·致阿瑞斯》（第8首） | Homeric Hymn 8 to Ares | TEXT | 古希腊 | Ancient Greek poetic tradition; individual dating debated | SOURCE_BACKED |
 | text.greek.homeric_hymns | 荷马赞歌 | Homeric Hymns | TEXT | 古希腊 | Archaic to Hellenistic | UNVERIFIED |
+| text.greek.ieleusis97 | 《厄琉息斯铭文集》97号 | I.Eleusis 97 | INSCRIPTION | 古希腊 | 321/0 BCE | SOURCE_BACKED |
 | text.greek.iliad | 伊利亚特 | Iliad | EPIC | 古希腊 | Archaic Greece | UNVERIFIED |
 | text.greek.odyssey | 奥德赛 | Odyssey | EPIC | 古希腊 | Archaic Greece | UNVERIFIED |
 | text.greek.orphic_hymns | 俄耳甫斯赞歌 | Orphic Hymns | TEXT | 古希腊 | Roman imperial period | UNVERIFIED |
-| text.greek.theogony | 神谱 | Theogony | EPIC | 古希腊 | Archaic Greece | UNVERIFIED |
+| text.greek.apollodorus_library | 伪阿波罗多洛斯《书库》 | Pseudo-Apollodorus, Library | TEXT | 古希腊 | Commonly dated to the first or second century CE | PARTIAL |
+| text.greek.theogony | 神谱 | Theogony | EPIC | 古希腊 | Archaic Greece | PARTIAL |
 | text.greek.works_days | 工作与时日 | Works and Days | EPIC | 古希腊 | Archaic Greece | UNVERIFIED |
 | text.roman.aeneid | 埃涅阿斯纪 | Aeneid | EPIC | 古罗马 | Late first century BCE | UNVERIFIED |
 | text.roman.metamorphoses | 变形记 | Metamorphoses | EPIC | 古罗马 | Early Roman Empire | UNVERIFIED |

@@ -699,6 +699,9 @@ code {
 .legend-node { width: 10px; height: 10px; border: 1px solid var(--gold); border-radius: 50%; }
 
 .thunder-view { padding: clamp(18px, 3vw, 42px); overflow: hidden; }
+.comparison-tabs { display: flex; gap: 8px; margin-bottom: 14px; overflow-x: auto; scrollbar-width: thin; }
+.comparison-tabs button { flex: 0 0 auto; padding: 9px 13px; border: 1px solid var(--border); background: rgba(4, 18, 30, .72); color: #8499a7; cursor: pointer; font: inherit; font-size: .68rem; }
+.comparison-tabs button[aria-current="page"] { border-color: var(--gold); color: var(--gold-bright); background: rgba(201,154,82,.09); }
 .thunder-hero {
   position: relative;
   display: grid;

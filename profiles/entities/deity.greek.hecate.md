@@ -22,7 +22,8 @@ Daughter of Asteria and Perses who receives extensive honors in Hesiod; a torch-
 |---|---|---|---:|---:|---|
 | `APPEARS_IN` | 《荷马颂歌·致得墨忒耳》 (`text.greek.homeric_hymn_demeter`) | VERIFIED / TEXT_SAYS / TEXTUAL_WITNESS | 1 | 0.99 | stored claim; `claim.v040.hecate.appears_hymn2` |
 | `CHILD_OF` | 阿斯忒里亚 (`deity.greek.asteria`) | VERIFIED / TEXT_SAYS / MYTHIC_NARRATIVE | 1 | 0.99 | inferred inverse; `claim.v040.asteria.parent_hecate` |
-| `CHILD_OF` | 珀耳塞斯 (`deity.greek.perses`) | VERIFIED / TEXT_SAYS / MYTHIC_NARRATIVE | 1 | 0.99 | inferred inverse; `claim.v040.perses.parent_hecate` |
+| `CHILD_OF` | 珀耳塞斯（提坦） (`deity.greek.perses`) | VERIFIED / TEXT_SAYS / MYTHIC_NARRATIVE | 1 | 0.99 | inferred inverse; `claim.v040.perses.parent_hecate` |
+| `CHILD_OF` | 珀耳塞斯（提坦） (`deity.greek.perses`) | VERIFIED / TEXT_SAYS / MYTHIC_NARRATIVE | 1 | 0.99 | inferred inverse; `claim.v090.perses_parent_hecate_apollodorus` |
 | `MENTIONED_IN` | 神谱 (`text.greek.theogony`) | VERIFIED / TEXT_SAYS / TEXTUAL_WITNESS | 1 | 0.99 | stored claim; `claim.v040.hecate.mentioned_theogony` |
 
 ## Claims 与证据

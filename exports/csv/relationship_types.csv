@@ -11,11 +11,13 @@ CAUSED,CAUSED_BY,caused,导致,EVENT,0,
 CAUSED_BY,CAUSED,caused by,由……导致,EVENT,0,
 CHILD_OF,PARENT_OF,child of,子女／后代,KINSHIP,0,
 COMPARABLE_TO,COMPARABLE_TO,comparable to,可比较但不等同,COMPARISON,1,
+COMPOSITE_EXPRESSION_OF,HAS_COMPOSITE_EXPRESSION,composite expression of,复合／融合表达,IDENTITY,0,A dated or witness-scoped divine combination. It does not merge the component records.
 CONSORT_OF,CONSORT_OF,consort of,配偶／伴侣,KINSHIP,1,
 CO_INVOKED_WITH,CO_INVOKED_WITH,co-invoked with,共同受誓言援引,RITUAL,1,"Two entities named together in a source; does not imply enmity, identity, or a reconstructed cosmic opposition."
 CREATED_BY,CREATOR_OF,created by,由……创造,CREATION,0,
 CREATOR_OF,CREATED_BY,creator of,创造者,CREATION,0,
 DEATHPLACE_OF,DIED_IN,deathplace of,死亡地点,PLACE,0,
+DEDICATED_TO,HAS_DEDICATION,dedicated to,奉献给,CULT,0,"A text, object or monument records a dedication; this does not imply ownership."
 DEFEATED,DEFEATED_BY,defeated,击败,CONFLICT,0,
 DEFEATED_BY,DEFEATED,defeated by,被……击败,CONFLICT,0,
 DEPICTED_ON,DEPICTS,depicted on,描绘于,OBJECT,0,
@@ -32,8 +34,12 @@ FINDSPOT_OF,EXCAVATED_AT,findspot of,出土地,OBJECT,0,
 FREED,FREED_BY,freed,释放,CONFLICT,0,
 FREED_BY,FREED,freed by,被……释放,CONFLICT,0,
 HAS_APPEARANCE_OF,APPEARS_IN,has appearance of,包含形象／角色,TEXT,0,
+HAS_COMPOSITE_EXPRESSION,COMPOSITE_EXPRESSION_OF,has composite expression,具有复合表达,IDENTITY,0,Inverse of COMPOSITE_EXPRESSION_OF.
+HAS_DEDICATION,DEDICATED_TO,has dedication,接受奉献,CULT,0,Inverse of DEDICATED_TO.
 HAS_ELEMENT,ELEMENT_OF,has element,包含元素,CLASSIFICATION,0,
+HAS_LATER_COPY,LATER_COPY_OF,has later copy,具有后世摹本／复制品,OBJECT,0,Inverse of LATER_COPY_OF.
 HAS_MEMBER,MEMBER_OF,has member,包含成员,CLASSIFICATION,0,
+HAS_PART,PART_OF,has part,包含组成部分,STRUCTURE,0,Inverse of PART_OF.
 HAS_PARTICIPANT,PARTICIPATED_IN,has participant,参与者,EVENT,0,
 HAS_VARIANT,VARIANT_OF,has variant,具有变体,IDENTITY,0,
 HELD_BY_MUSEUM,HOLDS,held by museum,由博物馆收藏,OBJECT,0,
@@ -44,6 +50,7 @@ IMPRISONED_BY,IMPRISONED,imprisoned by,被……囚禁,CONFLICT,0,
 INHABITED_BY,LIVES_IN,inhabited by,居住者,PLACE,0,
 KILLED,KILLED_BY,killed,杀死,CONFLICT,0,
 KILLED_BY,KILLED,killed by,被……杀死,CONFLICT,0,
+LATER_COPY_OF,HAS_LATER_COPY,later copy of,后世摹本／复制品,OBJECT,0,A later object copies or closely reproduces an earlier work; the records remain distinct.
 LATER_EQUIVALENT_OF,EARLIER_COUNTERPART_OF,later equivalent of,后世对应,IDENTITY,0,
 LIVES_IN,INHABITED_BY,lives in,居住于,PLACE,0,
 MEMBER_OF,HAS_MEMBER,member of,属于体系,CLASSIFICATION,0,
@@ -54,10 +61,13 @@ OWNED_BY,OWNS,owned by,属于,POSSESSION,0,
 OWNS,OWNED_BY,owns,拥有,POSSESSION,0,
 PARENT_OF,CHILD_OF,parent of,父母／亲代,KINSHIP,0,
 PARTICIPATED_IN,HAS_PARTICIPANT,participated in,参与事件,EVENT,0,
+PART_OF,HAS_PART,part of,属于／构成部分,STRUCTURE,0,Structural containment; not identity.
 PROTECTED,PROTECTED_BY,protected,保护,ASSOCIATION,0,
 PROTECTED_BY,PROTECTED,protected by,受……保护,ASSOCIATION,0,
+RECEIVED_RITES_FROM,REVEALED_RITES_TO,received rites from,从……获授仪式,MYTH,0,Inverse of REVEALED_RITES_TO.
 REPRESENTED_BY,REPRESENTS,represented by,被……象征,SYMBOL,0,
 REPRESENTS,REPRESENTED_BY,represents,代表／象征,SYMBOL,0,
+REVEALED_RITES_TO,RECEIVED_RITES_FROM,revealed rites to,向……揭示仪式,MYTH,0,A source-bounded mythic statement that one figure disclosed rites to another.
 RULED_BY,RULES,ruled by,由……统治,PLACE,0,
 RULES,RULED_BY,rules,统治,PLACE,0,
 SIBLING_OF,SIBLING_OF,sibling of,兄弟姐妹,KINSHIP,1,
