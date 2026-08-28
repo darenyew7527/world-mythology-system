@@ -1,0 +1,161 @@
+name: Publish v0.24.0 sealed checkpoint
+
+on:
+  push:
+    branches: [main]
+    paths: [.github/workflows/publish-v024.yml]
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: publish-v024
+  cancel-in-progress: false
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v6
+        with:
+          fetch-depth: 0
+
+      - name: Reassemble and verify sealed source tree
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          set -euo pipefail
+          archive=/tmp/world-mythology-v024-source.tar.gz
+          : > "$archive"
+          while IFS= read -r sha; do
+            curl -fsSL \
+              -H "Authorization: Bearer $GH_TOKEN" \
+              -H "Accept: application/vnd.github+json" \
+              "$GITHUB_API_URL/repos/$GITHUB_REPOSITORY/git/blobs/$sha" \
+              | jq -r '.content' | tr -d '\n' | base64 --decode >> "$archive"
+          done <<'BLOB_SHAS'
+92876f64aa45a3e9165920b15fa4f380b921e469
+8b1f40a8ee3a423b7b08ec942d9de5608883da3a
+9f619970eec8fb86dde76864653a24b2e7ba4472
+a239e24bf731f12a63d455c76f1a8c1e6715d0b8
+91ad31b940a3a51face5baf507bd259f7ddcfb29
+16e99095e8bf998b4d0b88fe4151c65fd8ab1325
+48bfe92143fba808c49eb8f23a059e68b6347258
+ebcf585ac09b0b771355a41f53570c2e75ffdf7a
+a8f590009d81fb31500d4b7ea89c330182f10709
+c6409df37f34e1e817cd8ee638c7f7474ed04b5d
+71ea77be36116f9c84f18dbc5d20e07d7c7588db
+28eba4ba441a7bbdf9fc044ba1345a894112a782
+70310f0461fe3a57d4e8aa36f8c835dd35117f6a
+eac9b23e0a6c34284006320c6780216806cf0f09
+5c36567205a95bc8fc72cde5bf352a0d644e8361
+e67b1836c0c0797ea6aa2eba76321cf8cfd3758d
+e27f250c66a3e7178bbca78f27146df6dfb2fbac
+6cfacb973cd52544c08de16ca6c207ce7b5a5db5
+ddcba7b1f5985446bea058adb7868a8ff5cbb1ef
+ab366b6337686e2defc7fa74427d16287c5a9323
+fd1f02c5ee79128691dcf8d11ac913216e367584
+9d6ec8f06094db33a237f847fad32804e2a5ac68
+ff6423060c934ba056e7d65dbe3e6979c589669a
+e66240e1b3abf7548213e41832aa675e9251a288
+39f823f7e8da1a438952071f5648e8daf89a5b91
+04a4c0c933994fc1f6a6d6a12927d725988fcb59
+250d2a84edaae08c997e3d5ef828cbeec81fc980
+5b10579520a33dd10aad4756ad11ab6afd8a9646
+3a02d917983b5b80302b56881316ae107b273cea
+6701bf6a04119106525339cf2e0bdcc2c91d4ea8
+3be14dd1849d1ac5497a5bd14bb1a4f810bbb1c1
+3b701f26280053372f2c0591e2a3cd981d4a16b5
+3acc113e8756c24f210e306d29c95f2db49e0119
+ec246fb730cc97a88c6abec419ba4bd1fcaf8bdc
+61715d0ee53983b9a8640dc7ec0f5ae15b858791
+9d4bafd8a40f70111dfb79c6749576d7802f7ee1
+66a7c3f076c1963c4a2563467a407f2834bed091
+9deb011ee2a55c2e6f635ff60921820a12b68cec
+df96140918c9c233c5bb2b14ee2dfc1cbef90c27
+b226cd1600d0106576554cdbfe2769dbad32498b
+26d3167451d1e1ce3e6cc3028b674655a22d4f2c
+130d3f5a8dfaf96eb6879b3d1bc620b7c560d966
+ddbf85b766b1538a4270aefb35e9b7a8d03499fc
+b9c58feca313c759e26b4785c3c5cdd3c4b456c7
+7e5be936454bff0293787129954f1899aa1a4708
+36a4131339413321e587cec05ff2e44190ca4569
+8f0aa54a322816c6fb2f504bcad92ed413ecd2de
+978c42acbc616ea53b2afe43b2c4900ffd0a9bcf
+71591a1ad39ca1c95f4b32a1ba3be445b0c23b1c
+2cead0f01c544031244f387a4e47187d2d233743
+09e40223dc11974e41785717333908d2d1db7a6f
+133cf2bc821734fd7f20c9037546a8e73c2ecada
+18622a5c7b3bdb4daa610c23c53fb401b364ee2a
+833b89f10e162af4f51d84ad07152401a9bbfa11
+3019239b60e7e775b793a7cc1068925471372a7a
+a041fdfef42bdf5f0cd4df82e9d069397acdd9f1
+BLOB_SHAS
+          echo "5ccb61af246e77b5c0ec0e09c7dd0877b848211a24e104d63047b702500d49b4  $archive" | sha256sum -c -
+          mkdir -p /tmp/world-mythology-v024-source
+          tar -xzf "$archive" -C /tmp/world-mythology-v024-source
+          rsync -a --delete --exclude='.git/' /tmp/world-mythology-v024-source/ ./
+          git add -A
+          test "$(git write-tree)" = "b672d8ff277549ddfd470ff1068bbcd4c14ab312"
+
+      - uses: actions/setup-python@v6
+        with:
+          python-version: "3.11"
+
+      - uses: actions/setup-node@v6
+        with:
+          node-version: "24"
+          cache: npm
+          cache-dependency-path: web/package-lock.json
+
+      - name: Verify database, tests, privacy and production build
+        run: |
+          set -euo pipefail
+          python3 -m unittest discover -s tests -v
+          python3 scripts/privacy_release_check.py
+          npm --prefix web ci
+          npm --prefix web run build
+          git add -A
+          test "$(git write-tree)" = "b672d8ff277549ddfd470ff1068bbcd4c14ab312"
+
+      - name: Publish main and v0.24.0 tag
+        run: |
+          set -euo pipefail
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -m "发布 v0.24.0：Explorer 2.0 证据工作台 / Release v0.24.0 Explorer 2.0 evidence workbench"
+          git tag -a v0.24.0 -m "World Mythology System v0.24.0"
+          git push origin HEAD:main refs/tags/v0.24.0
+
+      - name: Build and publish GitHub Release assets
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          set -euo pipefail
+          release_dir=/tmp/world-mythology-v024-release
+          mkdir -p "$release_dir"
+          bundle="$release_dir/World_Mythology_System_v0.24.0_explorer2_evidence_workbench.git.bundle"
+          sqlite="$release_dir/world_mythology_v0.24.0.sqlite"
+          zip="$release_dir/World_Mythology_System_v0.24.0_20260828.zip"
+          git bundle create "$bundle" --all
+          cp database/world_mythology.sqlite "$sqlite"
+          python3 scripts/build_release_package.py --output "$zip" --bundle "$bundle"
+          gh release create v0.24.0 "$zip" "$bundle" "$sqlite" \
+            --repo "$GITHUB_REPOSITORY" \
+            --verify-tag \
+            --title "World Mythology System v0.24.0 — Explorer 2.0 Evidence Workbench" \
+            --notes-file RELEASE_NOTES_v0.24.0.md
+
+      - name: Upload GitHub Pages artifact
+        uses: actions/upload-pages-artifact@v5
+        with:
+          path: web/dist
+
+      - name: Deploy GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v5
