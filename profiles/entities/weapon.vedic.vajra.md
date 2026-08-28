@@ -18,7 +18,10 @@
 |---|---|---|---:|---:|---|
 | `APPEARS_IN` | 梨俱吠陀 (`text.vedic.rigveda`) | VERIFIED / TEXT_SAYS / TEXTUAL_WITNESS | 1 | 0.99 | stored claim; `claim.v060.vedic.vajra_appears_rigveda` |
 | `CREATED_BY` | 陀湿多 (`deity.vedic.tvastr`) | VERIFIED / TEXT_SAYS / MYTHIC_NARRATIVE | 1 | 0.99 | inferred inverse; `claim.v060.vedic.tvastr_created_vajra` |
+| `MEMBER_OF` | vajra／金刚杵文本与物质接受层 (`concept.south_asia.vajra_reception_layers`) | VERIFIED / SCHOLARLY_INTERPRETATION / SCHOLARLY_INTERPRETATION | 1 | 0.99 | inferred inverse; `claim.v0220.network_weapon` |
+| `MENTIONED_IN` | 《梨俱吠陀》1.32见证 (`text.vedic.rigveda.1_32`) | VERIFIED / TEXT_SAYS / TEXTUAL_WITNESS | 1 | 0.99 | inferred inverse; `claim.v0220.rv_vajra` |
 | `USED_BY` | 因陀罗 (`deity.vedic.indra`) | VERIFIED / TEXT_SAYS / MYTHIC_NARRATIVE | 1 | 0.99 | inferred inverse; `claim.v060.vedic.indra_uses_vajra` |
+| `USED_BY` | 因陀罗 (`deity.vedic.indra`) | VERIFIED / TEXT_SAYS / MYTHIC_NARRATIVE | 1 | 0.98 | inferred inverse; `claim.v0220.indra_uses` |
 
 ## Claims 与证据
 

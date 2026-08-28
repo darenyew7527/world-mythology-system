@@ -18,6 +18,9 @@
 
 ## Claims 与证据
 
-尚无 claim；实体仅为发现/索引入口。
+- `claim.v0230.maori_io` [VERIFIED / IN_TRADITION / 0.99] The public synthesis explicitly notes that not all tribes have an Io tradition.
+  - 来源：[Māori creation traditions](https://teara.govt.nz/en/maori-creation-traditions)；定位：Public authority or named curated synthesis; access policy adds a precautionary project rule
+- `claim.v0230.maori_many` [VERIFIED / IN_TRADITION / 0.99] Te Ara states that Māori have many creation traditions and that tribes tell different versions.
+  - 来源：[Māori creation traditions](https://teara.govt.nz/en/maori-creation-traditions)；定位：Public authority or named curated synthesis; access policy adds a precautionary project rule
 
 > 本档案只代表当前阶段性基线，不是对该传统的最终或唯一解释。

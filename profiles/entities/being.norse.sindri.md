@@ -22,6 +22,7 @@ Name associated in later/reference traditions with Brokkr’s smith brother; not
 
 ## Claims 与证据
 
-尚无 claim；实体仅为发现/索引入口。
+- `claim.v0190.sindri_reading` [PROVISIONAL / SCHOLARLY_INTERPRETATION / 0.70] Sindri is preserved as a separate record for the manuscript-name problem.
+  - 来源：[Snorri Sturluson: Edda. Skáldskaparmál](https://vsnr.org/editions/snorri-sturluson-edda-skaldskaparmal/)；定位：Skáldskaparmál edition and notes
 
 > 本档案只代表当前阶段性基线，不是对该传统的最终或唯一解释。

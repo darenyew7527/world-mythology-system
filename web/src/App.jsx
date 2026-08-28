@@ -3,6 +3,7 @@ import ContributeView from './components/ContributeView.jsx'
 import EntityDetail from './components/EntityDetail.jsx'
 import EntityList from './components/EntityList.jsx'
 import EvidenceView from './components/EvidenceView.jsx'
+import ExplorerWorkbench from './components/ExplorerWorkbench.jsx'
 import { Filters, MobileFilters } from './components/Filters.jsx'
 import GraphView from './components/GraphView.jsx'
 import Header from './components/Header.jsx'
@@ -25,6 +26,13 @@ const FEATURED_IDS = [
   'deity.yoruba.orunmila',
 ]
 
+const VALID_VIEWS = new Set(['explore', 'workbench', 'graph', 'thunder', 'evidence', 'progress', 'contribute'])
+
+const readQueryView = () => {
+  const view = new URL(window.location.href).searchParams.get('view')
+  return VALID_VIEWS.has(view) ? view : 'explore'
+}
+
 const readHashEntity = () => {
   const match = window.location.hash.match(/^#entity=(.+)$/)
   return match ? decodeURIComponent(match[1]) : null
@@ -36,7 +44,7 @@ export default function App() {
   const [data, setData] = useState(null)
   const [error, setError] = useState(null)
   const [language, setLanguage] = useState(() => window.localStorage.getItem('wms-language') || 'zh')
-  const [activeView, setActiveView] = useState('explore')
+  const [activeView, setActiveView] = useState(readQueryView)
   const [query, setQuery] = useState('')
   const [typeFilter, setTypeFilter] = useState('ALL')
   const [civilizationFilter, setCivilizationFilter] = useState('ALL')
@@ -71,6 +79,12 @@ export default function App() {
     }
     window.addEventListener('hashchange', onHashChange)
     return () => window.removeEventListener('hashchange', onHashChange)
+  }, [])
+
+  useEffect(() => {
+    const onPopState = () => setActiveView(readQueryView())
+    window.addEventListener('popstate', onPopState)
+    return () => window.removeEventListener('popstate', onPopState)
   }, [])
 
   const entityById = useMemo(() => {
@@ -119,10 +133,19 @@ export default function App() {
     if (options.openMobile !== false) setMobileDetailOpen(true)
   }, [entityById])
 
+  const navigate = useCallback((view) => {
+    if (!VALID_VIEWS.has(view)) return
+    setActiveView(view)
+    const url = new URL(window.location.href)
+    if (view === 'explore') url.searchParams.delete('view')
+    else url.searchParams.set('view', view)
+    window.history.pushState(null, '', url)
+  }, [])
+
   const openEntity = useCallback((id) => {
     selectEntity(id)
-    setActiveView('explore')
-  }, [selectEntity])
+    navigate('explore')
+  }, [navigate, selectEntity])
 
   const resetFilters = () => {
     setTypeFilter('ALL')
@@ -156,7 +179,7 @@ export default function App() {
         copy={copy}
         language={language}
         menuOpen={menuOpen}
-        onNavigate={setActiveView}
+        onNavigate={navigate}
         onToggleLanguage={() => setLanguage((current) => current === 'zh' ? 'en' : 'zh')}
         onToggleMenu={() => setMenuOpen((current) => !current)}
       />
@@ -212,12 +235,22 @@ export default function App() {
               language={language}
               mobileOpen={mobileDetailOpen}
               onCloseMobile={() => setMobileDetailOpen(false)}
-              onNavigate={setActiveView}
+              onNavigate={navigate}
               onSelect={(id) => selectEntity(id)}
             />
           </main>
           {mobileDetailOpen && <button aria-label={copy.close} className="mobile-scrim" type="button" onClick={() => setMobileDetailOpen(false)} />}
         </>
+      )}
+
+      {activeView === 'workbench' && (
+        <ExplorerWorkbench
+          data={data}
+          entity={selectedEntity}
+          language={language}
+          onNavigate={navigate}
+          onSelect={(id) => selectEntity(id, { openMobile: false })}
+        />
       )}
 
       {activeView === 'graph' && (

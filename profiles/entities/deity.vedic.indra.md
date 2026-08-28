@@ -22,11 +22,15 @@
 |---|---|---|---:|---:|---|
 | `ASSOCIATED_WITH` | 雷 (`concept.comparative.thunder`) | VERIFIED / TEXT_SAYS / MYTHIC_NARRATIVE | 1 | 0.98 | stored claim; `claim.v060.vedic.indra_thunder_scope` |
 | `KILLED` | 弗栗多 (`creature.vedic.vritra`) | VERIFIED / TEXT_SAYS / MYTHIC_NARRATIVE | 1 | 0.99 | stored claim; `claim.v060.vedic.indra_killed_vrtra` |
+| `MENTIONED_IN` | 《梨俱吠陀》1.32见证 (`text.vedic.rigveda.1_32`) | VERIFIED / TEXT_SAYS / TEXTUAL_WITNESS | 1 | 0.99 | inferred inverse; `claim.v0220.rv_indra` |
 | `PARTICIPATED_IN` | 因陀罗与弗栗多之战（《梨俱吠陀》1.32） (`event.vedic.indra_vritra_rv132`) | VERIFIED / TEXT_SAYS / MYTHIC_NARRATIVE | 1 | 0.99 | stored claim; `claim.v060.vedic.indra_participated_vrtra_event` |
 | `USES` | 金刚杵／雷霆 (`weapon.vedic.vajra`) | VERIFIED / TEXT_SAYS / MYTHIC_NARRATIVE | 1 | 0.99 | stored claim; `claim.v060.vedic.indra_uses_vajra` |
+| `USES` | 金刚杵／雷霆 (`weapon.vedic.vajra`) | VERIFIED / TEXT_SAYS / MYTHIC_NARRATIVE | 1 | 0.98 | stored claim; `claim.v0220.indra_uses` |
 
 ## Claims 与证据
 
+- `claim.v0220.indra_uses` [VERIFIED / TEXT_SAYS / 0.98] In RV 1.32, Indra is associated with wielding the vajra against Vṛtra.
+  - 来源：[Rigveda Shakala Samhita, Mandala 1, Sukta 32](https://vedicheritage.gov.in/samhitas/rigveda/shakala-samhita/rigveda-shakala-samhitas-mandal-01-sukta-032/)；定位：Registered text passage or museum catalogue
 - `claim.v060.vedic.indra_killed_vrtra` [VERIFIED / TEXT_SAYS / 0.99] Rigveda 1.32 narrates Indra killing Vrtra, also designated as a serpent in the hymn.
   - 来源：[Rigveda Shakala Samhita, Mandala 1, Sukta 32](https://vedicheritage.gov.in/samhitas/rigveda/shakala-samhita/rigveda-shakala-samhitas-mandal-01-sukta-032/)；定位：RV 1.32.1-15
 - `claim.v060.vedic.indra_participated_vrtra_event` [VERIFIED / TEXT_SAYS / 0.99] Indra is the principal agent in the witness-specific RV 1.32 event record.

@@ -195,6 +195,7 @@ def build_snapshot(database_path: Path) -> dict[str, Any]:
         )
 
     conflicts_by_entity: dict[str, list[dict[str, Any]]] = defaultdict(list)
+    public_conflicts: list[dict[str, Any]] = []
     for row in _rows(
         connection,
         """
@@ -208,21 +209,25 @@ def build_snapshot(database_path: Path) -> dict[str, Any]:
         ORDER BY f.subject_id, f.id
         """,
     ):
+        subject = entity_lookup.get(row["subject_id"], {})
+        conflict_item = {
+            "id": row["id"],
+            "subjectId": _clean(row["subject_id"]),
+            "subjectName": _clean(subject.get("canonical_name")),
+            "subjectNameZh": _clean(subject.get("name_zh")),
+            "variantGroup": _clean(row["variant_group"]),
+            "conflictType": _clean(row["conflict_type"]),
+            "status": _clean(row["status"]),
+            "summary": _clean(row["summary"]),
+            "resolutionNotes": _clean(row["resolution_notes"]),
+            "claimAId": _clean(row["claim_a_id"]),
+            "claimAStatement": _clean(row["claim_a_statement"]),
+            "claimBId": _clean(row["claim_b_id"]),
+            "claimBStatement": _clean(row["claim_b_statement"]),
+        }
+        public_conflicts.append(conflict_item)
         if row["subject_id"]:
-            conflicts_by_entity[row["subject_id"]].append(
-                {
-                    "id": row["id"],
-                    "variantGroup": _clean(row["variant_group"]),
-                    "conflictType": _clean(row["conflict_type"]),
-                    "status": _clean(row["status"]),
-                    "summary": _clean(row["summary"]),
-                    "resolutionNotes": _clean(row["resolution_notes"]),
-                    "claimAId": _clean(row["claim_a_id"]),
-                    "claimAStatement": _clean(row["claim_a_statement"]),
-                    "claimBId": _clean(row["claim_b_id"]),
-                    "claimBStatement": _clean(row["claim_b_statement"]),
-                }
-            )
+            conflicts_by_entity[row["subject_id"]].append(conflict_item)
 
     claim_lookup = {
         row["id"]: row
@@ -471,6 +476,176 @@ def build_snapshot(database_path: Path) -> dict[str, Any]:
         """,
     )
 
+    release_history = [
+        {
+            "id": row["id"],
+            "schemaVersion": row["schema_version"],
+            "dataVersion": row["data_version"],
+            "gitCommit": _clean(row["git_commit"]),
+            "builtAt": row["built_at"],
+            "databaseSha256": _clean(row["database_sha256"]),
+            "releaseNotes": _clean(row["release_notes"]),
+        }
+        for row in _rows(
+            connection,
+            """
+            SELECT id, schema_version, data_version, git_commit, built_at,
+                   database_sha256, release_notes
+            FROM dataset_releases
+            ORDER BY built_at, id
+            """,
+        )
+    ]
+
+    explorer_features = [
+        {
+            "code": row["feature_code"],
+            "titleZh": row["title_zh"],
+            "titleEn": row["title_en"],
+            "group": row["feature_group"],
+            "dataBasis": row["data_basis"],
+            "evidenceCaveat": row["evidence_caveat"],
+            "status": row["status"],
+            "introducedIn": row["introduced_in"],
+            "displayOrder": row["display_order"],
+            "updatedAt": row["updated_at"],
+            "notes": _clean(row["notes"]),
+        }
+        for row in _rows(
+            connection,
+            "SELECT * FROM explorer_feature_registry ORDER BY display_order, feature_code",
+        )
+    ]
+
+    access_policies = [
+        {
+            "id": row["id"],
+            "entityId": row["entity_id"],
+            "sourceId": _clean(row["source_id"]),
+            "authorityName": row["authority_name"],
+            "communityContext": _clean(row["community_context"]),
+            "accessLevel": row["access_level"],
+            "permittedScope": row["permitted_scope"],
+            "prohibitedScope": row["prohibited_scope"],
+            "attributionRequirement": _clean(row["attribution_requirement"]),
+            "permissionProcess": _clean(row["permission_contact_or_process"]),
+            "policyBasis": row["policy_basis"],
+            "reviewedAt": row["reviewed_at"],
+            "notes": _clean(row["notes"]),
+        }
+        for row in _rows(
+            connection,
+            "SELECT * FROM tradition_access_policies ORDER BY access_level, entity_id, id",
+        )
+    ]
+
+    real_place_profiles = [
+        row
+        for row in _rows(
+            connection,
+            """
+            SELECT p.entity_id, p.place_type, p.modern_name, p.country_code,
+                   p.latitude, p.longitude, p.date_range, p.reality_status,
+                   p.evidence_grade, e.canonical_name, e.name_zh,
+                   e.primary_civilization_id, c.canonical_name AS civilization_name,
+                   c.name_zh AS civilization_name_zh
+            FROM place_profiles p
+            JOIN entities e ON e.id=p.entity_id
+            LEFT JOIN civilizations c ON c.id=e.primary_civilization_id
+            WHERE p.reality_status IN ('REAL_ARCHAEOLOGICAL','REAL_SACRED','REAL_HISTORIC')
+            ORDER BY COALESCE(e.name_zh,e.canonical_name),e.id
+            """,
+        )
+    ]
+    map_places = [
+        {
+            "entityId": row["entity_id"],
+            "canonicalName": row["canonical_name"],
+            "nameZh": _clean(row["name_zh"]),
+            "placeType": row["place_type"],
+            "modernName": _clean(row["modern_name"]),
+            "countryCode": _clean(row["country_code"]),
+            "latitude": row["latitude"],
+            "longitude": row["longitude"],
+            "dateRange": _clean(row["date_range"]),
+            "realityStatus": row["reality_status"],
+            "evidenceGrade": row["evidence_grade"],
+            "civilizationId": _clean(row["primary_civilization_id"]),
+            "civilizationName": _clean(row["civilization_name"]),
+            "civilizationNameZh": _clean(row["civilization_name_zh"]),
+        }
+        for row in real_place_profiles
+        if row["latitude"] is not None
+        and row["longitude"] is not None
+        and row["evidence_grade"] not in (None, "UNASSESSED", "BASELINE_METADATA")
+    ]
+
+    source_values = list(public_sources.values())
+    source_quality = {
+        "total": len(source_values),
+        "evidenceTierCounts": dict(sorted(Counter(str(item["evidenceTier"]) for item in source_values).items())),
+        "verificationStatusCounts": dict(sorted(Counter(item["verificationStatus"] or "UNKNOWN" for item in source_values).items())),
+        "sourceTypeCounts": dict(sorted(Counter(item["sourceType"] or "UNKNOWN" for item in source_values).items())),
+        "rightsStatusCounts": dict(sorted(Counter(item["rightsStatus"] or "UNSPECIFIED" for item in source_values).items())),
+        "livingTraditionSources": sum(1 for item in source_values if item["livingTradition"]),
+        "communityPermissionRequired": sum(1 for item in source_values if item["communityPermissionRequired"]),
+    }
+
+    queue_priority_bands = Counter()
+    for item in queue:
+        if item["priority"] >= 80:
+            queue_priority_bands["HIGH_80_100"] += 1
+        elif item["priority"] >= 50:
+            queue_priority_bands["MEDIUM_50_79"] += 1
+        else:
+            queue_priority_bands["LOW_0_49"] += 1
+
+    claims_by_civilization: Counter[str] = Counter()
+    evidence_by_civilization: Counter[str] = Counter()
+    evidenced_entities_by_civilization: dict[str, set[str]] = defaultdict(set)
+    for claim in public_claims:
+        subject = entity_lookup.get(claim["subjectId"])
+        civilization_id = subject and subject.get("primary_civilization_id")
+        if not civilization_id:
+            continue
+        claims_by_civilization[civilization_id] += 1
+        evidence_by_civilization[civilization_id] += len(claim["evidence"])
+        if claim["evidence"]:
+            evidenced_entities_by_civilization[civilization_id].add(claim["subjectId"])
+
+    conflicts_by_civilization: Counter[str] = Counter()
+    for conflict in public_conflicts:
+        subject = entity_lookup.get(conflict["subjectId"])
+        civilization_id = subject and subject.get("primary_civilization_id")
+        if civilization_id:
+            conflicts_by_civilization[civilization_id] += 1
+    queue_by_civilization = Counter(item["civilization_id"] for item in queue if item["civilization_id"])
+
+    coverage_by_civilization = []
+    for civilization in civilizations:
+        entity_count = civilization["entityCount"]
+        if entity_count == 0:
+            continue
+        civilization_id = civilization["id"]
+        evidenced_count = len(evidenced_entities_by_civilization.get(civilization_id, set()))
+        coverage_by_civilization.append(
+            {
+                "civilizationId": civilization_id,
+                "canonicalName": civilization["canonicalName"],
+                "nameZh": civilization["nameZh"],
+                "entityCount": entity_count,
+                "evidencedEntityCount": evidenced_count,
+                "evidencedEntityRate": round(evidenced_count / entity_count, 4),
+                "claimCount": claims_by_civilization[civilization_id],
+                "evidenceCount": evidence_by_civilization[civilization_id],
+                "conflictCount": conflicts_by_civilization[civilization_id],
+                "queueCount": queue_by_civilization[civilization_id],
+            }
+        )
+    coverage_by_civilization.sort(
+        key=lambda item: (-item["claimCount"], -item["entityCount"], item["canonicalName"])
+    )
+
     comparisons: list[dict[str, Any]] = []
     for comparison in _rows(
         connection,
@@ -526,7 +701,7 @@ def build_snapshot(database_path: Path) -> dict[str, Any]:
 
     snapshot = {
         "meta": {
-            "projectVersion": "0.10.0-japanese-thunder-local-dossiers",
+            "projectVersion": "0.24.0-explorer2-evidence-workbench",
             "datasetRelease": release,
             "generatedFrom": "database/world_mythology.sqlite",
             "completionClaim": (
@@ -555,8 +730,31 @@ def build_snapshot(database_path: Path) -> dict[str, Any]:
         "entities": entities,
         "claims": public_claims,
         "sources": sorted(public_sources.values(), key=lambda item: (item["title"] or "", item["id"])),
+        "conflicts": public_conflicts,
         "queue": queue,
         "comparisons": comparisons,
+        "accessPolicies": access_policies,
+        "explorerFeatures": explorer_features,
+        "analytics": {
+            "map": {
+                "places": map_places,
+                "eligibleRealPlaceCount": len(real_place_profiles),
+                "coordinateBackedCount": len(map_places),
+                "missingCoordinateCount": len(real_place_profiles) - len(map_places),
+                "projection": "EQUIRECTANGULAR_SCHEMATIC",
+                "coordinatePolicy": "Explicit, non-baseline, real-place coordinates only; no inferred locations.",
+            },
+            "releaseHistory": release_history,
+            "sourceQuality": source_quality,
+            "coverageByCivilization": coverage_by_civilization,
+            "queueProgress": {
+                "statusCounts": dict(sorted(queue_status_counts.items())),
+                "priorityBands": dict(sorted(queue_priority_bands.items())),
+                "total": len(queue),
+                "interpretation": "Permanent research queue; BASELINE_COMPLETE is a bounded checkpoint, not global completion.",
+            },
+            "accessPolicyCounts": dict(sorted(Counter(item["accessLevel"] for item in access_policies).items())),
+        },
     }
     connection.close()
     return snapshot

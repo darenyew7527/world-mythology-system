@@ -20,6 +20,7 @@
 
 | Relation | Target | Review / layer | Evidence | Confidence | Direction |
 |---|---|---|---:|---:|---|
+| `MENTIONED_IN` | 《山城国风土记》贺茂残片 (`text.japan.yamashiro_fudoki_kamo_fragment`) | VERIFIED / TEXT_SAYS / TEXTUAL_WITNESS | 1 | 0.98 | inferred inverse; `claim.v0180.fragment_mentions_hono` |
 | `PARENT_OF` | 贺茂别雷大神 (`deity.japanese.kamo_wakeikazuchi`) | VERIFIED / SCHOLARLY_INTERPRETATION / TEXTUAL_WITNESS | 1 | 0.92 | stored claim; `claim.v0100.hono_parent_kamo` |
 
 ## Claims 与证据

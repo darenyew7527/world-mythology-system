@@ -23,9 +23,12 @@
 | `CHILD_OF` | 狄俄涅 (`deity.greek.dione`) | VERIFIED / TEXT_SAYS / MYTHIC_NARRATIVE | 1 | 0.99 | stored claim; `claim.v050.iliad5.aphrodite_child_dione` |
 | `CHILD_OF` | 宙斯 (`deity.greek.zeus`) | VERIFIED / TEXT_SAYS / MYTHIC_NARRATIVE | 1 | 0.98 | stored claim; `claim.v050.iliad14.aphrodite_child_zeus` |
 | `MENTIONED_IN` | 《荷马颂歌·致阿佛洛狄忒》（第5首） (`text.greek.homeric_hymn_aphrodite_5`) | VERIFIED / TEXT_SAYS / TEXTUAL_WITNESS | 1 | 1.00 | inferred inverse; `claim.v050.h5.text_mentions_aphrodite` |
+| `WORSHIPPED_AT` | 达夫尼阿佛洛狄忒圣所 (`site.greece.sacred_way_aphrodite_daphne`) | VERIFIED / HISTORICAL_REALITY / ARCHAEOLOGICAL | 1 | 0.98 | stored claim; `claim.v0170.aphrodite_worship` |
 
 ## Claims 与证据
 
+- `claim.v0170.aphrodite_worship` [VERIFIED / HISTORICAL_REALITY / 0.98] Offerings and inscriptions identify worship of Aphrodite at the Daphne sanctuary.
+  - 来源：[Ancient Iera Odos (Sacred Way)](https://www.efada.gr/en-us/Archaeological-Sites-Monuments/-Catalogue-of-Sites-Monuments/ancient-iera-odos-sacred-way-municipalities-of-egaleo-chaidari-aspropyrgos-elefsina)；定位：Official object, site or museum record cited in claim notes
 - `claim.v050.h5.aphrodite_domain` [VERIFIED / TEXT_SAYS / 0.98] The opening of Homeric Hymn 5 describes Aphrodite’s influence and explicitly names goddesses outside it.
   - 来源：[Homeric Hymn 5 to Aphrodite, Evelyn-White English text](https://scaife.perseus.org/library/urn%3Acts%3AgreekLit%3Atlg0013.tlg005/)；定位：lines 1-33
 - `claim.v050.iliad14.aphrodite_child_zeus` [VERIFIED / TEXT_SAYS / 0.98] Iliad 14 refers to Aphrodite as a daughter of Zeus.

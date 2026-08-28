@@ -646,6 +646,41 @@ JOIN relationship_types rt ON rt.code = r.relationship_type
 WHERE r.source_entity_id <> r.target_entity_id
   AND (rt.is_symmetric = 1 OR rt.inverse_code IS NOT NULL);
 
+CREATE TABLE IF NOT EXISTS tradition_access_policies (
+    id TEXT PRIMARY KEY,
+    entity_id TEXT NOT NULL REFERENCES entities(id) ON DELETE CASCADE,
+    source_id TEXT REFERENCES sources(id),
+    authority_name TEXT NOT NULL,
+    community_context TEXT,
+    access_level TEXT NOT NULL
+        CHECK(access_level IN ('PUBLIC_CONTEXT','ATTRIBUTION_REQUIRED','PERMISSION_REQUIRED','DO_NOT_COLLECT')),
+    permitted_scope TEXT NOT NULL,
+    prohibited_scope TEXT NOT NULL,
+    attribution_requirement TEXT,
+    permission_contact_or_process TEXT,
+    policy_basis TEXT NOT NULL,
+    reviewed_at TEXT NOT NULL,
+    notes TEXT
+);
+CREATE INDEX IF NOT EXISTS idx_tradition_access_entity ON tradition_access_policies(entity_id);
+CREATE INDEX IF NOT EXISTS idx_tradition_access_level ON tradition_access_policies(access_level);
+
+CREATE TABLE IF NOT EXISTS explorer_feature_registry (
+    feature_code TEXT PRIMARY KEY,
+    title_zh TEXT NOT NULL,
+    title_en TEXT NOT NULL,
+    feature_group TEXT NOT NULL,
+    data_basis TEXT NOT NULL,
+    evidence_caveat TEXT NOT NULL,
+    status TEXT NOT NULL CHECK(status IN ('ACTIVE','LIMITED','PENDING')),
+    introduced_in TEXT NOT NULL,
+    display_order INTEGER NOT NULL DEFAULT 0,
+    updated_at TEXT NOT NULL,
+    notes TEXT
+);
+CREATE INDEX IF NOT EXISTS idx_explorer_feature_order
+    ON explorer_feature_registry(display_order, feature_code);
+
 CREATE VIEW IF NOT EXISTS claim_evidence_summary AS
 SELECT c.id AS claim_id,
        c.subject_id,

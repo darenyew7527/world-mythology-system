@@ -25,6 +25,10 @@
 
 ## Claims 与证据
 
+- `claim.v0230.sango_policy` [VERIFIED / SCHOLARLY_INTERPRETATION / 1.00] The festival dossier uses public, attributed and permission-required access levels.
+  - 来源：[Sango Festival, Oyo](https://ich.unesco.org/en/RL/sango-festival-oyo-01974?RL=01974)；定位：Public authority or named curated synthesis; access policy adds a precautionary project rule
+- `claim.v0230.sango_registry` [VERIFIED / HISTORICAL_REALITY / 0.99] The public festival and safeguarding context may be recorded with attribution.
+  - 来源：[Sango Festival, Oyo](https://ich.unesco.org/en/RL/sango-festival-oyo-01974?RL=01974)；定位：Public authority or named curated synthesis; access policy adds a precautionary project rule
 - `claim.v060.yoruba.festival_associated_koso` [VERIFIED / IN_TRADITION / 0.98] The UNESCO public dossier connects the Oyo Sango Festival with Koso Temple.
   - 来源：[Sango Festival, Oyo](https://ich.unesco.org/en/RL/sango-festival-oyo-01974?RL=01974)；定位：ICH 01974
 

@@ -21,6 +21,7 @@
 | Relation | Target | Review / layer | Evidence | Confidence | Direction |
 |---|---|---|---:|---:|---|
 | `HOLDS` | 大厄琉息斯浮雕126号 (`museum.nam.great_eleusinian_relief_126`) | VERIFIED / HISTORICAL_REALITY / ARCHAEOLOGICAL | 1 | 0.99 | inferred inverse; `claim.v080.relief126_held_nam` |
+| `HOLDS` | 宁尼翁陶板 A11036 (`museum.nam.ninnion_tablet_a11036`) | VERIFIED / HISTORICAL_REALITY / ARCHAEOLOGICAL | 1 | 0.99 | inferred inverse; `claim.v0170.ninnion_held` |
 
 ## Claims 与证据
 

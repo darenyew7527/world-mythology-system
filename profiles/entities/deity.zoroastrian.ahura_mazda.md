@@ -14,7 +14,9 @@
 
 ## 关系网络
 
-当前无关系边；保留为研究缺口。
+| Relation | Target | Review / layer | Evidence | Confidence | Direction |
+|---|---|---|---:|---:|---|
+| `MENTIONED_IN` | DSab 三语楔形文字铭文 (`text.persia.dsab`) | VERIFIED / TEXT_SAYS / TEXTUAL_WITNESS | 1 | 0.98 | inferred inverse; `claim.v0130.dsab_mentions_ahuramazda` |
 
 ## Claims 与证据
 

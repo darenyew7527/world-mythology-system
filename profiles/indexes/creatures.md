@@ -2,6 +2,7 @@
 
 | ID | 中文 | English | Type | Civilization | Detail/Status | Evidence |
 |---|---|---|---|---|---|---|
+| creature.akkadian.anzu | 阿卡德《安祖神话》中的安祖 | Anzu of the Akkadian myth | MONSTER | 阿卡德 | PARTIAL | SOURCE_BACKED |
 | being.chinese.pangu | 盘古 | Pangu | GIANT | 中国上古神话 | PARTIAL | UNVERIFIED |
 | creature.greek.cyclopes_hesiodic | 赫西俄德传统独眼巨人 | Hesiodic Cyclopes | GIANT | 古希腊 | DISCOVERED | SOURCE_BACKED |
 | creature.greek.typhon | 提丰 | Typhon | MONSTER | 古希腊 | PARTIAL | SOURCE_BACKED |

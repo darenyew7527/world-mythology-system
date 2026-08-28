@@ -1,7 +1,21 @@
 id,generated_at,baseline_label,summary
 coverage.20260810.baseline,2026-08-10T00:00:00Z,0.1.0 first-round seed baseline,当前公开可发现资料的阶段性知识基线已经建立，并且系统可以继续扩张。
 coverage.release.0.10.0,2026-08-23T03:54:57Z,0.10.0-japanese-thunder-local-dossiers-20260823,当前公开可发现资料的阶段性知识基线已经建立，并且系统可以继续扩张。
+coverage.release.0.11.0,2026-08-24T03:38:52Z,0.11.0-ptah-sokar-osiris-objects-20260824,当前公开可发现资料的阶段性知识基线已经建立，并且系统可以继续扩张。
+coverage.release.0.12.0,2026-08-25T03:17:09Z,0.12.0-ra-atum-witness-layers-20260825,当前公开可发现资料的阶段性知识基线已经建立，并且系统可以继续扩张。
+coverage.release.0.13.0,2026-08-26T03:22:42Z,0.13.0-darius-statue-inscriptions-20260826,当前公开可发现资料的阶段性知识基线已经建立，并且系统可以继续扩张。
+coverage.release.0.14.0,2026-08-27T03:37:42Z,0.14.0-darius-statue-provenance-20260827,当前公开可发现资料的阶段性知识基线已经建立，并且系统可以继续扩张。
+coverage.release.0.15.0,2026-08-27T08:41:21Z,0.15.0-darius-text-witnesses-20260827,当前公开可发现资料的阶段性知识基线已经建立，并且系统可以继续扩张。
+coverage.release.0.16.0,2026-08-27T08:53:09Z,0.16.0-darius-archaeological-chain-20260827,当前公开可发现资料的阶段性知识基线已经建立，并且系统可以继续扩张。
+coverage.release.0.17.0,2026-08-27T08:56:55Z,0.17.0-eleusis-network-20260827,当前公开可发现资料的阶段性知识基线已经建立，并且系统可以继续扩张。
+coverage.release.0.18.0,2026-08-27T09:01:33Z,0.18.0-japanese-thunder-witnesses-20260827,当前公开可发现资料的阶段性知识基线已经建立，并且系统可以继续扩张。
+coverage.release.0.19.0,2026-08-27T09:08:55Z,0.19.0-norse-witness-graph-20260827,当前公开可发现资料的阶段性知识基线已经建立，并且系统可以继续扩张。
 coverage.release.0.2.0,2026-08-13T05:06:50Z,0.2.0-expansion-20260811,当前公开可发现资料的阶段性知识基线已经建立，并且系统可以继续扩张。
+coverage.release.0.20.0,2026-08-27T22:30:45Z,0.20.0-ancient-near-east-witnesses-20260827,当前公开可发现资料的阶段性知识基线已经建立，并且系统可以继续扩张。
+coverage.release.0.21.0,2026-08-27T22:35:43Z,0.21.0-chinese-semantic-layers-20260827,当前公开可发现资料的阶段性知识基线已经建立，并且系统可以继续扩张。
+coverage.release.0.22.0,2026-08-27T22:39:08Z,0.22.0-vajra-reception-layers-20260827,当前公开可发现资料的阶段性知识基线已经建立，并且系统可以继续扩张。
+coverage.release.0.23.0,2026-08-27T22:42:14Z,0.23.0-living-tradition-permissions-20260827,当前公开可发现资料的阶段性知识基线已经建立，并且系统可以继续扩张。
+coverage.release.0.24.0,2026-08-28T04:04:52Z,0.24.0-explorer2-evidence-workbench-20260827,当前公开可发现资料的阶段性知识基线已经建立，并且系统可以继续扩张。
 coverage.release.0.4.0,2026-08-14T01:06:45Z,0.4.0-greek-genealogy-20260814,当前公开可发现资料的阶段性知识基线已经建立，并且系统可以继续扩张。
 coverage.release.0.5.0,2026-08-14T03:29:24Z,0.5.0-greek-primary-profiles-20260814,当前公开可发现资料的阶段性知识基线已经建立，并且系统可以继续扩张。
 coverage.release.0.5.1,2026-08-14T04:33:16Z,0.5.1-mobile-graph-hotfix-20260814,当前公开可发现资料的阶段性知识基线已经建立，并且系统可以继续扩张。

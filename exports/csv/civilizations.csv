@@ -12,11 +12,15 @@ civ.babylonian,Babylonian,巴比伦,,civ.akkadian,region.west_asia,CIVILIZATION,
 civ.baltic,Baltic,波罗的海,,,region.eastern_europe,TRADITION_FAMILY,,,,DISCOVERED,UNVERIFIED
 civ.bhutanese,Bhutanese,不丹,,,region.south_asia,TRADITION_FAMILY,,,,DISCOVERED,UNVERIFIED
 civ.buddhist,Buddhist,佛教传统,,,region.south_asia,RELIGIOUS_TRADITION,,,,DISCOVERED,UNVERIFIED
+civ.buddhist_chinese,Chinese Buddhist traditions,中国佛教传统,,civ.buddhist,region.east_asia,REGIONAL_TRADITION,,,Regional umbrella for separately dated Chinese Buddhist witnesses.,PARTIAL,SOURCE_BACKED
+civ.buddhist_himalayan,Himalayan Buddhist traditions,喜马拉雅佛教传统,,civ.buddhist,region.south_asia,REGIONAL_TRADITION,,,Regional umbrella for separately dated Himalayan Buddhist witnesses.,PARTIAL,SOURCE_BACKED
+civ.buddhist_indian,Indian Buddhist traditions,印度佛教传统,,civ.buddhist,region.south_asia,REGIONAL_TRADITION,,,Regional umbrella for Indian Buddhist witnesses; object dossiers remain separate.,PARTIAL,SOURCE_BACKED
 civ.burmese,Burmese Traditions,缅甸传统,,,region.southeast_asia,TRADITION_FAMILY,,,,DISCOVERED,UNVERIFIED
 civ.canaanite,Canaanite,迦南,,,region.west_asia,TRADITION_FAMILY,,,,DISCOVERED,UNVERIFIED
 civ.celtic,Celtic,凯尔特,,,region.europe,TRADITION_FAMILY,,,,COLLECTING,PARTIAL
 civ.central_african,Central African Traditions,中非传统,,,region.central_africa,TRADITION_FAMILY,,,,DISCOVERED,UNVERIFIED
 civ.central_asian,Central Asian,中亚,,,region.central_asia,TRADITION_FAMILY,,,,DISCOVERED,UNVERIFIED
+civ.chinese,Chinese traditions — cross-period umbrella,中国传统跨时期总类,中國傳統,,region.east_asia,CROSS_PERIOD_RESEARCH_UMBRELLA,,,"Navigation umbrella for cross-period comparisons; it does not replace Ancient Chinese, Daoist, folk or local civilization dossiers.",PARTIAL,SOURCE_BACKED
 civ.chinese_ancient,Ancient Chinese,中国上古神话,,,region.east_asia,TRADITION_FAMILY,,,,COLLECTING,PARTIAL
 civ.chinese_folk,Chinese Folk Religion,中国民间信仰,,,region.east_asia,TRADITION_FAMILY,,,,COLLECTING,PARTIAL
 civ.chinese_local,Chinese Local Traditions,中国地方神系,,civ.chinese_folk,region.east_asia,TRADITION_FAMILY,,,,DISCOVERED,UNVERIFIED

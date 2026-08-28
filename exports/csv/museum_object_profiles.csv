@@ -1,15 +1,25 @@
 entity_id,holding_institution,catalogue_number,object_type,provenance,date_range,acquisition_notes
 museum.babylon.flood_tablet_k3375,British Museum,K.3375,CUNEIFORM_TABLET,,,
 museum.bm.khepri_hymn_stela_ea826,British Museum,EA826,Stela with solar hymn,Egypt,,Catalogue record retained
+museum.bm.vajra_1948_0716_11_b,British Museum,"1948,0716.11.b",Buddhist ritual vajra,Museum catalogue scope,Date pending fuller catalogue audit,Official British Museum object record.
 museum.egypt.papyrus_ani_frame3,British Museum,"EA10470,3",PAPYRUS,,,
 museum.greek.zeus_poseidon_met_21_88_52,Metropolitan Museum of Art,21.88.52,BRONZE_STATUETTE,,,
+museum.iran.darius_susa_statue,National Museum of Iran,Susa Darius statue,Egyptian-style inscribed stone statue,Found at Susa; made in Egypt according to the registered scholarly synthesis,"Reign of Darius I, 522-486 BCE",Displayed at the National Museum of Iran; exact inventory number remains queued and is not inferred from secondary records
 museum.japan.sotatsu_wind_thunder_screens,Kyoto National Museum catalogue; owned by Kennin-ji Temple,National Treasure; Kennin-ji pair,PAIR_OF_TWO_FOLD_SCREENS,"Kennin-ji Temple, Kyoto","Edo period, 17th century",Official catalogue states ink and color on gold-foiled paper; no image is packaged.
 museum.met.amun_re_scarab_09_180_953,The Metropolitan Museum of Art,09.180.953,Faience scarab,Lisht North cemetery debris; MMA excavations,ca. 1300-1080 BCE,"Rogers Fund, 1909"
 museum.met.eleusinian_relief_14_130_9,The Metropolitan Museum of Art,14.130.9,MARBLE_RELIEF_FRAGMENTS,"Roman copy fragments, set in a cast of the Greek original",ca. 27 BCE-14 CE,Official museum catalogue; public-domain object media is not packaged.
 museum.met.nauny_book_dead_30_3_31,The Metropolitan Museum of Art,30.3.31,"Papyrus, paint","Thebes, Deir el-Bahri, Tomb TT358",ca. 1050 BCE,"MMA excavations, 1928-29; Rogers Fund, 1930"
+museum.met.pso_21_9_1abc,The Metropolitan Museum of Art,21.9.1a-c,"Hollow wood, paste, gilding and painted funerary figure",Egypt,332-30 BCE,"Gift of Edward S. Harkness, 1921"
+museum.met.pso_28_3_48,The Metropolitan Museum of Art,28.3.48,"Wood, gesso and painted funerary figure","Thebes, el-Khokha, Tomb MMA 832, Pit 1; MMA excavations 1914-15",ca. 721-664 BCE,"Rogers Fund, 1928"
+museum.met.pso_34_9,The Metropolitan Museum of Art,34.9,"Wood, paint and paste funerary figure",Egypt,664-332 BCE,"Gift of W. Ruloff Kip, 1934"
+museum.met.pso_contents_21_9_1d,The Metropolitan Museum of Art,21.9.1d,Linen and mud contents,Removed from figure 21.9.1a-c,305-30 BCE,"Gift of Edward S. Harkness, 1921"
 museum.met.ra_horakhty_amulet_74_51_4497,The Metropolitan Museum of Art,74.51.4497,Faience amulet,Egypt,664-334 BCE,"Cesnola Collection, purchased by subscription, 1874-76"
 museum.met.ra_horakhty_stela_oc81,The Metropolitan Museum of Art,O.C.81,Wooden stela with gesso and paint,Egypt,ca. 721-664 BCE,"Gift of James Douglas, 1890"
+museum.met.vajra_1994_605_43,Metropolitan Museum of Art,1994.605.43,Five-pronged gilt-bronze vajra ritual instrument,China,Tang dynasty (618–907),"Charlotte C. and John C. Weber Collection, gift 1994."
 museum.nam.great_eleusinian_relief_126,"National Archaeological Museum, Athens",126,MARBLE_RELIEF,Found at Eleusis,ca. 440-430 BCE,Official museum collection record; images not packaged.
+museum.nam.ninnion_tablet_a11036,"National Archaeological Museum, Athens",A11036,Clay votive tablet,Dedicated to the sanctuary at Eleusis,Classical period; exact date expansion remains queued,Official museum page identifies Ninnion as dedicator; iconographic identifications beyond the page remain interpretive.
 museum.norse.mjolnir_rings,Swedish History Museum,107837_HST; 108686_HST,AMULET_COLLECTION,,,
+museum.rubin.vajra_sc2022_3_2_1,Rubin Museum of Himalayan Art,SC2022.3.2.1,Metal vajra ritual scepter,Tibet,18th century,Gift from the Collection of Jane Werner-Aye.
+museum.tnm.korin_wind_thunder_a11189_1,Tokyo National Museum,A-11189-1,Pair of folding screens; color on gold-leafed paper,Japan,"Edo period, eighteenth century",Official TNM and ColBase records; separate from Sōtatsu original and Hōitsu research record.
 museum.ugarit.baal_cycle_ao16643,Musée du Louvre,AO 16643 / RS 3.361 / KTU 1.1,CUNEIFORM_TABLET,,,
 museum.ugarit.baal_thunder_ao15775,Musée du Louvre,AO 15775 / RS 4.427,STELE,,,

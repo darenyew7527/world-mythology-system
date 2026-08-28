@@ -21,6 +21,7 @@
 | Relation | Target | Review / layer | Evidence | Confidence | Direction |
 |---|---|---|---:|---:|---|
 | `KILLED_BY` | 因陀罗 (`deity.vedic.indra`) | VERIFIED / TEXT_SAYS / MYTHIC_NARRATIVE | 1 | 0.99 | inferred inverse; `claim.v060.vedic.indra_killed_vrtra` |
+| `MENTIONED_IN` | 《梨俱吠陀》1.32见证 (`text.vedic.rigveda.1_32`) | VERIFIED / TEXT_SAYS / TEXTUAL_WITNESS | 1 | 0.99 | inferred inverse; `claim.v0220.rv_vritra` |
 | `PARTICIPATED_IN` | 因陀罗与弗栗多之战（《梨俱吠陀》1.32） (`event.vedic.indra_vritra_rv132`) | VERIFIED / TEXT_SAYS / MYTHIC_NARRATIVE | 1 | 0.99 | stored claim; `claim.v060.vedic.vrtra_participated_event` |
 
 ## Claims 与证据

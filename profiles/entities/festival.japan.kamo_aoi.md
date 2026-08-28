@@ -30,5 +30,13 @@
   - 来源：[Kamo Festival](https://www.kamigamojinja.jp/en/rituals/kamo-festival/)；定位：Kamo Festival public description
 - `claim.v0100.festival_site` [VERIFIED / HISTORICAL_REALITY / 0.99] The public Kamo Festival procession and rites culminate at Kamigamo Jinja.
   - 来源：[Kamo Festival](https://www.kamigamojinja.jp/en/rituals/kamo-festival/)；定位：Kamo Festival public description
+- `claim.v0180.festival_chokusai807` [VERIFIED / HISTORICAL_REALITY / 0.98] The official shrine history dates chokusai status to 807.
+  - 来源：[Kamo Festival](https://www.kamigamojinja.jp/en/rituals/kamo-festival/)；定位：Authority record and scoped summary
+- `claim.v0180.festival_revival1953` [VERIFIED / HISTORICAL_REALITY / 0.99] The official shrine history records the postwar procession revival in 1953.
+  - 来源：[Kamo Festival](https://www.kamigamojinja.jp/en/rituals/kamo-festival/)；定位：Authority record and scoped summary
+- `claim.v0180.festival_saio810` [VERIFIED / HISTORICAL_REALITY / 0.97] The official shrine page gives a distinct historical Saio phase from 810 to 1212.
+  - 来源：[Kamo Festival](https://www.kamigamojinja.jp/en/rituals/kamo-festival/)；定位：Authority record and scoped summary
+- `claim.v0180.festival_saiodai1956` [VERIFIED / HISTORICAL_REALITY / 0.99] The official shrine history distinguishes the 1956 Saiodai addition from ancient Saio practice.
+  - 来源：[Kamo Festival](https://www.kamigamojinja.jp/en/rituals/kamo-festival/)；定位：Authority record and scoped summary
 
 > 本档案只代表当前阶段性基线，不是对该传统的最终或唯一解释。

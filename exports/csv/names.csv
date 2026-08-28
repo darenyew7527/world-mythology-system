@@ -1025,6 +1025,93 @@ name.v0100.taketsunumi.en,deity.japanese.kamo_taketsunumi,Kamo Taketsunumi no Mi
 name.v0100.taketsunumi.jpn,deity.japanese.kamo_taketsunumi,賀茂建角身命,賀茂建角身命,lang.jpn,Kanji,ORIGINAL,,1,source.japanese.kamo_genealogy.kokugakuin,
 name.v0100.tamayori.en,deity.japanese.tamayorihime_kamo,Tamayorihime (Kamo tradition),tamayorihime kamo,lang.en,Latin,PREFERRED,,1,source.japanese.tamayorihime.kokugakuin,Scoped to the Kamo genealogy.
 name.v0100.tamayori.jpn,deity.japanese.tamayorihime_kamo,玉依毘売命,玉依毘売命,lang.jpn,Kanji,ORIGINAL,,1,source.japanese.tamayorihime.kokugakuin,
+name.v0110.contents.en,museum.met.pso_contents_21_9_1d,Linen and mud from interior of Ptah-Sokar-Osiris figure,linen mud interior ptah sokar osiris figure,lang.en,Latin,PREFERRED,,1,source.egypt.pso.met.21_9_1d,Official catalogue title
+name.v0110.fig28.en,museum.met.pso_28_3_48,Ptah-Sokar-Osiris Figure of Pakherenkhonsu,ptah sokar osiris figure pakherenkhonsu,lang.en,Latin,PREFERRED,,1,source.egypt.pso.met.28_3_48,Official catalogue title
+name.v0110.fig34.en,museum.met.pso_34_9,Ptah-Sokar-Osiris Figure inscribed for Pestjauwymin,ptah sokar osiris figure pestjauwymin,lang.en,Latin,PREFERRED,,1,source.egypt.pso.met.34_9,Official catalogue title
+name.v0110.ihyt.en,museum.met.pso_21_9_1abc,Ptah-Sokar-Osiris Figure of the Temple Musician Ihyt,ptah sokar osiris figure temple musician ihyt,lang.en,Latin,PREFERRED,,1,source.egypt.pso.met.21_9_1abc,Official catalogue title
+name.v0110.pso.egy,deity.egyptian.ptah_sokar_osiris,ptḥ-skr-wsjr,ptḥ skr wsjr,lang.egy,Hieroglyphic transliteration,ORIGINAL,,1,source.egypt.pso.met.28_3_48,Conventional Egyptological transliteration
+name.v0110.pso.en,deity.egyptian.ptah_sokar_osiris,Ptah-Sokar-Osiris,ptah sokar osiris,lang.en,Latin,PREFERRED,,1,source.egypt.pso.met.28_3_48,Official catalogue form
+name.v0110.sokar.egy,deity.egyptian.sokar,skr,skr,lang.egy,Hieroglyphic transliteration,ORIGINAL,,1,source.egypt.pso.met.28_3_48,Conventional Egyptological transliteration
+name.v0110.sokar.en,deity.egyptian.sokar,Sokar,sokar,lang.en,Latin,PREFERRED,,1,source.egypt.pso.met.28_3_48,Component name in official catalogue
+name.v0120.atum_horakhty.egy,deity.egyptian.atum_horakhty,jtmw ḥr-ꜣḫty,jtmw ḥr ꜣḫty,lang.egy,Hieroglyphic transliteration,ORIGINAL,,1,source.egypt.book_dead15.ucl,Normalized from registered transliteration
+name.v0120.atum_horakhty.en,deity.egyptian.atum_horakhty,Atum-Horakhty,atum horakhty,lang.en,Latin,PREFERRED,,1,source.egypt.book_dead15.ucl,Digital-edition form
+name.v0120.atum_ra.egy,deity.egyptian.atum_ra,jtmw-rꜥ,jtmw rꜥ,lang.egy,Hieroglyphic transliteration,ORIGINAL,,1,source.egypt.late_period_temples.uee2026,Conventional transliteration; inscription-level edition remains queued
+name.v0120.atum_ra.en,deity.egyptian.atum_ra,Atum-Ra,atum ra,lang.en,Latin,PREFERRED,,1,source.egypt.late_period_temples.uee2026,Name order used by UEE v2
+name.v0120.bd15.en,text.egypt.book_dead_chapter15,Book of the Dead Chapter 15,book dead chapter 15,lang.en,Latin,PREFERRED,,1,source.egypt.book_dead15.ucl,Modern chapter label
+name.v0120.darius.en,historical.achaemenid.darius_i,Darius I,darius i,lang.en,Latin,PREFERRED,,1,source.egypt.late_period_temples.uee2026,
+name.v0120.hymnc.en,text.egypt.sun_hymn_standard_c_prime,Assmann Standard Hymn C-prime,assmann standard hymn c prime,lang.en,Latin,PREFERRED,,1,source.egypt.book_dead15.ucl,Scholarly hymn designation
+name.v0120.solarforms.en,concept.egyptian.rising_setting_solar_forms,Rising and setting solar forms,rising setting solar forms,lang.en,Latin,PREFERRED,,1,source.egypt.pakeshi_stela.met.90_6_30,"Comparison label, not ancient taxonomy"
+name.v0120.statue.en,museum.iran.darius_susa_statue,Egyptian Statue of Darius I from Susa,egyptian statue darius i susa,lang.en,Latin,PREFERRED,,1,source.iran.susa_darius.achemenet,Descriptive scholarly title
+name.v0130.dsab.akk.en,text.persia.dsab.akkadian,DSab Akkadian Version,dsab akkadian version,lang.en,Latin,DESCRIPTIVE,,1,source.persia.dsab.vallat1974,Language-witness label
+name.v0130.dsab.code,text.persia.dsab,DSab,dsab,lang.en,Latin,CATALOGUE_CODE,,1,source.persia.dsab.vallat1974,Standard Achaemenid inscription siglum
+name.v0130.dsab.elx.en,text.persia.dsab.elamite,DSab Elamite Version,dsab elamite version,lang.en,Latin,DESCRIPTIVE,,1,source.persia.dsab.vallat1974,Language-witness label
+name.v0130.dsab.en,text.persia.dsab,Trilingual Inscription of the Darius Statue,trilingual inscription darius statue,lang.en,Latin,DESCRIPTIVE,,0,source.persia.dsab.vallat1974,
+name.v0130.dsab.peo.en,text.persia.dsab.old_persian,DSab Old Persian Version,dsab old persian version,lang.en,Latin,DESCRIPTIVE,,1,source.persia.dsab.vallat1974,Language-witness label
+name.v0130.hieroglyphs.en,text.egypt.darius_susa_hieroglyphic_program,Five Hieroglyphic Texts of the Darius Statue,five hieroglyphic texts darius statue,lang.en,Latin,DESCRIPTIVE,,1,source.iranica.epigraphy_old_persian,"Corpus label, not an ancient title"
+name.v0130.province_list.en,text.egypt.darius_susa_hieroglyphic_province_list,Hieroglyphic Province List,hieroglyphic province list,lang.en,Latin,DESCRIPTIVE,,1,source.iranica.epigraphy_old_persian,Modern descriptive title
+name.v0130.subjects.en,concept.persia.darius_statue_subject_peoples,Darius Statue Subject Peoples,darius statue subject peoples,lang.en,Latin,DESCRIPTIVE,,1,source.iranica.susa_achaemenid,Modern comparison label with anti-anachronism guardrail
+name.v0140.discovery.en,event.archaeology.darius_statue_discovery_1972,Discovery of the Darius Statue at Susa (1972),discovery darius statue susa 1972,lang.en,Latin,DESCRIPTIVE,,1,source.iran.susa_darius_statue.achemenet,Modern archaeological event label.
+name.v0140.gate.en,site.iran.susa_darius_gate,Darius Gate,darius gate,lang.en,Latin,PREFERRED,,1,source.iran.susa_darius_gate.achemenet,
+name.v0140.nmi.en,institution.iran.national_museum,National Museum of Iran,national museum iran,lang.en,Latin,PREFERRED,,1,source.iran.susa_darius_statue.achemenet,
+name.v0140.nmi.zh,institution.iran.national_museum,伊朗国家博物馆,伊朗国家博物馆,lang.zh,Han,TRANSLATION,,1,,
+name.v0140.susa.en,site.iran.susa,Susa,susa,lang.en,Latin,PREFERRED,,1,source.iranica.susa_achaemenid,
+name.v0140.susa.zh,site.iran.susa,苏萨,苏萨,lang.zh,Han,TRANSLATION,,1,,
+name.v0140.transfer.en,event.persia.darius_statue_transfer_egypt_susa,Reconstructed Transfer of the Darius Statue to Susa,reconstructed transfer darius statue susa,lang.en,Latin,DESCRIPTIVE,,1,source.iranica.susa_achaemenid,Modern event label; reconstruction status must remain visible.
+name.v0140.xerxes.en,historical.achaemenid.xerxes_i,Xerxes I,xerxes i,lang.en,Latin,PREFERRED,,1,source.iranica.susa_achaemenid,Historical ruler; later namesakes remain separate.
+name.v0140.xerxes.oldpersian,historical.achaemenid.xerxes_i,Xsayarsa,xsayarsa,lang.peo,Latin transliteration,ORIGINAL_TRANSLITERATION,,1,source.iranica.susa_achaemenid,Conventional normalized transliteration without special characters.
+name.v0150.hiero1.en,text.egypt.darius_susa.hieroglyph_text_1,Darius Statue Hieroglyphic Text 1,darius statue hieroglyphic text 1,lang.en,Latin,DESCRIPTIVE,,1,source.egypt.darius_hieroglyphs.yoyotte1973,Modern editorial locator.
+name.v0150.hiero2.en,text.egypt.darius_susa.hieroglyph_text_2,Darius Statue Hieroglyphic Text 2,darius statue hieroglyphic text 2,lang.en,Latin,DESCRIPTIVE,,1,source.egypt.darius_hieroglyphs.yoyotte1973,Modern editorial locator.
+name.v0150.hiero3.en,text.egypt.darius_susa.hieroglyph_text_3,Darius Statue Hieroglyphic Text 3,darius statue hieroglyphic text 3,lang.en,Latin,DESCRIPTIVE,,1,source.egypt.darius_hieroglyphs.yoyotte1973,Modern editorial locator.
+name.v0150.hiero4.en,text.egypt.darius_susa.hieroglyph_text_4,Darius Statue Hieroglyphic Text 4,darius statue hieroglyphic text 4,lang.en,Latin,DESCRIPTIVE,,1,source.egypt.darius_hieroglyphs.yoyotte1973,Modern editorial locator.
+name.v0150.subjectleft.en,text.egypt.darius_susa.subject_list.left_twelve,Darius Statue Subject List — Left-side Twelve,darius statue subject list left side twelve,lang.en,Latin,DESCRIPTIVE,,1,source.persia.darius_subjects.roaf1974,Set-level record pending cartouche-level collation.
+name.v0150.subjectright.en,text.egypt.darius_susa.subject_list.right_twelve,Darius Statue Subject List — Right-side Twelve,darius statue subject list right side twelve,lang.en,Latin,DESCRIPTIVE,,1,source.iran.susa_darius_subjects.achemenet,Set-level record pending cartouche-level collation.
+name.v0160.dossier.fr,text.archaeology.darius_statue_susa_dossier_1972,Une statue de Darius découverte à Suse,une statue de darius decouverte a suse,lang.fra,Latin,ORIGINAL_TITLE,,1,source.biblio.tuebingen.darius_dossier1972,
+name.v0160.heliopolis.egy,site.egypt.heliopolis_atum_precinct,Iunu,iunu,lang.egy,Latin transliteration,HISTORICAL_NAME,,1,source.iranica.susa_achaemenid,Normalized transliteration.
+name.v0160.heliopolis.en,site.egypt.heliopolis_atum_precinct,Atum Precinct at Heliopolis,atum precinct heliopolis,lang.en,Latin,DESCRIPTIVE,,1,source.iranica.susa_achaemenid,Proposed itinerary role remains qualified.
+name.v0160.wadi.en,site.egypt.wadi_hammamat_quarries,Wadi Hammamat Quarries,wadi hammamat quarries,lang.en,Latin,DESCRIPTIVE,,1,source.iranica.susa_achaemenid,
+name.v0160.xsd,text.persia.xsd,XSd,xsd,lang.en,Latin,CATALOGUE_LABEL,,1,source.iran.susa_xsd.achemenet,Modern epigraphic siglum.
+name.v0170.aphrodite.en,site.greece.sacred_way_aphrodite_daphne,Sanctuary of Aphrodite at Daphne,sanctuary aphrodite daphne,lang.en,Latin,PREFERRED,,1,source.greek.sacred_way.efada,
+name.v0170.bridge.en,site.greece.sacred_way_roman_bridge,Roman Bridge over the Eleusinian Cephissus,roman bridge eleusinian cephissus,lang.en,Latin,DESCRIPTIVE,,1,source.greek.sacred_way.efada,
+name.v0170.ieleusis71,text.greek.ieleusis71,I.Eleusis 71,i eleusis 71,lang.en,Latin,CATALOGUE_LABEL,,1,source.greek.ieleusis71.phi,
+name.v0170.ieleusis72,text.greek.ieleusis72,I.Eleusis 72,i eleusis 72,lang.en,Latin,CATALOGUE_LABEL,,1,source.greek.ieleusis72.phi,
+name.v0170.ninnion.cat,museum.nam.ninnion_tablet_a11036,A11036,a11036,lang.en,Latin,CATALOGUE_LABEL,,0,source.greek.eleusinian_relief.nam126,National Archaeological Museum number.
+name.v0170.ninnion.en,museum.nam.ninnion_tablet_a11036,Ninnion Tablet,ninnion tablet,lang.en,Latin,PREFERRED,,1,source.greek.eleusinian_relief.nam126,
+name.v0170.reliefnetwork.en,concept.greek.eleusinian_relief_copy_network,Great Eleusinian Relief Copy Network,great eleusinian relief copy network,lang.en,Latin,DESCRIPTIVE,,1,source.greek.eleusinian_relief.met141309,Modern research label.
+name.v0180.fragment.jp,text.japan.yamashiro_fudoki_kamo_fragment,山城国風土記逸文,山城国風土記逸文,lang.jpn,Japanese,ORIGINAL_TITLE,,1,source.japanese.kamo_genealogy.kokugakuin,"Fragment, not a complete manuscript."
+name.v0180.hoitsu.jp,historical.japan.sakai_hoitsu,酒井抱一,酒井抱一,lang.jpn,Japanese,ORIGINAL,,1,source.japan.korin_hoitsu.emuseum,
+name.v0180.hoitsuwork.jp,modern_work.japan.hoitsu_wind_thunder_version,風神雷神図屏風,風神雷神図屏風 抱一版,lang.jpn,Japanese,DESCRIPTIVE,,1,source.japanese.raijin_screen.kyohaku,Work-level label; exact object record queued.
+name.v0180.karaijin,deity.japanese.karaijin,Karaijin,karaijin,lang.jpn,Latin transliteration,PREFERRED,,1,source.japanese.raijin.kokugakuin,Regional label; no automatic identity merge.
+name.v0180.korin.jp,historical.japan.ogata_korin,尾形光琳,尾形光琳,lang.jpn,Japanese,ORIGINAL,,1,source.japan.korin_wind_thunder.tnm,
+name.v0180.korinobject.jp,museum.tnm.korin_wind_thunder_a11189_1,風神雷神図屏風,風神雷神図屏風,lang.jpn,Japanese,ORIGINAL_TITLE,,1,source.japan.korin_wind_thunder.colbase,Catalogue A-11189-1.
+name.v0180.network.en,concept.japan.wind_thunder_screen_copy_network,Sōtatsu–Kōrin–Hōitsu Wind and Thunder Screen Network,sotatsu korin hoitsu wind thunder screen network,lang.en,Latin,DESCRIPTIVE,,1,source.japanese.raijin_screen.kyohaku,Modern research label.
+name.v0180.tnm.en,institution.japan.tokyo_national_museum,Tokyo National Museum,tokyo national museum,lang.en,Latin,PREFERRED,,1,source.japan.korin_wind_thunder.tnm,
+name.v0190.ask,person.norse.ask,Askr,askr,lang.non,Latin,ORIGINAL,,1,source.norse.poetic_edda.gks2365,
+name.v0190.embla,person.norse.embla,Embla,embla,lang.non,Latin,ORIGINAL,,1,source.norse.poetic_edda.gks2365,
+name.v0190.gylf,text.norse.gylfaginning.ch8_9,Gylfaginning 8–9,gylfaginning 8 9,lang.non,Latin,DESCRIPTIVE,,1,source.norse.gylfaginning.vsnr2005,
+name.v0190.hoenir,deity.norse.hoenir,Hœnir,hoenir,lang.non,Latin,ORIGINAL,,1,source.norse.poetic_edda.gks2365,Völuspá witness name.
+name.v0190.lodurr,deity.norse.lodurr,Lóðurr,lodurr,lang.non,Latin,ORIGINAL,,1,source.norse.poetic_edda.gks2365,Völuspá witness name.
+name.v0190.voluspa,text.norse.voluspa.st17_18,Völuspá 17–18,voluspa 17 18,lang.non,Latin,DESCRIPTIVE,,1,source.norse.poetic_edda.gks2365,
+name.v0200.anzu,creature.akkadian.anzu,Anzû,anzu,lang.akk,Latin transliteration,ORIGINAL,,1,source.mesopotamia.anzu_ninurta.oracc,
+name.v0200.dagan,deity.ugaritic.dagan,Dagnu,dagnu,lang.uga,Ugaritic alphabetic cuneiform,ORIGINAL,,1,source.ugaritic.baal_corpus.goettingen,Ugaritic witness scope.
+name.v0200.event,event.ugaritic.baal_mot_ktu15_16,Baal and Mot sequence in KTU 1.5–1.6,baal mot sequence ktu 1 5 1 6,lang.en,Latin,DESCRIPTIVE,,1,source.ugaritic.baal_corpus_ktu15_16.goettingen,
+name.v0200.identification,concept.mesopotamia.inanna_ishtar_identification,Inana–Ištar historical identification,inana istar historical identification,lang.en,Latin,DESCRIPTIVE,,1,source.mesopotamia.inanna_ishtar.oracc,"Research label, not an ancient divine name."
+name.v0200.ktu15,text.ugaritic.baal_cycle.ktu1_5,KTU 1.5,ktu 1 5,lang.uga,Modern catalogue label,CATALOGUE,,1,source.ugaritic.baal_corpus_ktu15_16.goettingen,
+name.v0200.ktu16,text.ugaritic.baal_cycle.ktu1_6,KTU 1.6,ktu 1 6,lang.uga,Modern catalogue label,CATALOGUE,,1,source.ugaritic.baal_corpus_ktu15_16.goettingen,
+name.v0200.ninurta,deity.akkadian.ninurta,Ninurta,ninurta,lang.akk,Latin transliteration,ORIGINAL,,1,source.mesopotamia.anzu_ninurta.oracc,
+name.v0210.cave249,site.chinese.mogao_cave_249,莫高窟第249窟,莫高窟 第249窟,lang.zh,Han characters,PREFERRED,,1,source.china.mogao_thunder.dunhuang,
+name.v0210.han_layer,concept.chinese.wuxing.han_correlative_omens,汉代五行灾异解释层,汉代 五行 灾异 解释层,lang.zh,Han characters,DESCRIPTIVE,,1,source.china.han_shu.wuxing_zhi.ctext,Modern research label.
+name.v0210.hanshu,text.chinese.hanshu.wuxing_omen_passage,漢書·五行志,漢書 五行志,lang.lzh,Han characters,DESCRIPTIVE,,1,source.china.han_shu.wuxing_zhi.ctext,
+name.v0210.hf_layer,concept.chinese.wuxing.hongfan_operations,《洪范》五行运动／功用层,洪范 五行 运动 功用层,lang.zh,Han characters,DESCRIPTIVE,,1,source.china.hong_fan.ctext,Modern research label.
+name.v0210.hongfan,text.chinese.hongfan.wuxing_passage,洪范·五行,洪范 五行,lang.lzh,Han characters,DESCRIPTIVE,,1,source.china.hong_fan.ctext,
+name.v0210.visual,concept.chinese.leigong.visual_witnesses,雷公／雷神图像见证层,雷公 雷神 图像 见证层,lang.zh,Han characters,DESCRIPTIVE,,1,source.china.mogao_thunder.dunhuang,Modern comparison label.
+name.v0220.bm,museum.bm.vajra_1948_0716_11_b,"vajra 1948,0716.11.b",vajra 1948 0716 11 b,lang.en,Latin,CATALOGUE,,1,source.bm.vajra.1948_0716_11_b,
+name.v0220.layers,concept.south_asia.vajra_reception_layers,Vajra textual and material reception layers,vajra textual material reception layers,lang.en,Latin,DESCRIPTIVE,,1,source.met.vajra.1994_605_43,Modern research label.
+name.v0220.met,museum.met.vajra_1994_605_43,唐 鎏金青銅金剛杵,唐 鎏金青銅 金剛杵,lang.zh,Han characters,CATALOGUE,,1,source.met.vajra.1994_605_43,
+name.v0220.rubin,institution.rubin_museum,Rubin Museum of Himalayan Art,rubin museum of himalayan art,lang.en,Latin,PREFERRED,,1,source.rubin.vajra.sc2022_3_2_1,
+name.v0220.rubinobj,museum.rubin.vajra_sc2022_3_2_1,Vajra SC2022.3.2.1,vajra sc2022 3 2 1,lang.en,Latin,CATALOGUE,,1,source.rubin.vajra.sc2022_3_2_1,
+name.v0220.rv,text.vedic.rigveda.1_32,ऋग्वेद १.३२,ऋग्वेद १ ३२,lang.san,Devanagari,ORIGINAL_TITLE,,1,source.vedic.rigveda.1_32.vhp,
+name.v0230.maori_scope,concept.maori.iwi_variant_scope,Māori iwi/hapū variant and attribution scope,maori iwi hapu variant attribution scope,lang.mai,Latin,DESCRIPTIVE,,1,source.maori.creation.teara,Modern project-governance label.
+name.v0230.yoruba_access,concept.yoruba.living_tradition_access,Yoruba living-tradition access governance,yoruba living tradition access governance,lang.en,Latin,DESCRIPTIVE,,1,source.yoruba.ifa.unesco,Modern project-governance label.
 name.v050.ares.grc,deity.greek.ares,Ἄρης,ἄρης,lang.grc,Greek,ORIGINAL,,1,source.greek.homeric_hymn_ares8.scaife,Ancient Greek name
 name.v050.artemis.grc,deity.greek.artemis,Ἄρτεμις,ἄρτεμις,lang.grc,Greek,ORIGINAL,,1,source.greek.homeric_hymn_artemis27.scaife,Ancient Greek name
 name.v050.athena.grc,deity.greek.athena,Ἀθηνᾶ,ἀθηνᾶ,lang.grc,Greek,ORIGINAL,,1,source.greek.homeric_hymn_athena28.scaife,Ancient Greek name

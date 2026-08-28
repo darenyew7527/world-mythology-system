@@ -23,6 +23,7 @@ Dwarf smith who works the bellows in the treasure-forging episode.
 | `CREATOR_OF` | 德罗普尼尔 (`artifact.norse.draupnir`) | PROVISIONAL / TEXT_SAYS / MYTHIC_NARRATIVE | 1 | 0.96 | stored claim; `claim.brokkr.creator_draupnir` |
 | `CREATOR_OF` | 金鬃野猪 (`creature.norse.gullinbursti`) | PROVISIONAL / TEXT_SAYS / MYTHIC_NARRATIVE | 1 | 0.96 | stored claim; `claim.brokkr.creator_gullinbursti` |
 | `CREATOR_OF` | 妙尔尼尔 (`weapon.norse.mjolnir`) | PROVISIONAL / TEXT_SAYS / MYTHIC_NARRATIVE | 1 | 0.96 | stored claim; `claim.brokkr.creator_mjolnir` |
+| `MENTIONED_IN` | 诗语法 (`text.norse.skaldskaparmal`) | VERIFIED / TEXT_SAYS / TEXTUAL_WITNESS | 1 | 0.99 | inferred inverse; `claim.v0190.skald_brokkr` |
 | `PARTICIPATED_IN` | 诸神宝物锻造 (`event.norse.forging_divine_treasures`) | PROVISIONAL / TEXT_SAYS / MYTHIC_NARRATIVE | 1 | 0.96 | stored claim; `claim.brokkr.participated_forging` |
 | `SIBLING_OF` | 艾特里 (`being.norse.eitri`) | PROVISIONAL / TEXT_SAYS / MYTHIC_NARRATIVE | 1 | 0.85 | stored claim; `claim.brokkr.sibling_eitri` |
 

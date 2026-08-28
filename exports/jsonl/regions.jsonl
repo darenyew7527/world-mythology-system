@@ -6,8 +6,10 @@
 {"canonical_name":"Eastern Europe","id":"region.eastern_europe","name_zh":"东欧","notes":null,"parent_id":"region.europe","region_type":"CULTURAL"}
 {"canonical_name":"Europe","id":"region.europe","name_zh":"欧洲","notes":null,"parent_id":"region.global","region_type":"CULTURAL"}
 {"canonical_name":"Global","id":"region.global","name_zh":"全球","notes":null,"parent_id":null,"region_type":"CULTURAL"}
+{"canonical_name":"Levant","id":"region.levant","name_zh":"黎凡特","notes":"Broad historical-geographic research region; individual sites remain distinct.","parent_id":"region.west_asia","region_type":"HISTORICAL_REGION"}
 {"canonical_name":"Mediterranean","id":"region.mediterranean","name_zh":"地中海","notes":null,"parent_id":"region.europe","region_type":"CULTURAL"}
 {"canonical_name":"Mesoamerica","id":"region.mesoamerica","name_zh":"中部美洲","notes":null,"parent_id":"region.north_america","region_type":"CULTURAL"}
+{"canonical_name":"Mesopotamia","id":"region.mesopotamia","name_zh":"美索不达米亚","notes":"Historical riverine region; not a modern-state equivalence.","parent_id":"region.west_asia","region_type":"HISTORICAL_REGION"}
 {"canonical_name":"North America","id":"region.north_america","name_zh":"北美洲","notes":null,"parent_id":"region.global","region_type":"CULTURAL"}
 {"canonical_name":"Northeast Africa","id":"region.northeast_africa","name_zh":"东北非洲","notes":null,"parent_id":"region.global","region_type":"CULTURAL"}
 {"canonical_name":"Northern Europe","id":"region.northern_europe","name_zh":"北欧","notes":null,"parent_id":"region.europe","region_type":"CULTURAL"}

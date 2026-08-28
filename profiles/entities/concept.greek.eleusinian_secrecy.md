@@ -21,6 +21,7 @@
 | Relation | Target | Review / layer | Evidence | Confidence | Direction |
 |---|---|---|---:|---:|---|
 | `ASSOCIATED_WITH` | 厄琉息斯秘仪 (`ritual.greek.eleusinian_mysteries`) | VERIFIED / TEXT_SAYS / TEXTUAL_WITNESS | 1 | 0.98 | inferred inverse; `claim.v080.mysteries_secrecy` |
+| `ASSOCIATED_WITH` | 宁尼翁陶板 A11036 (`museum.nam.ninnion_tablet_a11036`) | VERIFIED / SCHOLARLY_INTERPRETATION / SCHOLARLY_INTERPRETATION | 1 | 1.00 | inferred inverse; `claim.v0170.ninnion_secrecy_limit` |
 
 ## Claims 与证据
 

@@ -10,13 +10,25 @@ The repository contains a reproducible staged knowledge baseline, not a claim of
 
 The bilingual React explorer provides searchable entities, filters, relationship graphs, claims, evidence locators, sources, coverage, and the permanent research queue. Chinese is the default interface; English can be selected from the header.
 
-Current `v0.10.0-japanese-thunder-local-dossiers` checkpoint:
+Current `v0.24.0-explorer2-evidence-workbench` checkpoint:
 
-- 558 registered entities / 553 browsable canonical entities
-- 95 civilizations and traditions
-- 160 source records
-- 389 structured claims and 385 evidence records
-- 355 direct relationship assertions
+v0.24 adds Explorer 2.0: a coordinate-evidence map, exact dataset-release timeline, entity-to-claim-to-source witness graph, release and conflict comparison, four-dimensional evidence filters, source-quality metadata, research-density heatmap, permanent-queue progress, and living-tradition access-policy views. Coordinates and chronology are never inferred for presentation.
+
+v0.18 adds a distinct Karaijin dossier, the quoted Yamashiro Fudoki Kamo fragment, dated festival phases, Kōrin A-11189-1, and a non-merging Sōtatsu–Kōrin–Hōitsu reception network.
+
+v0.17 expands Eleusis with two additional inscriptions, Ninnion Tablet A11036, dated Sacred Way monuments, Telesterion phase scope, and an object-preserving relief-copy network.
+
+v0.16 adds the 1972 report dossier, XSd, official UNESCO Susa components, qualified Heliopolis and Wadi Hammamat links, and a transparent NMI 4112 authority gap.
+
+v0.15 decomposes the statue programme into four editorially numbered hieroglyphic witnesses and two twelve-unit subject-list side sets. Ancient labels, modern numbering, language witnesses, and modern geography remain separate.
+
+v0.14 adds Xerxes I, Susa, the Darius Gate, a qualified ancient-transfer reconstruction, the 1972 discovery event and the National Museum of Iran custody layer. Manufacture, transfer interpretation, find context, installation and modern custody remain distinct.
+
+- 635 registered entities / 630 browsable canonical entities
+- 99 civilizations and traditions
+- 203 source records
+- 605 structured claims and 601 evidence records
+- 479 direct relationship assertions
 - A bilingual genealogy mode for parents, children, siblings, consorts, and their evidence
 - An evidence-led comparison of Thor, Zeus, Indra, Raijin, Takemikazuchi, Leigong, the Leize thunder spirit, Perun, Ṣàngó, and Ugaritic Baʿlu/Haddu
 - Structured deity, artifact, text, place, creature, and event profiles in the entity view

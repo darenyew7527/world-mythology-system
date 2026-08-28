@@ -6,25 +6,29 @@
 
 | 指标 | 数量 |
 |---|---:|
-| 文明／传统 | 95 |
+| 文明／传统 | 99 |
 | 文化语境 | 18 |
-| 语言 | 22 |
-| 统一实体 | 558 |
+| 语言 | 25 |
+| 统一实体 | 635 |
 | 实体重定向／去重审计 | 5 |
-| 多类型分类 | 586 |
-| 名称与译名 | 1277 |
-| 来源 | 160 |
-| Claims | 389 |
-| Evidence | 385 |
-| 关系边（直接） | 355 |
-| 显式冲突 | 15 |
-| 永久研究队列 | 75 |
+| 多类型分类 | 663 |
+| 名称与译名 | 1364 |
+| 来源 | 203 |
+| Claims | 605 |
+| Evidence | 601 |
+| 关系边（直接） | 479 |
+| 显式冲突 | 32 |
+| 永久研究队列 | 109 |
 
-来源登记状态：`URL_SYNTAX_VALID` 160。
+来源登记状态：`URL_SYNTAX_VALID` 203。
 
 ## 直接打开这些文件
 
 - `database/world_mythology.sqlite`：事实核心数据库。
+- `RELEASE_NOTES_v0.14.0.md`：v0.14 苏萨大流士雕像发掘、转运、遗址与馆藏来源链。
+- `RELEASE_NOTES_v0.13.0.md`：v0.13 苏萨大流士雕像 DSab 三语铭文与象形文字证据层。
+- `RELEASE_NOTES_v0.12.0.md`：v0.12 Ra-Atum 分期见证、《亡灵书》第15章与苏萨大流士雕像。
+- `RELEASE_NOTES_v0.11.0.md`：v0.11 卜塔-索卡尔-奥西里斯复合神与器物证据层。
 - `RELEASE_NOTES_v0.10.0.md`：v0.10 日本地方雷神、贺茂神社、活态祭礼与后世图像证据层。
 - `RELEASE_NOTES_v0.9.0.md`：v0.9 Perses 同名实体拆分与古代文本证据审计。
 - `RELEASE_NOTES_v0.8.0.md`：v0.8 厄琉息斯仪式、遗址、铭文与馆藏证据层。
@@ -71,6 +75,7 @@
 - `reports/schema_catalog.md`
 - `reports/source_registry.md`
 - `reports/source_validation.md`
+- `reports/v0.24.0_browser_validation_audit.md`
 - `reports/web_fidelity_0.3.0.md`
 
 ## 核心设计说明

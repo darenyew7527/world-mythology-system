@@ -17,6 +17,7 @@
 | Relation | Target | Review / layer | Evidence | Confidence | Direction |
 |---|---|---|---:|---:|---|
 | `DEPICTED_ON` | 阿尼纸草第3框 (`museum.egypt.papyrus_ani_frame3`) | VERIFIED / HISTORICAL_REALITY / ARCHAEOLOGICAL | 1 | 0.98 | inferred inverse; `claim.egypt.papyrus_ani_depicts_osiris` |
+| `HAS_COMPOSITE_EXPRESSION` | 卜塔-索卡尔-奥西里斯 (`deity.egyptian.ptah_sokar_osiris`) | VERIFIED / SCHOLARLY_INTERPRETATION / SCHOLARLY_INTERPRETATION | 1 | 0.99 | inferred inverse; `claim.v0110.pso_component_osiris` |
 | `RULES` | 杜阿特／埃及冥界 (`realm.egypt.duat`) | VERIFIED / SCHOLARLY_INTERPRETATION / SCHOLARLY_INTERPRETATION | 1 | 0.80 | stored claim; `claim.egypt.osiris_rules_duat` |
 
 ## Claims 与证据

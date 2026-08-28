@@ -25,6 +25,7 @@
 | `DEPICTS` | 特里普托勒摩斯 (`hero.greek.triptolemos`) | VERIFIED / SCHOLARLY_INTERPRETATION / ARCHAEOLOGICAL | 1 | 0.86 | stored claim; `claim.v080.metrelief_triptolemos` |
 | `HELD_BY_MUSEUM` | 大都会艺术博物馆 (`institution.met`) | VERIFIED / HISTORICAL_REALITY / ARCHAEOLOGICAL | 1 | 0.99 | stored claim; `claim.v080.metrelief_held_met` |
 | `LATER_COPY_OF` | 大厄琉息斯浮雕126号 (`museum.nam.great_eleusinian_relief_126`) | VERIFIED / SCHOLARLY_INTERPRETATION / ARCHAEOLOGICAL | 1 | 0.97 | stored claim; `claim.v080.metrelief_copy_relief126` |
+| `MEMBER_OF` | 大厄琉息斯浮雕摹本网络 (`concept.greek.eleusinian_relief_copy_network`) | VERIFIED / SCHOLARLY_INTERPRETATION / LATER_RECEPTION | 1 | 0.99 | inferred inverse; `claim.v0170.reliefnetwork_metcopy` |
 
 ## Claims 与证据
 

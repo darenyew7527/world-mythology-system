@@ -7,8 +7,10 @@ region.east_asia,East Asia,东亚,region.global,CULTURAL,
 region.eastern_europe,Eastern Europe,东欧,region.europe,CULTURAL,
 region.europe,Europe,欧洲,region.global,CULTURAL,
 region.global,Global,全球,,CULTURAL,
+region.levant,Levant,黎凡特,region.west_asia,HISTORICAL_REGION,Broad historical-geographic research region; individual sites remain distinct.
 region.mediterranean,Mediterranean,地中海,region.europe,CULTURAL,
 region.mesoamerica,Mesoamerica,中部美洲,region.north_america,CULTURAL,
+region.mesopotamia,Mesopotamia,美索不达米亚,region.west_asia,HISTORICAL_REGION,Historical riverine region; not a modern-state equivalence.
 region.north_america,North America,北美洲,region.global,CULTURAL,
 region.northeast_africa,Northeast Africa,东北非洲,region.global,CULTURAL,
 region.northern_europe,Northern Europe,北欧,region.europe,CULTURAL,

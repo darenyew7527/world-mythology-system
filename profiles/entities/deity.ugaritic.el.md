@@ -14,7 +14,9 @@
 
 ## 关系网络
 
-当前无关系边；保留为研究缺口。
+| Relation | Target | Review / layer | Evidence | Confidence | Direction |
+|---|---|---|---:|---:|---|
+| `PARENT_OF` | 乌加里特巴力 (`deity.ugaritic.baal`) | PROVISIONAL / SCHOLARLY_INTERPRETATION / TEXTUAL_WITNESS | 1 | 0.72 | inferred inverse; `claim.v0200.baal_son_el` |
 
 ## Claims 与证据
 

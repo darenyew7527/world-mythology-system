@@ -10,6 +10,9 @@
 | event.babylonian.marduk_tiamat | 马尔杜克与提亚马特之战 | Combat of Marduk and Tiamat | EVENT | 巴比伦 | PARTIAL | UNVERIFIED |
 | event.norse.forging_divine_treasures | 诸神宝物锻造 | Forging of the divine treasures | EVENT | 北欧 | PARTIAL | PARTIAL |
 | event.norse.ragnarok | 诸神黄昏 | Ragnarök | EVENT | 北欧 | PARTIAL | UNVERIFIED |
+| event.archaeology.darius_statue_discovery_1972 | 1972年苏萨大流士雕像发现事件 | Discovery of the Darius Statue at Susa (1972) | EVENT | 波斯 | PARTIAL | SOURCE_BACKED |
+| event.persia.darius_statue_transfer_egypt_susa | 大流士雕像转运苏萨（学术重建） | Reconstructed Transfer of the Darius Statue to Susa | EVENT | 波斯 | PARTIAL | SOURCE_BACKED |
 | event.sumerian.inanna_descent | 伊南娜下冥界事件 | Descent of Inanna | EVENT | 苏美尔 | PARTIAL | UNVERIFIED |
+| event.ugaritic.baal_mot_ktu15_16 | 巴力与穆特事件序列（KTU 1.5–1.6） | Baal and Mot sequence in KTU 1.5–1.6 | EVENT | 乌加里特 | PARTIAL | SOURCE_BACKED |
 | event.ugaritic.baal_yamm_ktu12 | 巴力与雅姆之战（KTU 1.2 IV） | Baal and Yamm in KTU 1.2 IV | EVENT | 乌加里特 | PARTIAL | SOURCE_BACKED |
 | event.vedic.indra_vritra_rv132 | 因陀罗与弗栗多之战（《梨俱吠陀》1.32） | Indra and Vrtra in Rigveda 1.32 | EVENT | 吠陀传统 | PARTIAL | SOURCE_BACKED |

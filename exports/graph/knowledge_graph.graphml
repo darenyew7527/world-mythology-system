@@ -25,7 +25,10 @@
     <node id="being.norse.sons_of_ivaldi"><data key="name">Sons of Ivaldi</data><data key="type">CREATURE</data></node>
     <node id="being.norse.ymir"><data key="name">Ymir</data><data key="type">GIANT</data></node>
     <node id="being.zoroastrian.angra_mainyu"><data key="name">Angra Mainyu</data><data key="type">DEITY</data></node>
+    <node id="concept.chinese.leigong.visual_witnesses"><data key="name">Leigong / thunder-deity visual witness layer</data><data key="type">CONCEPT</data></node>
     <node id="concept.chinese.wuxing"><data key="name">Wuxing</data><data key="type">CONCEPT</data></node>
+    <node id="concept.chinese.wuxing.han_correlative_omens"><data key="name">Han historiographic correlative-omen layer</data><data key="type">CONCEPT</data></node>
+    <node id="concept.chinese.wuxing.hongfan_operations"><data key="name">Hong Fan operational qualities layer</data><data key="type">CONCEPT</data></node>
     <node id="concept.chinese.wuxing.huo"><data key="name">Huo (wuxing)</data><data key="type">ELEMENT</data></node>
     <node id="concept.chinese.wuxing.jin"><data key="name">Jin (wuxing)</data><data key="type">ELEMENT</data></node>
     <node id="concept.chinese.wuxing.mu"><data key="name">Mu (wuxing)</data><data key="type">ELEMENT</data></node>
@@ -85,14 +88,23 @@
     <node id="concept.egyptian.divine_syncretism"><data key="name">Egyptian divine syncretism</data><data key="type">CONCEPT</data></node>
     <node id="concept.egyptian.isfet"><data key="name">Isfet</data><data key="type">CONCEPT</data></node>
     <node id="concept.egyptian.ma_at"><data key="name">Ma'at as order</data><data key="type">CONCEPT</data></node>
+    <node id="concept.egyptian.rising_setting_solar_forms"><data key="name">Rising and setting solar forms</data><data key="type">CONCEPT</data></node>
     <node id="concept.greek.classical_elements"><data key="name">Classical Greek element traditions</data><data key="type">CONCEPT</data></node>
+    <node id="concept.greek.eleusinian_relief_copy_network"><data key="name">Great Eleusinian Relief Copy Network</data><data key="type">CONCEPT</data></node>
     <node id="concept.greek.eleusinian_secrecy"><data key="name">Eleusinian ritual secrecy</data><data key="type">CONCEPT</data></node>
     <node id="concept.greek.persian_name_aition"><data key="name">Greek aition of the Persian name</data><data key="type">CONCEPT</data></node>
     <node id="concept.indian.pancamahabhuta"><data key="name">Pañcamahābhūta</data><data key="type">CONCEPT</data></node>
+    <node id="concept.japan.wind_thunder_screen_copy_network"><data key="name">Sōtatsu–Kōrin–Hōitsu Wind and Thunder Screen Network</data><data key="type">CONCEPT</data></node>
+    <node id="concept.maori.iwi_variant_scope"><data key="name">Māori iwi/hapū variant and attribution scope</data><data key="type">CONCEPT</data></node>
+    <node id="concept.mesopotamia.inanna_ishtar_identification"><data key="name">Inana–Ištar Historical Identification</data><data key="type">CONCEPT</data></node>
     <node id="concept.norse.fire_ice_cosmogony"><data key="name">Norse fire-and-ice cosmogonic contrast</data><data key="type">COSMOLOGY</data></node>
+    <node id="concept.persia.darius_statue_subject_peoples"><data key="name">Darius Statue Subject Peoples</data><data key="type">CONCEPT</data></node>
+    <node id="concept.south_asia.vajra_reception_layers"><data key="name">Vajra textual and material reception layers</data><data key="type">CONCEPT</data></node>
     <node id="concept.ugaritic.baal_title"><data key="name">Ugaritic b-l title lexeme</data><data key="type">CONCEPT</data></node>
+    <node id="concept.yoruba.living_tradition_access"><data key="name">Yoruba living-tradition access governance</data><data key="type">CONCEPT</data></node>
     <node id="concept.zoroastrian.asha"><data key="name">Asha</data><data key="type">CONCEPT</data></node>
     <node id="concept.zoroastrian.druj"><data key="name">Druj</data><data key="type">CONCEPT</data></node>
+    <node id="creature.akkadian.anzu"><data key="name">Anzu of the Akkadian myth</data><data key="type">MONSTER</data></node>
     <node id="creature.greek.cyclopes_hesiodic"><data key="name">Hesiodic Cyclopes</data><data key="type">GIANT</data></node>
     <node id="creature.greek.typhon"><data key="name">Typhon</data><data key="type">MONSTER</data></node>
     <node id="creature.norse.fenrir"><data key="name">Fenrir</data><data key="type">MONSTER</data></node>
@@ -100,6 +112,7 @@
     <node id="creature.norse.jormungandr"><data key="name">Jörmungandr</data><data key="type">DRAGON</data></node>
     <node id="creature.vedic.vritra"><data key="name">Vrtra</data><data key="type">MONSTER</data></node>
     <node id="deity.akkadian.ishtar"><data key="name">Ishtar</data><data key="type">DEITY</data></node>
+    <node id="deity.akkadian.ninurta"><data key="name">Ninurta in the Akkadian Anzu myth</data><data key="type">DEITY</data></node>
     <node id="deity.assyrian.ashur"><data key="name">Ashur</data><data key="type">DEITY</data></node>
     <node id="deity.babylonian.marduk"><data key="name">Marduk</data><data key="type">DEITY</data></node>
     <node id="deity.babylonian.tiamat"><data key="name">Tiamat</data><data key="type">PRIMORDIAL_DEITY</data></node>
@@ -112,6 +125,8 @@
     <node id="deity.egyptian.amun_ra"><data key="name">Amun-Ra</data><data key="type">DEITY</data></node>
     <node id="deity.egyptian.anubis"><data key="name">Anubis</data><data key="type">DEITY</data></node>
     <node id="deity.egyptian.atum"><data key="name">Atum</data><data key="type">PRIMORDIAL_DEITY</data></node>
+    <node id="deity.egyptian.atum_horakhty"><data key="name">Atum-Horakhty</data><data key="type">DEITY</data></node>
+    <node id="deity.egyptian.atum_ra"><data key="name">Atum-Ra</data><data key="type">DEITY</data></node>
     <node id="deity.egyptian.geb"><data key="name">Geb</data><data key="type">DEITY</data></node>
     <node id="deity.egyptian.hathor"><data key="name">Hathor</data><data key="type">DEITY</data></node>
     <node id="deity.egyptian.horus"><data key="name">Horus</data><data key="type">DEITY</data></node>
@@ -124,11 +139,13 @@
     <node id="deity.egyptian.nut"><data key="name">Nut</data><data key="type">DEITY</data></node>
     <node id="deity.egyptian.osiris"><data key="name">Osiris</data><data key="type">DEITY</data></node>
     <node id="deity.egyptian.ptah"><data key="name">Ptah</data><data key="type">DEITY</data></node>
+    <node id="deity.egyptian.ptah_sokar_osiris"><data key="name">Ptah-Sokar-Osiris</data><data key="type">DEITY</data></node>
     <node id="deity.egyptian.ra"><data key="name">Ra</data><data key="type">DEITY</data></node>
     <node id="deity.egyptian.ra_horakhty"><data key="name">Ra-Horakhty</data><data key="type">DEITY</data></node>
     <node id="deity.egyptian.sekhmet"><data key="name">Sekhmet</data><data key="type">DEITY</data></node>
     <node id="deity.egyptian.seth"><data key="name">Seth</data><data key="type">DEITY</data></node>
     <node id="deity.egyptian.shu"><data key="name">Shu</data><data key="type">DEITY</data></node>
+    <node id="deity.egyptian.sokar"><data key="name">Sokar</data><data key="type">DEITY</data></node>
     <node id="deity.egyptian.tefnut"><data key="name">Tefnut</data><data key="type">DEITY</data></node>
     <node id="deity.egyptian.thoth"><data key="name">Thoth</data><data key="type">DEITY</data></node>
     <node id="deity.greek.aether"><data key="name">Aether</data><data key="type">PRIMORDIAL_DEITY</data></node>
@@ -192,6 +209,7 @@
     <node id="deity.japanese.izanami"><data key="name">Izanami</data><data key="type">DEITY</data></node>
     <node id="deity.japanese.kamo_taketsunumi"><data key="name">Kamo Taketsunumi no Mikoto</data><data key="type">DEITY</data></node>
     <node id="deity.japanese.kamo_wakeikazuchi"><data key="name">Kamo Wakeikazuchi no Okami</data><data key="type">DEITY</data></node>
+    <node id="deity.japanese.karaijin"><data key="name">Karaijin</data><data key="type">DEITY</data></node>
     <node id="deity.japanese.kuroikazuchi"><data key="name">Kuroikazuchi</data><data key="type">DEITY</data></node>
     <node id="deity.japanese.naruikazuchi"><data key="name">Naruikazuchi</data><data key="type">DEITY</data></node>
     <node id="deity.japanese.ooikazuchi"><data key="name">Ooikazuchi</data><data key="type">DEITY</data></node>
@@ -220,7 +238,9 @@
     <node id="deity.norse.frigg"><data key="name">Frigg</data><data key="type">DEITY</data></node>
     <node id="deity.norse.heimdall"><data key="name">Heimdallr</data><data key="type">DEITY</data></node>
     <node id="deity.norse.hel"><data key="name">Hel</data><data key="type">DEITY</data></node>
+    <node id="deity.norse.hoenir"><data key="name">Hœnir</data><data key="type">DEITY</data></node>
     <node id="deity.norse.jord"><data key="name">Jord</data><data key="type">DEITY</data></node>
+    <node id="deity.norse.lodurr"><data key="name">Lóðurr</data><data key="type">DEITY</data></node>
     <node id="deity.norse.loki"><data key="name">Loki</data><data key="type">DEITY</data></node>
     <node id="deity.norse.magni"><data key="name">Magni</data><data key="type">DEITY</data></node>
     <node id="deity.norse.meili"><data key="name">Meili</data><data key="type">DEITY</data></node>
@@ -250,6 +270,7 @@
     <node id="deity.ugaritic.anat"><data key="name">Anat</data><data key="type">DEITY</data></node>
     <node id="deity.ugaritic.asherah"><data key="name">Athirat / Asherah</data><data key="type">DEITY</data></node>
     <node id="deity.ugaritic.baal"><data key="name">Baal of Ugarit</data><data key="type">DEITY</data></node>
+    <node id="deity.ugaritic.dagan"><data key="name">Dagan in Ugaritic texts</data><data key="type">DEITY</data></node>
     <node id="deity.ugaritic.el"><data key="name">El of Ugarit</data><data key="type">DEITY</data></node>
     <node id="deity.ugaritic.kothar_wa_khasis"><data key="name">Kothar-wa-Khasis</data><data key="type">DEITY</data></node>
     <node id="deity.ugaritic.mot"><data key="name">Mot</data><data key="type">DEITY</data></node>
@@ -273,6 +294,7 @@
     <node id="element.indian.ap"><data key="name">Āpas</data><data key="type">ELEMENT</data></node>
     <node id="element.indian.prithvi"><data key="name">Pṛthvī</data><data key="type">ELEMENT</data></node>
     <node id="element.indian.vayu"><data key="name">Vāyu</data><data key="type">ELEMENT</data></node>
+    <node id="event.archaeology.darius_statue_discovery_1972"><data key="name">Discovery of the Darius Statue at Susa (1972)</data><data key="type">EVENT</data></node>
     <node id="event.babylonian.marduk_tiamat"><data key="name">Combat of Marduk and Tiamat</data><data key="type">EVENT</data></node>
     <node id="event.egyptian.nocturnal_solar_journey"><data key="name">Nocturnal journey of the sun god</data><data key="type">EVENT</data></node>
     <node id="event.greek.medea_restores_aeetes"><data key="name">Medea restores Aeetes</data><data key="type">EVENT</data></node>
@@ -281,7 +303,9 @@
     <node id="event.greek.zeus_typhon_battle"><data key="name">Battle of Zeus and Typhon</data><data key="type">EVENT</data></node>
     <node id="event.norse.forging_divine_treasures"><data key="name">Forging of the divine treasures</data><data key="type">EVENT</data></node>
     <node id="event.norse.ragnarok"><data key="name">Ragnarök</data><data key="type">EVENT</data></node>
+    <node id="event.persia.darius_statue_transfer_egypt_susa"><data key="name">Reconstructed Transfer of the Darius Statue to Susa</data><data key="type">EVENT</data></node>
     <node id="event.sumerian.inanna_descent"><data key="name">Descent of Inanna</data><data key="type">EVENT</data></node>
+    <node id="event.ugaritic.baal_mot_ktu15_16"><data key="name">Baal and Mot sequence in KTU 1.5–1.6</data><data key="type">EVENT</data></node>
     <node id="event.ugaritic.baal_yamm_ktu12"><data key="name">Baal and Yamm in KTU 1.2 IV</data><data key="type">EVENT</data></node>
     <node id="event.vedic.indra_vritra_rv132"><data key="name">Indra and Vrtra in Rigveda 1.32</data><data key="type">EVENT</data></node>
     <node id="festival.egyptian.opet"><data key="name">Opet Festival</data><data key="type">FESTIVAL</data></node>
@@ -305,30 +329,50 @@
     <node id="hero.kiche.hunahpu"><data key="name">Hunahpu</data><data key="type">HERO</data></node>
     <node id="hero.kiche.xbalanque"><data key="name">Xbalanque</data><data key="type">HERO</data></node>
     <node id="hero.polynesian.maui"><data key="name">Māui</data><data key="type">HERO</data></node>
+    <node id="historical.achaemenid.darius_i"><data key="name">Darius I</data><data key="type">HISTORICAL_FIGURE</data></node>
+    <node id="historical.achaemenid.xerxes_i"><data key="name">Xerxes I</data><data key="type">HISTORICAL_FIGURE</data></node>
+    <node id="historical.japan.ogata_korin"><data key="name">Ogata Kōrin</data><data key="type">HISTORICAL_FIGURE</data></node>
+    <node id="historical.japan.sakai_hoitsu"><data key="name">Sakai Hōitsu</data><data key="type">HISTORICAL_FIGURE</data></node>
     <node id="historical.japan.tawaraya_sotatsu"><data key="name">Tawaraya Sotatsu</data><data key="type">HISTORICAL_FIGURE</data></node>
     <node id="institution.british_museum"><data key="name">British Museum</data><data key="type">INSTITUTION</data></node>
+    <node id="institution.iran.national_museum"><data key="name">National Museum of Iran</data><data key="type">INSTITUTION</data></node>
     <node id="institution.japan.kyoto_national_museum"><data key="name">Kyoto National Museum</data><data key="type">INSTITUTION</data></node>
+    <node id="institution.japan.tokyo_national_museum"><data key="name">Tokyo National Museum</data><data key="type">INSTITUTION</data></node>
     <node id="institution.louvre"><data key="name">Musée du Louvre</data><data key="type">INSTITUTION</data></node>
     <node id="institution.met"><data key="name">Metropolitan Museum of Art</data><data key="type">INSTITUTION</data></node>
     <node id="institution.nam_athens"><data key="name">National Archaeological Museum, Athens</data><data key="type">INSTITUTION</data></node>
+    <node id="institution.rubin_museum"><data key="name">Rubin Museum of Himalayan Art</data><data key="type">INSTITUTION</data></node>
     <node id="institution.swedish_history_museum"><data key="name">Swedish History Museum</data><data key="type">INSTITUTION</data></node>
     <node id="modern.marvel.mcu.hela"><data key="name">Marvel Studios Hela</data><data key="type">MODERN_WORK</data></node>
     <node id="modern.marvel.mcu.loki"><data key="name">Marvel Studios Loki</data><data key="type">MODERN_WORK</data></node>
     <node id="modern.marvel.mcu.thor"><data key="name">Marvel Studios Thor</data><data key="type">MODERN_WORK</data></node>
+    <node id="modern_work.japan.hoitsu_wind_thunder_version"><data key="name">Wind and Thunder God Screens attributed to Sakai Hōitsu — research record</data><data key="type">MODERN_WORK</data></node>
     <node id="museum.babylon.flood_tablet_k3375"><data key="name">Flood Tablet K.3375</data><data key="type">MUSEUM_OBJECT</data></node>
     <node id="museum.bm.khepri_hymn_stela_ea826"><data key="name">Stela with hymn to Khepri</data><data key="type">MUSEUM_OBJECT</data></node>
+    <node id="museum.bm.vajra_1948_0716_11_b"><data key="name">Buddhist ritual vajra 1948,0716.11.b</data><data key="type">MUSEUM_OBJECT</data></node>
     <node id="museum.egypt.papyrus_ani_frame3"><data key="name">Papyrus of Ani, frame 3</data><data key="type">MUSEUM_OBJECT</data></node>
     <node id="museum.greek.zeus_poseidon_met_21_88_52"><data key="name">Bronze statuette: Zeus or Poseidon</data><data key="type">MUSEUM_OBJECT</data></node>
+    <node id="museum.iran.darius_susa_statue"><data key="name">Egyptian Statue of Darius I from Susa</data><data key="type">MUSEUM_OBJECT</data></node>
     <node id="museum.japan.sotatsu_wind_thunder_screens"><data key="name">Wind God and Thunder God Screens by Tawaraya Sotatsu</data><data key="type">MUSEUM_OBJECT</data></node>
     <node id="museum.met.amun_re_scarab_09_180_953"><data key="name">Scarab inscribed with Amun-Re and Neit</data><data key="type">MUSEUM_OBJECT</data></node>
     <node id="museum.met.eleusinian_relief_14_130_9"><data key="name">Roman fragments of the Great Eleusinian Relief 14.130.9</data><data key="type">MUSEUM_OBJECT</data></node>
     <node id="museum.met.nauny_book_dead_30_3_31"><data key="name">Book of the Dead for Nauny</data><data key="type">MUSEUM_OBJECT</data></node>
+    <node id="museum.met.pso_21_9_1abc"><data key="name">Ptah-Sokar-Osiris Figure of the Temple Musician Ihyt</data><data key="type">MUSEUM_OBJECT</data></node>
+    <node id="museum.met.pso_28_3_48"><data key="name">Ptah-Sokar-Osiris Figure of Pakherenkhonsu</data><data key="type">MUSEUM_OBJECT</data></node>
+    <node id="museum.met.pso_34_9"><data key="name">Ptah-Sokar-Osiris Figure for Pestjauwymin</data><data key="type">MUSEUM_OBJECT</data></node>
+    <node id="museum.met.pso_contents_21_9_1d"><data key="name">Linen and mud from Ptah-Sokar-Osiris figure</data><data key="type">MUSEUM_OBJECT</data></node>
     <node id="museum.met.ra_horakhty_amulet_74_51_4497"><data key="name">Faience amulet of Ra Horakhty</data><data key="type">MUSEUM_OBJECT</data></node>
     <node id="museum.met.ra_horakhty_stela_oc81"><data key="name">Stela with man offering to Re-Harakhty</data><data key="type">MUSEUM_OBJECT</data></node>
+    <node id="museum.met.vajra_1994_605_43"><data key="name">Vajra with Angry Heads and Makara Prongs 1994.605.43</data><data key="type">MUSEUM_OBJECT</data></node>
     <node id="museum.nam.great_eleusinian_relief_126"><data key="name">Great Eleusinian Relief no. 126</data><data key="type">MUSEUM_OBJECT</data></node>
+    <node id="museum.nam.ninnion_tablet_a11036"><data key="name">Ninnion Tablet A11036</data><data key="type">MUSEUM_OBJECT</data></node>
     <node id="museum.norse.mjolnir_rings"><data key="name">Thor's hammer rings collection entry</data><data key="type">MUSEUM_OBJECT</data></node>
+    <node id="museum.rubin.vajra_sc2022_3_2_1"><data key="name">Tibetan Vajra SC2022.3.2.1</data><data key="type">MUSEUM_OBJECT</data></node>
+    <node id="museum.tnm.korin_wind_thunder_a11189_1"><data key="name">Wind God and Thunder God Screens by Ogata Kōrin A-11189-1</data><data key="type">MUSEUM_OBJECT</data></node>
     <node id="museum.ugarit.baal_cycle_ao16643"><data key="name">Baal Cycle tablet AO 16643</data><data key="type">MUSEUM_OBJECT</data></node>
     <node id="museum.ugarit.baal_thunder_ao15775"><data key="name">Baal with Thunderbolt stele AO 15775</data><data key="type">MUSEUM_OBJECT</data></node>
+    <node id="person.norse.ask"><data key="name">Ask</data><data key="type">PERSON</data></node>
+    <node id="person.norse.embla"><data key="name">Embla</data><data key="type">PERSON</data></node>
     <node id="place.norse.mimisbrunnr"><data key="name">Mímisbrunnr</data><data key="type">MYTHICAL_PLACE</data></node>
     <node id="realm.egypt.duat"><data key="name">Duat</data><data key="type">REALM</data></node>
     <node id="realm.greek.tartarus"><data key="name">Tartarus</data><data key="type">REALM</data></node>
@@ -344,6 +388,7 @@
     <node id="site.china.kunlun_scope"><data key="name">Kunlun-related cultural locations</data><data key="type">PLACE</data></node>
     <node id="site.china.ritual_sites_scope"><data key="name">Ancient Chinese ritual sites research scope</data><data key="type">ARCHAEOLOGICAL_SITE</data></node>
     <node id="site.china.taishan"><data key="name">Mount Taishan</data><data key="type">PLACE</data></node>
+    <node id="site.chinese.mogao_cave_249"><data key="name">Mogao Cave 249</data><data key="type">ARCHAEOLOGICAL_SITE</data></node>
     <node id="site.chinese.mogao_cave_285"><data key="name">Mogao Cave 285</data><data key="type">ARCHAEOLOGICAL_SITE</data></node>
     <node id="site.denmark.hedeby"><data key="name">Hedeby</data><data key="type">ARCHAEOLOGICAL_SITE</data></node>
     <node id="site.egypt.abu_simbel"><data key="name">Abu Simbel</data><data key="type">TEMPLE</data></node>
@@ -352,12 +397,14 @@
     <node id="site.egypt.dendera"><data key="name">Dendera Temple Complex</data><data key="type">TEMPLE</data></node>
     <node id="site.egypt.edfu"><data key="name">Temple of Edfu</data><data key="type">TEMPLE</data></node>
     <node id="site.egypt.giza"><data key="name">Giza pyramid fields</data><data key="type">PYRAMID</data></node>
+    <node id="site.egypt.heliopolis_atum_precinct"><data key="name">Atum Precinct at Heliopolis</data><data key="type">ARCHAEOLOGICAL_SITE</data></node>
     <node id="site.egypt.karnak"><data key="name">Karnak</data><data key="type">TEMPLE</data></node>
     <node id="site.egypt.karnak_great_temple_amun_ra"><data key="name">Great Temple of Amun-Ra at Karnak</data><data key="type">TEMPLE</data></node>
     <node id="site.egypt.luxor_temple"><data key="name">Luxor Temple</data><data key="type">TEMPLE</data></node>
     <node id="site.egypt.philae"><data key="name">Philae</data><data key="type">TEMPLE</data></node>
     <node id="site.egypt.saqqara"><data key="name">Saqqara</data><data key="type">ARCHAEOLOGICAL_SITE</data></node>
     <node id="site.egypt.valley_kings"><data key="name">Valley of the Kings</data><data key="type">TOMB</data></node>
+    <node id="site.egypt.wadi_hammamat_quarries"><data key="name">Wadi Hammamat Quarry Landscape</data><data key="type">ARCHAEOLOGICAL_SITE</data></node>
     <node id="site.ethiopia.aksum"><data key="name">Aksum</data><data key="type">ARCHAEOLOGICAL_SITE</data></node>
     <node id="site.ethiopia.lalibela"><data key="name">Rock-Hewn Churches of Lalibela</data><data key="type">MONUMENT</data></node>
     <node id="site.greece.acropolis"><data key="name">Acropolis of Athens</data><data key="type">ARCHAEOLOGICAL_SITE</data></node>
@@ -371,6 +418,8 @@
     <node id="site.greece.mycenae"><data key="name">Mycenae</data><data key="type">ARCHAEOLOGICAL_SITE</data></node>
     <node id="site.greece.olympia"><data key="name">Olympia</data><data key="type">ARCHAEOLOGICAL_SITE</data></node>
     <node id="site.greece.sacred_way"><data key="name">Sacred Way from Athens to Eleusis</data><data key="type">ARCHAEOLOGICAL_SITE</data></node>
+    <node id="site.greece.sacred_way_aphrodite_daphne"><data key="name">Sanctuary of Aphrodite at Daphne</data><data key="type">ARCHAEOLOGICAL_SITE</data></node>
+    <node id="site.greece.sacred_way_roman_bridge"><data key="name">Roman Bridge over the Eleusinian Cephissus</data><data key="type">ARCHAEOLOGICAL_SITE</data></node>
     <node id="site.guatemala.tikal"><data key="name">Tikal</data><data key="type">ARCHAEOLOGICAL_SITE</data></node>
     <node id="site.iceland.sacred_scope"><data key="name">Icelandic sacred sites research scope</data><data key="type">PLACE</data></node>
     <node id="site.india.elephanta"><data key="name">Elephanta Caves</data><data key="type">TEMPLE</data></node>
@@ -380,6 +429,8 @@
     <node id="site.india.varanasi"><data key="name">Varanasi</data><data key="type">PLACE</data></node>
     <node id="site.indonesia.borobudur"><data key="name">Borobudur</data><data key="type">TEMPLE</data></node>
     <node id="site.indonesia.prambanan"><data key="name">Prambanan</data><data key="type">TEMPLE</data></node>
+    <node id="site.iran.susa"><data key="name">Susa Archaeological Site</data><data key="type">ARCHAEOLOGICAL_SITE</data></node>
+    <node id="site.iran.susa_darius_gate"><data key="name">Darius Gate at Susa</data><data key="type">ARCHAEOLOGICAL_SITE</data></node>
     <node id="site.iraq.ashur"><data key="name">Ashur (Qal'at Sherqat)</data><data key="type">ARCHAEOLOGICAL_SITE</data></node>
     <node id="site.iraq.babylon"><data key="name">Babylon</data><data key="type">ARCHAEOLOGICAL_SITE</data></node>
     <node id="site.iraq.eridu"><data key="name">Eridu</data><data key="type">ARCHAEOLOGICAL_SITE</data></node>
@@ -420,6 +471,7 @@
     <node id="text.akkadian.erra_epic"><data key="name">Erra Epic</data><data key="type">EPIC</data></node>
     <node id="text.akkadian.etana"><data key="name">Etana</data><data key="type">EPIC</data></node>
     <node id="text.andean.huarochiri"><data key="name">Huarochirí Manuscript</data><data key="type">MANUSCRIPT</data></node>
+    <node id="text.archaeology.darius_statue_susa_dossier_1972"><data key="name">1972 Darius Statue Susa Report Dossier</data><data key="type">TEXT</data></node>
     <node id="text.babylonian.atrahasis"><data key="name">Atrahasis</data><data key="type">EPIC</data></node>
     <node id="text.babylonian.enuma_elish"><data key="name">Enūma Eliš</data><data key="type">EPIC</data></node>
     <node id="text.buddhist.corpus"><data key="name">Buddhist textual traditions</data><data key="type">SCRIPTURE</data></node>
@@ -430,7 +482,9 @@
     <node id="text.chinese.fengshen_yanyi"><data key="name">Investiture of the Gods</data><data key="type">TEXT</data></node>
     <node id="text.chinese.folk_archives"><data key="name">Chinese folk mythology archives</data><data key="type">ORAL_TRADITION</data></node>
     <node id="text.chinese.han_shu_wuxing_zhi"><data key="name">Han Shu: Wuxing Zhi</data><data key="type">TEXT</data></node>
+    <node id="text.chinese.hanshu.wuxing_omen_passage"><data key="name">Han Shu Wuxing omen framework witness</data><data key="type">TEXT</data></node>
     <node id="text.chinese.hong_fan"><data key="name">Hong Fan</data><data key="type">TEXT</data></node>
+    <node id="text.chinese.hongfan.wuxing_passage"><data key="name">Hong Fan Wuxing passage witness</data><data key="type">TEXT</data></node>
     <node id="text.chinese.huainanzi"><data key="name">Huainanzi</data><data key="type">TEXT</data></node>
     <node id="text.chinese.local_gazetteers"><data key="name">Chinese local gazetteers</data><data key="type">TEXT</data></node>
     <node id="text.chinese.lunheng"><data key="name">Lunheng</data><data key="type">TEXT</data></node>
@@ -445,12 +499,22 @@
     <node id="text.egypt.amduat"><data key="name">Amduat</data><data key="type">TEXT</data></node>
     <node id="text.egypt.book_caverns"><data key="name">Book of Caverns</data><data key="type">TEXT</data></node>
     <node id="text.egypt.book_dead"><data key="name">Book of the Dead</data><data key="type">PAPYRUS</data></node>
+    <node id="text.egypt.book_dead_chapter15"><data key="name">Book of the Dead Chapter 15</data><data key="type">TEXT</data></node>
     <node id="text.egypt.book_dead_spell17"><data key="name">Book of the Dead Spell 17</data><data key="type">TEXT</data></node>
     <node id="text.egypt.book_gates"><data key="name">Book of Gates</data><data key="type">TEXT</data></node>
     <node id="text.egypt.coffin_texts"><data key="name">Coffin Texts</data><data key="type">INSCRIPTION</data></node>
+    <node id="text.egypt.darius_susa.hieroglyph_text_1"><data key="name">Darius Statue Hieroglyphic Text 1</data><data key="type">INSCRIPTION</data></node>
+    <node id="text.egypt.darius_susa.hieroglyph_text_2"><data key="name">Darius Statue Hieroglyphic Text 2</data><data key="type">INSCRIPTION</data></node>
+    <node id="text.egypt.darius_susa.hieroglyph_text_3"><data key="name">Darius Statue Hieroglyphic Text 3</data><data key="type">INSCRIPTION</data></node>
+    <node id="text.egypt.darius_susa.hieroglyph_text_4"><data key="name">Darius Statue Hieroglyphic Text 4</data><data key="type">INSCRIPTION</data></node>
+    <node id="text.egypt.darius_susa.subject_list.left_twelve"><data key="name">Darius Statue Subject List — Left-side Twelve</data><data key="type">INSCRIPTION</data></node>
+    <node id="text.egypt.darius_susa.subject_list.right_twelve"><data key="name">Darius Statue Subject List — Right-side Twelve</data><data key="type">INSCRIPTION</data></node>
+    <node id="text.egypt.darius_susa_hieroglyphic_program"><data key="name">Darius Susa Statue Hieroglyphic Program</data><data key="type">TEXT</data></node>
+    <node id="text.egypt.darius_susa_hieroglyphic_province_list"><data key="name">Darius Statue Hieroglyphic Subject-Peoples List</data><data key="type">TEXT</data></node>
     <node id="text.egypt.litany_re"><data key="name">Litany of Re</data><data key="type">TEXT</data></node>
     <node id="text.egypt.memphite_theology"><data key="name">Memphite Theology</data><data key="type">INSCRIPTION</data></node>
     <node id="text.egypt.pyramid_texts"><data key="name">Pyramid Texts</data><data key="type">INSCRIPTION</data></node>
+    <node id="text.egypt.sun_hymn_standard_c_prime"><data key="name">Sun Hymn: Assmann Standard Hymn C-prime</data><data key="type">TEXT</data></node>
     <node id="text.egypt.temple_tomb_inscriptions"><data key="name">Egyptian temple and tomb inscriptions</data><data key="type">INSCRIPTION</data></node>
     <node id="text.greek.apollodorus_library"><data key="name">Pseudo-Apollodorus, Library</data><data key="type">TEXT</data></node>
     <node id="text.greek.argonautica"><data key="name">Argonautica</data><data key="type">EPIC</data></node>
@@ -471,6 +535,8 @@
     <node id="text.greek.homeric_hymn_poseidon_22"><data key="name">Homeric Hymn 22 to Poseidon</data><data key="type">TEXT</data></node>
     <node id="text.greek.homeric_hymn_selene_32"><data key="name">Homeric Hymn 32 to Selene</data><data key="type">TEXT</data></node>
     <node id="text.greek.homeric_hymns"><data key="name">Homeric Hymns</data><data key="type">TEXT</data></node>
+    <node id="text.greek.ieleusis71"><data key="name">I.Eleusis 71</data><data key="type">INSCRIPTION</data></node>
+    <node id="text.greek.ieleusis72"><data key="name">I.Eleusis 72</data><data key="type">INSCRIPTION</data></node>
     <node id="text.greek.ieleusis97"><data key="name">I.Eleusis 97</data><data key="type">INSCRIPTION</data></node>
     <node id="text.greek.iliad"><data key="name">Iliad</data><data key="type">EPIC</data></node>
     <node id="text.greek.inscriptions"><data key="name">Ancient Greek religious inscriptions</data><data key="type">INSCRIPTION</data></node>
@@ -487,6 +553,7 @@
     <node id="text.indian.ramayana"><data key="name">Rāmāyaṇa</data><data key="type">EPIC</data></node>
     <node id="text.indian.regional_epics"><data key="name">Indian regional epics and oral traditions</data><data key="type">ORAL_TRADITION</data></node>
     <node id="text.jain.corpus"><data key="name">Jain textual traditions</data><data key="type">SCRIPTURE</data></node>
+    <node id="text.japan.yamashiro_fudoki_kamo_fragment"><data key="name">Yamashiro Fudoki Kamo Fragment</data><data key="type">TEXT</data></node>
     <node id="text.japanese.fudoki"><data key="name">Fudoki</data><data key="type">TEXT</data></node>
     <node id="text.japanese.kojiki"><data key="name">Kojiki</data><data key="type">TEXT</data></node>
     <node id="text.japanese.local_legends"><data key="name">Japanese local legends</data><data key="type">ORAL_TRADITION</data></node>
@@ -505,6 +572,7 @@
     <node id="text.mongol.epics"><data key="name">Mongol epics and oral traditions</data><data key="type">ORAL_TRADITION</data></node>
     <node id="text.norse.grimnismal"><data key="name">Grímnismál</data><data key="type">TEXT</data></node>
     <node id="text.norse.gylfaginning"><data key="name">Gylfaginning</data><data key="type">TEXT</data></node>
+    <node id="text.norse.gylfaginning.ch8_9"><data key="name">Gylfaginning chapters 8–9 witness</data><data key="type">TEXT</data></node>
     <node id="text.norse.havamal"><data key="name">Hávamál</data><data key="type">TEXT</data></node>
     <node id="text.norse.lokasenna"><data key="name">Lokasenna</data><data key="type">TEXT</data></node>
     <node id="text.norse.poetic_edda"><data key="name">Poetic Edda</data><data key="type">MANUSCRIPT</data></node>
@@ -515,6 +583,12 @@
     <node id="text.norse.thrymskvida"><data key="name">Þrymskviða</data><data key="type">TEXT</data></node>
     <node id="text.norse.vafthrudnismal"><data key="name">Vafþrúðnismál</data><data key="type">TEXT</data></node>
     <node id="text.norse.voluspa"><data key="name">Völuspá</data><data key="type">TEXT</data></node>
+    <node id="text.norse.voluspa.st17_18"><data key="name">Völuspá stanzas 17–18 witness</data><data key="type">TEXT</data></node>
+    <node id="text.persia.dsab"><data key="name">DSab Trilingual Inscription</data><data key="type">TEXT</data></node>
+    <node id="text.persia.dsab.akkadian"><data key="name">DSab Akkadian Version</data><data key="type">TEXT</data></node>
+    <node id="text.persia.dsab.elamite"><data key="name">DSab Elamite Version</data><data key="type">TEXT</data></node>
+    <node id="text.persia.dsab.old_persian"><data key="name">DSab Old Persian Version</data><data key="type">TEXT</data></node>
+    <node id="text.persia.xsd"><data key="name">XSd Inscription</data><data key="type">INSCRIPTION</data></node>
     <node id="text.persian.shahnameh"><data key="name">Shahnameh</data><data key="type">EPIC</data></node>
     <node id="text.polynesia.creation_chants"><data key="name">Polynesian creation chants</data><data key="type">ORAL_TRADITION</data></node>
     <node id="text.roman.aeneid"><data key="name">Aeneid</data><data key="type">EPIC</data></node>
@@ -526,10 +600,13 @@
     <node id="text.sumerian.king_list"><data key="name">Sumerian King List</data><data key="type">TEXT</data></node>
     <node id="text.turkic.inscriptions"><data key="name">Old Turkic inscriptions</data><data key="type">INSCRIPTION</data></node>
     <node id="text.ugaritic.baal_cycle"><data key="name">Baal Cycle</data><data key="type">TABLET</data></node>
+    <node id="text.ugaritic.baal_cycle.ktu1_5"><data key="name">Baal Cycle tablet KTU 1.5</data><data key="type">TABLET</data></node>
+    <node id="text.ugaritic.baal_cycle.ktu1_6"><data key="name">Baal Cycle tablet KTU 1.6</data><data key="type">TABLET</data></node>
     <node id="text.vedic.aranyakas"><data key="name">Aranyakas</data><data key="type">SCRIPTURE</data></node>
     <node id="text.vedic.atharvaveda"><data key="name">Atharvaveda</data><data key="type">SCRIPTURE</data></node>
     <node id="text.vedic.brahmanas"><data key="name">Brahmanas</data><data key="type">SCRIPTURE</data></node>
     <node id="text.vedic.rigveda"><data key="name">Rigveda</data><data key="type">SCRIPTURE</data></node>
+    <node id="text.vedic.rigveda.1_32"><data key="name">Rigveda 1.32 witness</data><data key="type">TEXT</data></node>
     <node id="text.vedic.samaveda"><data key="name">Samaveda</data><data key="type">SCRIPTURE</data></node>
     <node id="text.vedic.yajurveda"><data key="name">Yajurveda</data><data key="type">SCRIPTURE</data></node>
     <node id="text.yoruba.ifa_corpus"><data key="name">Ifá corpus</data><data key="type">ORAL_TRADITION</data></node>
@@ -655,6 +732,130 @@
     <edge id="claim.v0100.screen_depicts_raijin" source="museum.japan.sotatsu_wind_thunder_screens" target="deity.japanese.raijin"><data key="relation">DEPICTS</data></edge>
     <edge id="claim.v0100.taketsunumi_parent_tamayori" source="deity.japanese.kamo_taketsunumi" target="deity.japanese.tamayorihime_kamo"><data key="relation">PARENT_OF</data></edge>
     <edge id="claim.v0100.tamayori_parent_kamo" source="deity.japanese.tamayorihime_kamo" target="deity.japanese.kamo_wakeikazuchi"><data key="relation">PARENT_OF</data></edge>
+    <edge id="claim.v0110.contents_held" source="museum.met.pso_contents_21_9_1d" target="institution.met"><data key="relation">HELD_BY_MUSEUM</data></edge>
+    <edge id="claim.v0110.fig28_depicts" source="museum.met.pso_28_3_48" target="deity.egyptian.ptah_sokar_osiris"><data key="relation">DEPICTS</data></edge>
+    <edge id="claim.v0110.fig28_held" source="museum.met.pso_28_3_48" target="institution.met"><data key="relation">HELD_BY_MUSEUM</data></edge>
+    <edge id="claim.v0110.fig34_depicts" source="museum.met.pso_34_9" target="deity.egyptian.ptah_sokar_osiris"><data key="relation">DEPICTS</data></edge>
+    <edge id="claim.v0110.fig34_held" source="museum.met.pso_34_9" target="institution.met"><data key="relation">HELD_BY_MUSEUM</data></edge>
+    <edge id="claim.v0110.ihyt_contents" source="museum.met.pso_21_9_1abc" target="museum.met.pso_contents_21_9_1d"><data key="relation">ASSOCIATED_WITH</data></edge>
+    <edge id="claim.v0110.ihyt_depicts" source="museum.met.pso_21_9_1abc" target="deity.egyptian.ptah_sokar_osiris"><data key="relation">DEPICTS</data></edge>
+    <edge id="claim.v0110.ihyt_held" source="museum.met.pso_21_9_1abc" target="institution.met"><data key="relation">HELD_BY_MUSEUM</data></edge>
+    <edge id="claim.v0110.pso_component_osiris" source="deity.egyptian.ptah_sokar_osiris" target="deity.egyptian.osiris"><data key="relation">COMPOSITE_EXPRESSION_OF</data></edge>
+    <edge id="claim.v0110.pso_component_ptah" source="deity.egyptian.ptah_sokar_osiris" target="deity.egyptian.ptah"><data key="relation">COMPOSITE_EXPRESSION_OF</data></edge>
+    <edge id="claim.v0110.pso_component_sokar" source="deity.egyptian.ptah_sokar_osiris" target="deity.egyptian.sokar"><data key="relation">COMPOSITE_EXPRESSION_OF</data></edge>
+    <edge id="claim.v0120.atum_horakhty_component_atum" source="deity.egyptian.atum_horakhty" target="deity.egyptian.atum"><data key="relation">COMPOSITE_EXPRESSION_OF</data></edge>
+    <edge id="claim.v0120.atum_horakhty_component_horakhty" source="deity.egyptian.atum_horakhty" target="deity.egyptian.ra_horakhty"><data key="relation">COMPOSITE_EXPRESSION_OF</data></edge>
+    <edge id="claim.v0120.atum_ra_component_atum" source="deity.egyptian.atum_ra" target="deity.egyptian.atum"><data key="relation">COMPOSITE_EXPRESSION_OF</data></edge>
+    <edge id="claim.v0120.atum_ra_component_ra" source="deity.egyptian.atum_ra" target="deity.egyptian.ra"><data key="relation">COMPOSITE_EXPRESSION_OF</data></edge>
+    <edge id="claim.v0120.chapter15_part_book" source="text.egypt.book_dead_chapter15" target="text.egypt.book_dead"><data key="relation">PART_OF</data></edge>
+    <edge id="claim.v0120.darius_protected_atum_ra" source="historical.achaemenid.darius_i" target="deity.egyptian.atum_ra"><data key="relation">ASSOCIATED_WITH</data></edge>
+    <edge id="claim.v0120.hymn_mentions_atum_horakhty" source="text.egypt.sun_hymn_standard_c_prime" target="deity.egyptian.atum_horakhty"><data key="relation">MENTIONED_IN</data></edge>
+    <edge id="claim.v0120.hymn_mentions_ra" source="text.egypt.sun_hymn_standard_c_prime" target="deity.egyptian.ra"><data key="relation">MENTIONED_IN</data></edge>
+    <edge id="claim.v0120.hymn_part_chapter15" source="text.egypt.sun_hymn_standard_c_prime" target="text.egypt.book_dead_chapter15"><data key="relation">PART_OF</data></edge>
+    <edge id="claim.v0120.solarforms_atum" source="concept.egyptian.rising_setting_solar_forms" target="deity.egyptian.atum"><data key="relation">ASSOCIATED_WITH</data></edge>
+    <edge id="claim.v0120.solarforms_ra_horakhty" source="concept.egyptian.rising_setting_solar_forms" target="deity.egyptian.ra_horakhty"><data key="relation">ASSOCIATED_WITH</data></edge>
+    <edge id="claim.v0120.statue_atum_ra" source="museum.iran.darius_susa_statue" target="deity.egyptian.atum_ra"><data key="relation">ASSOCIATED_WITH</data></edge>
+    <edge id="claim.v0120.statue_represents_darius" source="museum.iran.darius_susa_statue" target="historical.achaemenid.darius_i"><data key="relation">REPRESENTS</data></edge>
+    <edge id="claim.v0130.dsab_akkadian_part" source="text.persia.dsab.akkadian" target="text.persia.dsab"><data key="relation">PART_OF</data></edge>
+    <edge id="claim.v0130.dsab_elamite_part" source="text.persia.dsab.elamite" target="text.persia.dsab"><data key="relation">PART_OF</data></edge>
+    <edge id="claim.v0130.dsab_mentions_ahuramazda" source="text.persia.dsab" target="deity.zoroastrian.ahura_mazda"><data key="relation">MENTIONS</data></edge>
+    <edge id="claim.v0130.dsab_old_persian_part" source="text.persia.dsab.old_persian" target="text.persia.dsab"><data key="relation">PART_OF</data></edge>
+    <edge id="claim.v0130.dsab_on_statue" source="text.persia.dsab" target="museum.iran.darius_susa_statue"><data key="relation">DEPICTED_ON</data></edge>
+    <edge id="claim.v0130.hieroglyphic_program_distinct_dsab" source="text.egypt.darius_susa_hieroglyphic_program" target="text.persia.dsab"><data key="relation">ASSOCIATED_WITH</data></edge>
+    <edge id="claim.v0130.hieroglyphic_program_on_statue" source="text.egypt.darius_susa_hieroglyphic_program" target="museum.iran.darius_susa_statue"><data key="relation">DEPICTED_ON</data></edge>
+    <edge id="claim.v0130.province_list_part_program" source="text.egypt.darius_susa_hieroglyphic_province_list" target="text.egypt.darius_susa_hieroglyphic_program"><data key="relation">PART_OF</data></edge>
+    <edge id="claim.v0130.province_list_represents_subjects" source="text.egypt.darius_susa_hieroglyphic_province_list" target="concept.persia.darius_statue_subject_peoples"><data key="relation">REPRESENTS</data></edge>
+    <edge id="claim.v0140.discovery_at_gate" source="event.archaeology.darius_statue_discovery_1972" target="site.iran.susa_darius_gate"><data key="relation">ASSOCIATED_WITH</data></edge>
+    <edge id="claim.v0140.discovery_event_statue" source="event.archaeology.darius_statue_discovery_1972" target="museum.iran.darius_susa_statue"><data key="relation">HAS_PARTICIPANT</data></edge>
+    <edge id="claim.v0140.gate_begun_darius" source="site.iran.susa_darius_gate" target="historical.achaemenid.darius_i"><data key="relation">CREATED_BY</data></edge>
+    <edge id="claim.v0140.gate_finished_xerxes" source="site.iran.susa_darius_gate" target="historical.achaemenid.xerxes_i"><data key="relation">CREATED_BY</data></edge>
+    <edge id="claim.v0140.gate_part_susa" source="site.iran.susa_darius_gate" target="site.iran.susa"><data key="relation">PART_OF</data></edge>
+    <edge id="claim.v0140.statue_at_gate" source="museum.iran.darius_susa_statue" target="site.iran.susa_darius_gate"><data key="relation">EXCAVATED_AT</data></edge>
+    <edge id="claim.v0140.statue_held_nmi" source="museum.iran.darius_susa_statue" target="institution.iran.national_museum"><data key="relation">HELD_BY_MUSEUM</data></edge>
+    <edge id="claim.v0140.susa_darius_residence" source="site.iran.susa" target="historical.achaemenid.darius_i"><data key="relation">ASSOCIATED_WITH</data></edge>
+    <edge id="claim.v0140.transfer_arrived_susa" source="event.persia.darius_statue_transfer_egypt_susa" target="site.iran.susa"><data key="relation">ASSOCIATED_WITH</data></edge>
+    <edge id="claim.v0140.transfer_subject" source="event.persia.darius_statue_transfer_egypt_susa" target="museum.iran.darius_susa_statue"><data key="relation">HAS_PARTICIPANT</data></edge>
+    <edge id="claim.v0140.transfer_xerxes" source="historical.achaemenid.xerxes_i" target="event.persia.darius_statue_transfer_egypt_susa"><data key="relation">PARTICIPATED_IN</data></edge>
+    <edge id="claim.v0150.hiero1_carrier" source="text.egypt.darius_susa.hieroglyph_text_1" target="museum.iran.darius_susa_statue"><data key="relation">DEPICTED_ON</data></edge>
+    <edge id="claim.v0150.hiero1_part" source="text.egypt.darius_susa.hieroglyph_text_1" target="text.egypt.darius_susa_hieroglyphic_program"><data key="relation">PART_OF</data></edge>
+    <edge id="claim.v0150.hiero2_carrier" source="text.egypt.darius_susa.hieroglyph_text_2" target="museum.iran.darius_susa_statue"><data key="relation">DEPICTED_ON</data></edge>
+    <edge id="claim.v0150.hiero2_part" source="text.egypt.darius_susa.hieroglyph_text_2" target="text.egypt.darius_susa_hieroglyphic_program"><data key="relation">PART_OF</data></edge>
+    <edge id="claim.v0150.hiero3_carrier" source="text.egypt.darius_susa.hieroglyph_text_3" target="museum.iran.darius_susa_statue"><data key="relation">DEPICTED_ON</data></edge>
+    <edge id="claim.v0150.hiero3_part" source="text.egypt.darius_susa.hieroglyph_text_3" target="text.egypt.darius_susa_hieroglyphic_program"><data key="relation">PART_OF</data></edge>
+    <edge id="claim.v0150.hiero4_carrier" source="text.egypt.darius_susa.hieroglyph_text_4" target="museum.iran.darius_susa_statue"><data key="relation">DEPICTED_ON</data></edge>
+    <edge id="claim.v0150.hiero4_part" source="text.egypt.darius_susa.hieroglyph_text_4" target="text.egypt.darius_susa_hieroglyphic_program"><data key="relation">PART_OF</data></edge>
+    <edge id="claim.v0150.subject_left_part" source="text.egypt.darius_susa.subject_list.left_twelve" target="text.egypt.darius_susa_hieroglyphic_province_list"><data key="relation">PART_OF</data></edge>
+    <edge id="claim.v0150.subject_right_part" source="text.egypt.darius_susa.subject_list.right_twelve" target="text.egypt.darius_susa_hieroglyphic_province_list"><data key="relation">PART_OF</data></edge>
+    <edge id="claim.v0160.dossier_statue" source="text.archaeology.darius_statue_susa_dossier_1972" target="museum.iran.darius_susa_statue"><data key="relation">ASSOCIATED_WITH</data></edge>
+    <edge id="claim.v0160.heliopolis_proposed" source="museum.iran.darius_susa_statue" target="site.egypt.heliopolis_atum_precinct"><data key="relation">ASSOCIATED_WITH</data></edge>
+    <edge id="claim.v0160.wadi_provenance" source="museum.iran.darius_susa_statue" target="site.egypt.wadi_hammamat_quarries"><data key="relation">ASSOCIATED_WITH</data></edge>
+    <edge id="claim.v0160.xsd_attributes_darius" source="text.persia.xsd" target="historical.achaemenid.darius_i"><data key="relation">MENTIONS</data></edge>
+    <edge id="claim.v0160.xsd_on_gate" source="text.persia.xsd" target="site.iran.susa_darius_gate"><data key="relation">DEPICTED_ON</data></edge>
+    <edge id="claim.v0170.aphrodite_part_way" source="site.greece.sacred_way_aphrodite_daphne" target="site.greece.sacred_way"><data key="relation">PART_OF</data></edge>
+    <edge id="claim.v0170.aphrodite_worship" source="deity.greek.aphrodite" target="site.greece.sacred_way_aphrodite_daphne"><data key="relation">WORSHIPPED_AT</data></edge>
+    <edge id="claim.v0170.bridge_part_way" source="site.greece.sacred_way_roman_bridge" target="site.greece.sacred_way"><data key="relation">PART_OF</data></edge>
+    <edge id="claim.v0170.i71_eleusis" source="text.greek.ieleusis71" target="site.greece.eleusis"><data key="relation">ASSOCIATED_WITH</data></edge>
+    <edge id="claim.v0170.i72_eleusis" source="text.greek.ieleusis72" target="site.greece.eleusis"><data key="relation">ASSOCIATED_WITH</data></edge>
+    <edge id="claim.v0170.ninnion_held" source="museum.nam.ninnion_tablet_a11036" target="institution.nam_athens"><data key="relation">HELD_BY_MUSEUM</data></edge>
+    <edge id="claim.v0170.ninnion_secrecy_limit" source="museum.nam.ninnion_tablet_a11036" target="concept.greek.eleusinian_secrecy"><data key="relation">ASSOCIATED_WITH</data></edge>
+    <edge id="claim.v0170.reliefnetwork_metcopy" source="concept.greek.eleusinian_relief_copy_network" target="museum.met.eleusinian_relief_14_130_9"><data key="relation">HAS_MEMBER</data></edge>
+    <edge id="claim.v0170.reliefnetwork_original" source="concept.greek.eleusinian_relief_copy_network" target="museum.nam.great_eleusinian_relief_126"><data key="relation">HAS_MEMBER</data></edge>
+    <edge id="claim.v0180.fragment_mentions_hono" source="text.japan.yamashiro_fudoki_kamo_fragment" target="deity.japanese.honoikazuchi_otokuni"><data key="relation">MENTIONS</data></edge>
+    <edge id="claim.v0180.fragment_mentions_tamayori" source="text.japan.yamashiro_fudoki_kamo_fragment" target="deity.japanese.tamayorihime_kamo"><data key="relation">MENTIONS</data></edge>
+    <edge id="claim.v0180.fragment_mentions_wake" source="text.japan.yamashiro_fudoki_kamo_fragment" target="deity.japanese.kamo_wakeikazuchi"><data key="relation">MENTIONS</data></edge>
+    <edge id="claim.v0180.hoitsu_copy_sotatsu" source="modern_work.japan.hoitsu_wind_thunder_version" target="museum.japan.sotatsu_wind_thunder_screens"><data key="relation">LATER_COPY_OF</data></edge>
+    <edge id="claim.v0180.hoitsu_created" source="modern_work.japan.hoitsu_wind_thunder_version" target="historical.japan.sakai_hoitsu"><data key="relation">CREATED_BY</data></edge>
+    <edge id="claim.v0180.karaijin_regional" source="deity.japanese.karaijin" target="deity.japanese.raijin"><data key="relation">ASSOCIATED_WITH</data></edge>
+    <edge id="claim.v0180.korin_copy_sotatsu" source="museum.tnm.korin_wind_thunder_a11189_1" target="museum.japan.sotatsu_wind_thunder_screens"><data key="relation">LATER_COPY_OF</data></edge>
+    <edge id="claim.v0180.korin_created" source="museum.tnm.korin_wind_thunder_a11189_1" target="historical.japan.ogata_korin"><data key="relation">CREATED_BY</data></edge>
+    <edge id="claim.v0180.korin_depicts_fujin" source="museum.tnm.korin_wind_thunder_a11189_1" target="deity.japanese.fujin"><data key="relation">DEPICTS</data></edge>
+    <edge id="claim.v0180.korin_depicts_raijin" source="museum.tnm.korin_wind_thunder_a11189_1" target="deity.japanese.raijin"><data key="relation">DEPICTS</data></edge>
+    <edge id="claim.v0180.korin_held" source="museum.tnm.korin_wind_thunder_a11189_1" target="institution.japan.tokyo_national_museum"><data key="relation">HELD_BY_MUSEUM</data></edge>
+    <edge id="claim.v0180.network_hoitsu" source="concept.japan.wind_thunder_screen_copy_network" target="modern_work.japan.hoitsu_wind_thunder_version"><data key="relation">HAS_MEMBER</data></edge>
+    <edge id="claim.v0180.network_korin" source="concept.japan.wind_thunder_screen_copy_network" target="museum.tnm.korin_wind_thunder_a11189_1"><data key="relation">HAS_MEMBER</data></edge>
+    <edge id="claim.v0180.network_sotatsu" source="concept.japan.wind_thunder_screen_copy_network" target="museum.japan.sotatsu_wind_thunder_screens"><data key="relation">HAS_MEMBER</data></edge>
+    <edge id="claim.v0190.gylf_ask" source="text.norse.gylfaginning.ch8_9" target="person.norse.ask"><data key="relation">MENTIONS</data></edge>
+    <edge id="claim.v0190.gylf_embla" source="text.norse.gylfaginning.ch8_9" target="person.norse.embla"><data key="relation">MENTIONS</data></edge>
+    <edge id="claim.v0190.gylf_odin" source="text.norse.gylfaginning.ch8_9" target="deity.norse.odin"><data key="relation">MENTIONS</data></edge>
+    <edge id="claim.v0190.gylf_ve" source="text.norse.gylfaginning.ch8_9" target="deity.norse.ve"><data key="relation">MENTIONS</data></edge>
+    <edge id="claim.v0190.gylf_vili" source="text.norse.gylfaginning.ch8_9" target="deity.norse.vili"><data key="relation">MENTIONS</data></edge>
+    <edge id="claim.v0190.skald_brokkr" source="text.norse.skaldskaparmal" target="being.norse.brokkr"><data key="relation">MENTIONS</data></edge>
+    <edge id="claim.v0190.skald_meili" source="text.norse.skaldskaparmal" target="deity.norse.meili"><data key="relation">MENTIONS</data></edge>
+    <edge id="claim.v0190.voluspa_ask" source="text.norse.voluspa.st17_18" target="person.norse.ask"><data key="relation">MENTIONS</data></edge>
+    <edge id="claim.v0190.voluspa_embla" source="text.norse.voluspa.st17_18" target="person.norse.embla"><data key="relation">MENTIONS</data></edge>
+    <edge id="claim.v0190.voluspa_hoenir" source="text.norse.voluspa.st17_18" target="deity.norse.hoenir"><data key="relation">MENTIONS</data></edge>
+    <edge id="claim.v0190.voluspa_lodurr" source="text.norse.voluspa.st17_18" target="deity.norse.lodurr"><data key="relation">MENTIONS</data></edge>
+    <edge id="claim.v0190.voluspa_odin" source="text.norse.voluspa.st17_18" target="deity.norse.odin"><data key="relation">MENTIONS</data></edge>
+    <edge id="claim.v0200.anzu_appears" source="creature.akkadian.anzu" target="text.akkadian.anzu"><data key="relation">APPEARS_IN</data></edge>
+    <edge id="claim.v0200.baal_son_dagan" source="deity.ugaritic.baal" target="deity.ugaritic.dagan"><data key="relation">CHILD_OF</data></edge>
+    <edge id="claim.v0200.baal_son_el" source="deity.ugaritic.baal" target="deity.ugaritic.el"><data key="relation">CHILD_OF</data></edge>
+    <edge id="claim.v0200.event_anat" source="deity.ugaritic.anat" target="event.ugaritic.baal_mot_ktu15_16"><data key="relation">PARTICIPATED_IN</data></edge>
+    <edge id="claim.v0200.event_baal" source="deity.ugaritic.baal" target="event.ugaritic.baal_mot_ktu15_16"><data key="relation">PARTICIPATED_IN</data></edge>
+    <edge id="claim.v0200.event_mot" source="deity.ugaritic.mot" target="event.ugaritic.baal_mot_ktu15_16"><data key="relation">PARTICIPATED_IN</data></edge>
+    <edge id="claim.v0200.identification_inanna" source="concept.mesopotamia.inanna_ishtar_identification" target="deity.sumerian.inanna"><data key="relation">HAS_MEMBER</data></edge>
+    <edge id="claim.v0200.identification_ishtar" source="concept.mesopotamia.inanna_ishtar_identification" target="deity.akkadian.ishtar"><data key="relation">HAS_MEMBER</data></edge>
+    <edge id="claim.v0200.ktu15_part" source="text.ugaritic.baal_cycle.ktu1_5" target="text.ugaritic.baal_cycle"><data key="relation">PART_OF</data></edge>
+    <edge id="claim.v0200.ktu16_part" source="text.ugaritic.baal_cycle.ktu1_6" target="text.ugaritic.baal_cycle"><data key="relation">PART_OF</data></edge>
+    <edge id="claim.v0200.ninurta_appears" source="deity.akkadian.ninurta" target="text.akkadian.anzu"><data key="relation">APPEARS_IN</data></edge>
+    <edge id="claim.v0210.hanshu_mentions" source="text.chinese.hanshu.wuxing_omen_passage" target="concept.chinese.wuxing"><data key="relation">MENTIONS</data></edge>
+    <edge id="claim.v0210.hanshu_part" source="text.chinese.hanshu.wuxing_omen_passage" target="text.chinese.han_shu_wuxing_zhi"><data key="relation">PART_OF</data></edge>
+    <edge id="claim.v0210.hongfan_mentions" source="text.chinese.hongfan.wuxing_passage" target="concept.chinese.wuxing"><data key="relation">MENTIONS</data></edge>
+    <edge id="claim.v0210.hongfan_part" source="text.chinese.hongfan.wuxing_passage" target="text.chinese.hong_fan"><data key="relation">PART_OF</data></edge>
+    <edge id="claim.v0210.visual_249" source="concept.chinese.leigong.visual_witnesses" target="site.chinese.mogao_cave_249"><data key="relation">HAS_MEMBER</data></edge>
+    <edge id="claim.v0210.visual_285" source="concept.chinese.leigong.visual_witnesses" target="site.chinese.mogao_cave_285"><data key="relation">HAS_MEMBER</data></edge>
+    <edge id="claim.v0210.visual_lunheng" source="concept.chinese.leigong.visual_witnesses" target="text.chinese.lunheng"><data key="relation">HAS_MEMBER</data></edge>
+    <edge id="claim.v0220.bm_held" source="museum.bm.vajra_1948_0716_11_b" target="institution.british_museum"><data key="relation">HELD_BY_MUSEUM</data></edge>
+    <edge id="claim.v0220.indra_uses" source="deity.vedic.indra" target="weapon.vedic.vajra"><data key="relation">USES</data></edge>
+    <edge id="claim.v0220.met_held" source="museum.met.vajra_1994_605_43" target="institution.met"><data key="relation">HELD_BY_MUSEUM</data></edge>
+    <edge id="claim.v0220.network_bm" source="concept.south_asia.vajra_reception_layers" target="museum.bm.vajra_1948_0716_11_b"><data key="relation">HAS_MEMBER</data></edge>
+    <edge id="claim.v0220.network_met" source="concept.south_asia.vajra_reception_layers" target="museum.met.vajra_1994_605_43"><data key="relation">HAS_MEMBER</data></edge>
+    <edge id="claim.v0220.network_rubin" source="concept.south_asia.vajra_reception_layers" target="museum.rubin.vajra_sc2022_3_2_1"><data key="relation">HAS_MEMBER</data></edge>
+    <edge id="claim.v0220.network_weapon" source="concept.south_asia.vajra_reception_layers" target="weapon.vedic.vajra"><data key="relation">HAS_MEMBER</data></edge>
+    <edge id="claim.v0220.rubin_held" source="museum.rubin.vajra_sc2022_3_2_1" target="institution.rubin_museum"><data key="relation">HELD_BY_MUSEUM</data></edge>
+    <edge id="claim.v0220.rv_indra" source="text.vedic.rigveda.1_32" target="deity.vedic.indra"><data key="relation">MENTIONS</data></edge>
+    <edge id="claim.v0220.rv_part" source="text.vedic.rigveda.1_32" target="text.vedic.rigveda"><data key="relation">PART_OF</data></edge>
+    <edge id="claim.v0220.rv_vajra" source="text.vedic.rigveda.1_32" target="weapon.vedic.vajra"><data key="relation">MENTIONS</data></edge>
+    <edge id="claim.v0220.rv_vritra" source="text.vedic.rigveda.1_32" target="creature.vedic.vritra"><data key="relation">MENTIONS</data></edge>
     <edge id="claim.v040.aether.child_erebus" source="deity.greek.aether" target="deity.greek.erebus"><data key="relation">CHILD_OF</data></edge>
     <edge id="claim.v040.aether.child_nyx" source="deity.greek.aether" target="deity.greek.nyx"><data key="relation">CHILD_OF</data></edge>
     <edge id="claim.v040.asteria.parent_hecate" source="deity.greek.asteria" target="deity.greek.hecate"><data key="relation">PARENT_OF</data></edge>

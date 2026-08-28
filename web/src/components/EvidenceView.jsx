@@ -10,16 +10,25 @@ const locatorText = (evidence) =>
 export default function EvidenceView({ claims, copy, language }) {
   const [query, setQuery] = useState('')
   const [scope, setScope] = useState('ALL')
+  const [layer, setLayer] = useState('ALL')
+  const [review, setReview] = useState('ALL')
+  const [evidenceType, setEvidenceType] = useState('ALL')
   const scopes = useMemo(() => [...new Set(claims.map((claim) => claim.assertionScope).filter(Boolean))].sort(), [claims])
+  const layers = useMemo(() => [...new Set(claims.map((claim) => claim.knowledgeLayer).filter(Boolean))].sort(), [claims])
+  const reviews = useMemo(() => [...new Set(claims.map((claim) => claim.reviewStatus).filter(Boolean))].sort(), [claims])
+  const evidenceTypes = useMemo(() => [...new Set(claims.flatMap((claim) => claim.evidence.map((item) => item.evidenceType)).filter(Boolean))].sort(), [claims])
   const filtered = useMemo(() => {
     const needle = query.trim().toLocaleLowerCase()
     return claims.filter((claim) => {
       if (scope !== 'ALL' && claim.assertionScope !== scope) return false
+      if (layer !== 'ALL' && claim.knowledgeLayer !== layer) return false
+      if (review !== 'ALL' && claim.reviewStatus !== review) return false
+      if (evidenceType !== 'ALL' && !claim.evidence.some((item) => item.evidenceType === evidenceType)) return false
       if (!needle) return true
       const evidenceText = claim.evidence.map((item) => `${item.sourceTitle} ${item.institution || ''} ${item.sourceId}`).join(' ')
       return `${claim.id} ${claim.predicate} ${claim.statement || ''} ${evidenceText}`.toLocaleLowerCase().includes(needle)
     })
-  }, [claims, query, scope])
+  }, [claims, evidenceType, layer, query, review, scope])
 
   return (
     <main className="single-view evidence-view">
@@ -32,7 +41,7 @@ export default function EvidenceView({ claims, copy, language }) {
         <div className="view-count"><strong>{filtered.length}</strong><span>{copy.claims}</span></div>
       </header>
 
-      <div className="evidence-toolbar">
+      <div className="evidence-toolbar is-layered">
         <label className="search-box compact-search">
           <SearchIcon size={20} />
           <input
@@ -46,6 +55,18 @@ export default function EvidenceView({ claims, copy, language }) {
         <select aria-label={copy.assertionScope} value={scope} onChange={(event) => setScope(event.target.value)}>
           <option value="ALL">{language === 'zh' ? '全部说法范围' : 'All assertion scopes'}</option>
           {scopes.map((item) => <option key={item} value={item}>{item}</option>)}
+        </select>
+        <select aria-label={copy.knowledgeLayer} value={layer} onChange={(event) => setLayer(event.target.value)}>
+          <option value="ALL">{language === 'zh' ? '全部知识层' : 'All knowledge layers'}</option>
+          {layers.map((item) => <option key={item} value={item}>{item}</option>)}
+        </select>
+        <select aria-label={copy.review} value={review} onChange={(event) => setReview(event.target.value)}>
+          <option value="ALL">{language === 'zh' ? '全部审核状态' : 'All review states'}</option>
+          {reviews.map((item) => <option key={item} value={item}>{statusLabel(item, language)}</option>)}
+        </select>
+        <select aria-label={language === 'zh' ? '证据类型' : 'Evidence type'} value={evidenceType} onChange={(event) => setEvidenceType(event.target.value)}>
+          <option value="ALL">{language === 'zh' ? '全部证据类型' : 'All evidence types'}</option>
+          {evidenceTypes.map((item) => <option key={item} value={item}>{item}</option>)}
         </select>
       </div>
 

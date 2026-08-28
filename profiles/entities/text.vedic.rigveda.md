@@ -18,6 +18,7 @@
 |---|---|---|---:|---:|---|
 | `HAS_APPEARANCE_OF` | 因陀罗与弗栗多之战（《梨俱吠陀》1.32） (`event.vedic.indra_vritra_rv132`) | VERIFIED / TEXT_SAYS / TEXTUAL_WITNESS | 1 | 0.99 | inferred inverse; `claim.v060.vedic.event_appears_rigveda` |
 | `HAS_APPEARANCE_OF` | 金刚杵／雷霆 (`weapon.vedic.vajra`) | VERIFIED / TEXT_SAYS / TEXTUAL_WITNESS | 1 | 0.99 | inferred inverse; `claim.v060.vedic.vajra_appears_rigveda` |
+| `HAS_PART` | 《梨俱吠陀》1.32见证 (`text.vedic.rigveda.1_32`) | VERIFIED / HISTORICAL_REALITY / TEXTUAL_WITNESS | 1 | 0.99 | inferred inverse; `claim.v0220.rv_part` |
 
 ## Claims 与证据
 

@@ -20,6 +20,7 @@ Great Plan chapter containing an early received formulation of the five xing.
 
 | Relation | Target | Review / layer | Evidence | Confidence | Direction |
 |---|---|---|---:|---:|---|
+| `HAS_PART` | 《洪范》五行段落见证 (`text.chinese.hongfan.wuxing_passage`) | VERIFIED / HISTORICAL_REALITY / TEXTUAL_WITNESS | 1 | 0.99 | inferred inverse; `claim.v0210.hongfan_part` |
 | `MENTIONS` | 五行 (`concept.chinese.wuxing`) | VERIFIED / TEXT_SAYS / TEXTUAL_WITNESS | 1 | 0.99 | inferred inverse; `claim.wuxing.mentioned_hongfan` |
 
 ## Claims 与证据

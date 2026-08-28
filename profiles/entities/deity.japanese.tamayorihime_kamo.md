@@ -21,6 +21,7 @@
 | Relation | Target | Review / layer | Evidence | Confidence | Direction |
 |---|---|---|---:|---:|---|
 | `CHILD_OF` | 贺茂建角身命 (`deity.japanese.kamo_taketsunumi`) | VERIFIED / SCHOLARLY_INTERPRETATION / TEXTUAL_WITNESS | 1 | 0.96 | inferred inverse; `claim.v0100.taketsunumi_parent_tamayori` |
+| `MENTIONED_IN` | 《山城国风土记》贺茂残片 (`text.japan.yamashiro_fudoki_kamo_fragment`) | VERIFIED / TEXT_SAYS / TEXTUAL_WITNESS | 1 | 0.99 | inferred inverse; `claim.v0180.fragment_mentions_tamayori` |
 | `PARENT_OF` | 贺茂别雷大神 (`deity.japanese.kamo_wakeikazuchi`) | VERIFIED / SCHOLARLY_INTERPRETATION / TEXTUAL_WITNESS | 1 | 0.96 | stored claim; `claim.v0100.tamayori_parent_kamo` |
 
 ## Claims 与证据

@@ -36,5 +36,7 @@ Dwarf smith named as Brokkr’s brother in one common naming tradition.
   - 来源：[Snorri Sturluson: Edda. Skáldskaparmál](https://vsnr.org/editions/snorri-sturluson-edda-skaldskaparmal/)；定位：Skáldskaparmál 35
 - `claim.eitri.participated_forging` [PROVISIONAL / TEXT_SAYS / 0.88] Eitri participates as smith in the divine-treasure forging contest.
   - 来源：[Snorri Sturluson: Edda. Skáldskaparmál](https://vsnr.org/editions/snorri-sturluson-edda-skaldskaparmal/)；定位：Skáldskaparmál 35
+- `claim.v0190.eitri_reading` [VERIFIED / SCHOLARLY_INTERPRETATION / 0.90] Eitri is retained as the normalized-edition name for Brokkr’s smith-brother.
+  - 来源：[Snorri Sturluson: Edda. Skáldskaparmál](https://vsnr.org/editions/snorri-sturluson-edda-skaldskaparmal/)；定位：Skáldskaparmál edition and notes
 
 > 本档案只代表当前阶段性基线，不是对该传统的最终或唯一解释。

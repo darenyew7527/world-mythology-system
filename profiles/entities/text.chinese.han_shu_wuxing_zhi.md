@@ -20,6 +20,7 @@ Treatise that quotes and develops earlier five-xing frameworks in omen historiog
 
 | Relation | Target | Review / layer | Evidence | Confidence | Direction |
 |---|---|---|---:|---:|---|
+| `HAS_PART` | 《汉书·五行志》灾异框架见证 (`text.chinese.hanshu.wuxing_omen_passage`) | VERIFIED / HISTORICAL_REALITY / TEXTUAL_WITNESS | 1 | 0.99 | inferred inverse; `claim.v0210.hanshu_part` |
 | `MENTIONS` | 五行 (`concept.chinese.wuxing`) | VERIFIED / TEXT_SAYS / TEXTUAL_WITNESS | 1 | 0.98 | inferred inverse; `claim.wuxing.mentioned_hanshu` |
 
 ## Claims 与证据

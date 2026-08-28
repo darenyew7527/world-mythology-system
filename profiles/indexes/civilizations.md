@@ -24,9 +24,11 @@
 | civ.celtic | 凯尔特 | Celtic | TRADITION_FAMILY | COLLECTING | PARTIAL |
 | civ.central_african | 中非传统 | Central African Traditions | TRADITION_FAMILY | DISCOVERED | UNVERIFIED |
 | civ.central_asian | 中亚 | Central Asian | TRADITION_FAMILY | DISCOVERED | UNVERIFIED |
+| civ.buddhist_chinese | 中国佛教传统 | Chinese Buddhist traditions | REGIONAL_TRADITION | PARTIAL | SOURCE_BACKED |
 | civ.daoist | 中国道教 | Chinese Daoist | RELIGIOUS_TRADITION | COLLECTING | PARTIAL |
 | civ.chinese_folk | 中国民间信仰 | Chinese Folk Religion | TRADITION_FAMILY | COLLECTING | PARTIAL |
 | civ.chinese_local | 中国地方神系 | Chinese Local Traditions | TRADITION_FAMILY | DISCOVERED | UNVERIFIED |
+| civ.chinese | 中国传统跨时期总类 | Chinese traditions — cross-period umbrella | CROSS_PERIOD_RESEARCH_UMBRELLA | PARTIAL | SOURCE_BACKED |
 | civ.east_african | 东非传统 | East African Traditions | TRADITION_FAMILY | DISCOVERED | UNVERIFIED |
 | civ.ethiopian | 埃塞俄比亚传统 | Ethiopian Traditions | TRADITION_FAMILY | DISCOVERED | UNVERIFIED |
 | civ.etruscan | 伊特鲁里亚 | Etruscan | CIVILIZATION | DISCOVERED | UNVERIFIED |
@@ -34,12 +36,14 @@
 | civ.gaulish | 高卢 | Gaulish | TRADITION | DISCOVERED | UNVERIFIED |
 | civ.germanic | 日耳曼 | Germanic | TRADITION | DISCOVERED | UNVERIFIED |
 | civ.hawaiian | 夏威夷 | Hawaiian | TRADITION_FAMILY | COLLECTING | PARTIAL |
+| civ.buddhist_himalayan | 喜马拉雅佛教传统 | Himalayan Buddhist traditions | REGIONAL_TRADITION | PARTIAL | SOURCE_BACKED |
 | civ.hindu | 印度教传统 | Hindu | RELIGIOUS_TRADITION | COLLECTING | PARTIAL |
 | civ.hittite | 赫梯 | Hittite | CIVILIZATION | DISCOVERED | UNVERIFIED |
 | civ.hurrian | 胡里安 | Hurrian | CIVILIZATION | DISCOVERED | UNVERIFIED |
 | civ.ifa | Ifá | Ifá | DIVINATION_AND_ORAL_CORPUS | COLLECTING | PARTIAL |
 | civ.igbo | Igbo | Igbo | TRADITION_FAMILY | DISCOVERED | UNVERIFIED |
 | civ.inca | 印加 | Inca | CIVILIZATION | DISCOVERED | UNVERIFIED |
+| civ.buddhist_indian | 印度佛教传统 | Indian Buddhist traditions | REGIONAL_TRADITION | PARTIAL | SOURCE_BACKED |
 | civ.indian_regional | 印度地方传统 | Indian Regional Traditions | TRADITION_FAMILY | DISCOVERED | UNVERIFIED |
 | civ.indonesian | 印尼传统 | Indonesian Traditions | TRADITION_FAMILY | DISCOVERED | UNVERIFIED |
 | civ.inuit | 因纽特 | Inuit | TRADITION_FAMILY | DISCOVERED | UNVERIFIED |

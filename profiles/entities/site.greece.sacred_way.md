@@ -22,6 +22,8 @@
 |---|---|---|---:|---:|---|
 | `ASSOCIATED_WITH` | 厄琉息斯 (`site.greece.eleusis`) | VERIFIED / HISTORICAL_REALITY / ARCHAEOLOGICAL | 1 | 0.99 | stored claim; `claim.v080.sacredway_eleusis` |
 | `ASSOCIATED_WITH` | 大厄琉息斯节 (`festival.greek.great_eleusinia`) | VERIFIED / SCHOLARLY_INTERPRETATION / RITUAL_PRACTICE | 1 | 0.96 | inferred inverse; `claim.v080.eleusinia_sacredway` |
+| `HAS_PART` | 厄琉息斯基菲索斯河罗马桥 (`site.greece.sacred_way_roman_bridge`) | VERIFIED / HISTORICAL_REALITY / ARCHAEOLOGICAL | 1 | 0.99 | inferred inverse; `claim.v0170.bridge_part_way` |
+| `HAS_PART` | 达夫尼阿佛洛狄忒圣所 (`site.greece.sacred_way_aphrodite_daphne`) | VERIFIED / HISTORICAL_REALITY / ARCHAEOLOGICAL | 1 | 0.99 | inferred inverse; `claim.v0170.aphrodite_part_way` |
 
 ## Claims 与证据
 

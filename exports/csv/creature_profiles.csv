@@ -8,6 +8,7 @@ being.norse.mimir,UNRESOLVED_SUPERNATURAL_BEING,{},"[""wisdom"",""counsel""]",[]
 being.norse.sindri,DWARF,{},"[""smithing""]",[],,,
 being.norse.sons_of_ivaldi,CREATURE,{},[],[],,,
 being.norse.ymir,GIANT,{},[],[],,,
+creature.akkadian.anzu,MYTHIC_MONSTROUS_BIRD,"{""form"":""lion-eagle in later scholarly description""}","[""control associated with stolen Tablet of Destinies""]",[],,Akkadian Anzu myth witness.,Defeated by Ninurta in the registered synopsis.
 creature.greek.cyclopes_hesiodic,GIANT,{},[],[],,,
 creature.greek.typhon,MONSTER,"{""heads"":""one hundred serpent heads in Hesiod 824-835"",""features"":[""flashing fire"",""many voices""]}","[""immense strength"",""fire"",""terrifying voices""]",[],,Child of Gaia and Tartarus in Hesiod,Defeated by Zeus and cast into Tartarus in Hesiod
 creature.norse.fenrir,MONSTER,{},[],[],,,

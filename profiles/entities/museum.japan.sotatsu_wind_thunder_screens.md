@@ -23,7 +23,10 @@
 | `CREATED_BY` | 俵屋宗达 (`historical.japan.tawaraya_sotatsu`) | VERIFIED / SCHOLARLY_INTERPRETATION / ARCHAEOLOGICAL | 1 | 0.99 | stored claim; `claim.v0100.screen_created_sotatsu` |
 | `DEPICTS` | 风神 (`deity.japanese.fujin`) | VERIFIED / SCHOLARLY_INTERPRETATION / LATER_RECEPTION | 1 | 0.99 | stored claim; `claim.v0100.screen_depicts_fujin` |
 | `DEPICTS` | 雷神 (`deity.japanese.raijin`) | VERIFIED / SCHOLARLY_INTERPRETATION / LATER_RECEPTION | 1 | 0.99 | stored claim; `claim.v0100.screen_depicts_raijin` |
+| `HAS_LATER_COPY` | 尾形光琳《风神雷神图屏风》A-11189-1 (`museum.tnm.korin_wind_thunder_a11189_1`) | VERIFIED / SCHOLARLY_INTERPRETATION / LATER_RECEPTION | 1 | 0.99 | inferred inverse; `claim.v0180.korin_copy_sotatsu` |
+| `HAS_LATER_COPY` | 酒井抱一《风神雷神图》版本研究档 (`modern_work.japan.hoitsu_wind_thunder_version`) | VERIFIED / SCHOLARLY_INTERPRETATION / LATER_RECEPTION | 1 | 0.88 | inferred inverse; `claim.v0180.hoitsu_copy_sotatsu` |
 | `HELD_BY_MUSEUM` | 京都国立博物馆 (`institution.japan.kyoto_national_museum`) | VERIFIED / HISTORICAL_REALITY / ARCHAEOLOGICAL | 1 | 0.95 | stored claim; `claim.v0100.screen_catalogued_knm` |
+| `MEMBER_OF` | 宗达—光琳—抱一风雷屏风网络 (`concept.japan.wind_thunder_screen_copy_network`) | VERIFIED / SCHOLARLY_INTERPRETATION / LATER_RECEPTION | 1 | 0.99 | inferred inverse; `claim.v0180.network_sotatsu` |
 
 ## Claims 与证据
 

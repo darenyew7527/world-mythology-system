@@ -3,7 +3,9 @@ lang.akk,Akkadian,阿卡德语,akk,Cuneiform,,
 lang.ave,Avestan,阿维斯陀语,ave,Avestan,,
 lang.egy,Egyptian,古埃及语,egy,Hieroglyphic/Hieratic/Demotic,,
 lang.el,Modern Greek,现代希腊语,ell,Greek,Modern,Added for current Greek Ministry and archaeological-project pages; distinct from Ancient Greek lang.grc.
+lang.elx,Elamite,埃兰语,elx,Elamite cuneiform,Achaemenid administrative/royal inscription stage,Language of one DSab version; not merged with Akkadian.
 lang.en,English,英语,eng,Latin,,
+lang.fra,French,法语,fra,Latin,Modern,Added for French archaeological and epigraphic scholarship; not an ancient inscription language.
 lang.gle,Irish,爱尔兰语,gle,Latin/Ogham,,
 lang.grc,Ancient Greek,古希腊语,grc,Greek,,
 lang.haw,Hawaiian,夏威夷语,haw,Latin,,
@@ -16,6 +18,7 @@ lang.nci,Classical Nahuatl,古典纳瓦特尔语,nci,Latin/Pictorial,,
 lang.non,Old Norse,古诺斯语,non,Runic/Latin,,
 lang.ojp,Old Japanese,上代日语,ojp,Man'yōgana,,
 lang.pal,Middle Persian,中古波斯语,pal,Pahlavi,,
+lang.peo,Old Persian,古波斯语,peo,Old Persian cuneiform,Achaemenid,Distinct from Middle Persian lang.pal.
 lang.san,Sanskrit,梵语,san,Multiple,,
 lang.sux,Sumerian,苏美尔语,sux,Cuneiform,,
 lang.uga,Ugaritic,乌加里特语,uga,Ugaritic cuneiform,,

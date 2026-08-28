@@ -26,8 +26,10 @@
 | `HAS_MEMBER` | 木（五行） (`element.chinese.mu`) | UNVERIFIED / IN_TRADITION / MYTHIC_NARRATIVE | 1 | 0.65 | inferred inverse; `claim.wuxing.member.mu` |
 | `HAS_MEMBER` | 水（五行） (`element.chinese.shui`) | UNVERIFIED / IN_TRADITION / MYTHIC_NARRATIVE | 1 | 0.65 | inferred inverse; `claim.wuxing.member.shui` |
 | `HAS_MEMBER` | 土（五行） (`element.chinese.tu`) | UNVERIFIED / IN_TRADITION / MYTHIC_NARRATIVE | 1 | 0.65 | inferred inverse; `claim.wuxing.member.tu` |
+| `MENTIONED_IN` | 《汉书·五行志》灾异框架见证 (`text.chinese.hanshu.wuxing_omen_passage`) | VERIFIED / TEXT_SAYS / TEXTUAL_WITNESS | 1 | 0.99 | inferred inverse; `claim.v0210.hanshu_mentions` |
 | `MENTIONED_IN` | 汉书·五行志 (`text.chinese.han_shu_wuxing_zhi`) | VERIFIED / TEXT_SAYS / TEXTUAL_WITNESS | 1 | 0.98 | stored claim; `claim.wuxing.mentioned_hanshu` |
 | `MENTIONED_IN` | 洪范 (`text.chinese.hong_fan`) | VERIFIED / TEXT_SAYS / TEXTUAL_WITNESS | 1 | 0.99 | stored claim; `claim.wuxing.mentioned_hongfan` |
+| `MENTIONED_IN` | 《洪范》五行段落见证 (`text.chinese.hongfan.wuxing_passage`) | VERIFIED / TEXT_SAYS / TEXTUAL_WITNESS | 1 | 0.99 | inferred inverse; `claim.v0210.hongfan_mentions` |
 
 ## Claims 与证据
 

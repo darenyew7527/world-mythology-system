@@ -4,6 +4,7 @@ const messages = {
     brandEnglish: 'World Mythology System',
     nav: {
       explore: '探索',
+      workbench: '证据工作台',
       graph: '关系图谱',
       thunder: '神祇对照',
       evidence: '文献证据',
@@ -137,6 +138,7 @@ const messages = {
     brandEnglish: '世界神话系统',
     nav: {
       explore: 'Explore',
+      workbench: 'Evidence Workbench',
       graph: 'Knowledge Graph',
       thunder: 'Comparisons',
       evidence: 'Texts & Evidence',

@@ -24,6 +24,7 @@
 
 ## Claims 与证据
 
-尚无 claim；实体仅为发现/索引入口。
+- `claim.v0200.baal_title_lexeme` [VERIFIED / SCHOLARLY_INTERPRETATION / 0.96] The bʿl lexeme can function as a title and must be resolved by context.
+  - 来源：[Baˁlu Epic KTU 1.1–1.6 — corpus and tablet concordance](https://eupt.uni-goettingen.de/Korpus.html)；定位：KTU corpus overview and concordance
 
 > 本档案只代表当前阶段性基线，不是对该传统的最终或唯一解释。

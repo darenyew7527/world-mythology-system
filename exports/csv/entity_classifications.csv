@@ -27,7 +27,10 @@ being.norse.ymir,GIANT,1,
 being.norse.ymir,PRIMORDIAL_DEITY,0,
 being.zoroastrian.angra_mainyu,DEITY,1,
 being.zoroastrian.angra_mainyu,CONCEPT,0,
+concept.chinese.leigong.visual_witnesses,CONCEPT,1,v0.21.0 Chinese semantic layers
 concept.chinese.wuxing,CONCEPT,1,
+concept.chinese.wuxing.han_correlative_omens,CONCEPT,1,v0.21.0 Chinese semantic layers
+concept.chinese.wuxing.hongfan_operations,CONCEPT,1,v0.21.0 Chinese semantic layers
 concept.chinese.wuxing.huo,ELEMENT,1,Primary classification at research checkpoint 2026-08-11
 concept.chinese.wuxing.jin,ELEMENT,1,Primary classification at research checkpoint 2026-08-11
 concept.chinese.wuxing.mu,ELEMENT,1,Primary classification at research checkpoint 2026-08-11
@@ -87,14 +90,23 @@ concept.comparative.wood,ELEMENT,1,
 concept.egyptian.divine_syncretism,CONCEPT,1,v0.7.0 Egyptian solar-composite checkpoint
 concept.egyptian.isfet,CONCEPT,1,
 concept.egyptian.ma_at,CONCEPT,1,
+concept.egyptian.rising_setting_solar_forms,CONCEPT,1,v0.12.0 Ra-Atum witness-layer checkpoint
 concept.greek.classical_elements,CONCEPT,1,
+concept.greek.eleusinian_relief_copy_network,CONCEPT,1,v0.17.0 Eleusis network
 concept.greek.eleusinian_secrecy,CONCEPT,1,v0.8.0 Eleusis evidence-layer checkpoint
 concept.greek.persian_name_aition,CONCEPT,1,v0.9.0 Perses homonym audit checkpoint
 concept.indian.pancamahabhuta,CONCEPT,1,
+concept.japan.wind_thunder_screen_copy_network,CONCEPT,1,v0.18.0 Japanese thunder witnesses
+concept.maori.iwi_variant_scope,CONCEPT,1,v0.23.0 living-tradition permissions
+concept.mesopotamia.inanna_ishtar_identification,CONCEPT,1,v0.20.0 ancient Near East witnesses
 concept.norse.fire_ice_cosmogony,COSMOLOGY,1,
+concept.persia.darius_statue_subject_peoples,CONCEPT,1,v0.13.0 Darius statue inscription checkpoint
+concept.south_asia.vajra_reception_layers,CONCEPT,1,v0.22.0 vajra reception layers
 concept.ugaritic.baal_title,CONCEPT,1,v0.6.0 thunder and storm comparison checkpoint
+concept.yoruba.living_tradition_access,CONCEPT,1,v0.23.0 living-tradition permissions
 concept.zoroastrian.asha,CONCEPT,1,
 concept.zoroastrian.druj,CONCEPT,1,
+creature.akkadian.anzu,MONSTER,1,v0.20.0 ancient Near East witnesses
 creature.greek.cyclopes_hesiodic,GIANT,1,
 creature.greek.typhon,MONSTER,1,Primary classification at research checkpoint 2026-08-11
 creature.norse.fenrir,MONSTER,1,
@@ -103,6 +115,7 @@ creature.norse.gullinbursti,ARTIFACT,0,Crafted living being in Skáldskaparmál;
 creature.norse.jormungandr,DRAGON,1,
 creature.vedic.vritra,MONSTER,1,v0.6.0 thunder and storm comparison checkpoint
 deity.akkadian.ishtar,DEITY,1,
+deity.akkadian.ninurta,DEITY,1,v0.20.0 ancient Near East witnesses
 deity.assyrian.ashur,DEITY,1,
 deity.babylonian.marduk,DEITY,1,
 deity.babylonian.tiamat,PRIMORDIAL_DEITY,1,
@@ -116,6 +129,8 @@ deity.egyptian.amun,DEITY,1,
 deity.egyptian.amun_ra,DEITY,1,v0.7.0 Egyptian solar-composite checkpoint
 deity.egyptian.anubis,DEITY,1,
 deity.egyptian.atum,PRIMORDIAL_DEITY,1,
+deity.egyptian.atum_horakhty,DEITY,1,v0.12.0 Ra-Atum witness-layer checkpoint
+deity.egyptian.atum_ra,DEITY,1,v0.12.0 Ra-Atum witness-layer checkpoint
 deity.egyptian.geb,DEITY,1,
 deity.egyptian.hathor,DEITY,1,
 deity.egyptian.horus,DEITY,1,
@@ -129,11 +144,13 @@ deity.egyptian.nephthys,DEITY,1,
 deity.egyptian.nut,DEITY,1,
 deity.egyptian.osiris,DEITY,1,
 deity.egyptian.ptah,DEITY,1,
+deity.egyptian.ptah_sokar_osiris,DEITY,1,v0.11.0 Ptah-Sokar-Osiris object-evidence checkpoint
 deity.egyptian.ra,DEITY,1,
 deity.egyptian.ra_horakhty,DEITY,1,v0.7.0 Egyptian solar-composite checkpoint
 deity.egyptian.sekhmet,DEITY,1,
 deity.egyptian.seth,DEITY,1,
 deity.egyptian.shu,DEITY,1,
+deity.egyptian.sokar,DEITY,1,v0.11.0 Ptah-Sokar-Osiris object-evidence checkpoint
 deity.egyptian.tefnut,DEITY,1,
 deity.egyptian.thoth,DEITY,1,
 deity.greek.aether,PRIMORDIAL_DEITY,1,Primary classification from v0.4.0 Greek genealogy checkpoint
@@ -209,6 +226,7 @@ deity.japanese.izanagi,DEITY,1,
 deity.japanese.izanami,DEITY,1,
 deity.japanese.kamo_taketsunumi,DEITY,1,v0.10.0 Japanese thunder local-dossier checkpoint
 deity.japanese.kamo_wakeikazuchi,DEITY,1,v0.10.0 Japanese thunder local-dossier checkpoint
+deity.japanese.karaijin,DEITY,1,v0.18.0 Japanese thunder witnesses
 deity.japanese.kuroikazuchi,DEITY,1,v0.6.0 thunder and storm comparison checkpoint
 deity.japanese.naruikazuchi,DEITY,1,v0.6.0 thunder and storm comparison checkpoint
 deity.japanese.ooikazuchi,DEITY,1,v0.6.0 thunder and storm comparison checkpoint
@@ -238,7 +256,9 @@ deity.norse.frigg,DEITY,1,
 deity.norse.heimdall,DEITY,1,
 deity.norse.hel,DEITY,1,
 deity.norse.hel,CONCEPT,0,
+deity.norse.hoenir,DEITY,1,v0.19.0 Norse witness graph
 deity.norse.jord,DEITY,1,v0.6.0 thunder and storm comparison checkpoint
+deity.norse.lodurr,DEITY,1,v0.19.0 Norse witness graph
 deity.norse.loki,DEITY,1,
 deity.norse.magni,DEITY,1,v0.6.0 thunder and storm comparison checkpoint
 deity.norse.meili,DEITY,1,v0.6.0 thunder and storm comparison checkpoint
@@ -268,6 +288,7 @@ deity.sumerian.utu,DEITY,1,
 deity.ugaritic.anat,DEITY,1,
 deity.ugaritic.asherah,DEITY,1,
 deity.ugaritic.baal,DEITY,1,
+deity.ugaritic.dagan,DEITY,1,v0.20.0 ancient Near East witnesses
 deity.ugaritic.el,DEITY,1,
 deity.ugaritic.kothar_wa_khasis,DEITY,1,v0.6.0 thunder and storm comparison checkpoint
 deity.ugaritic.mot,DEITY,1,
@@ -293,6 +314,7 @@ element.indian.akasha,ELEMENT,1,
 element.indian.ap,ELEMENT,1,
 element.indian.prithvi,ELEMENT,1,
 element.indian.vayu,ELEMENT,1,
+event.archaeology.darius_statue_discovery_1972,EVENT,1,v0.14.0 Darius statue provenance checkpoint
 event.babylonian.marduk_tiamat,EVENT,1,
 event.egyptian.nocturnal_solar_journey,EVENT,1,v0.7.0 Egyptian solar-composite checkpoint
 event.greek.medea_restores_aeetes,EVENT,1,v0.9.0 Perses homonym audit checkpoint
@@ -301,7 +323,9 @@ event.greek.titanomachy,EVENT,1,
 event.greek.zeus_typhon_battle,EVENT,1,Primary classification at research checkpoint 2026-08-11
 event.norse.forging_divine_treasures,EVENT,1,Primary classification at research checkpoint 2026-08-11
 event.norse.ragnarok,EVENT,1,
+event.persia.darius_statue_transfer_egypt_susa,EVENT,1,v0.14.0 Darius statue provenance checkpoint
 event.sumerian.inanna_descent,EVENT,1,
+event.ugaritic.baal_mot_ktu15_16,EVENT,1,v0.20.0 ancient Near East witnesses
 event.ugaritic.baal_yamm_ktu12,EVENT,1,v0.6.0 thunder and storm comparison checkpoint
 event.vedic.indra_vritra_rv132,EVENT,1,v0.6.0 thunder and storm comparison checkpoint
 festival.egyptian.opet,FESTIVAL,1,v0.7.0 Egyptian solar-composite checkpoint
@@ -326,32 +350,52 @@ hero.japanese.yamato_takeru,HERO,1,
 hero.kiche.hunahpu,HERO,1,
 hero.kiche.xbalanque,HERO,1,
 hero.polynesian.maui,HERO,1,
+historical.achaemenid.darius_i,HISTORICAL_FIGURE,1,v0.12.0 Ra-Atum witness-layer checkpoint
+historical.achaemenid.xerxes_i,HISTORICAL_FIGURE,1,v0.14.0 Darius statue provenance checkpoint
+historical.japan.ogata_korin,HISTORICAL_FIGURE,1,v0.18.0 Japanese thunder witnesses
+historical.japan.sakai_hoitsu,HISTORICAL_FIGURE,1,v0.18.0 Japanese thunder witnesses
 historical.japan.tawaraya_sotatsu,HISTORICAL_FIGURE,1,v0.10.0 Japanese thunder local-dossier checkpoint
 institution.british_museum,INSTITUTION,1,
+institution.iran.national_museum,INSTITUTION,1,v0.14.0 Darius statue provenance checkpoint
 institution.japan.kyoto_national_museum,INSTITUTION,1,v0.10.0 Japanese thunder local-dossier checkpoint
+institution.japan.tokyo_national_museum,INSTITUTION,1,v0.18.0 Japanese thunder witnesses
 institution.louvre,INSTITUTION,1,
 institution.met,INSTITUTION,1,
 institution.nam_athens,INSTITUTION,1,v0.8.0 Eleusis evidence-layer checkpoint
+institution.rubin_museum,INSTITUTION,1,v0.22.0 vajra reception layers
 institution.swedish_history_museum,INSTITUTION,1,
 modern.marvel.mcu.hela,MODERN_WORK,1,v0.6.0 thunder and storm comparison checkpoint
 modern.marvel.mcu.loki,MODERN_WORK,1,v0.6.0 thunder and storm comparison checkpoint
 modern.marvel.mcu.thor,MODERN_WORK,1,v0.6.0 thunder and storm comparison checkpoint
+modern_work.japan.hoitsu_wind_thunder_version,MODERN_WORK,1,v0.18.0 Japanese thunder witnesses
 museum.babylon.flood_tablet_k3375,MUSEUM_OBJECT,1,
 museum.bm.khepri_hymn_stela_ea826,MUSEUM_OBJECT,1,v0.7.0 Egyptian solar-composite checkpoint
+museum.bm.vajra_1948_0716_11_b,MUSEUM_OBJECT,1,v0.22.0 vajra reception layers
 museum.egypt.papyrus_ani_frame3,MUSEUM_OBJECT,1,
 museum.greek.zeus_poseidon_met_21_88_52,MUSEUM_OBJECT,1,
+museum.iran.darius_susa_statue,MUSEUM_OBJECT,1,v0.12.0 Ra-Atum witness-layer checkpoint
 museum.japan.sotatsu_wind_thunder_screens,MUSEUM_OBJECT,1,v0.10.0 Japanese thunder local-dossier checkpoint
 museum.met.amun_re_scarab_09_180_953,MUSEUM_OBJECT,1,v0.7.0 Egyptian solar-composite checkpoint
 museum.met.eleusinian_relief_14_130_9,MUSEUM_OBJECT,1,v0.8.0 Eleusis evidence-layer checkpoint
 museum.met.nauny_book_dead_30_3_31,MUSEUM_OBJECT,1,v0.7.0 Egyptian solar-composite checkpoint
+museum.met.pso_21_9_1abc,MUSEUM_OBJECT,1,v0.11.0 Ptah-Sokar-Osiris object-evidence checkpoint
+museum.met.pso_28_3_48,MUSEUM_OBJECT,1,v0.11.0 Ptah-Sokar-Osiris object-evidence checkpoint
+museum.met.pso_34_9,MUSEUM_OBJECT,1,v0.11.0 Ptah-Sokar-Osiris object-evidence checkpoint
+museum.met.pso_contents_21_9_1d,MUSEUM_OBJECT,1,v0.11.0 Ptah-Sokar-Osiris object-evidence checkpoint
 museum.met.ra_horakhty_amulet_74_51_4497,MUSEUM_OBJECT,1,v0.7.0 Egyptian solar-composite checkpoint
 museum.met.ra_horakhty_stela_oc81,MUSEUM_OBJECT,1,v0.7.0 Egyptian solar-composite checkpoint
+museum.met.vajra_1994_605_43,MUSEUM_OBJECT,1,v0.22.0 vajra reception layers
 museum.nam.great_eleusinian_relief_126,MUSEUM_OBJECT,1,v0.8.0 Eleusis evidence-layer checkpoint
+museum.nam.ninnion_tablet_a11036,MUSEUM_OBJECT,1,v0.17.0 Eleusis network
 museum.norse.mjolnir_rings,MUSEUM_OBJECT,1,
+museum.rubin.vajra_sc2022_3_2_1,MUSEUM_OBJECT,1,v0.22.0 vajra reception layers
+museum.tnm.korin_wind_thunder_a11189_1,MUSEUM_OBJECT,1,v0.18.0 Japanese thunder witnesses
 museum.ugarit.baal_cycle_ao16643,MUSEUM_OBJECT,1,
 museum.ugarit.baal_cycle_ao16643,TABLET,0,
 museum.ugarit.baal_thunder_ao15775,MUSEUM_OBJECT,1,
 museum.ugarit.baal_thunder_ao15775,MONUMENT,0,
+person.norse.ask,PERSON,1,v0.19.0 Norse witness graph
+person.norse.embla,PERSON,1,v0.19.0 Norse witness graph
 place.norse.mimisbrunnr,MYTHICAL_PLACE,1,Primary classification at research checkpoint 2026-08-11
 realm.egypt.duat,REALM,1,
 realm.greek.tartarus,REALM,1,Primary classification at research checkpoint 2026-08-11
@@ -367,6 +411,7 @@ site.chile.rapa_nui,MONUMENT,1,
 site.china.kunlun_scope,PLACE,1,
 site.china.ritual_sites_scope,ARCHAEOLOGICAL_SITE,1,
 site.china.taishan,PLACE,1,
+site.chinese.mogao_cave_249,ARCHAEOLOGICAL_SITE,1,v0.21.0 Chinese semantic layers
 site.chinese.mogao_cave_285,ARCHAEOLOGICAL_SITE,1,v0.6.0 thunder and storm comparison checkpoint
 site.denmark.hedeby,ARCHAEOLOGICAL_SITE,1,
 site.egypt.abu_simbel,TEMPLE,1,
@@ -375,12 +420,14 @@ site.egypt.dahshur,PYRAMID,1,
 site.egypt.dendera,TEMPLE,1,
 site.egypt.edfu,TEMPLE,1,
 site.egypt.giza,PYRAMID,1,
+site.egypt.heliopolis_atum_precinct,ARCHAEOLOGICAL_SITE,1,v0.16.0 Darius archaeological chain
 site.egypt.karnak,TEMPLE,1,
 site.egypt.karnak_great_temple_amun_ra,TEMPLE,1,v0.7.0 Egyptian solar-composite checkpoint
 site.egypt.luxor_temple,TEMPLE,1,
 site.egypt.philae,TEMPLE,1,
 site.egypt.saqqara,ARCHAEOLOGICAL_SITE,1,
 site.egypt.valley_kings,TOMB,1,
+site.egypt.wadi_hammamat_quarries,ARCHAEOLOGICAL_SITE,1,v0.16.0 Darius archaeological chain
 site.ethiopia.aksum,ARCHAEOLOGICAL_SITE,1,
 site.ethiopia.lalibela,MONUMENT,1,
 site.greece.acropolis,ARCHAEOLOGICAL_SITE,1,
@@ -394,6 +441,8 @@ site.greece.knossos,ARCHAEOLOGICAL_SITE,1,
 site.greece.mycenae,ARCHAEOLOGICAL_SITE,1,
 site.greece.olympia,ARCHAEOLOGICAL_SITE,1,
 site.greece.sacred_way,ARCHAEOLOGICAL_SITE,1,v0.8.0 Eleusis evidence-layer checkpoint
+site.greece.sacred_way_aphrodite_daphne,ARCHAEOLOGICAL_SITE,1,v0.17.0 Eleusis network
+site.greece.sacred_way_roman_bridge,ARCHAEOLOGICAL_SITE,1,v0.17.0 Eleusis network
 site.guatemala.tikal,ARCHAEOLOGICAL_SITE,1,
 site.iceland.sacred_scope,PLACE,1,
 site.india.elephanta,TEMPLE,1,
@@ -403,6 +452,8 @@ site.india.konark,TEMPLE,1,
 site.india.varanasi,PLACE,1,
 site.indonesia.borobudur,TEMPLE,1,
 site.indonesia.prambanan,TEMPLE,1,
+site.iran.susa,ARCHAEOLOGICAL_SITE,1,v0.14.0 Darius statue provenance checkpoint
+site.iran.susa_darius_gate,ARCHAEOLOGICAL_SITE,1,v0.14.0 Darius statue provenance checkpoint
 site.iraq.ashur,ARCHAEOLOGICAL_SITE,1,
 site.iraq.babylon,ARCHAEOLOGICAL_SITE,1,
 site.iraq.eridu,ARCHAEOLOGICAL_SITE,1,
@@ -443,6 +494,7 @@ text.akkadian.anzu,TEXT,1,
 text.akkadian.erra_epic,EPIC,1,
 text.akkadian.etana,EPIC,1,
 text.andean.huarochiri,MANUSCRIPT,1,
+text.archaeology.darius_statue_susa_dossier_1972,TEXT,1,v0.16.0 Darius archaeological chain
 text.babylonian.atrahasis,EPIC,1,
 text.babylonian.enuma_elish,EPIC,1,
 text.buddhist.corpus,SCRIPTURE,1,
@@ -453,7 +505,9 @@ text.chinese.daoist_corpus,SCRIPTURE,1,
 text.chinese.fengshen_yanyi,TEXT,1,
 text.chinese.folk_archives,ORAL_TRADITION,1,
 text.chinese.han_shu_wuxing_zhi,TEXT,1,Primary classification at research checkpoint 2026-08-11
+text.chinese.hanshu.wuxing_omen_passage,TEXT,1,v0.21.0 Chinese semantic layers
 text.chinese.hong_fan,TEXT,1,Primary classification at research checkpoint 2026-08-11
+text.chinese.hongfan.wuxing_passage,TEXT,1,v0.21.0 Chinese semantic layers
 text.chinese.huainanzi,TEXT,1,
 text.chinese.local_gazetteers,TEXT,1,
 text.chinese.lunheng,TEXT,1,v0.6.0 thunder and storm comparison checkpoint
@@ -468,12 +522,22 @@ text.chinese.xiyouji,TEXT,1,
 text.egypt.amduat,TEXT,1,
 text.egypt.book_caverns,TEXT,1,
 text.egypt.book_dead,PAPYRUS,1,
+text.egypt.book_dead_chapter15,TEXT,1,v0.12.0 Ra-Atum witness-layer checkpoint
 text.egypt.book_dead_spell17,TEXT,1,v0.7.0 Egyptian solar-composite checkpoint
 text.egypt.book_gates,TEXT,1,
 text.egypt.coffin_texts,INSCRIPTION,1,
+text.egypt.darius_susa.hieroglyph_text_1,INSCRIPTION,1,v0.15.0 Darius inscription witness decomposition
+text.egypt.darius_susa.hieroglyph_text_2,INSCRIPTION,1,v0.15.0 Darius inscription witness decomposition
+text.egypt.darius_susa.hieroglyph_text_3,INSCRIPTION,1,v0.15.0 Darius inscription witness decomposition
+text.egypt.darius_susa.hieroglyph_text_4,INSCRIPTION,1,v0.15.0 Darius inscription witness decomposition
+text.egypt.darius_susa.subject_list.left_twelve,INSCRIPTION,1,v0.15.0 Darius inscription witness decomposition
+text.egypt.darius_susa.subject_list.right_twelve,INSCRIPTION,1,v0.15.0 Darius inscription witness decomposition
+text.egypt.darius_susa_hieroglyphic_program,TEXT,1,v0.13.0 Darius statue inscription checkpoint
+text.egypt.darius_susa_hieroglyphic_province_list,TEXT,1,v0.13.0 Darius statue inscription checkpoint
 text.egypt.litany_re,TEXT,1,
 text.egypt.memphite_theology,INSCRIPTION,1,
 text.egypt.pyramid_texts,INSCRIPTION,1,
+text.egypt.sun_hymn_standard_c_prime,TEXT,1,v0.12.0 Ra-Atum witness-layer checkpoint
 text.egypt.temple_tomb_inscriptions,INSCRIPTION,1,
 text.greek.apollodorus_library,TEXT,1,v0.9.0 Perses homonym audit checkpoint
 text.greek.argonautica,EPIC,1,
@@ -494,6 +558,8 @@ text.greek.homeric_hymn_hestia_29,TEXT,1,Primary classification from v0.4.0 Gree
 text.greek.homeric_hymn_poseidon_22,TEXT,1,v0.5.0 primary-source profile checkpoint
 text.greek.homeric_hymn_selene_32,TEXT,1,Primary classification from v0.4.0 Greek genealogy checkpoint
 text.greek.homeric_hymns,TEXT,1,
+text.greek.ieleusis71,INSCRIPTION,1,v0.17.0 Eleusis network
+text.greek.ieleusis72,INSCRIPTION,1,v0.17.0 Eleusis network
 text.greek.ieleusis97,INSCRIPTION,1,v0.8.0 Eleusis evidence-layer checkpoint
 text.greek.iliad,EPIC,1,
 text.greek.inscriptions,INSCRIPTION,1,
@@ -510,6 +576,7 @@ text.indian.mahabharata,EPIC,1,
 text.indian.ramayana,EPIC,1,
 text.indian.regional_epics,ORAL_TRADITION,1,
 text.jain.corpus,SCRIPTURE,1,
+text.japan.yamashiro_fudoki_kamo_fragment,TEXT,1,v0.18.0 Japanese thunder witnesses
 text.japanese.fudoki,TEXT,1,
 text.japanese.kojiki,TEXT,1,
 text.japanese.local_legends,ORAL_TRADITION,1,
@@ -528,6 +595,7 @@ text.mexica.florentine_codex,MANUSCRIPT,1,
 text.mongol.epics,ORAL_TRADITION,1,
 text.norse.grimnismal,TEXT,1,
 text.norse.gylfaginning,TEXT,1,
+text.norse.gylfaginning.ch8_9,TEXT,1,v0.19.0 Norse witness graph
 text.norse.havamal,TEXT,1,
 text.norse.lokasenna,TEXT,1,
 text.norse.poetic_edda,MANUSCRIPT,1,
@@ -538,6 +606,12 @@ text.norse.skaldskaparmal,TEXT,1,
 text.norse.thrymskvida,TEXT,1,
 text.norse.vafthrudnismal,TEXT,1,
 text.norse.voluspa,TEXT,1,
+text.norse.voluspa.st17_18,TEXT,1,v0.19.0 Norse witness graph
+text.persia.dsab,TEXT,1,v0.13.0 Darius statue inscription checkpoint
+text.persia.dsab.akkadian,TEXT,1,v0.13.0 Darius statue inscription checkpoint
+text.persia.dsab.elamite,TEXT,1,v0.13.0 Darius statue inscription checkpoint
+text.persia.dsab.old_persian,TEXT,1,v0.13.0 Darius statue inscription checkpoint
+text.persia.xsd,INSCRIPTION,1,v0.16.0 Darius archaeological chain
 text.persian.shahnameh,EPIC,1,
 text.polynesia.creation_chants,ORAL_TRADITION,1,
 text.roman.aeneid,EPIC,1,
@@ -549,10 +623,13 @@ text.sumerian.inanna_descent,TEXT,1,
 text.sumerian.king_list,TEXT,1,
 text.turkic.inscriptions,INSCRIPTION,1,
 text.ugaritic.baal_cycle,TABLET,1,
+text.ugaritic.baal_cycle.ktu1_5,TABLET,1,v0.20.0 ancient Near East witnesses
+text.ugaritic.baal_cycle.ktu1_6,TABLET,1,v0.20.0 ancient Near East witnesses
 text.vedic.aranyakas,SCRIPTURE,1,
 text.vedic.atharvaveda,SCRIPTURE,1,
 text.vedic.brahmanas,SCRIPTURE,1,
 text.vedic.rigveda,SCRIPTURE,1,
+text.vedic.rigveda.1_32,TEXT,1,v0.22.0 vajra reception layers
 text.vedic.samaveda,SCRIPTURE,1,
 text.vedic.yajurveda,SCRIPTURE,1,
 text.yoruba.ifa_corpus,ORAL_TRADITION,1,

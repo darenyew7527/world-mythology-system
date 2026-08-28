@@ -2,7 +2,7 @@
 
 数据库：`world_mythology.sqlite`。本页由 `scripts/generate_schema_catalog.py` 从实际数据库反射生成。
 
-- 持久表：45
+- 持久表：47
 - 只读视图：32
 
 ## 对象索引
@@ -12,64 +12,66 @@
 | `aliases` | table | 14 |
 | `artifact_profiles` | table | 38 |
 | `civilization_languages` | table | 23 |
-| `civilizations` | table | 95 |
-| `claims` | table | 389 |
-| `collection_queue` | table | 75 |
+| `civilizations` | table | 99 |
+| `claims` | table | 605 |
+| `collection_queue` | table | 109 |
 | `comparison_set_members` | table | 16 |
 | `comparison_sets` | table | 2 |
-| `conflicts` | table | 15 |
-| `coverage_metrics` | table | 298 |
-| `coverage_reports` | table | 10 |
-| `creature_profiles` | table | 16 |
+| `conflicts` | table | 32 |
+| `coverage_metrics` | table | 718 |
+| `coverage_reports` | table | 24 |
+| `creature_profiles` | table | 17 |
 | `cultures` | table | 18 |
-| `dataset_releases` | table | 10 |
-| `deity_profiles` | table | 168 |
-| `entities` | table | 558 |
+| `dataset_releases` | table | 24 |
+| `deity_profiles` | table | 177 |
+| `entities` | table | 635 |
 | `entity_attributes` | table | 0 |
-| `entity_civilizations` | table | 498 |
-| `entity_classifications` | table | 586 |
+| `entity_civilizations` | table | 580 |
+| `entity_classifications` | table | 663 |
 | `entity_redirects` | table | 5 |
 | `entity_types` | table | 55 |
-| `event_participants` | table | 18 |
-| `evidence` | table | 385 |
-| `identity_candidates` | table | 14 |
+| `event_participants` | table | 21 |
+| `evidence` | table | 601 |
+| `explorer_feature_registry` | table | 10 |
+| `identity_candidates` | table | 21 |
 | `import_errors` | table | 0 |
 | `import_runs` | table | 0 |
-| `languages` | table | 22 |
+| `languages` | table | 25 |
 | `modern_adaptations` | table | 3 |
-| `museum_object_profiles` | table | 14 |
-| `myth_event_profiles` | table | 13 |
-| `names` | table | 1277 |
-| `place_profiles` | table | 84 |
+| `museum_object_profiles` | table | 24 |
+| `myth_event_profiles` | table | 16 |
+| `names` | table | 1364 |
+| `place_profiles` | table | 91 |
 | `project_metadata` | table | 6 |
 | `quality_findings` | table | 0 |
 | `quality_runs` | table | 1 |
-| `queue_discoveries` | table | 75 |
-| `queue_status_history` | table | 67 |
-| `regions` | table | 20 |
+| `queue_discoveries` | table | 99 |
+| `queue_status_history` | table | 76 |
+| `regions` | table | 22 |
 | `relationship_types` | table | 80 |
-| `research_session_items` | table | 383 |
-| `research_sessions` | table | 9 |
-| `schema_migrations` | table | 17 |
-| `sources` | table | 160 |
-| `text_profiles` | table | 124 |
+| `research_session_items` | table | 516 |
+| `research_sessions` | table | 23 |
+| `schema_migrations` | table | 33 |
+| `sources` | table | 203 |
+| `text_profiles` | table | 150 |
+| `tradition_access_policies` | table | 8 |
 | `tradition_links` | table | 6 |
-| `archaeological_sites` | view | 72 |
+| `archaeological_sites` | view | 79 |
 | `artifacts` | view | 38 |
-| `claim_evidence_summary` | view | 389 |
-| `concepts` | view | 46 |
+| `claim_evidence_summary` | view | 605 |
+| `concepts` | view | 57 |
 | `cosmologies` | view | 1 |
-| `creatures` | view | 16 |
-| `deities` | view | 168 |
+| `creatures` | view | 17 |
+| `deities` | view | 177 |
 | `elements` | view | 32 |
-| `events` | view | 11 |
+| `events` | view | 14 |
 | `festivals` | view | 4 |
 | `heroes` | view | 15 |
-| `historical_figures` | view | 1 |
-| `inscriptions` | view | 9 |
+| `historical_figures` | view | 5 |
+| `inscriptions` | view | 18 |
 | `manuscripts` | view | 9 |
 | `monuments` | view | 6 |
-| `museum_objects` | view | 14 |
+| `museum_objects` | view | 24 |
 | `mythical_places` | view | 1 |
 | `myths` | view | 0 |
 | `oral_traditions` | view | 10 |
@@ -77,13 +79,13 @@
 | `powers` | view | 7 |
 | `pyramids` | view | 2 |
 | `realms` | view | 4 |
-| `relationship_edges_bidirectional` | view | 710 |
-| `relationships` | view | 355 |
+| `relationship_edges_bidirectional` | view | 958 |
+| `relationships` | view | 479 |
 | `rituals` | view | 6 |
 | `sacred_objects` | view | 1 |
-| `tablets` | view | 2 |
+| `tablets` | view | 4 |
 | `temples` | view | 15 |
-| `texts` | view | 124 |
+| `texts` | view | 150 |
 | `tombs` | view | 2 |
 | `weapons` | view | 26 |
 
@@ -958,6 +960,40 @@ CREATE TABLE evidence (
 )
 ```
 
+## `explorer_feature_registry` (table)
+
+| 序号 | 字段 | SQLite 类型 | NOT NULL | 默认值 | PK 序位 |
+|---:|---|---|---:|---|---:|
+| 0 | `feature_code` | TEXT | 0 |  | 1 |
+| 1 | `title_zh` | TEXT | 1 |  | 0 |
+| 2 | `title_en` | TEXT | 1 |  | 0 |
+| 3 | `feature_group` | TEXT | 1 |  | 0 |
+| 4 | `data_basis` | TEXT | 1 |  | 0 |
+| 5 | `evidence_caveat` | TEXT | 1 |  | 0 |
+| 6 | `status` | TEXT | 1 |  | 0 |
+| 7 | `introduced_in` | TEXT | 1 |  | 0 |
+| 8 | `display_order` | INTEGER | 1 | 0 | 0 |
+| 9 | `updated_at` | TEXT | 1 |  | 0 |
+| 10 | `notes` | TEXT | 0 |  | 0 |
+
+定义：
+
+```sql
+CREATE TABLE explorer_feature_registry (
+    feature_code TEXT PRIMARY KEY,
+    title_zh TEXT NOT NULL,
+    title_en TEXT NOT NULL,
+    feature_group TEXT NOT NULL,
+    data_basis TEXT NOT NULL,
+    evidence_caveat TEXT NOT NULL,
+    status TEXT NOT NULL CHECK(status IN ('ACTIVE','LIMITED','PENDING')),
+    introduced_in TEXT NOT NULL,
+    display_order INTEGER NOT NULL DEFAULT 0,
+    updated_at TEXT NOT NULL,
+    notes TEXT
+)
+```
+
 ## `identity_candidates` (table)
 
 | 序号 | 字段 | SQLite 类型 | NOT NULL | 默认值 | PK 序位 |
@@ -1671,6 +1707,51 @@ CREATE TABLE text_profiles (
     shelfmark TEXT,
     copyright_status TEXT,
     summary TEXT
+)
+```
+
+## `tradition_access_policies` (table)
+
+| 序号 | 字段 | SQLite 类型 | NOT NULL | 默认值 | PK 序位 |
+|---:|---|---|---:|---|---:|
+| 0 | `id` | TEXT | 0 |  | 1 |
+| 1 | `entity_id` | TEXT | 1 |  | 0 |
+| 2 | `source_id` | TEXT | 0 |  | 0 |
+| 3 | `authority_name` | TEXT | 1 |  | 0 |
+| 4 | `community_context` | TEXT | 0 |  | 0 |
+| 5 | `access_level` | TEXT | 1 |  | 0 |
+| 6 | `permitted_scope` | TEXT | 1 |  | 0 |
+| 7 | `prohibited_scope` | TEXT | 1 |  | 0 |
+| 8 | `attribution_requirement` | TEXT | 0 |  | 0 |
+| 9 | `permission_contact_or_process` | TEXT | 0 |  | 0 |
+| 10 | `policy_basis` | TEXT | 1 |  | 0 |
+| 11 | `reviewed_at` | TEXT | 1 |  | 0 |
+| 12 | `notes` | TEXT | 0 |  | 0 |
+
+外键：
+
+| 字段 | 目标 | ON UPDATE | ON DELETE |
+|---|---|---|---|
+| `source_id` | `sources.id` | NO ACTION | NO ACTION |
+| `entity_id` | `entities.id` | NO ACTION | CASCADE |
+
+定义：
+
+```sql
+CREATE TABLE tradition_access_policies (
+    id TEXT PRIMARY KEY,
+    entity_id TEXT NOT NULL REFERENCES entities(id) ON DELETE CASCADE,
+    source_id TEXT REFERENCES sources(id),
+    authority_name TEXT NOT NULL,
+    community_context TEXT,
+    access_level TEXT NOT NULL CHECK(access_level IN ('PUBLIC_CONTEXT','ATTRIBUTION_REQUIRED','PERMISSION_REQUIRED','DO_NOT_COLLECT')),
+    permitted_scope TEXT NOT NULL,
+    prohibited_scope TEXT NOT NULL,
+    attribution_requirement TEXT,
+    permission_contact_or_process TEXT,
+    policy_basis TEXT NOT NULL,
+    reviewed_at TEXT NOT NULL,
+    notes TEXT
 )
 ```
 

@@ -17,6 +17,9 @@
 | Relation | Target | Review / layer | Evidence | Confidence | Direction |
 |---|---|---|---:|---:|---|
 | `APPEARS_IN` | 《亡灵书》第17咒文 (`text.egypt.book_dead_spell17`) | VERIFIED / TEXT_SAYS / TEXTUAL_WITNESS | 1 | 0.96 | stored claim; `claim.v070.egypt.atum_spell17` |
+| `ASSOCIATED_WITH` | 太阳升起与落下形态 (`concept.egyptian.rising_setting_solar_forms`) | VERIFIED / SCHOLARLY_INTERPRETATION / SCHOLARLY_INTERPRETATION | 1 | 0.96 | inferred inverse; `claim.v0120.solarforms_atum` |
+| `HAS_COMPOSITE_EXPRESSION` | 阿图姆-哈拉赫提 (`deity.egyptian.atum_horakhty`) | VERIFIED / TEXT_SAYS / TEXTUAL_WITNESS | 1 | 0.98 | inferred inverse; `claim.v0120.atum_horakhty_component_atum` |
+| `HAS_COMPOSITE_EXPRESSION` | 阿图姆-拉 (`deity.egyptian.atum_ra`) | VERIFIED / SCHOLARLY_INTERPRETATION / SCHOLARLY_INTERPRETATION | 1 | 0.98 | inferred inverse; `claim.v0120.atum_ra_component_atum` |
 
 ## Claims 与证据
 

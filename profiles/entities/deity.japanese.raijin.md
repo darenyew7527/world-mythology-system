@@ -21,11 +21,17 @@
 | Relation | Target | Review / layer | Evidence | Confidence | Direction |
 |---|---|---|---:|---:|---|
 | `ASSOCIATED_WITH` | 贺茂别雷大神 (`deity.japanese.kamo_wakeikazuchi`) | VERIFIED / SCHOLARLY_INTERPRETATION / SCHOLARLY_INTERPRETATION | 1 | 0.93 | inferred inverse; `claim.v0100.kamo_associated_raijin` |
+| `ASSOCIATED_WITH` | 加雷神／地方雷神 (`deity.japanese.karaijin`) | VERIFIED / SCHOLARLY_INTERPRETATION / SCHOLARLY_INTERPRETATION | 1 | 0.90 | inferred inverse; `claim.v0180.karaijin_regional` |
 | `ASSOCIATED_WITH` | 雷 (`concept.comparative.thunder`) | VERIFIED / SCHOLARLY_INTERPRETATION / SCHOLARLY_INTERPRETATION | 1 | 0.96 | stored claim; `claim.v060.japanese.raijin_thunder_scope` |
+| `DEPICTED_ON` | 尾形光琳《风神雷神图屏风》A-11189-1 (`museum.tnm.korin_wind_thunder_a11189_1`) | VERIFIED / HISTORICAL_REALITY / LATER_RECEPTION | 1 | 0.99 | inferred inverse; `claim.v0180.korin_depicts_raijin` |
 | `DEPICTED_ON` | 俵屋宗达《风神雷神图屏风》 (`museum.japan.sotatsu_wind_thunder_screens`) | VERIFIED / SCHOLARLY_INTERPRETATION / LATER_RECEPTION | 1 | 0.99 | inferred inverse; `claim.v0100.screen_depicts_raijin` |
 
 ## Claims 与证据
 
+- `claim.v0180.raijin_manifestations` [VERIFIED / IN_TRADITION / 0.92] The Kokugakuin overview notes serpent or child manifestation forms for thunder-god traditions.
+  - 来源：[Raijin](https://d-museum.kokugakuin.ac.jp/bts/detail/id%3D3892)；定位：Authority record and scoped summary
+- `claim.v0180.raijin_rain` [VERIFIED / IN_TRADITION / 0.92] The academic overview notes an association between thunder deities and rain production.
+  - 来源：[Raijin](https://d-museum.kokugakuin.ac.jp/bts/detail/id%3D3892)；定位：Authority record and scoped summary
 - `claim.v060.japanese.raijin_thunder_scope` [VERIFIED / SCHOLARLY_INTERPRETATION / 0.96] Kokugakuin’s Basic Terms of Shinto treats Raijin as a thunder-kami designation with multiple regional forms and rain associations.
   - 来源：[Raijin](https://d-museum.kokugakuin.ac.jp/bts/detail/id%3D3892)；定位：Basic Terms of Shinto ID 3892
 

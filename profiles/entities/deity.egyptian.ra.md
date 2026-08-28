@@ -18,7 +18,9 @@
 |---|---|---|---:|---:|---|
 | `ASSOCIATED_WITH` | 太阳船 (`artifact.egyptian.solar_barque`) | VERIFIED / SCHOLARLY_INTERPRETATION / SCHOLARLY_INTERPRETATION | 1 | 0.80 | stored claim; `claim.egypt.ra_associated_solar_barque` |
 | `HAS_COMPOSITE_EXPRESSION` | 阿蒙-拉 (`deity.egyptian.amun_ra`) | VERIFIED / SCHOLARLY_INTERPRETATION / SCHOLARLY_INTERPRETATION | 1 | 0.97 | inferred inverse; `claim.v070.egypt.amun_ra_component_ra` |
+| `HAS_COMPOSITE_EXPRESSION` | 阿图姆-拉 (`deity.egyptian.atum_ra`) | VERIFIED / SCHOLARLY_INTERPRETATION / SCHOLARLY_INTERPRETATION | 1 | 0.98 | inferred inverse; `claim.v0120.atum_ra_component_ra` |
 | `HAS_COMPOSITE_EXPRESSION` | 拉-哈拉赫提 (`deity.egyptian.ra_horakhty`) | VERIFIED / SCHOLARLY_INTERPRETATION / SCHOLARLY_INTERPRETATION | 1 | 0.98 | inferred inverse; `claim.v070.egypt.ra_horakhty_component_ra` |
+| `MENTIONS` | 太阳赞歌：Assmann 标准赞歌 C′ (`text.egypt.sun_hymn_standard_c_prime`) | VERIFIED / TEXT_SAYS / TEXTUAL_WITNESS | 1 | 0.99 | inferred inverse; `claim.v0120.hymn_mentions_ra` |
 | `PARTICIPATED_IN` | 太阳神夜行冥界 (`event.egyptian.nocturnal_solar_journey`) | VERIFIED / HISTORICAL_REALITY / MYTHIC_NARRATIVE | 1 | 0.95 | stored claim; `claim.v070.egypt.ra_participates_solar_journey` |
 
 ## Claims 与证据

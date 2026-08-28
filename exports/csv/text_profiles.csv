@@ -7,6 +7,7 @@ text.akkadian.anzu,MYTHIC_COMPOSITION,lang.akk,Multiple,,Multiple versions,,,,,,
 text.akkadian.erra_epic,EPIC,lang.akk,Kabti-ilani-Marduk (traditional attribution),,First millennium BCE witnesses,,,,,,
 text.akkadian.etana,EPIC,lang.akk,Multiple,,Multiple witnesses,,,,,,
 text.andean.huarochiri,MANUSCRIPT_TRADITION,,Indigenous testimony in colonial compilation,,Early colonial period,,,,,,
+text.archaeology.darius_statue_susa_dossier_1972,SCHOLARLY_REPORT_DOSSIER,lang.fra,"Kervran, Stronach, Vallat and Yoyotte",,1972,Journal asiatique 260,Four separately paginated specialist contributions,University and research libraries,"Journal asiatique 260, pp. 235-266",Modern article copyright applies,"Composite publication record preserving its archaeology, object description, cuneiform and hieroglyphic divisions."
 text.babylonian.atrahasis,EPIC,lang.akk,Multiple,,Old Babylonian onward,,,,,,
 text.babylonian.enuma_elish,CREATION_EPIC,lang.akk,Multiple,,Second millennium BCE tradition,,,,,,
 text.buddhist.corpus,CORPUS_SCOPE,,Multiple,,Multiple periods,,,,,,
@@ -17,7 +18,9 @@ text.chinese.daoist_corpus,CORPUS_SCOPE,lang.lzh,Multiple,,Multiple periods,,,,,
 text.chinese.fengshen_yanyi,LATER_LITERATURE,lang.lzh,Traditional attributions disputed,,Ming dynasty,,,,,,
 text.chinese.folk_archives,CORPUS_SCOPE,lang.zh,Multiple communities,,Living and historical traditions,,,,,,
 text.chinese.han_shu_wuxing_zhi,HISTORIOGRAPHICAL_TREATISE,lang.lzh,Ban Gu tradition,Eastern Han court historiographical compilation,Eastern Han,,"Treatise on wuxing, multiple parts",,,Ancient text public domain; digital edition terms vary,Develops omen-historical readings of the five xing and quotes earlier formulations.
+text.chinese.hanshu.wuxing_omen_passage,DYNASTIC_HISTORY_TREATISE,lang.lzh,,,Han Shu compilation,Received editions represented by CTP,Wuxing Zhi,Chinese Text Project bibliography links multiple editions,"Han Shu, Wuxing Zhi",Ancient text public domain; digital edition terms apply,Correlates phase disorder with moral-political and anomaly discourse in Han historiography.
 text.chinese.hong_fan,CHAPTER,lang.lzh,,,Received chapter with complex dating history,,Section within Zhou Documents,,,Ancient text public domain; digital edition terms vary,Enumerates nine divisions including the five xing and their dispositions.
+text.chinese.hongfan.wuxing_passage,RECEIVED_CLASSICAL_PASSAGE,lang.lzh,,,Textual layers and received dating debated,Received editions represented by CTP bibliography,"Hong Fan, first division",Chinese Text Project bibliography links multiple editions,Hong Fan / Great Plan,Ancient text public domain; digital edition terms apply,"Names water, fire, wood, metal and earth and describes characteristic operations."
 text.chinese.huainanzi,PHILOSOPHICAL_COMPENDIUM,lang.lzh,Compiled under Liu An,,Western Han,,,,,,
 text.chinese.local_gazetteers,CORPUS_SCOPE,lang.lzh,Multiple,,Multiple periods,,,,,,
 text.chinese.lunheng,PHILOSOPHICAL_TEXT,lang.lzh,Wang Chong,,Eastern Han,Transmitted editions,Thematic chapters including Lei Xu,Chinese Text Project,urn:ctext:lunheng/lei-xu,Traditional witness and site rights differ,Lei Xu records and argues against a thunder-god image explanation.
@@ -32,12 +35,22 @@ text.chinese.xiyouji,LATER_LITERATURE,lang.lzh,Traditionally attributed to Wu Ch
 text.egypt.amduat,UNDERWORLD_BOOK,lang.egy,Multiple,,New Kingdom,,,,,,
 text.egypt.book_caverns,UNDERWORLD_BOOK,lang.egy,Multiple,,New Kingdom,,,,,,
 text.egypt.book_dead,FUNERARY_CORPUS,lang.egy,Multiple,,New Kingdom onward,,,,,,
+text.egypt.book_dead_chapter15,Sun-hymn chapter grouping,lang.egy,,Modern numbering initiated by Lepsius,New Kingdom and later transmitted variants,Multiple papyri and tomb-chapel witnesses,Modern Chapter 15 grouping; variant hymns and vignettes,Multiple repositories,,Ancient text public domain; modern edition and translation rights apply,A modern chapter grouping for diverse hymns to the sun god.
 text.egypt.book_dead_spell17,FUNERARY_TEXT_SECTION,lang.egy,,,Developed across multiple funerary witnesses,,Spell/chapter 17 with explanatory glosses and variants,Multiple repositories; UCL digital study entry,,Ancient witnesses public domain; modern editions and translations retain separate rights,"Section-level index for Khepri, Ra-Horakhty, Atum and variant explanatory identifications."
 text.egypt.book_gates,UNDERWORLD_BOOK,lang.egy,Multiple,,New Kingdom,,,,,,
 text.egypt.coffin_texts,FUNERARY_CORPUS,lang.egy,Multiple,,First Intermediate Period and Middle Kingdom,,,,,,
+text.egypt.darius_susa.hieroglyph_text_1,MONUMENTAL_INSCRIPTION,lang.egy,,Modern segmentation after Yoyotte,Reign of Darius I,The stone carrier itself,One numbered segment within a five-text scholarly programme,National Museum of Iran,Darius statue; exact inventory audit remains open,Ancient inscription is public domain; modern editions retain rights,"学术版编号的雕像象形文字见证；“文本1”是现代定位符，不是古代题名。 / Editorially numbered hieroglyphic witness; Text 1 is a modern locator, not an ancient title."
+text.egypt.darius_susa.hieroglyph_text_2,MONUMENTAL_INSCRIPTION,lang.egy,,Modern segmentation after Yoyotte,Reign of Darius I,The stone carrier itself,One numbered segment within a five-text scholarly programme,National Museum of Iran,Darius statue; exact inventory audit remains open,Ancient inscription is public domain; modern editions retain rights,"学术版编号的第二组象形文字见证；与整套铭文及其他编号分开。 / Second editorially numbered hieroglyphic witness, distinct from the programme and other segments."
+text.egypt.darius_susa.hieroglyph_text_3,MONUMENTAL_INSCRIPTION,lang.egy,,Modern segmentation after Yoyotte,Reign of Darius I,The stone carrier itself,One numbered segment within a five-text scholarly programme,National Museum of Iran,Darius statue; exact inventory audit remains open,Ancient inscription is public domain; modern editions retain rights,学术版编号的第三组象形文字见证。 / Third editorially numbered hieroglyphic witness.
+text.egypt.darius_susa.hieroglyph_text_4,MONUMENTAL_INSCRIPTION,lang.egy,,Modern segmentation after Yoyotte,Reign of Darius I,The stone carrier itself,One numbered segment within a five-text scholarly programme,National Museum of Iran,Darius statue; exact inventory audit remains open,Ancient inscription is public domain; modern editions retain rights,学术版编号的第四组象形文字见证。 / Fourth editorially numbered hieroglyphic witness.
+text.egypt.darius_susa.subject_list.left_twelve,MONUMENTAL_LABEL_SET,lang.egy,,Modern grouping after Roaf and object documentation,Reign of Darius I,The stone carrier itself,Twelve figure-label units on one base side,National Museum of Iran,Darius statue base; exact inventory audit remains open,Ancient inscription is public domain; modern editions retain rights,雕像底座一侧十二组跪姿人物与名框的集合见证；不自动映射现代民族。 / One side-set of twelve kneeling figures and labels; no automatic modern ethnic mapping.
+text.egypt.darius_susa.subject_list.right_twelve,MONUMENTAL_LABEL_SET,lang.egy,,Modern grouping after Roaf and object documentation,Reign of Darius I,The stone carrier itself,Twelve figure-label units on one base side,National Museum of Iran,Darius statue base; exact inventory audit remains open,Ancient inscription is public domain; modern editions retain rights,雕像底座另一侧十二组跪姿人物与名框的集合见证；方位词按观察与出版约定保存。 / The other set of twelve figures and labels; side terminology follows the publication/viewing convention.
+text.egypt.darius_susa_hieroglyphic_program,Royal monumental inscription corpus,lang.egy,Darius I royal authority,,Egyptian Dynasty 27,The statue itself,Five separately located hieroglyphic texts,National Museum of Iran,,Ancient text public domain; modern editions/translations protected,Five-text Egyptian hieroglyphic program associated with the statue.
+text.egypt.darius_susa_hieroglyphic_province_list,Royal monumental list,lang.egy,Darius I royal authority,,Egyptian Dynasty 27,The statue base,Twenty-four labelled subject figures on two sides of the base,National Museum of Iran,,Ancient text public domain; modern editions/translations protected,Hieroglyphic labels identify represented subject peoples on the statue base.
 text.egypt.litany_re,FUNERARY_TEXT,lang.egy,Multiple,,New Kingdom,,,,,,
 text.egypt.memphite_theology,THEOLOGICAL_TEXT,lang.egy,Multiple,,Known through later inscriptional witness,,,,,,
 text.egypt.pyramid_texts,FUNERARY_CORPUS,lang.egy,Multiple,,Old Kingdom onward,,,,,,
+text.egypt.sun_hymn_standard_c_prime,Sun hymn,lang.egy,,Assmann scholarly classification,New Kingdom hymn tradition,UCL page presents a transliterated and translated witness,Section-level hymn within the Chapter 15 research entry,UCL Digital Egypt,,Ancient text public domain; UCL edition and translation rights apply,The registered passage addresses Ra in rising with the composite form Atum-Horakhty.
 text.egypt.temple_tomb_inscriptions,CORPUS_SCOPE,lang.egy,,,Multiple periods,,,,,,
 text.greek.apollodorus_library,MYTHOGRAPHIC_COMPILATION,lang.grc,Pseudo-Apollodorus,,Commonly dated to the first or second century CE,,Books and numbered sections,,,Ancient text public domain; digital editions retain presentation terms,Genealogical and narrative compendium with separate Perses contexts.
 text.greek.argonautica,EPIC,lang.grc,Apollonius of Rhodes,,Hellenistic,,,,,,
@@ -58,6 +71,8 @@ text.greek.homeric_hymn_hestia_29,HYMN,lang.grc,Anonymous Homeric Hymn tradition
 text.greek.homeric_hymn_poseidon_22,HYMN,lang.grc,Anonymous Homeric Hymn tradition,,Ancient Greek poetic tradition; individual dating debated,,"Hymn 22, 7 lines",Perseus / Scaife digital edition,urn:cts:greekLit:tlg0013.tlg022,Ancient text public domain; digital presentation terms apply,"波塞冬与大地、海洋、马匹和船只的短颂歌见证。 / Short hymnic witness linking Poseidon with earth, sea, horses and ships."
 text.greek.homeric_hymn_selene_32,HYMN,lang.grc,Anonymous Homeric Hymn tradition,,Ancient Greek poetic tradition; exact dating debated,,"Hymn 32, 20 lines",Perseus / Scaife digital edition,urn:cts:greekLit:tlg0013.tlg032,Ancient text public domain; digital presentation terms apply,"Describes Selene’s radiance, horses, monthly sign and Pandia genealogy."
 text.greek.homeric_hymns,HYMN_COLLECTION,lang.grc,Multiple anonymous poets,,Archaic to Hellenistic,,,,,,
+text.greek.ieleusis71,DECREE,lang.grc,,,ca. mid-fourth century BCE?,Fragmentary marble stele,Stoichedon 27 in PHI record,Epigraphic collection context,I.Eleusis 71; IG II² 1185,Ancient text public domain; editions retain rights,"Decree of the Eleusinians, explicitly not from the sanctuary."
+text.greek.ieleusis72,HONORIFIC_DECREE,lang.grc,,,Edition date retained in PHI record,Several white-marble stele fragments,Fragmentary inscription,Epigraphic collection context,I.Eleusis 72,Ancient text public domain; editions retain rights,Decree honoring the hierophant Hierokleides; not from the sanctuary.
 text.greek.ieleusis97,INSCRIPTION,lang.grc,,,321/0 BCE,,,Epigraphic find from Eleusis,"I.Eleusis 97; IG II² 2841; IG II³,4 213",Ancient text is public domain; PHI database presentation terms apply,Dedication to Demeter and Kore naming Xenokles and sculptor Aristopeithes.
 text.greek.iliad,EPIC,lang.grc,Homeric tradition,,Archaic Greece,,,,,,
 text.greek.inscriptions,CORPUS_SCOPE,lang.grc,,,Multiple periods,,,,,,
@@ -74,6 +89,7 @@ text.indian.mahabharata,EPIC,lang.san,Traditional attribution to Vyāsa,,Layered
 text.indian.ramayana,EPIC,lang.san,Traditional attribution to Vālmīki,,Layered composition,,,,,,
 text.indian.regional_epics,CORPUS_SCOPE,,Multiple communities,,Living and historical traditions,,,,,,
 text.jain.corpus,CORPUS_SCOPE,,Multiple,,Multiple periods,,,,,,
+text.japan.yamashiro_fudoki_kamo_fragment,QUOTED_FRAGMENT,lang.ojp,,,Provincial gazetteer tradition; exact original date and transmission require edition audit,Later quotation witnesses,Fragment concerning Kamo genealogy,Quotation-chain repositories pending,Yamashiro no kuni fudoki itsubun,Ancient fragment public domain; modern editions retain rights,"Fragmentary witness for Tamayorihime, the red arrow, Honoikazuchi of Otokuni and Kamo Wakeikazuchi."
 text.japanese.fudoki,GAZETTEER,lang.ojp,Provincial compilers,,Eighth century onward,,,,,,
 text.japanese.kojiki,CHRONICLE,lang.ojp,Ō no Yasumaro (compiler attribution),,Early eighth century,,,,,,
 text.japanese.local_legends,CORPUS_SCOPE,lang.jpn,Multiple communities,,Living and historical traditions,,,,,,
@@ -92,6 +108,7 @@ text.mexica.florentine_codex,ENCYCLOPEDIC_MANUSCRIPT,lang.nci,Sahagún and Nahua
 text.mongol.epics,CORPUS_SCOPE,,Multiple communities,,Living and historical traditions,,,,,,
 text.norse.grimnismal,EDDIC_POEM,lang.non,Anonymous,,Preserved in medieval manuscripts,,,,,,
 text.norse.gylfaginning,PROSE_EDDA_SECTION,lang.non,Snorri Sturluson,,Thirteenth century,,,,,,
+text.norse.gylfaginning.ch8_9,PROSE_PASSAGE_WITNESS,lang.non,Snorri Sturluson,,Thirteenth century,Principal fourteenth-century manuscripts,Chapters 8–9 in Faulkes edition,Multiple repositories,GKS 2367 4to; DG 11 4to; AM 242 fol.,Medieval text public domain; edition terms apply,Sons-of-Borr creation account; manuscript/version comparison remains open.
 text.norse.havamal,EDDIC_POEM,lang.non,Anonymous,,Preserved in medieval manuscripts,,,,,,
 text.norse.lokasenna,EDDIC_POEM,lang.non,Anonymous,,Preserved in medieval manuscripts,,,,,,
 text.norse.poetic_edda,POETRY_COLLECTION,lang.non,Anonymous,,Medieval manuscript; poems of varied dates,,,,,,
@@ -102,6 +119,12 @@ text.norse.skaldskaparmal,PROSE_EDDA_SECTION,lang.non,Snorri Sturluson,,Thirteen
 text.norse.thrymskvida,EDDIC_POEM,lang.non,Anonymous,,Preserved in medieval manuscripts,,,,,,
 text.norse.vafthrudnismal,EDDIC_POEM,lang.non,Anonymous,,Preserved in medieval manuscripts,,,,,,
 text.norse.voluspa,EDDIC_POEM,lang.non,Anonymous,,Preserved in medieval manuscripts,,,,,,
+text.norse.voluspa.st17_18,POETIC_PASSAGE_WITNESS,lang.non,,,Composition date debated; medieval manuscript witness,Codex Regius GKS 2365 4to,Stanzas 17–18,Árni Magnússon Institute / electronic edition,GKS 2365 4to,Medieval text public domain; edition terms apply,Three deities encounter Ask and Embla and grant qualities in the poem.
+text.persia.dsab,Royal inscription,,Darius I royal authority,,Reign of Darius I,The statue itself,"Parallel Old Persian, Elamite and Akkadian versions",National Museum of Iran,Current exact inventory verification remains queued,Ancient text public domain; modern editions/translations protected,Trilingual royal inscription conventionally designated DSab.
+text.persia.dsab.akkadian,Royal inscription language witness,lang.akk,Darius I royal authority,,Reign of Darius I,The statue itself,Akkadian version of DSab,National Museum of Iran,,Ancient text public domain; modern editions/translations protected,Akkadian language witness of DSab.
+text.persia.dsab.elamite,Royal inscription language witness,lang.elx,Darius I royal authority,,Reign of Darius I,The statue itself,Elamite version of DSab,National Museum of Iran,,Ancient text public domain; modern editions/translations protected,Elamite language witness of DSab.
+text.persia.dsab.old_persian,Royal inscription language witness,lang.peo,Darius I royal authority,,Reign of Darius I,The statue itself,Old Persian version of DSab,National Museum of Iran,,Ancient text public domain; modern editions/translations protected,Old Persian language witness of DSab.
+text.persia.xsd,ROYAL_MONUMENTAL_INSCRIPTION,lang.peo,Xerxes I,,Reign of Xerxes I,Stone column-base carriers at Susa,"Parallel Old Persian, Elamite and Akkadian versions",Susa archaeological site,XSd,Ancient inscription public domain; modern editions retain rights,"Short royal inscription linking Xerxes voice, Darius and the gate portico."
 text.persian.shahnameh,EPIC,,Ferdowsi,,Around 1000 CE,,,,,,
 text.polynesia.creation_chants,CORPUS_SCOPE,,Multiple communities,,Living and historical traditions,,,,,,
 text.roman.aeneid,EPIC,lang.lat,Virgil,,Late first century BCE,,,,,,
@@ -113,10 +136,13 @@ text.sumerian.inanna_descent,MYTHIC_COMPOSITION,lang.sux,Multiple,,Old Babylonia
 text.sumerian.king_list,KING_LIST,lang.sux,Multiple,,Multiple witnesses,,,,,,
 text.turkic.inscriptions,CORPUS_SCOPE,,Multiple,,Early medieval,,,,,,
 text.ugaritic.baal_cycle,MYTHIC_CYCLE,lang.uga,Ilmilku (scribe attribution on tablets),,Late Bronze Age,,,,,,
+text.ugaritic.baal_cycle.ktu1_5,CLAY_TABLET_WITNESS,lang.uga,,,Late Bronze Age,Ras Shamra excavation witness,KTU 1.5,Louvre / registered fragments,AO 16.641 + AO 16.642,Ancient text public domain; modern editions retain rights,Fifth tablet witness in the Baal epic sequence.
+text.ugaritic.baal_cycle.ktu1_6,CLAY_TABLET_WITNESS,lang.uga,,,Late Bronze Age,Ras Shamra excavation witness,KTU 1.6,Louvre,AO 16.636,Ancient text public domain; modern editions retain rights,Sixth tablet witness in the Baal epic sequence.
 text.vedic.aranyakas,TEXT_CLASS,lang.san,Multiple,,Vedic period,,,,,,
 text.vedic.atharvaveda,VEDA,lang.san,Multiple,,Vedic period,,,,,,
 text.vedic.brahmanas,TEXT_CLASS,lang.san,Multiple,,Vedic period,,,,,,
 text.vedic.rigveda,VEDA,lang.san,Multiple,,Vedic period; layered composition,,,,,,
+text.vedic.rigveda.1_32,VEDIC_HYMN_WITNESS,lang.san,,,Vedic period; precise dating debated,Śākala Saṃhitā transmission,"Mandala 1, Sukta 32",Vedic Heritage Portal,RV 1.32,Ancient text public domain; portal media terms apply,"Hymn witness for Indra’s acts, Vṛtra and vajra terminology."
 text.vedic.samaveda,VEDA,lang.san,Multiple,,Vedic period,,,,,,
 text.vedic.yajurveda,VEDA,lang.san,Multiple,,Vedic period,,,,,,
 text.yoruba.ifa_corpus,LIVING_ORAL_CORPUS,lang.yrb,Lineages and practitioners,,Living oral tradition,,,,,,

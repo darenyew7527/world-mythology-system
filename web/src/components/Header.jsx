@@ -1,6 +1,6 @@
 import { CompassMark, MenuIcon, CloseIcon } from './Icons.jsx'
 
-const NAV_ITEMS = ['explore', 'graph', 'thunder', 'evidence', 'progress', 'contribute']
+const NAV_ITEMS = ['explore', 'workbench', 'graph', 'thunder', 'evidence', 'progress', 'contribute']
 
 export default function Header({ activeView, language, menuOpen, onNavigate, onToggleLanguage, onToggleMenu, copy }) {
   const chooseView = (view) => {

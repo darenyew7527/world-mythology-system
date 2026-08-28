@@ -14,6 +14,7 @@
 | site.china.taishan | 泰山 | Mount Taishan | PLACE | 中国上古神话 | REAL_SACRED | World Heritage 437 |
 | site.egypt.abu_simbel | 阿布辛贝 | Abu Simbel | TEMPLE | 古埃及 | REAL_ARCHAEOLOGICAL | Nubian Monuments World Heritage component |
 | site.egypt.abydos | 阿拜多斯 | Abydos | ARCHAEOLOGICAL_SITE | 古埃及 | REAL_ARCHAEOLOGICAL | — |
+| site.egypt.heliopolis_atum_precinct | 赫利奥波利斯阿图姆圣区 | Atum Precinct at Heliopolis | ARCHAEOLOGICAL_SITE | 古埃及 | REAL_HISTORIC | — |
 | site.egypt.dahshur | 代赫舒尔 | Dahshur | PYRAMID | 古埃及 | REAL_ARCHAEOLOGICAL | World Heritage property 86 component |
 | site.egypt.dendera | 丹德拉神庙群 | Dendera Temple Complex | TEMPLE | 古埃及 | REAL_ARCHAEOLOGICAL | — |
 | realm.egypt.duat | 杜阿特／埃及冥界 | Duat | REALM | 古埃及 | MYTHICAL | — |
@@ -25,6 +26,7 @@
 | site.egypt.saqqara | 萨卡拉 | Saqqara | ARCHAEOLOGICAL_SITE | 古埃及 | REAL_ARCHAEOLOGICAL | World Heritage property 86 component |
 | site.egypt.edfu | 埃德富神庙 | Temple of Edfu | TEMPLE | 古埃及 | REAL_ARCHAEOLOGICAL | — |
 | site.egypt.valley_kings | 帝王谷 | Valley of the Kings | TOMB | 古埃及 | REAL_ARCHAEOLOGICAL | World Heritage property 87 component |
+| site.egypt.wadi_hammamat_quarries | 瓦迪哈马马特采石景观 | Wadi Hammamat Quarry Landscape | ARCHAEOLOGICAL_SITE | 古埃及 | REAL_ARCHAEOLOGICAL | — |
 | site.greece.acropolis | 雅典卫城 | Acropolis of Athens | ARCHAEOLOGICAL_SITE | 古希腊 | REAL_ARCHAEOLOGICAL | World Heritage |
 | site.greece.delos | 提洛岛 | Delos | ARCHAEOLOGICAL_SITE | 古希腊 | REAL_ARCHAEOLOGICAL | World Heritage 530 |
 | site.greece.delphi | 德尔斐 | Delphi | ARCHAEOLOGICAL_SITE | 古希腊 | REAL_ARCHAEOLOGICAL | World Heritage 393 |
@@ -32,7 +34,9 @@
 | site.greece.eleusis | 厄琉息斯 | Eleusis | ARCHAEOLOGICAL_SITE | 古希腊 | REAL_ARCHAEOLOGICAL | — |
 | site.greece.epidaurus | 埃皮达鲁斯 | Epidaurus | ARCHAEOLOGICAL_SITE | 古希腊 | REAL_ARCHAEOLOGICAL | World Heritage |
 | site.greece.olympia | 奥林匹亚 | Olympia | ARCHAEOLOGICAL_SITE | 古希腊 | REAL_ARCHAEOLOGICAL | World Heritage 517 |
+| site.greece.sacred_way_roman_bridge | 厄琉息斯基菲索斯河罗马桥 | Roman Bridge over the Eleusinian Cephissus | ARCHAEOLOGICAL_SITE | 古希腊 | REAL_ARCHAEOLOGICAL | — |
 | site.greece.sacred_way | 雅典至厄琉息斯圣道 | Sacred Way from Athens to Eleusis | ARCHAEOLOGICAL_SITE | 古希腊 | REAL_ARCHAEOLOGICAL | NOT_LISTED_AS_INDEPENDENT_PROPERTY |
+| site.greece.sacred_way_aphrodite_daphne | 达夫尼阿佛洛狄忒圣所 | Sanctuary of Aphrodite at Daphne | ARCHAEOLOGICAL_SITE | 古希腊 | REAL_ARCHAEOLOGICAL | — |
 | realm.greek.tartarus | 塔耳塔罗斯 | Tartarus | REALM | 古希腊 | MYTHICAL | — |
 | site.greece.eleusis_telesterion | 厄琉息斯特勒斯特里翁仪式厅 | Telesterion at Eleusis | ARCHAEOLOGICAL_SITE | 古希腊 | REAL_ARCHAEOLOGICAL | NOT_LISTED_AS_INDEPENDENT_PROPERTY |
 | site.italy.rome | 古罗马 | Ancient Rome | ARCHAEOLOGICAL_SITE | 古罗马 | REAL_HISTORIC | World Heritage historic centre |
@@ -43,6 +47,7 @@
 | site.indonesia.borobudur | 婆罗浮屠 | Borobudur | TEMPLE | 佛教传统 | REAL_ARCHAEOLOGICAL | World Heritage |
 | site.celtic.hillforts_scope | 凯尔特山堡研究入口 | Celtic hillforts research scope | ARCHAEOLOGICAL_SITE | 凯尔特 | REAL_ARCHAEOLOGICAL | — |
 | site.celtic.groves_scope | 圣林研究入口 | Sacred groves research scope | PLACE | 凯尔特 | MIXED | — |
+| site.chinese.mogao_cave_249 | 莫高窟第249窟 | Mogao Cave 249 | ARCHAEOLOGICAL_SITE | 中国传统跨时期总类 | REAL_ARCHAEOLOGICAL | Part of Mogao Caves, World Heritage property 440 |
 | site.ethiopia.aksum | 阿克苏姆 | Aksum | ARCHAEOLOGICAL_SITE | 埃塞俄比亚传统 | REAL_ARCHAEOLOGICAL | World Heritage |
 | site.ethiopia.lalibela | 拉利贝拉岩石教堂 | Rock-Hewn Churches of Lalibela | MONUMENT | 埃塞俄比亚传统 | REAL_SACRED | World Heritage |
 | site.india.elephanta | 象岛石窟 | Elephanta Caves | TEMPLE | 印度教传统 | REAL_ARCHAEOLOGICAL | World Heritage |
@@ -71,6 +76,8 @@
 | site.norse.runestones_scope | 北欧符文石研究入口 | Norse runestones research scope | INSCRIPTION | 北欧 | REAL_ARCHAEOLOGICAL | — |
 | site.sweden.uppsala | 老乌普萨拉 | Old Uppsala | ARCHAEOLOGICAL_SITE | 北欧 | REAL_ARCHAEOLOGICAL | — |
 | realm.norse.valhalla | 瓦尔哈拉 | Valhalla | REALM | 北欧 | MYTHICAL | — |
+| site.iran.susa_darius_gate | 苏萨大流士门 | Darius Gate at Susa | ARCHAEOLOGICAL_SITE | 波斯 | REAL_ARCHAEOLOGICAL | — |
+| site.iran.susa | 苏萨考古遗址 | Susa Archaeological Site | ARCHAEOLOGICAL_SITE | 波斯 | REAL_ARCHAEOLOGICAL | UNESCO 1455, inscribed 2015 under criteria (i)(ii)(iii)(iv); components 1455-001 and 1455-002 |
 | site.chile.rapa_nui | 拉帕努伊／复活节岛 | Rapa Nui | MONUMENT | 波利尼西亚 | REAL_ARCHAEOLOGICAL | World Heritage |
 | site.polynesia.taputapuatea | 塔普塔普阿泰阿 | Taputapuātea | ARCHAEOLOGICAL_SITE | 波利尼西亚 | REAL_SACRED | World Heritage 1529 |
 | site.zimbabwe.great_zimbabwe | 大津巴布韦 | Great Zimbabwe | ARCHAEOLOGICAL_SITE | 南非传统 | REAL_ARCHAEOLOGICAL | World Heritage |

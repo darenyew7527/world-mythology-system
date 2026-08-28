@@ -22,6 +22,7 @@ Brother of Odin and Vili; participates in cosmogonic acts in Gylfaginning.
 |---|---|---|---:|---:|---|
 | `CHILD_OF` | 贝斯特拉 (`being.norse.bestla`) | PROVISIONAL / TEXT_SAYS / MYTHIC_NARRATIVE | 1 | 0.98 | inferred inverse; `claim.bestla.parent_ve` |
 | `CHILD_OF` | 博尔 (`deity.norse.borr`) | PROVISIONAL / TEXT_SAYS / MYTHIC_NARRATIVE | 1 | 0.98 | inferred inverse; `claim.borr.parent_ve` |
+| `MENTIONED_IN` | 《欺骗古鲁菲》第8–9章见证 (`text.norse.gylfaginning.ch8_9`) | VERIFIED / TEXT_SAYS / TEXTUAL_WITNESS | 1 | 0.99 | inferred inverse; `claim.v0190.gylf_ve` |
 | `SIBLING_OF` | 奥丁 (`deity.norse.odin`) | PROVISIONAL / TEXT_SAYS / MYTHIC_NARRATIVE | 1 | 0.98 | stored claim; `claim.ve.sibling_odin` |
 | `SIBLING_OF` | 维利 (`deity.norse.vili`) | PROVISIONAL / TEXT_SAYS / MYTHIC_NARRATIVE | 1 | 0.98 | inferred inverse; `claim.vili.sibling_ve` |
 

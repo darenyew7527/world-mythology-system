@@ -18,9 +18,14 @@
 |---|---|---|---:|---:|---|
 | `HOLDS` | 娜乌妮《亡灵书》纸草 30.3.31 (`museum.met.nauny_book_dead_30_3_31`) | VERIFIED / HISTORICAL_REALITY / ARCHAEOLOGICAL | 1 | 0.99 | inferred inverse; `claim.v070.egypt.nauny_held_met` |
 | `HOLDS` | 拉-哈拉赫提釉陶护符 74.51.4497 (`museum.met.ra_horakhty_amulet_74_51_4497`) | VERIFIED / HISTORICAL_REALITY / ARCHAEOLOGICAL | 1 | 0.99 | inferred inverse; `claim.v070.egypt.amulet_held_met` |
+| `HOLDS` | 卜塔-索卡尔-奥西里斯像内部亚麻与泥 21.9.1d (`museum.met.pso_contents_21_9_1d`) | VERIFIED / HISTORICAL_REALITY / ARCHAEOLOGICAL | 1 | 0.99 | inferred inverse; `claim.v0110.contents_held` |
+| `HOLDS` | 佩斯乔维敏的卜塔-索卡尔-奥西里斯像 34.9 (`museum.met.pso_34_9`) | VERIFIED / HISTORICAL_REALITY / ARCHAEOLOGICAL | 1 | 0.99 | inferred inverse; `claim.v0110.fig34_held` |
+| `HOLDS` | 帕赫伦孔苏的卜塔-索卡尔-奥西里斯像 28.3.48 (`museum.met.pso_28_3_48`) | VERIFIED / HISTORICAL_REALITY / ARCHAEOLOGICAL | 1 | 0.99 | inferred inverse; `claim.v0110.fig28_held` |
+| `HOLDS` | 神庙乐师伊希特的卜塔-索卡尔-奥西里斯像 21.9.1a-c (`museum.met.pso_21_9_1abc`) | VERIFIED / HISTORICAL_REALITY / ARCHAEOLOGICAL | 1 | 0.99 | inferred inverse; `claim.v0110.ihyt_held` |
 | `HOLDS` | 大厄琉息斯浮雕罗马摹本残片14.130.9 (`museum.met.eleusinian_relief_14_130_9`) | VERIFIED / HISTORICAL_REALITY / ARCHAEOLOGICAL | 1 | 0.99 | inferred inverse; `claim.v080.metrelief_held_met` |
 | `HOLDS` | 阿蒙-拉与奈特名号圣甲虫 09.180.953 (`museum.met.amun_re_scarab_09_180_953`) | VERIFIED / HISTORICAL_REALITY / ARCHAEOLOGICAL | 1 | 0.99 | inferred inverse; `claim.v070.egypt.scarab_held_met` |
 | `HOLDS` | 向拉-哈拉赫提献祭未完成木碑 O.C.81 (`museum.met.ra_horakhty_stela_oc81`) | VERIFIED / HISTORICAL_REALITY / ARCHAEOLOGICAL | 1 | 0.99 | inferred inverse; `claim.v070.egypt.stela_held_met` |
+| `HOLDS` | 鎏金青铜金刚杵 1994.605.43 (`museum.met.vajra_1994_605_43`) | VERIFIED / HISTORICAL_REALITY / LATER_RECEPTION | 1 | 0.99 | inferred inverse; `claim.v0220.met_held` |
 
 ## Claims 与证据
 

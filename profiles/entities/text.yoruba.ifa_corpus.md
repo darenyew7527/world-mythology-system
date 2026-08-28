@@ -24,5 +24,9 @@
   - 来源：[Ifá divination system](https://ich.unesco.org/en/RL/ifa-divination-system-00146)；定位：Intangible Heritage description
 - `claim.ifa.corpus_256_odu` [VERIFIED / TEXT_SAYS / 0.95] UNESCO describes the Ifá corpus as organized into 256 odù, each containing an expanding body of verses.
   - 来源：[Ifá divination system](https://ich.unesco.org/en/RL/ifa-divination-system-00146)；定位：Intangible Heritage description
+- `claim.v0230.ifa_policy` [VERIFIED / SCHOLARLY_INTERPRETATION / 1.00] The Ifá dossier is governed by explicit living-tradition access policies.
+  - 来源：[Ifá divination system](https://ich.unesco.org/en/RL/ifa-divination-system-00146)；定位：Public authority or named curated synthesis; access policy adds a precautionary project rule
+- `claim.v0230.ifa_public_registry` [VERIFIED / HISTORICAL_REALITY / 0.99] The project may retain the public UNESCO context for Ifá while applying stricter limits to non-public knowledge.
+  - 来源：[Ifá divination system](https://ich.unesco.org/en/RL/ifa-divination-system-00146)；定位：Public authority or named curated synthesis; access policy adds a precautionary project rule
 
 > 本档案只代表当前阶段性基线，不是对该传统的最终或唯一解释。

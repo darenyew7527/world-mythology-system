@@ -14,3 +14,4 @@
 | `尚書` | 2 | `text.chinese.shangshu,text.chinese.shang_shu` |
 | `金` | 2 | `element.chinese.jin,concept.chinese.wuxing.jin` |
 | `阿舒尔` | 2 | `deity.assyrian.ashur,site.iraq.ashur` |
+| `風神雷神図屏風` | 2 | `museum.japan.sotatsu_wind_thunder_screens,museum.tnm.korin_wind_thunder_a11189_1` |

@@ -1,0 +1,30 @@
+# DSab 埃兰语版本 / DSab Elamite Version
+
+- ID: `text.persia.dsab.elamite`
+- 类型: `TEXT`
+- 文明／传统: 波斯
+- 原文名: —
+- 转写: —
+- 研究状态: `PARTIAL`
+- 证据状态: `SOURCE_BACKED`
+
+## 概要
+
+DSab 的埃兰语版本，不与古波斯语或阿卡德语文本合并。 / Elamite version of DSab, retained independently.
+
+## 分类
+
+`TEXT`
+
+## 关系网络
+
+| Relation | Target | Review / layer | Evidence | Confidence | Direction |
+|---|---|---|---:|---:|---|
+| `PART_OF` | DSab 三语楔形文字铭文 (`text.persia.dsab`) | VERIFIED / HISTORICAL_REALITY / TEXTUAL_WITNESS | 1 | 0.99 | stored claim; `claim.v0130.dsab_elamite_part` |
+
+## Claims 与证据
+
+- `claim.v0130.dsab_elamite_part` [VERIFIED / HISTORICAL_REALITY / 0.99] The Elamite text is one language witness of DSab.
+  - 来源：[La triple inscription cunéiforme de la statue de Darius Ier (DSab)](https://www.jstor.org/stable/23282203)；定位：Vallat 1974, RA 68.2, pp. 157-166
+
+> 本档案只代表当前阶段性基线，不是对该传统的最终或唯一解释。

@@ -26,6 +26,7 @@
 | `EXCAVATED_AT` | 厄琉息斯 (`site.greece.eleusis`) | VERIFIED / HISTORICAL_REALITY / ARCHAEOLOGICAL | 1 | 0.99 | stored claim; `claim.v080.relief126_excavated_eleusis` |
 | `HAS_LATER_COPY` | 大厄琉息斯浮雕罗马摹本残片14.130.9 (`museum.met.eleusinian_relief_14_130_9`) | VERIFIED / SCHOLARLY_INTERPRETATION / ARCHAEOLOGICAL | 1 | 0.97 | inferred inverse; `claim.v080.metrelief_copy_relief126` |
 | `HELD_BY_MUSEUM` | 雅典国家考古博物馆 (`institution.nam_athens`) | VERIFIED / HISTORICAL_REALITY / ARCHAEOLOGICAL | 1 | 0.99 | stored claim; `claim.v080.relief126_held_nam` |
+| `MEMBER_OF` | 大厄琉息斯浮雕摹本网络 (`concept.greek.eleusinian_relief_copy_network`) | VERIFIED / SCHOLARLY_INTERPRETATION / LATER_RECEPTION | 1 | 0.98 | inferred inverse; `claim.v0170.reliefnetwork_original` |
 
 ## Claims 与证据
 

@@ -14,7 +14,9 @@
 
 ## 关系网络
 
-当前无关系边；保留为研究缺口。
+| Relation | Target | Review / layer | Evidence | Confidence | Direction |
+|---|---|---|---:|---:|---|
+| `MEMBER_OF` | 伊南娜—伊什塔尔历史性对应 (`concept.mesopotamia.inanna_ishtar_identification`) | VERIFIED / SCHOLARLY_INTERPRETATION / SCHOLARLY_INTERPRETATION | 1 | 0.99 | inferred inverse; `claim.v0200.identification_ishtar` |
 
 ## Claims 与证据
 

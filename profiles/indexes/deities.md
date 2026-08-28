@@ -3,6 +3,7 @@
 | ID | 中文 | English | Type | Civilization | Detail/Status | Evidence |
 |---|---|---|---|---|---|---|
 | deity.akkadian.ishtar | 伊什塔尔 | Ishtar | DEITY | 阿卡德 | PARTIAL | UNVERIFIED |
+| deity.akkadian.ninurta | 阿卡德《安祖神话》中的宁努尔塔 | Ninurta in the Akkadian Anzu myth | DEITY | 阿卡德 | PARTIAL | SOURCE_BACKED |
 | deity.chinese.fu_xi | 伏羲 | Fuxi | DEITY | 中国上古神话 | PARTIAL | UNVERIFIED |
 | deity.chinese.nu_wa | 女娲 | Nüwa | DEITY | 中国上古神话 | PARTIAL | UNVERIFIED |
 | being.chinese.pangu | 盘古 | Pangu | GIANT | 中国上古神话 | PARTIAL | UNVERIFIED |
@@ -12,6 +13,8 @@
 | deity.egyptian.amun_ra | 阿蒙-拉 | Amun-Ra | DEITY | 古埃及 | PARTIAL | SOURCE_BACKED |
 | deity.egyptian.anubis | 阿努比斯 | Anubis | DEITY | 古埃及 | PARTIAL | UNVERIFIED |
 | deity.egyptian.atum | 阿图姆 | Atum | PRIMORDIAL_DEITY | 古埃及 | PARTIAL | SOURCE_BACKED |
+| deity.egyptian.atum_horakhty | 阿图姆-哈拉赫提 | Atum-Horakhty | DEITY | 古埃及 | PARTIAL | SOURCE_BACKED |
+| deity.egyptian.atum_ra | 阿图姆-拉 | Atum-Ra | DEITY | 古埃及 | PARTIAL | SOURCE_BACKED |
 | deity.egyptian.geb | 盖布 | Geb | DEITY | 古埃及 | PARTIAL | UNVERIFIED |
 | deity.egyptian.hathor | 哈托尔 | Hathor | DEITY | 古埃及 | PARTIAL | UNVERIFIED |
 | deity.egyptian.horus | 荷鲁斯 | Horus | DEITY | 古埃及 | PARTIAL | PARTIAL |
@@ -23,12 +26,14 @@
 | deity.egyptian.nephthys | 奈芙蒂斯 | Nephthys | DEITY | 古埃及 | PARTIAL | UNVERIFIED |
 | deity.egyptian.nut | 努特 | Nut | DEITY | 古埃及 | PARTIAL | UNVERIFIED |
 | deity.egyptian.osiris | 奥西里斯 | Osiris | DEITY | 古埃及 | PARTIAL | SOURCE_BACKED |
-| deity.egyptian.ptah | 卜塔 | Ptah | DEITY | 古埃及 | PARTIAL | UNVERIFIED |
+| deity.egyptian.ptah | 卜塔 | Ptah | DEITY | 古埃及 | PARTIAL | PARTIAL |
+| deity.egyptian.ptah_sokar_osiris | 卜塔-索卡尔-奥西里斯 | Ptah-Sokar-Osiris | DEITY | 古埃及 | PARTIAL | SOURCE_BACKED |
 | deity.egyptian.ra | 拉／瑞 | Ra | DEITY | 古埃及 | PARTIAL | SOURCE_BACKED |
 | deity.egyptian.ra_horakhty | 拉-哈拉赫提 | Ra-Horakhty | DEITY | 古埃及 | PARTIAL | SOURCE_BACKED |
 | deity.egyptian.sekhmet | 塞赫麦特 | Sekhmet | DEITY | 古埃及 | PARTIAL | UNVERIFIED |
 | deity.egyptian.seth | 塞特 | Seth | DEITY | 古埃及 | PARTIAL | UNVERIFIED |
 | deity.egyptian.shu | 舒 | Shu | DEITY | 古埃及 | PARTIAL | UNVERIFIED |
+| deity.egyptian.sokar | 索卡尔 | Sokar | DEITY | 古埃及 | PARTIAL | PARTIAL |
 | deity.egyptian.tefnut | 泰芙努特 | Tefnut | DEITY | 古埃及 | PARTIAL | UNVERIFIED |
 | deity.egyptian.thoth | 托特 | Thoth | DEITY | 古埃及 | PARTIAL | UNVERIFIED |
 | deity.greek.aether | 埃忒耳 | Aether | PRIMORDIAL_DEITY | 古希腊 | PARTIAL | SOURCE_BACKED |
@@ -98,6 +103,7 @@
 | deity.japanese.izanami | 伊邪那美 | Izanami | DEITY | 日本神道 | PARTIAL | UNVERIFIED |
 | deity.japanese.kamo_taketsunumi | 贺茂建角身命 | Kamo Taketsunumi no Mikoto | DEITY | 日本神道 | PARTIAL | SOURCE_BACKED |
 | deity.japanese.kamo_wakeikazuchi | 贺茂别雷大神 | Kamo Wakeikazuchi no Okami | DEITY | 日本神道 | PARTIAL | SOURCE_BACKED |
+| deity.japanese.karaijin | 加雷神／地方雷神 | Karaijin | DEITY | 日本神道 | PARTIAL | SOURCE_BACKED |
 | deity.japanese.kuroikazuchi | 黑雷 | Kuroikazuchi | DEITY | 日本神道 | PARTIAL | SOURCE_BACKED |
 | deity.japanese.naruikazuchi | 鸣雷 | Naruikazuchi | DEITY | 日本神道 | PARTIAL | SOURCE_BACKED |
 | deity.japanese.ooikazuchi | 大雷 | Ooikazuchi | DEITY | 日本神道 | PARTIAL | SOURCE_BACKED |
@@ -126,8 +132,10 @@
 | deity.norse.frigg | 弗丽嘉 | Frigg | DEITY | 北欧 | PARTIAL | UNVERIFIED |
 | deity.norse.heimdall | 海姆达尔 | Heimdallr | DEITY | 北欧 | PARTIAL | UNVERIFIED |
 | deity.norse.hel | 赫尔 | Hel | DEITY | 北欧 | PARTIAL | PARTIAL |
+| deity.norse.hoenir | 赫尼尔 | Hœnir | DEITY | 北欧 | PARTIAL | SOURCE_BACKED |
 | deity.norse.jord | 约尔德／大地女神 | Jord | DEITY | 北欧 | PARTIAL | PARTIAL |
 | deity.norse.loki | 洛基 | Loki | DEITY | 北欧 | PARTIAL | SOURCE_BACKED |
+| deity.norse.lodurr | 洛杜尔 | Lóðurr | DEITY | 北欧 | PARTIAL | SOURCE_BACKED |
 | deity.norse.magni | 马格尼 | Magni | DEITY | 北欧 | PARTIAL | PARTIAL |
 | deity.norse.meili | 梅利 | Meili | DEITY | 北欧 | PARTIAL | PARTIAL |
 | deity.norse.modi | 莫迪 | Modi | DEITY | 北欧 | PARTIAL | PARTIAL |
@@ -157,6 +165,7 @@
 | deity.ugaritic.anat | 阿娜特 | Anat | DEITY | 乌加里特 | PARTIAL | UNVERIFIED |
 | deity.ugaritic.asherah | 阿西拉特／亚舍拉 | Athirat / Asherah | DEITY | 乌加里特 | PARTIAL | UNVERIFIED |
 | deity.ugaritic.baal | 乌加里特巴力 | Baal of Ugarit | DEITY | 乌加里特 | CONFLICT | CONFLICTING |
+| deity.ugaritic.dagan | 乌加里特文本中的达贡／达甘 | Dagan in Ugaritic texts | DEITY | 乌加里特 | PARTIAL | SOURCE_BACKED |
 | deity.ugaritic.el | 乌加里特伊勒 | El of Ugarit | DEITY | 乌加里特 | PARTIAL | UNVERIFIED |
 | deity.ugaritic.kothar_wa_khasis | 科塔尔-瓦-哈西斯 | Kothar-wa-Khasis | DEITY | 乌加里特 | PARTIAL | SOURCE_BACKED |
 | deity.ugaritic.mot | 穆特 | Mot | DEITY | 乌加里特 | PARTIAL | UNVERIFIED |

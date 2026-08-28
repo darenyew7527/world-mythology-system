@@ -1,4 +1,5 @@
 event_id,participant_id,role,outcome,claim_id
+event.archaeology.darius_statue_discovery_1972,museum.iran.darius_susa_statue,DISCOVERED_OBJECT,Recovered fragmentary and later displayed in Tehran,claim.v0140.discovery_event_statue
 event.babylonian.marduk_tiamat,deity.babylonian.marduk,PARTICIPANT,,claim.babylonian.marduk_participates_combat
 event.babylonian.marduk_tiamat,deity.babylonian.tiamat,PARTICIPANT,,claim.babylonian.tiamat_participates_combat
 event.greek.persephone_abduction,deity.greek.persephone,ABDUCTED,Taken to the underworld in this hymn witness,claim.v050.h2.persephone_participated
@@ -12,6 +13,8 @@ event.norse.forging_divine_treasures,being.norse.brokkr,SMITH_AND_BELLOWS,Treasu
 event.norse.forging_divine_treasures,being.norse.eitri,SMITH,Treasures completed,claim.eitri.participated_forging
 event.norse.ragnarok,deity.norse.odin,PARTICIPANT,,claim.norse.odin_participates_ragnarok
 event.norse.ragnarok,creature.norse.fenrir,PARTICIPANT,,claim.norse.fenrir_participates_ragnarok
+event.persia.darius_statue_transfer_egypt_susa,museum.iran.darius_susa_statue,TRANSFERRED_OBJECT,Installed at Susa gate,claim.v0140.transfer_subject
+event.persia.darius_statue_transfer_egypt_susa,historical.achaemenid.xerxes_i,ATTRIBUTED_ROYAL_AGENT,Transfer attributed in modern scholarship,claim.v0140.transfer_xerxes
 event.sumerian.inanna_descent,deity.sumerian.inanna,PARTICIPANT,,claim.sumerian.inanna_participates_descent
 event.ugaritic.baal_yamm_ktu12,deity.ugaritic.baal,COMBATANT,Yamm is made to fall in the registered reading,claim.v060.ugaritic.baal_participated_yamm_event
 event.ugaritic.baal_yamm_ktu12,deity.ugaritic.yam,OPPONENT,Falls after the second named weapon blow in the registered reading,claim.v060.ugaritic.yamm_participated_event

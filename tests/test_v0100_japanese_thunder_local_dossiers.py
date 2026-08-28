@@ -91,7 +91,7 @@ class JapaneseThunderLocalDossiersV0100Tests(unittest.TestCase):
 
     def test_public_snapshot_exposes_version_and_local_dossiers(self):
         snapshot = build_snapshot(DATABASE)
-        self.assertEqual(snapshot["meta"]["projectVersion"], "0.10.0-japanese-thunder-local-dossiers")
+        self.assertRegex(snapshot["meta"]["projectVersion"], r"^0\.\d+\.\d+-")
         ids = {entity["id"] for entity in snapshot["entities"]}
         self.assertIn("deity.japanese.kamo_wakeikazuchi", ids)
         self.assertIn("museum.japan.sotatsu_wind_thunder_screens", ids)

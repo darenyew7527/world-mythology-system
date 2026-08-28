@@ -1,3 +1,4 @@
+{"claim_id":"claim.v0140.discovery_event_statue","event_id":"event.archaeology.darius_statue_discovery_1972","outcome":"Recovered fragmentary and later displayed in Tehran","participant_id":"museum.iran.darius_susa_statue","role":"DISCOVERED_OBJECT"}
 {"claim_id":"claim.babylonian.marduk_participates_combat","event_id":"event.babylonian.marduk_tiamat","outcome":null,"participant_id":"deity.babylonian.marduk","role":"PARTICIPANT"}
 {"claim_id":"claim.babylonian.tiamat_participates_combat","event_id":"event.babylonian.marduk_tiamat","outcome":null,"participant_id":"deity.babylonian.tiamat","role":"PARTICIPANT"}
 {"claim_id":"claim.v050.h2.persephone_participated","event_id":"event.greek.persephone_abduction","outcome":"Taken to the underworld in this hymn witness","participant_id":"deity.greek.persephone","role":"ABDUCTED"}
@@ -11,6 +12,8 @@
 {"claim_id":"claim.eitri.participated_forging","event_id":"event.norse.forging_divine_treasures","outcome":"Treasures completed","participant_id":"being.norse.eitri","role":"SMITH"}
 {"claim_id":"claim.norse.odin_participates_ragnarok","event_id":"event.norse.ragnarok","outcome":null,"participant_id":"deity.norse.odin","role":"PARTICIPANT"}
 {"claim_id":"claim.norse.fenrir_participates_ragnarok","event_id":"event.norse.ragnarok","outcome":null,"participant_id":"creature.norse.fenrir","role":"PARTICIPANT"}
+{"claim_id":"claim.v0140.transfer_subject","event_id":"event.persia.darius_statue_transfer_egypt_susa","outcome":"Installed at Susa gate","participant_id":"museum.iran.darius_susa_statue","role":"TRANSFERRED_OBJECT"}
+{"claim_id":"claim.v0140.transfer_xerxes","event_id":"event.persia.darius_statue_transfer_egypt_susa","outcome":"Transfer attributed in modern scholarship","participant_id":"historical.achaemenid.xerxes_i","role":"ATTRIBUTED_ROYAL_AGENT"}
 {"claim_id":"claim.sumerian.inanna_participates_descent","event_id":"event.sumerian.inanna_descent","outcome":null,"participant_id":"deity.sumerian.inanna","role":"PARTICIPANT"}
 {"claim_id":"claim.v060.ugaritic.baal_participated_yamm_event","event_id":"event.ugaritic.baal_yamm_ktu12","outcome":"Yamm is made to fall in the registered reading","participant_id":"deity.ugaritic.baal","role":"COMBATANT"}
 {"claim_id":"claim.v060.ugaritic.yamm_participated_event","event_id":"event.ugaritic.baal_yamm_ktu12","outcome":"Falls after the second named weapon blow in the registered reading","participant_id":"deity.ugaritic.yam","role":"OPPONENT"}

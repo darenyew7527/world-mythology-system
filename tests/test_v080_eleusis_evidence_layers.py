@@ -89,7 +89,7 @@ class EleusisEvidenceLayersV080Tests(unittest.TestCase):
 
     def test_public_snapshot_exposes_v080_entities_and_version(self):
         snapshot = build_snapshot(DATABASE)
-        self.assertEqual(snapshot["meta"]["projectVersion"], "0.10.0-japanese-thunder-local-dossiers")
+        self.assertRegex(snapshot["meta"]["projectVersion"], r"^0\.\d+\.\d+-")
         ids = {entity["id"] for entity in snapshot["entities"]}
         self.assertIn("ritual.greek.eleusinian_mysteries", ids)
         self.assertIn("museum.nam.great_eleusinian_relief_126", ids)

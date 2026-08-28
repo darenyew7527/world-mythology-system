@@ -20,6 +20,7 @@
 
 | Relation | Target | Review / layer | Evidence | Confidence | Direction |
 |---|---|---|---:|---:|---|
+| `MENTIONED_IN` | 诗语法 (`text.norse.skaldskaparmal`) | VERIFIED / TEXT_SAYS / TEXTUAL_WITNESS | 1 | 0.96 | inferred inverse; `claim.v0190.skald_meili` |
 | `SIBLING_OF` | 索尔／雷神托尔 (`deity.norse.thor`) | VERIFIED / TEXT_SAYS / TEXTUAL_WITNESS | 1 | 0.97 | inferred inverse; `claim.v060.norse.thor_sibling_meili` |
 
 ## Claims 与证据

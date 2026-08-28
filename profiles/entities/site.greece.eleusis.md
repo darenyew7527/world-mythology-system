@@ -17,6 +17,8 @@
 | Relation | Target | Review / layer | Evidence | Confidence | Direction |
 |---|---|---|---:|---:|---|
 | `ASSOCIATED_WITH` | 得墨忒耳 (`deity.greek.demeter`) | VERIFIED / TEXT_SAYS / TEXTUAL_WITNESS | 1 | 0.98 | inferred inverse; `claim.v050.h2.demeter_associated_eleusis` |
+| `ASSOCIATED_WITH` | I.Eleusis 71 铭文 (`text.greek.ieleusis71`) | VERIFIED / HISTORICAL_REALITY / TEXTUAL_WITNESS | 1 | 0.99 | inferred inverse; `claim.v0170.i71_eleusis` |
+| `ASSOCIATED_WITH` | I.Eleusis 72 铭文 (`text.greek.ieleusis72`) | VERIFIED / HISTORICAL_REALITY / TEXTUAL_WITNESS | 1 | 0.99 | inferred inverse; `claim.v0170.i72_eleusis` |
 | `ASSOCIATED_WITH` | 雅典至厄琉息斯圣道 (`site.greece.sacred_way`) | VERIFIED / HISTORICAL_REALITY / ARCHAEOLOGICAL | 1 | 0.99 | inferred inverse; `claim.v080.sacredway_eleusis` |
 | `FINDSPOT_OF` | 大厄琉息斯浮雕126号 (`museum.nam.great_eleusinian_relief_126`) | VERIFIED / HISTORICAL_REALITY / ARCHAEOLOGICAL | 1 | 0.99 | inferred inverse; `claim.v080.relief126_excavated_eleusis` |
 | `FINDSPOT_OF` | 《厄琉息斯铭文集》97号 (`text.greek.ieleusis97`) | VERIFIED / HISTORICAL_REALITY / ARCHAEOLOGICAL | 1 | 0.99 | inferred inverse; `claim.v080.ieleusis97_eleusis` |

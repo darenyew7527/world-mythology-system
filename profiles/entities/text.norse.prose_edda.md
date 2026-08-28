@@ -18,6 +18,7 @@
 
 ## Claims 与证据
 
-尚无 claim；实体仅为发现/索引入口。
+- `claim.v0190.manuscript_variance` [VERIFIED / HISTORICAL_REALITY / 0.99] The Prose Edda is represented by distinct medieval manuscripts that require witness-level comparison.
+  - 来源：[Uppsala Edda — DG 11 4to](https://vsnr.org/editions/the-uppsala-edda-dg-11-4to/)；定位：Skáldskaparmál edition and notes
 
 > 本档案只代表当前阶段性基线，不是对该传统的最终或唯一解释。

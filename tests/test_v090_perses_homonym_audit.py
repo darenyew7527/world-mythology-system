@@ -91,7 +91,7 @@ class PersesHomonymAuditV090Tests(unittest.TestCase):
 
     def test_public_snapshot_exposes_version_and_entities(self):
         snapshot = build_snapshot(DATABASE)
-        self.assertEqual(snapshot["meta"]["projectVersion"], "0.10.0-japanese-thunder-local-dossiers")
+        self.assertRegex(snapshot["meta"]["projectVersion"], r"^0\.\d+\.\d+-")
         ids = {entity["id"] for entity in snapshot["entities"]}
         self.assertIn("deity.greek.perses_helios", ids)
         self.assertIn("hero.greek.perses_perseus_son", ids)

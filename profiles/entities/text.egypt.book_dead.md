@@ -18,6 +18,7 @@
 |---|---|---|---:|---:|---|
 | `ATTESTED_BY` | 娜乌妮《亡灵书》纸草 30.3.31 (`museum.met.nauny_book_dead_30_3_31`) | VERIFIED / HISTORICAL_REALITY / ARCHAEOLOGICAL | 1 | 0.99 | inferred inverse; `claim.v070.egypt.nauny_witness_book_dead` |
 | `ATTESTED_BY` | 阿尼纸草第3框 (`museum.egypt.papyrus_ani_frame3`) | VERIFIED / HISTORICAL_REALITY / TEXTUAL_WITNESS | 1 | 0.98 | inferred inverse; `claim.egypt.papyrus_ani_witness_book_dead` |
+| `HAS_PART` | 《亡灵书》第15章太阳赞歌组 (`text.egypt.book_dead_chapter15`) | VERIFIED / SCHOLARLY_INTERPRETATION / TEXTUAL_WITNESS | 1 | 0.99 | inferred inverse; `claim.v0120.chapter15_part_book` |
 
 ## Claims 与证据
 

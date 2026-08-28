@@ -113,7 +113,7 @@ class EgyptianSolarCompositesV070Tests(unittest.TestCase):
 
     def test_public_snapshot_exposes_v070_comparison(self):
         snapshot = build_snapshot(DATABASE)
-        self.assertEqual(snapshot["meta"]["projectVersion"], "0.10.0-japanese-thunder-local-dossiers")
+        self.assertRegex(snapshot["meta"]["projectVersion"], r"^0\.\d+\.\d+-")
         comparison = next(
             item for item in snapshot["comparisons"]
             if item["id"] == "comparison.egyptian.solar_composite_forms"

@@ -2,7 +2,9 @@
 {"canonical_name":"Avestan","historical_stage":null,"id":"lang.ave","iso_639_3":"ave","name_zh":"阿维斯陀语","notes":null,"script_name":"Avestan"}
 {"canonical_name":"Egyptian","historical_stage":null,"id":"lang.egy","iso_639_3":"egy","name_zh":"古埃及语","notes":null,"script_name":"Hieroglyphic/Hieratic/Demotic"}
 {"canonical_name":"Modern Greek","historical_stage":"Modern","id":"lang.el","iso_639_3":"ell","name_zh":"现代希腊语","notes":"Added for current Greek Ministry and archaeological-project pages; distinct from Ancient Greek lang.grc.","script_name":"Greek"}
+{"canonical_name":"Elamite","historical_stage":"Achaemenid administrative/royal inscription stage","id":"lang.elx","iso_639_3":"elx","name_zh":"埃兰语","notes":"Language of one DSab version; not merged with Akkadian.","script_name":"Elamite cuneiform"}
 {"canonical_name":"English","historical_stage":null,"id":"lang.en","iso_639_3":"eng","name_zh":"英语","notes":null,"script_name":"Latin"}
+{"canonical_name":"French","historical_stage":"Modern","id":"lang.fra","iso_639_3":"fra","name_zh":"法语","notes":"Added for French archaeological and epigraphic scholarship; not an ancient inscription language.","script_name":"Latin"}
 {"canonical_name":"Irish","historical_stage":null,"id":"lang.gle","iso_639_3":"gle","name_zh":"爱尔兰语","notes":null,"script_name":"Latin/Ogham"}
 {"canonical_name":"Ancient Greek","historical_stage":null,"id":"lang.grc","iso_639_3":"grc","name_zh":"古希腊语","notes":null,"script_name":"Greek"}
 {"canonical_name":"Hawaiian","historical_stage":null,"id":"lang.haw","iso_639_3":"haw","name_zh":"夏威夷语","notes":null,"script_name":"Latin"}
@@ -15,6 +17,7 @@
 {"canonical_name":"Old Norse","historical_stage":null,"id":"lang.non","iso_639_3":"non","name_zh":"古诺斯语","notes":null,"script_name":"Runic/Latin"}
 {"canonical_name":"Old Japanese","historical_stage":null,"id":"lang.ojp","iso_639_3":"ojp","name_zh":"上代日语","notes":null,"script_name":"Man'yōgana"}
 {"canonical_name":"Middle Persian","historical_stage":null,"id":"lang.pal","iso_639_3":"pal","name_zh":"中古波斯语","notes":null,"script_name":"Pahlavi"}
+{"canonical_name":"Old Persian","historical_stage":"Achaemenid","id":"lang.peo","iso_639_3":"peo","name_zh":"古波斯语","notes":"Distinct from Middle Persian lang.pal.","script_name":"Old Persian cuneiform"}
 {"canonical_name":"Sanskrit","historical_stage":null,"id":"lang.san","iso_639_3":"san","name_zh":"梵语","notes":null,"script_name":"Multiple"}
 {"canonical_name":"Sumerian","historical_stage":null,"id":"lang.sux","iso_639_3":"sux","name_zh":"苏美尔语","notes":null,"script_name":"Cuneiform"}
 {"canonical_name":"Ugaritic","historical_stage":null,"id":"lang.uga","iso_639_3":"uga","name_zh":"乌加里特语","notes":null,"script_name":"Ugaritic cuneiform"}

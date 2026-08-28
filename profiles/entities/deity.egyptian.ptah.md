@@ -6,7 +6,7 @@
 - 原文名: Ptḥ
 - 转写: —
 - 研究状态: `PARTIAL`
-- 证据状态: `UNVERIFIED`
+- 证据状态: `PARTIAL`
 
 ## 分类
 
@@ -14,7 +14,9 @@
 
 ## 关系网络
 
-当前无关系边；保留为研究缺口。
+| Relation | Target | Review / layer | Evidence | Confidence | Direction |
+|---|---|---|---:|---:|---|
+| `HAS_COMPOSITE_EXPRESSION` | 卜塔-索卡尔-奥西里斯 (`deity.egyptian.ptah_sokar_osiris`) | VERIFIED / SCHOLARLY_INTERPRETATION / SCHOLARLY_INTERPRETATION | 1 | 0.99 | inferred inverse; `claim.v0110.pso_component_ptah` |
 
 ## Claims 与证据
 

@@ -20,6 +20,7 @@
 
 | Relation | Target | Review / layer | Evidence | Confidence | Direction |
 |---|---|---|---:|---:|---|
+| `DEPICTED_ON` | 尾形光琳《风神雷神图屏风》A-11189-1 (`museum.tnm.korin_wind_thunder_a11189_1`) | VERIFIED / HISTORICAL_REALITY / LATER_RECEPTION | 1 | 0.99 | inferred inverse; `claim.v0180.korin_depicts_fujin` |
 | `DEPICTED_ON` | 俵屋宗达《风神雷神图屏风》 (`museum.japan.sotatsu_wind_thunder_screens`) | VERIFIED / SCHOLARLY_INTERPRETATION / LATER_RECEPTION | 1 | 0.99 | inferred inverse; `claim.v0100.screen_depicts_fujin` |
 
 ## Claims 与证据

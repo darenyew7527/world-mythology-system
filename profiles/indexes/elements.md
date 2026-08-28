@@ -7,6 +7,7 @@
 | concept.comparative.chaos | 混沌 | Chaos | CONCEPT | — | PARTIAL | UNVERIFIED |
 | concept.greek.classical_elements | 希腊古典元素传统 | Classical Greek element traditions | CONCEPT | 古希腊 | PARTIAL | UNVERIFIED |
 | concept.comparative.creation | 创造 | Creation | CONCEPT | — | PARTIAL | UNVERIFIED |
+| concept.persia.darius_statue_subject_peoples | 大流士雕像属民表现体系 | Darius Statue Subject Peoples | CONCEPT | 波斯 | PARTIAL | SOURCE_BACKED |
 | concept.comparative.death | 死亡 | Death | CONCEPT | — | PARTIAL | UNVERIFIED |
 | concept.comparative.desire | 欲望 | Desire | CONCEPT | — | PARTIAL | UNVERIFIED |
 | concept.comparative.destruction | 毁灭 | Destruction | CONCEPT | — | PARTIAL | UNVERIFIED |
@@ -16,32 +17,42 @@
 | group.japanese.eight_thunder_kami | 《古事记》八雷神 | Eight Thunder Kami of the Kojiki | CONCEPT | 日本神道 | PARTIAL | SOURCE_BACKED |
 | concept.greek.eleusinian_secrecy | 厄琉息斯仪式保密原则 | Eleusinian ritual secrecy | CONCEPT | 古希腊 | PARTIAL | PARTIAL |
 | concept.comparative.fate | 命运 | Fate | CONCEPT | — | PARTIAL | UNVERIFIED |
+| concept.greek.eleusinian_relief_copy_network | 大厄琉息斯浮雕摹本网络 | Great Eleusinian Relief Copy Network | CONCEPT | 古希腊 | PARTIAL | SOURCE_BACKED |
 | concept.greek.persian_name_aition | 希腊传统中的“波斯人”名称缘起 | Greek aition of the Persian name | CONCEPT | 古希腊 | PARTIAL | PARTIAL |
+| concept.chinese.wuxing.han_correlative_omens | 汉代五行灾异解释层 | Han historiographic correlative-omen layer | CONCEPT | 中国传统跨时期总类 | PARTIAL | SOURCE_BACKED |
 | concept.comparative.hearth | 炉火／灶火 | Hearth | CONCEPT | 古希腊 | PARTIAL | PARTIAL |
+| concept.chinese.wuxing.hongfan_operations | 《洪范》五行运动／功用层 | Hong Fan operational qualities layer | CONCEPT | 中国传统跨时期总类 | PARTIAL | SOURCE_BACKED |
 | concept.comparative.hunting | 狩猎 | Hunting | CONCEPT | — | PARTIAL | UNVERIFIED |
+| concept.mesopotamia.inanna_ishtar_identification | 伊南娜—伊什塔尔历史性对应 | Inana–Ištar Historical Identification | CONCEPT | 阿卡德 | PARTIAL | SOURCE_BACKED |
 | concept.egyptian.isfet | 伊斯菲特（失序） | Isfet | CONCEPT | 古埃及 | PARTIAL | UNVERIFIED |
 | concept.comparative.justice | 正义 | Justice | CONCEPT | — | PARTIAL | UNVERIFIED |
 | concept.comparative.kingship | 王权 | Kingship | CONCEPT | — | PARTIAL | UNVERIFIED |
 | concept.comparative.knowledge | 知识 | Knowledge | CONCEPT | — | PARTIAL | UNVERIFIED |
+| concept.chinese.leigong.visual_witnesses | 雷公／雷神图像见证层 | Leigong / thunder-deity visual witness layer | CONCEPT | 中国传统跨时期总类 | PARTIAL | SOURCE_BACKED |
 | concept.comparative.life | 生命 | Life | CONCEPT | — | PARTIAL | UNVERIFIED |
 | concept.comparative.love | 爱 | Love | CONCEPT | — | PARTIAL | UNVERIFIED |
 | concept.egyptian.ma_at | 玛阿特（秩序概念） | Ma'at as order | CONCEPT | 古埃及 | PARTIAL | UNVERIFIED |
 | concept.comparative.memory | 记忆 | Memory | CONCEPT | — | PARTIAL | UNVERIFIED |
 | concept.comparative.music | 音乐 | Music | CONCEPT | — | PARTIAL | UNVERIFIED |
+| concept.maori.iwi_variant_scope | 毛利 iwi／hapū 版本与署名范围 | Māori iwi/hapū variant and attribution scope | CONCEPT | 毛利 | PARTIAL | SOURCE_BACKED |
 | concept.comparative.navigation | 航海 | Navigation | CONCEPT | — | PARTIAL | UNVERIFIED |
 | concept.comparative.night | 夜 | Night | CONCEPT | 古希腊 | PARTIAL | PARTIAL |
 | concept.comparative.order | 秩序 | Order | CONCEPT | — | PARTIAL | UNVERIFIED |
 | concept.indian.pancamahabhuta | 五大 | Pañcamahābhūta | CONCEPT | 印度教传统 | PARTIAL | UNVERIFIED |
 | concept.comparative.poetry | 诗歌 | Poetry | CONCEPT | — | PARTIAL | UNVERIFIED |
 | concept.comparative.rebirth | 重生 | Rebirth | CONCEPT | — | PARTIAL | UNVERIFIED |
+| concept.egyptian.rising_setting_solar_forms | 太阳升起与落下形态 | Rising and setting solar forms | CONCEPT | 古埃及 | PARTIAL | SOURCE_BACKED |
 | concept.comparative.sleep | 睡眠 | Sleep | CONCEPT | 古希腊 | PARTIAL | PARTIAL |
 | concept.comparative.soul | 灵魂 | Soul | CONCEPT | — | PARTIAL | UNVERIFIED |
+| concept.japan.wind_thunder_screen_copy_network | 宗达—光琳—抱一风雷屏风网络 | Sōtatsu–Kōrin–Hōitsu Wind and Thunder Screen Network | CONCEPT | 日本神道 | PARTIAL | SOURCE_BACKED |
 | group.egyptian.theban_triad | 底比斯三神组 | Theban Triad | CONCEPT | 古埃及 | PARTIAL | PARTIAL |
 | concept.comparative.time | 时间 | Time | CONCEPT | — | PARTIAL | UNVERIFIED |
 | concept.ugaritic.baal_title | 乌加里特 bʿl“主／领主”头衔 | Ugaritic b-l title lexeme | CONCEPT | 乌加里特 | PARTIAL | PARTIAL |
+| concept.south_asia.vajra_reception_layers | vajra／金刚杵文本与物质接受层 | Vajra textual and material reception layers | CONCEPT | 吠陀传统 | PARTIAL | SOURCE_BACKED |
 | concept.comparative.war | 战争 | War | CONCEPT | — | PARTIAL | UNVERIFIED |
 | concept.comparative.wisdom | 智慧 | Wisdom | CONCEPT | — | PARTIAL | UNVERIFIED |
 | concept.chinese.wuxing | 五行 | Wuxing | CONCEPT | 中国上古神话 | PARTIAL | SOURCE_BACKED |
+| concept.yoruba.living_tradition_access | 约鲁巴活态传统访问治理 | Yoruba living-tradition access governance | CONCEPT | 约鲁巴 | PARTIAL | SOURCE_BACKED |
 | concept.norse.fire_ice_cosmogony | 北欧火与冰宇宙生成结构 | Norse fire-and-ice cosmogonic contrast | COSMOLOGY | 北欧 | PARTIAL | UNVERIFIED |
 | being.zoroastrian.angra_mainyu | 安格拉·曼纽 | Angra Mainyu | DEITY | 琐罗亚斯德传统 | PARTIAL | UNVERIFIED |
 | deity.norse.hel | 赫尔 | Hel | DEITY | 北欧 | PARTIAL | PARTIAL |

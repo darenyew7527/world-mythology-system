@@ -14,7 +14,10 @@
 
 ## 关系网络
 
-当前无关系边；保留为研究缺口。
+| Relation | Target | Review / layer | Evidence | Confidence | Direction |
+|---|---|---|---:|---:|---|
+| `HAS_APPEARANCE_OF` | 阿卡德《安祖神话》中的安祖 (`creature.akkadian.anzu`) | VERIFIED / TEXT_SAYS / MYTHIC_NARRATIVE | 1 | 0.99 | inferred inverse; `claim.v0200.anzu_appears` |
+| `HAS_APPEARANCE_OF` | 阿卡德《安祖神话》中的宁努尔塔 (`deity.akkadian.ninurta`) | VERIFIED / TEXT_SAYS / MYTHIC_NARRATIVE | 1 | 0.99 | inferred inverse; `claim.v0200.ninurta_appears` |
 
 ## Claims 与证据
 

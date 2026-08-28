@@ -26,6 +26,7 @@
 | `ASSOCIATED_WITH` | 雷 (`concept.comparative.thunder`) | VERIFIED / SCHOLARLY_INTERPRETATION / RITUAL_PRACTICE | 1 | 0.95 | stored claim; `claim.v0100.kamo_associated_thunder` |
 | `CHILD_OF` | 火雷神（乙训传统） (`deity.japanese.honoikazuchi_otokuni`) | VERIFIED / SCHOLARLY_INTERPRETATION / TEXTUAL_WITNESS | 1 | 0.92 | inferred inverse; `claim.v0100.hono_parent_kamo` |
 | `CHILD_OF` | 玉依姬（贺茂传统） (`deity.japanese.tamayorihime_kamo`) | VERIFIED / SCHOLARLY_INTERPRETATION / TEXTUAL_WITNESS | 1 | 0.96 | inferred inverse; `claim.v0100.tamayori_parent_kamo` |
+| `MENTIONED_IN` | 《山城国风土记》贺茂残片 (`text.japan.yamashiro_fudoki_kamo_fragment`) | VERIFIED / TEXT_SAYS / TEXTUAL_WITNESS | 1 | 0.99 | inferred inverse; `claim.v0180.fragment_mentions_wake` |
 | `WORSHIPPED_AT` | 贺茂别雷神社（上贺茂神社） (`site.japan.kamigamo_jinja`) | VERIFIED / HISTORICAL_REALITY / RITUAL_PRACTICE | 1 | 0.99 | stored claim; `claim.v0100.kamo_worshipped_kamigamo` |
 
 ## Claims 与证据

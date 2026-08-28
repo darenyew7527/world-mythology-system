@@ -25,6 +25,8 @@
 
 ## Claims 与证据
 
+- `claim.v0170.telesterion_phases` [VERIFIED / SCHOLARLY_INTERPRETATION / 0.96] The official archaeological history presents the Telesterion and sanctuary through successive phases rather than one timeless building.
+  - 来源：[Archaeological Site of Eleusis](https://www.efada.gr/en-us/Archaeological-Sites-Monuments/Eleusis/Archaeological-Site-of-Eleusis)；定位：Official object, site or museum record cited in claim notes
 - `claim.v080.telesterion_mysteries` [VERIFIED / HISTORICAL_REALITY / 0.98] Official heritage interpretation and museum scholarship identify the Telesterion as the central assembly hall for the mysteries.
   - 来源：[Mystery Cults in the Greek and Roman World](https://www.metmuseum.org/essays/mystery-cults-in-the-greek-and-roman-world)；定位：Eleusis section
 - `claim.v080.telesterion_part_eleusis` [VERIFIED / HISTORICAL_REALITY / 0.99] The Telesterion is modeled as a monument within the wider archaeological site and sanctuary of Eleusis.
