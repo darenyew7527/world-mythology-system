@@ -1,0 +1,147 @@
+name: Publish v0.25.0 sealed checkpoint
+
+on:
+  push:
+    branches: [main]
+    paths: [".github/workflows/publish-v025.yml"]
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: publish-v025
+  cancel-in-progress: false
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v6
+        with:
+          fetch-depth: 0
+
+      - name: Reassemble and verify sealed source tree
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          set -euo pipefail
+          archive=/tmp/world-mythology-v025-source.tar.gz
+          : > "$archive"
+          while IFS= read -r sha; do
+            curl -fsSL \
+              -H "Authorization: Bearer $GH_TOKEN" \
+              -H "Accept: application/vnd.github+json" \
+              "$GITHUB_API_URL/repos/$GITHUB_REPOSITORY/git/blobs/$sha" \
+              | jq -r '.content' | tr -d '\n' | base64 --decode >> "$archive"
+          done <<'BLOB_SHAS'
+          5a229facba3b0c66eb9b910bb12afa48a8c6deab
+          094a1eb208314561a4c9c2c330dd4fdf7b0ad3b9
+          d648ead43cf6d7162c8e723468a3e641d02404e9
+          014f9745f55aa5fa24bb7a8c46fe5b9f59ea01a9
+          d7db6d5f3fe770111095a16ad01f33153d0a1972
+          00e2e61091fcf09d95fc66ddceb3a1994ba7d8d5
+          5440dda1ee6c8aa6352a995181a37bd423737c64
+          0b11d34a33ec99c92acb5a603420af8865118992
+          5f62e30b7e13260cbfbb1fd4bd4c68f45a533809
+          cc819d2fe5d72a50a0756ed7a7bfb8b3cbb1483c
+          9dd72fcd4e011a3a94e888099d882e2514211287
+          73bb27d69f20763ced5d8824a9719afdfba00539
+          7dde0dc0248d954f3c13f75449a0dcbbedfd0351
+          01cdbdfa4d2269c45916071d0ae86b249f88d049
+          81de563d14282d384d655fcbd8a5ed877d4767d6
+          074d9655e425872a90e9df773bdc74eaf38dc0a7
+          2cc2879943f6e0654830dc87abe89b057bb82e45
+          fbb78f4cf28ab18c8c8559ec0421cd08fc4da87a
+          0d839de08555d8aea8fcecca585cff8ed9f8ace6
+          0244956f43df0ec3bdae09adedeedaf402c973cc
+          beef9637d85a7aae024298ebed2360cb2ae85e9a
+          ffa002fe0d8db0dc24e4e094a68d16881be55707
+          863acb9ed00cc1e9e1dd77b7d14fa57dd5b27a39
+          0bca8f4f8503f1b896723ca9db65c1f15eba66ea
+          b390466de2ca5d39123a708a53600fd851a375d7
+          a84ac7748529251e6434baf58326ebf4f60747be
+          37adb52ff35ef9d1821282365a1aa5f07337b45e
+          eefe5ddd96305b7a221a74e1538f2e3bbdabcc94
+          02c8a01325919640b0aed27e9ee529d3fbf870d2
+          BLOB_SHAS
+          echo "c1830157867ee26e5554b5e7bd0c1b7bb7e87737f5d0b37a318cbad5430f889c  $archive" | sha256sum -c -
+          mkdir -p /tmp/world-mythology-v025-source
+          tar -xzf "$archive" -C /tmp/world-mythology-v025-source
+          rsync -a --delete --exclude='.git/' /tmp/world-mythology-v025-source/ ./
+          git add -A
+          test "$(git write-tree)" = "7981d59e293e666226438f0a4495d85af24c231d"
+
+      - uses: actions/setup-python@v6
+        with:
+          python-version: "3.11"
+
+      - uses: actions/setup-node@v6
+        with:
+          node-version: "24"
+          cache: npm
+          cache-dependency-path: web/package-lock.json
+
+      - name: Verify database, tests, privacy and production build
+        run: |
+          set -euo pipefail
+          python3 -m unittest discover -s tests -v
+          python3 scripts/privacy_release_check.py
+          npm --prefix web ci
+          npm --prefix web run build
+          git add -A
+          test "$(git write-tree)" = "7981d59e293e666226438f0a4495d85af24c231d"
+
+      - name: Publish main and v0.25.0 tag
+        run: |
+          set -euo pipefail
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -m "发布 v0.25.0：神话故事阅读库 / Release v0.25.0 story reading library"
+          git tag -a v0.25.0 -m "World Mythology System v0.25.0"
+          git push origin HEAD:main refs/tags/v0.25.0
+
+      - name: Build and publish GitHub Release assets
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          set -euo pipefail
+          release_dir=/tmp/world-mythology-v025-release
+          mkdir -p "$release_dir"
+          bundle="$release_dir/World_Mythology_System_v0.25.0_story_reading_library.git.bundle"
+          sqlite="$release_dir/world_mythology_v0.25.0.sqlite"
+          zip="$release_dir/World_Mythology_System_v0.25.0_20260829.zip"
+          git bundle create "$bundle" --all
+          cp database/world_mythology.sqlite "$sqlite"
+          python3 scripts/build_release_package.py --output "$zip" --bundle "$bundle"
+          gh release create v0.25.0 "$zip" "$bundle" "$sqlite" \
+            --repo "$GITHUB_REPOSITORY" \
+            --verify-tag \
+            --title "World Mythology System v0.25.0 — Story Reading Library" \
+            --notes-file RELEASE_NOTES_v0.25.0.md
+
+      - name: Upload GitHub Pages artifact
+        uses: actions/upload-pages-artifact@v5
+        with:
+          path: web/dist
+
+      - name: Deploy GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v5
+
+      - name: Verify deployed story snapshot
+        run: |
+          set -euo pipefail
+          page_url="${{ steps.deployment.outputs.page_url }}"
+          for attempt in $(seq 1 12); do
+            if curl -fsSL "${page_url%/}/data/site-data.json" \
+              | jq -e '.meta.projectVersion == "0.25.0-story-reading-library" and .meta.counts.stories == 21 and .meta.counts.storyVersions == 23' >/dev/null; then
+              exit 0
+            fi
+            sleep 10
+          done
+          exit 1
