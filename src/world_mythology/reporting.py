@@ -111,9 +111,118 @@ def _generate_entity_profiles(conn, profile_root: Path) -> int:
     return count
 
 
+def _generate_story_profiles(conn, profile_root: Path) -> int:
+    story_dir = profile_root / "stories"
+    story_dir.mkdir(parents=True, exist_ok=True)
+    index_rows: list[list[object]] = []
+    count = 0
+    for story in conn.execute(
+        """SELECT s.*,c.canonical_name AS civilization_en,c.name_zh AS civilization_zh
+           FROM stories s LEFT JOIN civilizations c ON c.id=s.primary_civilization_id
+           ORDER BY COALESCE(s.featured_order,999999),s.id"""
+    ):
+        versions = conn.execute(
+            """SELECT sv.*,src.title AS source_title,src.url AS source_url,
+                      src.institution,src.rights_status
+               FROM story_versions sv JOIN sources src ON src.id=sv.source_id
+               WHERE sv.story_id=? ORDER BY sv.version_order,sv.id""",
+            (story["id"],),
+        ).fetchall()
+        index_rows.append([
+            f"[{story['title_zh']}]({story['id']}.md)", story["canonical_title"],
+            story["civilization_zh"] or story["civilization_en"], story["story_type"],
+            len(versions), story["evidence_status"], story["reading_minutes"],
+        ])
+        lines = [
+            f"# {story['title_zh']} / {story['canonical_title']}", "",
+            f"- ID: `{story['id']}`",
+            f"- 文明／传统: {_md(story['civilization_zh'] or story['civilization_en'])}",
+            f"- 故事类型: `{story['story_type']}`",
+            f"- 证据状态: `{story['evidence_status']}`",
+            f"- 阅读时间: {story['reading_minutes']} 分钟", "",
+            "## 阅读边界", "", story["summary_zh"], "", story["summary_en"], "",
+        ]
+        for version in versions:
+            lines.extend([
+                f"## {version['version_label_zh']} / {version['version_label_en']}", "",
+                f"- 来源：[{version['source_title']}]({version['source_url']})",
+                f"- 机构：{_md(version['institution'])}",
+                f"- 定位：{_md(version['source_location'])}",
+                f"- 见证范围：{_md(version['witness_scope'])}",
+                f"- 叙述范围：{_md(version['narrative_scope'])}",
+                f"- 权利／访问：`{version['access_level']}`；{_md(version['rights_note'] or version['rights_status'])}", "",
+            ])
+            sections = conn.execute(
+                """SELECT * FROM story_sections WHERE story_version_id=?
+                   ORDER BY section_order,id""", (version["id"],)
+            ).fetchall()
+            for section in sections:
+                lines.extend([
+                    f"### {section['section_order']:02d} · {section['heading_zh']} / {section['heading_en']}", "",
+                    section["body_zh"], "", section["body_en"], "",
+                    f"> 证据说明：{section['evidence_note']}",
+                ])
+                if section["anchor_claim_id"]:
+                    lines.append(f"> Claim: `{section['anchor_claim_id']}`")
+                if section["uncertainty_note"]:
+                    lines.append(f"> 未知／边界：{section['uncertainty_note']}")
+                lines.append("")
+            claims = conn.execute(
+                """SELECT c.id,c.statement,c.review_status,c.assertion_scope,
+                          GROUP_CONCAT(DISTINCT src.title) AS source_titles
+                   FROM story_claim_links scl JOIN claims c ON c.id=scl.claim_id
+                   LEFT JOIN evidence ev ON ev.claim_id=c.id
+                   LEFT JOIN sources src ON src.id=ev.source_id
+                   WHERE scl.story_version_id=?
+                   GROUP BY c.id,c.statement,c.review_status,c.assertion_scope
+                   ORDER BY scl.link_role,c.id""", (version["id"],)
+            ).fetchall()
+            lines.extend(["### 本版本连接的 Claims", ""])
+            for claim in claims:
+                lines.append(
+                    f"- `{claim['id']}` [{claim['review_status']} / {claim['assertion_scope']}] "
+                    f"{claim['statement']} — {_md(claim['source_titles'])}"
+                )
+            entities = conn.execute(
+                """SELECT e.id,e.name_zh,e.canonical_name,sel.role
+                   FROM story_entity_links sel JOIN entities e ON e.id=sel.entity_id
+                   WHERE sel.story_version_id=? ORDER BY sel.sort_order,e.id""", (version["id"],)
+            ).fetchall()
+            lines.extend(["", "### 连接实体", ""])
+            lines.extend(
+                f"- `{entity['role']}` {entity['name_zh'] or entity['canonical_name']} (`{entity['id']}`)"
+                for entity in entities
+            )
+            lines.append("")
+        conflicts = conn.execute(
+            """SELECT c.id,c.conflict_type,c.status,c.summary
+               FROM story_conflict_links scl JOIN conflicts c ON c.id=scl.conflict_id
+               WHERE scl.story_id=? ORDER BY c.id""", (story["id"],)
+        ).fetchall()
+        if conflicts:
+            lines.extend(["## 并存版本与冲突", ""])
+            lines.extend(
+                f"- `{conflict['id']}` [{conflict['status']}] {conflict['summary']}"
+                for conflict in conflicts
+            )
+            lines.append("")
+        lines.extend([
+            "## 编辑说明", "", story["editorial_note"], "",
+            "> 本故事页是可持续扩张的阶段性阅读基线；只重述已连接见证，不把现代改编或推测写成古代事实。", "",
+        ])
+        (story_dir / f"{story['id']}.md").write_text("\n".join(lines), encoding="utf-8")
+        count += 1
+    _write_table(
+        story_dir / "index.md", "神话故事阅读档案索引",
+        ["中文", "English", "文明／传统", "Type", "Versions", "Evidence", "Minutes"],
+        index_rows,
+    )
+    return count
+
+
 def _coverage(conn) -> tuple[dict[str, float], str]:
     metrics: dict[str, float] = {}
-    for table in ["civilizations", "entities", "sources", "claims", "evidence", "relationships", "conflicts", "collection_queue"]:
+    for table in ["civilizations", "entities", "sources", "claims", "evidence", "relationships", "conflicts", "collection_queue", "stories", "story_versions", "story_sections"]:
         metrics[table] = float(conn.execute(f'SELECT COUNT(*) FROM "{table}"').fetchone()[0])
     metrics["priority_civilizations"] = float(conn.execute("SELECT COUNT(*) FROM civilizations WHERE research_status='COLLECTING'").fetchone()[0])
     metrics["redirected_duplicate_entities"] = float(conn.execute("SELECT COUNT(*) FROM entity_redirects").fetchone()[0])
@@ -132,6 +241,9 @@ def _coverage(conn) -> tuple[dict[str, float], str]:
     metrics["living_tradition_sources"] = float(conn.execute("SELECT COUNT(*) FROM sources WHERE living_tradition=1").fetchone()[0])
     metrics["queue_new_or_discovered"] = float(conn.execute("SELECT COUNT(*) FROM collection_queue WHERE status IN ('NEW','DISCOVERED')").fetchone()[0])
     metrics["queue_source_found"] = float(conn.execute("SELECT COUNT(*) FROM collection_queue WHERE status='SOURCE_FOUND'").fetchone()[0])
+    metrics["story_versions_with_claims"] = float(conn.execute(
+        "SELECT COUNT(DISTINCT story_version_id) FROM story_claim_links"
+    ).fetchone()[0])
     # Sparse-field metrics expose the actual research depth instead of treating
     # an empty profile shell as completed content.
     metrics["deity_profiles_with_domains"] = float(conn.execute(
@@ -180,6 +292,7 @@ def _write_coverage(conn, report_dir: Path) -> dict[str, float]:
             "place_profiles_with_coordinates": "place_profiles",
             "text_entities_with_evidence": "texts",
             "place_entities_with_evidence": "place_profiles",
+            "story_versions_with_claims": "story_versions",
         }
         denominator = None
         notes = "Absolute count in the current registered baseline; not a percentage of world mythology."
@@ -314,6 +427,7 @@ def generate_reports(db_path: Path | str = DEFAULT_DB_PATH) -> dict:
             metrics = _write_coverage(conn, report_dir)
         _generate_indexes(conn, profile_root)
         profile_count = _generate_entity_profiles(conn, profile_root)
+        story_profile_count = _generate_story_profiles(conn, profile_root)
         _write_operational_reports(conn, report_dir)
         _write_visual_data(conn, PROJECT_ROOT / "visualization")
     finally:
@@ -338,6 +452,7 @@ def generate_reports(db_path: Path | str = DEFAULT_DB_PATH) -> dict:
         "status": "STAGED_EXPANDABLE_BASELINE",
         "database_sha256": sha256_file(db_path),
         "entity_profiles": profile_count,
+        "story_profiles": story_profile_count,
         "metrics": {key: int(value) for key, value in metrics.items()},
         "next_round": next_round,
         "completion_claim": "Current publicly discoverable material has a staged knowledge baseline; the system remains expandable.",

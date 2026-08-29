@@ -1,0 +1,286 @@
+import { useDeferredValue, useEffect, useMemo, useState } from 'react'
+import { BookIcon, ExternalIcon, SearchIcon } from './Icons.jsx'
+import { statusLabel } from '../i18n.js'
+
+const ui = {
+  zh: {
+    eyebrow: 'v0.25 · 原典见证阅读层',
+    title: '神话故事阅读库',
+    intro: '以原始文本、学术数字版与授权公共语境为边界阅读故事；版本分开，缺口不补写。',
+    search: '搜索故事、人物、神器或主题…',
+    all: '全部文明',
+    stories: '个故事',
+    versions: '个版本',
+    minutes: '分钟阅读',
+    sourceBacked: '来源见证',
+    access: '访问层级',
+    version: '故事版本',
+    witness: '见证范围',
+    narrativeScope: '本版叙述范围',
+    source: '原典／权威来源',
+    locator: '定位',
+    openSource: '打开来源',
+    characters: '人物、文本与神器',
+    evidence: '证据连接',
+    claims: '条 Claims',
+    variants: '版本冲突',
+    editorial: '编辑说明',
+    unknown: '当前证据未说明',
+    noResult: '没有符合当前筛选的故事。',
+    select: '选择左侧故事开始阅读。',
+    openEntity: '查看实体',
+  },
+  en: {
+    eyebrow: 'v0.25 · Witness-scoped reading layer',
+    title: 'Myth Story Library',
+    intro: 'Read within the boundaries of primary texts, scholarly digital editions, and authorized public context; variants stay separate and gaps are not invented.',
+    search: 'Search stories, people, artifacts, or themes…',
+    all: 'All traditions',
+    stories: 'stories',
+    versions: 'versions',
+    minutes: 'min read',
+    sourceBacked: 'Witness status',
+    access: 'Access level',
+    version: 'Story version',
+    witness: 'Witness scope',
+    narrativeScope: 'Narrative scope',
+    source: 'Primary / authoritative source',
+    locator: 'Locator',
+    openSource: 'Open source',
+    characters: 'People, texts, and artifacts',
+    evidence: 'Evidence links',
+    claims: 'claims',
+    variants: 'Variant conflicts',
+    editorial: 'Editorial note',
+    unknown: 'The current evidence does not say',
+    noResult: 'No stories match the current filters.',
+    select: 'Choose a story to begin reading.',
+    openEntity: 'Open entity',
+  },
+}
+
+const normalize = (value) => (value || '').normalize('NFKD').toLocaleLowerCase()
+
+const storyTitle = (story, language) =>
+  language === 'zh' ? story.titleZh || story.canonicalTitle : story.canonicalTitle
+
+const storySummary = (story, language) =>
+  language === 'zh' ? story.summaryZh : story.summaryEn
+
+const versionLabel = (version, language) =>
+  language === 'zh' ? version.labelZh : version.labelEn
+
+const linkedName = (entity, language) =>
+  language === 'zh' ? entity.nameZh || entity.canonicalName : entity.canonicalName
+
+export default function StoryLibrary({
+  language,
+  onOpenEntity,
+  onSelectStory,
+  selectedStoryId,
+  stories,
+}) {
+  const copy = ui[language] || ui.zh
+  const [query, setQuery] = useState('')
+  const [civilization, setCivilization] = useState('ALL')
+  const [selectedVersionId, setSelectedVersionId] = useState(null)
+  const deferredQuery = useDeferredValue(query)
+
+  const civilizations = useMemo(() => {
+    const map = new Map()
+    for (const story of stories) {
+      if (!story.civilizationId) continue
+      map.set(story.civilizationId, {
+        id: story.civilizationId,
+        label: language === 'zh'
+          ? story.civilizationNameZh || story.civilizationName
+          : story.civilizationName,
+      })
+    }
+    return [...map.values()].sort((a, b) => (a.label || '').localeCompare(b.label || '', language === 'zh' ? 'zh-Hans' : 'en'))
+  }, [language, stories])
+
+  const filtered = useMemo(() => {
+    const needle = normalize(deferredQuery.trim())
+    return stories.filter((story) => {
+      if (civilization !== 'ALL' && story.civilizationId !== civilization) return false
+      if (!needle) return true
+      const linked = story.versions.flatMap((version) => version.entities)
+      return normalize([
+        story.id,
+        story.titleZh,
+        story.canonicalTitle,
+        story.summaryZh,
+        story.summaryEn,
+        story.civilizationNameZh,
+        story.civilizationName,
+        ...story.themes,
+        ...linked.flatMap((entity) => [entity.nameZh, entity.canonicalName]),
+      ].join(' ')).includes(needle)
+    })
+  }, [civilization, deferredQuery, stories])
+
+  const selected = stories.find((story) => story.id === selectedStoryId)
+    || filtered[0]
+    || stories[0]
+
+  useEffect(() => {
+    if (!selected) return
+    if (!selected.versions.some((version) => version.id === selectedVersionId)) {
+      setSelectedVersionId(selected.versions[0]?.id || null)
+    }
+  }, [selected, selectedVersionId])
+
+  const selectedVersion = selected?.versions.find((version) => version.id === selectedVersionId)
+    || selected?.versions[0]
+
+  const linkedEntities = useMemo(() => {
+    if (!selectedVersion) return []
+    const map = new Map()
+    for (const entity of selectedVersion.entities) {
+      if (!map.has(entity.id)) map.set(entity.id, entity)
+    }
+    return [...map.values()]
+  }, [selectedVersion])
+
+  return (
+    <main className="story-library single-view">
+      <header className="story-hero">
+        <div>
+          <span>{copy.eyebrow}</span>
+          <h1><BookIcon size={28} />{copy.title}</h1>
+          <p>{copy.intro}</p>
+        </div>
+        <aside>
+          <strong>{stories.length}</strong><span>{copy.stories}</span>
+          <strong>{stories.reduce((sum, story) => sum + story.versions.length, 0)}</strong><span>{copy.versions}</span>
+        </aside>
+      </header>
+
+      <section className="story-toolbar" aria-label={copy.title}>
+        <label className="story-search">
+          <SearchIcon size={19} />
+          <input value={query} type="search" placeholder={copy.search} onChange={(event) => setQuery(event.target.value)} />
+        </label>
+        <select aria-label={copy.all} value={civilization} onChange={(event) => setCivilization(event.target.value)}>
+          <option value="ALL">{copy.all}</option>
+          {civilizations.map((item) => <option key={item.id} value={item.id}>{item.label}</option>)}
+        </select>
+        <span>{filtered.length} / {stories.length}</span>
+      </section>
+
+      <div className="story-layout">
+        <section className="story-index" aria-label={copy.title}>
+          {filtered.length === 0 && <p className="story-empty">{copy.noResult}</p>}
+          {filtered.map((story) => (
+            <button
+              className={story.id === selected?.id ? 'is-selected' : ''}
+              key={story.id}
+              type="button"
+              onClick={() => onSelectStory(story.id)}
+            >
+              <span>{language === 'zh' ? story.civilizationNameZh || story.civilizationName : story.civilizationName}</span>
+              <strong>{storyTitle(story, language)}</strong>
+              <p>{storySummary(story, language)}</p>
+              <footer>
+                <small>{story.readingMinutes} {copy.minutes}</small>
+                <small>{story.versions.length} {copy.versions}</small>
+                <small>{statusLabel(story.evidenceStatus, language)}</small>
+              </footer>
+            </button>
+          ))}
+        </section>
+
+        {selected && selectedVersion ? (
+          <article className="story-reader" key={selected.id}>
+            <header className="story-reader-heading">
+              <div>
+                <span>{language === 'zh' ? selected.civilizationNameZh || selected.civilizationName : selected.civilizationName}</span>
+                <h2>{storyTitle(selected, language)}</h2>
+                <p>{storySummary(selected, language)}</p>
+              </div>
+              <dl>
+                <div><dt>{copy.sourceBacked}</dt><dd>{statusLabel(selected.evidenceStatus, language)}</dd></div>
+                <div><dt>{copy.access}</dt><dd>{selected.accessLevel}</dd></div>
+              </dl>
+            </header>
+
+            <section className="story-version-picker">
+              <strong>{copy.version}</strong>
+              <div>
+                {selected.versions.map((version) => (
+                  <button
+                    className={version.id === selectedVersion.id ? 'is-selected' : ''}
+                    key={version.id}
+                    type="button"
+                    onClick={() => setSelectedVersionId(version.id)}
+                  >
+                    {versionLabel(version, language)}
+                  </button>
+                ))}
+              </div>
+            </section>
+
+            <section className="story-witness-card">
+              <div>
+                <span>{copy.witness}</span>
+                <p>{selectedVersion.witnessScope}</p>
+              </div>
+              <div>
+                <span>{copy.narrativeScope}</span>
+                <p>{selectedVersion.narrativeScope}</p>
+              </div>
+              <div>
+                <span>{copy.source}</span>
+                <strong>{selectedVersion.source.title || selectedVersion.sourceId}</strong>
+                <small>{copy.locator}: {selectedVersion.sourceLocation}</small>
+                {selectedVersion.source.url && (
+                  <a href={selectedVersion.source.url} rel="noreferrer" target="_blank">
+                    {copy.openSource}<ExternalIcon size={14} />
+                  </a>
+                )}
+              </div>
+            </section>
+
+            <div className="story-prose">
+              {selectedVersion.sections.map((section) => (
+                <section key={section.id}>
+                  <span>{String(section.order).padStart(2, '0')}</span>
+                  <div>
+                    <h3>{language === 'zh' ? section.headingZh : section.headingEn}</h3>
+                    <p>{language === 'zh' ? section.bodyZh : section.bodyEn}</p>
+                    <aside>
+                      <strong>{copy.evidence}</strong>
+                      <span>{section.evidenceNote}</span>
+                      {section.anchorClaimId && <code>{section.anchorClaimId}</code>}
+                      {section.uncertaintyNote && <em>{copy.unknown}: {section.uncertaintyNote}</em>}
+                    </aside>
+                  </div>
+                </section>
+              ))}
+            </div>
+
+            <section className="story-linked-entities">
+              <h3>{copy.characters}</h3>
+              <div>
+                {linkedEntities.map((entity) => (
+                  <button key={entity.id} type="button" onClick={() => onOpenEntity(entity.id)}>
+                    <span>{entity.role}</span>
+                    <strong>{linkedName(entity, language)}</strong>
+                    <small>{copy.openEntity}</small>
+                  </button>
+                ))}
+              </div>
+            </section>
+
+            <footer className="story-audit-footer">
+              <div><strong>{copy.evidence}</strong><span>{selectedVersion.claims.length} {copy.claims}</span></div>
+              {selected.conflicts.length > 0 && <div><strong>{copy.variants}</strong><span>{selected.conflicts.length}</span></div>}
+              <p><strong>{copy.editorial}:</strong> {selected.editorialNote}</p>
+            </footer>
+          </article>
+        ) : <p className="story-empty">{copy.select}</p>}
+      </div>
+    </main>
+  )
+}

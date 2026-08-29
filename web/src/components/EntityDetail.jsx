@@ -159,6 +159,7 @@ export default function EntityDetail({
   mobileOpen,
   onCloseMobile,
   onNavigate,
+  onOpenStory,
   onSelect,
 }) {
   const [tab, setTab] = useState('overview')
@@ -196,6 +197,7 @@ export default function EntityDetail({
   const tabs = [
     ['overview', copy.overview],
     ['relations', copy.relations],
+    ['stories', copy.storyPlural],
     ['evidence', copy.evidence],
     ['sources', copy.sourcePlural],
   ]
@@ -236,6 +238,7 @@ export default function EntityDetail({
           <button className={tab === key ? 'is-active' : ''} key={key} type="button" onClick={() => setTab(key)}>
             {label}
             {key === 'relations' && <span>{entity.relationships.length}</span>}
+            {key === 'stories' && <span>{entity.stories.length}</span>}
             {key === 'evidence' && <span>{evidence.length}</span>}
             {key === 'sources' && <span>{sources.length}</span>}
           </button>
@@ -316,6 +319,29 @@ export default function EntityDetail({
                 </button>
               ))}
             </div>
+          </div>
+        )}
+
+        {tab === 'stories' && (
+          <div className="entity-stories-tab">
+            <div className="tab-introduction">
+              <h2>{copy.storyPlural}</h2>
+              <p>{copy.publicPolicy}</p>
+            </div>
+            {entity.stories.length === 0 ? <div className="empty-state">{copy.noStories}</div> : (
+              <div className="entity-story-list">
+                {entity.stories.map((story) => (
+                  <button key={story.id} type="button" onClick={() => onOpenStory(story.id)}>
+                    <BookIcon size={20} />
+                    <span>
+                      <strong>{language === 'zh' ? story.titleZh || story.canonicalTitle : story.canonicalTitle}</strong>
+                      <small>{story.versionCount} {copy.storyVersionUnit}</small>
+                    </span>
+                    <em>{copy.openStory}</em>
+                  </button>
+                ))}
+              </div>
+            )}
           </div>
         )}
 

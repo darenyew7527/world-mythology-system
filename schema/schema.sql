@@ -410,6 +410,101 @@ CREATE TABLE IF NOT EXISTS event_participants (
     PRIMARY KEY(event_id, participant_id, role)
 );
 
+-- Readable narrative layer. A story is an editorial grouping; every version is
+-- tied to a named witness or an explicitly scoped public synthesis. Narrative
+-- sections are independent summaries, never substitutes for the source text.
+CREATE TABLE IF NOT EXISTS stories (
+    id TEXT PRIMARY KEY,
+    canonical_title TEXT NOT NULL,
+    title_zh TEXT NOT NULL,
+    story_type TEXT NOT NULL
+        CHECK(story_type IN ('MYTHIC_NARRATIVE','CREATION_ACCOUNT','DIVINE_COMBAT','UNDERWORLD_JOURNEY','GENEALOGICAL_ACCOUNT','RITUAL_ORIGIN','TRADITION_OVERVIEW','TEXT_FRAGMENT')),
+    primary_civilization_id TEXT REFERENCES civilizations(id),
+    summary_zh TEXT NOT NULL,
+    summary_en TEXT NOT NULL,
+    themes_json TEXT NOT NULL DEFAULT '[]',
+    evidence_status TEXT NOT NULL DEFAULT 'SOURCE_BACKED'
+        CHECK(evidence_status IN ('UNVERIFIED','PARTIAL','SOURCE_BACKED','CONFLICTING')),
+    access_level TEXT NOT NULL DEFAULT 'PUBLIC_CONTEXT'
+        CHECK(access_level IN ('PUBLIC_CONTEXT','ATTRIBUTION_REQUIRED','PERMISSION_REQUIRED','DO_NOT_COLLECT')),
+    reading_minutes INTEGER NOT NULL DEFAULT 3 CHECK(reading_minutes BETWEEN 1 AND 120),
+    featured_order INTEGER,
+    editorial_note TEXT NOT NULL,
+    created_at TEXT NOT NULL,
+    updated_at TEXT NOT NULL
+);
+
+CREATE INDEX IF NOT EXISTS idx_stories_civilization
+    ON stories(primary_civilization_id, featured_order, id);
+
+CREATE TABLE IF NOT EXISTS story_versions (
+    id TEXT PRIMARY KEY,
+    story_id TEXT NOT NULL REFERENCES stories(id) ON DELETE CASCADE,
+    version_label_zh TEXT NOT NULL,
+    version_label_en TEXT NOT NULL,
+    source_id TEXT NOT NULL REFERENCES sources(id),
+    source_location TEXT NOT NULL,
+    language_id TEXT REFERENCES languages(id),
+    witness_scope TEXT NOT NULL,
+    narrative_scope TEXT NOT NULL,
+    evidence_status TEXT NOT NULL DEFAULT 'SOURCE_BACKED'
+        CHECK(evidence_status IN ('UNVERIFIED','PARTIAL','SOURCE_BACKED','CONFLICTING')),
+    access_level TEXT NOT NULL DEFAULT 'PUBLIC_CONTEXT'
+        CHECK(access_level IN ('PUBLIC_CONTEXT','ATTRIBUTION_REQUIRED','PERMISSION_REQUIRED','DO_NOT_COLLECT')),
+    version_order INTEGER NOT NULL DEFAULT 0,
+    rights_note TEXT,
+    created_at TEXT NOT NULL,
+    UNIQUE(story_id, source_id, source_location, version_label_en)
+);
+
+CREATE INDEX IF NOT EXISTS idx_story_versions_story
+    ON story_versions(story_id, version_order, id);
+
+CREATE TABLE IF NOT EXISTS story_sections (
+    id TEXT PRIMARY KEY,
+    story_version_id TEXT NOT NULL REFERENCES story_versions(id) ON DELETE CASCADE,
+    section_order INTEGER NOT NULL CHECK(section_order >= 1),
+    heading_zh TEXT NOT NULL,
+    heading_en TEXT NOT NULL,
+    body_zh TEXT NOT NULL,
+    body_en TEXT NOT NULL,
+    anchor_claim_id TEXT REFERENCES claims(id),
+    evidence_note TEXT NOT NULL,
+    uncertainty_note TEXT,
+    UNIQUE(story_version_id, section_order)
+);
+
+CREATE INDEX IF NOT EXISTS idx_story_sections_version
+    ON story_sections(story_version_id, section_order);
+
+CREATE TABLE IF NOT EXISTS story_claim_links (
+    story_version_id TEXT NOT NULL REFERENCES story_versions(id) ON DELETE CASCADE,
+    claim_id TEXT NOT NULL REFERENCES claims(id) ON DELETE CASCADE,
+    link_role TEXT NOT NULL DEFAULT 'NARRATIVE_BASIS'
+        CHECK(link_role IN ('NARRATIVE_BASIS','PARTICIPANT','VERSION_CONFLICT','EVIDENCE_LIMIT','CONTEXT')),
+    PRIMARY KEY(story_version_id, claim_id, link_role)
+);
+
+CREATE TABLE IF NOT EXISTS story_entity_links (
+    story_id TEXT NOT NULL REFERENCES stories(id) ON DELETE CASCADE,
+    story_version_id TEXT NOT NULL REFERENCES story_versions(id) ON DELETE CASCADE,
+    entity_id TEXT NOT NULL REFERENCES entities(id) ON DELETE CASCADE,
+    role TEXT NOT NULL,
+    sort_order INTEGER NOT NULL DEFAULT 0,
+    notes TEXT,
+    PRIMARY KEY(story_version_id, entity_id, role)
+);
+
+CREATE INDEX IF NOT EXISTS idx_story_entity_links_entity
+    ON story_entity_links(entity_id, story_id, story_version_id);
+
+CREATE TABLE IF NOT EXISTS story_conflict_links (
+    story_id TEXT NOT NULL REFERENCES stories(id) ON DELETE CASCADE,
+    conflict_id TEXT NOT NULL REFERENCES conflicts(id) ON DELETE CASCADE,
+    notes TEXT,
+    PRIMARY KEY(story_id, conflict_id)
+);
+
 CREATE TABLE IF NOT EXISTS museum_object_profiles (
     entity_id TEXT PRIMARY KEY REFERENCES entities(id) ON DELETE CASCADE,
     holding_institution TEXT NOT NULL,

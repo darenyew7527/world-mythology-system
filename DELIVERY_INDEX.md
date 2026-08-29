@@ -19,12 +19,17 @@
 | 关系边（直接） | 479 |
 | 显式冲突 | 32 |
 | 永久研究队列 | 109 |
+| 可阅读故事 | 21 |
+| 故事文本版本 | 23 |
+| 故事阅读分段 | 69 |
 
 来源登记状态：`URL_SYNTAX_VALID` 203。
 
 ## 直接打开这些文件
 
 - `database/world_mythology.sqlite`：事实核心数据库。
+- `RELEASE_NOTES_v0.25.0.md`：v0.25 神话故事阅读库、版本分离、证据链接与阅读边界。
+- `docs/ROADMAP_v0.26-v0.29.md`：后续故事地图、见证对读、全球扩张与阅读工具路线。
 - `RELEASE_NOTES_v0.14.0.md`：v0.14 苏萨大流士雕像发掘、转运、遗址与馆藏来源链。
 - `RELEASE_NOTES_v0.13.0.md`：v0.13 苏萨大流士雕像 DSab 三语铭文与象形文字证据层。
 - `RELEASE_NOTES_v0.12.0.md`：v0.12 Ra-Atum 分期见证、《亡灵书》第15章与苏萨大流士雕像。
@@ -42,6 +47,7 @@
 - `exports/jsonl/`、`exports/csv/`：全部持久表的交换导出。
 - `exports/graph/`：JSON、CSV、GraphML 知识图谱。
 - `profiles/entities/`：每个实体的 Markdown 阅读档案。
+- `profiles/stories/index.md`：可下载的完整故事阅读档案索引。
 - `visualization/index.html`：静态关系网络基础。
 - `web/`：中文优先、可切换英文的 React/Vite 公开探索器。
 - `web/public/data/site-data.json`：不含证据短引文的浏览器安全数据快照。
@@ -76,6 +82,7 @@
 - `reports/source_registry.md`
 - `reports/source_validation.md`
 - `reports/v0.24.0_browser_validation_audit.md`
+- `reports/v0.25.0_browser_validation_audit.md`
 - `reports/web_fidelity_0.3.0.md`
 
 ## 核心设计说明

@@ -9,11 +9,11 @@
     "comparison_set_members": 16,
     "comparison_sets": 2,
     "conflicts": 32,
-    "coverage_metrics": 718,
-    "coverage_reports": 24,
+    "coverage_metrics": 752,
+    "coverage_reports": 25,
     "creature_profiles": 17,
     "cultures": 18,
-    "dataset_releases": 24,
+    "dataset_releases": 25,
     "deity_profiles": 177,
     "entities": 635,
     "entity_attributes": 0,
@@ -23,7 +23,7 @@
     "entity_types": 55,
     "event_participants": 21,
     "evidence": 601,
-    "explorer_feature_registry": 10,
+    "explorer_feature_registry": 11,
     "identity_candidates": 21,
     "import_errors": 0,
     "import_runs": 0,
@@ -41,15 +41,21 @@
     "regions": 22,
     "relationship_types": 80,
     "research_session_items": 516,
-    "research_sessions": 23,
-    "schema_migrations": 33,
+    "research_sessions": 24,
+    "schema_migrations": 34,
     "sources": 203,
+    "stories": 21,
+    "story_claim_links": 106,
+    "story_conflict_links": 1,
+    "story_entity_links": 103,
+    "story_sections": 69,
+    "story_versions": 23,
     "text_profiles": 150,
     "tradition_access_policies": 8,
     "tradition_links": 6
   },
   "database": "world_mythology.sqlite",
-  "database_sha256": "01f9d44a092f7b63e5497609fc00597d45a72f931ae7ce2504379fd1de9825a6",
+  "database_sha256": "89674616041ac587e52eb4310acfda8a06218e80eb2ef8c0e79677286a4b8101",
   "excluded_object_types": [
     "view",
     "sqlite_internal"
@@ -101,14 +107,14 @@
       "sha256": "df7fe275047aca3e1842c3f0c24b6cf58fb6d3e71588df6209ca5f451acf0c72"
     },
     {
-      "bytes": 101823,
+      "bytes": 106632,
       "path": "csv/coverage_metrics.csv",
-      "sha256": "5b39b7ec1913ef69bb825d1db9cec2810050994dd378ff3b4afc6bed1bbe0068"
+      "sha256": "1d45e69d596615ad01c626aaf7561fa31494f86b4eb54de5ddde096dd370e98f"
     },
     {
-      "bytes": 4444,
+      "bytes": 4627,
       "path": "csv/coverage_reports.csv",
-      "sha256": "b8a0e485f3bf549e1630b573bbe291eb57cb705cf34124a26631e4cd86deaa3c"
+      "sha256": "6c9bf9471e68cf4441c3b3703cf1832bcc22bb2ca541d6adf4837e6f8baf97cb"
     },
     {
       "bytes": 1938,
@@ -121,9 +127,9 @@
       "sha256": "08df12610aceccea92fb45a1cf702520500c1b1eff876183b65d4f609c689a45"
     },
     {
-      "bytes": 9889,
+      "bytes": 10180,
       "path": "csv/dataset_releases.csv",
-      "sha256": "30d4a09f585bb318891127c9b4bce7314340742714f72a55a3d76fda2c14201f"
+      "sha256": "f72c597a357037b096228d1f3bd246d7672830c856608ec151398812236b2944"
     },
     {
       "bytes": 26743,
@@ -171,9 +177,9 @@
       "sha256": "0166d36f6b3b51694d220c708d8afcdcf77948d43ff8fb051800002c6945b684"
     },
     {
-      "bytes": 2684,
+      "bytes": 3079,
       "path": "csv/explorer_feature_registry.csv",
-      "sha256": "562711472ff3b6e6756913a33018c246a89489d59075ad76bd317499ebda0342"
+      "sha256": "a39ce31c27ce9a3363ded8a6dd9023797dbf86dc3ddda69987bf46c4e9fdc782"
     },
     {
       "bytes": 4766,
@@ -221,9 +227,9 @@
       "sha256": "8ef6c2440fa801368ca57cc0cfbf30fce95f8132db6bc535bc2b64547b55133d"
     },
     {
-      "bytes": 470,
+      "bytes": 463,
       "path": "csv/project_metadata.csv",
-      "sha256": "b7a2fdc8015e47d597243976d6c678ed4559ce9c7a8ae2e829839ce8c8875c9e"
+      "sha256": "026f3c18ee82e06911c7452e2fa4f95fef60e483d58eb9ad6b74da21a4a8f2ca"
     },
     {
       "bytes": 71,
@@ -261,19 +267,49 @@
       "sha256": "c6916bbb081fc8cfb1166f3623765a49bd14338638b87b5a2850e2e184dd3648"
     },
     {
-      "bytes": 12400,
+      "bytes": 12913,
       "path": "csv/research_sessions.csv",
-      "sha256": "c71b53fcec1ef01c13a4eb8dc364221d987f5bf9dffff4ecd8b95f824ee767bf"
+      "sha256": "faa612b32376768704a97fde68bc09e52f4a517bcac7df983e379f2264ac01ed"
     },
     {
-      "bytes": 2096,
+      "bytes": 2157,
       "path": "csv/schema_migrations.csv",
-      "sha256": "c880d142d5d1efe260bfef0f5cb013f35eb22b9416db62bdc3bfaa01338833ba"
+      "sha256": "62f5363ab8eb8ee524a7d6d983acf30f17d91dcb2a8ad26c8f3b8609d37947eb"
     },
     {
       "bytes": 104184,
       "path": "csv/sources.csv",
       "sha256": "c0fea08111d2661013e4534352d27db8d0afff49beb614312a56d1b02fee4e1d"
+    },
+    {
+      "bytes": 12590,
+      "path": "csv/stories.csv",
+      "sha256": "4c36ad5f787f1c6bea0e81c671cdcadd0d324e3f69fb2f7cecb1601cbd7c498e"
+    },
+    {
+      "bytes": 8860,
+      "path": "csv/story_claim_links.csv",
+      "sha256": "27e766f8b87f9525978a6943b2dfae21735a6a0067b20014ff45d251a1a4bd53"
+    },
+    {
+      "bytes": 168,
+      "path": "csv/story_conflict_links.csv",
+      "sha256": "bc0b386939eb4e5d39986b168eed4232adb6cb1f85613db26ecb2fc8d9d17edd"
+    },
+    {
+      "bytes": 15502,
+      "path": "csv/story_entity_links.csv",
+      "sha256": "b6c578ea4eda3e8b63799b6bd6193435f401c1862cbd0c4993502dc5d6faa1e4"
+    },
+    {
+      "bytes": 31234,
+      "path": "csv/story_sections.csv",
+      "sha256": "966ba0ea01c67196100de164bb9418d48255351c3f8c171849a041e513a6a170"
+    },
+    {
+      "bytes": 8959,
+      "path": "csv/story_versions.csv",
+      "sha256": "eadc53a99aec60a39d730874bd44815674d6f5b5029ea72a48ec9154adf0fa1d"
     },
     {
       "bytes": 27503,
@@ -351,14 +387,14 @@
       "sha256": "be2d36ed7e4ea923ababef77071c7f8b81f7ca204acfd54fa4c25a5925300672"
     },
     {
-      "bytes": 154039,
+      "bytes": 161324,
       "path": "jsonl/coverage_metrics.jsonl",
-      "sha256": "91c243bfa7b1da5abaf9104512468c9c2faf2b1de769ec6e142be7038f6b61af"
+      "sha256": "eb613cdc65deb7d950c89ced03d3184fe1709ddc95e039cbf3cec479fd67ac44"
     },
     {
-      "bytes": 5773,
+      "bytes": 6013,
       "path": "jsonl/coverage_reports.jsonl",
-      "sha256": "1b18cc6f54dfd8a1c51d61b7007778858f50b7a6a6e20ceba79d96d9cf11626a"
+      "sha256": "ff962d022a3b0a54ee103e25b4e3aed545c4496d2a033304e476730b7d7f1721"
     },
     {
       "bytes": 4422,
@@ -371,9 +407,9 @@
       "sha256": "4ebb06d0d458e2051b7433a09921879aa2f45ceb02bbb2ffebc63a5a864ea1d1"
     },
     {
-      "bytes": 12414,
+      "bytes": 12816,
       "path": "jsonl/dataset_releases.jsonl",
-      "sha256": "6187d2c58998ca5e5c3258a40c0e5ed62316a0a94472af8dc86c0b9ac2468f52"
+      "sha256": "e64050b9d05ee61a4a4c1cda709fa32fac2874924c4cfdf639fd7922fb7cf4e7"
     },
     {
       "bytes": 63543,
@@ -421,9 +457,9 @@
       "sha256": "c3d58ac86774dcbb04b85952ddf89843340b1b4f06882bc6286721ec87b122f9"
     },
     {
-      "bytes": 4240,
+      "bytes": 4801,
       "path": "jsonl/explorer_feature_registry.jsonl",
-      "sha256": "ce53f061ebe3320c7fd18bf4995e4073a6942e412e7964585ccf15d5b1b5b00f"
+      "sha256": "93c11377cd73f5a7adb1b0973fac1bd584ada54941b46bd3e08f6a81619f9dd6"
     },
     {
       "bytes": 6650,
@@ -471,9 +507,9 @@
       "sha256": "a44a5c2fa9e36bf86e3b133c6865f35392de1f7b902b1aab3348451f484c551c"
     },
     {
-      "bytes": 659,
+      "bytes": 652,
       "path": "jsonl/project_metadata.jsonl",
-      "sha256": "292a75c17dc3b49c56a1c06fb4fd357b029f928dbfcb251410186f0adc1bcf6b"
+      "sha256": "035dc4a26674add71efb8f8adf412d5118a4aaaf7e53d8bff1e8bbe689b71e1c"
     },
     {
       "bytes": 0,
@@ -511,19 +547,49 @@
       "sha256": "d39dd0588e5e80e8756a47be1462801cc054d739b05c418781c4ca34c55fc104"
     },
     {
-      "bytes": 14576,
+      "bytes": 15189,
       "path": "jsonl/research_sessions.jsonl",
-      "sha256": "a4afc1c269c33ff8f4081f86562c5c0a29d8cf3e5f2304505635cb319f111362"
+      "sha256": "561f08fcd949294e3ad158e94284668dbb7bcbba14d6b7ff26828edd0cec83ea"
     },
     {
-      "bytes": 3260,
+      "bytes": 3357,
       "path": "jsonl/schema_migrations.jsonl",
-      "sha256": "1fba6ab170da238d30babaa8d5dd96e6c493347e2c8e6f8dc75ba12a088bcbf2"
+      "sha256": "363f6b19ea7696c19c940ef12c4f717b43727ba037c460cfdc3576429372a91b"
     },
     {
       "bytes": 210098,
       "path": "jsonl/sources.jsonl",
       "sha256": "03b4ea8d0d4a89629903a0561b59bc6fc233c2bb0cedcba72c93827559c4ac9b"
+    },
+    {
+      "bytes": 17624,
+      "path": "jsonl/stories.jsonl",
+      "sha256": "8106dca2511e57de5746c5005297c012de5d4014d151985f7cb14243a5e36871"
+    },
+    {
+      "bytes": 14124,
+      "path": "jsonl/story_claim_links.jsonl",
+      "sha256": "d556157f9609183b274e33e3248266267a43ac5ed726593bedf2bda950c7dbed"
+    },
+    {
+      "bytes": 182,
+      "path": "jsonl/story_conflict_links.jsonl",
+      "sha256": "aee4143321be7e3ff1940f42f99d937715838095b535d1a27a6b9178eccd9ca5"
+    },
+    {
+      "bytes": 23890,
+      "path": "jsonl/story_entity_links.jsonl",
+      "sha256": "439da2842a2a5e3632aa459dd1d6ba1f94389221403ad7f6cff21bbdd5cafea2"
+    },
+    {
+      "bytes": 42028,
+      "path": "jsonl/story_sections.jsonl",
+      "sha256": "f915e0ddcef4bde07d5fe2958e3fdc39b4b232a8ee5d47bdcaf7888261b9189d"
+    },
+    {
+      "bytes": 14197,
+      "path": "jsonl/story_versions.jsonl",
+      "sha256": "1db6dae60a61c4c7d0b63b7dbaccaa5af01b1b9243e02855bc9f9d66bdccb2f2"
     },
     {
       "bytes": 62674,
@@ -547,10 +613,10 @@
     "nodes": 635
   },
   "release": {
-    "built_at": "2026-08-27T17:00:00Z",
-    "data_version": "0.24.0-explorer2-evidence-workbench-20260827",
-    "git_commit": "08c96c1cfd69bd4eab7cf55b78a48e6014b5ca5e",
-    "schema_version": 33
+    "built_at": "2026-08-29T10:00:00Z",
+    "data_version": "0.25.0-story-reading-library-20260829",
+    "git_commit": null,
+    "schema_version": 34
   },
   "tables": [
     "aliases",
@@ -597,6 +663,12 @@
     "research_sessions",
     "schema_migrations",
     "sources",
+    "stories",
+    "story_claim_links",
+    "story_conflict_links",
+    "story_entity_links",
+    "story_sections",
+    "story_versions",
     "text_profiles",
     "tradition_access_policies",
     "tradition_links"

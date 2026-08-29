@@ -2,7 +2,7 @@
 
 当前公开可发现资料的阶段性知识基线已经建立，并且系统可以继续扩张。
 
-数据版本：`0.24.0-explorer2-evidence-workbench-20260827`；生成时间：`2026-08-28T04:04:52Z`。
+数据版本：`0.25.0-story-reading-library-20260829`；生成时间：`2026-08-29T10:17:22Z`。
 
 > 所有分母只指当前登记基线；系统不会计算或宣称“全球神话完成百分比”。
 
@@ -32,6 +32,10 @@
 | `relationships` | 479 | — | Absolute count in the current registered baseline; not a percentage of world mythology. |
 | `sources` | 203 | — | Absolute count in the current registered baseline; not a percentage of world mythology. |
 | `sources_needing_review` | 0 | — | Absolute count in the current registered baseline; not a percentage of world mythology. |
+| `stories` | 21 | — | Absolute count in the current registered baseline; not a percentage of world mythology. |
+| `story_sections` | 69 | — | Absolute count in the current registered baseline; not a percentage of world mythology. |
+| `story_versions` | 23 | — | Absolute count in the current registered baseline; not a percentage of world mythology. |
+| `story_versions_with_claims` | 23 | 23 | Populated or evidence-linked records / current records in this registered profile collection. |
 | `text_entities_with_evidence` | 45 | 150 | Populated or evidence-linked records / current records in this registered profile collection. |
 | `text_profiles_with_summary` | 49 | 150 | Populated or evidence-linked records / current records in this registered profile collection. |
 | `unverified_or_provisional_claims` | 39 | — | Absolute count in the current registered baseline; not a percentage of world mythology. |

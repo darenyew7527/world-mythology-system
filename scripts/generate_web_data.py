@@ -421,6 +421,175 @@ def build_snapshot(database_path: Path) -> dict[str, Any]:
             }
         )
 
+    story_sections_by_version: dict[str, list[dict[str, Any]]] = defaultdict(list)
+    for row in _rows(
+        connection,
+        """
+        SELECT id, story_version_id, section_order, heading_zh, heading_en,
+               body_zh, body_en, anchor_claim_id, evidence_note, uncertainty_note
+        FROM story_sections
+        ORDER BY story_version_id, section_order, id
+        """,
+    ):
+        story_sections_by_version[row["story_version_id"]].append(
+            {
+                "id": row["id"],
+                "order": row["section_order"],
+                "headingZh": row["heading_zh"],
+                "headingEn": row["heading_en"],
+                "bodyZh": row["body_zh"],
+                "bodyEn": row["body_en"],
+                "anchorClaimId": _clean(row["anchor_claim_id"]),
+                "evidenceNote": row["evidence_note"],
+                "uncertaintyNote": _clean(row["uncertainty_note"]),
+            }
+        )
+
+    story_claims_by_version: dict[str, list[dict[str, Any]]] = defaultdict(list)
+    for row in _rows(
+        connection,
+        """
+        SELECT story_version_id, claim_id, link_role
+        FROM story_claim_links
+        ORDER BY story_version_id, link_role, claim_id
+        """,
+    ):
+        claim = claim_lookup.get(row["claim_id"], {})
+        story_claims_by_version[row["story_version_id"]].append(
+            {
+                "id": row["claim_id"],
+                "role": row["link_role"],
+                "statement": _clean(claim.get("statement")),
+                "reviewStatus": _clean(claim.get("review_status")),
+                "assertionScope": _clean(claim.get("assertion_scope")),
+                "knowledgeLayer": _clean(claim.get("knowledge_layer")),
+                "evidenceCount": len(evidence_by_claim.get(row["claim_id"], [])),
+            }
+        )
+
+    story_entities_by_version: dict[str, list[dict[str, Any]]] = defaultdict(list)
+    for row in _rows(
+        connection,
+        """
+        SELECT story_version_id, entity_id, role, sort_order, notes
+        FROM story_entity_links
+        ORDER BY story_version_id, sort_order, role, entity_id
+        """,
+    ):
+        linked = entity_lookup.get(row["entity_id"], {})
+        story_entities_by_version[row["story_version_id"]].append(
+            {
+                "id": row["entity_id"],
+                "role": row["role"],
+                "canonicalName": _clean(linked.get("canonical_name")),
+                "nameZh": _clean(linked.get("name_zh")),
+                "primaryType": _clean(linked.get("primary_type")),
+                "notes": _clean(row["notes"]),
+            }
+        )
+
+    conflict_lookup = {item["id"]: item for item in public_conflicts}
+    story_conflicts: dict[str, list[dict[str, Any]]] = defaultdict(list)
+    for row in _rows(
+        connection,
+        "SELECT story_id, conflict_id, notes FROM story_conflict_links ORDER BY story_id, conflict_id",
+    ):
+        conflict = conflict_lookup.get(row["conflict_id"])
+        if conflict:
+            story_conflicts[row["story_id"]].append(
+                {**conflict, "storyNotes": _clean(row["notes"])}
+            )
+
+    story_versions_by_story: dict[str, list[dict[str, Any]]] = defaultdict(list)
+    for row in _rows(
+        connection,
+        """
+        SELECT id, story_id, version_label_zh, version_label_en, source_id,
+               source_location, language_id, witness_scope, narrative_scope,
+               evidence_status, access_level, version_order, rights_note
+        FROM story_versions
+        ORDER BY story_id, version_order, id
+        """,
+    ):
+        source = public_sources.get(row["source_id"], {"id": row["source_id"]})
+        story_versions_by_story[row["story_id"]].append(
+            {
+                "id": row["id"],
+                "labelZh": row["version_label_zh"],
+                "labelEn": row["version_label_en"],
+                "sourceId": row["source_id"],
+                "source": source,
+                "sourceLocation": row["source_location"],
+                "languageId": _clean(row["language_id"]),
+                "witnessScope": row["witness_scope"],
+                "narrativeScope": row["narrative_scope"],
+                "evidenceStatus": row["evidence_status"],
+                "accessLevel": row["access_level"],
+                "versionOrder": row["version_order"],
+                "rightsNote": _clean(row["rights_note"]),
+                "sections": story_sections_by_version.get(row["id"], []),
+                "claims": story_claims_by_version.get(row["id"], []),
+                "entities": story_entities_by_version.get(row["id"], []),
+            }
+        )
+
+    stories: list[dict[str, Any]] = []
+    stories_by_entity: dict[str, list[dict[str, Any]]] = defaultdict(list)
+    for row in _rows(
+        connection,
+        """
+        SELECT s.id, s.canonical_title, s.title_zh, s.story_type,
+               s.primary_civilization_id, s.summary_zh, s.summary_en,
+               s.themes_json, s.evidence_status, s.access_level,
+               s.reading_minutes, s.featured_order, s.editorial_note,
+               c.canonical_name AS civilization_name,
+               c.name_zh AS civilization_name_zh
+        FROM stories s
+        LEFT JOIN civilizations c ON c.id=s.primary_civilization_id
+        ORDER BY COALESCE(s.featured_order, 999999), s.id
+        """,
+    ):
+        versions = story_versions_by_story.get(row["id"], [])
+        story = {
+            "id": row["id"],
+            "canonicalTitle": row["canonical_title"],
+            "titleZh": row["title_zh"],
+            "storyType": row["story_type"],
+            "civilizationId": _clean(row["primary_civilization_id"]),
+            "civilizationName": _clean(row["civilization_name"]),
+            "civilizationNameZh": _clean(row["civilization_name_zh"]),
+            "summaryZh": row["summary_zh"],
+            "summaryEn": row["summary_en"],
+            "themes": _json_value(row["themes_json"], []),
+            "evidenceStatus": row["evidence_status"],
+            "accessLevel": row["access_level"],
+            "readingMinutes": row["reading_minutes"],
+            "featuredOrder": row["featured_order"],
+            "editorialNote": row["editorial_note"],
+            "conflicts": story_conflicts.get(row["id"], []),
+            "versions": versions,
+        }
+        stories.append(story)
+        seen_entities: set[str] = set()
+        for version in versions:
+            for linked_entity in version["entities"]:
+                entity_id = linked_entity["id"]
+                if entity_id in seen_entities:
+                    continue
+                seen_entities.add(entity_id)
+                stories_by_entity[entity_id].append(
+                    {
+                        "id": story["id"],
+                        "canonicalTitle": story["canonicalTitle"],
+                        "titleZh": story["titleZh"],
+                        "storyType": story["storyType"],
+                        "versionCount": len(versions),
+                    }
+                )
+
+    for entity in entities:
+        entity["stories"] = stories_by_entity.get(entity["id"], [])
+
     civilization_counts = Counter(entity["civilizationId"] for entity in entities if entity["civilizationId"])
     civilizations = []
     for row in _rows(
@@ -701,7 +870,7 @@ def build_snapshot(database_path: Path) -> dict[str, Any]:
 
     snapshot = {
         "meta": {
-            "projectVersion": "0.24.0-explorer2-evidence-workbench",
+            "projectVersion": "0.25.0-story-reading-library",
             "datasetRelease": release,
             "generatedFrom": "database/world_mythology.sqlite",
             "completionClaim": (
@@ -720,6 +889,13 @@ def build_snapshot(database_path: Path) -> dict[str, Any]:
                 "directRelationships": connection.execute("SELECT COUNT(*) FROM relationships").fetchone()[0],
                 "conflicts": connection.execute("SELECT COUNT(*) FROM conflicts").fetchone()[0],
                 "queue": len(queue),
+                "stories": len(stories),
+                "storyVersions": sum(len(story["versions"]) for story in stories),
+                "storySections": sum(
+                    len(version["sections"])
+                    for story in stories
+                    for version in story["versions"]
+                ),
             },
             "typeCounts": dict(sorted(type_counts.items())),
             "evidenceStatusCounts": dict(sorted(evidence_status_counts.items())),
@@ -731,6 +907,7 @@ def build_snapshot(database_path: Path) -> dict[str, Any]:
         "claims": public_claims,
         "sources": sorted(public_sources.values(), key=lambda item: (item["title"] or "", item["id"])),
         "conflicts": public_conflicts,
+        "stories": stories,
         "queue": queue,
         "comparisons": comparisons,
         "accessPolicies": access_policies,

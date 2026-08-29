@@ -2,7 +2,7 @@
 
 数据库：`world_mythology.sqlite`。本页由 `scripts/generate_schema_catalog.py` 从实际数据库反射生成。
 
-- 持久表：47
+- 持久表：53
 - 只读视图：32
 
 ## 对象索引
@@ -18,11 +18,11 @@
 | `comparison_set_members` | table | 16 |
 | `comparison_sets` | table | 2 |
 | `conflicts` | table | 32 |
-| `coverage_metrics` | table | 718 |
-| `coverage_reports` | table | 24 |
+| `coverage_metrics` | table | 752 |
+| `coverage_reports` | table | 25 |
 | `creature_profiles` | table | 17 |
 | `cultures` | table | 18 |
-| `dataset_releases` | table | 24 |
+| `dataset_releases` | table | 25 |
 | `deity_profiles` | table | 177 |
 | `entities` | table | 635 |
 | `entity_attributes` | table | 0 |
@@ -32,7 +32,7 @@
 | `entity_types` | table | 55 |
 | `event_participants` | table | 21 |
 | `evidence` | table | 601 |
-| `explorer_feature_registry` | table | 10 |
+| `explorer_feature_registry` | table | 11 |
 | `identity_candidates` | table | 21 |
 | `import_errors` | table | 0 |
 | `import_runs` | table | 0 |
@@ -50,9 +50,15 @@
 | `regions` | table | 22 |
 | `relationship_types` | table | 80 |
 | `research_session_items` | table | 516 |
-| `research_sessions` | table | 23 |
-| `schema_migrations` | table | 33 |
+| `research_sessions` | table | 24 |
+| `schema_migrations` | table | 34 |
 | `sources` | table | 203 |
+| `stories` | table | 21 |
+| `story_claim_links` | table | 106 |
+| `story_conflict_links` | table | 1 |
+| `story_entity_links` | table | 103 |
+| `story_sections` | table | 69 |
+| `story_versions` | table | 23 |
 | `text_profiles` | table | 150 |
 | `tradition_access_policies` | table | 8 |
 | `tradition_links` | table | 6 |
@@ -1664,6 +1670,228 @@ CREATE TABLE sources (
         CHECK(verification_status IN ('REGISTERED','URL_SYNTAX_VALID','WEB_CONFIRMED','NEEDS_REVIEW','UNAVAILABLE')),
     notes TEXT,
     CHECK(url IS NOT NULL OR doi IS NOT NULL OR isbn IS NOT NULL OR catalogue_number IS NOT NULL)
+)
+```
+
+## `stories` (table)
+
+| 序号 | 字段 | SQLite 类型 | NOT NULL | 默认值 | PK 序位 |
+|---:|---|---|---:|---|---:|
+| 0 | `id` | TEXT | 0 |  | 1 |
+| 1 | `canonical_title` | TEXT | 1 |  | 0 |
+| 2 | `title_zh` | TEXT | 1 |  | 0 |
+| 3 | `story_type` | TEXT | 1 |  | 0 |
+| 4 | `primary_civilization_id` | TEXT | 0 |  | 0 |
+| 5 | `summary_zh` | TEXT | 1 |  | 0 |
+| 6 | `summary_en` | TEXT | 1 |  | 0 |
+| 7 | `themes_json` | TEXT | 1 | '[]' | 0 |
+| 8 | `evidence_status` | TEXT | 1 | 'SOURCE_BACKED' | 0 |
+| 9 | `access_level` | TEXT | 1 | 'PUBLIC_CONTEXT' | 0 |
+| 10 | `reading_minutes` | INTEGER | 1 | 3 | 0 |
+| 11 | `featured_order` | INTEGER | 0 |  | 0 |
+| 12 | `editorial_note` | TEXT | 1 |  | 0 |
+| 13 | `created_at` | TEXT | 1 |  | 0 |
+| 14 | `updated_at` | TEXT | 1 |  | 0 |
+
+外键：
+
+| 字段 | 目标 | ON UPDATE | ON DELETE |
+|---|---|---|---|
+| `primary_civilization_id` | `civilizations.id` | NO ACTION | NO ACTION |
+
+定义：
+
+```sql
+CREATE TABLE stories (
+    id TEXT PRIMARY KEY,
+    canonical_title TEXT NOT NULL,
+    title_zh TEXT NOT NULL,
+    story_type TEXT NOT NULL CHECK(story_type IN ('MYTHIC_NARRATIVE','CREATION_ACCOUNT','DIVINE_COMBAT','UNDERWORLD_JOURNEY','GENEALOGICAL_ACCOUNT','RITUAL_ORIGIN','TRADITION_OVERVIEW','TEXT_FRAGMENT')),
+    primary_civilization_id TEXT REFERENCES civilizations(id),
+    summary_zh TEXT NOT NULL,
+    summary_en TEXT NOT NULL,
+    themes_json TEXT NOT NULL DEFAULT '[]',
+    evidence_status TEXT NOT NULL DEFAULT 'SOURCE_BACKED' CHECK(evidence_status IN ('UNVERIFIED','PARTIAL','SOURCE_BACKED','CONFLICTING')),
+    access_level TEXT NOT NULL DEFAULT 'PUBLIC_CONTEXT' CHECK(access_level IN ('PUBLIC_CONTEXT','ATTRIBUTION_REQUIRED','PERMISSION_REQUIRED','DO_NOT_COLLECT')),
+    reading_minutes INTEGER NOT NULL DEFAULT 3 CHECK(reading_minutes BETWEEN 1 AND 120),
+    featured_order INTEGER,
+    editorial_note TEXT NOT NULL,
+    created_at TEXT NOT NULL,
+    updated_at TEXT NOT NULL
+)
+```
+
+## `story_claim_links` (table)
+
+| 序号 | 字段 | SQLite 类型 | NOT NULL | 默认值 | PK 序位 |
+|---:|---|---|---:|---|---:|
+| 0 | `story_version_id` | TEXT | 1 |  | 1 |
+| 1 | `claim_id` | TEXT | 1 |  | 2 |
+| 2 | `link_role` | TEXT | 1 | 'NARRATIVE_BASIS' | 3 |
+
+外键：
+
+| 字段 | 目标 | ON UPDATE | ON DELETE |
+|---|---|---|---|
+| `claim_id` | `claims.id` | NO ACTION | CASCADE |
+| `story_version_id` | `story_versions.id` | NO ACTION | CASCADE |
+
+定义：
+
+```sql
+CREATE TABLE story_claim_links (
+    story_version_id TEXT NOT NULL REFERENCES story_versions(id) ON DELETE CASCADE,
+    claim_id TEXT NOT NULL REFERENCES claims(id) ON DELETE CASCADE,
+    link_role TEXT NOT NULL DEFAULT 'NARRATIVE_BASIS' CHECK(link_role IN ('NARRATIVE_BASIS','PARTICIPANT','VERSION_CONFLICT','EVIDENCE_LIMIT','CONTEXT')),
+    PRIMARY KEY(story_version_id, claim_id, link_role)
+)
+```
+
+## `story_conflict_links` (table)
+
+| 序号 | 字段 | SQLite 类型 | NOT NULL | 默认值 | PK 序位 |
+|---:|---|---|---:|---|---:|
+| 0 | `story_id` | TEXT | 1 |  | 1 |
+| 1 | `conflict_id` | TEXT | 1 |  | 2 |
+| 2 | `notes` | TEXT | 0 |  | 0 |
+
+外键：
+
+| 字段 | 目标 | ON UPDATE | ON DELETE |
+|---|---|---|---|
+| `conflict_id` | `conflicts.id` | NO ACTION | CASCADE |
+| `story_id` | `stories.id` | NO ACTION | CASCADE |
+
+定义：
+
+```sql
+CREATE TABLE story_conflict_links (
+    story_id TEXT NOT NULL REFERENCES stories(id) ON DELETE CASCADE,
+    conflict_id TEXT NOT NULL REFERENCES conflicts(id) ON DELETE CASCADE,
+    notes TEXT,
+    PRIMARY KEY(story_id, conflict_id)
+)
+```
+
+## `story_entity_links` (table)
+
+| 序号 | 字段 | SQLite 类型 | NOT NULL | 默认值 | PK 序位 |
+|---:|---|---|---:|---|---:|
+| 0 | `story_id` | TEXT | 1 |  | 0 |
+| 1 | `story_version_id` | TEXT | 1 |  | 1 |
+| 2 | `entity_id` | TEXT | 1 |  | 2 |
+| 3 | `role` | TEXT | 1 |  | 3 |
+| 4 | `sort_order` | INTEGER | 1 | 0 | 0 |
+| 5 | `notes` | TEXT | 0 |  | 0 |
+
+外键：
+
+| 字段 | 目标 | ON UPDATE | ON DELETE |
+|---|---|---|---|
+| `entity_id` | `entities.id` | NO ACTION | CASCADE |
+| `story_version_id` | `story_versions.id` | NO ACTION | CASCADE |
+| `story_id` | `stories.id` | NO ACTION | CASCADE |
+
+定义：
+
+```sql
+CREATE TABLE story_entity_links (
+    story_id TEXT NOT NULL REFERENCES stories(id) ON DELETE CASCADE,
+    story_version_id TEXT NOT NULL REFERENCES story_versions(id) ON DELETE CASCADE,
+    entity_id TEXT NOT NULL REFERENCES entities(id) ON DELETE CASCADE,
+    role TEXT NOT NULL,
+    sort_order INTEGER NOT NULL DEFAULT 0,
+    notes TEXT,
+    PRIMARY KEY(story_version_id, entity_id, role)
+)
+```
+
+## `story_sections` (table)
+
+| 序号 | 字段 | SQLite 类型 | NOT NULL | 默认值 | PK 序位 |
+|---:|---|---|---:|---|---:|
+| 0 | `id` | TEXT | 0 |  | 1 |
+| 1 | `story_version_id` | TEXT | 1 |  | 0 |
+| 2 | `section_order` | INTEGER | 1 |  | 0 |
+| 3 | `heading_zh` | TEXT | 1 |  | 0 |
+| 4 | `heading_en` | TEXT | 1 |  | 0 |
+| 5 | `body_zh` | TEXT | 1 |  | 0 |
+| 6 | `body_en` | TEXT | 1 |  | 0 |
+| 7 | `anchor_claim_id` | TEXT | 0 |  | 0 |
+| 8 | `evidence_note` | TEXT | 1 |  | 0 |
+| 9 | `uncertainty_note` | TEXT | 0 |  | 0 |
+
+外键：
+
+| 字段 | 目标 | ON UPDATE | ON DELETE |
+|---|---|---|---|
+| `anchor_claim_id` | `claims.id` | NO ACTION | NO ACTION |
+| `story_version_id` | `story_versions.id` | NO ACTION | CASCADE |
+
+定义：
+
+```sql
+CREATE TABLE story_sections (
+    id TEXT PRIMARY KEY,
+    story_version_id TEXT NOT NULL REFERENCES story_versions(id) ON DELETE CASCADE,
+    section_order INTEGER NOT NULL CHECK(section_order >= 1),
+    heading_zh TEXT NOT NULL,
+    heading_en TEXT NOT NULL,
+    body_zh TEXT NOT NULL,
+    body_en TEXT NOT NULL,
+    anchor_claim_id TEXT REFERENCES claims(id),
+    evidence_note TEXT NOT NULL,
+    uncertainty_note TEXT,
+    UNIQUE(story_version_id, section_order)
+)
+```
+
+## `story_versions` (table)
+
+| 序号 | 字段 | SQLite 类型 | NOT NULL | 默认值 | PK 序位 |
+|---:|---|---|---:|---|---:|
+| 0 | `id` | TEXT | 0 |  | 1 |
+| 1 | `story_id` | TEXT | 1 |  | 0 |
+| 2 | `version_label_zh` | TEXT | 1 |  | 0 |
+| 3 | `version_label_en` | TEXT | 1 |  | 0 |
+| 4 | `source_id` | TEXT | 1 |  | 0 |
+| 5 | `source_location` | TEXT | 1 |  | 0 |
+| 6 | `language_id` | TEXT | 0 |  | 0 |
+| 7 | `witness_scope` | TEXT | 1 |  | 0 |
+| 8 | `narrative_scope` | TEXT | 1 |  | 0 |
+| 9 | `evidence_status` | TEXT | 1 | 'SOURCE_BACKED' | 0 |
+| 10 | `access_level` | TEXT | 1 | 'PUBLIC_CONTEXT' | 0 |
+| 11 | `version_order` | INTEGER | 1 | 0 | 0 |
+| 12 | `rights_note` | TEXT | 0 |  | 0 |
+| 13 | `created_at` | TEXT | 1 |  | 0 |
+
+外键：
+
+| 字段 | 目标 | ON UPDATE | ON DELETE |
+|---|---|---|---|
+| `language_id` | `languages.id` | NO ACTION | NO ACTION |
+| `source_id` | `sources.id` | NO ACTION | NO ACTION |
+| `story_id` | `stories.id` | NO ACTION | CASCADE |
+
+定义：
+
+```sql
+CREATE TABLE story_versions (
+    id TEXT PRIMARY KEY,
+    story_id TEXT NOT NULL REFERENCES stories(id) ON DELETE CASCADE,
+    version_label_zh TEXT NOT NULL,
+    version_label_en TEXT NOT NULL,
+    source_id TEXT NOT NULL REFERENCES sources(id),
+    source_location TEXT NOT NULL,
+    language_id TEXT REFERENCES languages(id),
+    witness_scope TEXT NOT NULL,
+    narrative_scope TEXT NOT NULL,
+    evidence_status TEXT NOT NULL DEFAULT 'SOURCE_BACKED' CHECK(evidence_status IN ('UNVERIFIED','PARTIAL','SOURCE_BACKED','CONFLICTING')),
+    access_level TEXT NOT NULL DEFAULT 'PUBLIC_CONTEXT' CHECK(access_level IN ('PUBLIC_CONTEXT','ATTRIBUTION_REQUIRED','PERMISSION_REQUIRED','DO_NOT_COLLECT')),
+    version_order INTEGER NOT NULL DEFAULT 0,
+    rights_note TEXT,
+    created_at TEXT NOT NULL,
+    UNIQUE(story_id, source_id, source_location, version_label_en)
 )
 ```
 

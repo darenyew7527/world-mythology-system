@@ -26,7 +26,7 @@ class Explorer2EvidenceWorkbenchTests(unittest.TestCase):
                 "SELECT name FROM schema_migrations WHERE version=33"
             ).fetchone()
             feature_count = connection.execute(
-                "SELECT COUNT(*) FROM explorer_feature_registry"
+                "SELECT COUNT(*) FROM explorer_feature_registry WHERE introduced_in='0.24.0'"
             ).fetchone()[0]
         self.assertEqual(migration["name"], "20260827_v0240_explorer2_evidence_workbench")
         self.assertEqual(feature_count, 10)
@@ -37,7 +37,7 @@ class Explorer2EvidenceWorkbenchTests(unittest.TestCase):
             set(analytics),
             {"map", "releaseHistory", "sourceQuality", "coverageByCivilization", "queueProgress", "accessPolicyCounts"},
         )
-        self.assertEqual(self.snapshot["meta"]["projectVersion"], "0.24.0-explorer2-evidence-workbench")
+        self.assertIn("release.0.24.0", {item["id"] for item in analytics["releaseHistory"]})
 
     def test_map_never_infers_missing_coordinates(self):
         map_data = self.snapshot["analytics"]["map"]
@@ -48,8 +48,8 @@ class Explorer2EvidenceWorkbenchTests(unittest.TestCase):
 
     def test_release_history_is_exact_and_ordered(self):
         releases = self.snapshot["analytics"]["releaseHistory"]
-        self.assertEqual(releases[-1]["id"], "release.0.24.0")
-        self.assertEqual(releases[-1]["schemaVersion"], 33)
+        release = next(item for item in releases if item["id"] == "release.0.24.0")
+        self.assertEqual(release["schemaVersion"], 33)
         self.assertEqual([item["builtAt"] for item in releases], sorted(item["builtAt"] for item in releases))
 
     def test_source_quality_and_queue_totals_reconcile(self):

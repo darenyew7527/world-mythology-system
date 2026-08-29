@@ -10,6 +10,7 @@ import Header from './components/Header.jsx'
 import { SearchIcon } from './components/Icons.jsx'
 import MetricStrip from './components/MetricStrip.jsx'
 import ProgressView from './components/ProgressView.jsx'
+import StoryLibrary from './components/StoryLibrary.jsx'
 import ThunderView from './components/ThunderView.jsx'
 import { t } from './i18n.js'
 
@@ -26,7 +27,7 @@ const FEATURED_IDS = [
   'deity.yoruba.orunmila',
 ]
 
-const VALID_VIEWS = new Set(['explore', 'workbench', 'graph', 'thunder', 'evidence', 'progress', 'contribute'])
+const VALID_VIEWS = new Set(['explore', 'stories', 'workbench', 'graph', 'thunder', 'evidence', 'progress', 'contribute'])
 
 const readQueryView = () => {
   const view = new URL(window.location.href).searchParams.get('view')
@@ -38,6 +39,8 @@ const readHashEntity = () => {
   return match ? decodeURIComponent(match[1]) : null
 }
 
+const readQueryStory = () => new URL(window.location.href).searchParams.get('story')
+
 const normalize = (value) => (value || '').normalize('NFKD').toLocaleLowerCase()
 
 export default function App() {
@@ -45,6 +48,7 @@ export default function App() {
   const [error, setError] = useState(null)
   const [language, setLanguage] = useState(() => window.localStorage.getItem('wms-language') || 'zh')
   const [activeView, setActiveView] = useState(readQueryView)
+  const [selectedStoryId, setSelectedStoryId] = useState(readQueryStory)
   const [query, setQuery] = useState('')
   const [typeFilter, setTypeFilter] = useState('ALL')
   const [civilizationFilter, setCivilizationFilter] = useState('ALL')
@@ -82,7 +86,10 @@ export default function App() {
   }, [])
 
   useEffect(() => {
-    const onPopState = () => setActiveView(readQueryView())
+    const onPopState = () => {
+      setActiveView(readQueryView())
+      setSelectedStoryId(readQueryStory())
+    }
     window.addEventListener('popstate', onPopState)
     return () => window.removeEventListener('popstate', onPopState)
   }, [])
@@ -139,8 +146,19 @@ export default function App() {
     const url = new URL(window.location.href)
     if (view === 'explore') url.searchParams.delete('view')
     else url.searchParams.set('view', view)
+    if (view !== 'stories') url.searchParams.delete('story')
     window.history.pushState(null, '', url)
   }, [])
+
+  const selectStory = useCallback((storyId) => {
+    if (!data?.stories?.some((story) => story.id === storyId)) return
+    setSelectedStoryId(storyId)
+    setActiveView('stories')
+    const url = new URL(window.location.href)
+    url.searchParams.set('view', 'stories')
+    url.searchParams.set('story', storyId)
+    window.history.replaceState(null, '', url)
+  }, [data])
 
   const openEntity = useCallback((id) => {
     selectEntity(id)
@@ -236,6 +254,7 @@ export default function App() {
               mobileOpen={mobileDetailOpen}
               onCloseMobile={() => setMobileDetailOpen(false)}
               onNavigate={navigate}
+              onOpenStory={selectStory}
               onSelect={(id) => selectEntity(id)}
             />
           </main>
@@ -250,6 +269,16 @@ export default function App() {
           language={language}
           onNavigate={navigate}
           onSelect={(id) => selectEntity(id, { openMobile: false })}
+        />
+      )}
+
+      {activeView === 'stories' && (
+        <StoryLibrary
+          language={language}
+          onOpenEntity={openEntity}
+          onSelectStory={selectStory}
+          selectedStoryId={selectedStoryId}
+          stories={data.stories || []}
         />
       )}
 
