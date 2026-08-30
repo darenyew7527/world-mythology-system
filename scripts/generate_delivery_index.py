@@ -30,6 +30,9 @@ COUNT_OBJECTS = [
     ("可阅读故事", "stories"),
     ("故事文本版本", "story_versions"),
     ("故事阅读分段", "story_sections"),
+    ("故事事件节点", "story_event_nodes"),
+    ("主题阅读路线", "reading_routes"),
+    ("阅读路线步骤", "reading_route_steps"),
 ]
 
 
@@ -63,6 +66,7 @@ def generate(db_path: Path = DEFAULT_DB_PATH) -> Path:
         "## 直接打开这些文件",
         "",
         "- `database/world_mythology.sqlite`：事实核心数据库。",
+        "- `RELEASE_NOTES_v0.26.0.md`：v0.26 故事地图、事件节点、主题阅读路线与公开进程故事。",
         "- `RELEASE_NOTES_v0.25.0.md`：v0.25 神话故事阅读库、版本分离、证据链接与阅读边界。",
         "- `docs/ROADMAP_v0.26-v0.29.md`：后续故事地图、见证对读、全球扩张与阅读工具路线。",
         "- `RELEASE_NOTES_v0.14.0.md`：v0.14 苏萨大流士雕像发掘、转运、遗址与馆藏来源链。",
@@ -83,6 +87,7 @@ def generate(db_path: Path = DEFAULT_DB_PATH) -> Path:
         "- `exports/graph/`：JSON、CSV、GraphML 知识图谱。",
         "- `profiles/entities/`：每个实体的 Markdown 阅读档案。",
         "- `profiles/stories/index.md`：可下载的完整故事阅读档案索引。",
+        "- `profiles/stories/reading_routes.md`：六条见证安全的主题阅读路线。",
         "- `visualization/index.html`：静态关系网络基础。",
         "- `web/`：中文优先、可切换英文的 React/Vite 公开探索器。",
         "- `web/public/data/site-data.json`：不含证据短引文的浏览器安全数据快照。",

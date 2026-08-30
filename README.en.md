@@ -10,9 +10,9 @@ The repository contains a reproducible staged knowledge baseline, not a claim of
 
 The bilingual React explorer provides searchable entities, filters, relationship graphs, claims, evidence locators, sources, coverage, and the permanent research queue. Chinese is the default interface; English can be selected from the header.
 
-Current `v0.25.0-story-reading-library` checkpoint:
+Current `v0.26.0-story-maps-reading-routes` checkpoint:
 
-v0.25 adds a source-scoped reading library with 21 stories, 23 distinct textual versions, 69 bilingual sections, and 106 links to existing claims. Story witnesses remain separate, gaps are explicit, and story/entity navigation works in both directions on desktop and mobile. Complete Markdown reading archives are generated with every checkpoint.
+v0.26 adds two authority-backed public-procession stories, 77 persistent event nodes, six witness-safe reading routes, and a mobile event/place timeline. Routes are editorial navigation rather than common-origin claims, and missing coordinates are never inferred.
 
 v0.24 adds Explorer 2.0: a coordinate-evidence map, exact dataset-release timeline, entity-to-claim-to-source witness graph, release and conflict comparison, four-dimensional evidence filters, source-quality metadata, research-density heatmap, permanent-queue progress, and living-tradition access-policy views. Coordinates and chronology are never inferred for presentation.
 
@@ -26,12 +26,12 @@ v0.15 decomposes the statue programme into four editorially numbered hieroglyphi
 
 v0.14 adds Xerxes I, Susa, the Darius Gate, a qualified ancient-transfer reconstruction, the 1972 discovery event and the National Museum of Iran custody layer. Manufacture, transfer interpretation, find context, installation and modern custody remain distinct.
 
-- 635 registered entities / 630 browsable canonical entities
+- 637 registered entities / 632 browsable canonical entities
 - 99 civilizations and traditions
 - 203 source records
-- 605 structured claims and 601 evidence records
-- 479 direct relationship assertions
-- 21 readable stories / 23 witness versions / 69 bilingual sections
+- 612 structured claims and 608 evidence records
+- 484 direct relationship assertions
+- 23 readable stories / 25 witness versions / 77 bilingual sections / 6 reading routes
 - A bilingual genealogy mode for parents, children, siblings, consorts, and their evidence
 - An evidence-led comparison of Thor, Zeus, Indra, Raijin, Takemikazuchi, Leigong, the Leize thunder spirit, Perun, Ṣàngó, and Ugaritic Baʿlu/Haddu
 - Structured deity, artifact, text, place, creature, and event profiles in the entity view

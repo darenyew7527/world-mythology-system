@@ -51,6 +51,14 @@ The sea birth is the Theogony version; the genealogy terms in the Iliad are read
 > Claim: `claim.v050.theogony.aphrodite_origin`
 > 未知／边界：系统不裁定唯一正确版本。
 
+### 事件顺序与地点
+
+> 以下是本见证内的叙事顺序，不是绝对年代。没有可靠坐标时不推测坐标。
+
+- 01 · 乌拉诺斯之后 — 当前证据未定位地点 (`UNSPECIFIED` / `NO_COORDINATE`)
+- 02 · 海中诞生 — 当前证据未定位地点 (`UNSPECIFIED` / `NO_COORDINATE`)
+- 03 · 版本边界 — 当前证据未定位地点 (`UNSPECIFIED` / `NO_COORDINATE`)
+
 ### 本版本连接的 Claims
 
 - `claim.v050.theogony.aphrodite_origin` [VERIFIED / TEXT_SAYS] Theogony 188-206 narrates Aphrodite arising after the severed genitals of Uranus fall into the sea. — Hesiod, Theogony, Evelyn-White English text
@@ -97,6 +105,14 @@ The database preserves the difference between the Theogony and the Iliad and exp
 > 证据说明：两个古代文本见证及显式冲突档案。
 > Claim: `claim.v050.iliad5.dione_mentioned`
 > 未知／边界：冲突状态保持开放。
+
+### 事件顺序与地点
+
+> 以下是本见证内的叙事顺序，不是绝对年代。没有可靠坐标时不推测坐标。
+
+- 01 · 狄俄涅被称为母亲 — 当前证据未定位地点 (`UNSPECIFIED` / `NO_COORDINATE`)
+- 02 · 宙斯之女 — 当前证据未定位地点 (`UNSPECIFIED` / `NO_COORDINATE`)
+- 03 · 两个古代版本共存 — 当前证据未定位地点 (`UNSPECIFIED` / `NO_COORDINATE`)
 
 ### 本版本连接的 Claims
 

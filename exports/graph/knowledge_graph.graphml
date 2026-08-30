@@ -400,6 +400,7 @@
     <node id="site.egypt.heliopolis_atum_precinct"><data key="name">Atum Precinct at Heliopolis</data><data key="type">ARCHAEOLOGICAL_SITE</data></node>
     <node id="site.egypt.karnak"><data key="name">Karnak</data><data key="type">TEMPLE</data></node>
     <node id="site.egypt.karnak_great_temple_amun_ra"><data key="name">Great Temple of Amun-Ra at Karnak</data><data key="type">TEMPLE</data></node>
+    <node id="site.egypt.karnak_luxor_processional_way"><data key="name">Processional way between Karnak and Luxor</data><data key="type">ARCHAEOLOGICAL_SITE</data></node>
     <node id="site.egypt.luxor_temple"><data key="name">Luxor Temple</data><data key="type">TEMPLE</data></node>
     <node id="site.egypt.philae"><data key="name">Philae</data><data key="type">TEMPLE</data></node>
     <node id="site.egypt.saqqara"><data key="name">Saqqara</data><data key="type">ARCHAEOLOGICAL_SITE</data></node>
@@ -411,6 +412,7 @@
     <node id="site.greece.delos"><data key="name">Delos</data><data key="type">ARCHAEOLOGICAL_SITE</data></node>
     <node id="site.greece.delphi"><data key="name">Delphi</data><data key="type">ARCHAEOLOGICAL_SITE</data></node>
     <node id="site.greece.dodona"><data key="name">Dodona</data><data key="type">ARCHAEOLOGICAL_SITE</data></node>
+    <node id="site.greece.eleusinion_athens"><data key="name">Eleusinion at Athens</data><data key="type">ARCHAEOLOGICAL_SITE</data></node>
     <node id="site.greece.eleusis"><data key="name">Eleusis</data><data key="type">ARCHAEOLOGICAL_SITE</data></node>
     <node id="site.greece.eleusis_telesterion"><data key="name">Telesterion at Eleusis</data><data key="type">ARCHAEOLOGICAL_SITE</data></node>
     <node id="site.greece.epidaurus"><data key="name">Epidaurus</data><data key="type">ARCHAEOLOGICAL_SITE</data></node>
@@ -856,6 +858,11 @@
     <edge id="claim.v0220.rv_part" source="text.vedic.rigveda.1_32" target="text.vedic.rigveda"><data key="relation">PART_OF</data></edge>
     <edge id="claim.v0220.rv_vajra" source="text.vedic.rigveda.1_32" target="weapon.vedic.vajra"><data key="relation">MENTIONS</data></edge>
     <edge id="claim.v0220.rv_vritra" source="text.vedic.rigveda.1_32" target="creature.vedic.vritra"><data key="relation">MENTIONS</data></edge>
+    <edge id="claim.v0260.eleusinia_culminates_telesterion" source="festival.greek.great_eleusinia" target="site.greece.eleusis_telesterion"><data key="relation">ASSOCIATED_WITH</data></edge>
+    <edge id="claim.v0260.eleusinion_procession_start" source="festival.greek.great_eleusinia" target="site.greece.eleusinion_athens"><data key="relation">ASSOCIATED_WITH</data></edge>
+    <edge id="claim.v0260.opet_colonnade_scenes" source="site.egypt.luxor_temple" target="festival.egyptian.opet"><data key="relation">DEPICTS</data></edge>
+    <edge id="claim.v0260.opet_way_karnak" source="site.egypt.karnak_luxor_processional_way" target="site.egypt.karnak"><data key="relation">ASSOCIATED_WITH</data></edge>
+    <edge id="claim.v0260.opet_way_luxor" source="site.egypt.karnak_luxor_processional_way" target="site.egypt.luxor_temple"><data key="relation">ASSOCIATED_WITH</data></edge>
     <edge id="claim.v040.aether.child_erebus" source="deity.greek.aether" target="deity.greek.erebus"><data key="relation">CHILD_OF</data></edge>
     <edge id="claim.v040.aether.child_nyx" source="deity.greek.aether" target="deity.greek.nyx"><data key="relation">CHILD_OF</data></edge>
     <edge id="claim.v040.asteria.parent_hecate" source="deity.greek.asteria" target="deity.greek.hecate"><data key="relation">PARENT_OF</data></edge>

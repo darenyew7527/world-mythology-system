@@ -4,7 +4,7 @@ import { statusLabel } from '../i18n.js'
 
 const ui = {
   zh: {
-    eyebrow: 'v0.25 · 原典见证阅读层',
+    eyebrow: 'v0.26 · 故事地图与阅读路线',
     title: '神话故事阅读库',
     intro: '以原始文本、学术数字版与授权公共语境为边界阅读故事；版本分开，缺口不补写。',
     search: '搜索故事、人物、神器或主题…',
@@ -29,9 +29,16 @@ const ui = {
     noResult: '没有符合当前筛选的故事。',
     select: '选择左侧故事开始阅读。',
     openEntity: '查看实体',
+    routes: '主题阅读路线',
+    routePolicy: '路线是编辑导航，不代表跨文明同源。',
+    eventSequence: '事件顺序与地点',
+    narrativeOrder: '叙事顺序，不是绝对年代',
+    place: '地点',
+    noPlace: '当前证据未定位地点',
+    noCoordinate: '不推测坐标',
   },
   en: {
-    eyebrow: 'v0.25 · Witness-scoped reading layer',
+    eyebrow: 'v0.26 · Story maps and reading routes',
     title: 'Myth Story Library',
     intro: 'Read within the boundaries of primary texts, scholarly digital editions, and authorized public context; variants stay separate and gaps are not invented.',
     search: 'Search stories, people, artifacts, or themes…',
@@ -56,6 +63,13 @@ const ui = {
     noResult: 'No stories match the current filters.',
     select: 'Choose a story to begin reading.',
     openEntity: 'Open entity',
+    routes: 'Thematic reading routes',
+    routePolicy: 'Routes are editorial navigation, not common-origin claims.',
+    eventSequence: 'Event sequence and places',
+    narrativeOrder: 'Narrative order, not absolute chronology',
+    place: 'Place',
+    noPlace: 'The current evidence does not locate this event',
+    noCoordinate: 'Coordinates are not inferred',
   },
 }
 
@@ -77,6 +91,7 @@ export default function StoryLibrary({
   language,
   onOpenEntity,
   onSelectStory,
+  readingRoutes = [],
   selectedStoryId,
   stories,
 }) {
@@ -169,6 +184,37 @@ export default function StoryLibrary({
         <span>{filtered.length} / {stories.length}</span>
       </section>
 
+      <section className="story-route-strip" aria-label={copy.routes}>
+        <header><div><strong>{copy.routes}</strong><span>{copy.routePolicy}</span></div><b>{readingRoutes.length}</b></header>
+        <div>
+          {readingRoutes.map((route) => (
+            <details key={route.id}>
+              <summary>
+                <span>{route.routeType}</span>
+                <strong>{language === 'zh' ? route.titleZh : route.titleEn}</strong>
+                <small>{route.steps.length}</small>
+              </summary>
+              <p>{language === 'zh' ? route.descriptionZh : route.descriptionEn}</p>
+              <ol>
+                {route.steps.map((step) => (
+                  <li key={`${route.id}-${step.order}`}>
+                    <button type="button" onClick={() => {
+                      onSelectStory(step.storyId)
+                      setSelectedVersionId(step.storyVersionId)
+                    }}>
+                      <span>{String(step.order).padStart(2, '0')}</span>
+                      <strong>{language === 'zh' ? step.storyTitleZh : step.storyTitleEn}</strong>
+                      <small>{language === 'zh' ? step.rationaleZh : step.rationaleEn}</small>
+                    </button>
+                  </li>
+                ))}
+              </ol>
+              <footer>{route.evidencePolicy}</footer>
+            </details>
+          ))}
+        </div>
+      </section>
+
       <div className="story-layout">
         <section className="story-index" aria-label={copy.title}>
           {filtered.length === 0 && <p className="story-empty">{copy.noResult}</p>}
@@ -240,6 +286,29 @@ export default function StoryLibrary({
                   </a>
                 )}
               </div>
+            </section>
+
+            <section className="story-event-map">
+              <header>
+                <div><strong>{copy.eventSequence}</strong><span>{copy.narrativeOrder}</span></div>
+                <b>{selectedVersion.events.length}</b>
+              </header>
+              <ol>
+                {selectedVersion.events.map((event) => (
+                  <li key={event.id} className={event.placeEntityId ? 'has-place' : ''}>
+                    <span>{String(event.order).padStart(2, '0')}</span>
+                    <div>
+                      <strong>{language === 'zh' ? event.titleZh : event.titleEn}</strong>
+                      <p>{event.placeEntityId
+                        ? `${copy.place}: ${language === 'zh' ? event.placeNameZh || event.placeName : event.placeName}`
+                        : copy.noPlace}</p>
+                      <small>{event.coordinatePolicy === 'VERIFIED_COORDINATE'
+                        ? `${event.latitude}, ${event.longitude}`
+                        : copy.noCoordinate}</small>
+                    </div>
+                  </li>
+                ))}
+              </ol>
             </section>
 
             <div className="story-prose">

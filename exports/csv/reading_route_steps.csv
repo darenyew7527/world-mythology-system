@@ -1,0 +1,24 @@
+route_id,step_order,story_id,story_version_id,focus_entity_id,rationale_zh,rationale_en,transition_note
+route.artifact_circulation,1,story.norse.forging_treasures,storyver.norse.forging_skald,,从锻造宝物开始。,Begin with the forging of treasures.,
+route.artifact_circulation,2,story.norse.hammer_recovery,storyver.norse.hammer_thrymskvida,,继续到妙尔尼尔被夺与寻回的当前框架。,Continue to the current framework for Mjolnir’s taking and recovery.,
+route.artifact_circulation,3,story.akkadian.anzu_tablet,storyver.akkadian.anzu_oracc,,比较命运泥板的夺取与夺回。,Compare the taking and recovery of the Tablet of Destinies.,
+route.artifact_circulation,4,story.ugaritic.baal_yamm,storyver.ugaritic.baal_yamm_ktu12,,以两件有名武器的顺序使用结束。,Close with the sequential use of two named weapons.,No cross-tradition artifact merger.
+route.creation_accounts,1,story.norse.ask_embla,storyver.norse.ask_embla_voluspa,,先看《女巫预言》的神祇组合。,Begin with the divine triad in Voluspa.,Next witness changes the divine triad.
+route.creation_accounts,2,story.norse.ask_embla,storyver.norse.ask_embla_gylf,,再看《欺骗古鲁菲》的不同组合。,Then read the different Gylfaginning triad.,"Same pair of humans, distinct witness."
+route.creation_accounts,3,story.babylonian.marduk_tiamat,storyver.babylonian.enuma_elish,,转向巴比伦创世战斗纲要。,Move to the Babylonian creation-combat outline.,Partial evidence guide.
+route.creation_accounts,4,story.maori.creation_many,storyver.maori.creation_teara,,以多部族与权限边界结束。,Close with plurality and permission boundaries among iwi.,No single standard version.
+route.divine_combat,1,story.greek.titanomachy,storyver.greek.titanomachy_theogony,,赫西俄德的神战段落。,Hesiodic divine-war passage.,
+route.divine_combat,2,story.greek.zeus_typhon,storyver.greek.typhon_theogony,,同一诗作中的提丰战斗。,Typhon combat in the same poem.,
+route.divine_combat,3,story.ugaritic.baal_yamm,storyver.ugaritic.baal_yamm_ktu12,,泥板见证中的巴力与雅姆。,Baal and Yamm in a tablet witness.,
+route.divine_combat,4,story.vedic.indra_vritra,storyver.vedic.indra_vritra_rv132,,《梨俱吠陀》1.32的颂歌序列。,The hymn sequence of Rigveda 1.32.,
+route.divine_combat,5,story.babylonian.marduk_tiamat,storyver.babylonian.enuma_elish,,以仍属纲要层的巴比伦见证结束。,Close with the still-outline Babylonian witness.,Evidence completeness differs across steps.
+route.genealogy_conflicts,1,story.greek.aphrodite_origins,storyver.greek.aphrodite_theogony,,先读《神谱》的海中诞生。,First read the Theogony sea-birth account.,
+route.genealogy_conflicts,2,story.greek.aphrodite_origins,storyver.greek.aphrodite_iliad,,再读《伊利亚特》的宙斯—狄俄涅谱系。,Then read the Iliadic Zeus-Dione genealogy.,Conflict is preserved.
+route.genealogy_conflicts,3,story.norse.ask_embla,storyver.norse.ask_embla_voluspa,,观察同一人物组合的创造者差异。,Observe creator differences for the same human pair.,
+route.genealogy_conflicts,4,story.japanese.kamo_arrow,storyver.japanese.kamo_fudoki_fragment,,以逸文、地方神名与身份边界结束。,"Close with fragment transmission, local names, and identity boundaries.",Name similarity is not identity.
+route.sacred_processions,1,story.egyptian.opet_procession,storyver.egyptian.opet_mota,site.egypt.karnak,从卡纳克出发。,Depart from Karnak.,Move along a real processional connection.
+route.sacred_processions,2,story.greek.eleusinia_procession,storyver.greek.eleusinia_acropolis,site.greece.sacred_way,比较雅典至厄琉息斯的公开进程。,Compare the public procession from Athens to Eleusis.,Secret initiation remains outside scope.
+route.underworld_journeys,1,story.sumerian.inanna_descent,storyver.sumerian.inanna_etcsl,,苏美尔下降故事的当前可证范围。,Current evidenced scope of the Sumerian descent.,Line-level expansion remains open.
+route.underworld_journeys,2,story.greek.demeter_persephone,storyver.greek.demeter_hymn2,site.greece.eleusis,寻找与厄琉息斯的赞歌版本。,The hymn version of search and Eleusis.,Textual and real-site layers remain distinct.
+route.underworld_journeys,3,story.egyptian.solar_night,storyver.egyptian.solar_met,,太阳夜行的博物馆与丧葬文本综合层。,Museum and funerary synthesis for the nocturnal solar journey.,Not a unified funerary text.
+route.underworld_journeys,4,story.japanese.eight_thunder_yomi,storyver.japanese.eight_thunder_kojiki,,以《古事记》黄泉片段结束。,Close with the Kojiki Yomi fragment.,Local names remain separate.

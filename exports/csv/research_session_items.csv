@@ -515,3 +515,9 @@ research.20260827.v0150_darius_text_witnesses,CLAIM,claim.v0150.subject_left_par
 research.20260827.v0150_darius_text_witnesses,CLAIM,claim.v0150.subject_mapping_guard,REGISTER,SOURCE_LOCATED
 research.20260827.v0150_darius_text_witnesses,CLAIM,claim.v0150.subject_right_count,REGISTER,SOURCE_LOCATED
 research.20260827.v0150_darius_text_witnesses,CLAIM,claim.v0150.subject_right_part,REGISTER,SOURCE_LOCATED
+session.20260830.v0260,QUEUE,queue.v070.egypt.opet_layers,EXPAND,Public route baseline and new story added.
+session.20260830.v0260,QUEUE,queue.v080.greek.sacred_way_monuments,EXPAND,Public processional sequence expanded; archaeology remains partial.
+session.20260830.v0260,STORY,story.egyptian.opet_procession,CREATE,Source-backed public ritual narrative.
+session.20260830.v0260,STORY,story.greek.eleusinia_procession,CREATE,Public route narrative with secret-rite boundary.
+session.20260830.v0260,SCHEMA,story_event_nodes,CREATE,Ordered narrative nodes with explicit place and coordinate policies.
+session.20260830.v0260,SCHEMA,reading_routes,CREATE,Six editorial reading routes with witness-specific steps.

@@ -51,6 +51,14 @@ Typhon is defeated in the Hesiodic combat passage; the database scopes this outc
 > Claim: `claim.typhon.participated_battle`
 > 未知／边界：其他作者的结局版本未在本页合并。
 
+### 事件顺序与地点
+
+> 以下是本见证内的叙事顺序，不是绝对年代。没有可靠坐标时不推测坐标。
+
+- 01 · 提丰出现 — 当前证据未定位地点 (`UNSPECIFIED` / `NO_COORDINATE`)
+- 02 · 宙斯发动雷霆 — 当前证据未定位地点 (`UNSPECIFIED` / `NO_COORDINATE`)
+- 03 · 本见证的结局 — 当前证据未定位地点 (`UNSPECIFIED` / `NO_COORDINATE`)
+
 ### 本版本连接的 Claims
 
 - `claim.typhon.child_gaia` [VERIFIED / TEXT_SAYS] Hesiod’s Theogony presents Typhoeus as Gaia’s youngest child. — Hesiod, Theogony, Evelyn-White English text

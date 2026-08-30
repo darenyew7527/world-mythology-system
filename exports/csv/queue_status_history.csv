@@ -44,6 +44,8 @@ qhist.20260814.v050.hades_helm,queue.greek.v050.hades_helm,NEW,DISCOVERED,2026-0
 qhist.20260814.v050.hephaestus_parentage,queue.greek.v050.hephaestus_parentage,DISCOVERED,CONFLICT,2026-08-14T00:00:00Z,Hesiodic genealogy should not overwrite alternate ancient accounts
 qhist.20260814.v050.hermes_caduceus,queue.greek.v050.hermes_caduceus,DISCOVERED,SOURCE_FOUND,2026-08-14T00:00:00Z,Early Hermes source registered; object history remains open
 qhist.20260814.v050.olympian_membership,queue.greek.v050.olympian_membership,DISCOVERED,NEEDS_REVIEW,2026-08-14T00:00:00Z,Fixed membership must be historically sourced
+qhist.v0260.opet,queue.v070.egypt.opet_layers,SOURCE_FOUND,BASELINE_COMPLETE,2026-08-30T03:30:00Z,"Added source-backed public processional narrative, route entity, event sequence and evidence locators."
+qhist.v0260.sacredway,queue.v080.greek.sacred_way_monuments,PARTIAL,PARTIAL,2026-08-30T03:30:00Z,Expanded public procession route and Athens/Eleusis event sequence; segment-level archaeology remains open.
 qhist.v060.chinese.leigong,queue.v060.chinese.leigong_diachronic,SOURCE_FOUND,PARTIAL,2026-08-14T00:00:00Z,"Chu Ci, Lunheng and Mogao layers separated"
 qhist.v060.japanese.raijin,queue.v060.japanese.raijin_regional,DISCOVERED,SOURCE_FOUND,2026-08-14T00:00:00Z,Kokugakuin umbrella and name indexes registered
 qhist.v060.norse.family,queue.v060.norse.thor_genealogy_variants,SOURCE_FOUND,PARTIAL,2026-08-14T00:00:00Z,First source-located Thor household graph created

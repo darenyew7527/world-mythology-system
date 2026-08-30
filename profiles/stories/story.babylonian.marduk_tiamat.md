@@ -51,6 +51,14 @@ The detailed order of victory, world formation, and kingship will be added after
 > Claim: `claim.babylonian.marduk_participates_combat`
 > 未知／边界：当前证据未细分这些阶段。
 
+### 事件顺序与地点
+
+> 以下是本见证内的叙事顺序，不是绝对年代。没有可靠坐标时不推测坐标。
+
+- 01 · 创世战斗的两方 — 当前证据未定位地点 (`UNSPECIFIED` / `NO_COORDINATE`)
+- 02 · 数字校勘语料 — 当前证据未定位地点 (`UNSPECIFIED` / `NO_COORDINATE`)
+- 03 · 当前版本的边界 — 当前证据未定位地点 (`UNSPECIFIED` / `NO_COORDINATE`)
+
 ### 本版本连接的 Claims
 
 - `claim.babylonian.marduk_participates_combat` [VERIFIED / IN_TRADITION] Marduk participates in the combat with Tiamat in Enūma eliš. — Poem of Creation (Enūma eliš)

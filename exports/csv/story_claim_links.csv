@@ -8,6 +8,12 @@ storyver.babylonian.enuma_elish,claim.babylonian.marduk_participates_combat,NARR
 storyver.babylonian.enuma_elish,claim.babylonian.tiamat_participates_combat,NARRATIVE_BASIS
 storyver.chinese.leize_shanhaijing,claim.v060.chinese.leize_thunder_scope,NARRATIVE_BASIS
 storyver.chinese.leize_shanhaijing,claim.v060.chinese.leize_appears_shanhaijing,NARRATIVE_BASIS
+storyver.egyptian.opet_mota,claim.v070.egypt.opet_associated_karnak,NARRATIVE_BASIS
+storyver.egyptian.opet_mota,claim.v070.egypt.opet_associated_luxor,NARRATIVE_BASIS
+storyver.egyptian.opet_mota,claim.v070.egypt.opet_associated_triad,NARRATIVE_BASIS
+storyver.egyptian.opet_mota,claim.v0260.opet_way_sphinxes,NARRATIVE_BASIS
+storyver.egyptian.opet_mota,claim.v0260.opet_visits_amenemopet,NARRATIVE_BASIS
+storyver.egyptian.opet_mota,claim.v0260.opet_colonnade_scenes,CONTEXT
 storyver.egyptian.solar_met,claim.v070.egypt.solar_journey_amduat,NARRATIVE_BASIS
 storyver.egyptian.solar_met,claim.v070.egypt.ra_participates_solar_journey,NARRATIVE_BASIS
 storyver.egyptian.solar_met,claim.v070.egypt.solar_journey_barque,NARRATIVE_BASIS
@@ -24,6 +30,11 @@ storyver.greek.demeter_hymn2,claim.v050.h2.persephone_participated,NARRATIVE_BAS
 storyver.greek.demeter_hymn2,claim.v050.h2.demeter_participated,NARRATIVE_BASIS
 storyver.greek.demeter_hymn2,claim.v050.h2.hades_participated,NARRATIVE_BASIS
 storyver.greek.demeter_hymn2,claim.v050.h2.event_appears,NARRATIVE_BASIS
+storyver.greek.eleusinia_acropolis,claim.v0260.eleusinion_procession_start,NARRATIVE_BASIS
+storyver.greek.eleusinia_acropolis,claim.v080.eleusinia_sacredway,NARRATIVE_BASIS
+storyver.greek.eleusinia_acropolis,claim.v080.sacredway_eleusis,NARRATIVE_BASIS
+storyver.greek.eleusinia_acropolis,claim.v0260.eleusinia_culminates_telesterion,NARRATIVE_BASIS
+storyver.greek.eleusinia_acropolis,claim.v080.eleusinia_mysteries,EVIDENCE_LIMIT
 storyver.greek.medea_library,claim.v090.perses_deposed_aeetes,NARRATIVE_BASIS
 storyver.greek.medea_library,claim.v090.medea_killed_perses,NARRATIVE_BASIS
 storyver.greek.medea_library,claim.v090.medea_participated_restoration,NARRATIVE_BASIS

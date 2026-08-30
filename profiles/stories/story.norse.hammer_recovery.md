@@ -51,6 +51,14 @@ The current evidence layer confirms both figures in the recovery story, while th
 > Claim: `claim.v060.norse.thor_loki_thrymskvida`
 > 未知／边界：详情将在后续逐节版本扩充。
 
+### 事件顺序与地点
+
+> 以下是本见证内的叙事顺序，不是绝对年代。没有可靠坐标时不推测坐标。
+
+- 01 · 索尔寻找锤子 — 当前证据未定位地点 (`UNSPECIFIED` / `NO_COORDINATE`)
+- 02 · 洛基同行 — 当前证据未定位地点 (`UNSPECIFIED` / `NO_COORDINATE`)
+- 03 · 寻回框架 — 当前证据未定位地点 (`UNSPECIFIED` / `NO_COORDINATE`)
+
 ### 本版本连接的 Claims
 
 - `claim.v060.norse.loki_appears_thrymskvida` [VERIFIED / TEXT_SAYS] Loki accompanies and advises Thor in Thrymskvida. — Codex Regius electronic edition

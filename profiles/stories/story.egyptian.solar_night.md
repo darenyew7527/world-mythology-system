@@ -51,6 +51,14 @@ The event profile connects the nocturnal journey with renewed solar emergence wh
 > Claim: `claim.v070.egypt.solar_journey_amduat`
 > 未知／边界：不同冥界书将在后续独立成版本。
 
+### 事件顺序与地点
+
+> 以下是本见证内的叙事顺序，不是绝对年代。没有可靠坐标时不推测坐标。
+
+- 01 · 夜间旅行者 — 当前证据未定位地点 (`UNSPECIFIED` / `NO_COORDINATE`)
+- 02 · 太阳舟概念 — 当前证据未定位地点 (`UNSPECIFIED` / `NO_COORDINATE`)
+- 03 · 循环与再现 — 当前证据未定位地点 (`UNSPECIFIED` / `NO_COORDINATE`)
+
 ### 本版本连接的 Claims
 
 - `claim.v070.egypt.ra_participates_solar_journey` [VERIFIED / HISTORICAL_REALITY] The registered funerary-text summary identifies the sun god as the traveller through the netherworld cycle. — Book of the Dead for the Chantress of Amun, Nauny

@@ -51,6 +51,14 @@ The reading page presents the passage as a sourced exchange event, not as a univ
 > Claim: `claim.odin.associated_mimisbrunnr`
 > 未知／边界：象征解释须有独立学术来源后才能加入。
 
+### 事件顺序与地点
+
+> 以下是本见证内的叙事顺序，不是绝对年代。没有可靠坐标时不推测坐标。
+
+- 01 · 智慧之泉 — 当前证据未定位地点 (`UNSPECIFIED` / `NO_COORDINATE`)
+- 02 · 奥丁的交换 — 当前证据未定位地点 (`UNSPECIFIED` / `NO_COORDINATE`)
+- 03 · 代价与知识 — 当前证据未定位地点 (`UNSPECIFIED` / `NO_COORDINATE`)
+
 ### 本版本连接的 Claims
 
 - `claim.mimir.owns_well` [PROVISIONAL / TEXT_SAYS] Gylfaginning associates Mímir as owner/keeper of the wisdom well. — Snorri Sturluson, Edda

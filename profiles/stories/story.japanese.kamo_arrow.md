@@ -51,6 +51,14 @@ Existing claims register Tamayorihime as mother, the thunder deity associated wi
 > Claim: `claim.v0100.tamayori_parent_kamo`
 > 未知／边界：地方传统与《古事记》八雷神仍保持分离。
 
+### 事件顺序与地点
+
+> 以下是本见证内的叙事顺序，不是绝对年代。没有可靠坐标时不推测坐标。
+
+- 01 · 逸文而非完整原书 — 当前证据未定位地点 (`UNSPECIFIED` / `NO_COORDINATE`)
+- 02 · 玉依姬与红箭 — 当前证据未定位地点 (`UNSPECIFIED` / `NO_COORDINATE`)
+- 03 · 贺茂别雷大神的出生谱系 — 当前证据未定位地点 (`UNSPECIFIED` / `NO_COORDINATE`)
+
 ### 本版本连接的 Claims
 
 - `claim.v0180.fragment_incomplete` [VERIFIED / SCHOLARLY_INTERPRETATION] The project does not reconstruct a complete Yamashiro Fudoki from the surviving excerpt. — Boshijin

@@ -6,13 +6,13 @@
 |---|---:|---:|---:|
 | `DEITY` | 162 | 60 | 76 |
 | `TEXT` | 79 | 36 | 51 |
-| `ARCHAEOLOGICAL_SITE` | 54 | 41 | 44 |
+| `ARCHAEOLOGICAL_SITE` | 56 | 41 | 45 |
 | `CONCEPT` | 51 | 30 | 36 |
 | `ELEMENT` | 32 | 17 | 22 |
 | `WEAPON` | 26 | 21 | 21 |
 | `EPIC` | 15 | 14 | 15 |
 | `SCRIPTURE` | 14 | 13 | 14 |
-| `TEMPLE` | 15 | 10 | 12 |
+| `TEMPLE` | 15 | 10 | 11 |
 | `HERO` | 15 | 9 | 9 |
 | `INSTITUTION` | 9 | 2 | 9 |
 | `INSCRIPTION` | 18 | 8 | 8 |

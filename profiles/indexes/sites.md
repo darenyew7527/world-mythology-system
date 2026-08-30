@@ -23,6 +23,7 @@
 | site.egypt.karnak | 卡纳克 | Karnak | TEMPLE | 古埃及 | REAL_ARCHAEOLOGICAL | World Heritage property 87 component |
 | site.egypt.luxor_temple | 卢克索神庙 | Luxor Temple | TEMPLE | 古埃及 | REAL_ARCHAEOLOGICAL | World Heritage property 87 component |
 | site.egypt.philae | 菲莱 | Philae | TEMPLE | 古埃及 | REAL_ARCHAEOLOGICAL | Nubian Monuments World Heritage component |
+| site.egypt.karnak_luxor_processional_way | 卡纳克—卢克索仪仗道 | Processional way between Karnak and Luxor | ARCHAEOLOGICAL_SITE | 古埃及 | REAL_ARCHAEOLOGICAL | — |
 | site.egypt.saqqara | 萨卡拉 | Saqqara | ARCHAEOLOGICAL_SITE | 古埃及 | REAL_ARCHAEOLOGICAL | World Heritage property 86 component |
 | site.egypt.edfu | 埃德富神庙 | Temple of Edfu | TEMPLE | 古埃及 | REAL_ARCHAEOLOGICAL | — |
 | site.egypt.valley_kings | 帝王谷 | Valley of the Kings | TOMB | 古埃及 | REAL_ARCHAEOLOGICAL | World Heritage property 87 component |
@@ -31,6 +32,7 @@
 | site.greece.delos | 提洛岛 | Delos | ARCHAEOLOGICAL_SITE | 古希腊 | REAL_ARCHAEOLOGICAL | World Heritage 530 |
 | site.greece.delphi | 德尔斐 | Delphi | ARCHAEOLOGICAL_SITE | 古希腊 | REAL_ARCHAEOLOGICAL | World Heritage 393 |
 | site.greece.dodona | 多多纳 | Dodona | ARCHAEOLOGICAL_SITE | 古希腊 | REAL_ARCHAEOLOGICAL | — |
+| site.greece.eleusinion_athens | 雅典厄琉西尼翁圣所 | Eleusinion at Athens | ARCHAEOLOGICAL_SITE | 古希腊 | REAL_ARCHAEOLOGICAL | — |
 | site.greece.eleusis | 厄琉息斯 | Eleusis | ARCHAEOLOGICAL_SITE | 古希腊 | REAL_ARCHAEOLOGICAL | — |
 | site.greece.epidaurus | 埃皮达鲁斯 | Epidaurus | ARCHAEOLOGICAL_SITE | 古希腊 | REAL_ARCHAEOLOGICAL | World Heritage |
 | site.greece.olympia | 奥林匹亚 | Olympia | ARCHAEOLOGICAL_SITE | 古希腊 | REAL_ARCHAEOLOGICAL | World Heritage 517 |

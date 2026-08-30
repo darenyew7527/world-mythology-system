@@ -51,6 +51,14 @@ The event profile records the second weapon bringing Yamm down; what follows rem
 > Claim: `claim.v060.ugaritic.baal_uses_ayyamur`
 > 未知／边界：不把残缺处补成连续对白。
 
+### 事件顺序与地点
+
+> 以下是本见证内的叙事顺序，不是绝对年代。没有可靠坐标时不推测坐标。
+
+- 01 · 泥板中的对手 — 当前证据未定位地点 (`UNSPECIFIED` / `NO_COORDINATE`)
+- 02 · 两件有名武器 — 当前证据未定位地点 (`UNSPECIFIED` / `NO_COORDINATE`)
+- 03 · 倒地与缺口 — 当前证据未定位地点 (`UNSPECIFIED` / `NO_COORDINATE`)
+
 ### 本版本连接的 Claims
 
 - `claim.v060.ugaritic.ayyamur_appears_baal_cycle` [VERIFIED / TEXT_SAYS] Ayyamur appears in KTU 1.2 IV 18-26. — Baal weapons Yagrush and Ayyamur in KTU 1.2 IV

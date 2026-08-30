@@ -51,6 +51,14 @@ Because the passage does not give the later proper name and full image of Leigon
 > Claim: `claim.v060.chinese.leize_thunder_scope`
 > 未知／边界：后世接受史将在独立版本中处理。
 
+### 事件顺序与地点
+
+> 以下是本见证内的叙事顺序，不是绝对年代。没有可靠坐标时不推测坐标。
+
+- 01 · 雷泽中的神 — 当前证据未定位地点 (`UNSPECIFIED` / `NO_COORDINATE`)
+- 02 · 击腹发雷 — 当前证据未定位地点 (`UNSPECIFIED` / `NO_COORDINATE`)
+- 03 · 与后世雷公分开 — 当前证据未定位地点 (`UNSPECIFIED` / `NO_COORDINATE`)
+
 ### 本版本连接的 Claims
 
 - `claim.v060.chinese.leize_appears_shanhaijing` [VERIFIED / TEXT_SAYS] The Leize thunder spirit appears in the Hai Nei Dong Jing section of the Classic of Mountains and Seas. — Classic of Mountains and Seas, Hai Nei Dong Jing

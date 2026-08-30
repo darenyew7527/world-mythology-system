@@ -51,6 +51,14 @@ Iwi-specific, non-public, or restricted material is not collected by default; a 
 > Claim: `claim.v0230.maori_permission`
 > 未知／边界：此处不展示受限故事内容。
 
+### 事件顺序与地点
+
+> 以下是本见证内的叙事顺序，不是绝对年代。没有可靠坐标时不推测坐标。
+
+- 01 · 多种创世传统 — 当前证据未定位地点 (`UNSPECIFIED` / `NO_COORDINATE`)
+- 02 · Io传统并非普遍 — 当前证据未定位地点 (`UNSPECIFIED` / `NO_COORDINATE`)
+- 03 · 权限先于收集 — 当前证据未定位地点 (`UNSPECIFIED` / `NO_COORDINATE`)
+
 ### 本版本连接的 Claims
 
 - `claim.v0230.maori_no_standard` [VERIFIED / SCHOLARLY_INTERPRETATION] The project does not construct a single canonical Māori creation version. — Māori creation traditions

@@ -445,6 +445,46 @@ def build_snapshot(database_path: Path) -> dict[str, Any]:
             }
         )
 
+    story_events_by_version: dict[str, list[dict[str, Any]]] = defaultdict(list)
+    for row in _rows(
+        connection,
+        """
+        SELECT n.id,n.story_version_id,n.event_order,n.title_zh,n.title_en,
+               n.summary_zh,n.summary_en,n.anchor_claim_id,n.event_entity_id,
+               n.place_entity_id,n.location_kind,n.coordinate_policy,
+               n.evidence_status,n.uncertainty_note,
+               pe.canonical_name AS place_name,pe.name_zh AS place_name_zh,
+               pp.latitude,pp.longitude,pp.reality_status,pp.evidence_grade
+        FROM story_event_nodes n
+        LEFT JOIN entities pe ON pe.id=n.place_entity_id
+        LEFT JOIN place_profiles pp ON pp.entity_id=n.place_entity_id
+        ORDER BY n.story_version_id,n.event_order,n.id
+        """,
+    ):
+        story_events_by_version[row["story_version_id"]].append(
+            {
+                "id": row["id"],
+                "order": row["event_order"],
+                "titleZh": row["title_zh"],
+                "titleEn": row["title_en"],
+                "summaryZh": row["summary_zh"],
+                "summaryEn": row["summary_en"],
+                "anchorClaimId": _clean(row["anchor_claim_id"]),
+                "eventEntityId": _clean(row["event_entity_id"]),
+                "placeEntityId": _clean(row["place_entity_id"]),
+                "placeName": _clean(row["place_name"]),
+                "placeNameZh": _clean(row["place_name_zh"]),
+                "locationKind": row["location_kind"],
+                "coordinatePolicy": row["coordinate_policy"],
+                "latitude": row["latitude"] if row["coordinate_policy"] == "VERIFIED_COORDINATE" else None,
+                "longitude": row["longitude"] if row["coordinate_policy"] == "VERIFIED_COORDINATE" else None,
+                "realityStatus": _clean(row["reality_status"]),
+                "evidenceGrade": _clean(row["evidence_grade"]),
+                "evidenceStatus": row["evidence_status"],
+                "uncertaintyNote": _clean(row["uncertainty_note"]),
+            }
+        )
+
     story_claims_by_version: dict[str, list[dict[str, Any]]] = defaultdict(list)
     for row in _rows(
         connection,
@@ -528,6 +568,7 @@ def build_snapshot(database_path: Path) -> dict[str, Any]:
                 "versionOrder": row["version_order"],
                 "rightsNote": _clean(row["rights_note"]),
                 "sections": story_sections_by_version.get(row["id"], []),
+                "events": story_events_by_version.get(row["id"], []),
                 "claims": story_claims_by_version.get(row["id"], []),
                 "entities": story_entities_by_version.get(row["id"], []),
             }
@@ -589,6 +630,58 @@ def build_snapshot(database_path: Path) -> dict[str, Any]:
 
     for entity in entities:
         entity["stories"] = stories_by_entity.get(entity["id"], [])
+
+    reading_routes: list[dict[str, Any]] = []
+    for route in _rows(
+        connection,
+        """SELECT id,title_zh,title_en,route_type,description_zh,description_en,
+                  evidence_policy,featured_order
+           FROM reading_routes ORDER BY featured_order,id""",
+    ):
+        steps = _rows(
+            connection,
+            """SELECT rs.step_order,rs.story_id,rs.story_version_id,rs.focus_entity_id,
+                      rs.rationale_zh,rs.rationale_en,rs.transition_note,
+                      s.title_zh,s.canonical_title,
+                      sv.version_label_zh,sv.version_label_en,
+                      e.name_zh AS focus_name_zh,e.canonical_name AS focus_name
+               FROM reading_route_steps rs
+               JOIN stories s ON s.id=rs.story_id
+               LEFT JOIN story_versions sv ON sv.id=rs.story_version_id
+               LEFT JOIN entities e ON e.id=rs.focus_entity_id
+               WHERE rs.route_id=? ORDER BY rs.step_order""",
+            (route["id"],),
+        )
+        reading_routes.append(
+            {
+                "id": route["id"],
+                "titleZh": route["title_zh"],
+                "titleEn": route["title_en"],
+                "routeType": route["route_type"],
+                "descriptionZh": route["description_zh"],
+                "descriptionEn": route["description_en"],
+                "evidencePolicy": route["evidence_policy"],
+                "featuredOrder": route["featured_order"],
+                "steps": [
+                    {
+                        "order": step["step_order"],
+                        "storyId": step["story_id"],
+                        "storyVersionId": _clean(step["story_version_id"]),
+                        "storyTitleZh": step["title_zh"],
+                        "storyTitleEn": step["canonical_title"],
+                        "versionLabelZh": _clean(step["version_label_zh"]),
+                        "versionLabelEn": _clean(step["version_label_en"]),
+                        "focusEntityId": _clean(step["focus_entity_id"]),
+                        "focusNameZh": _clean(step["focus_name_zh"]),
+                        "focusName": _clean(step["focus_name"]),
+                        "rationaleZh": step["rationale_zh"],
+                        "rationaleEn": step["rationale_en"],
+                        "transitionNote": _clean(step["transition_note"]),
+                    }
+                    for step in steps
+                ],
+            }
+        )
 
     civilization_counts = Counter(entity["civilizationId"] for entity in entities if entity["civilizationId"])
     civilizations = []
@@ -870,7 +963,7 @@ def build_snapshot(database_path: Path) -> dict[str, Any]:
 
     snapshot = {
         "meta": {
-            "projectVersion": "0.25.0-story-reading-library",
+            "projectVersion": "0.26.0-story-maps-reading-routes",
             "datasetRelease": release,
             "generatedFrom": "database/world_mythology.sqlite",
             "completionClaim": (
@@ -896,6 +989,12 @@ def build_snapshot(database_path: Path) -> dict[str, Any]:
                     for story in stories
                     for version in story["versions"]
                 ),
+                "storyEventNodes": sum(
+                    len(version["events"])
+                    for story in stories
+                    for version in story["versions"]
+                ),
+                "readingRoutes": len(reading_routes),
             },
             "typeCounts": dict(sorted(type_counts.items())),
             "evidenceStatusCounts": dict(sorted(evidence_status_counts.items())),
@@ -908,6 +1007,7 @@ def build_snapshot(database_path: Path) -> dict[str, Any]:
         "sources": sorted(public_sources.values(), key=lambda item: (item["title"] or "", item["id"])),
         "conflicts": public_conflicts,
         "stories": stories,
+        "readingRoutes": reading_routes,
         "queue": queue,
         "comparisons": comparisons,
         "accessPolicies": access_policies,

@@ -23,9 +23,12 @@
 | `ASSOCIATED_WITH` | 卡纳克 (`site.egypt.karnak`) | VERIFIED / HISTORICAL_REALITY / RITUAL_PRACTICE | 1 | 0.98 | stored claim; `claim.v070.egypt.opet_associated_karnak` |
 | `ASSOCIATED_WITH` | 卢克索神庙 (`site.egypt.luxor_temple`) | VERIFIED / HISTORICAL_REALITY / RITUAL_PRACTICE | 1 | 0.99 | stored claim; `claim.v070.egypt.opet_associated_luxor` |
 | `ASSOCIATED_WITH` | 底比斯三神组 (`group.egyptian.theban_triad`) | VERIFIED / HISTORICAL_REALITY / RITUAL_PRACTICE | 1 | 0.98 | stored claim; `claim.v070.egypt.opet_associated_triad` |
+| `DEPICTED_ON` | 卢克索神庙 (`site.egypt.luxor_temple`) | VERIFIED / HISTORICAL_REALITY / ARCHAEOLOGICAL | 1 | 0.96 | inferred inverse; `claim.v0260.opet_colonnade_scenes` |
 
 ## Claims 与证据
 
+- `claim.v0260.opet_visits_amenemopet` [VERIFIED / SCHOLARLY_INTERPRETATION / 0.94] The official record explains the procession as bringing the cult images from Karnak to visit Amenemopet at Luxor Temple.
+  - 来源：[Luxor Temple](https://egymonuments.gov.eg/monuments/luxor-temple/)；定位：Luxor Temple official page, Opet paragraph
 - `claim.v070.egypt.opet_associated_karnak` [VERIFIED / HISTORICAL_REALITY / 0.98] The Opet procession departed from the deities' temples at Karnak in the registered official account.
   - 来源：[Luxor Temple](https://egymonuments.gov.eg/monuments/luxor-temple/)；定位：Official Luxor Temple record
 - `claim.v070.egypt.opet_associated_luxor` [VERIFIED / HISTORICAL_REALITY / 0.99] Luxor Temple was a principal destination and venue of the Opet Festival in the registered official account.

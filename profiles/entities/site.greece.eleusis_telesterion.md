@@ -21,6 +21,7 @@
 | Relation | Target | Review / layer | Evidence | Confidence | Direction |
 |---|---|---|---:|---:|---|
 | `ASSOCIATED_WITH` | 厄琉息斯秘仪 (`ritual.greek.eleusinian_mysteries`) | VERIFIED / HISTORICAL_REALITY / RITUAL_PRACTICE | 1 | 0.98 | stored claim; `claim.v080.telesterion_mysteries` |
+| `ASSOCIATED_WITH` | 大厄琉息斯节 (`festival.greek.great_eleusinia`) | VERIFIED / SCHOLARLY_INTERPRETATION / SCHOLARLY_INTERPRETATION | 1 | 0.94 | inferred inverse; `claim.v0260.eleusinia_culminates_telesterion` |
 | `PART_OF` | 厄琉息斯 (`site.greece.eleusis`) | VERIFIED / HISTORICAL_REALITY / ARCHAEOLOGICAL | 1 | 0.99 | stored claim; `claim.v080.telesterion_part_eleusis` |
 
 ## Claims 与证据

@@ -51,6 +51,14 @@ The full order of destruction, survival, and renewal remains a research gap; fil
 > Claim: `claim.norse.odin_participates_ragnarok`
 > 未知／边界：明确标记为PARTIAL。
 
+### 事件顺序与地点
+
+> 以下是本见证内的叙事顺序，不是绝对年代。没有可靠坐标时不推测坐标。
+
+- 01 · 末世之战的登记层 — 当前证据未定位地点 (`UNSPECIFIED` / `NO_COORDINATE`)
+- 02 · 奥丁与芬里尔 — 当前证据未定位地点 (`UNSPECIFIED` / `NO_COORDINATE`)
+- 03 · 不以流行文化补齐 — 当前证据未定位地点 (`UNSPECIFIED` / `NO_COORDINATE`)
+
 ### 本版本连接的 Claims
 
 - `claim.norse.fenrir_participates_ragnarok` [VERIFIED / IN_TRADITION] Fenrir participates in Ragnarök. — Snorri Sturluson, Edda

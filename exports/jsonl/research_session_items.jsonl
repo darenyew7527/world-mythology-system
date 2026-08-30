@@ -514,3 +514,9 @@
 {"action":"REGISTER","item_id":"claim.v0150.subject_mapping_guard","item_kind":"CLAIM","result":"SOURCE_LOCATED","session_id":"research.20260827.v0150_darius_text_witnesses"}
 {"action":"REGISTER","item_id":"claim.v0150.subject_right_count","item_kind":"CLAIM","result":"SOURCE_LOCATED","session_id":"research.20260827.v0150_darius_text_witnesses"}
 {"action":"REGISTER","item_id":"claim.v0150.subject_right_part","item_kind":"CLAIM","result":"SOURCE_LOCATED","session_id":"research.20260827.v0150_darius_text_witnesses"}
+{"action":"EXPAND","item_id":"queue.v070.egypt.opet_layers","item_kind":"QUEUE","result":"Public route baseline and new story added.","session_id":"session.20260830.v0260"}
+{"action":"EXPAND","item_id":"queue.v080.greek.sacred_way_monuments","item_kind":"QUEUE","result":"Public processional sequence expanded; archaeology remains partial.","session_id":"session.20260830.v0260"}
+{"action":"CREATE","item_id":"story.egyptian.opet_procession","item_kind":"STORY","result":"Source-backed public ritual narrative.","session_id":"session.20260830.v0260"}
+{"action":"CREATE","item_id":"story.greek.eleusinia_procession","item_kind":"STORY","result":"Public route narrative with secret-rite boundary.","session_id":"session.20260830.v0260"}
+{"action":"CREATE","item_id":"story_event_nodes","item_kind":"SCHEMA","result":"Ordered narrative nodes with explicit place and coordinate policies.","session_id":"session.20260830.v0260"}
+{"action":"CREATE","item_id":"reading_routes","item_kind":"SCHEMA","result":"Six editorial reading routes with witness-specific steps.","session_id":"session.20260830.v0260"}

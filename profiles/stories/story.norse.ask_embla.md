@@ -51,6 +51,14 @@ This is the poetic triad; the Odin, Vili, and Ve grouping in Gylfaginning does n
 > Claim: `claim.v0190.voluspa_embla`
 > 未知／边界：差异保持为版本并存，而非人物自动等同。
 
+### 事件顺序与地点
+
+> 以下是本见证内的叙事顺序，不是绝对年代。没有可靠坐标时不推测坐标。
+
+- 01 · 阿斯克与恩布拉 — 当前证据未定位地点 (`UNSPECIFIED` / `NO_COORDINATE`)
+- 02 · 诗歌中的三位神 — 当前证据未定位地点 (`UNSPECIFIED` / `NO_COORDINATE`)
+- 03 · 与散文版不同 — 当前证据未定位地点 (`UNSPECIFIED` / `NO_COORDINATE`)
+
 ### 本版本连接的 Claims
 
 - `claim.v0190.voluspa_ask` [VERIFIED / TEXT_SAYS] The passage names Ask. — Codex Regius electronic edition
@@ -107,6 +115,14 @@ The system does not force Vili and Ve to equal Hoenir and Lodurr by perceived fu
 > 证据说明：两个独立来源见证。
 > Claim: `claim.v0190.gylf_embla`
 > 未知／边界：身份对应留作研究问题。
+
+### 事件顺序与地点
+
+> 以下是本见证内的叙事顺序，不是绝对年代。没有可靠坐标时不推测坐标。
+
+- 01 · 散文中的最初人类 — 当前证据未定位地点 (`UNSPECIFIED` / `NO_COORDINATE`)
+- 02 · 奥丁、维利与维 — 当前证据未定位地点 (`UNSPECIFIED` / `NO_COORDINATE`)
+- 03 · 不强制对应 — 当前证据未定位地点 (`UNSPECIFIED` / `NO_COORDINATE`)
 
 ### 本版本连接的 Claims
 

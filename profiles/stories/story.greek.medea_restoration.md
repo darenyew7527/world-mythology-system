@@ -51,6 +51,14 @@ The short sequence ends with Aeetes restored to the kingdom; the current evidenc
 > Claim: `claim.v090.aeetes_participated_restoration`
 > 未知／边界：当前证据未说明的过程保持空缺。
 
+### 事件顺序与地点
+
+> 以下是本见证内的叙事顺序，不是绝对年代。没有可靠坐标时不推测坐标。
+
+- 01 · 回到科尔喀斯 — 当前证据未定位地点 (`UNSPECIFIED` / `NO_COORDINATE`)
+- 02 · 同名者的结局 — 当前证据未定位地点 (`UNSPECIFIED` / `NO_COORDINATE`)
+- 03 · 王位恢复 — 当前证据未定位地点 (`UNSPECIFIED` / `NO_COORDINATE`)
+
 ### 本版本连接的 Claims
 
 - `claim.v090.aeetes_participated_restoration` [VERIFIED / TEXT_SAYS] Aeetes is the restored king in the sequence of Library 1.9.28. — Pseudo-Apollodorus, Library

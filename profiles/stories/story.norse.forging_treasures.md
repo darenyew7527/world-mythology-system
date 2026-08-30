@@ -51,6 +51,14 @@ The event profile ends with the three treasures presented to the gods; modern ab
 > Claim: `claim.eitri.creator_draupnir`
 > 未知／边界：更完整竞赛过程仍待逐段证据化。
 
+### 事件顺序与地点
+
+> 以下是本见证内的叙事顺序，不是绝对年代。没有可靠坐标时不推测坐标。
+
+- 01 · 锻造竞赛的参与者 — 当前证据未定位地点 (`UNSPECIFIED` / `NO_COORDINATE`)
+- 02 · 三件宝物 — 当前证据未定位地点 (`UNSPECIFIED` / `NO_COORDINATE`)
+- 03 · 交付诸神 — 当前证据未定位地点 (`UNSPECIFIED` / `NO_COORDINATE`)
+
 ### 本版本连接的 Claims
 
 - `claim.brokkr.creator_draupnir` [PROVISIONAL / TEXT_SAYS] Brokkr participates in forging Draupnir by working the bellows. — Snorri Sturluson: Edda. Skáldskaparmál

@@ -51,6 +51,14 @@ The current evidence layer ends with Ninurta recovering the Tablet of Destinies.
 > Claim: `claim.v0200.ninurta_recovers`
 > 未知／边界：不同安祖文本版本将在后续分别建档。
 
+### 事件顺序与地点
+
+> 以下是本见证内的叙事顺序，不是绝对年代。没有可靠坐标时不推测坐标。
+
+- 01 · 命运泥板被夺 — 当前证据未定位地点 (`UNSPECIFIED` / `NO_COORDINATE`)
+- 02 · 宁努尔塔出战 — 当前证据未定位地点 (`UNSPECIFIED` / `NO_COORDINATE`)
+- 03 · 泥板被取回 — 当前证据未定位地点 (`UNSPECIFIED` / `NO_COORDINATE`)
+
 ### 本版本连接的 Claims
 
 - `claim.v0200.anzu_appears` [VERIFIED / TEXT_SAYS] Anzu is the antagonist in the registered Akkadian Anzu text. — Ninurta, god of victory — Anzu narrative

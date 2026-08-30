@@ -17,6 +17,7 @@
 | Relation | Target | Review / layer | Evidence | Confidence | Direction |
 |---|---|---|---:|---:|---|
 | `ASSOCIATED_WITH` | 奥佩特节 (`festival.egyptian.opet`) | VERIFIED / HISTORICAL_REALITY / RITUAL_PRACTICE | 1 | 0.98 | inferred inverse; `claim.v070.egypt.opet_associated_karnak` |
+| `ASSOCIATED_WITH` | 卡纳克—卢克索仪仗道 (`site.egypt.karnak_luxor_processional_way`) | VERIFIED / HISTORICAL_REALITY / ARCHAEOLOGICAL | 1 | 0.96 | inferred inverse; `claim.v0260.opet_way_karnak` |
 | `HAS_PART` | 卡纳克阿蒙-拉大神庙 (`site.egypt.karnak_great_temple_amun_ra`) | VERIFIED / HISTORICAL_REALITY / ARCHAEOLOGICAL | 1 | 0.99 | inferred inverse; `claim.v070.egypt.great_temple_part_karnak` |
 | `SITE_OF_WORSHIP_FOR` | 阿蒙 (`deity.egyptian.amun`) | VERIFIED / HISTORICAL_REALITY / ARCHAEOLOGICAL | 1 | 0.95 | inferred inverse; `claim.egypt.amun_worshipped_karnak` |
 

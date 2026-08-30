@@ -9,6 +9,11 @@ story.babylonian.marduk_tiamat,storyver.babylonian.enuma_elish,event.babylonian.
 story.chinese.leize_thunder,storyver.chinese.leize_shanhaijing,deity.chinese.leize_thunder_spirit,CHARACTER,10,Derived from an explicitly linked story claim subject.
 story.chinese.leize_thunder,storyver.chinese.leize_shanhaijing,concept.comparative.thunder,RELATED,20,Derived from an explicitly linked story claim object.
 story.chinese.leize_thunder,storyver.chinese.leize_shanhaijing,text.chinese.shanhaijing,TEXT,20,Derived from an explicitly linked story claim object.
+story.egyptian.opet_procession,storyver.egyptian.opet_mota,festival.egyptian.opet,EVENT,1,Festival dossier.
+story.egyptian.opet_procession,storyver.egyptian.opet_mota,group.egyptian.theban_triad,CHARACTER_GROUP,2,Cult-image group in the official record.
+story.egyptian.opet_procession,storyver.egyptian.opet_mota,site.egypt.karnak,PLACE,10,Public departure setting.
+story.egyptian.opet_procession,storyver.egyptian.opet_mota,site.egypt.karnak_luxor_processional_way,PLACE,11,Real processional connection; no inferred coordinates.
+story.egyptian.opet_procession,storyver.egyptian.opet_mota,site.egypt.luxor_temple,PLACE,12,Public destination and monument witness.
 story.egyptian.solar_night,storyver.egyptian.solar_met,event.egyptian.nocturnal_solar_journey,EVENT,10,Derived from an explicitly linked story claim subject.
 story.egyptian.solar_night,storyver.egyptian.solar_met,deity.egyptian.ra,CHARACTER,10,Derived from an explicitly linked story claim subject.
 story.egyptian.solar_night,storyver.egyptian.solar_met,text.egypt.amduat,TEXT,20,Derived from an explicitly linked story claim object.
@@ -26,6 +31,13 @@ story.greek.demeter_persephone,storyver.greek.demeter_hymn2,deity.greek.persepho
 story.greek.demeter_persephone,storyver.greek.demeter_hymn2,deity.greek.hades,CHARACTER,10,Derived from an explicitly linked story claim subject.
 story.greek.demeter_persephone,storyver.greek.demeter_hymn2,event.greek.persephone_abduction,EVENT,10,Derived from an explicitly linked story claim subject.
 story.greek.demeter_persephone,storyver.greek.demeter_hymn2,text.greek.homeric_hymn_demeter,TEXT,20,Derived from an explicitly linked story claim object.
+story.greek.eleusinia_procession,storyver.greek.eleusinia_acropolis,festival.greek.great_eleusinia,EVENT,1,Public festival/procession layer.
+story.greek.eleusinia_procession,storyver.greek.eleusinia_acropolis,ritual.greek.eleusinian_mysteries,CONTEXT,2,Boundary marker; secret contents excluded.
+story.greek.eleusinia_procession,storyver.greek.eleusinia_acropolis,site.greece.eleusinion_athens,PLACE,10,Public Athens setting.
+story.greek.eleusinia_procession,storyver.greek.eleusinia_acropolis,site.greece.sacred_way,PLACE,11,Real route entity.
+story.greek.eleusinia_procession,storyver.greek.eleusinia_acropolis,site.greece.sacred_way_aphrodite_daphne,PLACE,12,Archaeological monument beside the road.
+story.greek.eleusinia_procession,storyver.greek.eleusinia_acropolis,site.greece.eleusis,PLACE,13,Destination sanctuary/site.
+story.greek.eleusinia_procession,storyver.greek.eleusinia_acropolis,site.greece.eleusis_telesterion,PLACE,14,Publicly documented route culmination.
 story.greek.medea_restoration,storyver.greek.medea_library,deity.greek.perses_helios,CHARACTER,10,Derived from an explicitly linked story claim subject.
 story.greek.medea_restoration,storyver.greek.medea_library,hero.greek.medea,CHARACTER,10,Derived from an explicitly linked story claim subject.
 story.greek.medea_restoration,storyver.greek.medea_library,hero.greek.aeetes,CHARACTER,10,Derived from an explicitly linked story claim subject.

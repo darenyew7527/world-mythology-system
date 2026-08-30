@@ -51,6 +51,14 @@ The event record brings Demeter to Eleusis; the hymn continues with arrangements
 > Claim: `claim.v050.h2.event_appears`
 > 未知／边界：仪式内部内容明确保留为未知。
 
+### 事件顺序与地点
+
+> 以下是本见证内的叙事顺序，不是绝对年代。没有可靠坐标时不推测坐标。
+
+- 01 · 女儿被带走 — 当前证据未定位地点 (`UNSPECIFIED` / `NO_COORDINATE`)
+- 02 · 得墨忒耳寻找 — 当前证据未定位地点 (`UNSPECIFIED` / `NO_COORDINATE`)
+- 03 · 厄琉息斯与回返框架 — 当前证据未定位地点 (`UNSPECIFIED` / `NO_COORDINATE`)
+
 ### 本版本连接的 Claims
 
 - `claim.v040.hecate.appears_hymn2` [VERIFIED / TEXT_SAYS] Hecate hears Persephone and later meets Demeter carrying a torch in Homeric Hymn 2. — Homeric Hymn 2 to Demeter, Evelyn-White English text

@@ -2,7 +2,7 @@
 
 数据库：`world_mythology.sqlite`。本页由 `scripts/generate_schema_catalog.py` 从实际数据库反射生成。
 
-- 持久表：53
+- 持久表：56
 - 只读视图：32
 
 ## 对象索引
@@ -13,25 +13,25 @@
 | `artifact_profiles` | table | 38 |
 | `civilization_languages` | table | 23 |
 | `civilizations` | table | 99 |
-| `claims` | table | 605 |
-| `collection_queue` | table | 109 |
+| `claims` | table | 612 |
+| `collection_queue` | table | 112 |
 | `comparison_set_members` | table | 16 |
 | `comparison_sets` | table | 2 |
 | `conflicts` | table | 32 |
-| `coverage_metrics` | table | 752 |
-| `coverage_reports` | table | 25 |
+| `coverage_metrics` | table | 789 |
+| `coverage_reports` | table | 26 |
 | `creature_profiles` | table | 17 |
 | `cultures` | table | 18 |
-| `dataset_releases` | table | 25 |
+| `dataset_releases` | table | 26 |
 | `deity_profiles` | table | 177 |
-| `entities` | table | 635 |
+| `entities` | table | 637 |
 | `entity_attributes` | table | 0 |
 | `entity_civilizations` | table | 580 |
 | `entity_classifications` | table | 663 |
 | `entity_redirects` | table | 5 |
 | `entity_types` | table | 55 |
 | `event_participants` | table | 21 |
-| `evidence` | table | 601 |
+| `evidence` | table | 608 |
 | `explorer_feature_registry` | table | 11 |
 | `identity_candidates` | table | 21 |
 | `import_errors` | table | 0 |
@@ -40,31 +40,34 @@
 | `modern_adaptations` | table | 3 |
 | `museum_object_profiles` | table | 24 |
 | `myth_event_profiles` | table | 16 |
-| `names` | table | 1364 |
-| `place_profiles` | table | 91 |
-| `project_metadata` | table | 6 |
+| `names` | table | 1368 |
+| `place_profiles` | table | 93 |
+| `project_metadata` | table | 9 |
 | `quality_findings` | table | 0 |
 | `quality_runs` | table | 1 |
-| `queue_discoveries` | table | 99 |
-| `queue_status_history` | table | 76 |
+| `queue_discoveries` | table | 102 |
+| `queue_status_history` | table | 78 |
+| `reading_route_steps` | table | 23 |
+| `reading_routes` | table | 6 |
 | `regions` | table | 22 |
 | `relationship_types` | table | 80 |
-| `research_session_items` | table | 516 |
-| `research_sessions` | table | 24 |
-| `schema_migrations` | table | 34 |
+| `research_session_items` | table | 522 |
+| `research_sessions` | table | 25 |
+| `schema_migrations` | table | 35 |
 | `sources` | table | 203 |
-| `stories` | table | 21 |
-| `story_claim_links` | table | 106 |
+| `stories` | table | 23 |
+| `story_claim_links` | table | 117 |
 | `story_conflict_links` | table | 1 |
-| `story_entity_links` | table | 103 |
-| `story_sections` | table | 69 |
-| `story_versions` | table | 23 |
+| `story_entity_links` | table | 115 |
+| `story_event_nodes` | table | 77 |
+| `story_sections` | table | 77 |
+| `story_versions` | table | 25 |
 | `text_profiles` | table | 150 |
 | `tradition_access_policies` | table | 8 |
 | `tradition_links` | table | 6 |
 | `archaeological_sites` | view | 79 |
 | `artifacts` | view | 38 |
-| `claim_evidence_summary` | view | 605 |
+| `claim_evidence_summary` | view | 612 |
 | `concepts` | view | 57 |
 | `cosmologies` | view | 1 |
 | `creatures` | view | 17 |
@@ -85,8 +88,8 @@
 | `powers` | view | 7 |
 | `pyramids` | view | 2 |
 | `realms` | view | 4 |
-| `relationship_edges_bidirectional` | view | 958 |
-| `relationships` | view | 479 |
+| `relationship_edges_bidirectional` | view | 968 |
+| `relationships` | view | 484 |
 | `rituals` | view | 6 |
 | `sacred_objects` | view | 1 |
 | `tablets` | view | 4 |
@@ -1461,6 +1464,77 @@ CREATE TABLE queue_status_history (
 )
 ```
 
+## `reading_route_steps` (table)
+
+| 序号 | 字段 | SQLite 类型 | NOT NULL | 默认值 | PK 序位 |
+|---:|---|---|---:|---|---:|
+| 0 | `route_id` | TEXT | 1 |  | 1 |
+| 1 | `step_order` | INTEGER | 1 |  | 2 |
+| 2 | `story_id` | TEXT | 1 |  | 0 |
+| 3 | `story_version_id` | TEXT | 0 |  | 0 |
+| 4 | `focus_entity_id` | TEXT | 0 |  | 0 |
+| 5 | `rationale_zh` | TEXT | 1 |  | 0 |
+| 6 | `rationale_en` | TEXT | 1 |  | 0 |
+| 7 | `transition_note` | TEXT | 0 |  | 0 |
+
+外键：
+
+| 字段 | 目标 | ON UPDATE | ON DELETE |
+|---|---|---|---|
+| `focus_entity_id` | `entities.id` | NO ACTION | NO ACTION |
+| `story_version_id` | `story_versions.id` | NO ACTION | CASCADE |
+| `story_id` | `stories.id` | NO ACTION | CASCADE |
+| `route_id` | `reading_routes.id` | NO ACTION | CASCADE |
+
+定义：
+
+```sql
+CREATE TABLE reading_route_steps (
+    route_id TEXT NOT NULL REFERENCES reading_routes(id) ON DELETE CASCADE,
+    step_order INTEGER NOT NULL CHECK(step_order >= 1),
+    story_id TEXT NOT NULL REFERENCES stories(id) ON DELETE CASCADE,
+    story_version_id TEXT REFERENCES story_versions(id) ON DELETE CASCADE,
+    focus_entity_id TEXT REFERENCES entities(id),
+    rationale_zh TEXT NOT NULL,
+    rationale_en TEXT NOT NULL,
+    transition_note TEXT,
+    PRIMARY KEY(route_id,step_order),
+    UNIQUE(route_id,story_id,story_version_id)
+)
+```
+
+## `reading_routes` (table)
+
+| 序号 | 字段 | SQLite 类型 | NOT NULL | 默认值 | PK 序位 |
+|---:|---|---|---:|---|---:|
+| 0 | `id` | TEXT | 0 |  | 1 |
+| 1 | `title_zh` | TEXT | 1 |  | 0 |
+| 2 | `title_en` | TEXT | 1 |  | 0 |
+| 3 | `route_type` | TEXT | 1 |  | 0 |
+| 4 | `description_zh` | TEXT | 1 |  | 0 |
+| 5 | `description_en` | TEXT | 1 |  | 0 |
+| 6 | `evidence_policy` | TEXT | 1 |  | 0 |
+| 7 | `featured_order` | INTEGER | 1 | 0 | 0 |
+| 8 | `created_at` | TEXT | 1 |  | 0 |
+| 9 | `updated_at` | TEXT | 1 |  | 0 |
+
+定义：
+
+```sql
+CREATE TABLE reading_routes (
+    id TEXT PRIMARY KEY,
+    title_zh TEXT NOT NULL,
+    title_en TEXT NOT NULL,
+    route_type TEXT NOT NULL CHECK(route_type IN ('THEME','PLACE','WITNESS','ARTIFACT','CONFLICT')),
+    description_zh TEXT NOT NULL,
+    description_en TEXT NOT NULL,
+    evidence_policy TEXT NOT NULL,
+    featured_order INTEGER NOT NULL DEFAULT 0,
+    created_at TEXT NOT NULL,
+    updated_at TEXT NOT NULL
+)
+```
+
 ## `regions` (table)
 
 | 序号 | 字段 | SQLite 类型 | NOT NULL | 默认值 | PK 序位 |
@@ -1803,6 +1877,58 @@ CREATE TABLE story_entity_links (
     sort_order INTEGER NOT NULL DEFAULT 0,
     notes TEXT,
     PRIMARY KEY(story_version_id, entity_id, role)
+)
+```
+
+## `story_event_nodes` (table)
+
+| 序号 | 字段 | SQLite 类型 | NOT NULL | 默认值 | PK 序位 |
+|---:|---|---|---:|---|---:|
+| 0 | `id` | TEXT | 0 |  | 1 |
+| 1 | `story_version_id` | TEXT | 1 |  | 0 |
+| 2 | `event_order` | INTEGER | 1 |  | 0 |
+| 3 | `title_zh` | TEXT | 1 |  | 0 |
+| 4 | `title_en` | TEXT | 1 |  | 0 |
+| 5 | `summary_zh` | TEXT | 1 |  | 0 |
+| 6 | `summary_en` | TEXT | 1 |  | 0 |
+| 7 | `anchor_claim_id` | TEXT | 0 |  | 0 |
+| 8 | `event_entity_id` | TEXT | 0 |  | 0 |
+| 9 | `place_entity_id` | TEXT | 0 |  | 0 |
+| 10 | `location_kind` | TEXT | 1 | 'UNSPECIFIED' | 0 |
+| 11 | `coordinate_policy` | TEXT | 1 | 'NO_COORDINATE' | 0 |
+| 12 | `evidence_status` | TEXT | 1 | 'SOURCE_BACKED' | 0 |
+| 13 | `uncertainty_note` | TEXT | 0 |  | 0 |
+| 14 | `created_at` | TEXT | 1 |  | 0 |
+
+外键：
+
+| 字段 | 目标 | ON UPDATE | ON DELETE |
+|---|---|---|---|
+| `place_entity_id` | `entities.id` | NO ACTION | NO ACTION |
+| `event_entity_id` | `entities.id` | NO ACTION | NO ACTION |
+| `anchor_claim_id` | `claims.id` | NO ACTION | NO ACTION |
+| `story_version_id` | `story_versions.id` | NO ACTION | CASCADE |
+
+定义：
+
+```sql
+CREATE TABLE story_event_nodes (
+    id TEXT PRIMARY KEY,
+    story_version_id TEXT NOT NULL REFERENCES story_versions(id) ON DELETE CASCADE,
+    event_order INTEGER NOT NULL CHECK(event_order >= 1),
+    title_zh TEXT NOT NULL,
+    title_en TEXT NOT NULL,
+    summary_zh TEXT NOT NULL,
+    summary_en TEXT NOT NULL,
+    anchor_claim_id TEXT REFERENCES claims(id),
+    event_entity_id TEXT REFERENCES entities(id),
+    place_entity_id TEXT REFERENCES entities(id),
+    location_kind TEXT NOT NULL DEFAULT 'UNSPECIFIED' CHECK(location_kind IN ('REAL_SITE','MYTHIC_PLACE','TEXTUAL_PLACE','UNSPECIFIED')),
+    coordinate_policy TEXT NOT NULL DEFAULT 'NO_COORDINATE' CHECK(coordinate_policy IN ('VERIFIED_COORDINATE','ENTITY_PROFILE_ONLY','NO_COORDINATE','NOT_APPLICABLE')),
+    evidence_status TEXT NOT NULL DEFAULT 'SOURCE_BACKED' CHECK(evidence_status IN ('UNVERIFIED','PARTIAL','SOURCE_BACKED','CONFLICTING')),
+    uncertainty_note TEXT,
+    created_at TEXT NOT NULL,
+    UNIQUE(story_version_id,event_order)
 )
 ```
 

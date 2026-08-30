@@ -51,6 +51,14 @@ Baal returns within the narrative sequence, but the system explicitly does not i
 > Claim: `claim.v0200.event_no_permanent_death`
 > 未知／边界：避免把残缺神话普遍化。
 
+### 事件顺序与地点
+
+> 以下是本见证内的叙事顺序，不是绝对年代。没有可靠坐标时不推测坐标。
+
+- 01 · 巴力与穆特 — 当前证据未定位地点 (`UNSPECIFIED` / `NO_COORDINATE`)
+- 02 · 阿纳特参与 — 当前证据未定位地点 (`UNSPECIFIED` / `NO_COORDINATE`)
+- 03 · 返回不等于死亡消失 — 当前证据未定位地点 (`UNSPECIFIED` / `NO_COORDINATE`)
+
 ### 本版本连接的 Claims
 
 - `claim.v0200.event_no_permanent_death` [VERIFIED / SCHOLARLY_INTERPRETATION] The event is kept as a narrative sequence rather than a universal historical or theological fact. — Baˁlu Epic KTU 1.1–1.6 — corpus and tablet concordance

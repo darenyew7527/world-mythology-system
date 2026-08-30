@@ -51,6 +51,14 @@ Similar names such as Naruikazuchi or Wakaikazuchi may occur in later shrine or 
 > Claim: `claim.v060.japanese.naruikazuchi_member`
 > 未知／边界：身份关系保留为争议或未知。
 
+### 事件顺序与地点
+
+> 以下是本见证内的叙事顺序，不是绝对年代。没有可靠坐标时不推测坐标。
+
+- 01 · 黄泉段落 — 当前证据未定位地点 (`UNSPECIFIED` / `NO_COORDINATE`)
+- 02 · 八个独立名称 — 当前证据未定位地点 (`UNSPECIFIED` / `NO_COORDINATE`)
+- 03 · 不自动等同地方神 — 当前证据未定位地点 (`UNSPECIFIED` / `NO_COORDINATE`)
+
 ### 本版本连接的 Claims
 
 - `claim.v060.japanese.eight_thunder_appears_kojiki` [VERIFIED / TEXT_SAYS] The Kojiki Yomi episode presents eight separately named thunder kami on Izanami. — Kojiki divine-name index

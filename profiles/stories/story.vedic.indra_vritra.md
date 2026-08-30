@@ -51,6 +51,14 @@ The event profile records the opponent struck down and the waters flowing out as
 > Claim: `claim.v060.vedic.event_appears_rigveda`
 > 未知／边界：知识层保持为神话叙事／文本见证。
 
+### 事件顺序与地点
+
+> 以下是本见证内的叙事顺序，不是绝对年代。没有可靠坐标时不推测坐标。
+
+- 01 · 颂歌中的对手 — 当前证据未定位地点 (`UNSPECIFIED` / `NO_COORDINATE`)
+- 02 · 金刚杵 — 当前证据未定位地点 (`UNSPECIFIED` / `NO_COORDINATE`)
+- 03 · 水流释放 — 当前证据未定位地点 (`UNSPECIFIED` / `NO_COORDINATE`)
+
 ### 本版本连接的 Claims
 
 - `claim.v060.vedic.event_appears_rigveda` [VERIFIED / TEXT_SAYS] The event record indexes the narrative of Rigveda Mandala 1, Sukta 32. — Rigveda Shakala Samhita, Mandala 1, Sukta 32

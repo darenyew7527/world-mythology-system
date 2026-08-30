@@ -51,6 +51,14 @@ The later composition concerns Inanas return and a substitute, but v0.25 does no
 > Claim: `claim.sumerian.inanna_participates_descent`
 > 未知／边界：明确显示为资料缺口。
 
+### 事件顺序与地点
+
+> 以下是本见证内的叙事顺序，不是绝对年代。没有可靠坐标时不推测坐标。
+
+- 01 · 把心意转向地下 — 当前证据未定位地点 (`UNSPECIFIED` / `NO_COORDINATE`)
+- 02 · 冥界事件 — 当前证据未定位地点 (`UNSPECIFIED` / `NO_COORDINATE`)
+- 03 · 替代者段落仍待扩张 — 当前证据未定位地点 (`UNSPECIFIED` / `NO_COORDINATE`)
+
 ### 本版本连接的 Claims
 
 - `claim.sumerian.inanna_participates_descent` [VERIFIED / IN_TRADITION] Inanna participates in the descent-to-the-netherworld event. — Inana's Descent to the Netherworld

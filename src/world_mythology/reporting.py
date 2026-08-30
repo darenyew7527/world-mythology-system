@@ -167,6 +167,21 @@ def _generate_story_profiles(conn, profile_root: Path) -> int:
                 if section["uncertainty_note"]:
                     lines.append(f"> 未知／边界：{section['uncertainty_note']}")
                 lines.append("")
+            events = conn.execute(
+                """SELECT n.*,e.name_zh AS place_zh,e.canonical_name AS place_en
+                   FROM story_event_nodes n
+                   LEFT JOIN entities e ON e.id=n.place_entity_id
+                   WHERE n.story_version_id=? ORDER BY n.event_order,n.id""",
+                (version["id"],),
+            ).fetchall()
+            lines.extend(["### 事件顺序与地点", "", "> 以下是本见证内的叙事顺序，不是绝对年代。没有可靠坐标时不推测坐标。", ""])
+            for event in events:
+                place = event["place_zh"] or event["place_en"] or "当前证据未定位地点"
+                lines.append(
+                    f"- {event['event_order']:02d} · {event['title_zh']} — {place} "
+                    f"(`{event['location_kind']}` / `{event['coordinate_policy']}`)"
+                )
+            lines.append("")
             claims = conn.execute(
                 """SELECT c.id,c.statement,c.review_status,c.assertion_scope,
                           GROUP_CONCAT(DISTINCT src.title) AS source_titles
@@ -217,12 +232,34 @@ def _generate_story_profiles(conn, profile_root: Path) -> int:
         ["中文", "English", "文明／传统", "Type", "Versions", "Evidence", "Minutes"],
         index_rows,
     )
+    route_lines = [
+        "# 主题阅读路线", "",
+        "> 路线是编辑导航，不证明跨文明同源；每一步仍以指定故事版本为证据边界。", "",
+    ]
+    for route in conn.execute("SELECT * FROM reading_routes ORDER BY featured_order,id"):
+        route_lines.extend([
+            f"## {route['title_zh']} / {route['title_en']}", "",
+            route['description_zh'], "", f"- 证据规则：{route['evidence_policy']}", "",
+        ])
+        for step in conn.execute(
+            """SELECT rs.*,s.title_zh,s.canonical_title,sv.version_label_zh
+               FROM reading_route_steps rs JOIN stories s ON s.id=rs.story_id
+               LEFT JOIN story_versions sv ON sv.id=rs.story_version_id
+               WHERE rs.route_id=? ORDER BY rs.step_order""",
+            (route["id"],),
+        ):
+            route_lines.append(
+                f"{step['step_order']}. [{step['title_zh']}]({step['story_id']}.md)"
+                f" — {step['version_label_zh'] or '故事总档'}：{step['rationale_zh']}"
+            )
+        route_lines.append("")
+    (story_dir / "reading_routes.md").write_text("\n".join(route_lines), encoding="utf-8")
     return count
 
 
 def _coverage(conn) -> tuple[dict[str, float], str]:
     metrics: dict[str, float] = {}
-    for table in ["civilizations", "entities", "sources", "claims", "evidence", "relationships", "conflicts", "collection_queue", "stories", "story_versions", "story_sections"]:
+    for table in ["civilizations", "entities", "sources", "claims", "evidence", "relationships", "conflicts", "collection_queue", "stories", "story_versions", "story_sections", "story_event_nodes", "reading_routes", "reading_route_steps"]:
         metrics[table] = float(conn.execute(f'SELECT COUNT(*) FROM "{table}"').fetchone()[0])
     metrics["priority_civilizations"] = float(conn.execute("SELECT COUNT(*) FROM civilizations WHERE research_status='COLLECTING'").fetchone()[0])
     metrics["redirected_duplicate_entities"] = float(conn.execute("SELECT COUNT(*) FROM entity_redirects").fetchone()[0])

@@ -3,4 +3,7 @@
 {"key":"data_version","updated_at":"2026-08-29T10:00:00Z","value":"0.25.0-story-reading-library-20260829"}
 {"key":"generated_at","updated_at":"2026-08-29T10:00:00Z","value":"2026-08-29T10:00:00Z"}
 {"key":"project_name","updated_at":"2026-08-10T00:00:00Z","value":"世界神话系统 / World Mythology System"}
+{"key":"project_status","updated_at":"2026-08-30T03:30:00Z","value":"Sustainable expansion baseline; never ALL COMPLETE"}
+{"key":"project_version","updated_at":"2026-08-30T03:30:00Z","value":"0.26.0-story-maps-reading-routes"}
 {"key":"schema_version","updated_at":"2026-08-29T10:00:00Z","value":"34"}
+{"key":"story_route_policy","updated_at":"2026-08-30T03:30:00Z","value":"Reading routes are editorial navigation, not common-origin claims; event order is not absolute chronology"}

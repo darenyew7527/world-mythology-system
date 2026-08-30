@@ -51,6 +51,14 @@ In this witness, the Titans are defeated and confined in Tartarus; the result do
 > Claim: `claim.v050.theogony.titanomachy_appears`
 > 未知／边界：其他见证将在独立版本中比较。
 
+### 事件顺序与地点
+
+> 以下是本见证内的叙事顺序，不是绝对年代。没有可靠坐标时不推测坐标。
+
+- 01 · 两方神族 — 当前证据未定位地点 (`UNSPECIFIED` / `NO_COORDINATE`)
+- 02 · 雷霆与战斗 — 当前证据未定位地点 (`UNSPECIFIED` / `NO_COORDINATE`)
+- 03 · 战败与囚禁 — 当前证据未定位地点 (`UNSPECIFIED` / `NO_COORDINATE`)
+
 ### 本版本连接的 Claims
 
 - `claim.v050.theogony.cronus_participated_titanomachy` [VERIFIED / TEXT_SAYS] Theogony’s war passage places the Titans associated with Cronus against Zeus and his allies. — Hesiod, Theogony, Evelyn-White English text

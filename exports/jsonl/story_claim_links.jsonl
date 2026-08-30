@@ -7,6 +7,12 @@
 {"claim_id":"claim.babylonian.tiamat_participates_combat","link_role":"NARRATIVE_BASIS","story_version_id":"storyver.babylonian.enuma_elish"}
 {"claim_id":"claim.v060.chinese.leize_thunder_scope","link_role":"NARRATIVE_BASIS","story_version_id":"storyver.chinese.leize_shanhaijing"}
 {"claim_id":"claim.v060.chinese.leize_appears_shanhaijing","link_role":"NARRATIVE_BASIS","story_version_id":"storyver.chinese.leize_shanhaijing"}
+{"claim_id":"claim.v070.egypt.opet_associated_karnak","link_role":"NARRATIVE_BASIS","story_version_id":"storyver.egyptian.opet_mota"}
+{"claim_id":"claim.v070.egypt.opet_associated_luxor","link_role":"NARRATIVE_BASIS","story_version_id":"storyver.egyptian.opet_mota"}
+{"claim_id":"claim.v070.egypt.opet_associated_triad","link_role":"NARRATIVE_BASIS","story_version_id":"storyver.egyptian.opet_mota"}
+{"claim_id":"claim.v0260.opet_way_sphinxes","link_role":"NARRATIVE_BASIS","story_version_id":"storyver.egyptian.opet_mota"}
+{"claim_id":"claim.v0260.opet_visits_amenemopet","link_role":"NARRATIVE_BASIS","story_version_id":"storyver.egyptian.opet_mota"}
+{"claim_id":"claim.v0260.opet_colonnade_scenes","link_role":"CONTEXT","story_version_id":"storyver.egyptian.opet_mota"}
 {"claim_id":"claim.v070.egypt.solar_journey_amduat","link_role":"NARRATIVE_BASIS","story_version_id":"storyver.egyptian.solar_met"}
 {"claim_id":"claim.v070.egypt.ra_participates_solar_journey","link_role":"NARRATIVE_BASIS","story_version_id":"storyver.egyptian.solar_met"}
 {"claim_id":"claim.v070.egypt.solar_journey_barque","link_role":"NARRATIVE_BASIS","story_version_id":"storyver.egyptian.solar_met"}
@@ -23,6 +29,11 @@
 {"claim_id":"claim.v050.h2.demeter_participated","link_role":"NARRATIVE_BASIS","story_version_id":"storyver.greek.demeter_hymn2"}
 {"claim_id":"claim.v050.h2.hades_participated","link_role":"NARRATIVE_BASIS","story_version_id":"storyver.greek.demeter_hymn2"}
 {"claim_id":"claim.v050.h2.event_appears","link_role":"NARRATIVE_BASIS","story_version_id":"storyver.greek.demeter_hymn2"}
+{"claim_id":"claim.v0260.eleusinion_procession_start","link_role":"NARRATIVE_BASIS","story_version_id":"storyver.greek.eleusinia_acropolis"}
+{"claim_id":"claim.v080.eleusinia_sacredway","link_role":"NARRATIVE_BASIS","story_version_id":"storyver.greek.eleusinia_acropolis"}
+{"claim_id":"claim.v080.sacredway_eleusis","link_role":"NARRATIVE_BASIS","story_version_id":"storyver.greek.eleusinia_acropolis"}
+{"claim_id":"claim.v0260.eleusinia_culminates_telesterion","link_role":"NARRATIVE_BASIS","story_version_id":"storyver.greek.eleusinia_acropolis"}
+{"claim_id":"claim.v080.eleusinia_mysteries","link_role":"EVIDENCE_LIMIT","story_version_id":"storyver.greek.eleusinia_acropolis"}
 {"claim_id":"claim.v090.perses_deposed_aeetes","link_role":"NARRATIVE_BASIS","story_version_id":"storyver.greek.medea_library"}
 {"claim_id":"claim.v090.medea_killed_perses","link_role":"NARRATIVE_BASIS","story_version_id":"storyver.greek.medea_library"}
 {"claim_id":"claim.v090.medea_participated_restoration","link_role":"NARRATIVE_BASIS","story_version_id":"storyver.greek.medea_library"}

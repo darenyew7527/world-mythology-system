@@ -3,6 +3,8 @@
 | 中文 | English | 文明／传统 | Type | Versions | Evidence | Minutes |
 |---|---|---|---|---|---|---|
 | [得墨忒耳寻找珀耳塞福涅](story.greek.demeter_persephone.md) | Demeter and Persephone | 古希腊 | UNDERWORLD_JOURNEY | 1 | SOURCE_BACKED | 6 |
+| [奥佩特节的公开仪仗路线](story.egyptian.opet_procession.md) | Public route of the Opet procession | 古埃及 | TRADITION_OVERVIEW | 1 | SOURCE_BACKED | 4 |
+| [厄琉息斯大祭的公开进程](story.greek.eleusinia_procession.md) | Public route of the Eleusinian procession | 古希腊 | TRADITION_OVERVIEW | 1 | SOURCE_BACKED | 5 |
 | [赫西俄德笔下的泰坦战争](story.greek.titanomachy.md) | Titanomachy in Hesiod | 古希腊 | DIVINE_COMBAT | 1 | SOURCE_BACKED | 5 |
 | [宙斯与提丰之战](story.greek.zeus_typhon.md) | Zeus and Typhon in Hesiod | 古希腊 | DIVINE_COMBAT | 1 | SOURCE_BACKED | 4 |
 | [美狄亚恢复埃厄忒斯王位](story.greek.medea_restoration.md) | Medea restores Aeetes | 古希腊 | MYTHIC_NARRATIVE | 1 | SOURCE_BACKED | 3 |

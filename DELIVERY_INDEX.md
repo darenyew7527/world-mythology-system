@@ -9,25 +9,29 @@
 | 文明／传统 | 99 |
 | 文化语境 | 18 |
 | 语言 | 25 |
-| 统一实体 | 635 |
+| 统一实体 | 637 |
 | 实体重定向／去重审计 | 5 |
 | 多类型分类 | 663 |
-| 名称与译名 | 1364 |
+| 名称与译名 | 1368 |
 | 来源 | 203 |
-| Claims | 605 |
-| Evidence | 601 |
-| 关系边（直接） | 479 |
+| Claims | 612 |
+| Evidence | 608 |
+| 关系边（直接） | 484 |
 | 显式冲突 | 32 |
-| 永久研究队列 | 109 |
-| 可阅读故事 | 21 |
-| 故事文本版本 | 23 |
-| 故事阅读分段 | 69 |
+| 永久研究队列 | 112 |
+| 可阅读故事 | 23 |
+| 故事文本版本 | 25 |
+| 故事阅读分段 | 77 |
+| 故事事件节点 | 77 |
+| 主题阅读路线 | 6 |
+| 阅读路线步骤 | 23 |
 
 来源登记状态：`URL_SYNTAX_VALID` 203。
 
 ## 直接打开这些文件
 
 - `database/world_mythology.sqlite`：事实核心数据库。
+- `RELEASE_NOTES_v0.26.0.md`：v0.26 故事地图、事件节点、主题阅读路线与公开进程故事。
 - `RELEASE_NOTES_v0.25.0.md`：v0.25 神话故事阅读库、版本分离、证据链接与阅读边界。
 - `docs/ROADMAP_v0.26-v0.29.md`：后续故事地图、见证对读、全球扩张与阅读工具路线。
 - `RELEASE_NOTES_v0.14.0.md`：v0.14 苏萨大流士雕像发掘、转运、遗址与馆藏来源链。
@@ -48,6 +52,7 @@
 - `exports/graph/`：JSON、CSV、GraphML 知识图谱。
 - `profiles/entities/`：每个实体的 Markdown 阅读档案。
 - `profiles/stories/index.md`：可下载的完整故事阅读档案索引。
+- `profiles/stories/reading_routes.md`：六条见证安全的主题阅读路线。
 - `visualization/index.html`：静态关系网络基础。
 - `web/`：中文优先、可切换英文的 React/Vite 公开探索器。
 - `web/public/data/site-data.json`：不含证据短引文的浏览器安全数据快照。

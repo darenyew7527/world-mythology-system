@@ -1112,6 +1112,10 @@ name.v0220.rubinobj,museum.rubin.vajra_sc2022_3_2_1,Vajra SC2022.3.2.1,vajra sc2
 name.v0220.rv,text.vedic.rigveda.1_32,ऋग्वेद १.३२,ऋग्वेद १ ३२,lang.san,Devanagari,ORIGINAL_TITLE,,1,source.vedic.rigveda.1_32.vhp,
 name.v0230.maori_scope,concept.maori.iwi_variant_scope,Māori iwi/hapū variant and attribution scope,maori iwi hapu variant attribution scope,lang.mai,Latin,DESCRIPTIVE,,1,source.maori.creation.teara,Modern project-governance label.
 name.v0230.yoruba_access,concept.yoruba.living_tradition_access,Yoruba living-tradition access governance,yoruba living tradition access governance,lang.en,Latin,DESCRIPTIVE,,1,source.yoruba.ifa.unesco,Modern project-governance label.
+name.v0260.eleusinion.en,site.greece.eleusinion_athens,Eleusinion at Athens,eleusinion at athens,lang.en,Latin,PREFERRED,,1,source.greek.eleusis_acropolis_exhibition2018,Museum catalogue wording.
+name.v0260.eleusinion.zh,site.greece.eleusinion_athens,雅典厄琉西尼翁圣所,雅典厄琉西尼翁圣所,lang.zh,Han,TRANSLATION,,1,source.greek.eleusis_acropolis_exhibition2018,Editorial Chinese translation.
+name.v0260.processional_way.en,site.egypt.karnak_luxor_processional_way,Processional way between Karnak and Luxor,processional way between karnak and luxor,lang.en,Latin,PREFERRED,,1,source.egypt.luxor.mota,Official-site descriptive name; not an ancient proper name.
+name.v0260.processional_way.zh,site.egypt.karnak_luxor_processional_way,卡纳克—卢克索仪仗道,卡纳克卢克索仪仗道,lang.zh,Han,TRANSLATION,,1,source.egypt.luxor.mota,Editorial Chinese translation.
 name.v050.ares.grc,deity.greek.ares,Ἄρης,ἄρης,lang.grc,Greek,ORIGINAL,,1,source.greek.homeric_hymn_ares8.scaife,Ancient Greek name
 name.v050.artemis.grc,deity.greek.artemis,Ἄρτεμις,ἄρτεμις,lang.grc,Greek,ORIGINAL,,1,source.greek.homeric_hymn_artemis27.scaife,Ancient Greek name
 name.v050.athena.grc,deity.greek.athena,Ἀθηνᾶ,ἀθηνᾶ,lang.grc,Greek,ORIGINAL,,1,source.greek.homeric_hymn_athena28.scaife,Ancient Greek name

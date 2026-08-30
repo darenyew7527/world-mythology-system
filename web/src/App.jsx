@@ -277,6 +277,7 @@ export default function App() {
           language={language}
           onOpenEntity={openEntity}
           onSelectStory={selectStory}
+          readingRoutes={data.readingRoutes || []}
           selectedStoryId={selectedStoryId}
           stories={data.stories || []}
         />
