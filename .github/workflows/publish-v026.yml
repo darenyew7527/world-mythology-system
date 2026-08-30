@@ -98,6 +98,10 @@ jobs:
           PY
           npm --prefix web ci
           npm --prefix web run build
+          cp -a web/dist /tmp/world_mythology_v026_dist
+          rsync -a --delete --exclude='.git/' /tmp/world-mythology-v026-source/ ./
+          mkdir -p web/dist
+          cp -a /tmp/world_mythology_v026_dist/. web/dist/
           git add -A
           test "$(git write-tree)" = "f831e79941d0da3adb81f356f53294561c4eb06f"
 
