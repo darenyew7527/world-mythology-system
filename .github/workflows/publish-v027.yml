@@ -101,6 +101,7 @@ jobs:
           assert con.execute('PRAGMA integrity_check').fetchone()[0] == 'ok'
           assert con.execute('PRAGMA foreign_key_check').fetchall() == []
           PY
+          cp /tmp/world_mythology_v027_sealed.sqlite database/world_mythology.sqlite
           npm --prefix web ci
           npm --prefix web run build
           git add -A
