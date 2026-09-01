@@ -1,0 +1,161 @@
+name: Publish v0.27.0 sealed checkpoint
+
+on:
+  push:
+    branches: [main]
+    paths: [".github/workflows/publish-v027.yml"]
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: publish-v027
+  cancel-in-progress: false
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v6
+        with:
+          fetch-depth: 0
+
+      - name: Reassemble and verify sealed v0.27.0 source tree
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          set -euo pipefail
+          archive=/tmp/world-mythology-v027-source.tar.gz
+          : > "$archive"
+          while IFS= read -r sha; do
+            curl -fsSL \
+              -H "Authorization: Bearer $GH_TOKEN" \
+              -H "Accept: application/vnd.github+json" \
+              "$GITHUB_API_URL/repos/$GITHUB_REPOSITORY/git/blobs/$sha" \
+              | jq -r '.content' | tr -d '\n' | base64 --decode >> "$archive"
+          done <<'BLOB_SHAS'
+          93903ab243807682e55f3d3311d86565b17b3166
+          92d5d8d7a9e8e7db6470ca2450221e936e0ea65a
+          ebbc5bef13b54ef406512c1771236cdd91ea5351
+          ad8f259921881cd8183f154a73b1b57317593ba2
+          931b5d355b8f85da71b76c16b0f1a59e4a2c3820
+          8bc90d391f4d4f7a3b8855d25a8e9c20874a4f4a
+          7038d6b2c9e957008030bbffbebb7de49d965cf8
+          df1199164eed15fb41705533fbf1338111648855
+          53de3b1e85914ae61db479ce6a858a7fc2b25341
+          2f6b0d66eab895d1c73fe1b169d37848cd075865
+          d6294ff81bd5d10fb9de96676b689f5c8a7763f7
+          db0f421d43ad22fe3b58665393b316b3d4f1b8e2
+          786b2e31fc4c1da0ff02ad93adde758270a3c0b0
+          062ef908812493c0dca5adb6134df48d4c5a3146
+          ad12eaeb941e689050c1ee393d3584d7454a3a70
+          adabd9decaa89dc81c814b76a752e9d84d8a9f40
+          be11e5eb6b5621d01a4be7dc32690bcf832000c1
+          f7f03078724bce13df972ae2d2b910e4a3964591
+          49f98a1fa8cdc90bbc17b961622f9999b7cc76e5
+          133f1858bd9a6a5723059c45351a3259d5568f79
+          134cb02dd8753eefa7118d6386fb13ebf7d6e29a
+          0da46a6c8fb9f26cb14bbb03822531a293872dd9
+          d5fbf446d7779e13ed5f11d9e606271c861d6737
+          9d9b222d04fa9902179a36a0be9c15ab32e75b32
+          8202173ea7648bc1e791913d3062085d2476039e
+          39024cd1367641a25f2847c71d9985182c02df4c
+          866c0f56d1ba2a3ace345aafa4034774c05e8f02
+          0780eab2e74b9edbd1bf7e0a164194b22ad4517b
+          80fc9407595d25439b00df7eaa59ffc8c1b50bfd
+          37176a2918737cfa058ad49746bcd09f676fc67d
+          BLOB_SHAS
+          echo "b5e29175262a81713250cd67dae7c05b7428bca8aabe18321c29ee2ac22a3067  $archive" | sha256sum -c -
+          mkdir -p /tmp/world-mythology-v027-source
+          tar -xzf "$archive" -C /tmp/world-mythology-v027-source
+          rsync -a --delete --exclude='.git/' /tmp/world-mythology-v027-source/ ./
+          git add -A
+          test "$(git write-tree)" = "5a9a8ec0dac785ef39423d4194178768f5d59c00"
+
+      - uses: actions/setup-python@v6
+        with:
+          python-version: "3.11"
+
+      - uses: actions/setup-node@v6
+        with:
+          node-version: "24"
+          cache: npm
+          cache-dependency-path: web/package-lock.json
+
+      - name: Verify database, migrations, tests, privacy and production build
+        run: |
+          set -euo pipefail
+          cp database/world_mythology.sqlite /tmp/world_mythology_v027_sealed.sqlite
+          python3 -m unittest discover -s tests -v
+          cp /tmp/world_mythology_v027_sealed.sqlite database/world_mythology.sqlite
+          python3 scripts/validate_database.py
+          python3 scripts/privacy_release_check.py
+          python3 - <<'PY'
+          import sqlite3
+          con = sqlite3.connect('database/world_mythology.sqlite')
+          assert con.execute('PRAGMA integrity_check').fetchone()[0] == 'ok'
+          assert con.execute('PRAGMA foreign_key_check').fetchall() == []
+          PY
+          npm --prefix web ci
+          npm --prefix web run build
+          git add -A
+          test "$(git write-tree)" = "5a9a8ec0dac785ef39423d4194178768f5d59c00"
+
+      - name: Publish main and v0.27.0 tag
+        run: |
+          set -euo pipefail
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -m "发布 v0.27.0：原典见证对读 / Release v0.27.0 original witness comparison"
+          git tag -a v0.27.0 -m "World Mythology System v0.27.0"
+          git push origin HEAD:main refs/tags/v0.27.0
+
+      - name: Build, verify and publish GitHub Release assets
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          set -euo pipefail
+          release_dir=/tmp/world-mythology-v027-release
+          mkdir -p "$release_dir"
+          bundle="$release_dir/World_Mythology_System_v0.27.0_original_witness_comparison.git.bundle"
+          sqlite="$release_dir/world_mythology_v0.27.0.sqlite"
+          zip="$release_dir/World_Mythology_System_v0.27.0_20260831.zip"
+          git bundle create "$bundle" --all
+          cp database/world_mythology.sqlite "$sqlite"
+          python3 scripts/build_release_package.py --output "$zip" --bundle "$bundle"
+          git bundle verify "$bundle"
+          unzip -t "$zip" >/dev/null
+          echo "dce9794d2b6e7c4f2ac099bf3ce58d3df1dc98f98669f8cab5a2d77b431ef8ab  $sqlite" | sha256sum -c -
+          sha256sum "$zip" "$bundle" "$sqlite"
+          gh release create v0.27.0 "$zip" "$bundle" "$sqlite" \
+            --repo "$GITHUB_REPOSITORY" \
+            --verify-tag \
+            --title "World Mythology System v0.27.0 — Original Witness Comparison" \
+            --notes-file RELEASE_NOTES_v0.27.0.md
+
+      - name: Upload GitHub Pages artifact
+        uses: actions/upload-pages-artifact@v5
+        with:
+          path: web/dist
+
+      - name: Deploy GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v5
+
+      - name: Verify deployed v0.27.0 witness comparison snapshot
+        run: |
+          set -euo pipefail
+          page_url="${{ steps.deployment.outputs.page_url }}"
+          for attempt in $(seq 1 18); do
+            if curl -fsSL "${page_url%/}/data/site-data.json" \
+              | jq -e '.meta.projectVersion == "0.27.0-original-witness-comparison" and .meta.counts.stories == 23 and .meta.counts.storyWitnessProfiles == 4 and .meta.counts.storyWitnessComparisons == 7 and .meta.counts.storyWitnessComparisonMembers == 14' >/dev/null; then
+              exit 0
+            fi
+            sleep 10
+          done
+          exit 1
