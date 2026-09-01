@@ -1091,10 +1091,10 @@
       {
         "builtAt": "2026-09-01T12:05:39Z",
         "dataVersion": "0.28.0",
-        "databaseSha256": null,
-        "gitCommit": null,
+        "databaseSha256": "f519df23e1ed60247271b08abd41f20589096a8adeac9bef8aea292c927509dc",
+        "gitCommit": "3adc3d920fde507a408c060e862320a4dd674893",
         "id": "release.v0.28.0",
-        "releaseNotes": "Global story-expansion checkpoint: three source-backed stories, four independent versions, twelve bilingual sections and event nodes, and a seven-target fault-isolated audit retaining queued and permission-blocked work.",
+        "releaseNotes": "Global story-expansion checkpoint: three source-backed stories, four independent versions, twelve bilingual sections and event nodes, and a seven-target fault-isolated audit retaining queued and permission-blocked work. Source commit stamped; database_sha256 is the pre-stamp snapshot digest.",
         "schemaVersion": 38
       }
     ],
@@ -110661,10 +110661,10 @@
     "datasetRelease": {
       "built_at": "2026-09-01T12:05:39Z",
       "data_version": "0.28.0",
-      "database_sha256": null,
-      "git_commit": null,
+      "database_sha256": "f519df23e1ed60247271b08abd41f20589096a8adeac9bef8aea292c927509dc",
+      "git_commit": "3adc3d920fde507a408c060e862320a4dd674893",
       "id": "release.v0.28.0",
-      "release_notes": "Global story-expansion checkpoint: three source-backed stories, four independent versions, twelve bilingual sections and event nodes, and a seven-target fault-isolated audit retaining queued and permission-blocked work.",
+      "release_notes": "Global story-expansion checkpoint: three source-backed stories, four independent versions, twelve bilingual sections and event nodes, and a seven-target fault-isolated audit retaining queued and permission-blocked work. Source commit stamped; database_sha256 is the pre-stamp snapshot digest.",
       "schema_version": 38
     },
     "evidenceStatusCounts": {
