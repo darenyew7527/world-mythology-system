@@ -1087,6 +1087,15 @@
         "id": "release.v0.27.0",
         "releaseNotes": "Original-witness comparison checkpoint: four witness profiles, seven section-level comparison topics, fourteen witness members, explicit NOT_STATED and UNMODELED states, and an Ask/Embla creator-triad conflict.",
         "schemaVersion": 36
+      },
+      {
+        "builtAt": "2026-09-01T12:05:39Z",
+        "dataVersion": "0.28.0",
+        "databaseSha256": null,
+        "gitCommit": null,
+        "id": "release.v0.28.0",
+        "releaseNotes": "Global story-expansion checkpoint: three source-backed stories, four independent versions, twelve bilingual sections and event nodes, and a seven-target fault-isolated audit retaining queued and permission-blocked work.",
+        "schemaVersion": 38
       }
     ],
     "sourceQuality": {
@@ -110618,12 +110627,12 @@
       "displayOrder": 290,
       "evidenceCaveat": "Target failures and permission blocks remain visible and do not imply failure or completion for another tradition.",
       "group": "STORY_READING",
-      "introducedIn": "v0.28-dev",
-      "notes": "Batch 1 begins with Maya, Japanese and Khmer stories; China and India are queued, Māori and Yorùbá are permission-gated.",
+      "introducedIn": "v0.28.0",
+      "notes": "The sealed checkpoint contains Maya, Japanese and Khmer stories; China and India remain queued, while Māori and Yorùbá are permission-gated.",
       "status": "ACTIVE",
       "titleEn": "Global story expansion audit",
       "titleZh": "全球故事扩张审计",
-      "updatedAt": "2026-09-01T06:30:00Z"
+      "updatedAt": "2026-09-01T12:05:39Z"
     }
   ],
   "meta": {
@@ -110650,13 +110659,13 @@
       "storyWitnessProfiles": 4
     },
     "datasetRelease": {
-      "built_at": "2026-08-31T23:05:00Z",
-      "data_version": "0.27.0",
-      "database_sha256": "a7874c07caade5b80ede86fc87a744908bd4a8c2b660d631c4f8db933f64f8c2",
-      "git_commit": "223b74c21ebb30abcad91c5d550741040c4f3760",
-      "id": "release.v0.27.0",
-      "release_notes": "Original-witness comparison checkpoint: four witness profiles, seven section-level comparison topics, fourteen witness members, explicit NOT_STATED and UNMODELED states, and an Ask/Embla creator-triad conflict.",
-      "schema_version": 36
+      "built_at": "2026-09-01T12:05:39Z",
+      "data_version": "0.28.0",
+      "database_sha256": null,
+      "git_commit": null,
+      "id": "release.v0.28.0",
+      "release_notes": "Global story-expansion checkpoint: three source-backed stories, four independent versions, twelve bilingual sections and event nodes, and a seven-target fault-isolated audit retaining queued and permission-blocked work.",
+      "schema_version": 38
     },
     "evidenceStatusCounts": {
       "CONFLICTING": 10,
@@ -110665,7 +110674,7 @@
       "UNVERIFIED": 310
     },
     "generatedFrom": "database/world_mythology.sqlite",
-    "projectVersion": "0.28.0-dev-global-story-expansion-batch-1",
+    "projectVersion": "0.28.0-global-story-expansion",
     "publicDataPolicy": "Source metadata and evidence locators are published; evidence short quotes are excluded.",
     "queueStatusCounts": {
       "BASELINE_COMPLETE": 18,
@@ -122644,12 +122653,12 @@
   ],
   "storyExpansionBatches": [
     {
-      "completedAt": null,
+      "completedAt": "2026-09-01T12:05:39Z",
       "continuationPolicy": "Each target commits independently. BLOCKED_PERMISSION, DEFERRED or FAILED_VALIDATION rows remain audited and never erase completed targets.",
       "id": "storybatch.v0280.01",
-      "scopeNote": "Three source-backed stories start the batch; China and India remain queued, while Māori and Yorùbá content expansion is permission-gated.",
+      "scopeNote": "Three source-backed stories form the sealed checkpoint; China and India remain queued, while Māori and Yorùbá content expansion remains permission-gated.",
       "startedAt": "2026-09-01T06:30:00Z",
-      "status": "IN_PROGRESS",
+      "status": "CHECKPOINT_COMPLETE",
       "targets": [
         {
           "blockerReason": null,
@@ -122784,9 +122793,9 @@
           "updatedAt": "2026-09-01T06:30:00Z"
         }
       ],
-      "titleEn": "v0.28 Global Story Expansion — Batch 1",
-      "titleZh": "v0.28 全球故事扩张首批",
-      "versionLabel": "0.28.0-dev-global-story-expansion-batch-1"
+      "titleEn": "v0.28 Global Story Expansion",
+      "titleZh": "v0.28 全球故事扩张",
+      "versionLabel": "0.28.0"
     }
   ]
 }

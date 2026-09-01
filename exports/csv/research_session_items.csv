@@ -532,3 +532,4 @@ session.20260901.v0280_batch1,STORY,story.japanese.kusanagi_transmission,CREATE,
 session.20260901.v0280_batch1,STORY,story.khmer.angkor_wat_churning_relief,CREATE,APSARA-located Khmer material witness with UNESCO site context.
 session.20260901.v0280_batch1,PERMISSION_REVIEW,storytarget.v0280.01.maori,BLOCK,No named iwi/hapū publication and scoped authority yet.
 session.20260901.v0280_batch1,PERMISSION_REVIEW,storytarget.v0280.01.yoruba,BLOCK,Safeguarding metadata is not permission to collect restricted Ifá content.
+session.20260901.v0280_batch1,RELEASE,release.v0.28.0,SEAL,"Formal staged checkpoint preserves three completed, two queued and two permission-blocked targets."

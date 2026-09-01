@@ -531,3 +531,4 @@
 {"action":"CREATE","item_id":"story.khmer.angkor_wat_churning_relief","item_kind":"STORY","result":"APSARA-located Khmer material witness with UNESCO site context.","session_id":"session.20260901.v0280_batch1"}
 {"action":"BLOCK","item_id":"storytarget.v0280.01.maori","item_kind":"PERMISSION_REVIEW","result":"No named iwi/hapū publication and scoped authority yet.","session_id":"session.20260901.v0280_batch1"}
 {"action":"BLOCK","item_id":"storytarget.v0280.01.yoruba","item_kind":"PERMISSION_REVIEW","result":"Safeguarding metadata is not permission to collect restricted Ifá content.","session_id":"session.20260901.v0280_batch1"}
+{"action":"SEAL","item_id":"release.v0.28.0","item_kind":"RELEASE","result":"Formal staged checkpoint preserves three completed, two queued and two permission-blocked targets.","session_id":"session.20260901.v0280_batch1"}

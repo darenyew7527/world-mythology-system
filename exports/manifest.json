@@ -9,11 +9,11 @@
     "comparison_set_members": 16,
     "comparison_sets": 2,
     "conflicts": 33,
-    "coverage_metrics": 871,
-    "coverage_reports": 28,
+    "coverage_metrics": 913,
+    "coverage_reports": 29,
     "creature_profiles": 19,
     "cultures": 18,
-    "dataset_releases": 27,
+    "dataset_releases": 28,
     "deity_profiles": 177,
     "entities": 646,
     "entity_attributes": 0,
@@ -42,9 +42,9 @@
     "reading_routes": 6,
     "regions": 22,
     "relationship_types": 80,
-    "research_session_items": 533,
+    "research_session_items": 534,
     "research_sessions": 27,
-    "schema_migrations": 37,
+    "schema_migrations": 38,
     "sources": 207,
     "stories": 26,
     "story_claim_links": 139,
@@ -63,7 +63,7 @@
     "tradition_links": 6
   },
   "database": "world_mythology.sqlite",
-  "database_sha256": "711985e2e1e7256fa31492669a9e23176c344c26b29bbc9277c428e29bb66243",
+  "database_sha256": "f519df23e1ed60247271b08abd41f20589096a8adeac9bef8aea292c927509dc",
   "excluded_object_types": [
     "view",
     "sqlite_internal"
@@ -115,14 +115,14 @@
       "sha256": "1999c1dcd0f9319e3fa1ed2ec78ef78af6368d1b8f0ea83dd6b98facf6a455fe"
     },
     {
-      "bytes": 124806,
+      "bytes": 130779,
       "path": "csv/coverage_metrics.csv",
-      "sha256": "49a3096cca37495c5485ba9397f804f67bb77d9927d6203885275064d43bfc6d"
+      "sha256": "73b371c01490f30f57dbad108f3ff82136b4c7f754780b207bd53c2e91286ab1"
     },
     {
-      "bytes": 5151,
+      "bytes": 5304,
       "path": "csv/coverage_reports.csv",
-      "sha256": "27e8d5db53ed2b3848d4e5324e694ec8bdaa74675934d570f67d7046554f21ee"
+      "sha256": "af41cbcefae2872be267c545e0bfba68fa3cf40a2a47ea2a557c99dc95865e39"
     },
     {
       "bytes": 2419,
@@ -135,9 +135,9 @@
       "sha256": "08df12610aceccea92fb45a1cf702520500c1b1eff876183b65d4f609c689a45"
     },
     {
-      "bytes": 10968,
+      "bytes": 11239,
       "path": "csv/dataset_releases.csv",
-      "sha256": "ab29f243758af7adbcbd122b34a3ccc3e27d40f6b99032a83d4afc517d886449"
+      "sha256": "007528823b3ee181dfa423a36560f46464e0072404b1f5fd7deff99c866221eb"
     },
     {
       "bytes": 26743,
@@ -185,9 +185,9 @@
       "sha256": "7aa91977d18eab435f99e353768762f67fc14f783dc3b112355dcacdcb49047f"
     },
     {
-      "bytes": 3883,
+      "bytes": 3901,
       "path": "csv/explorer_feature_registry.csv",
-      "sha256": "2f23a86829ae6f0278530245e38fc30808e4fc35b731ef8dd6f47bdd7dcc0c80"
+      "sha256": "19f937ee503060d046ddd25333e38d2049bbe0e44fd4115ecc0171a39963a6d1"
     },
     {
       "bytes": 4766,
@@ -235,9 +235,9 @@
       "sha256": "b04fb8586901864d36b0c21b3dde7defede33798be5bc82eea871d06938ff9f1"
     },
     {
-      "bytes": 1005,
+      "bytes": 971,
       "path": "csv/project_metadata.csv",
-      "sha256": "ad80cc4b30ab6917b3e188028f0869f07d82a5e80b49ecf13eab5ed243342f3a"
+      "sha256": "f8c36b4a6dd295d1c22a8856b16187344afc3f351d1e2ed0dc53b48ca0d0d708"
     },
     {
       "bytes": 71,
@@ -280,19 +280,19 @@
       "sha256": "1ea4bab458e58c07ebf1e5133c67be4ef8ab38b6056f069eea671926068e9943"
     },
     {
-      "bytes": 62961,
+      "bytes": 63121,
       "path": "csv/research_session_items.csv",
-      "sha256": "f697f4b5fb19e3fd3f3561167ad43999b3d3dc3f305e15d3a2d0282c27f4cff1"
+      "sha256": "9846b7869ed0bd553a54c981f24886ccf6958487747b9ba467cc22891db548a5"
     },
     {
-      "bytes": 14119,
+      "bytes": 14164,
       "path": "csv/research_sessions.csv",
-      "sha256": "8061d59a3ce56e14ae64c3cbd650f9d65474ece576b38560e38820117c4fe63f"
+      "sha256": "8b110f81fbc5ed08c7c64266d042196a312b3962b3fca2fa00da0e2facb3d363"
     },
     {
-      "bytes": 2349,
+      "bytes": 2419,
       "path": "csv/schema_migrations.csv",
-      "sha256": "8e1a994716dbdb00c7c470daa55d1035bdfb24c1d7938df9f0f5bac3cb1b168d"
+      "sha256": "db65532820558019232d0a735d5178e076dd559062b77db96daca6054217526a"
     },
     {
       "bytes": 107382,
@@ -325,9 +325,9 @@
       "sha256": "b621a9572dd903b7eb7dc6d68295f3f9542a0d6b5a343e83a437b342db6abe26"
     },
     {
-      "bytes": 550,
+      "bytes": 541,
       "path": "csv/story_expansion_batches.csv",
-      "sha256": "ef21f6f57d7d25ab13b3eae0d1976fa37609bbf7ed5c79c34b9566819dc82b01"
+      "sha256": "453491374637bd11f87c0b7954bfdbe92142539c94a40f5c4b7ddb981ba1f823"
     },
     {
       "bytes": 3012,
@@ -435,14 +435,14 @@
       "sha256": "a8b494ce3abff21a02fd875d56e38d5c99afa3700933913e81447e5611925526"
     },
     {
-      "bytes": 188184,
+      "bytes": 197225,
       "path": "jsonl/coverage_metrics.jsonl",
-      "sha256": "6c9881a45099cf8a68ad9aa4e993f92223d5b30d8da92aebed7eff7daa95b6fc"
+      "sha256": "dc24b172ede04f620f390d935556af2ed2e8aad0fdbacfb335a101b6413d0816"
     },
     {
-      "bytes": 6708,
+      "bytes": 6918,
       "path": "jsonl/coverage_reports.jsonl",
-      "sha256": "34d6cd4a0eb7a15bd223c2f3241b390d5995a030953ee11ca8518c99aa48b953"
+      "sha256": "83ff9ffe5bb21f7dca3ff3e84387191cb83f557ca3a7a5312f7b3be8a8bbda37"
     },
     {
       "bytes": 5207,
@@ -455,9 +455,9 @@
       "sha256": "4ebb06d0d458e2051b7433a09921879aa2f45ceb02bbb2ffebc63a5a864ea1d1"
     },
     {
-      "bytes": 13818,
+      "bytes": 14200,
       "path": "jsonl/dataset_releases.jsonl",
-      "sha256": "8681d513b771487aecbd318d4f379351a3fc1af40bcc46bc5fe4bdd617e24969"
+      "sha256": "5ff4926f50222ff3d2d05aa2d1730a88af2bd1207cad3986e0156c4850119e83"
     },
     {
       "bytes": 63543,
@@ -505,9 +505,9 @@
       "sha256": "f8890d9614ba27000f25a1b234991f311ebfb08ec1845f346ed7c77fb4fc9ca8"
     },
     {
-      "bytes": 5935,
+      "bytes": 5953,
       "path": "jsonl/explorer_feature_registry.jsonl",
-      "sha256": "3167df2e5de10847b6511ac9d44e91a633f6fd76ddd9d1df0981fc089c684545"
+      "sha256": "76bb5ab3435209056021de735dc27dd46324bc83ad313185661347a7ba4d78f8"
     },
     {
       "bytes": 6650,
@@ -555,9 +555,9 @@
       "sha256": "57f649176e3870ae01e9e99286104c19fd705d20f5e3d9d5b89ee8d5258b5f47"
     },
     {
-      "bytes": 1332,
+      "bytes": 1298,
       "path": "jsonl/project_metadata.jsonl",
-      "sha256": "2e14df4d7a1db41fabc77238207de4250b4b10f5438ef1c0e460fb961df3211e"
+      "sha256": "81bf71e93dd2191d19f30cd892fe354f39d5ed1335a3ed82384eeec0c43f00bb"
     },
     {
       "bytes": 0,
@@ -600,19 +600,19 @@
       "sha256": "7bc901ec8863a8c2b41d62c871d12987387cc01a3523633417109ec834e97ac1"
     },
     {
-      "bytes": 97559,
+      "bytes": 97782,
       "path": "jsonl/research_session_items.jsonl",
-      "sha256": "0838f479ffa656728f59db65f84ce468274f460ff95de6c519a55bd10348eb3b"
+      "sha256": "bc9af04c26fed516c536e855de76a439820eedf57920334cc5c0a8a9b8edd547"
     },
     {
-      "bytes": 16695,
+      "bytes": 16738,
       "path": "jsonl/research_sessions.jsonl",
-      "sha256": "9bcdc8f04a856e06bf42635c96515b1254ed2618519a74e5cae63b041ff5dd4c"
+      "sha256": "198900b74d3bf2d8f2ac78b41e6b329c8722acc4c9f7f2390eed822a36f5b06c"
     },
     {
-      "bytes": 3657,
+      "bytes": 3763,
       "path": "jsonl/schema_migrations.jsonl",
-      "sha256": "68b09d99e5c4a8b1e5f8e271a3826117cc8672d4d3de91b160de79d100499727"
+      "sha256": "f95bc48eaa56fea216625e1bcf5c23d725bc19f333a7f65e7ed554e8112e0c98"
     },
     {
       "bytes": 215360,
@@ -645,9 +645,9 @@
       "sha256": "a3eb4a1aa8708744624ed5b8127b6ebdd77aff670941530a5a6de5da03e1e4fd"
     },
     {
-      "bytes": 586,
+      "bytes": 575,
       "path": "jsonl/story_expansion_batches.jsonl",
-      "sha256": "b8b95298dd276b458ebd398e7adc9be8bf03cf63f30b17edf28eb74433e9d97d"
+      "sha256": "5c605fc6dd060364fbfc179552b07941d6454bdcdaa5829fd5492c35ef672b37"
     },
     {
       "bytes": 4436,
@@ -701,26 +701,26 @@
     "nodes": 646
   },
   "latest_sealed_release": {
-    "built_at": "2026-08-31T23:05:00Z",
-    "data_version": "0.27.0",
-    "git_commit": "223b74c21ebb30abcad91c5d550741040c4f3760",
-    "id": "release.v0.27.0",
-    "schema_version": 36
+    "built_at": "2026-09-01T12:05:39Z",
+    "data_version": "0.28.0",
+    "git_commit": null,
+    "id": "release.v0.28.0",
+    "schema_version": 38
   },
   "project": {
-    "data_version": "0.28.0-dev-global-story-expansion-batch-1",
-    "project_status": "v0.28 active development: global story expansion batch 1; permission blocks are target-local and never ALL COMPLETE",
-    "project_version": "0.28.0-dev-global-story-expansion-batch-1",
-    "schema_version": "37"
+    "data_version": "0.28.0",
+    "project_status": "v0.28.0 sealed staged checkpoint: global story expansion remains open; permission blocks are target-local and never ALL COMPLETE",
+    "project_version": "0.28.0-global-story-expansion",
+    "schema_version": "38"
   },
   "release": {
-    "built_at": "2026-08-31T23:05:00Z",
-    "data_version": "0.27.0",
-    "git_commit": "223b74c21ebb30abcad91c5d550741040c4f3760",
-    "id": "release.v0.27.0",
-    "schema_version": 36
+    "built_at": "2026-09-01T12:05:39Z",
+    "data_version": "0.28.0",
+    "git_commit": null,
+    "id": "release.v0.28.0",
+    "schema_version": 38
   },
-  "snapshot_status": "DEVELOPMENT",
+  "snapshot_status": "SEALED_RELEASE",
   "tables": [
     "aliases",
     "artifact_profiles",

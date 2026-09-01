@@ -10,9 +10,9 @@ The repository contains a reproducible staged knowledge baseline, not a claim of
 
 The bilingual React explorer provides searchable entities, filters, relationship graphs, claims, evidence locators, sources, coverage, and the permanent research queue. Chinese is the default interface; English can be selected from the header.
 
-Current development version: `v0.28.0-dev-global-story-expansion-batch-1`. The latest sealed release remains `v0.27.0-original-witness-comparison`.
+Current sealed release: `v0.28.0-global-story-expansion`.
 
-v0.28 batch 1 adds a public K'iche'-context Hero Twins and Seven Macaw episode, two separately sourced Kusanagi layers (a university academic synopsis and Atsuta Jingu's public tradition), and the Angkor Wat Churning relief as a Khmer material witness. Of seven independently audited targets, three are complete, China and India remain queued, and Māori plus Yorùbá/Ifá are permission-blocked only within their own targets.
+v0.28 adds a public K'iche'-context Hero Twins and Seven Macaw episode, two separately sourced Kusanagi layers (a university academic synopsis and Atsuta Jingu's public tradition), and the Angkor Wat Churning relief as a Khmer material witness. Of seven independently audited targets, three are complete, China and India remain queued, and Māori plus Yorùbá/Ifá are permission-blocked only within their own targets. These open states remain part of the formal checkpoint rather than an `ALL COMPLETE` claim. See [the v0.28 release notes](RELEASE_NOTES_v0.28.0.md).
 
 v0.27 introduces item-by-item comparison for four independent witnesses to the Aphrodite-origin and Ask/Embla stories. Seven comparison topics and fourteen witness members expose original forms, transliterations, languages, source locators, rights boundaries, and explicit `NOT_STATED` / `UNMODELED` states. The Theogony is not merged with the Iliad, and Völuspá is not merged with Gylfaginning.
 

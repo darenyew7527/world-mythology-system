@@ -36,7 +36,8 @@
 ## 直接打开这些文件
 
 - `database/world_mythology.sqlite`：事实核心数据库。
-- `docs/ROADMAP_v0.26-v0.29.md`：v0.28 全球故事扩张首批状态、目标审计与后续路线。
+- `RELEASE_NOTES_v0.28.0.md`：v0.28 全球故事扩张、独立目标审计与权限边界。
+- `docs/ROADMAP_v0.26-v0.29.md`：v0.28 全球故事扩张正式状态、目标审计与后续路线。
 - `RELEASE_NOTES_v0.27.0.md`：v0.27 原典见证逐项对读、显式未知状态与版权边界。
 - `RELEASE_NOTES_v0.26.0.md`：v0.26 故事地图、事件节点、主题阅读路线与公开进程故事。
 - `RELEASE_NOTES_v0.25.0.md`：v0.25 神话故事阅读库、版本分离、证据链接与阅读边界。

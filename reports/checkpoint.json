@@ -1,12 +1,12 @@
 {
-  "checkpoint": "WORLD_MYTHOLOGY_0_28_0_DEV_GLOBAL_STORY_EXPANSION_BATCH_1",
+  "checkpoint": "WORLD_MYTHOLOGY_0_28_0",
   "completion_claim": "Current publicly discoverable material has a staged knowledge baseline; the system remains expandable.",
-  "data_version": "0.28.0-dev-global-story-expansion-batch-1",
-  "database_sha256": "711985e2e1e7256fa31492669a9e23176c344c26b29bbc9277c428e29bb66243",
+  "data_version": "0.28.0",
+  "database_sha256": "f519df23e1ed60247271b08abd41f20589096a8adeac9bef8aea292c927509dc",
   "entity_profiles": 646,
-  "generated_at": "2026-09-01T10:59:47Z",
-  "latest_sealed_data_version": "0.27.0",
-  "latest_sealed_release_id": "release.v0.27.0",
+  "generated_at": "2026-09-01T12:08:12Z",
+  "latest_sealed_data_version": "0.28.0",
+  "latest_sealed_release_id": "release.v0.28.0",
   "metrics": {
     "artifact_profiles_with_abilities": 3,
     "canonical_entities": 641,
@@ -58,8 +58,8 @@
     "Eleusis archaeology, inscriptions and mystery-cult layers",
     "Ra-Atum composite witnesses by period"
   ],
-  "release_id": null,
-  "snapshot_status": "DEVELOPMENT",
+  "release_id": "release.v0.28.0",
+  "snapshot_status": "SEALED_RELEASE",
   "status": "STAGED_EXPANDABLE_BASELINE",
   "story_profiles": 26
 }

@@ -48,7 +48,7 @@ class GlobalStoryExpansionTests(unittest.TestCase):
                 "SELECT status FROM story_expansion_targets "
                 "WHERE batch_id='storybatch.v0280.01' ORDER BY target_order"
             ).fetchall()
-        self.assertEqual(batch["status"], "IN_PROGRESS")
+        self.assertEqual(batch["status"], "CHECKPOINT_COMPLETE")
         self.assertIn("never erase completed targets", batch["continuation_policy"])
         self.assertEqual(
             Counter(row["status"] for row in targets),
@@ -173,7 +173,7 @@ class GlobalStoryExpansionTests(unittest.TestCase):
         counts = self.snapshot["meta"]["counts"]
         self.assertEqual(
             self.snapshot["meta"]["projectVersion"],
-            "0.28.0-dev-global-story-expansion-batch-1",
+            "0.28.0-global-story-expansion",
         )
         self.assertEqual(
             {
@@ -214,7 +214,15 @@ class GlobalStoryExpansionTests(unittest.TestCase):
         self.assertIn(".story-expansion-audit ul { display: flex; overflow-x: auto", tablet)
         self.assertIn(".story-expansion-audit > header { align-items: flex-start; flex-direction: column; }", mobile)
 
-    def test_development_reports_do_not_masquerade_as_v027_release(self):
+    def test_v028_reports_are_sealed_as_the_latest_release(self):
+        with self.connect() as connection:
+            release = connection.execute(
+                "SELECT schema_version,data_version FROM dataset_releases "
+                "WHERE id='release.v0.28.0'"
+            ).fetchone()
+            migration = connection.execute(
+                "SELECT name FROM schema_migrations WHERE version=38"
+            ).fetchone()
         checkpoint = json.loads(
             (ROOT / "reports" / "checkpoint.json").read_text(encoding="utf-8")
         )
@@ -222,23 +230,28 @@ class GlobalStoryExpansionTests(unittest.TestCase):
             (ROOT / "exports" / "manifest.json").read_text(encoding="utf-8")
         )
         coverage = (ROOT / "reports" / "coverage_report.md").read_text(encoding="utf-8")
-        self.assertEqual(checkpoint["snapshot_status"], "DEVELOPMENT")
+        self.assertEqual(dict(release), {"schema_version": 38, "data_version": "0.28.0"})
+        self.assertEqual(
+            migration["name"],
+            "20260901_v0280_global_story_expansion_release",
+        )
+        self.assertEqual(checkpoint["snapshot_status"], "SEALED_RELEASE")
         self.assertEqual(
             checkpoint["data_version"],
-            "0.28.0-dev-global-story-expansion-batch-1",
+            "0.28.0",
         )
-        self.assertIsNone(checkpoint["release_id"])
-        self.assertEqual(checkpoint["latest_sealed_release_id"], "release.v0.27.0")
-        self.assertEqual(manifest["snapshot_status"], "DEVELOPMENT")
+        self.assertEqual(checkpoint["release_id"], "release.v0.28.0")
+        self.assertEqual(checkpoint["latest_sealed_release_id"], "release.v0.28.0")
+        self.assertEqual(manifest["snapshot_status"], "SEALED_RELEASE")
         self.assertEqual(
             manifest["project"]["data_version"],
-            "0.28.0-dev-global-story-expansion-batch-1",
+            "0.28.0",
         )
         self.assertEqual(
             manifest["latest_sealed_release"]["data_version"],
-            "0.27.0",
+            "0.28.0",
         )
-        self.assertIn("当前为开发快照", coverage)
+        self.assertNotIn("当前为开发快照", coverage)
 
 
 if __name__ == "__main__":

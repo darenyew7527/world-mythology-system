@@ -4,7 +4,7 @@ import { statusLabel } from '../i18n.js'
 
 const ui = {
   zh: {
-    eyebrow: 'v0.28 · 全球故事扩张首批',
+    eyebrow: 'v0.28 · 全球故事扩张正式检查点',
     title: '神话故事阅读库',
     intro: '从永久队列逐项扩张可公开、可回溯的故事见证；活态传统先过权限门禁，单项目受阻不影响其他目标继续。',
     search: '搜索故事、人物、神器或主题…',
@@ -51,7 +51,7 @@ const ui = {
     expansionPolicy: '每个目标独立验收；权限阻塞、排队与完成状态同时保留。',
   },
   en: {
-    eyebrow: 'v0.28 · Global story expansion — batch 1',
+    eyebrow: 'v0.28 · Global story expansion checkpoint',
     title: 'Myth Story Library',
     intro: 'Expand public, traceable story witnesses from the permanent queue; living traditions pass permission gates first, and one blocked target never stops the rest.',
     search: 'Search stories, people, artifacts, or themes…',
