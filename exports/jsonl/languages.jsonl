@@ -9,6 +9,7 @@
 {"canonical_name":"Ancient Greek","historical_stage":null,"id":"lang.grc","iso_639_3":"grc","name_zh":"古希腊语","notes":null,"script_name":"Greek"}
 {"canonical_name":"Hawaiian","historical_stage":null,"id":"lang.haw","iso_639_3":"haw","name_zh":"夏威夷语","notes":null,"script_name":"Latin"}
 {"canonical_name":"Japanese","historical_stage":null,"id":"lang.jpn","iso_639_3":"jpn","name_zh":"日语","notes":null,"script_name":"Kanji/Kana"}
+{"canonical_name":"Khmer","historical_stage":"Angkorian and modern Khmer continuum","id":"lang.khm","iso_639_3":"khm","name_zh":"高棉语","notes":"Material witnesses and modern heritage-authority metadata must remain distinct.","script_name":"Khmer"}
 {"canonical_name":"Latin","historical_stage":null,"id":"lang.lat","iso_639_3":"lat","name_zh":"拉丁语","notes":null,"script_name":"Latin"}
 {"canonical_name":"Classical Chinese","historical_stage":null,"id":"lang.lzh","iso_639_3":"lzh","name_zh":"文言文","notes":null,"script_name":"Han"}
 {"canonical_name":"Māori","historical_stage":null,"id":"lang.mai","iso_639_3":"mri","name_zh":"毛利语","notes":null,"script_name":"Latin"}
@@ -18,6 +19,7 @@
 {"canonical_name":"Old Japanese","historical_stage":null,"id":"lang.ojp","iso_639_3":"ojp","name_zh":"上代日语","notes":null,"script_name":"Man'yōgana"}
 {"canonical_name":"Middle Persian","historical_stage":null,"id":"lang.pal","iso_639_3":"pal","name_zh":"中古波斯语","notes":null,"script_name":"Pahlavi"}
 {"canonical_name":"Old Persian","historical_stage":"Achaemenid","id":"lang.peo","iso_639_3":"peo","name_zh":"古波斯语","notes":"Distinct from Middle Persian lang.pal.","script_name":"Old Persian cuneiform"}
+{"canonical_name":"K'iche'","historical_stage":"Colonial manuscript witness and living-language continuum","id":"lang.quc","iso_639_3":"quc","name_zh":"基切语","notes":"Specific K'iche' attribution is preferred over the generic Mayan-language umbrella when the source supports it.","script_name":"Latin"}
 {"canonical_name":"Sanskrit","historical_stage":null,"id":"lang.san","iso_639_3":"san","name_zh":"梵语","notes":null,"script_name":"Multiple"}
 {"canonical_name":"Sumerian","historical_stage":null,"id":"lang.sux","iso_639_3":"sux","name_zh":"苏美尔语","notes":null,"script_name":"Cuneiform"}
 {"canonical_name":"Ugaritic","historical_stage":null,"id":"lang.uga","iso_639_3":"uga","name_zh":"乌加里特语","notes":null,"script_name":"Ugaritic cuneiform"}

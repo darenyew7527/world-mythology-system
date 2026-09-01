@@ -838,6 +838,60 @@ def build_snapshot(database_path: Path) -> dict[str, Any]:
         """,
     )
 
+    story_expansion_batches: list[dict[str, Any]] = []
+    for batch in _rows(
+        connection,
+        """SELECT id,version_label,title_zh,title_en,scope_note,
+                  continuation_policy,status,started_at,completed_at
+           FROM story_expansion_batches
+           ORDER BY started_at DESC,id DESC""",
+    ):
+        targets = _rows(
+            connection,
+            """SELECT t.id,t.target_order,t.civilization_id,t.queue_id,t.target_kind,
+                      t.target_label_zh,t.target_label_en,t.status,t.result_story_id,
+                      t.source_ids_json,t.blocker_reason,t.next_action,t.updated_at,
+                      c.canonical_name AS civilization_name,c.name_zh AS civilization_name_zh
+               FROM story_expansion_targets t
+               LEFT JOIN civilizations c ON c.id=t.civilization_id
+               WHERE t.batch_id=?
+               ORDER BY t.target_order,t.id""",
+            (batch["id"],),
+        )
+        story_expansion_batches.append(
+            {
+                "id": batch["id"],
+                "versionLabel": batch["version_label"],
+                "titleZh": batch["title_zh"],
+                "titleEn": batch["title_en"],
+                "scopeNote": batch["scope_note"],
+                "continuationPolicy": batch["continuation_policy"],
+                "status": batch["status"],
+                "startedAt": batch["started_at"],
+                "completedAt": _clean(batch["completed_at"]),
+                "targets": [
+                    {
+                        "id": target["id"],
+                        "order": target["target_order"],
+                        "civilizationId": _clean(target["civilization_id"]),
+                        "civilizationName": _clean(target["civilization_name"]),
+                        "civilizationNameZh": _clean(target["civilization_name_zh"]),
+                        "queueId": _clean(target["queue_id"]),
+                        "kind": target["target_kind"],
+                        "labelZh": target["target_label_zh"],
+                        "labelEn": target["target_label_en"],
+                        "status": target["status"],
+                        "resultStoryId": _clean(target["result_story_id"]),
+                        "sourceIds": _json_value(target["source_ids_json"], []),
+                        "blockerReason": _clean(target["blocker_reason"]),
+                        "nextAction": target["next_action"],
+                        "updatedAt": target["updated_at"],
+                    }
+                    for target in targets
+                ],
+            }
+        )
+
     release_history = [
         {
             "id": row["id"],
@@ -1104,6 +1158,10 @@ def build_snapshot(database_path: Path) -> dict[str, Any]:
                     for comparison in story["witnessComparisons"]
                 ),
                 "readingRoutes": len(reading_routes),
+                "storyExpansionBatches": len(story_expansion_batches),
+                "storyExpansionTargets": sum(
+                    len(batch["targets"]) for batch in story_expansion_batches
+                ),
             },
             "typeCounts": dict(sorted(type_counts.items())),
             "evidenceStatusCounts": dict(sorted(evidence_status_counts.items())),
@@ -1117,6 +1175,7 @@ def build_snapshot(database_path: Path) -> dict[str, Any]:
         "conflicts": public_conflicts,
         "stories": stories,
         "readingRoutes": reading_routes,
+        "storyExpansionBatches": story_expansion_batches,
         "queue": queue,
         "comparisons": comparisons,
         "accessPolicies": access_policies,

@@ -66,8 +66,26 @@ story.japanese.kamo_arrow,storyver.japanese.kamo_fudoki_fragment,deity.japanese.
 story.japanese.kamo_arrow,storyver.japanese.kamo_fudoki_fragment,deity.japanese.kamo_taketsunumi,CHARACTER,10,Derived from an explicitly linked story claim subject.
 story.japanese.kamo_arrow,storyver.japanese.kamo_fudoki_fragment,deity.japanese.honoikazuchi_otokuni,CHARACTER,10,Derived from an explicitly linked story claim subject.
 story.japanese.kamo_arrow,storyver.japanese.kamo_fudoki_fragment,deity.japanese.kamo_wakeikazuchi,CHARACTER,20,Derived from an explicitly linked story claim object.
+story.japanese.kusanagi_transmission,storyver.japanese.kusanagi_orochi,deity.japanese.susanoo,CHARACTER,10,Actor in the academic narrative summary.
+story.japanese.kusanagi_transmission,storyver.japanese.kusanagi_orochi,monster.japanese.yamata_no_orochi,CHARACTER,20,Serpent in the academic narrative summary.
+story.japanese.kusanagi_transmission,storyver.japanese.kusanagi_orochi,weapon.japanese.kusanagi,ARTIFACT,30,Narrative artifact.
+story.japanese.kusanagi_transmission,storyver.japanese.kusanagi_orochi,deity.japanese.amaterasu,CHARACTER,40,Recipient named by the academic summary.
+story.japanese.kusanagi_transmission,storyver.japanese.kusanagi_orochi,event.japanese.kusanagi.discovery,EVENT,50,Source-scoped discovery event.
+story.japanese.kusanagi_transmission,storyver.japanese.kusanagi_atsuta,weapon.japanese.kusanagi,ARTIFACT,10,Sacred artifact in the official public account.
+story.japanese.kusanagi_transmission,storyver.japanese.kusanagi_atsuta,hero.japanese.yamato_takeru,CHARACTER,20,Transmission figure in the official public account.
+story.japanese.kusanagi_transmission,storyver.japanese.kusanagi_atsuta,site.japanese.atsuta_jingu,PLACE,30,Real sacred site.
+story.japanese.kusanagi_transmission,storyver.japanese.kusanagi_atsuta,event.japanese.kusanagi.atsuta_enshrinement,EVENT,40,Living shrine public-history layer.
+story.khmer.angkor_wat_churning_relief,storyver.khmer.angkor_churning_apsara,site.cambodia.angkor,PLACE,10,UNESCO World Heritage property context.
+story.khmer.angkor_wat_churning_relief,storyver.khmer.angkor_churning_apsara,site.khmer.angkor_wat,PLACE,20,Real archaeological site.
+story.khmer.angkor_wat_churning_relief,storyver.khmer.angkor_churning_apsara,monument.khmer.angkor_wat_churning_relief,ARTIFACT,30,In-situ bas-relief material witness.
+story.khmer.angkor_wat_churning_relief,storyver.khmer.angkor_churning_apsara,event.khmer.angkor_wat_churning_scene,EVENT,40,Scene as represented by the relief.
 story.maori.creation_many,storyver.maori.creation_teara,text.maori.creation_traditions,RELATED,10,Derived from an explicitly linked story claim subject.
 story.maori.creation_many,storyver.maori.creation_teara,concept.maori.iwi_variant_scope,RELATED,10,Derived from an explicitly linked story claim subject.
+story.maya.hero_twins_seven_macaw,storyver.maya.hero_twins_nmai,hero.kiche.hunahpu,CHARACTER,10,Named Hero Twin in the public K'iche'-attributed overview.
+story.maya.hero_twins_seven_macaw,storyver.maya.hero_twins_nmai,hero.kiche.xbalanque,CHARACTER,20,Named Hero Twin in the public K'iche'-attributed overview.
+story.maya.hero_twins_seven_macaw,storyver.maya.hero_twins_nmai,monster.kiche.seven_macaw,CHARACTER,30,Named opponent in the bounded episode.
+story.maya.hero_twins_seven_macaw,storyver.maya.hero_twins_nmai,event.kiche.hero_twins.seven_macaw,EVENT,40,Source-scoped episode.
+story.maya.hero_twins_seven_macaw,storyver.maya.hero_twins_nmai,text.kiche.popol_vuh,TEXT,50,Colonial manuscript catalogue context; not treated as community permission.
 story.norse.ask_embla,storyver.norse.ask_embla_voluspa,text.norse.voluspa.st17_18,TEXT,10,Derived from an explicitly linked story claim subject.
 story.norse.ask_embla,storyver.norse.ask_embla_gylf,text.norse.gylfaginning.ch8_9,TEXT,10,Derived from an explicitly linked story claim subject.
 story.norse.ask_embla,storyver.norse.ask_embla_voluspa,deity.norse.odin,CHARACTER,20,Derived from an explicitly linked story claim object.

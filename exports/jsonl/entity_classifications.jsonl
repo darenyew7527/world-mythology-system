@@ -320,6 +320,10 @@
 {"entity_id":"event.greek.persephone_abduction","is_primary":1,"notes":"v0.5.0 primary-source profile checkpoint","type_code":"EVENT"}
 {"entity_id":"event.greek.titanomachy","is_primary":1,"notes":null,"type_code":"EVENT"}
 {"entity_id":"event.greek.zeus_typhon_battle","is_primary":1,"notes":"Primary classification at research checkpoint 2026-08-11","type_code":"EVENT"}
+{"entity_id":"event.japanese.kusanagi.atsuta_enshrinement","is_primary":1,"notes":"Official shrine tradition event.","type_code":"EVENT"}
+{"entity_id":"event.japanese.kusanagi.discovery","is_primary":1,"notes":"Kusanagi discovery narrative.","type_code":"EVENT"}
+{"entity_id":"event.khmer.angkor_wat_churning_scene","is_primary":1,"notes":"Materially attested represented scene.","type_code":"EVENT"}
+{"entity_id":"event.kiche.hero_twins.seven_macaw","is_primary":1,"notes":"Bounded public story episode.","type_code":"EVENT"}
 {"entity_id":"event.norse.forging_divine_treasures","is_primary":1,"notes":"Primary classification at research checkpoint 2026-08-11","type_code":"EVENT"}
 {"entity_id":"event.norse.ragnarok","is_primary":1,"notes":null,"type_code":"EVENT"}
 {"entity_id":"event.persia.darius_statue_transfer_egypt_susa","is_primary":1,"notes":"v0.14.0 Darius statue provenance checkpoint","type_code":"EVENT"}
@@ -367,6 +371,9 @@
 {"entity_id":"modern.marvel.mcu.loki","is_primary":1,"notes":"v0.6.0 thunder and storm comparison checkpoint","type_code":"MODERN_WORK"}
 {"entity_id":"modern.marvel.mcu.thor","is_primary":1,"notes":"v0.6.0 thunder and storm comparison checkpoint","type_code":"MODERN_WORK"}
 {"entity_id":"modern_work.japan.hoitsu_wind_thunder_version","is_primary":1,"notes":"v0.18.0 Japanese thunder witnesses","type_code":"MODERN_WORK"}
+{"entity_id":"monster.japanese.yamata_no_orochi","is_primary":1,"notes":"Kojiki/Nihongi academic-reference scope.","type_code":"MONSTER"}
+{"entity_id":"monster.kiche.seven_macaw","is_primary":1,"notes":"Source-scoped narrative opponent.","type_code":"MONSTER"}
+{"entity_id":"monument.khmer.angkor_wat_churning_relief","is_primary":1,"notes":"In-situ architectural relief.","type_code":"MONUMENT"}
 {"entity_id":"museum.babylon.flood_tablet_k3375","is_primary":1,"notes":null,"type_code":"MUSEUM_OBJECT"}
 {"entity_id":"museum.bm.khepri_hymn_stela_ea826","is_primary":1,"notes":"v0.7.0 Egyptian solar-composite checkpoint","type_code":"MUSEUM_OBJECT"}
 {"entity_id":"museum.bm.vajra_1948_0716_11_b","is_primary":1,"notes":"v0.22.0 vajra reception layers","type_code":"MUSEUM_OBJECT"}
@@ -465,6 +472,8 @@
 {"entity_id":"site.italy.rome","is_primary":1,"notes":null,"type_code":"ARCHAEOLOGICAL_SITE"}
 {"entity_id":"site.japan.kamigamo_jinja","is_primary":1,"notes":"v0.10.0 Japanese thunder local-dossier checkpoint","type_code":"ARCHAEOLOGICAL_SITE"}
 {"entity_id":"site.japan.shrines_scope","is_primary":1,"notes":null,"type_code":"TEMPLE"}
+{"entity_id":"site.japanese.atsuta_jingu","is_primary":1,"notes":"Living real sacred site.","type_code":"TEMPLE"}
+{"entity_id":"site.khmer.angkor_wat","is_primary":1,"notes":"Real site within UNESCO property 668.","type_code":"ARCHAEOLOGICAL_SITE"}
 {"entity_id":"site.mexico.chichen_itza","is_primary":1,"notes":null,"type_code":"ARCHAEOLOGICAL_SITE"}
 {"entity_id":"site.mexico.monte_alban","is_primary":1,"notes":null,"type_code":"ARCHAEOLOGICAL_SITE"}
 {"entity_id":"site.mexico.palenque","is_primary":1,"notes":null,"type_code":"ARCHAEOLOGICAL_SITE"}

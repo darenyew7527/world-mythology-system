@@ -6,7 +6,7 @@
 - 原文名: —
 - 转写: —
 - 研究状态: `PARTIAL`
-- 证据状态: `UNVERIFIED`
+- 证据状态: `SOURCE_BACKED`
 
 ## 分类
 
@@ -14,10 +14,13 @@
 
 ## 关系网络
 
-当前无关系边；保留为研究缺口。
+| Relation | Target | Review / layer | Evidence | Confidence | Direction |
+|---|---|---|---:|---:|---|
+| `HAS_PART` | 吴哥寺 (`site.khmer.angkor_wat`) | VERIFIED / HISTORICAL_REALITY / ARCHAEOLOGICAL | 1 | 0.99 | inferred inverse; `claim.v0280.khmer.angkor_wat_part_of_angkor` |
 
 ## Claims 与证据
 
-尚无 claim；实体仅为发现/索引入口。
+- `claim.v0280.khmer.angkor_unesco` [VERIFIED / HISTORICAL_REALITY / 0.99] UNESCO identifies Angkor as a major Southeast Asian archaeological site and includes Angkor Wat within property 668.
+  - 来源：[Angkor — World Heritage property 668](https://whc.unesco.org/en/list/668/)；定位：World Heritage property 668 — Brief synthesis
 
 > 本档案只代表当前阶段性基线，不是对该传统的最终或唯一解释。

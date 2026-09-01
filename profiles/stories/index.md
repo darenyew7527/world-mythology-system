@@ -25,3 +25,6 @@
 | [太阳神夜行冥界](story.egyptian.solar_night.md) | The nocturnal solar journey | 古埃及 | UNDERWORLD_JOURNEY | 1 | PARTIAL | 4 |
 | [《山海经》雷泽雷神片段](story.chinese.leize_thunder.md) | The thunder spirit of Leize | 中国上古神话 | TEXT_FRAGMENT | 1 | SOURCE_BACKED | 3 |
 | [毛利创世传统：不是单一版本](story.maori.creation_many.md) | Many Maori creation traditions | 毛利 | TRADITION_OVERVIEW | 1 | SOURCE_BACKED | 4 |
+| [英雄双子与七金刚鹦鹉：公开基切语境见证](story.maya.hero_twins_seven_macaw.md) | Hero Twins and Seven Macaw — a public K'iche'-attributed overview | 玛雅 | MYTHIC_NARRATIVE | 1 | SOURCE_BACKED | 5 |
+| [草薙剑：大蛇发现与热田传承两层见证](story.japanese.kusanagi_transmission.md) | Kusanagi: serpent discovery and Atsuta transmission layers | 日本神道 | MYTHIC_NARRATIVE | 2 | SOURCE_BACKED | 7 |
+| [吴哥寺乳海搅拌：浮雕物质见证](story.khmer.angkor_wat_churning_relief.md) | Churning of the Sea of Milk as an Angkor Wat material witness | 柬埔寨传统 | MYTHIC_NARRATIVE | 1 | SOURCE_BACKED | 5 |

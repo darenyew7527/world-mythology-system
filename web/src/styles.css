@@ -1038,6 +1038,26 @@ code {
 .story-search input { width: 100%; border: 0; outline: 0; background: transparent; color: #c9c7c1; font-size: .76rem; }
 .story-toolbar select { min-height: 42px; padding: 0 10px; border: 1px solid rgba(117,148,168,.28); background: #03101b; color: #a9afb0; }
 .story-toolbar > span { padding: 0 8px; color: #708692; font: .61rem ui-monospace, monospace; white-space: nowrap; }
+.story-expansion-audit { max-width: 1540px; margin: 14px auto 0; border: 1px solid rgba(116,200,170,.28); background: rgba(4,23,34,.96); }
+.story-expansion-audit > header { display: flex; align-items: center; justify-content: space-between; gap: 18px; min-height: 64px; padding: 11px 14px; border-bottom: 1px solid rgba(116,200,170,.16); }
+.story-expansion-audit > header > div { display: grid; gap: 4px; }
+.story-expansion-audit > header span { color: var(--success); font: .51rem ui-monospace,monospace; letter-spacing: .1em; text-transform: uppercase; }
+.story-expansion-audit > header strong { color: #d2c8b5; font-family: var(--display); font-size: .78rem; font-weight: 500; }
+.story-expansion-audit > header small { color: #718895; font-size: .56rem; line-height: 1.5; }
+.story-expansion-audit > header b { flex: 0 0 auto; padding: 6px 8px; border: 1px solid rgba(201,154,82,.34); color: var(--gold-bright); font: .53rem ui-monospace,monospace; }
+.story-expansion-audit ul { display: grid; grid-template-columns: repeat(7,minmax(0,1fr)); gap: 1px; margin: 0; padding: 0; background: rgba(116,200,170,.12); list-style: none; }
+.story-expansion-audit li { display: grid; align-content: start; gap: 6px; min-width: 0; min-height: 94px; padding: 11px; background: #061623; box-shadow: inset 0 2px transparent; }
+.story-expansion-audit li[data-status="COMPLETED"] { box-shadow: inset 0 2px var(--success); }
+.story-expansion-audit li[data-status="QUEUED"] { box-shadow: inset 0 2px var(--gold-muted); }
+.story-expansion-audit li[data-status="BLOCKED_PERMISSION"] { box-shadow: inset 0 2px var(--danger); }
+.story-expansion-audit li > span { color: #667f8d; font: .49rem ui-monospace,monospace; letter-spacing: .05em; text-transform: uppercase; }
+.story-expansion-audit li strong,
+.story-expansion-audit li button { display: block; min-width: 0; padding: 0; overflow: hidden; border: 0; background: transparent; color: #c9bfad; font-family: var(--display); font-size: .65rem; font-weight: 500; line-height: 1.45; text-align: left; text-overflow: ellipsis; }
+.story-expansion-audit li button { cursor: pointer; }
+.story-expansion-audit li button:hover { color: var(--gold-bright); }
+.story-expansion-audit li small { margin-top: auto; color: #78909b; font-size: .49rem; }
+.story-expansion-audit li[data-status="COMPLETED"] small { color: var(--success); }
+.story-expansion-audit li[data-status="BLOCKED_PERMISSION"] small { color: var(--danger); }
 .story-route-strip { max-width: 1540px; margin: 14px auto 0; border: 1px solid rgba(201,154,82,.22); background: rgba(4,19,31,.96); }
 .story-route-strip > header,
 .story-event-map > header { display: flex; align-items: center; justify-content: space-between; gap: 14px; min-height: 54px; padding: 10px 14px; border-bottom: 1px solid rgba(201,154,82,.16); }
@@ -1236,6 +1256,8 @@ code {
   .thunder-row { min-width: 920px; }
   .story-library { padding: 16px; }
   .story-layout { grid-template-columns: 1fr; }
+  .story-expansion-audit ul { display: flex; overflow-x: auto; scroll-snap-type: x proximity; }
+  .story-expansion-audit li { flex: 0 0 190px; scroll-snap-align: start; }
   .story-route-strip > div { display: flex; overflow-x: auto; scroll-snap-type: x proximity; }
   .story-route-strip details { min-width: 300px; scroll-snap-align: start; }
   .story-index { position: static; display: flex; max-height: none; overflow-x: auto; overflow-y: hidden; scroll-snap-type: x proximity; }
@@ -1267,6 +1289,7 @@ code {
   .story-toolbar { grid-template-columns: 1fr auto; min-height: 0; padding: 8px; }
   .story-search { grid-column: 1 / -1; }
   .story-toolbar select { min-width: 0; }
+  .story-expansion-audit > header { align-items: flex-start; flex-direction: column; }
   .story-route-strip > header { align-items: flex-start; }
   .story-route-strip details { min-width: 270px; }
   .story-index > button { min-width: 252px; padding: 14px; }

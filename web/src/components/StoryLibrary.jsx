@@ -4,9 +4,9 @@ import { statusLabel } from '../i18n.js'
 
 const ui = {
   zh: {
-    eyebrow: 'v0.27 · 原典见证对读',
+    eyebrow: 'v0.28 · 全球故事扩张首批',
     title: '神话故事阅读库',
-    intro: '逐项对照独立原典见证；原文名、转写、语言与定位并列，版本不合并，缺口不补写。',
+    intro: '从永久队列逐项扩张可公开、可回溯的故事见证；活态传统先过权限门禁，单项目受阻不影响其他目标继续。',
     search: '搜索故事、人物、神器或主题…',
     all: '全部文明',
     stories: '个故事',
@@ -47,11 +47,13 @@ const ui = {
     synthesisPolicy: '合成规则',
     sourceLocator: '来源定位',
     difference: '差异说明',
+    expansionAudit: '扩张目标审计',
+    expansionPolicy: '每个目标独立验收；权限阻塞、排队与完成状态同时保留。',
   },
   en: {
-    eyebrow: 'v0.27 · Original witness comparison',
+    eyebrow: 'v0.28 · Global story expansion — batch 1',
     title: 'Myth Story Library',
-    intro: 'Compare independent textual witnesses item by item; original forms, transliterations, languages, and locators stay visible while gaps remain explicit.',
+    intro: 'Expand public, traceable story witnesses from the permanent queue; living traditions pass permission gates first, and one blocked target never stops the rest.',
     search: 'Search stories, people, artifacts, or themes…',
     all: 'All traditions',
     stories: 'stories',
@@ -92,6 +94,29 @@ const ui = {
     synthesisPolicy: 'Synthesis rule',
     sourceLocator: 'Source locator',
     difference: 'Difference note',
+    expansionAudit: 'Expansion target audit',
+    expansionPolicy: 'Every target is accepted independently; completed, queued, and permission-blocked states remain visible together.',
+  },
+}
+
+const expansionStatusLabels = {
+  zh: {
+    COMPLETED: '已完成首批',
+    QUEUED: '已排队',
+    IN_PROGRESS: '进行中',
+    BLOCKED_PERMISSION: '权限阻塞',
+    DEFERRED: '已延后',
+    FAILED_VALIDATION: '验收失败',
+    PARTIAL: '部分完成',
+  },
+  en: {
+    COMPLETED: 'Batch target complete',
+    QUEUED: 'Queued',
+    IN_PROGRESS: 'In progress',
+    BLOCKED_PERMISSION: 'Permission blocked',
+    DEFERRED: 'Deferred',
+    FAILED_VALIDATION: 'Validation failed',
+    PARTIAL: 'Partial',
   },
 }
 
@@ -151,6 +176,7 @@ export default function StoryLibrary({
   onSelectStory,
   readingRoutes = [],
   selectedStoryId,
+  storyExpansionBatches = [],
   stories,
 }) {
   const copy = ui[language] || ui.zh
@@ -206,6 +232,7 @@ export default function StoryLibrary({
 
   const selectedVersion = selected?.versions.find((version) => version.id === selectedVersionId)
     || selected?.versions[0]
+  const expansionBatch = storyExpansionBatches[0]
   const witnessComparisons = selected?.witnessComparisons || []
   const witnessProfile = selectedVersion?.witnessProfile
 
@@ -243,6 +270,36 @@ export default function StoryLibrary({
         </select>
         <span>{filtered.length} / {stories.length}</span>
       </section>
+
+      {expansionBatch && (
+        <section className="story-expansion-audit" aria-label={copy.expansionAudit}>
+          <header>
+            <div>
+              <span>{copy.expansionAudit}</span>
+              <strong>{language === 'zh' ? expansionBatch.titleZh : expansionBatch.titleEn}</strong>
+              <small>{copy.expansionPolicy}</small>
+            </div>
+            <b data-status={expansionBatch.status}>
+              {expansionStatusLabels[language]?.[expansionBatch.status] || expansionBatch.status}
+            </b>
+          </header>
+          <ul>
+            {expansionBatch.targets.map((target) => (
+              <li data-status={target.status} key={target.id}>
+                <span>{language === 'zh' ? target.civilizationNameZh || target.civilizationName : target.civilizationName}</span>
+                {target.resultStoryId ? (
+                  <button type="button" onClick={() => onSelectStory(target.resultStoryId)}>
+                    {language === 'zh' ? target.labelZh : target.labelEn}
+                  </button>
+                ) : (
+                  <strong>{language === 'zh' ? target.labelZh : target.labelEn}</strong>
+                )}
+                <small>{expansionStatusLabels[language]?.[target.status] || target.status}</small>
+              </li>
+            ))}
+          </ul>
+        </section>
+      )}
 
       <section className="story-route-strip" aria-label={copy.routes}>
         <header><div><strong>{copy.routes}</strong><span>{copy.routePolicy}</span></div><b>{readingRoutes.length}</b></header>

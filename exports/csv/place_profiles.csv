@@ -1,4 +1,5 @@
 entity_id,place_type,ancient_name,modern_name,country_code,latitude,longitude,date_range,builders,architecture_summary,excavation_summary,major_finds_summary,unesco_status,reality_status,evidence_grade
+monument.khmer.angkor_wat_churning_relief,ARCHITECTURAL_RELIEF,ចម្លាក់កូរសមុទ្រទឹកដោះ,Angkor Wat Churning of the Sea of Milk relief,KH,,,Angkorian period,,APSARA locates the in-situ relief in the southern section of Angkor Wat's eastern gallery.,,Material witness identified as the Churning of the Sea of Milk.,Within Angkor World Heritage property 668,REAL_ARCHAEOLOGICAL,OFFICIAL_HERITAGE_AUTHORITY
 museum.ugarit.baal_thunder_ao15775,MONUMENT,,,,,,,,,,,,REAL_ARCHAEOLOGICAL,UNASSESSED
 place.norse.mimisbrunnr,MYTHICAL_WELL,Mímisbrunnr,,,,,Mythic time,,,,,,MYTHICAL,TEXTUAL
 realm.egypt.duat,REALM,,,,,,,,,,,,MYTHICAL,UNASSESSED
@@ -6,7 +7,7 @@ realm.greek.tartarus,MYTHICAL_REALM,Τάρταρος,,,,,Mythic time,,,,,,MYTHIC
 realm.norse.valhalla,REALM,,,,,,,,,,,,MYTHICAL,UNASSESSED
 realm.sumerian.kur,REALM,,,,,,,,,,,,MYTHICAL,UNASSESSED
 site.bolivia.tiwanaku,ANCIENT_CITY,,,BO,,,,,,,,World Heritage,REAL_ARCHAEOLOGICAL,BASELINE_METADATA
-site.cambodia.angkor,TEMPLE_CITY,,,KH,,,,,,,,World Heritage,REAL_ARCHAEOLOGICAL,BASELINE_METADATA
+site.cambodia.angkor,TEMPLE_CITY,,,KH,,,"Khmer capitals and monuments, 9th–15th centuries CE",,Angkor Archaeological Park includes Angkor Wat and other Khmer monuments within World Heritage property 668.,,,World Heritage property 668,REAL_ARCHAEOLOGICAL,OFFICIAL_UNESCO
 site.celtic.groves_scope,COLLECTION_SCOPE,,,,,,,,,,,,MIXED,BASELINE_METADATA
 site.celtic.hillforts_scope,COLLECTION_SCOPE,,,,,,,,,,,,REAL_ARCHAEOLOGICAL,BASELINE_METADATA
 site.chile.rapa_nui,CULTURAL_LANDSCAPE,,,CL,,,,,,,,World Heritage,REAL_ARCHAEOLOGICAL,BASELINE_METADATA
@@ -70,6 +71,8 @@ site.italy.pompeii,BURIED_CITY,,,IT,,,,,,,,World Heritage,REAL_ARCHAEOLOGICAL,BA
 site.italy.rome,HISTORIC_CITY,,,IT,,,,,,,,World Heritage historic centre,REAL_HISTORIC,BASELINE_METADATA
 site.japan.kamigamo_jinja,LIVING_SHRINE,賀茂別雷神社,Kamigamo Jinja,JP,35.060528,135.753222,Late seventh century establishment; later reconstructions; continuing use,,Official heritage records distinguish the historical buildings from continuing shrine practice.,,,WORLD_HERITAGE_COMPONENT_688_001,REAL_SACRED,HIGH
 site.japan.shrines_scope,COLLECTION_SCOPE,,,JP,,,,,,,,,REAL_SACRED,BASELINE_METADATA
+site.japanese.atsuta_jingu,LIVING_SHRINE,熱田神宮,Atsuta Jingu,JP,,,,,Official public shrine account; no restricted precinct or regalia details collected.,,Kusanagi enshrinement tradition is recorded only at public-summary level.,,REAL_SACRED,OFFICIAL_PUBLIC_ACCOUNT
+site.khmer.angkor_wat,TEMPLE,អង្គរវត្ត,Angkor Wat,KH,,,Angkorian period,,Temple within the Angkor World Heritage property; the v0.28 story uses the eastern-gallery relief locator.,,In-situ Churning of the Sea of Milk bas-relief.,Part of Angkor World Heritage property 668,REAL_ARCHAEOLOGICAL,OFFICIAL_HERITAGE_AUTHORITY
 site.mexico.chichen_itza,ANCIENT_CITY,,,MX,,,,,,,,World Heritage 483,REAL_ARCHAEOLOGICAL,BASELINE_METADATA
 site.mexico.monte_alban,ANCIENT_CITY,,,MX,,,,,,,,World Heritage,REAL_ARCHAEOLOGICAL,BASELINE_METADATA
 site.mexico.palenque,ANCIENT_CITY,,,MX,,,,,,,,World Heritage,REAL_ARCHAEOLOGICAL,BASELINE_METADATA

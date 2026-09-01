@@ -9,6 +9,17 @@ event.greek.titanomachy,deity.greek.zeus,LEADER,Victory in the Hesiodic witness,
 event.greek.titanomachy,deity.greek.cronus,TITAN_LEADER,Defeat in the Hesiodic witness,claim.v050.theogony.cronus_participated_titanomachy
 event.greek.zeus_typhon_battle,creature.greek.typhon,OPPONENT,Defeated,claim.typhon.participated_battle
 event.greek.zeus_typhon_battle,deity.greek.zeus,OPPONENT,Victorious,claim.zeus.participated_typhon
+event.japanese.kusanagi.atsuta_enshrinement,hero.japanese.yamato_takeru,TRANSMISSION_FIGURE,Linked to the official shrine's account.,claim.v0280.japan.yamato_atsuta_event
+event.japanese.kusanagi.atsuta_enshrinement,weapon.japanese.kusanagi,SACRED_ARTIFACT,Central to the public enshrinement account.,claim.v0280.japan.kusanagi_atsuta_event
+event.japanese.kusanagi.atsuta_enshrinement,site.japanese.atsuta_jingu,DESTINATION,Officially named shrine context.,claim.v0280.japan.kusanagi_worshipped_atsuta
+event.japanese.kusanagi.discovery,deity.japanese.susanoo,ACTOR,Defeats the serpent and finds the sword.,claim.v0280.japan.susanoo_discovery_event
+event.japanese.kusanagi.discovery,monster.japanese.yamata_no_orochi,OPPONENT,Defeated in the academic narrative summary.,claim.v0280.japan.orochi_discovery_event
+event.japanese.kusanagi.discovery,weapon.japanese.kusanagi,DISCOVERED_ARTIFACT,Found in the serpent's tail in the narrative.,claim.v0280.japan.kusanagi_discovery_event
+event.khmer.angkor_wat_churning_scene,monument.khmer.angkor_wat_churning_relief,MATERIAL_WITNESS,In-situ relief representing the scene.,claim.v0280.khmer.relief_depicts_churning
+event.khmer.angkor_wat_churning_scene,site.khmer.angkor_wat,REAL_SITE,Holds the material witness in its gallery.,claim.v0280.khmer.relief_part_of_angkor_wat
+event.kiche.hero_twins.seven_macaw,hero.kiche.hunahpu,HERO,Acts with Xbalanque in the public episode.,claim.v0280.maya.hunahpu_participates
+event.kiche.hero_twins.seven_macaw,hero.kiche.xbalanque,HERO,Acts with Hunahpu in the public episode.,claim.v0280.maya.xbalanque_participates
+event.kiche.hero_twins.seven_macaw,monster.kiche.seven_macaw,OPPONENT,Defeated in the public overview.,claim.v0280.maya.seven_macaw_participates
 event.norse.forging_divine_treasures,being.norse.brokkr,SMITH_AND_BELLOWS,Treasures completed,claim.brokkr.participated_forging
 event.norse.forging_divine_treasures,being.norse.eitri,SMITH,Treasures completed,claim.eitri.participated_forging
 event.norse.ragnarok,deity.norse.odin,PARTICIPANT,,claim.norse.odin_participates_ragnarok

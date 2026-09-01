@@ -1,5 +1,6 @@
 id,generated_at,baseline_label,summary
 coverage.20260810.baseline,2026-08-10T00:00:00Z,0.1.0 first-round seed baseline,当前公开可发现资料的阶段性知识基线已经建立，并且系统可以继续扩张。
+coverage.dev.0.28.0-dev-global-story-expansion-batch-1,2026-09-01T10:59:46Z,0.28.0-dev-global-story-expansion-batch-1,当前公开可发现资料的阶段性知识基线已经建立，并且系统可以继续扩张。
 coverage.release.0.10.0,2026-08-23T03:54:57Z,0.10.0-japanese-thunder-local-dossiers-20260823,当前公开可发现资料的阶段性知识基线已经建立，并且系统可以继续扩张。
 coverage.release.0.11.0,2026-08-24T03:38:52Z,0.11.0-ptah-sokar-osiris-objects-20260824,当前公开可发现资料的阶段性知识基线已经建立，并且系统可以继续扩张。
 coverage.release.0.12.0,2026-08-25T03:17:09Z,0.12.0-ra-atum-witness-layers-20260825,当前公开可发现资料的阶段性知识基线已经建立，并且系统可以继续扩张。
@@ -25,4 +26,4 @@ coverage.release.0.7.0,2026-08-15T03:27:34Z,0.7.0-egyptian-solar-composites-2026
 coverage.release.0.8.0,2026-08-21T03:32:30Z,0.8.0-eleusis-evidence-layers-20260821,当前公开可发现资料的阶段性知识基线已经建立，并且系统可以继续扩张。
 coverage.release.0.9.0,2026-08-22T03:45:03Z,0.9.0-perses-homonym-audit-20260822,当前公开可发现资料的阶段性知识基线已经建立，并且系统可以继续扩张。
 coverage.release.v0.26.0,2026-08-30T03:23:02Z,0.26.0,当前公开可发现资料的阶段性知识基线已经建立，并且系统可以继续扩张。
-coverage.release.v0.27.0,2026-09-01T00:02:42Z,0.27.0,当前公开可发现资料的阶段性知识基线已经建立，并且系统可以继续扩张。
+coverage.release.v0.27.0,2026-09-01T06:35:28Z,0.27.0,当前公开可发现资料的阶段性知识基线已经建立，并且系统可以继续扩张。

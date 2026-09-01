@@ -247,6 +247,10 @@
 {"association_role":"ORIGIN","certainty":"SUPPORTED","civilization_id":"civ.greek","entity_id":"event.greek.persephone_abduction","notes":"Registered within the ancient Greek textual baseline"}
 {"association_role":"ORIGIN_OR_ATTESTATION","certainty":"SUPPORTED","civilization_id":"civ.greek","entity_id":"event.greek.titanomachy","notes":null}
 {"association_role":"ORIGIN","certainty":"SUPPORTED","civilization_id":"civ.greek","entity_id":"event.greek.zeus_typhon_battle","notes":"Text-tradition association, not historical existence"}
+{"association_role":"LIVING_TRADITION","certainty":"SUPPORTED","civilization_id":"civ.japanese_shinto","entity_id":"event.japanese.kusanagi.atsuta_enshrinement","notes":"Current official public account."}
+{"association_role":"TEXTUAL_ATTESTATION","certainty":"SUPPORTED","civilization_id":"civ.japanese_shinto","entity_id":"event.japanese.kusanagi.discovery","notes":"Academic source scope."}
+{"association_role":"MATERIAL_WITNESS","certainty":"SUPPORTED","civilization_id":"civ.khmer","entity_id":"event.khmer.angkor_wat_churning_scene","notes":"Khmer representation kept distinct from textual versions."}
+{"association_role":"KICHE_NARRATIVE","certainty":"SUPPORTED","civilization_id":"civ.maya","entity_id":"event.kiche.hero_twins.seven_macaw","notes":"Not generalized to all Maya traditions."}
 {"association_role":"ORIGIN","certainty":"SUPPORTED","civilization_id":"civ.norse","entity_id":"event.norse.forging_divine_treasures","notes":"Text-tradition association, not historical existence"}
 {"association_role":"ORIGIN_OR_ATTESTATION","certainty":"SUPPORTED","civilization_id":"civ.norse","entity_id":"event.norse.ragnarok","notes":null}
 {"association_role":"ROYAL_ITINERARY_RECONSTRUCTION","certainty":"SUPPORTED","civilization_id":"civ.persian","entity_id":"event.persia.darius_statue_transfer_egypt_susa","notes":"Transfer attributed to Xerxes"}
@@ -287,6 +291,9 @@
 {"association_role":"ORIGIN","certainty":"SUPPORTED","civilization_id":"civ.greek","entity_id":"institution.nam_athens","notes":"v0.8.0 source-located Greek baseline"}
 {"association_role":"TEXT_OR_MATERIAL_RECEPTION_CONTEXT","certainty":"SUPPORTED","civilization_id":"civ.buddhist_himalayan","entity_id":"institution.rubin_museum","notes":"v0.22 scoped association"}
 {"association_role":"JAPANESE_TRADITION_CONTEXT","certainty":"SUPPORTED","civilization_id":"civ.japanese_shinto","entity_id":"modern_work.japan.hoitsu_wind_thunder_version","notes":"v0.18 scoped association"}
+{"association_role":"TEXTUAL_ATTESTATION","certainty":"SUPPORTED","civilization_id":"civ.japanese_shinto","entity_id":"monster.japanese.yamata_no_orochi","notes":"Academic entry cites Kojiki and Nihongi layers."}
+{"association_role":"KICHE_NARRATIVE","certainty":"SUPPORTED","civilization_id":"civ.maya","entity_id":"monster.kiche.seven_macaw","notes":"K'iche'-attributed public source scope."}
+{"association_role":"MATERIAL_WITNESS","certainty":"CONFIRMED","civilization_id":"civ.khmer","entity_id":"monument.khmer.angkor_wat_churning_relief","notes":"APSARA gallery locator."}
 {"association_role":"ORIGIN_OR_ATTESTATION","certainty":"SUPPORTED","civilization_id":"civ.assyrian","entity_id":"museum.babylon.flood_tablet_k3375","notes":null}
 {"association_role":"ORIGIN","certainty":"SUPPORTED","civilization_id":"civ.egyptian","entity_id":"museum.bm.khepri_hymn_stela_ea826","notes":"v0.7.0 source-located Egyptian baseline"}
 {"association_role":"TEXT_OR_MATERIAL_RECEPTION_CONTEXT","certainty":"SUPPORTED","civilization_id":"civ.buddhist_himalayan","entity_id":"museum.bm.vajra_1948_0716_11_b","notes":"v0.22 scoped association"}
@@ -383,6 +390,8 @@
 {"association_role":"ORIGIN_OR_ATTESTATION","certainty":"SUPPORTED","civilization_id":"civ.roman","entity_id":"site.italy.rome","notes":null}
 {"association_role":"ORIGIN","certainty":"SUPPORTED","civilization_id":"civ.japanese_shinto","entity_id":"site.japan.kamigamo_jinja","notes":"v0.10.0 source-scoped Japanese dossier"}
 {"association_role":"ORIGIN_OR_ATTESTATION","certainty":"SUPPORTED","civilization_id":"civ.japanese_shinto","entity_id":"site.japan.shrines_scope","notes":null}
+{"association_role":"LIVING_SACRED_SITE","certainty":"CONFIRMED","civilization_id":"civ.japanese_shinto","entity_id":"site.japanese.atsuta_jingu","notes":"Official shrine public account."}
+{"association_role":"ARCHAEOLOGICAL_CONTEXT","certainty":"CONFIRMED","civilization_id":"civ.khmer","entity_id":"site.khmer.angkor_wat","notes":"UNESCO property 668 and APSARA."}
 {"association_role":"ORIGIN_OR_ATTESTATION","certainty":"SUPPORTED","civilization_id":"civ.maya","entity_id":"site.mexico.chichen_itza","notes":null}
 {"association_role":"ORIGIN_OR_ATTESTATION","certainty":"SUPPORTED","civilization_id":"civ.zapotec","entity_id":"site.mexico.monte_alban","notes":null}
 {"association_role":"ORIGIN_OR_ATTESTATION","certainty":"SUPPORTED","civilization_id":"civ.maya","entity_id":"site.mexico.palenque","notes":null}

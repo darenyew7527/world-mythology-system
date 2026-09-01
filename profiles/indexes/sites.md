@@ -60,9 +60,12 @@
 | site.india.varanasi | 瓦拉纳西 | Varanasi | PLACE | 印度教传统 | REAL_SACRED | — |
 | site.peru.cusco | 库斯科 | Cusco | ARCHAEOLOGICAL_SITE | 印加 | REAL_HISTORIC | World Heritage |
 | site.peru.machu_picchu | 马丘比丘 | Machu Picchu | ARCHAEOLOGICAL_SITE | 印加 | REAL_ARCHAEOLOGICAL | World Heritage |
+| site.japanese.atsuta_jingu | 热田神宫 | Atsuta Jingu | TEMPLE | 日本神道 | REAL_SACRED | — |
 | site.japan.kamigamo_jinja | 贺茂别雷神社（上贺茂神社） | Kamo Wakeikazuchi Jinja (Kamigamo Jinja) | ARCHAEOLOGICAL_SITE | 日本神道 | REAL_SACRED | WORLD_HERITAGE_COMPONENT_688_001 |
 | site.japan.shrines_scope | 日本主要神社研究入口 | Major Japanese shrines research scope | TEMPLE | 日本神道 | REAL_SACRED | — |
-| site.cambodia.angkor | 吴哥 | Angkor | ARCHAEOLOGICAL_SITE | 柬埔寨传统 | REAL_ARCHAEOLOGICAL | World Heritage |
+| site.cambodia.angkor | 吴哥 | Angkor | ARCHAEOLOGICAL_SITE | 柬埔寨传统 | REAL_ARCHAEOLOGICAL | World Heritage property 668 |
+| site.khmer.angkor_wat | 吴哥寺 | Angkor Wat | ARCHAEOLOGICAL_SITE | 柬埔寨传统 | REAL_ARCHAEOLOGICAL | Part of Angkor World Heritage property 668 |
+| monument.khmer.angkor_wat_churning_relief | 吴哥寺“乳海搅拌”浮雕 | Angkor Wat Churning of the Sea of Milk relief | MONUMENT | 柬埔寨传统 | REAL_ARCHAEOLOGICAL | Within Angkor World Heritage property 668 |
 | site.mexico.chichen_itza | 奇琴伊察 | Chichen-Itza | ARCHAEOLOGICAL_SITE | 玛雅 | REAL_ARCHAEOLOGICAL | World Heritage 483 |
 | site.mexico.palenque | 帕伦克 | Palenque | ARCHAEOLOGICAL_SITE | 玛雅 | REAL_ARCHAEOLOGICAL | World Heritage |
 | site.guatemala.tikal | 蒂卡尔 | Tikal | ARCHAEOLOGICAL_SITE | 玛雅 | REAL_ARCHAEOLOGICAL | World Heritage 64 |

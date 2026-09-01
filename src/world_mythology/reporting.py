@@ -15,6 +15,23 @@ def _md(value: object | None) -> str:
     return str(value).replace("|", "\\|").replace("\n", " ")
 
 
+def _data_context(conn) -> dict[str, object]:
+    release = conn.execute(
+        "SELECT id,data_version,built_at FROM dataset_releases "
+        "ORDER BY built_at DESC,id DESC LIMIT 1"
+    ).fetchone()
+    row = conn.execute(
+        "SELECT value FROM project_metadata WHERE key='data_version'"
+    ).fetchone()
+    current_version = row[0] if row else release["data_version"]
+    is_sealed_release = bool(release and current_version == release["data_version"])
+    return {
+        "current_version": current_version,
+        "is_sealed_release": is_sealed_release,
+        "latest_release": release,
+    }
+
+
 def _write_table(path: Path, title: str, headers: list[str], rows: list[list[object]]) -> None:
     lines = [f"# {title}", "", "| " + " | ".join(headers) + " |", "|" + "|".join("---" for _ in headers) + "|"]
     lines.extend("| " + " | ".join(_md(value) for value in row) + " |" for row in rows)
@@ -340,6 +357,12 @@ def _coverage(conn) -> tuple[dict[str, float], str]:
     metrics["story_versions_with_claims"] = float(conn.execute(
         "SELECT COUNT(DISTINCT story_version_id) FROM story_claim_links"
     ).fetchone()[0])
+    metrics["story_expansion_batches"] = float(conn.execute(
+        "SELECT COUNT(*) FROM story_expansion_batches"
+    ).fetchone()[0])
+    metrics["story_expansion_targets"] = float(conn.execute(
+        "SELECT COUNT(*) FROM story_expansion_targets"
+    ).fetchone()[0])
     # Sparse-field metrics expose the actual research depth instead of treating
     # an empty profile shell as completed content.
     metrics["deity_profiles_with_domains"] = float(conn.execute(
@@ -371,14 +394,22 @@ def _coverage(conn) -> tuple[dict[str, float], str]:
 
 def _write_coverage(conn, report_dir: Path) -> dict[str, float]:
     metrics, summary = _coverage(conn)
-    release = conn.execute(
-        "SELECT id,data_version,built_at FROM dataset_releases ORDER BY built_at DESC,id DESC LIMIT 1"
-    ).fetchone()
-    report_id = f"coverage.{release['id']}"
+    context = _data_context(conn)
+    current_version = str(context["current_version"])
+    release = context["latest_release"]
+    safe_version = "".join(
+        character if character.isalnum() or character in ".-_" else "_"
+        for character in current_version
+    )
+    report_id = (
+        f"coverage.{release['id']}"
+        if context["is_sealed_release"]
+        else f"coverage.dev.{safe_version}"
+    )
     generated_at = datetime.now(timezone.utc).isoformat(timespec="seconds").replace("+00:00", "Z")
     conn.execute("DELETE FROM coverage_reports WHERE id=?", (report_id,))
     conn.execute("INSERT INTO coverage_reports(id,generated_at,baseline_label,summary) VALUES(?,?,?,?)",
-                 (report_id, generated_at, release["data_version"], summary))
+                 (report_id, generated_at, current_version, summary))
     for key, value in sorted(metrics.items()):
         denominator_keys = {
             "deity_profiles_with_domains": "deity_profiles",
@@ -403,8 +434,14 @@ def _write_coverage(conn, report_dir: Path) -> dict[str, float]:
             notes = "Populated or evidence-linked records / current records in this registered profile collection."
         conn.execute("INSERT INTO coverage_metrics(report_id,metric_key,metric_value,denominator,notes) VALUES(?,?,?,?,?)",
                      (report_id, key, value, denominator, notes))
+    version_line = f"数据版本：`{current_version}`；生成时间：`{generated_at}`。"
+    if not context["is_sealed_release"]:
+        version_line += (
+            f" 当前为开发快照；最新封版发布为 `{release['data_version']}`"
+            f"（`{release['id']}`）。"
+        )
     lines = ["# 阶段覆盖报告 / Coverage Report", "", summary, "",
-             f"数据版本：`{release['data_version']}`；生成时间：`{generated_at}`。", "",
+             version_line, "",
              "> 所有分母只指当前登记基线；系统不会计算或宣称“全球神话完成百分比”。", "",
              "| Metric | Value | Denominator | Meaning |", "|---|---:|---:|---|"]
     for row in conn.execute("SELECT metric_key,metric_value,denominator,notes FROM coverage_metrics WHERE report_id=? ORDER BY metric_key", (report_id,)):
@@ -529,9 +566,7 @@ def generate_reports(db_path: Path | str = DEFAULT_DB_PATH) -> dict:
     finally:
         conn.close()
     with connect(db_path, readonly=True) as read_conn:
-        release = read_conn.execute(
-            "SELECT id,data_version,built_at FROM dataset_releases ORDER BY built_at DESC,id DESC LIMIT 1"
-        ).fetchone()
+        context = _data_context(read_conn)
         next_round = [row[0] for row in read_conn.execute(
             """SELECT target_label FROM collection_queue
                WHERE status NOT IN ('BASELINE_COMPLETE','EXPAND_LATER')
@@ -541,9 +576,15 @@ def generate_reports(db_path: Path | str = DEFAULT_DB_PATH) -> dict:
                         id LIMIT 5"""
         )]
     generated_at = datetime.now(timezone.utc).isoformat(timespec="seconds").replace("+00:00", "Z")
+    current_version = str(context["current_version"])
+    release = context["latest_release"]
     checkpoint = {
-        "checkpoint": f"WORLD_MYTHOLOGY_{release['data_version'].upper().replace('-', '_').replace('.', '_')}",
-        "release_id": release["id"],
+        "checkpoint": f"WORLD_MYTHOLOGY_{current_version.upper().replace('-', '_').replace('.', '_')}",
+        "data_version": current_version,
+        "snapshot_status": "SEALED_RELEASE" if context["is_sealed_release"] else "DEVELOPMENT",
+        "release_id": release["id"] if context["is_sealed_release"] else None,
+        "latest_sealed_release_id": release["id"],
+        "latest_sealed_data_version": release["data_version"],
         "generated_at": generated_at,
         "status": "STAGED_EXPANDABLE_BASELINE",
         "database_sha256": sha256_file(db_path),

@@ -279,6 +279,7 @@ export default function App() {
           onSelectStory={selectStory}
           readingRoutes={data.readingRoutes || []}
           selectedStoryId={selectedStoryId}
+          storyExpansionBatches={data.storyExpansionBatches || []}
           stories={data.stories || []}
         />
       )}

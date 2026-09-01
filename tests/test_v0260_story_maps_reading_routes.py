@@ -88,8 +88,8 @@ class StoryMapsReadingRoutesTests(unittest.TestCase):
     def test_public_snapshot_and_ui_expose_routes_without_quotes(self):
         release_ids = {release["id"] for release in self.snapshot["analytics"]["releaseHistory"]}
         self.assertIn("release.v0.26.0", release_ids)
-        self.assertEqual(self.snapshot["meta"]["counts"]["stories"], 23)
-        self.assertEqual(self.snapshot["meta"]["counts"]["storyEventNodes"], 77)
+        self.assertGreaterEqual(self.snapshot["meta"]["counts"]["stories"], 23)
+        self.assertGreaterEqual(self.snapshot["meta"]["counts"]["storyEventNodes"], 77)
         self.assertEqual(len(self.snapshot["readingRoutes"]), 6)
         serialized = json.dumps(self.snapshot, ensure_ascii=False)
         self.assertNotIn("shortQuote", serialized)

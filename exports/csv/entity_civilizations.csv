@@ -248,6 +248,10 @@ event.greek.medea_restores_aeetes,civ.greek,ORIGIN,SUPPORTED,v0.9.0 source-locat
 event.greek.persephone_abduction,civ.greek,ORIGIN,SUPPORTED,Registered within the ancient Greek textual baseline
 event.greek.titanomachy,civ.greek,ORIGIN_OR_ATTESTATION,SUPPORTED,
 event.greek.zeus_typhon_battle,civ.greek,ORIGIN,SUPPORTED,"Text-tradition association, not historical existence"
+event.japanese.kusanagi.atsuta_enshrinement,civ.japanese_shinto,LIVING_TRADITION,SUPPORTED,Current official public account.
+event.japanese.kusanagi.discovery,civ.japanese_shinto,TEXTUAL_ATTESTATION,SUPPORTED,Academic source scope.
+event.khmer.angkor_wat_churning_scene,civ.khmer,MATERIAL_WITNESS,SUPPORTED,Khmer representation kept distinct from textual versions.
+event.kiche.hero_twins.seven_macaw,civ.maya,KICHE_NARRATIVE,SUPPORTED,Not generalized to all Maya traditions.
 event.norse.forging_divine_treasures,civ.norse,ORIGIN,SUPPORTED,"Text-tradition association, not historical existence"
 event.norse.ragnarok,civ.norse,ORIGIN_OR_ATTESTATION,SUPPORTED,
 event.persia.darius_statue_transfer_egypt_susa,civ.persian,ROYAL_ITINERARY_RECONSTRUCTION,SUPPORTED,Transfer attributed to Xerxes
@@ -288,6 +292,9 @@ institution.japan.tokyo_national_museum,civ.japanese_shinto,JAPANESE_TRADITION_C
 institution.nam_athens,civ.greek,ORIGIN,SUPPORTED,v0.8.0 source-located Greek baseline
 institution.rubin_museum,civ.buddhist_himalayan,TEXT_OR_MATERIAL_RECEPTION_CONTEXT,SUPPORTED,v0.22 scoped association
 modern_work.japan.hoitsu_wind_thunder_version,civ.japanese_shinto,JAPANESE_TRADITION_CONTEXT,SUPPORTED,v0.18 scoped association
+monster.japanese.yamata_no_orochi,civ.japanese_shinto,TEXTUAL_ATTESTATION,SUPPORTED,Academic entry cites Kojiki and Nihongi layers.
+monster.kiche.seven_macaw,civ.maya,KICHE_NARRATIVE,SUPPORTED,K'iche'-attributed public source scope.
+monument.khmer.angkor_wat_churning_relief,civ.khmer,MATERIAL_WITNESS,CONFIRMED,APSARA gallery locator.
 museum.babylon.flood_tablet_k3375,civ.assyrian,ORIGIN_OR_ATTESTATION,SUPPORTED,
 museum.bm.khepri_hymn_stela_ea826,civ.egyptian,ORIGIN,SUPPORTED,v0.7.0 source-located Egyptian baseline
 museum.bm.vajra_1948_0716_11_b,civ.buddhist_himalayan,TEXT_OR_MATERIAL_RECEPTION_CONTEXT,SUPPORTED,v0.22 scoped association
@@ -384,6 +391,8 @@ site.italy.pompeii,civ.roman,ORIGIN_OR_ATTESTATION,SUPPORTED,
 site.italy.rome,civ.roman,ORIGIN_OR_ATTESTATION,SUPPORTED,
 site.japan.kamigamo_jinja,civ.japanese_shinto,ORIGIN,SUPPORTED,v0.10.0 source-scoped Japanese dossier
 site.japan.shrines_scope,civ.japanese_shinto,ORIGIN_OR_ATTESTATION,SUPPORTED,
+site.japanese.atsuta_jingu,civ.japanese_shinto,LIVING_SACRED_SITE,CONFIRMED,Official shrine public account.
+site.khmer.angkor_wat,civ.khmer,ARCHAEOLOGICAL_CONTEXT,CONFIRMED,UNESCO property 668 and APSARA.
 site.mexico.chichen_itza,civ.maya,ORIGIN_OR_ATTESTATION,SUPPORTED,
 site.mexico.monte_alban,civ.zapotec,ORIGIN_OR_ATTESTATION,SUPPORTED,
 site.mexico.palenque,civ.maya,ORIGIN_OR_ATTESTATION,SUPPORTED,

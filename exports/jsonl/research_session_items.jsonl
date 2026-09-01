@@ -525,3 +525,9 @@
 {"action":"COMPARE","item_id":"story.greek.aphrodite_origins","item_kind":"STORY","result":"Four asymmetric comparison rows preserve Theogony and Iliad witnesses.","session_id":"session.20260831.v0270"}
 {"action":"COMPARE","item_id":"story.norse.ask_embla","item_kind":"STORY","result":"Shared names, divergent triads and unmodeled gift terms exposed.","session_id":"session.20260831.v0270"}
 {"action":"CREATE","item_id":"conflict.v0270.norse.ask_embla_creator_triads","item_kind":"CONFLICT","result":"Poetic and prose creator triads retained as source-level variants.","session_id":"session.20260831.v0270"}
+{"action":"CREATE","item_id":"story_expansion_batches","item_kind":"SCHEMA","result":"Fault-isolated batch and target audit ledger.","session_id":"session.20260901.v0280_batch1"}
+{"action":"CREATE","item_id":"story.maya.hero_twins_seven_macaw","item_kind":"STORY","result":"Bounded public K'iche'-context episode with attribution and access policy.","session_id":"session.20260901.v0280_batch1"}
+{"action":"CREATE","item_id":"story.japanese.kusanagi_transmission","item_kind":"STORY","result":"Academic ancient-text synopsis and official living-shrine account kept as separate versions.","session_id":"session.20260901.v0280_batch1"}
+{"action":"CREATE","item_id":"story.khmer.angkor_wat_churning_relief","item_kind":"STORY","result":"APSARA-located Khmer material witness with UNESCO site context.","session_id":"session.20260901.v0280_batch1"}
+{"action":"BLOCK","item_id":"storytarget.v0280.01.maori","item_kind":"PERMISSION_REVIEW","result":"No named iwi/hapū publication and scoped authority yet.","session_id":"session.20260901.v0280_batch1"}
+{"action":"BLOCK","item_id":"storytarget.v0280.01.yoruba","item_kind":"PERMISSION_REVIEW","result":"Safeguarding metadata is not permission to collect restricted Ifá content.","session_id":"session.20260901.v0280_batch1"}

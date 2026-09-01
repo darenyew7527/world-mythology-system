@@ -83,6 +83,7 @@ def export_all(db_path: Path | str = DEFAULT_DB_PATH, export_root: Path | str | 
     generated: list[Path] = []
     counts: dict[str, int] = {}
     release_metadata: dict = {}
+    project_metadata: dict[str, str] = {}
     conn = connect(db_path, readonly=True)
     try:
         tables = persistent_tables(conn)
@@ -99,17 +100,31 @@ def export_all(db_path: Path | str = DEFAULT_DB_PATH, export_root: Path | str | 
             generated.extend([jsonl_path, csv_path])
         generated.extend(_write_graph(conn, graph_dir))
         release_row = conn.execute(
-            """SELECT schema_version,data_version,git_commit,built_at
+            """SELECT id,schema_version,data_version,git_commit,built_at
                FROM dataset_releases ORDER BY built_at DESC,id DESC LIMIT 1"""
         ).fetchone()
         if release_row:
             release_metadata = dict(release_row)
+        project_metadata = {
+            row["key"]: row["value"]
+            for row in conn.execute(
+                "SELECT key,value FROM project_metadata "
+                "WHERE key IN ('project_version','data_version','schema_version','project_status')"
+            )
+        }
     finally:
         conn.close()
     manifest = {
         "format_version": 2,
         "database": str(Path(db_path).name),
         "database_sha256": sha256_file(db_path),
+        "snapshot_status": (
+            "SEALED_RELEASE"
+            if project_metadata.get("data_version") == release_metadata.get("data_version")
+            else "DEVELOPMENT"
+        ),
+        "project": project_metadata,
+        "latest_sealed_release": release_metadata,
         "release": release_metadata,
         "tables": tables,
         "excluded_object_types": ["view", "sqlite_internal"],

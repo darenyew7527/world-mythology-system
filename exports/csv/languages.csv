@@ -10,6 +10,7 @@ lang.gle,Irish,爱尔兰语,gle,Latin/Ogham,,
 lang.grc,Ancient Greek,古希腊语,grc,Greek,,
 lang.haw,Hawaiian,夏威夷语,haw,Latin,,
 lang.jpn,Japanese,日语,jpn,Kanji/Kana,,
+lang.khm,Khmer,高棉语,khm,Khmer,Angkorian and modern Khmer continuum,Material witnesses and modern heritage-authority metadata must remain distinct.
 lang.lat,Latin,拉丁语,lat,Latin,,
 lang.lzh,Classical Chinese,文言文,lzh,Han,,
 lang.mai,Māori,毛利语,mri,Latin,,
@@ -19,6 +20,7 @@ lang.non,Old Norse,古诺斯语,non,Runic/Latin,,
 lang.ojp,Old Japanese,上代日语,ojp,Man'yōgana,,
 lang.pal,Middle Persian,中古波斯语,pal,Pahlavi,,
 lang.peo,Old Persian,古波斯语,peo,Old Persian cuneiform,Achaemenid,Distinct from Middle Persian lang.pal.
+lang.quc,K'iche',基切语,quc,Latin,Colonial manuscript witness and living-language continuum,Specific K'iche' attribution is preferred over the generic Mayan-language umbrella when the source supports it.
 lang.san,Sanskrit,梵语,san,Multiple,,
 lang.sux,Sumerian,苏美尔语,sux,Cuneiform,,
 lang.uga,Ugaritic,乌加里特语,uga,Ugaritic cuneiform,,

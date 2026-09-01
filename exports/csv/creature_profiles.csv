@@ -16,3 +16,5 @@ creature.norse.gullinbursti,DIVINE_BEAST,"{""bristles"":""golden""}","[""shines 
 creature.norse.jormungandr,DRAGON,{},[],[],,,
 creature.vedic.vritra,RIGVEDIC SERPENT OPPONENT,"{""witness_designation"":""ahi / serpent""}","[""阻水语境（RV 1.32）""]","[""在 RV 1.32 中被因陀罗以金刚杵击杀""]",,Witness-specific opponent in Rigveda 1.32.,Killed by Indra in the registered hymn narrative.
 deity.babylonian.tiamat,DRAGON,{},[],[],,,
+monster.japanese.yamata_no_orochi,MYTHIC_SERPENT,{},[],[],,Registered from the Kokugakuin academic summary of Kojiki and Nihongi narrative layers.,Defeated by Susanoo in the source-scoped narrative; Kusanagi is then found in the serpent's tail.
+monster.kiche.seven_macaw,NAMED_MYTHIC_OPPONENT,{},[],[],,Registered only from the public Smithsonian K'iche'-attributed Hero Twins overview.,The public overview says the Hero Twins defeat Seven Macaw; no larger cycle is inferred here.

@@ -94,7 +94,7 @@
 | deity.irish.lugh | 鲁格 | Lugh | DEITY | 爱尔兰 | PARTIAL | UNVERIFIED |
 | deity.irish.dagda | 达格达 | The Dagda | DEITY | 爱尔兰 | PARTIAL | UNVERIFIED |
 | deity.irish.morrigan | 莫莉甘 | The Morrígan | DEITY | 爱尔兰 | PARTIAL | UNVERIFIED |
-| deity.japanese.amaterasu | 天照大神 | Amaterasu | DEITY | 日本神道 | PARTIAL | UNVERIFIED |
+| deity.japanese.amaterasu | 天照大神 | Amaterasu | DEITY | 日本神道 | PARTIAL | SOURCE_BACKED |
 | deity.japanese.fujin | 风神 | Fujin | DEITY | 日本神道 | PARTIAL | PARTIAL |
 | deity.japanese.fusuikazuchi | 伏雷 | Fusuikazuchi | DEITY | 日本神道 | PARTIAL | SOURCE_BACKED |
 | deity.japanese.honoikazuchi | 火雷 | Honoikazuchi | DEITY | 日本神道 | PARTIAL | SOURCE_BACKED |
@@ -109,7 +109,7 @@
 | deity.japanese.ooikazuchi | 大雷 | Ooikazuchi | DEITY | 日本神道 | PARTIAL | SOURCE_BACKED |
 | deity.japanese.raijin | 雷神 | Raijin | DEITY | 日本神道 | CONFLICT | PARTIAL |
 | deity.japanese.sakuikazuchi | 析雷 | Sakuikazuchi | DEITY | 日本神道 | PARTIAL | SOURCE_BACKED |
-| deity.japanese.susanoo | 须佐之男 | Susanoo | DEITY | 日本神道 | PARTIAL | UNVERIFIED |
+| deity.japanese.susanoo | 须佐之男 | Susanoo | DEITY | 日本神道 | PARTIAL | SOURCE_BACKED |
 | deity.japanese.takemikazuchi | 建御雷 | Takemikazuchi | DEITY | 日本神道 | CONFLICT | CONFLICTING |
 | deity.japanese.tamayorihime_kamo | 玉依姬（贺茂传统） | Tamayorihime (Kamo tradition) | DEITY | 日本神道 | PARTIAL | SOURCE_BACKED |
 | deity.japanese.tsuchiikazuchi | 土雷 | Tsuchiikazuchi | DEITY | 日本神道 | PARTIAL | SOURCE_BACKED |

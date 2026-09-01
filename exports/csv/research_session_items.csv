@@ -526,3 +526,9 @@ session.20260831.v0270,SCHEMA,story_witness_comparisons,CREATE,Section-level com
 session.20260831.v0270,STORY,story.greek.aphrodite_origins,COMPARE,Four asymmetric comparison rows preserve Theogony and Iliad witnesses.
 session.20260831.v0270,STORY,story.norse.ask_embla,COMPARE,"Shared names, divergent triads and unmodeled gift terms exposed."
 session.20260831.v0270,CONFLICT,conflict.v0270.norse.ask_embla_creator_triads,CREATE,Poetic and prose creator triads retained as source-level variants.
+session.20260901.v0280_batch1,SCHEMA,story_expansion_batches,CREATE,Fault-isolated batch and target audit ledger.
+session.20260901.v0280_batch1,STORY,story.maya.hero_twins_seven_macaw,CREATE,Bounded public K'iche'-context episode with attribution and access policy.
+session.20260901.v0280_batch1,STORY,story.japanese.kusanagi_transmission,CREATE,Academic ancient-text synopsis and official living-shrine account kept as separate versions.
+session.20260901.v0280_batch1,STORY,story.khmer.angkor_wat_churning_relief,CREATE,APSARA-located Khmer material witness with UNESCO site context.
+session.20260901.v0280_batch1,PERMISSION_REVIEW,storytarget.v0280.01.maori,BLOCK,No named iwi/hapū publication and scoped authority yet.
+session.20260901.v0280_batch1,PERMISSION_REVIEW,storytarget.v0280.01.yoruba,BLOCK,Safeguarding metadata is not permission to collect restricted Ifá content.

@@ -1,0 +1,2 @@
+id,version_label,title_zh,title_en,scope_note,continuation_policy,status,started_at,completed_at
+storybatch.v0280.01,0.28.0-dev-global-story-expansion-batch-1,v0.28 全球故事扩张首批,v0.28 Global Story Expansion — Batch 1,"Three source-backed stories start the batch; China and India remain queued, while Māori and Yorùbá content expansion is permission-gated.","Each target commits independently. BLOCKED_PERMISSION, DEFERRED or FAILED_VALIDATION rows remain audited and never erase completed targets.",IN_PROGRESS,2026-09-01T06:30:00Z,

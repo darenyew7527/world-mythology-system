@@ -7,6 +7,8 @@
 | creature.greek.cyclopes_hesiodic | 赫西俄德传统独眼巨人 | Hesiodic Cyclopes | GIANT | 古希腊 | DISCOVERED | SOURCE_BACKED |
 | creature.greek.typhon | 提丰 | Typhon | MONSTER | 古希腊 | PARTIAL | SOURCE_BACKED |
 | deity.babylonian.tiamat | 提亚马特 | Tiamat | PRIMORDIAL_DEITY | 巴比伦 | PARTIAL | SOURCE_BACKED |
+| monster.japanese.yamata_no_orochi | 八岐大蛇 | Yamata no Orochi | MONSTER | 日本神道 | PARTIAL | SOURCE_BACKED |
+| monster.kiche.seven_macaw | 七金刚鹦鹉 | Seven Macaw | MONSTER | 玛雅 | PARTIAL | SOURCE_BACKED |
 | being.norse.bestla | 贝斯特拉 | Bestla | GIANT | 北欧 | PARTIAL | SOURCE_BACKED |
 | being.norse.brokkr | 布洛克 | Brokkr | DWARF | 北欧 | PARTIAL | SOURCE_BACKED |
 | being.norse.eitri | 艾特里 | Eitri | DWARF | 北欧 | CONFLICT | CONFLICTING |

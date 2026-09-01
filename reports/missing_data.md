@@ -4,25 +4,25 @@
 
 | Type | Registered | Unverified | Without outgoing claim |
 |---|---:|---:|---:|
-| `DEITY` | 162 | 60 | 76 |
+| `DEITY` | 162 | 58 | 75 |
 | `TEXT` | 79 | 36 | 51 |
-| `ARCHAEOLOGICAL_SITE` | 56 | 41 | 45 |
+| `ARCHAEOLOGICAL_SITE` | 57 | 40 | 44 |
 | `CONCEPT` | 51 | 30 | 36 |
 | `ELEMENT` | 32 | 17 | 22 |
-| `WEAPON` | 26 | 21 | 21 |
+| `WEAPON` | 26 | 20 | 20 |
 | `EPIC` | 15 | 14 | 15 |
 | `SCRIPTURE` | 14 | 13 | 14 |
-| `TEMPLE` | 15 | 10 | 11 |
-| `HERO` | 15 | 9 | 9 |
+| `TEMPLE` | 16 | 10 | 12 |
+| `EVENT` | 18 | 3 | 9 |
 | `INSTITUTION` | 9 | 2 | 9 |
 | `INSCRIPTION` | 18 | 8 | 8 |
 | `ORAL_TRADITION` | 10 | 9 | 8 |
 | `MANUSCRIPT` | 9 | 7 | 7 |
 | `POWER` | 7 | 6 | 7 |
-| `EVENT` | 14 | 3 | 6 |
+| `HERO` | 15 | 6 | 6 |
 | `PLACE` | 6 | 6 | 6 |
 | `ARTIFACT` | 6 | 5 | 5 |
-| `MONUMENT` | 5 | 5 | 5 |
+| `MONUMENT` | 6 | 5 | 5 |
 | `REALM` | 4 | 3 | 4 |
 | `HISTORICAL_FIGURE` | 5 | 0 | 3 |
 | `GIANT` | 5 | 2 | 2 |
@@ -46,7 +46,7 @@
 | `CREATURE` | 2 | 0 | 0 |
 | `DWARF` | 3 | 0 | 0 |
 | `FESTIVAL` | 4 | 0 | 0 |
-| `MONSTER` | 4 | 0 | 0 |
+| `MONSTER` | 6 | 0 | 0 |
 | `MUSEUM_OBJECT` | 24 | 0 | 0 |
 | `RITUAL` | 2 | 0 | 0 |
 

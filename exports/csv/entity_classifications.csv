@@ -321,6 +321,10 @@ event.greek.medea_restores_aeetes,EVENT,1,v0.9.0 Perses homonym audit checkpoint
 event.greek.persephone_abduction,EVENT,1,v0.5.0 primary-source profile checkpoint
 event.greek.titanomachy,EVENT,1,
 event.greek.zeus_typhon_battle,EVENT,1,Primary classification at research checkpoint 2026-08-11
+event.japanese.kusanagi.atsuta_enshrinement,EVENT,1,Official shrine tradition event.
+event.japanese.kusanagi.discovery,EVENT,1,Kusanagi discovery narrative.
+event.khmer.angkor_wat_churning_scene,EVENT,1,Materially attested represented scene.
+event.kiche.hero_twins.seven_macaw,EVENT,1,Bounded public story episode.
 event.norse.forging_divine_treasures,EVENT,1,Primary classification at research checkpoint 2026-08-11
 event.norse.ragnarok,EVENT,1,
 event.persia.darius_statue_transfer_egypt_susa,EVENT,1,v0.14.0 Darius statue provenance checkpoint
@@ -368,6 +372,9 @@ modern.marvel.mcu.hela,MODERN_WORK,1,v0.6.0 thunder and storm comparison checkpo
 modern.marvel.mcu.loki,MODERN_WORK,1,v0.6.0 thunder and storm comparison checkpoint
 modern.marvel.mcu.thor,MODERN_WORK,1,v0.6.0 thunder and storm comparison checkpoint
 modern_work.japan.hoitsu_wind_thunder_version,MODERN_WORK,1,v0.18.0 Japanese thunder witnesses
+monster.japanese.yamata_no_orochi,MONSTER,1,Kojiki/Nihongi academic-reference scope.
+monster.kiche.seven_macaw,MONSTER,1,Source-scoped narrative opponent.
+monument.khmer.angkor_wat_churning_relief,MONUMENT,1,In-situ architectural relief.
 museum.babylon.flood_tablet_k3375,MUSEUM_OBJECT,1,
 museum.bm.khepri_hymn_stela_ea826,MUSEUM_OBJECT,1,v0.7.0 Egyptian solar-composite checkpoint
 museum.bm.vajra_1948_0716_11_b,MUSEUM_OBJECT,1,v0.22.0 vajra reception layers
@@ -466,6 +473,8 @@ site.italy.pompeii,ARCHAEOLOGICAL_SITE,1,
 site.italy.rome,ARCHAEOLOGICAL_SITE,1,
 site.japan.kamigamo_jinja,ARCHAEOLOGICAL_SITE,1,v0.10.0 Japanese thunder local-dossier checkpoint
 site.japan.shrines_scope,TEMPLE,1,
+site.japanese.atsuta_jingu,TEMPLE,1,Living real sacred site.
+site.khmer.angkor_wat,ARCHAEOLOGICAL_SITE,1,Real site within UNESCO property 668.
 site.mexico.chichen_itza,ARCHAEOLOGICAL_SITE,1,
 site.mexico.monte_alban,ARCHAEOLOGICAL_SITE,1,
 site.mexico.palenque,ARCHAEOLOGICAL_SITE,1,

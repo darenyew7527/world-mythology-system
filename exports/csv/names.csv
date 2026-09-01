@@ -1116,6 +1116,29 @@ name.v0260.eleusinion.en,site.greece.eleusinion_athens,Eleusinion at Athens,eleu
 name.v0260.eleusinion.zh,site.greece.eleusinion_athens,雅典厄琉西尼翁圣所,雅典厄琉西尼翁圣所,lang.zh,Han,TRANSLATION,,1,source.greek.eleusis_acropolis_exhibition2018,Editorial Chinese translation.
 name.v0260.processional_way.en,site.egypt.karnak_luxor_processional_way,Processional way between Karnak and Luxor,processional way between karnak and luxor,lang.en,Latin,PREFERRED,,1,source.egypt.luxor.mota,Official-site descriptive name; not an ancient proper name.
 name.v0260.processional_way.zh,site.egypt.karnak_luxor_processional_way,卡纳克—卢克索仪仗道,卡纳克卢克索仪仗道,lang.zh,Han,TRANSLATION,,1,source.egypt.luxor.mota,Editorial Chinese translation.
+name.v0280.angkor_wat.en,site.khmer.angkor_wat,Angkor Wat,angkor wat,lang.en,Latin,CANONICAL,,1,source.khmer.angkor.unesco668,UNESCO English name.
+name.v0280.angkor_wat.khm,site.khmer.angkor_wat,អង្គរវត្ត,អង្គរវត្ត,lang.khm,Khmer,ORIGINAL,,1,source.khmer.angkor_wat.apsara,Khmer site name.
+name.v0280.angkor_wat.zh,site.khmer.angkor_wat,吴哥寺,吴哥寺,lang.zh,Han,TRANSLATION,,1,source.khmer.angkor.unesco668,Chinese site label.
+name.v0280.atsuta.en,site.japanese.atsuta_jingu,Atsuta Jingu,atsuta jingu,lang.en,Latin,CANONICAL,,1,source.japanese.kusanagi.atsuta_official,Official English public name.
+name.v0280.atsuta.original,site.japanese.atsuta_jingu,熱田神宮,熱田神宮,lang.jpn,Kanji,ORIGINAL,,1,source.japanese.kusanagi.atsuta_official,Official shrine name.
+name.v0280.atsuta.zh,site.japanese.atsuta_jingu,热田神宫,热田神宫,lang.zh,Han,TRANSLATION,,1,source.japanese.kusanagi.atsuta_official,Chinese label.
+name.v0280.hunahpu.quc,hero.kiche.hunahpu,Junajpu,junajpu,lang.quc,Latin,ORIGINAL,,1,source.maya.creation.nmai,Specific K'iche' language tag added without deleting the legacy umbrella-language row.
+name.v0280.khmer.event.en,event.khmer.angkor_wat_churning_scene,Angkor Wat Churning of the Sea of Milk scene,angkor wat churning sea milk scene,lang.en,Latin,DESCRIPTIVE,,1,source.khmer.angkor_wat.apsara,Materially attested scene label.
+name.v0280.khmer.event.zh,event.khmer.angkor_wat_churning_scene,吴哥寺乳海搅拌图像事件,吴哥寺乳海搅拌图像事件,lang.zh,Han,TRANSLATION,,1,source.khmer.angkor_wat.apsara,Independent Chinese event label.
+name.v0280.kusanagi.atsuta.en,event.japanese.kusanagi.atsuta_enshrinement,Kusanagi enshrinement tradition at Atsuta,kusanagi enshrinement tradition atsuta,lang.en,Latin,DESCRIPTIVE,,1,source.japanese.kusanagi.atsuta_official,Official-public-tradition event label.
+name.v0280.kusanagi.atsuta.zh,event.japanese.kusanagi.atsuta_enshrinement,草薙剑奉祀热田传统,草薙剑奉祀热田传统,lang.zh,Han,TRANSLATION,,1,source.japanese.kusanagi.atsuta_official,Independent Chinese event label.
+name.v0280.kusanagi.discovery.en,event.japanese.kusanagi.discovery,Discovery of Kusanagi in Yamata no Orochi,discovery kusanagi yamata no orochi,lang.en,Latin,DESCRIPTIVE,,1,source.japanese.kusanagi.yamatanoorochi.kokugakuin,Source-scoped narrative event label.
+name.v0280.kusanagi.discovery.zh,event.japanese.kusanagi.discovery,从八岐大蛇体内发现草薙剑,八岐大蛇草薙剑发现,lang.zh,Han,TRANSLATION,,1,source.japanese.kusanagi.yamatanoorochi.kokugakuin,Independent Chinese event label.
+name.v0280.maya.event.en,event.kiche.hero_twins.seven_macaw,Hero Twins and Seven Macaw episode,hero twins seven macaw episode,lang.en,Latin,DESCRIPTIVE,,1,source.maya.creation.nmai,Bounded event label for the public K'iche'-attributed overview.
+name.v0280.maya.event.zh,event.kiche.hero_twins.seven_macaw,英雄双子与七金刚鹦鹉事件,英雄双子七金刚鹦鹉事件,lang.zh,Han,TRANSLATION,,1,source.maya.creation.nmai,Independent Chinese event label.
+name.v0280.orochi.en,monster.japanese.yamata_no_orochi,Yamata no Orochi,yamata no orochi,lang.en,Latin,CANONICAL,,1,source.japanese.kusanagi.yamatanoorochi.kokugakuin,Academic romanization.
+name.v0280.orochi.original,monster.japanese.yamata_no_orochi,八岐大蛇,八岐大蛇,lang.ojp,Kanji,ORIGINAL,,1,source.japanese.kusanagi.yamatanoorochi.kokugakuin,Academic entry heading and source context.
+name.v0280.orochi.zh,monster.japanese.yamata_no_orochi,八岐大蛇,八岐大蛇,lang.zh,Han,TRANSLATION,,1,source.japanese.kusanagi.yamatanoorochi.kokugakuin,Chinese label.
+name.v0280.relief.en,monument.khmer.angkor_wat_churning_relief,Angkor Wat Churning of the Sea of Milk relief,angkor wat churning of the sea of milk relief,lang.en,Latin,CANONICAL,,1,source.khmer.angkor_wat.apsara,Official subject and site locator combined as a database label.
+name.v0280.relief.zh,monument.khmer.angkor_wat_churning_relief,吴哥寺“乳海搅拌”浮雕,吴哥寺乳海搅拌浮雕,lang.zh,Han,TRANSLATION,,1,source.khmer.angkor_wat.apsara,Material-witness label.
+name.v0280.seven_macaw.en,monster.kiche.seven_macaw,Seven Macaw,seven macaw,lang.en,Latin,CANONICAL,,1,source.maya.creation.nmai,Public Smithsonian label.
+name.v0280.seven_macaw.zh,monster.kiche.seven_macaw,七金刚鹦鹉,七金刚鹦鹉,lang.zh,Han,TRANSLATION,,1,source.maya.creation.nmai,Independent Chinese label; no unverified K'iche' form supplied.
+name.v0280.xbalanque.quc,hero.kiche.xbalanque,Xb’alanke,xb’alanke,lang.quc,Latin,ORIGINAL,,1,source.maya.creation.nmai,Specific K'iche' language tag added without deleting the legacy umbrella-language row.
 name.v050.ares.grc,deity.greek.ares,Ἄρης,ἄρης,lang.grc,Greek,ORIGINAL,,1,source.greek.homeric_hymn_ares8.scaife,Ancient Greek name
 name.v050.artemis.grc,deity.greek.artemis,Ἄρτεμις,ἄρτεμις,lang.grc,Greek,ORIGINAL,,1,source.greek.homeric_hymn_artemis27.scaife,Ancient Greek name
 name.v050.athena.grc,deity.greek.athena,Ἀθηνᾶ,ἀθηνᾶ,lang.grc,Greek,ORIGINAL,,1,source.greek.homeric_hymn_athena28.scaife,Ancient Greek name

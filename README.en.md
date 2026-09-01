@@ -10,7 +10,9 @@ The repository contains a reproducible staged knowledge baseline, not a claim of
 
 The bilingual React explorer provides searchable entities, filters, relationship graphs, claims, evidence locators, sources, coverage, and the permanent research queue. Chinese is the default interface; English can be selected from the header.
 
-Current `v0.27.0-original-witness-comparison` checkpoint:
+Current development version: `v0.28.0-dev-global-story-expansion-batch-1`. The latest sealed release remains `v0.27.0-original-witness-comparison`.
+
+v0.28 batch 1 adds a public K'iche'-context Hero Twins and Seven Macaw episode, two separately sourced Kusanagi layers (a university academic synopsis and Atsuta Jingu's public tradition), and the Angkor Wat Churning relief as a Khmer material witness. Of seven independently audited targets, three are complete, China and India remain queued, and Māori plus Yorùbá/Ifá are permission-blocked only within their own targets.
 
 v0.27 introduces item-by-item comparison for four independent witnesses to the Aphrodite-origin and Ask/Embla stories. Seven comparison topics and fourteen witness members expose original forms, transliterations, languages, source locators, rights boundaries, and explicit `NOT_STATED` / `UNMODELED` states. The Theogony is not merged with the Iliad, and Völuspá is not merged with Gylfaginning.
 
@@ -28,12 +30,13 @@ v0.15 decomposes the statue programme into four editorially numbered hieroglyphi
 
 v0.14 adds Xerxes I, Susa, the Darius Gate, a qualified ancient-transfer reconstruction, the 1972 discovery event and the National Museum of Iran custody layer. Manufacture, transfer interpretation, find context, installation and modern custody remain distinct.
 
-- 637 registered entities / 632 browsable canonical entities
+- 646 registered entities / 641 browsable canonical entities
 - 99 civilizations and traditions
-- 203 source records
-- 612 structured claims and 608 evidence records
-- 484 direct relationship assertions
-- 23 readable stories / 25 witness versions / 77 bilingual sections / 6 reading routes
+- 207 source records
+- 633 structured claims and 631 evidence records
+- 500 direct relationship assertions
+- 26 readable stories / 29 witness versions / 89 bilingual sections and event nodes / 6 reading routes
+- 1 global-expansion batch / 7 independently audited targets
 - 4 original-witness profiles / 7 comparison topics / 14 comparison members
 - A bilingual genealogy mode for parents, children, siblings, consorts, and their evidence
 - An evidence-led comparison of Thor, Zeus, Indra, Raijin, Takemikazuchi, Leigong, the Leize thunder spirit, Perun, Ṣàngó, and Ugaritic Baʿlu/Haddu

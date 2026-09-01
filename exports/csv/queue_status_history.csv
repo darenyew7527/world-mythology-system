@@ -46,6 +46,8 @@ qhist.20260814.v050.hermes_caduceus,queue.greek.v050.hermes_caduceus,DISCOVERED,
 qhist.20260814.v050.olympian_membership,queue.greek.v050.olympian_membership,DISCOVERED,NEEDS_REVIEW,2026-08-14T00:00:00Z,Fixed membership must be historically sourced
 qhist.v0260.opet,queue.v070.egypt.opet_layers,SOURCE_FOUND,BASELINE_COMPLETE,2026-08-30T03:30:00Z,"Added source-backed public processional narrative, route entity, event sequence and evidence locators."
 qhist.v0260.sacredway,queue.v080.greek.sacred_way_monuments,PARTIAL,PARTIAL,2026-08-30T03:30:00Z,Expanded public procession route and Athens/Eleusis event sequence; segment-level archaeology remains open.
+qhist.v0280.japan.kusanagi,queue.japan.kusanagi_versions,SOURCE_FOUND,PARTIAL,2026-09-01T06:30:00Z,Academic origin synopsis and official shrine layer added; primary passage witnesses remain open.
+qhist.v0280.maya.hero_twins,queue.maya.hero_twins,SOURCE_FOUND,PARTIAL,2026-09-01T06:30:00Z,One bounded public episode is source-backed; the larger cycle remains open.
 qhist.v060.chinese.leigong,queue.v060.chinese.leigong_diachronic,SOURCE_FOUND,PARTIAL,2026-08-14T00:00:00Z,"Chu Ci, Lunheng and Mogao layers separated"
 qhist.v060.japanese.raijin,queue.v060.japanese.raijin_regional,DISCOVERED,SOURCE_FOUND,2026-08-14T00:00:00Z,Kokugakuin umbrella and name indexes registered
 qhist.v060.norse.family,queue.v060.norse.thor_genealogy_variants,SOURCE_FOUND,PARTIAL,2026-08-14T00:00:00Z,First source-located Thor household graph created

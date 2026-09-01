@@ -62,7 +62,7 @@ class Explorer2EvidenceWorkbenchTests(unittest.TestCase):
 
     def test_conflicts_and_access_policies_are_public_governance_metadata(self):
         self.assertEqual(len(self.snapshot["conflicts"]), self.snapshot["meta"]["counts"]["conflicts"])
-        self.assertEqual(len(self.snapshot["accessPolicies"]), 8)
+        self.assertGreaterEqual(len(self.snapshot["accessPolicies"]), 8)
         self.assertEqual(
             set(self.snapshot["analytics"]["accessPolicyCounts"]),
             {"PUBLIC_CONTEXT", "ATTRIBUTION_REQUIRED", "PERMISSION_REQUIRED", "DO_NOT_COLLECT"},

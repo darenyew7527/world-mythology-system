@@ -301,6 +301,10 @@
     <node id="event.greek.persephone_abduction"><data key="name">Abduction of Persephone</data><data key="type">EVENT</data></node>
     <node id="event.greek.titanomachy"><data key="name">Titanomachy</data><data key="type">EVENT</data></node>
     <node id="event.greek.zeus_typhon_battle"><data key="name">Battle of Zeus and Typhon</data><data key="type">EVENT</data></node>
+    <node id="event.japanese.kusanagi.atsuta_enshrinement"><data key="name">Kusanagi enshrinement tradition at Atsuta</data><data key="type">EVENT</data></node>
+    <node id="event.japanese.kusanagi.discovery"><data key="name">Discovery of Kusanagi in Yamata no Orochi</data><data key="type">EVENT</data></node>
+    <node id="event.khmer.angkor_wat_churning_scene"><data key="name">Churning of the Sea of Milk scene at Angkor Wat</data><data key="type">EVENT</data></node>
+    <node id="event.kiche.hero_twins.seven_macaw"><data key="name">Hero Twins and Seven Macaw episode</data><data key="type">EVENT</data></node>
     <node id="event.norse.forging_divine_treasures"><data key="name">Forging of the divine treasures</data><data key="type">EVENT</data></node>
     <node id="event.norse.ragnarok"><data key="name">Ragnarök</data><data key="type">EVENT</data></node>
     <node id="event.persia.darius_statue_transfer_egypt_susa"><data key="name">Reconstructed Transfer of the Darius Statue to Susa</data><data key="type">EVENT</data></node>
@@ -347,6 +351,9 @@
     <node id="modern.marvel.mcu.loki"><data key="name">Marvel Studios Loki</data><data key="type">MODERN_WORK</data></node>
     <node id="modern.marvel.mcu.thor"><data key="name">Marvel Studios Thor</data><data key="type">MODERN_WORK</data></node>
     <node id="modern_work.japan.hoitsu_wind_thunder_version"><data key="name">Wind and Thunder God Screens attributed to Sakai Hōitsu — research record</data><data key="type">MODERN_WORK</data></node>
+    <node id="monster.japanese.yamata_no_orochi"><data key="name">Yamata no Orochi</data><data key="type">MONSTER</data></node>
+    <node id="monster.kiche.seven_macaw"><data key="name">Seven Macaw</data><data key="type">MONSTER</data></node>
+    <node id="monument.khmer.angkor_wat_churning_relief"><data key="name">Angkor Wat Churning of the Sea of Milk relief</data><data key="type">MONUMENT</data></node>
     <node id="museum.babylon.flood_tablet_k3375"><data key="name">Flood Tablet K.3375</data><data key="type">MUSEUM_OBJECT</data></node>
     <node id="museum.bm.khepri_hymn_stela_ea826"><data key="name">Stela with hymn to Khepri</data><data key="type">MUSEUM_OBJECT</data></node>
     <node id="museum.bm.vajra_1948_0716_11_b"><data key="name">Buddhist ritual vajra 1948,0716.11.b</data><data key="type">MUSEUM_OBJECT</data></node>
@@ -445,6 +452,8 @@
     <node id="site.italy.rome"><data key="name">Ancient Rome</data><data key="type">ARCHAEOLOGICAL_SITE</data></node>
     <node id="site.japan.kamigamo_jinja"><data key="name">Kamo Wakeikazuchi Jinja (Kamigamo Jinja)</data><data key="type">ARCHAEOLOGICAL_SITE</data></node>
     <node id="site.japan.shrines_scope"><data key="name">Major Japanese shrines research scope</data><data key="type">TEMPLE</data></node>
+    <node id="site.japanese.atsuta_jingu"><data key="name">Atsuta Jingu</data><data key="type">TEMPLE</data></node>
+    <node id="site.khmer.angkor_wat"><data key="name">Angkor Wat</data><data key="type">ARCHAEOLOGICAL_SITE</data></node>
     <node id="site.mexico.chichen_itza"><data key="name">Chichen-Itza</data><data key="type">ARCHAEOLOGICAL_SITE</data></node>
     <node id="site.mexico.monte_alban"><data key="name">Monte Albán</data><data key="type">ARCHAEOLOGICAL_SITE</data></node>
     <node id="site.mexico.palenque"><data key="name">Palenque</data><data key="type">ARCHAEOLOGICAL_SITE</data></node>
@@ -863,6 +872,22 @@
     <edge id="claim.v0260.opet_colonnade_scenes" source="site.egypt.luxor_temple" target="festival.egyptian.opet"><data key="relation">DEPICTS</data></edge>
     <edge id="claim.v0260.opet_way_karnak" source="site.egypt.karnak_luxor_processional_way" target="site.egypt.karnak"><data key="relation">ASSOCIATED_WITH</data></edge>
     <edge id="claim.v0260.opet_way_luxor" source="site.egypt.karnak_luxor_processional_way" target="site.egypt.luxor_temple"><data key="relation">ASSOCIATED_WITH</data></edge>
+    <edge id="claim.v0280.japan.kusanagi_atsuta_event" source="weapon.japanese.kusanagi" target="event.japanese.kusanagi.atsuta_enshrinement"><data key="relation">PARTICIPATED_IN</data></edge>
+    <edge id="claim.v0280.japan.kusanagi_discovery_event" source="weapon.japanese.kusanagi" target="event.japanese.kusanagi.discovery"><data key="relation">PARTICIPATED_IN</data></edge>
+    <edge id="claim.v0280.japan.kusanagi_worshipped_atsuta" source="weapon.japanese.kusanagi" target="site.japanese.atsuta_jingu"><data key="relation">WORSHIPPED_AT</data></edge>
+    <edge id="claim.v0280.japan.orochi_discovery_event" source="monster.japanese.yamata_no_orochi" target="event.japanese.kusanagi.discovery"><data key="relation">PARTICIPATED_IN</data></edge>
+    <edge id="claim.v0280.japan.susanoo_defeats_orochi" source="deity.japanese.susanoo" target="monster.japanese.yamata_no_orochi"><data key="relation">DEFEATED</data></edge>
+    <edge id="claim.v0280.japan.susanoo_discovery_event" source="deity.japanese.susanoo" target="event.japanese.kusanagi.discovery"><data key="relation">PARTICIPATED_IN</data></edge>
+    <edge id="claim.v0280.japan.yamato_atsuta_event" source="hero.japanese.yamato_takeru" target="event.japanese.kusanagi.atsuta_enshrinement"><data key="relation">PARTICIPATED_IN</data></edge>
+    <edge id="claim.v0280.khmer.angkor_wat_part_of_angkor" source="site.khmer.angkor_wat" target="site.cambodia.angkor"><data key="relation">PART_OF</data></edge>
+    <edge id="claim.v0280.khmer.relief_depicts_churning" source="monument.khmer.angkor_wat_churning_relief" target="event.khmer.angkor_wat_churning_scene"><data key="relation">DEPICTS</data></edge>
+    <edge id="claim.v0280.khmer.relief_part_of_angkor_wat" source="monument.khmer.angkor_wat_churning_relief" target="site.khmer.angkor_wat"><data key="relation">PART_OF</data></edge>
+    <edge id="claim.v0280.maya.hunahpu_defeats_seven_macaw" source="hero.kiche.hunahpu" target="monster.kiche.seven_macaw"><data key="relation">DEFEATED</data></edge>
+    <edge id="claim.v0280.maya.hunahpu_participates" source="hero.kiche.hunahpu" target="event.kiche.hero_twins.seven_macaw"><data key="relation">PARTICIPATED_IN</data></edge>
+    <edge id="claim.v0280.maya.seven_macaw_participates" source="monster.kiche.seven_macaw" target="event.kiche.hero_twins.seven_macaw"><data key="relation">PARTICIPATED_IN</data></edge>
+    <edge id="claim.v0280.maya.twins_pair" source="hero.kiche.hunahpu" target="hero.kiche.xbalanque"><data key="relation">ASSOCIATED_WITH</data></edge>
+    <edge id="claim.v0280.maya.xbalanque_defeats_seven_macaw" source="hero.kiche.xbalanque" target="monster.kiche.seven_macaw"><data key="relation">DEFEATED</data></edge>
+    <edge id="claim.v0280.maya.xbalanque_participates" source="hero.kiche.xbalanque" target="event.kiche.hero_twins.seven_macaw"><data key="relation">PARTICIPATED_IN</data></edge>
     <edge id="claim.v040.aether.child_erebus" source="deity.greek.aether" target="deity.greek.erebus"><data key="relation">CHILD_OF</data></edge>
     <edge id="claim.v040.aether.child_nyx" source="deity.greek.aether" target="deity.greek.nyx"><data key="relation">CHILD_OF</data></edge>
     <edge id="claim.v040.asteria.parent_hecate" source="deity.greek.asteria" target="deity.greek.hecate"><data key="relation">PARENT_OF</data></edge>

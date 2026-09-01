@@ -125,7 +125,8 @@ class OriginalWitnessComparisonTests(unittest.TestCase):
 
     def test_public_snapshot_exposes_profiles_and_comparisons_without_quotes(self):
         counts = self.snapshot["meta"]["counts"]
-        self.assertEqual(self.snapshot["meta"]["projectVersion"], "0.27.0-original-witness-comparison")
+        release_ids = {release["id"] for release in self.snapshot["analytics"]["releaseHistory"]}
+        self.assertIn("release.v0.27.0", release_ids)
         self.assertEqual(counts["storyWitnessProfiles"], 4)
         self.assertEqual(counts["storyWitnessComparisons"], 7)
         self.assertEqual(counts["storyWitnessComparisonMembers"], 14)

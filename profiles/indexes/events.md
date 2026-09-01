@@ -8,6 +8,10 @@
 | event.greek.medea_restores_aeetes | 美狄亚恢复埃厄忒斯王位 | Medea restores Aeetes | EVENT | 古希腊 | PARTIAL | PARTIAL |
 | event.greek.titanomachy | 泰坦战争 | Titanomachy | EVENT | 古希腊 | PARTIAL | SOURCE_BACKED |
 | event.babylonian.marduk_tiamat | 马尔杜克与提亚马特之战 | Combat of Marduk and Tiamat | EVENT | 巴比伦 | PARTIAL | UNVERIFIED |
+| event.japanese.kusanagi.discovery | 从八岐大蛇体内发现草薙剑 | Discovery of Kusanagi in Yamata no Orochi | EVENT | 日本神道 | PARTIAL | SOURCE_BACKED |
+| event.japanese.kusanagi.atsuta_enshrinement | 草薙剑奉祀热田传统 | Kusanagi enshrinement tradition at Atsuta | EVENT | 日本神道 | PARTIAL | SOURCE_BACKED |
+| event.khmer.angkor_wat_churning_scene | 吴哥寺乳海搅拌图像事件 | Churning of the Sea of Milk scene at Angkor Wat | EVENT | 柬埔寨传统 | PARTIAL | SOURCE_BACKED |
+| event.kiche.hero_twins.seven_macaw | 英雄双子与七金刚鹦鹉事件 | Hero Twins and Seven Macaw episode | EVENT | 玛雅 | PARTIAL | SOURCE_BACKED |
 | event.norse.forging_divine_treasures | 诸神宝物锻造 | Forging of the divine treasures | EVENT | 北欧 | PARTIAL | PARTIAL |
 | event.norse.ragnarok | 诸神黄昏 | Ragnarök | EVENT | 北欧 | PARTIAL | UNVERIFIED |
 | event.archaeology.darius_statue_discovery_1972 | 1972年苏萨大流士雕像发现事件 | Discovery of the Darius Statue at Susa (1972) | EVENT | 波斯 | PARTIAL | SOURCE_BACKED |

@@ -6,7 +6,7 @@
 - 原文名: 日本武尊
 - 转写: —
 - 研究状态: `PARTIAL`
-- 证据状态: `UNVERIFIED`
+- 证据状态: `SOURCE_BACKED`
 
 ## 分类
 
@@ -14,10 +14,13 @@
 
 ## 关系网络
 
-当前无关系边；保留为研究缺口。
+| Relation | Target | Review / layer | Evidence | Confidence | Direction |
+|---|---|---|---:|---:|---|
+| `PARTICIPATED_IN` | 草薙剑奉祀热田传统 (`event.japanese.kusanagi.atsuta_enshrinement`) | VERIFIED / TEXT_SAYS / LATER_RECEPTION | 1 | 0.88 | stored claim; `claim.v0280.japan.yamato_atsuta_event` |
 
 ## Claims 与证据
 
-尚无 claim；实体仅为发现/索引入口。
+- `claim.v0280.japan.yamato_atsuta_event` [VERIFIED / TEXT_SAYS / 0.88] The official shrine history links Yamato Takeru's death after leaving the sword in Hikami to the Atsuta enshrinement account.
+  - 来源：[Atsuta Jingu: Introduction](https://www.atsutajingu.or.jp/en/intro/)；定位：Introduction — History
 
 > 本档案只代表当前阶段性基线，不是对该传统的最终或唯一解释。
