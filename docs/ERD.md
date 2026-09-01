@@ -1,6 +1,6 @@
 # 核心实体关系架构 / ERD
 
-完整的 43 张持久表、32 个视图、字段、外键与 SQL 定义见 `reports/schema_catalog.md`。本页只展示最关键的数据流，避免把完整 Schema 压成一张不可读的大图。
+完整的 59 张持久表、32 个视图、字段、外键与 SQL 定义见 `reports/schema_catalog.md`。本页只展示最关键的数据流，避免把完整 Schema 压成一张不可读的大图。
 
 ## 身份、类型与文明语境
 
@@ -45,6 +45,19 @@ erDiagram
 ```
 
 专项表保存结构性字段；复杂、版本化或可争议叙述进入 claims。现代作品和古代原型分别建实体，通过 `modern_adaptations` 连接，避免流行文化设定污染古代材料。
+
+## 故事见证与对读
+
+```mermaid
+erDiagram
+    STORIES ||--o{ STORY_VERSIONS : "独立见证"
+    STORY_VERSIONS ||--o| STORY_WITNESS_PROFILES : "原题/语言/权利"
+    STORIES ||--o{ STORY_WITNESS_COMPARISONS : "对读主题"
+    STORY_WITNESS_COMPARISONS ||--o{ STORY_WITNESS_COMPARISON_MEMBERS : "逐项成员"
+    STORY_VERSIONS ||--o{ STORY_WITNESS_COMPARISON_MEMBERS : "见证结果"
+```
+
+对读成员可回链到 `story_sections` 与 `claims`。它们只记录各见证在指定定位中的状态；`NOT_STATED` 与 `UNMODELED` 不会生成推断事实，也不会把不同见证拼成统一文本。
 
 ## 永久队列与质量闭环
 

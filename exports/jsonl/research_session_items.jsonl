@@ -520,3 +520,8 @@
 {"action":"CREATE","item_id":"story.greek.eleusinia_procession","item_kind":"STORY","result":"Public route narrative with secret-rite boundary.","session_id":"session.20260830.v0260"}
 {"action":"CREATE","item_id":"story_event_nodes","item_kind":"SCHEMA","result":"Ordered narrative nodes with explicit place and coordinate policies.","session_id":"session.20260830.v0260"}
 {"action":"CREATE","item_id":"reading_routes","item_kind":"SCHEMA","result":"Six editorial reading routes with witness-specific steps.","session_id":"session.20260830.v0260"}
+{"action":"CREATE","item_id":"story_witness_profiles","item_kind":"SCHEMA","result":"Original titles, transliterations, language metadata and rights boundaries added.","session_id":"session.20260831.v0270"}
+{"action":"CREATE","item_id":"story_witness_comparisons","item_kind":"SCHEMA","result":"Section-level comparison topics and no-synthesis policies added.","session_id":"session.20260831.v0270"}
+{"action":"COMPARE","item_id":"story.greek.aphrodite_origins","item_kind":"STORY","result":"Four asymmetric comparison rows preserve Theogony and Iliad witnesses.","session_id":"session.20260831.v0270"}
+{"action":"COMPARE","item_id":"story.norse.ask_embla","item_kind":"STORY","result":"Shared names, divergent triads and unmodeled gift terms exposed.","session_id":"session.20260831.v0270"}
+{"action":"CREATE","item_id":"conflict.v0270.norse.ask_embla_creator_triads","item_kind":"CONFLICT","result":"Poetic and prose creator triads retained as source-level variants.","session_id":"session.20260831.v0270"}

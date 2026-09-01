@@ -10,7 +10,9 @@ The repository contains a reproducible staged knowledge baseline, not a claim of
 
 The bilingual React explorer provides searchable entities, filters, relationship graphs, claims, evidence locators, sources, coverage, and the permanent research queue. Chinese is the default interface; English can be selected from the header.
 
-Current `v0.26.0-story-maps-reading-routes` checkpoint:
+Current `v0.27.0-original-witness-comparison` checkpoint:
+
+v0.27 introduces item-by-item comparison for four independent witnesses to the Aphrodite-origin and Ask/Embla stories. Seven comparison topics and fourteen witness members expose original forms, transliterations, languages, source locators, rights boundaries, and explicit `NOT_STATED` / `UNMODELED` states. The Theogony is not merged with the Iliad, and Völuspá is not merged with Gylfaginning.
 
 v0.26 adds two authority-backed public-procession stories, 77 persistent event nodes, six witness-safe reading routes, and a mobile event/place timeline. Routes are editorial navigation rather than common-origin claims, and missing coordinates are never inferred.
 
@@ -32,6 +34,7 @@ v0.14 adds Xerxes I, Susa, the Darius Gate, a qualified ancient-transfer reconst
 - 612 structured claims and 608 evidence records
 - 484 direct relationship assertions
 - 23 readable stories / 25 witness versions / 77 bilingual sections / 6 reading routes
+- 4 original-witness profiles / 7 comparison topics / 14 comparison members
 - A bilingual genealogy mode for parents, children, siblings, consorts, and their evidence
 - An evidence-led comparison of Thor, Zeus, Indra, Raijin, Takemikazuchi, Leigong, the Leize thunder spirit, Perun, Ṣàngó, and Ugaritic Baʿlu/Haddu
 - Structured deity, artifact, text, place, creature, and event profiles in the entity view

@@ -31,6 +31,9 @@ COUNT_OBJECTS = [
     ("故事文本版本", "story_versions"),
     ("故事阅读分段", "story_sections"),
     ("故事事件节点", "story_event_nodes"),
+    ("原典见证档案", "story_witness_profiles"),
+    ("原典对读主题", "story_witness_comparisons"),
+    ("原典对读成员", "story_witness_comparison_members"),
     ("主题阅读路线", "reading_routes"),
     ("阅读路线步骤", "reading_route_steps"),
 ]
@@ -66,6 +69,7 @@ def generate(db_path: Path = DEFAULT_DB_PATH) -> Path:
         "## 直接打开这些文件",
         "",
         "- `database/world_mythology.sqlite`：事实核心数据库。",
+        "- `RELEASE_NOTES_v0.27.0.md`：v0.27 原典见证逐项对读、显式未知状态与版权边界。",
         "- `RELEASE_NOTES_v0.26.0.md`：v0.26 故事地图、事件节点、主题阅读路线与公开进程故事。",
         "- `RELEASE_NOTES_v0.25.0.md`：v0.25 神话故事阅读库、版本分离、证据链接与阅读边界。",
         "- `docs/ROADMAP_v0.26-v0.29.md`：后续故事地图、见证对读、全球扩张与阅读工具路线。",

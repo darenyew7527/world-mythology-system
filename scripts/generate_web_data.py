@@ -540,6 +540,37 @@ def build_snapshot(database_path: Path) -> dict[str, Any]:
                 {**conflict, "storyNotes": _clean(row["notes"])}
             )
 
+    story_witness_profiles: dict[str, dict[str, Any]] = {}
+    for row in _rows(
+        connection,
+        """
+        SELECT p.story_version_id,p.work_title_original,p.work_title_transliteration,
+               p.witness_label_original,p.witness_label_transliteration,p.language_id,
+               p.script_name,p.source_location,p.editorial_note_zh,p.editorial_note_en,
+               p.rights_boundary,l.canonical_name AS language_name,
+               l.name_zh AS language_name_zh,l.iso_639_3,l.historical_stage
+        FROM story_witness_profiles p
+        JOIN languages l ON l.id=p.language_id
+        ORDER BY p.story_version_id
+        """,
+    ):
+        story_witness_profiles[row["story_version_id"]] = {
+            "workTitleOriginal": row["work_title_original"],
+            "workTitleTransliteration": _clean(row["work_title_transliteration"]),
+            "witnessLabelOriginal": _clean(row["witness_label_original"]),
+            "witnessLabelTransliteration": _clean(row["witness_label_transliteration"]),
+            "languageId": row["language_id"],
+            "languageName": row["language_name"],
+            "languageNameZh": _clean(row["language_name_zh"]),
+            "iso6393": _clean(row["iso_639_3"]),
+            "historicalStage": _clean(row["historical_stage"]),
+            "scriptName": _clean(row["script_name"]),
+            "sourceLocation": row["source_location"],
+            "editorialNoteZh": row["editorial_note_zh"],
+            "editorialNoteEn": row["editorial_note_en"],
+            "rightsBoundary": row["rights_boundary"],
+        }
+
     story_versions_by_story: dict[str, list[dict[str, Any]]] = defaultdict(list)
     for row in _rows(
         connection,
@@ -567,10 +598,74 @@ def build_snapshot(database_path: Path) -> dict[str, Any]:
                 "accessLevel": row["access_level"],
                 "versionOrder": row["version_order"],
                 "rightsNote": _clean(row["rights_note"]),
+                "witnessProfile": story_witness_profiles.get(row["id"]),
                 "sections": story_sections_by_version.get(row["id"], []),
                 "events": story_events_by_version.get(row["id"], []),
                 "claims": story_claims_by_version.get(row["id"], []),
                 "entities": story_entities_by_version.get(row["id"], []),
+            }
+        )
+
+    story_witness_comparisons_by_story: dict[str, list[dict[str, Any]]] = defaultdict(list)
+    for comparison in _rows(
+        connection,
+        """
+        SELECT id,story_id,comparison_order,topic_zh,topic_en,comparison_scope,
+               synthesis_policy,editorial_note_zh,editorial_note_en
+        FROM story_witness_comparisons
+        ORDER BY story_id,comparison_order,id
+        """,
+    ):
+        members: list[dict[str, Any]] = []
+        for member in _rows(
+            connection,
+            """
+            SELECT m.story_version_id,m.story_section_id,m.member_order,m.evidence_state,
+                   m.original_form,m.transliteration,m.source_location,m.anchor_claim_id,
+                   m.summary_zh,m.summary_en,m.difference_note_zh,m.difference_note_en,
+                   v.version_label_zh,v.version_label_en
+            FROM story_witness_comparison_members m
+            JOIN story_versions v ON v.id=m.story_version_id
+            WHERE m.comparison_id=?
+            ORDER BY m.member_order,m.story_version_id
+            """,
+            (comparison["id"],),
+        ):
+            profile = story_witness_profiles.get(member["story_version_id"], {})
+            members.append(
+                {
+                    "storyVersionId": member["story_version_id"],
+                    "storySectionId": _clean(member["story_section_id"]),
+                    "memberOrder": member["member_order"],
+                    "evidenceState": member["evidence_state"],
+                    "originalForm": _clean(member["original_form"]),
+                    "transliteration": _clean(member["transliteration"]),
+                    "sourceLocation": member["source_location"],
+                    "anchorClaimId": _clean(member["anchor_claim_id"]),
+                    "summaryZh": member["summary_zh"],
+                    "summaryEn": member["summary_en"],
+                    "differenceNoteZh": member["difference_note_zh"],
+                    "differenceNoteEn": member["difference_note_en"],
+                    "versionLabelZh": member["version_label_zh"],
+                    "versionLabelEn": member["version_label_en"],
+                    "languageId": profile.get("languageId"),
+                    "languageName": profile.get("languageName"),
+                    "languageNameZh": profile.get("languageNameZh"),
+                    "iso6393": profile.get("iso6393"),
+                    "scriptName": profile.get("scriptName"),
+                }
+            )
+        story_witness_comparisons_by_story[comparison["story_id"]].append(
+            {
+                "id": comparison["id"],
+                "order": comparison["comparison_order"],
+                "topicZh": comparison["topic_zh"],
+                "topicEn": comparison["topic_en"],
+                "scope": comparison["comparison_scope"],
+                "synthesisPolicy": comparison["synthesis_policy"],
+                "editorialNoteZh": comparison["editorial_note_zh"],
+                "editorialNoteEn": comparison["editorial_note_en"],
+                "members": members,
             }
         )
 
@@ -608,6 +703,7 @@ def build_snapshot(database_path: Path) -> dict[str, Any]:
             "featuredOrder": row["featured_order"],
             "editorialNote": row["editorial_note"],
             "conflicts": story_conflicts.get(row["id"], []),
+            "witnessComparisons": story_witness_comparisons_by_story.get(row["id"], []),
             "versions": versions,
         }
         stories.append(story)
@@ -727,6 +823,10 @@ def build_snapshot(database_path: Path) -> dict[str, Any]:
             """
         ).fetchone()
     )
+    project_version_row = connection.execute(
+        "SELECT value FROM project_metadata WHERE key='project_version'"
+    ).fetchone()
+    project_version = project_version_row[0] if project_version_row else release["data_version"]
 
     queue = _rows(
         connection,
@@ -963,7 +1063,7 @@ def build_snapshot(database_path: Path) -> dict[str, Any]:
 
     snapshot = {
         "meta": {
-            "projectVersion": "0.26.0-story-maps-reading-routes",
+            "projectVersion": project_version,
             "datasetRelease": release,
             "generatedFrom": "database/world_mythology.sqlite",
             "completionClaim": (
@@ -993,6 +1093,15 @@ def build_snapshot(database_path: Path) -> dict[str, Any]:
                     len(version["events"])
                     for story in stories
                     for version in story["versions"]
+                ),
+                "storyWitnessProfiles": len(story_witness_profiles),
+                "storyWitnessComparisons": sum(
+                    len(story["witnessComparisons"]) for story in stories
+                ),
+                "storyWitnessComparisonMembers": sum(
+                    len(comparison["members"])
+                    for story in stories
+                    for comparison in story["witnessComparisons"]
                 ),
                 "readingRoutes": len(reading_routes),
             },

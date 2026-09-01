@@ -157,13 +157,13 @@
         "canonicalName": "Norse",
         "civilizationId": "civ.norse",
         "claimCount": 68,
-        "conflictCount": 4,
+        "conflictCount": 5,
         "entityCount": 69,
         "evidenceCount": 68,
         "evidencedEntityCount": 20,
         "evidencedEntityRate": 0.2899,
         "nameZh": "北欧",
-        "queueCount": 14
+        "queueCount": 15
       },
       {
         "canonicalName": "Japanese Shinto",
@@ -175,7 +175,7 @@
         "evidencedEntityCount": 25,
         "evidencedEntityRate": 0.5556,
         "nameZh": "日本神道",
-        "queueCount": 8
+        "queueCount": 9
       },
       {
         "canonicalName": "Persian",
@@ -199,7 +199,7 @@
         "evidencedEntityCount": 14,
         "evidencedEntityRate": 0.7368,
         "nameZh": "乌加里特",
-        "queueCount": 4
+        "queueCount": 5
       },
       {
         "canonicalName": "Ancient Chinese",
@@ -786,18 +786,18 @@
     "queueProgress": {
       "interpretation": "Permanent research queue; BASELINE_COMPLETE is a bounded checkpoint, not global completion.",
       "priorityBands": {
-        "HIGH_80_100": 111,
+        "HIGH_80_100": 114,
         "MEDIUM_50_79": 1
       },
       "statusCounts": {
         "BASELINE_COMPLETE": 18,
-        "CONFLICT": 8,
-        "DISCOVERED": 14,
+        "CONFLICT": 9,
+        "DISCOVERED": 16,
         "NEEDS_REVIEW": 6,
         "PARTIAL": 35,
         "SOURCE_FOUND": 31
       },
-      "total": 112
+      "total": 115
     },
     "releaseHistory": [
       {
@@ -1033,6 +1033,15 @@
         "id": "release.v0.26.0",
         "releaseNotes": "Story maps and reading routes checkpoint: two public-procession stories, ordered story event nodes, explicit real/mythic location policy, six witness-safe thematic routes and mobile reading UI. Source commit stamped; database_sha256 is the pre-stamp snapshot digest.",
         "schemaVersion": 35
+      },
+      {
+        "builtAt": "2026-08-31T23:05:00Z",
+        "dataVersion": "0.27.0",
+        "databaseSha256": "a7874c07caade5b80ede86fc87a744908bd4a8c2b660d631c4f8db933f64f8c2",
+        "gitCommit": "223b74c21ebb30abcad91c5d550741040c4f3760",
+        "id": "release.v0.27.0",
+        "releaseNotes": "Original-witness comparison checkpoint: four witness profiles, seven section-level comparison topics, fourteen witness members, explicit NOT_STATED and UNMODELED states, and an Ask/Embla creator-triad conflict.",
+        "schemaVersion": 36
       }
     ],
     "sourceQuality": {
@@ -24956,6 +24965,21 @@
       "subjectNameZh": "苏萨出土大流士一世埃及式雕像",
       "summary": "The Heliopolis destination appears in scholarly synthesis but is not an excavated installation context or continuous ancient itinerary.",
       "variantGroup": "darius.statue.original_destination"
+    },
+    {
+      "claimAId": "claim.v0190.voluspa_triad",
+      "claimAStatement": "Völuspá 17–18 presents Óðinn, Hœnir and Lóðurr in the Ask–Embla episode.",
+      "claimBId": "claim.v0190.gylf_triad",
+      "claimBStatement": "Gylfaginning identifies the sons of Borr as Óðinn, Vili and Vé in its creation sequence.",
+      "conflictType": "WITNESS_VARIANT",
+      "id": "conflict.v0270.norse.ask_embla_creator_triads",
+      "resolutionNotes": "Retain the poetic and prose triads as coexisting witnesses. Do not equate the differing deities without separate source-backed identity claims.",
+      "status": "OPEN",
+      "subjectId": "person.norse.ask",
+      "subjectName": "Ask",
+      "subjectNameZh": "阿斯克",
+      "summary": "Völuspá 17–18 presents Óðinn, Hœnir and Lóðurr, while Gylfaginning 8–9 presents Óðinn, Vili and Vé in the Ask–Embla creation frame.",
+      "variantGroup": "norse.ask_embla.creator_triads"
     },
     {
       "claimAId": "claim.v080.mysteries_secrecy",
@@ -99518,7 +99542,23 @@
           "traditionScope": "Völuspá"
         }
       ],
-      "conflicts": [],
+      "conflicts": [
+        {
+          "claimAId": "claim.v0190.voluspa_triad",
+          "claimAStatement": "Völuspá 17–18 presents Óðinn, Hœnir and Lóðurr in the Ask–Embla episode.",
+          "claimBId": "claim.v0190.gylf_triad",
+          "claimBStatement": "Gylfaginning identifies the sons of Borr as Óðinn, Vili and Vé in its creation sequence.",
+          "conflictType": "WITNESS_VARIANT",
+          "id": "conflict.v0270.norse.ask_embla_creator_triads",
+          "resolutionNotes": "Retain the poetic and prose triads as coexisting witnesses. Do not equate the differing deities without separate source-backed identity claims.",
+          "status": "OPEN",
+          "subjectId": "person.norse.ask",
+          "subjectName": "Ask",
+          "subjectNameZh": "阿斯克",
+          "summary": "Völuspá 17–18 presents Óðinn, Hœnir and Lóðurr, while Gylfaginning 8–9 presents Óðinn, Vili and Vé in the Ask–Embla creation frame.",
+          "variantGroup": "norse.ask_embla.creator_triads"
+        }
+      ],
       "description": "古诺斯人类起源叙事中的男性人物，按具体文本见证建档。 / Male figure in Old Norse human-origin narratives, recorded at witness level.",
       "evidenceStatus": "SOURCE_BACKED",
       "historicalPeriod": "Old Norse mythic narrative",
@@ -107271,6 +107311,19 @@
       "titleEn": "Living-tradition access policy",
       "titleZh": "活态传统权限",
       "updatedAt": "2026-08-27T17:00:00Z"
+    },
+    {
+      "code": "story_witness_comparison",
+      "dataBasis": "story_witness_profiles, story_witness_comparisons and comparison members",
+      "displayOrder": 280,
+      "evidenceCaveat": "Alignment is editorial navigation. NOT_STATED and UNMODELED are explicit gaps, not negative claims.",
+      "group": "STORY_READING",
+      "introducedIn": "v0.27.0",
+      "notes": "First batch covers Aphrodite origins and Ask/Embla creator triads.",
+      "status": "ACTIVE",
+      "titleEn": "Witness-by-witness comparison",
+      "titleZh": "原典见证对读",
+      "updatedAt": "2026-08-31T23:05:00Z"
     }
   ],
   "meta": {
@@ -107279,26 +107332,29 @@
       "canonicalEntities": 632,
       "civilizations": 99,
       "claims": 612,
-      "conflicts": 32,
+      "conflicts": 33,
       "directRelationships": 484,
       "evidence": 608,
-      "queue": 112,
+      "queue": 115,
       "readingRoutes": 6,
       "registeredEntities": 637,
       "sources": 203,
       "stories": 23,
       "storyEventNodes": 77,
       "storySections": 77,
-      "storyVersions": 25
+      "storyVersions": 25,
+      "storyWitnessComparisonMembers": 14,
+      "storyWitnessComparisons": 7,
+      "storyWitnessProfiles": 4
     },
     "datasetRelease": {
-      "built_at": "2026-08-30T03:30:00Z",
-      "data_version": "0.26.0",
-      "database_sha256": "815e21b9fa745ad78dd69b5a72d1006cd596bd572a78f00aa7bda310f63f3d0e",
-      "git_commit": "c39e6ad99baf0a34439a33e88c1f79d186a398f4",
-      "id": "release.v0.26.0",
-      "release_notes": "Story maps and reading routes checkpoint: two public-procession stories, ordered story event nodes, explicit real/mythic location policy, six witness-safe thematic routes and mobile reading UI. Source commit stamped; database_sha256 is the pre-stamp snapshot digest.",
-      "schema_version": 35
+      "built_at": "2026-08-31T23:05:00Z",
+      "data_version": "0.27.0",
+      "database_sha256": "a7874c07caade5b80ede86fc87a744908bd4a8c2b660d631c4f8db933f64f8c2",
+      "git_commit": "223b74c21ebb30abcad91c5d550741040c4f3760",
+      "id": "release.v0.27.0",
+      "release_notes": "Original-witness comparison checkpoint: four witness profiles, seven section-level comparison topics, fourteen witness members, explicit NOT_STATED and UNMODELED states, and an Ask/Embla creator-triad conflict.",
+      "schema_version": 36
     },
     "evidenceStatusCounts": {
       "CONFLICTING": 10,
@@ -107307,12 +107363,12 @@
       "UNVERIFIED": 317
     },
     "generatedFrom": "database/world_mythology.sqlite",
-    "projectVersion": "0.26.0-story-maps-reading-routes",
+    "projectVersion": "0.27.0-original-witness-comparison",
     "publicDataPolicy": "Source metadata and evidence locators are published; evidence short quotes are excluded.",
     "queueStatusCounts": {
       "BASELINE_COMPLETE": 18,
-      "CONFLICT": 8,
-      "DISCOVERED": 14,
+      "CONFLICT": 9,
+      "DISCOVERED": 16,
       "NEEDS_REVIEW": 6,
       "PARTIAL": 35,
       "SOURCE_FOUND": 31
@@ -107399,6 +107455,15 @@
       "proposed_entity_type": "RITUAL",
       "status": "BASELINE_COMPLETE",
       "target_label": "Sango living-tradition authority and permission register"
+    },
+    {
+      "civilization_id": "civ.norse",
+      "id": "queue.v0270.norse.ask_embla_gift_lexemes",
+      "next_action": "Collate normalized Old Norse forms in Völuspá 18 and Gylfaginning 9 from authorized editions; record lexical uncertainty without copying modern translations.",
+      "priority": 99,
+      "proposed_entity_type": "TEXT",
+      "status": "DISCOVERED",
+      "target_label": "Ask and Embla gift-term word alignment"
     },
     {
       "civilization_id": "civ.egyptian",
@@ -107555,6 +107620,15 @@
     },
     {
       "civilization_id": "civ.ugaritic",
+      "id": "queue.v0270.ugaritic.baal_witness_alignment",
+      "next_action": "Align KTU 1.2, 1.5 and 1.6 only where an authorized edition supplies exact columns and damage status; never synthesize a continuous modern narrative.",
+      "priority": 98,
+      "proposed_entity_type": "TEXT",
+      "status": "DISCOVERED",
+      "target_label": "Baal Cycle tablet-by-tablet witness alignment"
+    },
+    {
+      "civilization_id": "civ.ugaritic",
       "id": "queue.ugarit.baal_title",
       "next_action": "Extend title-versus-name audit to regional Baal compounds and each corpus occurrence",
       "priority": 98,
@@ -107624,6 +107698,15 @@
       "proposed_entity_type": "CONCEPT",
       "status": "PARTIAL",
       "target_label": "Heliopolitan Ra, Atum and Khepri textual layers"
+    },
+    {
+      "civilization_id": "civ.japanese_shinto",
+      "id": "queue.v0270.japanese.thunder_homonym_alignment",
+      "next_action": "Create source-specific witness rows for Kojiki, Yamashiro Fudoki fragments and shrine records; retain separate entity IDs unless explicit identity evidence is found.",
+      "priority": 98,
+      "proposed_entity_type": "DEITY",
+      "status": "CONFLICT",
+      "target_label": "Japanese thunder homonym and local-witness alignment"
     },
     {
       "civilization_id": "civ.japanese_shinto",
@@ -111839,9 +111922,11 @@
           "sourceId": "source.greek.homeric_hymn_demeter.scaife",
           "sourceLocation": "Hymn 2, lines 1–495",
           "versionOrder": 1,
+          "witnessProfile": null,
           "witnessScope": "古希腊赞歌的数字文本见证"
         }
-      ]
+      ],
+      "witnessComparisons": []
     },
     {
       "accessLevel": "PUBLIC_CONTEXT",
@@ -112129,9 +112214,11 @@
           "sourceId": "source.egypt.luxor.mota",
           "sourceLocation": "Official Luxor Temple record, monument description",
           "versionOrder": 1,
+          "witnessProfile": null,
           "witnessScope": "现代埃及官方遗址档案对古代祭典路线与纪念物的公开说明"
         }
-      ]
+      ],
+      "witnessComparisons": []
     },
     {
       "accessLevel": "PUBLIC_CONTEXT",
@@ -112426,9 +112513,11 @@
           "sourceId": "source.greek.eleusis_acropolis_exhibition2018",
           "sourceLocation": "Exhibition description, route paragraph",
           "versionOrder": 1,
+          "witnessProfile": null,
           "witnessScope": "现代希腊博物馆对古代公开宗教进程及其考古语境的说明"
         }
-      ]
+      ],
+      "witnessComparisons": []
     },
     {
       "accessLevel": "PUBLIC_CONTEXT",
@@ -112649,9 +112738,11 @@
           "sourceId": "source.greek.theogony.perseus_eng1",
           "sourceLocation": "lines 617–735",
           "versionOrder": 1,
+          "witnessProfile": null,
           "witnessScope": "赫西俄德《神谱》的英语数字版定位"
         }
-      ]
+      ],
+      "witnessComparisons": []
     },
     {
       "accessLevel": "PUBLIC_CONTEXT",
@@ -112889,9 +112980,11 @@
           "sourceId": "source.greek.theogony.perseus_eng1",
           "sourceLocation": "lines 820–885",
           "versionOrder": 1,
+          "witnessProfile": null,
           "witnessScope": "赫西俄德提丰战斗段落"
         }
-      ]
+      ],
+      "witnessComparisons": []
     },
     {
       "accessLevel": "PUBLIC_CONTEXT",
@@ -113130,9 +113223,11 @@
           "sourceId": "source.greek.apollodorus.library.topostext",
           "sourceLocation": "Library 1.9.28",
           "versionOrder": 1,
+          "witnessProfile": null,
           "witnessScope": "伪阿波罗多洛斯神话汇编见证"
         }
-      ]
+      ],
+      "witnessComparisons": []
     },
     {
       "accessLevel": "PUBLIC_CONTEXT",
@@ -113158,7 +113253,7 @@
           "variantGroup": "aphrodite.parentage_origin"
         }
       ],
-      "editorialNote": "两个古代见证分别保存，并连接现有谱系冲突档案。",
+      "editorialNote": "两个古代见证逐段并列；“未陈述”与“已见证”分开，不合成统一出生叙事。",
       "evidenceStatus": "CONFLICTING",
       "featuredOrder": 50,
       "id": "story.greek.aphrodite_origins",
@@ -113328,6 +113423,22 @@
           "sourceId": "source.greek.theogony.perseus_eng1",
           "sourceLocation": "lines 188–206",
           "versionOrder": 1,
+          "witnessProfile": {
+            "editorialNoteEn": "Greek work and deity names are retained; the comparison publishes independent summaries only.",
+            "editorialNoteZh": "作品名与神名保留希腊文；对读正文只发布独立中文概述。",
+            "historicalStage": null,
+            "iso6393": "grc",
+            "languageId": "lang.grc",
+            "languageName": "Ancient Greek",
+            "languageNameZh": "古希腊语",
+            "rightsBoundary": "Perseus 呈现遵循 CC BY-SA；不复制长段现代译文。",
+            "scriptName": "Greek",
+            "sourceLocation": "lines 188–206",
+            "witnessLabelOriginal": "Ἀφροδίτη",
+            "witnessLabelTransliteration": "Aphrodítē",
+            "workTitleOriginal": "Θεογονία",
+            "workTitleTransliteration": "Theogonía"
+          },
           "witnessScope": "赫西俄德谱系诗见证"
         },
         {
@@ -113526,7 +113637,241 @@
           "sourceId": "source.greek.iliad.scaife",
           "sourceLocation": "Book 5, lines 370–372; Book 14, line 193",
           "versionOrder": 2,
+          "witnessProfile": {
+            "editorialNoteEn": "The two locators witness kinship language and are not expanded into a complete birth scene.",
+            "editorialNoteZh": "两个定位是亲属称谓见证，不被补写成完整出生场景。",
+            "historicalStage": null,
+            "iso6393": "grc",
+            "languageId": "lang.grc",
+            "languageName": "Ancient Greek",
+            "languageNameZh": "古希腊语",
+            "rightsBoundary": "仅显示元数据、定位与独立概述；不批量复制译文。",
+            "scriptName": "Greek",
+            "sourceLocation": "Book 5, lines 370–372; Book 14, line 193",
+            "witnessLabelOriginal": "Ἀφροδίτη / Διώνη",
+            "witnessLabelTransliteration": "Aphrodítē / Diṓnē",
+            "workTitleOriginal": "Ἰλιάς",
+            "workTitleTransliteration": "Iliás"
+          },
           "witnessScope": "史诗中的亲属称谓见证"
+        }
+      ],
+      "witnessComparisons": [
+        {
+          "editorialNoteEn": "The Theogony provides a narrative scene; the selected Iliad passages provide kinship language only.",
+          "editorialNoteZh": "《神谱》提供叙事场景；《伊利亚特》所选定位只提供亲属称谓。",
+          "id": "wcomp.aphrodite.01_origin_scene",
+          "members": [
+            {
+              "anchorClaimId": "claim.v050.theogony.aphrodite_origin",
+              "differenceNoteEn": "This is a narrative passage rather than a single kinship designation.",
+              "differenceNoteZh": "这是完整叙事段落，而非单一亲属称谓。",
+              "evidenceState": "ATTESTED",
+              "iso6393": "grc",
+              "languageId": "lang.grc",
+              "languageName": "Ancient Greek",
+              "languageNameZh": "古希腊语",
+              "memberOrder": 1,
+              "originalForm": "Ἀφροδίτη",
+              "scriptName": "Greek",
+              "sourceLocation": "Theogony, lines 188–206",
+              "storySectionId": "storysec.aphro.theogony.2",
+              "storyVersionId": "storyver.greek.aphrodite_theogony",
+              "summaryEn": "Narrates Aphrodite forming and appearing from the sea.",
+              "summaryZh": "叙述阿佛洛狄忒在海中形成并显现。",
+              "transliteration": "Aphrodítē",
+              "versionLabelEn": "Theogony sea-birth account",
+              "versionLabelZh": "《神谱》海中诞生版本"
+            },
+            {
+              "anchorClaimId": null,
+              "differenceNoteEn": "Only the absence in the selected locators is recorded; no conclusion is inferred from silence.",
+              "differenceNoteZh": "只保留“当前定位未陈述”；不从沉默推演结论。",
+              "evidenceState": "NOT_STATED",
+              "iso6393": "grc",
+              "languageId": "lang.grc",
+              "languageName": "Ancient Greek",
+              "languageNameZh": "古希腊语",
+              "memberOrder": 2,
+              "originalForm": "Ἀφροδίτη",
+              "scriptName": "Greek",
+              "sourceLocation": "Iliad 5.370–372; 14.193",
+              "storySectionId": null,
+              "storyVersionId": "storyver.greek.aphrodite_iliad",
+              "summaryEn": "The selected passages do not narrate a complete birth process.",
+              "summaryZh": "当前定位没有叙述完整出生过程。",
+              "transliteration": "Aphrodítē",
+              "versionLabelEn": "Iliad Zeus-Dione genealogy",
+              "versionLabelZh": "《伊利亚特》宙斯—狄俄涅谱系"
+            }
+          ],
+          "order": 1,
+          "scope": "ASYMMETRIC_WITNESS",
+          "synthesisPolicy": "KEEP_SEPARATE",
+          "topicEn": "Origin or birth scene",
+          "topicZh": "起源／出生场景"
+        },
+        {
+          "editorialNoteEn": "Not stated is not counter-evidence and does not mean that the text rejects Dione.",
+          "editorialNoteZh": "“未陈述”不是反证，也不等于该文本否定狄俄涅。",
+          "id": "wcomp.aphrodite.02_mother_term",
+          "members": [
+            {
+              "anchorClaimId": null,
+              "differenceNoteEn": "Not stated does not mean that the text rejects Dione.",
+              "differenceNoteZh": "未陈述不等于文本否定狄俄涅。",
+              "evidenceState": "NOT_STATED",
+              "iso6393": "grc",
+              "languageId": "lang.grc",
+              "languageName": "Ancient Greek",
+              "languageNameZh": "古希腊语",
+              "memberOrder": 1,
+              "originalForm": "Ἀφροδίτη",
+              "scriptName": "Greek",
+              "sourceLocation": "Theogony, lines 188–206",
+              "storySectionId": null,
+              "storyVersionId": "storyver.greek.aphrodite_theogony",
+              "summaryEn": "The selected origin passage does not call Dione the mother.",
+              "summaryZh": "当前起源段落没有把狄俄涅称为母亲。",
+              "transliteration": "Aphrodítē",
+              "versionLabelEn": "Theogony sea-birth account",
+              "versionLabelZh": "《神谱》海中诞生版本"
+            },
+            {
+              "anchorClaimId": "claim.v050.iliad5.aphrodite_child_dione",
+              "differenceNoteEn": "This is kinship evidence, not a complete birth narrative.",
+              "differenceNoteZh": "这是亲属称谓见证，不是完整诞生叙事。",
+              "evidenceState": "ATTESTED",
+              "iso6393": "grc",
+              "languageId": "lang.grc",
+              "languageName": "Ancient Greek",
+              "languageNameZh": "古希腊语",
+              "memberOrder": 2,
+              "originalForm": "Διώνη",
+              "scriptName": "Greek",
+              "sourceLocation": "Iliad, Book 5, lines 370–372",
+              "storySectionId": "storysec.aphro.iliad.1",
+              "storyVersionId": "storyver.greek.aphrodite_iliad",
+              "summaryEn": "The passage designates Dione as Aphrodite’s mother.",
+              "summaryZh": "文本把狄俄涅称为阿佛洛狄忒的母亲。",
+              "transliteration": "Diṓnē",
+              "versionLabelEn": "Iliad Zeus-Dione genealogy",
+              "versionLabelZh": "《伊利亚特》宙斯—狄俄涅谱系"
+            }
+          ],
+          "order": 2,
+          "scope": "ASYMMETRIC_WITNESS",
+          "synthesisPolicy": "KEEP_SEPARATE",
+          "topicEn": "Maternal designation",
+          "topicZh": "母亲称谓"
+        },
+        {
+          "editorialNoteEn": "The kinship designation and sea-birth narrative remain side by side without forced harmonization.",
+          "editorialNoteZh": "称谓与海中诞生叙事并列保存，不强制统一。",
+          "id": "wcomp.aphrodite.03_zeus_daughter",
+          "members": [
+            {
+              "anchorClaimId": null,
+              "differenceNoteEn": "Only the scope of this passage is recorded.",
+              "differenceNoteZh": "只记录此段落的文本范围。",
+              "evidenceState": "NOT_STATED",
+              "iso6393": "grc",
+              "languageId": "lang.grc",
+              "languageName": "Ancient Greek",
+              "languageNameZh": "古希腊语",
+              "memberOrder": 1,
+              "originalForm": "Ἀφροδίτη",
+              "scriptName": "Greek",
+              "sourceLocation": "Theogony, lines 188–206",
+              "storySectionId": null,
+              "storyVersionId": "storyver.greek.aphrodite_theogony",
+              "summaryEn": "The selected origin passage does not use a daughter-of-Zeus designation.",
+              "summaryZh": "当前起源段落没有使用“宙斯之女”称谓。",
+              "transliteration": "Aphrodítē",
+              "versionLabelEn": "Theogony sea-birth account",
+              "versionLabelZh": "《神谱》海中诞生版本"
+            },
+            {
+              "anchorClaimId": "claim.v050.iliad14.aphrodite_child_zeus",
+              "differenceNoteEn": "The designation does not automatically supply a birth process.",
+              "differenceNoteZh": "称谓不自动提供出生过程。",
+              "evidenceState": "ATTESTED",
+              "iso6393": "grc",
+              "languageId": "lang.grc",
+              "languageName": "Ancient Greek",
+              "languageNameZh": "古希腊语",
+              "memberOrder": 2,
+              "originalForm": "Διὸς θυγάτηρ",
+              "scriptName": "Greek",
+              "sourceLocation": "Iliad, Book 14, line 193",
+              "storySectionId": "storysec.aphro.iliad.2",
+              "storyVersionId": "storyver.greek.aphrodite_iliad",
+              "summaryEn": "The passage uses a daughter-of-Zeus designation.",
+              "summaryZh": "文本使用宙斯之女的称谓。",
+              "transliteration": "Diòs thugátēr",
+              "versionLabelEn": "Iliad Zeus-Dione genealogy",
+              "versionLabelZh": "《伊利亚特》宙斯—狄俄涅谱系"
+            }
+          ],
+          "order": 3,
+          "scope": "ASYMMETRIC_WITNESS",
+          "synthesisPolicy": "KEEP_SEPARATE",
+          "topicEn": "Daughter-of-Zeus designation",
+          "topicZh": "宙斯之女称谓"
+        },
+        {
+          "editorialNoteEn": "The current record supports two coexisting ancient witnesses, not a third synthesized account.",
+          "editorialNoteZh": "当前资料支持两个古代见证并存，不支持合成第三个统一版本。",
+          "id": "wcomp.aphrodite.04_editorial_result",
+          "members": [
+            {
+              "anchorClaimId": "claim.v050.theogony.aphrodite_origin",
+              "differenceNoteEn": "It is not rewritten by Iliadic kinship language.",
+              "differenceNoteZh": "不由《伊利亚特》称谓改写。",
+              "evidenceState": "ATTESTED",
+              "iso6393": "grc",
+              "languageId": "lang.grc",
+              "languageName": "Ancient Greek",
+              "languageNameZh": "古希腊语",
+              "memberOrder": 1,
+              "originalForm": "Θεογονία",
+              "scriptName": "Greek",
+              "sourceLocation": "Theogony, lines 188–206",
+              "storySectionId": "storysec.aphro.theogony.3",
+              "storyVersionId": "storyver.greek.aphrodite_theogony",
+              "summaryEn": "The sea-birth witness remains independent.",
+              "summaryZh": "海中诞生见证独立保留。",
+              "transliteration": "Theogonía",
+              "versionLabelEn": "Theogony sea-birth account",
+              "versionLabelZh": "《神谱》海中诞生版本"
+            },
+            {
+              "anchorClaimId": "claim.v050.iliad5.dione_mentioned",
+              "differenceNoteEn": "It is not rewritten as the Theogony sea birth.",
+              "differenceNoteZh": "不被改写为《神谱》海中诞生。",
+              "evidenceState": "ATTESTED",
+              "iso6393": "grc",
+              "languageId": "lang.grc",
+              "languageName": "Ancient Greek",
+              "languageNameZh": "古希腊语",
+              "memberOrder": 2,
+              "originalForm": "Ἰλιάς",
+              "scriptName": "Greek",
+              "sourceLocation": "Iliad 5.370–372; 14.193",
+              "storySectionId": "storysec.aphro.iliad.3",
+              "storyVersionId": "storyver.greek.aphrodite_iliad",
+              "summaryEn": "The Zeus-Dione kinship witness remains independent.",
+              "summaryZh": "宙斯—狄俄涅亲属见证独立保留。",
+              "transliteration": "Iliás",
+              "versionLabelEn": "Iliad Zeus-Dione genealogy",
+              "versionLabelZh": "《伊利亚特》宙斯—狄俄涅谱系"
+            }
+          ],
+          "order": 4,
+          "scope": "DIVERGENT_ACCOUNT",
+          "synthesisPolicy": "NO_SYNTHESIS",
+          "topicEn": "Current comparison result",
+          "topicZh": "当前对读结论"
         }
       ]
     },
@@ -113536,8 +113881,25 @@
       "civilizationId": "civ.norse",
       "civilizationName": "Norse",
       "civilizationNameZh": "北欧",
-      "conflicts": [],
-      "editorialNote": "目前只叙述数据库已逐条核对的人物与神祇组合，不补写未登记的赐予细节。",
+      "conflicts": [
+        {
+          "claimAId": "claim.v0190.voluspa_triad",
+          "claimAStatement": "Völuspá 17–18 presents Óðinn, Hœnir and Lóðurr in the Ask–Embla episode.",
+          "claimBId": "claim.v0190.gylf_triad",
+          "claimBStatement": "Gylfaginning identifies the sons of Borr as Óðinn, Vili and Vé in its creation sequence.",
+          "conflictType": "WITNESS_VARIANT",
+          "id": "conflict.v0270.norse.ask_embla_creator_triads",
+          "resolutionNotes": "Retain the poetic and prose triads as coexisting witnesses. Do not equate the differing deities without separate source-backed identity claims.",
+          "status": "OPEN",
+          "storyNotes": "v0.27 section-level witness comparison; no forced equivalence.",
+          "subjectId": "person.norse.ask",
+          "subjectName": "Ask",
+          "subjectNameZh": "阿斯克",
+          "summary": "Völuspá 17–18 presents Óðinn, Hœnir and Lóðurr, while Gylfaginning 8–9 presents Óðinn, Vili and Vé in the Ask–Embla creation frame.",
+          "variantGroup": "norse.ask_embla.creator_triads"
+        }
+      ],
+      "editorialNote": "诗歌与散文见证逐段并列；神祇组合差异进入显式冲突档案，逐词赐予层保持未建模。",
       "evidenceStatus": "CONFLICTING",
       "featuredOrder": 60,
       "id": "story.norse.ask_embla",
@@ -113792,6 +114154,22 @@
           "sourceId": "source.norse.poetic_edda.gks2365",
           "sourceLocation": "Völuspá stanzas 17–18",
           "versionOrder": 1,
+          "witnessProfile": {
+            "editorialNoteEn": "The electronic edition title and normalized Old Norse names are used without reproducing full stanzas.",
+            "editorialNoteZh": "采用电子校勘版的作品名与规范化古诺斯语人名；不复制完整诗节。",
+            "historicalStage": null,
+            "iso6393": "non",
+            "languageId": "lang.non",
+            "languageName": "Old Norse",
+            "languageNameZh": "古诺斯语",
+            "rightsBoundary": "电子版 CC BY-SA 4.0；手稿图像权利另从馆藏条款。",
+            "scriptName": "Latin manuscript transcription",
+            "sourceLocation": "Völuspá stanzas 17–18",
+            "witnessLabelOriginal": "Askr / Embla",
+            "witnessLabelTransliteration": "Askr / Embla",
+            "workTitleOriginal": "Völuspá",
+            "workTitleTransliteration": "Völuspá"
+          },
           "witnessScope": "《诗体埃达》手稿数字版见证"
         },
         {
@@ -114033,7 +114411,187 @@
           "sourceId": "source.norse.gylfaginning.vsnr2005",
           "sourceLocation": "Gylfaginning 8–9",
           "versionOrder": 2,
+          "witnessProfile": {
+            "editorialNoteEn": "Snorri’s prose witness remains separate from the poetic witness and is not treated as its translation.",
+            "editorialNoteZh": "斯诺里散文见证与诗歌见证分开，不把一者当作另一者的翻译。",
+            "historicalStage": null,
+            "iso6393": "non",
+            "languageId": "lang.non",
+            "languageName": "Old Norse",
+            "languageNameZh": "古诺斯语",
+            "rightsBoundary": "现代校勘与编辑内容受版权保护；仅发布定位、元数据与独立概述。",
+            "scriptName": "Latin manuscript transcription",
+            "sourceLocation": "Gylfaginning 8–9",
+            "witnessLabelOriginal": "Askr / Embla",
+            "witnessLabelTransliteration": "Askr / Embla",
+            "workTitleOriginal": "Gylfaginning",
+            "workTitleTransliteration": "Gylfaginning"
+          },
           "witnessScope": "斯诺里《埃达》学术版见证"
+        }
+      ],
+      "witnessComparisons": [
+        {
+          "editorialNoteEn": "Both witnesses explicitly name Ask and Embla.",
+          "editorialNoteZh": "两份见证都明确命名阿斯克与恩布拉。",
+          "id": "wcomp.ask_embla.01_human_pair",
+          "members": [
+            {
+              "anchorClaimId": "claim.v0190.voluspa_ask",
+              "differenceNoteEn": "The two names are shared elements; narrative details remain witness-specific.",
+              "differenceNoteZh": "两个人名是共享元素；叙述细节仍按见证分开。",
+              "evidenceState": "ATTESTED",
+              "iso6393": "non",
+              "languageId": "lang.non",
+              "languageName": "Old Norse",
+              "languageNameZh": "古诺斯语",
+              "memberOrder": 1,
+              "originalForm": "Askr / Embla",
+              "scriptName": "Latin manuscript transcription",
+              "sourceLocation": "Völuspá 17–18",
+              "storySectionId": "storysec.ask.voluspa.1",
+              "storyVersionId": "storyver.norse.ask_embla_voluspa",
+              "summaryEn": "The poetic witness names Ask and Embla.",
+              "summaryZh": "诗歌见证命名阿斯克与恩布拉。",
+              "transliteration": "Askr / Embla",
+              "versionLabelEn": "Voluspa 17–18",
+              "versionLabelZh": "《女巫预言》17–18节"
+            },
+            {
+              "anchorClaimId": "claim.v0190.gylf_ask",
+              "differenceNoteEn": "Shared names do not make the prose a simple copy of the poem.",
+              "differenceNoteZh": "同名不使散文成为诗歌的简单复本。",
+              "evidenceState": "ATTESTED",
+              "iso6393": "non",
+              "languageId": "lang.non",
+              "languageName": "Old Norse",
+              "languageNameZh": "古诺斯语",
+              "memberOrder": 2,
+              "originalForm": "Askr / Embla",
+              "scriptName": "Latin manuscript transcription",
+              "sourceLocation": "Gylfaginning 8–9",
+              "storySectionId": "storysec.ask.gylf.1",
+              "storyVersionId": "storyver.norse.ask_embla_gylf",
+              "summaryEn": "The prose witness also names Ask and Embla.",
+              "summaryZh": "散文见证同样命名阿斯克与恩布拉。",
+              "transliteration": "Askr / Embla",
+              "versionLabelEn": "Gylfaginning 8–9",
+              "versionLabelZh": "《欺骗古鲁菲》8–9章"
+            }
+          ],
+          "order": 1,
+          "scope": "SHARED_ELEMENT",
+          "synthesisPolicy": "KEEP_SEPARATE",
+          "topicEn": "Names of the first human pair",
+          "topicZh": "最初人类姓名"
+        },
+        {
+          "editorialNoteEn": "The poetic and prose triads are recorded separately; perceived functional similarity cannot establish identity.",
+          "editorialNoteZh": "诗歌三神与散文三神分别记录；功能相似不能建立身份等同。",
+          "id": "wcomp.ask_embla.02_divine_triad",
+          "members": [
+            {
+              "anchorClaimId": "claim.v0190.voluspa_triad",
+              "differenceNoteEn": "Hoenir and Lodurr are not automatically equated with Vili and Ve.",
+              "differenceNoteZh": "不把赫尼尔／洛杜尔自动等同于维利／维。",
+              "evidenceState": "ATTESTED",
+              "iso6393": "non",
+              "languageId": "lang.non",
+              "languageName": "Old Norse",
+              "languageNameZh": "古诺斯语",
+              "memberOrder": 1,
+              "originalForm": "Óðinn / Hœnir / Lóðurr",
+              "scriptName": "Latin manuscript transcription",
+              "sourceLocation": "Völuspá 17–18",
+              "storySectionId": "storysec.ask.voluspa.2",
+              "storyVersionId": "storyver.norse.ask_embla_voluspa",
+              "summaryEn": "The poem presents Odin, Hoenir, and Lodurr.",
+              "summaryZh": "诗歌列出奥丁、赫尼尔与洛杜尔。",
+              "transliteration": "Óðinn / Hœnir / Lóðurr",
+              "versionLabelEn": "Voluspa 17–18",
+              "versionLabelZh": "《女巫预言》17–18节"
+            },
+            {
+              "anchorClaimId": "claim.v0190.gylf_triad",
+              "differenceNoteEn": "The difference in divine groupings remains a textual variant.",
+              "differenceNoteZh": "神祇组合差异保持为文本版本差异。",
+              "evidenceState": "ATTESTED",
+              "iso6393": "non",
+              "languageId": "lang.non",
+              "languageName": "Old Norse",
+              "languageNameZh": "古诺斯语",
+              "memberOrder": 2,
+              "originalForm": "Óðinn / Vili / Vé",
+              "scriptName": "Latin manuscript transcription",
+              "sourceLocation": "Gylfaginning 8–9",
+              "storySectionId": "storysec.ask.gylf.2",
+              "storyVersionId": "storyver.norse.ask_embla_gylf",
+              "summaryEn": "The prose presents Odin, Vili, and Ve.",
+              "summaryZh": "散文列出奥丁、维利与维。",
+              "transliteration": "Óðinn / Vili / Vé",
+              "versionLabelEn": "Gylfaginning 8–9",
+              "versionLabelZh": "《欺骗古鲁菲》8–9章"
+            }
+          ],
+          "order": 2,
+          "scope": "DIVERGENT_ACCOUNT",
+          "synthesisPolicy": "KEEP_SEPARATE",
+          "topicEn": "Participating divine triad",
+          "topicZh": "参与的神祇组合"
+        },
+        {
+          "editorialNoteEn": "This checkpoint has not completed word-level alignment of the two Old Norse witnesses, so specific gifts are not supplied.",
+          "editorialNoteZh": "本检查点尚未完成两份古诺斯语见证的逐词对齐，故不补写具体赐予项目。",
+          "id": "wcomp.ask_embla.03_gift_lexemes",
+          "members": [
+            {
+              "anchorClaimId": null,
+              "differenceNoteEn": "The current structured checkpoint does not state them; the gap remains queued.",
+              "differenceNoteZh": "当前证据未说明于本结构化检查点；保留为研究队列。",
+              "evidenceState": "UNMODELED",
+              "iso6393": "non",
+              "languageId": "lang.non",
+              "languageName": "Old Norse",
+              "languageNameZh": "古诺斯语",
+              "memberOrder": 1,
+              "originalForm": "Völuspá 18",
+              "scriptName": "Latin manuscript transcription",
+              "sourceLocation": "Völuspá 17–18",
+              "storySectionId": null,
+              "storyVersionId": "storyver.norse.ask_embla_voluspa",
+              "summaryEn": "Specific gifts have not yet entered the word-level alignment layer.",
+              "summaryZh": "具体赐予项目尚未进入逐词对齐表。",
+              "transliteration": "Völuspá 18",
+              "versionLabelEn": "Voluspa 17–18",
+              "versionLabelZh": "《女巫预言》17–18节"
+            },
+            {
+              "anchorClaimId": null,
+              "differenceNoteEn": "Modern popular retellings are not used to fill the gap.",
+              "differenceNoteZh": "不凭现代通俗转述补齐。",
+              "evidenceState": "UNMODELED",
+              "iso6393": "non",
+              "languageId": "lang.non",
+              "languageName": "Old Norse",
+              "languageNameZh": "古诺斯语",
+              "memberOrder": 2,
+              "originalForm": "Gylfaginning 9",
+              "scriptName": "Latin manuscript transcription",
+              "sourceLocation": "Gylfaginning 8–9",
+              "storySectionId": null,
+              "storyVersionId": "storyver.norse.ask_embla_gylf",
+              "summaryEn": "Specific gifts have not yet entered the word-level alignment layer.",
+              "summaryZh": "具体赐予项目尚未进入逐词对齐表。",
+              "transliteration": "Gylfaginning 9",
+              "versionLabelEn": "Gylfaginning 8–9",
+              "versionLabelZh": "《欺骗古鲁菲》8–9章"
+            }
+          ],
+          "order": 3,
+          "scope": "EXPLICIT_UNKNOWN",
+          "synthesisPolicy": "NO_SYNTHESIS",
+          "topicEn": "Gift terms at word level",
+          "topicZh": "赐予项目的逐词层"
         }
       ]
     },
@@ -114326,9 +114884,11 @@
           "sourceId": "source.norse.skaldskaparmal.vsnr1998",
           "sourceLocation": "Skáldskaparmál 35",
           "versionOrder": 1,
+          "witnessProfile": null,
           "witnessScope": "斯诺里《诗语法》学术版见证"
         }
-      ]
+      ],
+      "witnessComparisons": []
     },
     {
       "accessLevel": "PUBLIC_CONTEXT",
@@ -114541,9 +115101,11 @@
           "sourceId": "source.norse.poetic_edda.gks2365",
           "sourceLocation": "Þrymskviða stanzas 1–32",
           "versionOrder": 1,
+          "witnessProfile": null,
           "witnessScope": "《诗体埃达》手稿数字版见证"
         }
-      ]
+      ],
+      "witnessComparisons": []
     },
     {
       "accessLevel": "PUBLIC_CONTEXT",
@@ -114747,9 +115309,11 @@
           "sourceId": "source.norse.prose_edda.vsnr",
           "sourceLocation": "Gylfaginning, Ragnarök account",
           "versionOrder": 1,
+          "witnessProfile": null,
           "witnessScope": "斯诺里《埃达》学术版见证"
         }
-      ]
+      ],
+      "witnessComparisons": []
     },
     {
       "accessLevel": "PUBLIC_CONTEXT",
@@ -114953,9 +115517,11 @@
           "sourceId": "source.norse.prose_edda.vsnr",
           "sourceLocation": "Gylfaginning 15",
           "versionOrder": 1,
+          "witnessProfile": null,
           "witnessScope": "斯诺里《埃达》学术版见证"
         }
-      ]
+      ],
+      "witnessComparisons": []
     },
     {
       "accessLevel": "PUBLIC_CONTEXT",
@@ -115142,9 +115708,11 @@
           "sourceId": "source.sumerian.inanna_descent.etcsl",
           "sourceLocation": "Composition 1.4.1",
           "versionOrder": 1,
+          "witnessProfile": null,
           "witnessScope": "牛津ETCSL苏美尔复合文本与公开译文"
         }
-      ]
+      ],
+      "witnessComparisons": []
     },
     {
       "accessLevel": "PUBLIC_CONTEXT",
@@ -115348,9 +115916,11 @@
           "sourceId": "source.babylonian.enuma_elish.ebl",
           "sourceLocation": "Poem of Creation corpus L/1/2",
           "versionOrder": 1,
+          "witnessProfile": null,
           "witnessScope": "电子巴比伦图书馆数字校勘语料"
         }
-      ]
+      ],
+      "witnessComparisons": []
     },
     {
       "accessLevel": "PUBLIC_CONTEXT",
@@ -115589,9 +116159,11 @@
           "sourceId": "source.mesopotamia.anzu_ninurta.oracc",
           "sourceLocation": "Anzu narrative synopsis",
           "versionOrder": 1,
+          "witnessProfile": null,
           "witnessScope": "ORACC学术数字展览"
         }
-      ]
+      ],
+      "witnessComparisons": []
     },
     {
       "accessLevel": "PUBLIC_CONTEXT",
@@ -115890,9 +116462,11 @@
           "sourceId": "source.ugaritic.ktu1_2.inventory.uchicago",
           "sourceLocation": "KTU 1.2 IV",
           "versionOrder": 1,
+          "witnessProfile": null,
           "witnessScope": "拉斯沙姆拉泥板库存与已登记学术见证"
         }
-      ]
+      ],
+      "witnessComparisons": []
     },
     {
       "accessLevel": "PUBLIC_CONTEXT",
@@ -116122,9 +116696,11 @@
           "sourceId": "source.ugaritic.baal_corpus_ktu15_16.goettingen",
           "sourceLocation": "KTU 1.5–1.6 corpus overview",
           "versionOrder": 1,
+          "witnessProfile": null,
           "witnessScope": "哥廷根巴力史诗语料与泥板对照"
         }
-      ]
+      ],
+      "witnessComparisons": []
     },
     {
       "accessLevel": "PUBLIC_CONTEXT",
@@ -116388,9 +116964,11 @@
           "sourceId": "source.vedic.rigveda.1_32.vhp",
           "sourceLocation": "Mandala 1, Sukta 32, verses 1–15",
           "versionOrder": 1,
+          "witnessProfile": null,
           "witnessScope": "印度国家英迪拉甘地艺术中心吠陀遗产门户"
         }
-      ]
+      ],
+      "witnessComparisons": []
     },
     {
       "accessLevel": "PUBLIC_CONTEXT",
@@ -116713,9 +117291,11 @@
           "sourceId": "source.japanese.kojiki_kami_index.kokugakuin",
           "sourceLocation": "Upper Scroll, Yomi episode",
           "versionOrder": 1,
+          "witnessProfile": null,
           "witnessScope": "國學院大学《古事记》神名学术索引"
         }
-      ]
+      ],
+      "witnessComparisons": []
     },
     {
       "accessLevel": "ATTRIBUTION_REQUIRED",
@@ -116980,9 +117560,11 @@
           "sourceId": "source.japanese.kamo_genealogy.kokugakuin",
           "sourceLocation": "Fragmentary Yamashiro no kuni fudoki genealogy discussion",
           "versionOrder": 1,
+          "witnessProfile": null,
           "witnessScope": "國學院大学神道百科对逸文的公开学术说明"
         }
-      ]
+      ],
+      "witnessComparisons": []
     },
     {
       "accessLevel": "PUBLIC_CONTEXT",
@@ -117203,9 +117785,11 @@
           "sourceId": "source.egypt.nauny_book_dead.met.30_3_31",
           "sourceLocation": "Nauny object catalogue context",
           "versionOrder": 1,
+          "witnessProfile": null,
           "witnessScope": "娜乌妮《亡灵书》对象与公开馆藏说明"
         }
-      ]
+      ],
+      "witnessComparisons": []
     },
     {
       "accessLevel": "PUBLIC_CONTEXT",
@@ -117409,9 +117993,11 @@
           "sourceId": "source.chinese.shanhaijing_leize.ctext",
           "sourceLocation": "Hai Nei Dong Jing",
           "versionOrder": 1,
+          "witnessProfile": null,
           "witnessScope": "传世《山海经》数字文本段落"
         }
-      ]
+      ],
+      "witnessComparisons": []
     },
     {
       "accessLevel": "ATTRIBUTION_REQUIRED",
@@ -117634,9 +118220,11 @@
           "sourceId": "source.maori.creation.teara",
           "sourceLocation": "Māori creation traditions public overview",
           "versionOrder": 1,
+          "witnessProfile": null,
           "witnessScope": "新西兰政府Te Ara的公开、具原住民语境的策展概述"
         }
-      ]
+      ],
+      "witnessComparisons": []
     }
   ]
 }

@@ -67,6 +67,21 @@
 - `museum_object_profiles`：馆藏机构、编号、类型、出土地和取得信息。
 - `modern_adaptations`：现代实体与古代原型的独立连接；现代能力不会写回古代实体。
 
+## 故事、见证与逐项对读
+
+| Table | Purpose | Boundary |
+|---|---|---|
+| `stories` | 可阅读故事总档 | 只作为阅读入口，不是合成原典 |
+| `story_versions` | 每份独立文本见证 | 来源、定位、语言与叙述范围按版本保存 |
+| `story_sections` | 见证内的双语阅读分段 | 可连接 Claim；概述不替代原文或现代译本 |
+| `story_witness_profiles` | 原题、转写、原文标签、语言、文字、编辑与权利边界 | 一份档案只属于一个故事版本 |
+| `story_witness_comparisons` | 同一故事内的逐项对读主题 | `KEEP_SEPARATE`／`NO_SYNTHESIS` 禁止生成统一文本 |
+| `story_witness_comparison_members` | 每个主题下的见证特定结果 | `ATTESTED`、`NOT_STATED`、`UNMODELED`、`DAMAGED`、`INFERRED` 不可互换 |
+| `story_event_nodes` | 见证内事件顺序与显式地点 | 顺序不是绝对年代；无来源坐标不推测 |
+| `reading_routes` / `reading_route_steps` | 跨故事编辑导航 | 路线不证明跨文明同源 |
+
+`NOT_STATED` 只表示当前指定定位未陈述某项，不能推导为文本反对该项。`UNMODELED` 表示结构化工作尚未完成，必须继续进入研究队列。对读成员可连接 `story_section_id` 与 `anchor_claim_id`；只有 `ATTESTED` 项才应借此回到已登记 Evidence。
+
 ## 研究与质量
 
 - `collection_queue`：永久候选队列。

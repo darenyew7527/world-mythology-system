@@ -2,7 +2,7 @@
 
 数据库：`world_mythology.sqlite`。本页由 `scripts/generate_schema_catalog.py` 从实际数据库反射生成。
 
-- 持久表：56
+- 持久表：59
 - 只读视图：32
 
 ## 对象索引
@@ -14,15 +14,15 @@
 | `civilization_languages` | table | 23 |
 | `civilizations` | table | 99 |
 | `claims` | table | 612 |
-| `collection_queue` | table | 112 |
+| `collection_queue` | table | 115 |
 | `comparison_set_members` | table | 16 |
 | `comparison_sets` | table | 2 |
-| `conflicts` | table | 32 |
-| `coverage_metrics` | table | 789 |
-| `coverage_reports` | table | 26 |
+| `conflicts` | table | 33 |
+| `coverage_metrics` | table | 829 |
+| `coverage_reports` | table | 27 |
 | `creature_profiles` | table | 17 |
 | `cultures` | table | 18 |
-| `dataset_releases` | table | 26 |
+| `dataset_releases` | table | 27 |
 | `deity_profiles` | table | 177 |
 | `entities` | table | 637 |
 | `entity_attributes` | table | 0 |
@@ -32,7 +32,7 @@
 | `entity_types` | table | 55 |
 | `event_participants` | table | 21 |
 | `evidence` | table | 608 |
-| `explorer_feature_registry` | table | 11 |
+| `explorer_feature_registry` | table | 12 |
 | `identity_candidates` | table | 21 |
 | `import_errors` | table | 0 |
 | `import_runs` | table | 0 |
@@ -42,26 +42,29 @@
 | `myth_event_profiles` | table | 16 |
 | `names` | table | 1368 |
 | `place_profiles` | table | 93 |
-| `project_metadata` | table | 9 |
+| `project_metadata` | table | 10 |
 | `quality_findings` | table | 0 |
 | `quality_runs` | table | 1 |
-| `queue_discoveries` | table | 102 |
+| `queue_discoveries` | table | 105 |
 | `queue_status_history` | table | 78 |
 | `reading_route_steps` | table | 23 |
 | `reading_routes` | table | 6 |
 | `regions` | table | 22 |
 | `relationship_types` | table | 80 |
-| `research_session_items` | table | 522 |
-| `research_sessions` | table | 25 |
-| `schema_migrations` | table | 35 |
+| `research_session_items` | table | 527 |
+| `research_sessions` | table | 26 |
+| `schema_migrations` | table | 36 |
 | `sources` | table | 203 |
 | `stories` | table | 23 |
 | `story_claim_links` | table | 117 |
-| `story_conflict_links` | table | 1 |
+| `story_conflict_links` | table | 2 |
 | `story_entity_links` | table | 115 |
 | `story_event_nodes` | table | 77 |
 | `story_sections` | table | 77 |
 | `story_versions` | table | 25 |
+| `story_witness_comparison_members` | table | 14 |
+| `story_witness_comparisons` | table | 7 |
+| `story_witness_profiles` | table | 4 |
 | `text_profiles` | table | 150 |
 | `tradition_access_policies` | table | 8 |
 | `tradition_links` | table | 6 |
@@ -2018,6 +2021,141 @@ CREATE TABLE story_versions (
     rights_note TEXT,
     created_at TEXT NOT NULL,
     UNIQUE(story_id, source_id, source_location, version_label_en)
+)
+```
+
+## `story_witness_comparison_members` (table)
+
+| 序号 | 字段 | SQLite 类型 | NOT NULL | 默认值 | PK 序位 |
+|---:|---|---|---:|---|---:|
+| 0 | `comparison_id` | TEXT | 1 |  | 1 |
+| 1 | `story_version_id` | TEXT | 1 |  | 2 |
+| 2 | `story_section_id` | TEXT | 0 |  | 0 |
+| 3 | `member_order` | INTEGER | 1 |  | 0 |
+| 4 | `evidence_state` | TEXT | 1 |  | 0 |
+| 5 | `original_form` | TEXT | 0 |  | 0 |
+| 6 | `transliteration` | TEXT | 0 |  | 0 |
+| 7 | `source_location` | TEXT | 1 |  | 0 |
+| 8 | `anchor_claim_id` | TEXT | 0 |  | 0 |
+| 9 | `summary_zh` | TEXT | 1 |  | 0 |
+| 10 | `summary_en` | TEXT | 1 |  | 0 |
+| 11 | `difference_note_zh` | TEXT | 1 |  | 0 |
+| 12 | `difference_note_en` | TEXT | 1 |  | 0 |
+| 13 | `created_at` | TEXT | 1 |  | 0 |
+
+外键：
+
+| 字段 | 目标 | ON UPDATE | ON DELETE |
+|---|---|---|---|
+| `anchor_claim_id` | `claims.id` | NO ACTION | NO ACTION |
+| `story_section_id` | `story_sections.id` | NO ACTION | SET NULL |
+| `story_version_id` | `story_versions.id` | NO ACTION | CASCADE |
+| `comparison_id` | `story_witness_comparisons.id` | NO ACTION | CASCADE |
+
+定义：
+
+```sql
+CREATE TABLE story_witness_comparison_members (
+    comparison_id TEXT NOT NULL REFERENCES story_witness_comparisons(id) ON DELETE CASCADE,
+    story_version_id TEXT NOT NULL REFERENCES story_versions(id) ON DELETE CASCADE,
+    story_section_id TEXT REFERENCES story_sections(id) ON DELETE SET NULL,
+    member_order INTEGER NOT NULL CHECK(member_order >= 1),
+    evidence_state TEXT NOT NULL
+        CHECK(evidence_state IN ('ATTESTED','NOT_STATED','UNMODELED','DAMAGED','INFERRED')),
+    original_form TEXT,
+    transliteration TEXT,
+    source_location TEXT NOT NULL,
+    anchor_claim_id TEXT REFERENCES claims(id),
+    summary_zh TEXT NOT NULL,
+    summary_en TEXT NOT NULL,
+    difference_note_zh TEXT NOT NULL,
+    difference_note_en TEXT NOT NULL,
+    created_at TEXT NOT NULL,
+    PRIMARY KEY(comparison_id, story_version_id)
+)
+```
+
+## `story_witness_comparisons` (table)
+
+| 序号 | 字段 | SQLite 类型 | NOT NULL | 默认值 | PK 序位 |
+|---:|---|---|---:|---|---:|
+| 0 | `id` | TEXT | 0 |  | 1 |
+| 1 | `story_id` | TEXT | 1 |  | 0 |
+| 2 | `comparison_order` | INTEGER | 1 |  | 0 |
+| 3 | `topic_zh` | TEXT | 1 |  | 0 |
+| 4 | `topic_en` | TEXT | 1 |  | 0 |
+| 5 | `comparison_scope` | TEXT | 1 |  | 0 |
+| 6 | `synthesis_policy` | TEXT | 1 | 'KEEP_SEPARATE' | 0 |
+| 7 | `editorial_note_zh` | TEXT | 1 |  | 0 |
+| 8 | `editorial_note_en` | TEXT | 1 |  | 0 |
+| 9 | `created_at` | TEXT | 1 |  | 0 |
+
+外键：
+
+| 字段 | 目标 | ON UPDATE | ON DELETE |
+|---|---|---|---|
+| `story_id` | `stories.id` | NO ACTION | CASCADE |
+
+定义：
+
+```sql
+CREATE TABLE story_witness_comparisons (
+    id TEXT PRIMARY KEY,
+    story_id TEXT NOT NULL REFERENCES stories(id) ON DELETE CASCADE,
+    comparison_order INTEGER NOT NULL CHECK(comparison_order >= 1),
+    topic_zh TEXT NOT NULL,
+    topic_en TEXT NOT NULL,
+    comparison_scope TEXT NOT NULL
+        CHECK(comparison_scope IN ('SHARED_ELEMENT','DIVERGENT_ACCOUNT','ASYMMETRIC_WITNESS','EXPLICIT_UNKNOWN')),
+    synthesis_policy TEXT NOT NULL DEFAULT 'KEEP_SEPARATE'
+        CHECK(synthesis_policy IN ('KEEP_SEPARATE','NO_SYNTHESIS')),
+    editorial_note_zh TEXT NOT NULL,
+    editorial_note_en TEXT NOT NULL,
+    created_at TEXT NOT NULL,
+    UNIQUE(story_id, comparison_order)
+)
+```
+
+## `story_witness_profiles` (table)
+
+| 序号 | 字段 | SQLite 类型 | NOT NULL | 默认值 | PK 序位 |
+|---:|---|---|---:|---|---:|
+| 0 | `story_version_id` | TEXT | 0 |  | 1 |
+| 1 | `work_title_original` | TEXT | 1 |  | 0 |
+| 2 | `work_title_transliteration` | TEXT | 0 |  | 0 |
+| 3 | `witness_label_original` | TEXT | 0 |  | 0 |
+| 4 | `witness_label_transliteration` | TEXT | 0 |  | 0 |
+| 5 | `language_id` | TEXT | 1 |  | 0 |
+| 6 | `script_name` | TEXT | 0 |  | 0 |
+| 7 | `source_location` | TEXT | 1 |  | 0 |
+| 8 | `editorial_note_zh` | TEXT | 1 |  | 0 |
+| 9 | `editorial_note_en` | TEXT | 1 |  | 0 |
+| 10 | `rights_boundary` | TEXT | 1 |  | 0 |
+| 11 | `created_at` | TEXT | 1 |  | 0 |
+
+外键：
+
+| 字段 | 目标 | ON UPDATE | ON DELETE |
+|---|---|---|---|
+| `language_id` | `languages.id` | NO ACTION | NO ACTION |
+| `story_version_id` | `story_versions.id` | NO ACTION | CASCADE |
+
+定义：
+
+```sql
+CREATE TABLE story_witness_profiles (
+    story_version_id TEXT PRIMARY KEY REFERENCES story_versions(id) ON DELETE CASCADE,
+    work_title_original TEXT NOT NULL,
+    work_title_transliteration TEXT,
+    witness_label_original TEXT,
+    witness_label_transliteration TEXT,
+    language_id TEXT NOT NULL REFERENCES languages(id),
+    script_name TEXT,
+    source_location TEXT NOT NULL,
+    editorial_note_zh TEXT NOT NULL,
+    editorial_note_en TEXT NOT NULL,
+    rights_boundary TEXT NOT NULL,
+    created_at TEXT NOT NULL
 )
 ```
 

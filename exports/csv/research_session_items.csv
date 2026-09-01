@@ -521,3 +521,8 @@ session.20260830.v0260,STORY,story.egyptian.opet_procession,CREATE,Source-backed
 session.20260830.v0260,STORY,story.greek.eleusinia_procession,CREATE,Public route narrative with secret-rite boundary.
 session.20260830.v0260,SCHEMA,story_event_nodes,CREATE,Ordered narrative nodes with explicit place and coordinate policies.
 session.20260830.v0260,SCHEMA,reading_routes,CREATE,Six editorial reading routes with witness-specific steps.
+session.20260831.v0270,SCHEMA,story_witness_profiles,CREATE,"Original titles, transliterations, language metadata and rights boundaries added."
+session.20260831.v0270,SCHEMA,story_witness_comparisons,CREATE,Section-level comparison topics and no-synthesis policies added.
+session.20260831.v0270,STORY,story.greek.aphrodite_origins,COMPARE,Four asymmetric comparison rows preserve Theogony and Iliad witnesses.
+session.20260831.v0270,STORY,story.norse.ask_embla,COMPARE,"Shared names, divergent triads and unmodeled gift terms exposed."
+session.20260831.v0270,CONFLICT,conflict.v0270.norse.ask_embla_creator_triads,CREATE,Poetic and prose creator triads retained as source-level variants.

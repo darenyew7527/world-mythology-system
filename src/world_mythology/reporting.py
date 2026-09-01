@@ -123,8 +123,16 @@ def _generate_story_profiles(conn, profile_root: Path) -> int:
     ):
         versions = conn.execute(
             """SELECT sv.*,src.title AS source_title,src.url AS source_url,
-                      src.institution,src.rights_status
+                      src.institution,src.rights_status,
+                      swp.work_title_original,swp.work_title_transliteration,
+                      swp.witness_label_original,swp.witness_label_transliteration,
+                      swp.script_name AS witness_script,swp.editorial_note_zh AS witness_editorial_note_zh,
+                      swp.rights_boundary AS witness_rights_boundary,
+                      lang.canonical_name AS witness_language_en,lang.name_zh AS witness_language_zh,
+                      lang.iso_639_3 AS witness_iso_639_3
                FROM story_versions sv JOIN sources src ON src.id=sv.source_id
+               LEFT JOIN story_witness_profiles swp ON swp.story_version_id=sv.id
+               LEFT JOIN languages lang ON lang.id=swp.language_id
                WHERE sv.story_id=? ORDER BY sv.version_order,sv.id""",
             (story["id"],),
         ).fetchall()
@@ -152,6 +160,18 @@ def _generate_story_profiles(conn, profile_root: Path) -> int:
                 f"- 叙述范围：{_md(version['narrative_scope'])}",
                 f"- 权利／访问：`{version['access_level']}`；{_md(version['rights_note'] or version['rights_status'])}", "",
             ])
+            if version["work_title_original"]:
+                lines.extend([
+                    "### 原典见证标识", "",
+                    f"- 原题：{_md(version['work_title_original'])}",
+                    f"- 原题转写：{_md(version['work_title_transliteration'])}",
+                    f"- 见证原文名：{_md(version['witness_label_original'])}",
+                    f"- 见证转写：{_md(version['witness_label_transliteration'])}",
+                    f"- 语言：{_md(version['witness_language_zh'] or version['witness_language_en'])}"
+                    f" (`{_md(version['witness_iso_639_3'])}`；{_md(version['witness_script'])})",
+                    f"- 编辑说明：{_md(version['witness_editorial_note_zh'])}",
+                    f"- 权利边界：{_md(version['witness_rights_boundary'])}", "",
+                ])
             sections = conn.execute(
                 """SELECT * FROM story_sections WHERE story_version_id=?
                    ORDER BY section_order,id""", (version["id"],)
@@ -209,6 +229,45 @@ def _generate_story_profiles(conn, profile_root: Path) -> int:
                 for entity in entities
             )
             lines.append("")
+        comparisons = conn.execute(
+            """SELECT * FROM story_witness_comparisons WHERE story_id=?
+               ORDER BY comparison_order,id""",
+            (story["id"],),
+        ).fetchall()
+        if comparisons:
+            lines.extend([
+                "## 原典见证对读", "",
+                "> 对读是逐项编辑导航，不生成统一文本；`NOT_STATED` 与 `UNMODELED` 是显式边界，不是反证或推断事实。", "",
+            ])
+            for comparison in comparisons:
+                lines.extend([
+                    f"### {comparison['comparison_order']:02d} · {comparison['topic_zh']} / {comparison['topic_en']}", "",
+                    f"- 范围：`{comparison['comparison_scope']}`",
+                    f"- 合成规则：`{comparison['synthesis_policy']}`",
+                    f"- 编辑说明：{comparison['editorial_note_zh']}", "",
+                ])
+                members = conn.execute(
+                    """SELECT m.*,sv.version_label_zh,sv.version_label_en,
+                              swp.work_title_original,lang.canonical_name AS language_en,
+                              lang.name_zh AS language_zh,lang.iso_639_3
+                       FROM story_witness_comparison_members m
+                       JOIN story_versions sv ON sv.id=m.story_version_id
+                       LEFT JOIN story_witness_profiles swp ON swp.story_version_id=m.story_version_id
+                       LEFT JOIN languages lang ON lang.id=swp.language_id
+                       WHERE m.comparison_id=? ORDER BY m.member_order,m.story_version_id""",
+                    (comparison["id"],),
+                ).fetchall()
+                for member in members:
+                    lines.extend([
+                        f"#### {member['version_label_zh']} / {member['version_label_en']}", "",
+                        f"- 证据状态：`{member['evidence_state']}`",
+                        f"- 原文形式／转写：{_md(member['original_form'])} / {_md(member['transliteration'])}",
+                        f"- 语言：{_md(member['language_zh'] or member['language_en'])} (`{_md(member['iso_639_3'])}`)",
+                        f"- 来源定位：{_md(member['source_location'])}",
+                        f"- Section / Claim：`{_md(member['story_section_id'])}` / `{_md(member['anchor_claim_id'])}`", "",
+                        member["summary_zh"], "",
+                        f"> 差异说明：{member['difference_note_zh']}", "",
+                    ])
         conflicts = conn.execute(
             """SELECT c.id,c.conflict_type,c.status,c.summary
                FROM story_conflict_links scl JOIN conflicts c ON c.id=scl.conflict_id
@@ -259,7 +318,7 @@ def _generate_story_profiles(conn, profile_root: Path) -> int:
 
 def _coverage(conn) -> tuple[dict[str, float], str]:
     metrics: dict[str, float] = {}
-    for table in ["civilizations", "entities", "sources", "claims", "evidence", "relationships", "conflicts", "collection_queue", "stories", "story_versions", "story_sections", "story_event_nodes", "reading_routes", "reading_route_steps"]:
+    for table in ["civilizations", "entities", "sources", "claims", "evidence", "relationships", "conflicts", "collection_queue", "stories", "story_versions", "story_sections", "story_event_nodes", "story_witness_profiles", "story_witness_comparisons", "story_witness_comparison_members", "reading_routes", "reading_route_steps"]:
         metrics[table] = float(conn.execute(f'SELECT COUNT(*) FROM "{table}"').fetchone()[0])
     metrics["priority_civilizations"] = float(conn.execute("SELECT COUNT(*) FROM civilizations WHERE research_status='COLLECTING'").fetchone()[0])
     metrics["redirected_duplicate_entities"] = float(conn.execute("SELECT COUNT(*) FROM entity_redirects").fetchone()[0])

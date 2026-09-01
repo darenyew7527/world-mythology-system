@@ -4,9 +4,9 @@ import { statusLabel } from '../i18n.js'
 
 const ui = {
   zh: {
-    eyebrow: 'v0.26 · 故事地图与阅读路线',
+    eyebrow: 'v0.27 · 原典见证对读',
     title: '神话故事阅读库',
-    intro: '以原始文本、学术数字版与授权公共语境为边界阅读故事；版本分开，缺口不补写。',
+    intro: '逐项对照独立原典见证；原文名、转写、语言与定位并列，版本不合并，缺口不补写。',
     search: '搜索故事、人物、神器或主题…',
     all: '全部文明',
     stories: '个故事',
@@ -36,11 +36,22 @@ const ui = {
     place: '地点',
     noPlace: '当前证据未定位地点',
     noCoordinate: '不推测坐标',
+    witnessIdentity: '原典见证标识',
+    originalTitle: '原题',
+    transliteration: '转写',
+    language: '语言',
+    rightsBoundary: '版权边界',
+    comparisonTitle: '原典见证对读',
+    comparisonPolicy: '逐项对齐；点击见证可切换正文。对读不生成统一文本。',
+    comparisonScope: '对读范围',
+    synthesisPolicy: '合成规则',
+    sourceLocator: '来源定位',
+    difference: '差异说明',
   },
   en: {
-    eyebrow: 'v0.26 · Story maps and reading routes',
+    eyebrow: 'v0.27 · Original witness comparison',
     title: 'Myth Story Library',
-    intro: 'Read within the boundaries of primary texts, scholarly digital editions, and authorized public context; variants stay separate and gaps are not invented.',
+    intro: 'Compare independent textual witnesses item by item; original forms, transliterations, languages, and locators stay visible while gaps remain explicit.',
     search: 'Search stories, people, artifacts, or themes…',
     all: 'All traditions',
     stories: 'stories',
@@ -70,6 +81,53 @@ const ui = {
     place: 'Place',
     noPlace: 'The current evidence does not locate this event',
     noCoordinate: 'Coordinates are not inferred',
+    witnessIdentity: 'Witness identity',
+    originalTitle: 'Original title',
+    transliteration: 'Transliteration',
+    language: 'Language',
+    rightsBoundary: 'Rights boundary',
+    comparisonTitle: 'Original witness comparison',
+    comparisonPolicy: 'Aligned item by item; select a witness to switch the reading text. No unified text is generated.',
+    comparisonScope: 'Comparison scope',
+    synthesisPolicy: 'Synthesis rule',
+    sourceLocator: 'Source locator',
+    difference: 'Difference note',
+  },
+}
+
+const evidenceStateLabels = {
+  zh: {
+    ATTESTED: '原典已见证',
+    NOT_STATED: '当前定位未陈述',
+    UNMODELED: '尚未建模',
+    DAMAGED: '文本残损',
+    INFERRED: '推断项',
+  },
+  en: {
+    ATTESTED: 'Attested',
+    NOT_STATED: 'Not stated here',
+    UNMODELED: 'Not yet modeled',
+    DAMAGED: 'Text damaged',
+    INFERRED: 'Inferred',
+  },
+}
+
+const comparisonScopeLabels = {
+  zh: {
+    SHARED_ELEMENT: '共享元素',
+    DIVERGENT_ACCOUNT: '分歧叙述',
+    ASYMMETRIC_WITNESS: '非对称见证',
+    EXPLICIT_UNKNOWN: '显式未知',
+    KEEP_SEPARATE: '保持分立',
+    NO_SYNTHESIS: '禁止合成',
+  },
+  en: {
+    SHARED_ELEMENT: 'Shared element',
+    DIVERGENT_ACCOUNT: 'Divergent account',
+    ASYMMETRIC_WITNESS: 'Asymmetric witness',
+    EXPLICIT_UNKNOWN: 'Explicit unknown',
+    KEEP_SEPARATE: 'Keep separate',
+    NO_SYNTHESIS: 'No synthesis',
   },
 }
 
@@ -148,6 +206,8 @@ export default function StoryLibrary({
 
   const selectedVersion = selected?.versions.find((version) => version.id === selectedVersionId)
     || selected?.versions[0]
+  const witnessComparisons = selected?.witnessComparisons || []
+  const witnessProfile = selectedVersion?.witnessProfile
 
   const linkedEntities = useMemo(() => {
     if (!selectedVersion) return []
@@ -286,7 +346,97 @@ export default function StoryLibrary({
                   </a>
                 )}
               </div>
+              {witnessProfile && (
+                <div className="story-witness-identity">
+                  <span>{copy.witnessIdentity}</span>
+                  <strong dir="auto">{witnessProfile.workTitleOriginal}</strong>
+                  {witnessProfile.workTitleTransliteration && (
+                    <small>{copy.transliteration}: {witnessProfile.workTitleTransliteration}</small>
+                  )}
+                  <p dir="auto">{witnessProfile.witnessLabelOriginal}</p>
+                  <small>
+                    {copy.language}: {language === 'zh'
+                      ? witnessProfile.languageNameZh || witnessProfile.languageName
+                      : witnessProfile.languageName}
+                    {witnessProfile.iso6393 ? ` · ${witnessProfile.iso6393}` : ''}
+                    {witnessProfile.scriptName ? ` · ${witnessProfile.scriptName}` : ''}
+                  </small>
+                  <small>{copy.rightsBoundary}: {witnessProfile.rightsBoundary}</small>
+                </div>
+              )}
             </section>
+
+            {witnessComparisons.length > 0 && (
+              <section className="story-witness-comparison" aria-labelledby="story-witness-comparison-title">
+                <header>
+                  <div>
+                    <strong id="story-witness-comparison-title">{copy.comparisonTitle}</strong>
+                    <span>{copy.comparisonPolicy}</span>
+                  </div>
+                  <b>{witnessComparisons.length}</b>
+                </header>
+                <div className="story-comparison-list">
+                  {witnessComparisons.map((comparison) => (
+                    <article key={comparison.id} className="story-comparison-item">
+                      <header>
+                        <span>{String(comparison.order).padStart(2, '0')}</span>
+                        <div>
+                          <h3>{language === 'zh' ? comparison.topicZh : comparison.topicEn}</h3>
+                          <p>{language === 'zh' ? comparison.editorialNoteZh : comparison.editorialNoteEn}</p>
+                        </div>
+                        <dl>
+                          <div>
+                            <dt>{copy.comparisonScope}</dt>
+                            <dd>{comparisonScopeLabels[language]?.[comparison.scope] || comparison.scope}</dd>
+                          </div>
+                          <div>
+                            <dt>{copy.synthesisPolicy}</dt>
+                            <dd>{comparisonScopeLabels[language]?.[comparison.synthesisPolicy] || comparison.synthesisPolicy}</dd>
+                          </div>
+                        </dl>
+                      </header>
+                      <div className="story-comparison-members" role="group" aria-label={language === 'zh' ? comparison.topicZh : comparison.topicEn}>
+                        {comparison.members.map((member) => (
+                          <article
+                            className={member.storyVersionId === selectedVersion.id ? 'is-selected' : ''}
+                            key={`${comparison.id}-${member.storyVersionId}`}
+                          >
+                            <button
+                              aria-pressed={member.storyVersionId === selectedVersion.id}
+                              className="story-comparison-select"
+                              type="button"
+                              onClick={() => setSelectedVersionId(member.storyVersionId)}
+                            >
+                              <strong>{language === 'zh' ? member.versionLabelZh : member.versionLabelEn}</strong>
+                              <span className={`story-evidence-state is-${member.evidenceState.toLocaleLowerCase().replace('_', '-')}`}>
+                                {evidenceStateLabels[language]?.[member.evidenceState] || member.evidenceState}
+                              </span>
+                            </button>
+                            {member.originalForm && <p className="story-original-form" dir="auto">{member.originalForm}</p>}
+                            {member.transliteration && <small>{copy.transliteration}: {member.transliteration}</small>}
+                            <dl>
+                              <div>
+                                <dt>{copy.language}</dt>
+                                <dd>{language === 'zh' ? member.languageNameZh || member.languageName : member.languageName}{member.iso6393 ? ` · ${member.iso6393}` : ''}</dd>
+                              </div>
+                              <div>
+                                <dt>{copy.sourceLocator}</dt>
+                                <dd>{member.sourceLocation}</dd>
+                              </div>
+                            </dl>
+                            <p>{language === 'zh' ? member.summaryZh : member.summaryEn}</p>
+                            <footer>
+                              <strong>{copy.difference}</strong>
+                              <span>{language === 'zh' ? member.differenceNoteZh : member.differenceNoteEn}</span>
+                            </footer>
+                          </article>
+                        ))}
+                      </div>
+                    </article>
+                  ))}
+                </div>
+              </section>
+            )}
 
             <section className="story-event-map">
               <header>

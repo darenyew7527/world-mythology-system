@@ -86,7 +86,8 @@ class StoryMapsReadingRoutesTests(unittest.TestCase):
         self.assertEqual(orphaned, 0)
 
     def test_public_snapshot_and_ui_expose_routes_without_quotes(self):
-        self.assertEqual(self.snapshot["meta"]["projectVersion"], "0.26.0-story-maps-reading-routes")
+        release_ids = {release["id"] for release in self.snapshot["analytics"]["releaseHistory"]}
+        self.assertIn("release.v0.26.0", release_ids)
         self.assertEqual(self.snapshot["meta"]["counts"]["stories"], 23)
         self.assertEqual(self.snapshot["meta"]["counts"]["storyEventNodes"], 77)
         self.assertEqual(len(self.snapshot["readingRoutes"]), 6)

@@ -21,6 +21,16 @@ Voluspa and Gylfaginning both name Ask and Embla while presenting different divi
 - 叙述范围：阿斯克、恩布拉以及奥丁、赫尼尔、洛杜尔的组合
 - 权利／访问：`PUBLIC_CONTEXT`；电子版许可见来源登记；独立概述。
 
+### 原典见证标识
+
+- 原题：Völuspá
+- 原题转写：Völuspá
+- 见证原文名：Askr / Embla
+- 见证转写：Askr / Embla
+- 语言：古诺斯语 (`non`；Latin manuscript transcription)
+- 编辑说明：采用电子校勘版的作品名与规范化古诺斯语人名；不复制完整诗节。
+- 权利边界：电子版 CC BY-SA 4.0；手稿图像权利另从馆藏条款。
+
 ### 01 · 阿斯克与恩布拉 / Ask and Embla
 
 《女巫预言》17–18节在最初人类段落中分别命名阿斯克与恩布拉。
@@ -86,6 +96,16 @@ This is the poetic triad; the Odin, Vili, and Ve grouping in Gylfaginning does n
 - 叙述范围：阿斯克、恩布拉以及奥丁、维利、维的组合
 - 权利／访问：`PUBLIC_CONTEXT`；学术版版权适用；本站仅发独立概述。
 
+### 原典见证标识
+
+- 原题：Gylfaginning
+- 原题转写：Gylfaginning
+- 见证原文名：Askr / Embla
+- 见证转写：Askr / Embla
+- 语言：古诺斯语 (`non`；Latin manuscript transcription)
+- 编辑说明：斯诺里散文见证与诗歌见证分开，不把一者当作另一者的翻译。
+- 权利边界：现代校勘与编辑内容受版权保护；仅发布定位、元数据与独立概述。
+
 ### 01 · 散文中的最初人类 / First humans in prose
 
 《欺骗古鲁菲》8–9章同样命名阿斯克与恩布拉，构成散文版的人类起源见证。
@@ -142,8 +162,106 @@ The system does not force Vili and Ve to equal Hoenir and Lodurr by perceived fu
 - `RELATED` 阿斯克 (`person.norse.ask`)
 - `RELATED` 恩布拉 (`person.norse.embla`)
 
+## 原典见证对读
+
+> 对读是逐项编辑导航，不生成统一文本；`NOT_STATED` 与 `UNMODELED` 是显式边界，不是反证或推断事实。
+
+### 01 · 最初人类姓名 / Names of the first human pair
+
+- 范围：`SHARED_ELEMENT`
+- 合成规则：`KEEP_SEPARATE`
+- 编辑说明：两份见证都明确命名阿斯克与恩布拉。
+
+#### 《女巫预言》17–18节 / Voluspa 17–18
+
+- 证据状态：`ATTESTED`
+- 原文形式／转写：Askr / Embla / Askr / Embla
+- 语言：古诺斯语 (`non`)
+- 来源定位：Völuspá 17–18
+- Section / Claim：`storysec.ask.voluspa.1` / `claim.v0190.voluspa_ask`
+
+诗歌见证命名阿斯克与恩布拉。
+
+> 差异说明：两个人名是共享元素；叙述细节仍按见证分开。
+
+#### 《欺骗古鲁菲》8–9章 / Gylfaginning 8–9
+
+- 证据状态：`ATTESTED`
+- 原文形式／转写：Askr / Embla / Askr / Embla
+- 语言：古诺斯语 (`non`)
+- 来源定位：Gylfaginning 8–9
+- Section / Claim：`storysec.ask.gylf.1` / `claim.v0190.gylf_ask`
+
+散文见证同样命名阿斯克与恩布拉。
+
+> 差异说明：同名不使散文成为诗歌的简单复本。
+
+### 02 · 参与的神祇组合 / Participating divine triad
+
+- 范围：`DIVERGENT_ACCOUNT`
+- 合成规则：`KEEP_SEPARATE`
+- 编辑说明：诗歌三神与散文三神分别记录；功能相似不能建立身份等同。
+
+#### 《女巫预言》17–18节 / Voluspa 17–18
+
+- 证据状态：`ATTESTED`
+- 原文形式／转写：Óðinn / Hœnir / Lóðurr / Óðinn / Hœnir / Lóðurr
+- 语言：古诺斯语 (`non`)
+- 来源定位：Völuspá 17–18
+- Section / Claim：`storysec.ask.voluspa.2` / `claim.v0190.voluspa_triad`
+
+诗歌列出奥丁、赫尼尔与洛杜尔。
+
+> 差异说明：不把赫尼尔／洛杜尔自动等同于维利／维。
+
+#### 《欺骗古鲁菲》8–9章 / Gylfaginning 8–9
+
+- 证据状态：`ATTESTED`
+- 原文形式／转写：Óðinn / Vili / Vé / Óðinn / Vili / Vé
+- 语言：古诺斯语 (`non`)
+- 来源定位：Gylfaginning 8–9
+- Section / Claim：`storysec.ask.gylf.2` / `claim.v0190.gylf_triad`
+
+散文列出奥丁、维利与维。
+
+> 差异说明：神祇组合差异保持为文本版本差异。
+
+### 03 · 赐予项目的逐词层 / Gift terms at word level
+
+- 范围：`EXPLICIT_UNKNOWN`
+- 合成规则：`NO_SYNTHESIS`
+- 编辑说明：本检查点尚未完成两份古诺斯语见证的逐词对齐，故不补写具体赐予项目。
+
+#### 《女巫预言》17–18节 / Voluspa 17–18
+
+- 证据状态：`UNMODELED`
+- 原文形式／转写：Völuspá 18 / Völuspá 18
+- 语言：古诺斯语 (`non`)
+- 来源定位：Völuspá 17–18
+- Section / Claim：`—` / `—`
+
+具体赐予项目尚未进入逐词对齐表。
+
+> 差异说明：当前证据未说明于本结构化检查点；保留为研究队列。
+
+#### 《欺骗古鲁菲》8–9章 / Gylfaginning 8–9
+
+- 证据状态：`UNMODELED`
+- 原文形式／转写：Gylfaginning 9 / Gylfaginning 9
+- 语言：古诺斯语 (`non`)
+- 来源定位：Gylfaginning 8–9
+- Section / Claim：`—` / `—`
+
+具体赐予项目尚未进入逐词对齐表。
+
+> 差异说明：不凭现代通俗转述补齐。
+
+## 并存版本与冲突
+
+- `conflict.v0270.norse.ask_embla_creator_triads` [OPEN] Völuspá 17–18 presents Óðinn, Hœnir and Lóðurr, while Gylfaginning 8–9 presents Óðinn, Vili and Vé in the Ask–Embla creation frame.
+
 ## 编辑说明
 
-目前只叙述数据库已逐条核对的人物与神祇组合，不补写未登记的赐予细节。
+诗歌与散文见证逐段并列；神祇组合差异进入显式冲突档案，逐词赐予层保持未建模。
 
 > 本故事页是可持续扩张的阶段性阅读基线；只重述已连接见证，不把现代改编或推测写成古代事实。
