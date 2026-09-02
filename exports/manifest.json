@@ -9,11 +9,11 @@
     "comparison_set_members": 16,
     "comparison_sets": 2,
     "conflicts": 33,
-    "coverage_metrics": 913,
-    "coverage_reports": 29,
+    "coverage_metrics": 999,
+    "coverage_reports": 31,
     "creature_profiles": 19,
     "cultures": 18,
-    "dataset_releases": 28,
+    "dataset_releases": 29,
     "deity_profiles": 177,
     "entities": 646,
     "entity_attributes": 0,
@@ -23,7 +23,7 @@
     "entity_types": 55,
     "event_participants": 32,
     "evidence": 631,
-    "explorer_feature_registry": 13,
+    "explorer_feature_registry": 15,
     "identity_candidates": 21,
     "import_errors": 0,
     "import_runs": 0,
@@ -38,13 +38,14 @@
     "quality_runs": 1,
     "queue_discoveries": 108,
     "queue_status_history": 80,
+    "reader_feature_registry": 5,
     "reading_route_steps": 23,
     "reading_routes": 6,
     "regions": 22,
     "relationship_types": 80,
     "research_session_items": 534,
     "research_sessions": 27,
-    "schema_migrations": 38,
+    "schema_migrations": 40,
     "sources": 207,
     "stories": 26,
     "story_claim_links": 139,
@@ -63,7 +64,7 @@
     "tradition_links": 6
   },
   "database": "world_mythology.sqlite",
-  "database_sha256": "5f8622d686d5d6e2ea637ba2bae0a0dc5f2e4dafa9a8ddd080681cc9f08f0cb8",
+  "database_sha256": "638ab3999730b34a511919c60e1ee04580a6873cdd811e85d84740ff62b98cfe",
   "excluded_object_types": [
     "view",
     "sqlite_internal"
@@ -115,14 +116,14 @@
       "sha256": "1999c1dcd0f9319e3fa1ed2ec78ef78af6368d1b8f0ea83dd6b98facf6a455fe"
     },
     {
-      "bytes": 130779,
+      "bytes": 142966,
       "path": "csv/coverage_metrics.csv",
-      "sha256": "73b371c01490f30f57dbad108f3ff82136b4c7f754780b207bd53c2e91286ab1"
+      "sha256": "d16e53697c6f1775b3c88e54846de352a9e04d867e312a6bdab1c634eb25a3af"
     },
     {
-      "bytes": 5304,
+      "bytes": 5613,
       "path": "csv/coverage_reports.csv",
-      "sha256": "af41cbcefae2872be267c545e0bfba68fa3cf40a2a47ea2a557c99dc95865e39"
+      "sha256": "6142623c5571236b53081fa5cf7a8cb422fc9eb159b2cfe114ee0b7a1b98fdd3"
     },
     {
       "bytes": 2419,
@@ -135,9 +136,9 @@
       "sha256": "08df12610aceccea92fb45a1cf702520500c1b1eff876183b65d4f609c689a45"
     },
     {
-      "bytes": 11416,
+      "bytes": 11743,
       "path": "csv/dataset_releases.csv",
-      "sha256": "411412f6fc197cd48838f34d0c39764cb9b8642b240c35b3d9f408852b0a4a32"
+      "sha256": "e50f1b65f9c6283a4aa861ca48bed55b46f8ec03ed386780f89ad518b2029a8a"
     },
     {
       "bytes": 26743,
@@ -185,9 +186,9 @@
       "sha256": "7aa91977d18eab435f99e353768762f67fc14f783dc3b112355dcacdcb49047f"
     },
     {
-      "bytes": 3901,
+      "bytes": 4792,
       "path": "csv/explorer_feature_registry.csv",
-      "sha256": "19f937ee503060d046ddd25333e38d2049bbe0e44fd4115ecc0171a39963a6d1"
+      "sha256": "b65a40f7844c98aefe2c991d423ade12253e34ee788eb93e9a4e95d5a92d46ce"
     },
     {
       "bytes": 4766,
@@ -235,9 +236,9 @@
       "sha256": "b04fb8586901864d36b0c21b3dde7defede33798be5bc82eea871d06938ff9f1"
     },
     {
-      "bytes": 971,
+      "bytes": 978,
       "path": "csv/project_metadata.csv",
-      "sha256": "f8c36b4a6dd295d1c22a8856b16187344afc3f351d1e2ed0dc53b48ca0d0d708"
+      "sha256": "3d691ee6cff4134152dc9201408014c5d61c0c12c7de103ce6dbaf2fcc54964b"
     },
     {
       "bytes": 71,
@@ -258,6 +259,11 @@
       "bytes": 12652,
       "path": "csv/queue_status_history.csv",
       "sha256": "2dd1c0977ef9c7ff5b61d424b36521d74000d30fc7b345b0b150eaefb6573605"
+    },
+    {
+      "bytes": 1055,
+      "path": "csv/reader_feature_registry.csv",
+      "sha256": "315878a845034cc8d8f23fe0b15bd83fa3a7f19306f4e6745bf5bfbfa3a0faab"
     },
     {
       "bytes": 4690,
@@ -290,9 +296,9 @@
       "sha256": "8b110f81fbc5ed08c7c64266d042196a312b3962b3fca2fa00da0e2facb3d363"
     },
     {
-      "bytes": 2419,
+      "bytes": 2551,
       "path": "csv/schema_migrations.csv",
-      "sha256": "db65532820558019232d0a735d5178e076dd559062b77db96daca6054217526a"
+      "sha256": "01167045df1d71c8d3c17e4564dfc121019e389154c2d5ba51fa15b11053b6b6"
     },
     {
       "bytes": 107382,
@@ -435,14 +441,14 @@
       "sha256": "a8b494ce3abff21a02fd875d56e38d5c99afa3700933913e81447e5611925526"
     },
     {
-      "bytes": 197225,
+      "bytes": 215696,
       "path": "jsonl/coverage_metrics.jsonl",
-      "sha256": "dc24b172ede04f620f390d935556af2ed2e8aad0fdbacfb335a101b6413d0816"
+      "sha256": "689cb1a597dc611303c08edf3470f8c905680487ea44a31c6b2605c319e9aea6"
     },
     {
-      "bytes": 6918,
+      "bytes": 7341,
       "path": "jsonl/coverage_reports.jsonl",
-      "sha256": "83ff9ffe5bb21f7dca3ff3e84387191cb83f557ca3a7a5312f7b3be8a8bbda37"
+      "sha256": "b0fa07933d414b2880cc3352332a72be6a48d7d8c2eafea132410e7063e34fce"
     },
     {
       "bytes": 5207,
@@ -455,9 +461,9 @@
       "sha256": "4ebb06d0d458e2051b7433a09921879aa2f45ceb02bbb2ffebc63a5a864ea1d1"
     },
     {
-      "bytes": 14373,
+      "bytes": 14811,
       "path": "jsonl/dataset_releases.jsonl",
-      "sha256": "4aa066f6cbc512527126a43e536f6157bfb7dfb589b981aefc3d1e93dcf0b658"
+      "sha256": "9e8f072e33ad457bd3103aa5ff6f77a8fbb2746eaed101324a3554dd2686e958"
     },
     {
       "bytes": 63543,
@@ -505,9 +511,9 @@
       "sha256": "f8890d9614ba27000f25a1b234991f311ebfb08ec1845f346ed7c77fb4fc9ca8"
     },
     {
-      "bytes": 5953,
+      "bytes": 7170,
       "path": "jsonl/explorer_feature_registry.jsonl",
-      "sha256": "76bb5ab3435209056021de735dc27dd46324bc83ad313185661347a7ba4d78f8"
+      "sha256": "195adaf4471ea8d930a6bcf355d94b4a5d807721f186ea32f1624822bdf0c62a"
     },
     {
       "bytes": 6650,
@@ -555,9 +561,9 @@
       "sha256": "57f649176e3870ae01e9e99286104c19fd705d20f5e3d9d5b89ee8d5258b5f47"
     },
     {
-      "bytes": 1298,
+      "bytes": 1305,
       "path": "jsonl/project_metadata.jsonl",
-      "sha256": "81bf71e93dd2191d19f30cd892fe354f39d5ed1335a3ed82384eeec0c43f00bb"
+      "sha256": "70ea43ba138cf1378608c761a6d09142c4ac2612533be109ca1a3368219e87e0"
     },
     {
       "bytes": 0,
@@ -578,6 +584,11 @@
       "bytes": 18858,
       "path": "jsonl/queue_status_history.jsonl",
       "sha256": "0f264a31aa58b64d4190d8aa050c69d0bf1a85798a4239ed1140357eda62ea7e"
+    },
+    {
+      "bytes": 1823,
+      "path": "jsonl/reader_feature_registry.jsonl",
+      "sha256": "a01c7f69f8e814fb0a4ec930e8b093e2161cbb67c8fbe70f7742bfeae08d2046"
     },
     {
       "bytes": 7768,
@@ -610,9 +621,9 @@
       "sha256": "198900b74d3bf2d8f2ac78b41e6b329c8722acc4c9f7f2390eed822a36f5b06c"
     },
     {
-      "bytes": 3763,
+      "bytes": 3967,
       "path": "jsonl/schema_migrations.jsonl",
-      "sha256": "f95bc48eaa56fea216625e1bcf5c23d725bc19f333a7f65e7ed554e8112e0c98"
+      "sha256": "1fdf7d6e8dd58469144b8be47f15ddd82042d2e84b74444fc9324970d3026ac0"
     },
     {
       "bytes": 215360,
@@ -701,24 +712,24 @@
     "nodes": 646
   },
   "latest_sealed_release": {
-    "built_at": "2026-09-01T12:05:39Z",
-    "data_version": "0.28.0",
-    "git_commit": "3adc3d920fde507a408c060e862320a4dd674893",
-    "id": "release.v0.28.0",
-    "schema_version": 38
+    "built_at": "2026-09-02T03:15:59Z",
+    "data_version": "0.29.0",
+    "git_commit": null,
+    "id": "release.v0.29.0",
+    "schema_version": 40
   },
   "project": {
-    "data_version": "0.28.0",
-    "project_status": "v0.28.0 sealed staged checkpoint: global story expansion remains open; permission blocks are target-local and never ALL COMPLETE",
-    "project_version": "0.28.0-global-story-expansion",
-    "schema_version": "38"
+    "data_version": "0.29.0",
+    "project_status": "v0.29.0 sealed staged checkpoint: reader state stays on-device and offline artifacts preserve public evidence and permission boundaries",
+    "project_version": "0.29.0-reader-offline-archive",
+    "schema_version": "40"
   },
   "release": {
-    "built_at": "2026-09-01T12:05:39Z",
-    "data_version": "0.28.0",
-    "git_commit": "3adc3d920fde507a408c060e862320a4dd674893",
-    "id": "release.v0.28.0",
-    "schema_version": 38
+    "built_at": "2026-09-02T03:15:59Z",
+    "data_version": "0.29.0",
+    "git_commit": null,
+    "id": "release.v0.29.0",
+    "schema_version": 40
   },
   "snapshot_status": "SEALED_RELEASE",
   "tables": [
@@ -760,6 +771,7 @@
     "quality_runs",
     "queue_discoveries",
     "queue_status_history",
+    "reader_feature_registry",
     "reading_route_steps",
     "reading_routes",
     "regions",

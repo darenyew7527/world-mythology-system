@@ -335,7 +335,7 @@ def _generate_story_profiles(conn, profile_root: Path) -> int:
 
 def _coverage(conn) -> tuple[dict[str, float], str]:
     metrics: dict[str, float] = {}
-    for table in ["civilizations", "entities", "sources", "claims", "evidence", "relationships", "conflicts", "collection_queue", "stories", "story_versions", "story_sections", "story_event_nodes", "story_witness_profiles", "story_witness_comparisons", "story_witness_comparison_members", "reading_routes", "reading_route_steps"]:
+    for table in ["civilizations", "entities", "sources", "claims", "evidence", "relationships", "conflicts", "collection_queue", "stories", "story_versions", "story_sections", "story_event_nodes", "story_witness_profiles", "story_witness_comparisons", "story_witness_comparison_members", "reading_routes", "reading_route_steps", "reader_feature_registry"]:
         metrics[table] = float(conn.execute(f'SELECT COUNT(*) FROM "{table}"').fetchone()[0])
     metrics["priority_civilizations"] = float(conn.execute("SELECT COUNT(*) FROM civilizations WHERE research_status='COLLECTING'").fetchone()[0])
     metrics["redirected_duplicate_entities"] = float(conn.execute("SELECT COUNT(*) FROM entity_redirects").fetchone()[0])

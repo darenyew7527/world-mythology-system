@@ -10,7 +10,9 @@ The repository contains a reproducible staged knowledge baseline, not a claim of
 
 The bilingual React explorer provides searchable entities, filters, relationship graphs, claims, evidence locators, sources, coverage, and the permanent research queue. Chinese is the default interface; English can be selected from the header.
 
-Current sealed release: `v0.28.0-global-story-expansion`.
+Current sealed release: `v0.29.0-reader-offline-archive`.
+
+v0.29 adds on-device bookmarks, per-version section progress, accessible text controls, glossary/character quick look, and a self-contained bilingual offline/print archive. Personal reading state never enters SQLite, exports, or the public snapshot. See [the v0.29 release notes](RELEASE_NOTES_v0.29.0.md).
 
 v0.28 adds a public K'iche'-context Hero Twins and Seven Macaw episode, two separately sourced Kusanagi layers (a university academic synopsis and Atsuta Jingu's public tradition), and the Angkor Wat Churning relief as a Khmer material witness. Of seven independently audited targets, three are complete, China and India remain queued, and Māori plus Yorùbá/Ifá are permission-blocked only within their own targets. These open states remain part of the formal checkpoint rather than an `ALL COMPLETE` claim. See [the v0.28 release notes](RELEASE_NOTES_v0.28.0.md).
 

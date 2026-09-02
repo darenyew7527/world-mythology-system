@@ -38,6 +38,7 @@ COUNT_OBJECTS = [
     ("原典对读成员", "story_witness_comparison_members"),
     ("主题阅读路线", "reading_routes"),
     ("阅读路线步骤", "reading_route_steps"),
+    ("阅读器与离线功能", "reader_feature_registry"),
 ]
 
 
@@ -71,6 +72,7 @@ def generate(db_path: Path = DEFAULT_DB_PATH) -> Path:
         "## 直接打开这些文件",
         "",
         "- `database/world_mythology.sqlite`：事实核心数据库。",
+        "- `RELEASE_NOTES_v0.29.0.md`：v0.29 本机阅读器、离线打印档案与隐私边界。",
         "- `RELEASE_NOTES_v0.28.0.md`：v0.28 全球故事扩张、独立目标审计与权限边界。",
         "- `docs/ROADMAP_v0.26-v0.29.md`：v0.28 全球故事扩张正式状态、目标审计与后续路线。",
         "- `RELEASE_NOTES_v0.27.0.md`：v0.27 原典见证逐项对读、显式未知状态与版权边界。",
@@ -98,6 +100,8 @@ def generate(db_path: Path = DEFAULT_DB_PATH) -> Path:
         "- `visualization/index.html`：静态关系网络基础。",
         "- `web/`：中文优先、可切换英文的 React/Vite 公开探索器。",
         "- `web/public/data/site-data.json`：不含证据短引文的浏览器安全数据快照。",
+        "- `web/public/offline/world-mythology-v0.29-story-archive.html`：可断网打开和打印的单文件双语故事档案。",
+        "- `web/public/offline/world-mythology-v0.29-story-archive.json`：与离线档案对应的可检查公开数据。",
         "- `docs/design/public-explorer-desktop.png`：公开探索器桌面截图。",
         "- `api/openapi.yaml`：只读 API 契约。",
         "- `assets/world_mythology_system_reference.jpeg`：用户提供的视觉架构参考，不作为事实来源。",

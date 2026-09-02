@@ -16,7 +16,9 @@ from world_mythology.migrations import apply_migrations
 from world_mythology.reporting import generate_reports
 from world_mythology.validation import validate_database, write_validation_report
 from scripts.generate_delivery_index import generate as generate_delivery_index
+from scripts.generate_offline_archive import generate as generate_offline_archive
 from scripts.generate_schema_catalog import generate as generate_schema_catalog
+from scripts.generate_web_data import DEFAULT_OUTPUT as WEB_DATA_OUTPUT, build_snapshot, write_snapshot
 
 
 def prepare_database(database: Path, *, init: bool = False, rebuild: bool = False) -> Path:
@@ -54,10 +56,15 @@ def run_pipeline(database: Path, *, export_root: Path | None = None,
         raise RuntimeError(json.dumps(source_check, ensure_ascii=False, indent=2))
     if generate_reading_outputs:
         generate_delivery_index(database)
+        write_snapshot(build_snapshot(database), WEB_DATA_OUTPUT)
+        offline_archive = generate_offline_archive(database)
+    else:
+        offline_archive = None
     return {"database": str(database), "migrations_applied": migrations,
             "validation": validation["status"],
             "export_counts": manifest["counts"], "checkpoint": checkpoint,
-            "alias_candidate_groups": len(alias_candidates), "source_check": source_check["status"]}
+            "alias_candidate_groups": len(alias_candidates), "source_check": source_check["status"],
+            "offline_archive": offline_archive}
 
 
 def parse_args() -> argparse.Namespace:

@@ -2,7 +2,7 @@
 
 数据库：`world_mythology.sqlite`。本页由 `scripts/generate_schema_catalog.py` 从实际数据库反射生成。
 
-- 持久表：61
+- 持久表：62
 - 只读视图：32
 
 ## 对象索引
@@ -18,11 +18,11 @@
 | `comparison_set_members` | table | 16 |
 | `comparison_sets` | table | 2 |
 | `conflicts` | table | 33 |
-| `coverage_metrics` | table | 913 |
-| `coverage_reports` | table | 29 |
+| `coverage_metrics` | table | 999 |
+| `coverage_reports` | table | 31 |
 | `creature_profiles` | table | 19 |
 | `cultures` | table | 18 |
-| `dataset_releases` | table | 28 |
+| `dataset_releases` | table | 29 |
 | `deity_profiles` | table | 177 |
 | `entities` | table | 646 |
 | `entity_attributes` | table | 0 |
@@ -32,7 +32,7 @@
 | `entity_types` | table | 55 |
 | `event_participants` | table | 32 |
 | `evidence` | table | 631 |
-| `explorer_feature_registry` | table | 13 |
+| `explorer_feature_registry` | table | 15 |
 | `identity_candidates` | table | 21 |
 | `import_errors` | table | 0 |
 | `import_runs` | table | 0 |
@@ -47,13 +47,14 @@
 | `quality_runs` | table | 1 |
 | `queue_discoveries` | table | 108 |
 | `queue_status_history` | table | 80 |
+| `reader_feature_registry` | table | 5 |
 | `reading_route_steps` | table | 23 |
 | `reading_routes` | table | 6 |
 | `regions` | table | 22 |
 | `relationship_types` | table | 80 |
 | `research_session_items` | table | 534 |
 | `research_sessions` | table | 27 |
-| `schema_migrations` | table | 38 |
+| `schema_migrations` | table | 40 |
 | `sources` | table | 207 |
 | `stories` | table | 26 |
 | `story_claim_links` | table | 139 |
@@ -1466,6 +1467,41 @@ CREATE TABLE queue_status_history (
     new_status TEXT NOT NULL,
     changed_at TEXT NOT NULL,
     reason TEXT
+)
+```
+
+## `reader_feature_registry` (table)
+
+| 序号 | 字段 | SQLite 类型 | NOT NULL | 默认值 | PK 序位 |
+|---:|---|---|---:|---|---:|
+| 0 | `feature_code` | TEXT | 0 |  | 1 |
+| 1 | `title_zh` | TEXT | 1 |  | 0 |
+| 2 | `title_en` | TEXT | 1 |  | 0 |
+| 3 | `storage_scope` | TEXT | 1 |  | 0 |
+| 4 | `public_database_writes` | INTEGER | 1 | 0 | 0 |
+| 5 | `personal_data_collection` | INTEGER | 1 | 0 | 0 |
+| 6 | `offline_capable` | INTEGER | 1 | 0 | 0 |
+| 7 | `print_capable` | INTEGER | 1 | 0 | 0 |
+| 8 | `introduced_in` | TEXT | 1 |  | 0 |
+| 9 | `privacy_note` | TEXT | 1 |  | 0 |
+
+定义：
+
+```sql
+CREATE TABLE reader_feature_registry (
+    feature_code TEXT PRIMARY KEY,
+    title_zh TEXT NOT NULL,
+    title_en TEXT NOT NULL,
+    storage_scope TEXT NOT NULL
+        CHECK(storage_scope IN ('LOCAL_ONLY','STATIC_PUBLIC_ARTIFACT')),
+    public_database_writes INTEGER NOT NULL DEFAULT 0
+        CHECK(public_database_writes = 0),
+    personal_data_collection INTEGER NOT NULL DEFAULT 0
+        CHECK(personal_data_collection = 0),
+    offline_capable INTEGER NOT NULL DEFAULT 0 CHECK(offline_capable IN (0,1)),
+    print_capable INTEGER NOT NULL DEFAULT 0 CHECK(print_capable IN (0,1)),
+    introduced_in TEXT NOT NULL,
+    privacy_note TEXT NOT NULL
 )
 ```
 

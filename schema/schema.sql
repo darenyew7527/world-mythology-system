@@ -776,6 +776,24 @@ CREATE TABLE IF NOT EXISTS explorer_feature_registry (
 CREATE INDEX IF NOT EXISTS idx_explorer_feature_order
     ON explorer_feature_registry(display_order, feature_code);
 
+CREATE TABLE IF NOT EXISTS reader_feature_registry (
+    feature_code TEXT PRIMARY KEY,
+    title_zh TEXT NOT NULL,
+    title_en TEXT NOT NULL,
+    storage_scope TEXT NOT NULL
+        CHECK(storage_scope IN ('LOCAL_ONLY','STATIC_PUBLIC_ARTIFACT')),
+    public_database_writes INTEGER NOT NULL DEFAULT 0
+        CHECK(public_database_writes = 0),
+    personal_data_collection INTEGER NOT NULL DEFAULT 0
+        CHECK(personal_data_collection = 0),
+    offline_capable INTEGER NOT NULL DEFAULT 0 CHECK(offline_capable IN (0,1)),
+    print_capable INTEGER NOT NULL DEFAULT 0 CHECK(print_capable IN (0,1)),
+    introduced_in TEXT NOT NULL,
+    privacy_note TEXT NOT NULL
+);
+CREATE INDEX IF NOT EXISTS idx_reader_feature_scope
+    ON reader_feature_registry(storage_scope, feature_code);
+
 CREATE VIEW IF NOT EXISTS claim_evidence_summary AS
 SELECT c.id AS claim_id,
        c.subject_id,

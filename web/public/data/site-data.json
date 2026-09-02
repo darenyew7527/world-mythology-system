@@ -1096,6 +1096,15 @@
         "id": "release.v0.28.0",
         "releaseNotes": "Global story-expansion checkpoint: three source-backed stories, four independent versions, twelve bilingual sections and event nodes, and a seven-target fault-isolated audit retaining queued and permission-blocked work. Source commit stamped; database_sha256 is the pre-stamp snapshot digest.",
         "schemaVersion": 38
+      },
+      {
+        "builtAt": "2026-09-02T03:15:59Z",
+        "dataVersion": "0.29.0",
+        "databaseSha256": null,
+        "gitCommit": null,
+        "id": "release.v0.29.0",
+        "releaseNotes": "Reader and offline-archive checkpoint: on-device bookmarks, per-witness section progress, accessible presentation settings, glossary/entity quick look, and self-contained bilingual HTML/JSON artifacts. No personal reading state enters SQLite, exports, or the public snapshot.",
+        "schemaVersion": 40
       }
     ],
     "sourceQuality": {
@@ -110633,6 +110642,32 @@
       "titleEn": "Global story expansion audit",
       "titleZh": "全球故事扩张审计",
       "updatedAt": "2026-09-01T12:05:39Z"
+    },
+    {
+      "code": "reader_local_state",
+      "dataBasis": "Versioned browser localStorage containing bookmarks, section progress and presentation settings only.",
+      "displayOrder": 300,
+      "evidenceCaveat": "Local state is not evidence and never enters SQLite, JSONL, CSV or the public snapshot.",
+      "group": "STORY_READING",
+      "introducedIn": "v0.29.0",
+      "notes": "Sealed on-device reader tools use a versioned localStorage key; no account, telemetry or cloud synchronization is introduced.",
+      "status": "ACTIVE",
+      "titleEn": "On-device reader tools",
+      "titleZh": "本机阅读工具",
+      "updatedAt": "2026-09-02T03:15:59Z"
+    },
+    {
+      "code": "offline_story_archive",
+      "dataBasis": "Generated from the same browser-safe story snapshot used by the public explorer.",
+      "displayOrder": 310,
+      "evidenceCaveat": "The archive preserves source, locator, evidence-note and rights boundaries; it does not reproduce evidence short quotes.",
+      "group": "STORY_READING",
+      "introducedIn": "v0.29.0",
+      "notes": "Sealed self-contained HTML and JSON remain searchable, bilingual and print-friendly while preserving source and rights boundaries.",
+      "status": "ACTIVE",
+      "titleEn": "Offline story archive",
+      "titleZh": "离线故事档案",
+      "updatedAt": "2026-09-02T03:15:59Z"
     }
   ],
   "meta": {
@@ -110645,6 +110680,7 @@
       "directRelationships": 500,
       "evidence": 631,
       "queue": 118,
+      "readerFeatures": 5,
       "readingRoutes": 6,
       "registeredEntities": 646,
       "sources": 207,
@@ -110658,14 +110694,15 @@
       "storyWitnessComparisons": 7,
       "storyWitnessProfiles": 4
     },
+    "dataVersion": "0.29.0",
     "datasetRelease": {
-      "built_at": "2026-09-01T12:05:39Z",
-      "data_version": "0.28.0",
-      "database_sha256": "f519df23e1ed60247271b08abd41f20589096a8adeac9bef8aea292c927509dc",
-      "git_commit": "3adc3d920fde507a408c060e862320a4dd674893",
-      "id": "release.v0.28.0",
-      "release_notes": "Global story-expansion checkpoint: three source-backed stories, four independent versions, twelve bilingual sections and event nodes, and a seven-target fault-isolated audit retaining queued and permission-blocked work. Source commit stamped; database_sha256 is the pre-stamp snapshot digest.",
-      "schema_version": 38
+      "built_at": "2026-09-02T03:15:59Z",
+      "data_version": "0.29.0",
+      "database_sha256": null,
+      "git_commit": null,
+      "id": "release.v0.29.0",
+      "release_notes": "Reader and offline-archive checkpoint: on-device bookmarks, per-witness section progress, accessible presentation settings, glossary/entity quick look, and self-contained bilingual HTML/JSON artifacts. No personal reading state enters SQLite, exports, or the public snapshot.",
+      "schema_version": 40
     },
     "evidenceStatusCounts": {
       "CONFLICTING": 10,
@@ -110673,8 +110710,9 @@
       "SOURCE_BACKED": 248,
       "UNVERIFIED": 310
     },
+    "generatedAt": "2026-09-02T03:15:59Z",
     "generatedFrom": "database/world_mythology.sqlite",
-    "projectVersion": "0.28.0-global-story-expansion",
+    "projectVersion": "0.29.0-reader-offline-archive",
     "publicDataPolicy": "Source metadata and evidence locators are published; evidence short quotes are excluded.",
     "queueStatusCounts": {
       "BASELINE_COMPLETE": 18,
@@ -111801,6 +111839,68 @@
       "proposed_entity_type": "MONSTER",
       "status": "DISCOVERED",
       "target_label": "Lernaean Hydra"
+    }
+  ],
+  "readerFeatures": [
+    {
+      "code": "ACCESSIBLE_READER_SETTINGS",
+      "introducedIn": "v0.29.0",
+      "offlineCapable": false,
+      "personalDataCollection": false,
+      "printCapable": false,
+      "privacyNote": "Font scale, line spacing and high contrast are local presentation preferences.",
+      "publicDatabaseWrites": false,
+      "storageScope": "LOCAL_ONLY",
+      "titleEn": "Accessible reader settings",
+      "titleZh": "无障碍阅读设置"
+    },
+    {
+      "code": "GLOSSARY_QUICK_LOOK",
+      "introducedIn": "v0.29.0",
+      "offlineCapable": false,
+      "personalDataCollection": false,
+      "printCapable": false,
+      "privacyNote": "Quick-look terms are derived at render time from the public story snapshot.",
+      "publicDatabaseWrites": false,
+      "storageScope": "LOCAL_ONLY",
+      "titleEn": "Glossary and character quick look",
+      "titleZh": "术语与人物速查"
+    },
+    {
+      "code": "LOCAL_BOOKMARKS",
+      "introducedIn": "v0.29.0",
+      "offlineCapable": false,
+      "personalDataCollection": false,
+      "printCapable": false,
+      "privacyNote": "Only story IDs are stored in the browser-local versioned state key.",
+      "publicDatabaseWrites": false,
+      "storageScope": "LOCAL_ONLY",
+      "titleEn": "On-device bookmarks",
+      "titleZh": "本机书签"
+    },
+    {
+      "code": "LOCAL_READING_PROGRESS",
+      "introducedIn": "v0.29.0",
+      "offlineCapable": false,
+      "personalDataCollection": false,
+      "printCapable": false,
+      "privacyNote": "Section order and update time stay on the reader device and are never exported.",
+      "publicDatabaseWrites": false,
+      "storageScope": "LOCAL_ONLY",
+      "titleEn": "On-device reading progress",
+      "titleZh": "本机阅读进度"
+    },
+    {
+      "code": "OFFLINE_PRINT_ARCHIVE",
+      "introducedIn": "v0.29.0",
+      "offlineCapable": true,
+      "personalDataCollection": false,
+      "printCapable": true,
+      "privacyNote": "Self-contained HTML and JSON contain public source-scoped summaries only; no reading state is embedded.",
+      "publicDatabaseWrites": false,
+      "storageScope": "STATIC_PUBLIC_ARTIFACT",
+      "titleEn": "Offline printable story archive",
+      "titleZh": "离线打印故事档案"
     }
   ],
   "readingRoutes": [

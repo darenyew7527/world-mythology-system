@@ -1,12 +1,12 @@
 {
-  "checkpoint": "WORLD_MYTHOLOGY_0_28_0",
+  "checkpoint": "WORLD_MYTHOLOGY_0_29_0",
   "completion_claim": "Current publicly discoverable material has a staged knowledge baseline; the system remains expandable.",
-  "data_version": "0.28.0",
-  "database_sha256": "5f8622d686d5d6e2ea637ba2bae0a0dc5f2e4dafa9a8ddd080681cc9f08f0cb8",
+  "data_version": "0.29.0",
+  "database_sha256": "638ab3999730b34a511919c60e1ee04580a6873cdd811e85d84740ff62b98cfe",
   "entity_profiles": 646,
-  "generated_at": "2026-09-01T12:08:12Z",
-  "latest_sealed_data_version": "0.28.0",
-  "latest_sealed_release_id": "release.v0.28.0",
+  "generated_at": "2026-09-02T03:20:47Z",
+  "latest_sealed_data_version": "0.29.0",
+  "latest_sealed_release_id": "release.v0.29.0",
   "metrics": {
     "artifact_profiles_with_abilities": 3,
     "canonical_entities": 641,
@@ -27,6 +27,7 @@
     "priority_civilizations": 24,
     "queue_new_or_discovered": 18,
     "queue_source_found": 29,
+    "reader_feature_registry": 5,
     "reading_route_steps": 23,
     "reading_routes": 6,
     "redirected_duplicate_entities": 5,
@@ -58,10 +59,8 @@
     "Eleusis archaeology, inscriptions and mystery-cult layers",
     "Ra-Atum composite witnesses by period"
   ],
-  "release_id": "release.v0.28.0",
-  "release_stamped_at": "2026-09-01T12:10:20Z",
+  "release_id": "release.v0.29.0",
   "snapshot_status": "SEALED_RELEASE",
-  "source_git_commit": "3adc3d920fde507a408c060e862320a4dd674893",
   "status": "STAGED_EXPANDABLE_BASELINE",
   "story_profiles": 26
 }

@@ -1,10 +1,12 @@
 import { useDeferredValue, useEffect, useMemo, useState } from 'react'
 import { BookIcon, ExternalIcon, SearchIcon } from './Icons.jsx'
 import { statusLabel } from '../i18n.js'
+import { loadReaderState, saveReaderState } from '../readerStorage.js'
+import StoryReaderTools from './StoryReaderTools.jsx'
 
 const ui = {
   zh: {
-    eyebrow: 'v0.28 · 全球故事扩张正式检查点',
+    eyebrow: 'v0.29 · 本机阅读器与离线档案',
     title: '神话故事阅读库',
     intro: '从永久队列逐项扩张可公开、可回溯的故事见证；活态传统先过权限门禁，单项目受阻不影响其他目标继续。',
     search: '搜索故事、人物、神器或主题…',
@@ -49,9 +51,12 @@ const ui = {
     difference: '差异说明',
     expansionAudit: '扩张目标审计',
     expansionPolicy: '每个目标独立验收；权限阻塞、排队与完成状态同时保留。',
+    markHere: '标记读到这里',
+    readToHere: '已读至此',
+    localBookmark: '本机书签',
   },
   en: {
-    eyebrow: 'v0.28 · Global story expansion checkpoint',
+    eyebrow: 'v0.29 · On-device reader and offline archive',
     title: 'Myth Story Library',
     intro: 'Expand public, traceable story witnesses from the permanent queue; living traditions pass permission gates first, and one blocked target never stops the rest.',
     search: 'Search stories, people, artifacts, or themes…',
@@ -96,6 +101,9 @@ const ui = {
     difference: 'Difference note',
     expansionAudit: 'Expansion target audit',
     expansionPolicy: 'Every target is accepted independently; completed, queued, and permission-blocked states remain visible together.',
+    markHere: 'Mark read to here',
+    readToHere: 'Read to here',
+    localBookmark: 'On-device bookmark',
   },
 }
 
@@ -183,7 +191,10 @@ export default function StoryLibrary({
   const [query, setQuery] = useState('')
   const [civilization, setCivilization] = useState('ALL')
   const [selectedVersionId, setSelectedVersionId] = useState(null)
+  const [readerState, setReaderState] = useState(loadReaderState)
   const deferredQuery = useDeferredValue(query)
+
+  useEffect(() => saveReaderState(readerState), [readerState])
 
   const civilizations = useMemo(() => {
     const map = new Map()
@@ -244,6 +255,44 @@ export default function StoryLibrary({
     }
     return [...map.values()]
   }, [selectedVersion])
+
+  const bookmarkIds = useMemo(() => new Set(readerState.bookmarks), [readerState.bookmarks])
+  const progressOrder = Math.min(
+    Number(readerState.progress[selectedVersion?.id]?.sectionOrder || 0),
+    selectedVersion?.sections.length || 0,
+  )
+
+  const toggleBookmark = () => {
+    if (!selected) return
+    setReaderState((current) => {
+      const currentBookmarks = new Set(current.bookmarks)
+      if (currentBookmarks.has(selected.id)) currentBookmarks.delete(selected.id)
+      else currentBookmarks.add(selected.id)
+      return { ...current, bookmarks: [...currentBookmarks] }
+    })
+  }
+
+  const updateSettings = (nextSettings) => {
+    setReaderState((current) => ({
+      ...current,
+      settings: { ...current.settings, ...nextSettings },
+    }))
+  }
+
+  const markProgress = (sectionOrder) => {
+    if (!selected || !selectedVersion) return
+    setReaderState((current) => ({
+      ...current,
+      progress: {
+        ...current.progress,
+        [selectedVersion.id]: {
+          storyId: selected.id,
+          sectionOrder,
+          updatedAt: new Date().toISOString(),
+        },
+      },
+    }))
+  }
 
   return (
     <main className="story-library single-view">
@@ -338,12 +387,14 @@ export default function StoryLibrary({
           {filtered.map((story) => (
             <button
               className={story.id === selected?.id ? 'is-selected' : ''}
+              data-bookmarked={bookmarkIds.has(story.id) || undefined}
               key={story.id}
               type="button"
               onClick={() => onSelectStory(story.id)}
             >
               <span>{language === 'zh' ? story.civilizationNameZh || story.civilizationName : story.civilizationName}</span>
               <strong>{storyTitle(story, language)}</strong>
+              {bookmarkIds.has(story.id) && <small className="story-bookmark-label">★ {copy.localBookmark}</small>}
               <p>{storySummary(story, language)}</p>
               <footer>
                 <small>{story.readingMinutes} {copy.minutes}</small>
@@ -355,7 +406,10 @@ export default function StoryLibrary({
         </section>
 
         {selected && selectedVersion ? (
-          <article className="story-reader" key={selected.id}>
+          <article
+            className={`story-reader reader-scale-${readerState.settings.fontScale} reader-line-${readerState.settings.lineHeight}${readerState.settings.highContrast ? ' is-high-contrast' : ''}`}
+            key={selected.id}
+          >
             <header className="story-reader-heading">
               <div>
                 <span>{language === 'zh' ? selected.civilizationNameZh || selected.civilizationName : selected.civilizationName}</span>
@@ -367,6 +421,19 @@ export default function StoryLibrary({
                 <div><dt>{copy.access}</dt><dd>{selected.accessLevel}</dd></div>
               </dl>
             </header>
+
+            <StoryReaderTools
+              isBookmarked={bookmarkIds.has(selected.id)}
+              language={language}
+              linkedEntities={linkedEntities}
+              onOpenEntity={onOpenEntity}
+              onSettingsChange={updateSettings}
+              onToggleBookmark={toggleBookmark}
+              progressOrder={progressOrder}
+              selected={selected}
+              selectedVersion={selectedVersion}
+              settings={readerState.settings}
+            />
 
             <section className="story-version-picker">
               <strong>{copy.version}</strong>
@@ -520,7 +587,7 @@ export default function StoryLibrary({
 
             <div className="story-prose">
               {selectedVersion.sections.map((section) => (
-                <section key={section.id}>
+                <section className={section.order <= progressOrder ? 'is-read' : ''} key={section.id}>
                   <span>{String(section.order).padStart(2, '0')}</span>
                   <div>
                     <h3>{language === 'zh' ? section.headingZh : section.headingEn}</h3>
@@ -531,6 +598,14 @@ export default function StoryLibrary({
                       {section.anchorClaimId && <code>{section.anchorClaimId}</code>}
                       {section.uncertaintyNote && <em>{copy.unknown}: {section.uncertaintyNote}</em>}
                     </aside>
+                    <button
+                      aria-pressed={section.order <= progressOrder}
+                      className="story-progress-marker"
+                      type="button"
+                      onClick={() => markProgress(section.order)}
+                    >
+                      {section.order <= progressOrder ? `✓ ${copy.readToHere}` : copy.markHere}
+                    </button>
                   </div>
                 </section>
               ))}

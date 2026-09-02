@@ -69,6 +69,49 @@ coverage.dev.0.28.0-dev-global-story-expansion-batch-1,unverified_or_provisional
 coverage.dev.0.28.0-dev-global-story-expansion-batch-1,url_syntax_valid_sources,207.0,,Absolute count in the current registered baseline; not a percentage of world mythology.
 coverage.dev.0.28.0-dev-global-story-expansion-batch-1,verified_claims,592.0,,Absolute count in the current registered baseline; not a percentage of world mythology.
 coverage.dev.0.28.0-dev-global-story-expansion-batch-1,web_confirmed_sources,0.0,,Absolute count in the current registered baseline; not a percentage of world mythology.
+coverage.dev.0.29.0-dev,artifact_profiles_with_abilities,3.0,38.0,Populated or evidence-linked records / current records in this registered profile collection.
+coverage.dev.0.29.0-dev,canonical_entities,641.0,,Absolute count in the current registered baseline; not a percentage of world mythology.
+coverage.dev.0.29.0-dev,civilizations,99.0,,Absolute count in the current registered baseline; not a percentage of world mythology.
+coverage.dev.0.29.0-dev,claims,633.0,,Absolute count in the current registered baseline; not a percentage of world mythology.
+coverage.dev.0.29.0-dev,collection_queue,118.0,,Absolute count in the current registered baseline; not a percentage of world mythology.
+coverage.dev.0.29.0-dev,conflicts,33.0,,Absolute count in the current registered baseline; not a percentage of world mythology.
+coverage.dev.0.29.0-dev,creature_profiles_with_abilities,8.0,19.0,Populated or evidence-linked records / current records in this registered profile collection.
+coverage.dev.0.29.0-dev,deity_profiles_with_domains,73.0,177.0,Populated or evidence-linked records / current records in this registered profile collection.
+coverage.dev.0.29.0-dev,entities,646.0,,Absolute count in the current registered baseline; not a percentage of world mythology.
+coverage.dev.0.29.0-dev,entities_with_claims,257.0,,Absolute count in the current registered baseline; not a percentage of world mythology.
+coverage.dev.0.29.0-dev,entities_with_evidence,251.0,646.0,Current registered entities with at least one evidenced outgoing claim; not global completeness.
+coverage.dev.0.29.0-dev,evidence,631.0,,Absolute count in the current registered baseline; not a percentage of world mythology.
+coverage.dev.0.29.0-dev,evidenced_claims,627.0,633.0,Claims with at least one evidence record / all currently registered claims.
+coverage.dev.0.29.0-dev,living_tradition_sources,22.0,,Absolute count in the current registered baseline; not a percentage of world mythology.
+coverage.dev.0.29.0-dev,place_entities_with_evidence,20.0,96.0,Populated or evidence-linked records / current records in this registered profile collection.
+coverage.dev.0.29.0-dev,place_profiles_with_coordinates,2.0,96.0,Populated or evidence-linked records / current records in this registered profile collection.
+coverage.dev.0.29.0-dev,priority_civilizations,24.0,,Absolute count in the current registered baseline; not a percentage of world mythology.
+coverage.dev.0.29.0-dev,queue_new_or_discovered,18.0,,Absolute count in the current registered baseline; not a percentage of world mythology.
+coverage.dev.0.29.0-dev,queue_source_found,29.0,,Absolute count in the current registered baseline; not a percentage of world mythology.
+coverage.dev.0.29.0-dev,reader_feature_registry,5.0,,Absolute count in the current registered baseline; not a percentage of world mythology.
+coverage.dev.0.29.0-dev,reading_route_steps,23.0,,Absolute count in the current registered baseline; not a percentage of world mythology.
+coverage.dev.0.29.0-dev,reading_routes,6.0,,Absolute count in the current registered baseline; not a percentage of world mythology.
+coverage.dev.0.29.0-dev,redirected_duplicate_entities,5.0,,Absolute count in the current registered baseline; not a percentage of world mythology.
+coverage.dev.0.29.0-dev,registered_sources,0.0,,Absolute count in the current registered baseline; not a percentage of world mythology.
+coverage.dev.0.29.0-dev,relationships,500.0,,Absolute count in the current registered baseline; not a percentage of world mythology.
+coverage.dev.0.29.0-dev,sources,207.0,,Absolute count in the current registered baseline; not a percentage of world mythology.
+coverage.dev.0.29.0-dev,sources_needing_review,0.0,,Absolute count in the current registered baseline; not a percentage of world mythology.
+coverage.dev.0.29.0-dev,stories,26.0,,Absolute count in the current registered baseline; not a percentage of world mythology.
+coverage.dev.0.29.0-dev,story_event_nodes,89.0,,Absolute count in the current registered baseline; not a percentage of world mythology.
+coverage.dev.0.29.0-dev,story_expansion_batches,1.0,,Absolute count in the current registered baseline; not a percentage of world mythology.
+coverage.dev.0.29.0-dev,story_expansion_targets,7.0,,Absolute count in the current registered baseline; not a percentage of world mythology.
+coverage.dev.0.29.0-dev,story_sections,89.0,,Absolute count in the current registered baseline; not a percentage of world mythology.
+coverage.dev.0.29.0-dev,story_versions,29.0,,Absolute count in the current registered baseline; not a percentage of world mythology.
+coverage.dev.0.29.0-dev,story_versions_with_claims,29.0,29.0,Populated or evidence-linked records / current records in this registered profile collection.
+coverage.dev.0.29.0-dev,story_witness_comparison_members,14.0,,Absolute count in the current registered baseline; not a percentage of world mythology.
+coverage.dev.0.29.0-dev,story_witness_comparisons,7.0,,Absolute count in the current registered baseline; not a percentage of world mythology.
+coverage.dev.0.29.0-dev,story_witness_profiles,4.0,,Absolute count in the current registered baseline; not a percentage of world mythology.
+coverage.dev.0.29.0-dev,text_entities_with_evidence,45.0,150.0,Populated or evidence-linked records / current records in this registered profile collection.
+coverage.dev.0.29.0-dev,text_profiles_with_summary,49.0,150.0,Populated or evidence-linked records / current records in this registered profile collection.
+coverage.dev.0.29.0-dev,unverified_or_provisional_claims,39.0,,Absolute count in the current registered baseline; not a percentage of world mythology.
+coverage.dev.0.29.0-dev,url_syntax_valid_sources,207.0,,Absolute count in the current registered baseline; not a percentage of world mythology.
+coverage.dev.0.29.0-dev,verified_claims,592.0,,Absolute count in the current registered baseline; not a percentage of world mythology.
+coverage.dev.0.29.0-dev,web_confirmed_sources,0.0,,Absolute count in the current registered baseline; not a percentage of world mythology.
 coverage.release.0.10.0,artifact_profiles_with_abilities,3.0,38.0,Populated or evidence-linked records / current records in this registered profile collection.
 coverage.release.0.10.0,canonical_entities,553.0,,Absolute count in the current registered baseline; not a percentage of world mythology.
 coverage.release.0.10.0,civilizations,95.0,,Absolute count in the current registered baseline; not a percentage of world mythology.
@@ -912,3 +955,46 @@ coverage.release.v0.28.0,unverified_or_provisional_claims,39.0,,Absolute count i
 coverage.release.v0.28.0,url_syntax_valid_sources,207.0,,Absolute count in the current registered baseline; not a percentage of world mythology.
 coverage.release.v0.28.0,verified_claims,592.0,,Absolute count in the current registered baseline; not a percentage of world mythology.
 coverage.release.v0.28.0,web_confirmed_sources,0.0,,Absolute count in the current registered baseline; not a percentage of world mythology.
+coverage.release.v0.29.0,artifact_profiles_with_abilities,3.0,38.0,Populated or evidence-linked records / current records in this registered profile collection.
+coverage.release.v0.29.0,canonical_entities,641.0,,Absolute count in the current registered baseline; not a percentage of world mythology.
+coverage.release.v0.29.0,civilizations,99.0,,Absolute count in the current registered baseline; not a percentage of world mythology.
+coverage.release.v0.29.0,claims,633.0,,Absolute count in the current registered baseline; not a percentage of world mythology.
+coverage.release.v0.29.0,collection_queue,118.0,,Absolute count in the current registered baseline; not a percentage of world mythology.
+coverage.release.v0.29.0,conflicts,33.0,,Absolute count in the current registered baseline; not a percentage of world mythology.
+coverage.release.v0.29.0,creature_profiles_with_abilities,8.0,19.0,Populated or evidence-linked records / current records in this registered profile collection.
+coverage.release.v0.29.0,deity_profiles_with_domains,73.0,177.0,Populated or evidence-linked records / current records in this registered profile collection.
+coverage.release.v0.29.0,entities,646.0,,Absolute count in the current registered baseline; not a percentage of world mythology.
+coverage.release.v0.29.0,entities_with_claims,257.0,,Absolute count in the current registered baseline; not a percentage of world mythology.
+coverage.release.v0.29.0,entities_with_evidence,251.0,646.0,Current registered entities with at least one evidenced outgoing claim; not global completeness.
+coverage.release.v0.29.0,evidence,631.0,,Absolute count in the current registered baseline; not a percentage of world mythology.
+coverage.release.v0.29.0,evidenced_claims,627.0,633.0,Claims with at least one evidence record / all currently registered claims.
+coverage.release.v0.29.0,living_tradition_sources,22.0,,Absolute count in the current registered baseline; not a percentage of world mythology.
+coverage.release.v0.29.0,place_entities_with_evidence,20.0,96.0,Populated or evidence-linked records / current records in this registered profile collection.
+coverage.release.v0.29.0,place_profiles_with_coordinates,2.0,96.0,Populated or evidence-linked records / current records in this registered profile collection.
+coverage.release.v0.29.0,priority_civilizations,24.0,,Absolute count in the current registered baseline; not a percentage of world mythology.
+coverage.release.v0.29.0,queue_new_or_discovered,18.0,,Absolute count in the current registered baseline; not a percentage of world mythology.
+coverage.release.v0.29.0,queue_source_found,29.0,,Absolute count in the current registered baseline; not a percentage of world mythology.
+coverage.release.v0.29.0,reader_feature_registry,5.0,,Absolute count in the current registered baseline; not a percentage of world mythology.
+coverage.release.v0.29.0,reading_route_steps,23.0,,Absolute count in the current registered baseline; not a percentage of world mythology.
+coverage.release.v0.29.0,reading_routes,6.0,,Absolute count in the current registered baseline; not a percentage of world mythology.
+coverage.release.v0.29.0,redirected_duplicate_entities,5.0,,Absolute count in the current registered baseline; not a percentage of world mythology.
+coverage.release.v0.29.0,registered_sources,0.0,,Absolute count in the current registered baseline; not a percentage of world mythology.
+coverage.release.v0.29.0,relationships,500.0,,Absolute count in the current registered baseline; not a percentage of world mythology.
+coverage.release.v0.29.0,sources,207.0,,Absolute count in the current registered baseline; not a percentage of world mythology.
+coverage.release.v0.29.0,sources_needing_review,0.0,,Absolute count in the current registered baseline; not a percentage of world mythology.
+coverage.release.v0.29.0,stories,26.0,,Absolute count in the current registered baseline; not a percentage of world mythology.
+coverage.release.v0.29.0,story_event_nodes,89.0,,Absolute count in the current registered baseline; not a percentage of world mythology.
+coverage.release.v0.29.0,story_expansion_batches,1.0,,Absolute count in the current registered baseline; not a percentage of world mythology.
+coverage.release.v0.29.0,story_expansion_targets,7.0,,Absolute count in the current registered baseline; not a percentage of world mythology.
+coverage.release.v0.29.0,story_sections,89.0,,Absolute count in the current registered baseline; not a percentage of world mythology.
+coverage.release.v0.29.0,story_versions,29.0,,Absolute count in the current registered baseline; not a percentage of world mythology.
+coverage.release.v0.29.0,story_versions_with_claims,29.0,29.0,Populated or evidence-linked records / current records in this registered profile collection.
+coverage.release.v0.29.0,story_witness_comparison_members,14.0,,Absolute count in the current registered baseline; not a percentage of world mythology.
+coverage.release.v0.29.0,story_witness_comparisons,7.0,,Absolute count in the current registered baseline; not a percentage of world mythology.
+coverage.release.v0.29.0,story_witness_profiles,4.0,,Absolute count in the current registered baseline; not a percentage of world mythology.
+coverage.release.v0.29.0,text_entities_with_evidence,45.0,150.0,Populated or evidence-linked records / current records in this registered profile collection.
+coverage.release.v0.29.0,text_profiles_with_summary,49.0,150.0,Populated or evidence-linked records / current records in this registered profile collection.
+coverage.release.v0.29.0,unverified_or_provisional_claims,39.0,,Absolute count in the current registered baseline; not a percentage of world mythology.
+coverage.release.v0.29.0,url_syntax_valid_sources,207.0,,Absolute count in the current registered baseline; not a percentage of world mythology.
+coverage.release.v0.29.0,verified_claims,592.0,,Absolute count in the current registered baseline; not a percentage of world mythology.
+coverage.release.v0.29.0,web_confirmed_sources,0.0,,Absolute count in the current registered baseline; not a percentage of world mythology.

@@ -1,0 +1,6 @@
+feature_code,title_zh,title_en,storage_scope,public_database_writes,personal_data_collection,offline_capable,print_capable,introduced_in,privacy_note
+ACCESSIBLE_READER_SETTINGS,无障碍阅读设置,Accessible reader settings,LOCAL_ONLY,0,0,0,0,v0.29.0,"Font scale, line spacing and high contrast are local presentation preferences."
+GLOSSARY_QUICK_LOOK,术语与人物速查,Glossary and character quick look,LOCAL_ONLY,0,0,0,0,v0.29.0,Quick-look terms are derived at render time from the public story snapshot.
+LOCAL_BOOKMARKS,本机书签,On-device bookmarks,LOCAL_ONLY,0,0,0,0,v0.29.0,Only story IDs are stored in the browser-local versioned state key.
+LOCAL_READING_PROGRESS,本机阅读进度,On-device reading progress,LOCAL_ONLY,0,0,0,0,v0.29.0,Section order and update time stay on the reader device and are never exported.
+OFFLINE_PRINT_ARCHIVE,离线打印故事档案,Offline printable story archive,STATIC_PUBLIC_ARTIFACT,0,0,1,1,v0.29.0,Self-contained HTML and JSON contain public source-scoped summaries only; no reading state is embedded.

@@ -2,7 +2,7 @@
 
 当前公开可发现资料的阶段性知识基线已经建立，并且系统可以继续扩张。
 
-数据版本：`0.28.0`；生成时间：`2026-09-01T12:08:12Z`。
+数据版本：`0.29.0`；生成时间：`2026-09-02T03:20:47Z`。
 
 > 所有分母只指当前登记基线；系统不会计算或宣称“全球神话完成百分比”。
 
@@ -27,6 +27,7 @@
 | `priority_civilizations` | 24 | — | Absolute count in the current registered baseline; not a percentage of world mythology. |
 | `queue_new_or_discovered` | 18 | — | Absolute count in the current registered baseline; not a percentage of world mythology. |
 | `queue_source_found` | 29 | — | Absolute count in the current registered baseline; not a percentage of world mythology. |
+| `reader_feature_registry` | 5 | — | Absolute count in the current registered baseline; not a percentage of world mythology. |
 | `reading_route_steps` | 23 | — | Absolute count in the current registered baseline; not a percentage of world mythology. |
 | `reading_routes` | 6 | — | Absolute count in the current registered baseline; not a percentage of world mythology. |
 | `redirected_duplicate_entities` | 5 | — | Absolute count in the current registered baseline; not a percentage of world mythology. |

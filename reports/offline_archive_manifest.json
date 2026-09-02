@@ -1,0 +1,24 @@
+{
+  "artifactVersion": "0.29.0",
+  "projectVersion": "0.29.0-reader-offline-archive",
+  "dataVersion": "0.29.0",
+  "generatedAt": "2026-09-02T03:15:59Z",
+  "databaseSha256": "638ab3999730b34a511919c60e1ee04580a6873cdd811e85d84740ff62b98cfe",
+  "counts": {
+    "stories": 26,
+    "storyVersions": 29,
+    "storySections": 89,
+    "readingRoutes": 6
+  },
+  "privacyModel": "NO_PERSONAL_READING_STATE; PUBLIC_SNAPSHOT_ONLY",
+  "artifacts": {
+    "world-mythology-v0.29-story-archive.html": {
+      "sha256": "0243933048f8e3d15d4d4068e8e0fb3cf19578affc939f8292ab00d403394815",
+      "bytes": 159560
+    },
+    "world-mythology-v0.29-story-archive.json": {
+      "sha256": "c5ea33371424ebaf7be713945cb1dedce4e23ec99213f6e31dd07dcf71ab1375",
+      "bytes": 390077
+    }
+  }
+}

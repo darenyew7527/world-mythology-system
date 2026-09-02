@@ -827,6 +827,14 @@ def build_snapshot(database_path: Path) -> dict[str, Any]:
         "SELECT value FROM project_metadata WHERE key='project_version'"
     ).fetchone()
     project_version = project_version_row[0] if project_version_row else release["data_version"]
+    data_version_row = connection.execute(
+        "SELECT value FROM project_metadata WHERE key='data_version'"
+    ).fetchone()
+    data_version = data_version_row[0] if data_version_row else release["data_version"]
+    generated_at_row = connection.execute(
+        "SELECT value FROM project_metadata WHERE key='generated_at'"
+    ).fetchone()
+    generated_at = generated_at_row[0] if generated_at_row else release["built_at"]
 
     queue = _rows(
         connection,
@@ -930,6 +938,25 @@ def build_snapshot(database_path: Path) -> dict[str, Any]:
         for row in _rows(
             connection,
             "SELECT * FROM explorer_feature_registry ORDER BY display_order, feature_code",
+        )
+    ]
+
+    reader_features = [
+        {
+            "code": row["feature_code"],
+            "titleZh": row["title_zh"],
+            "titleEn": row["title_en"],
+            "storageScope": row["storage_scope"],
+            "publicDatabaseWrites": bool(row["public_database_writes"]),
+            "personalDataCollection": bool(row["personal_data_collection"]),
+            "offlineCapable": bool(row["offline_capable"]),
+            "printCapable": bool(row["print_capable"]),
+            "introducedIn": row["introduced_in"],
+            "privacyNote": row["privacy_note"],
+        }
+        for row in _rows(
+            connection,
+            "SELECT * FROM reader_feature_registry ORDER BY feature_code",
         )
     ]
 
@@ -1118,6 +1145,8 @@ def build_snapshot(database_path: Path) -> dict[str, Any]:
     snapshot = {
         "meta": {
             "projectVersion": project_version,
+            "dataVersion": data_version,
+            "generatedAt": generated_at,
             "datasetRelease": release,
             "generatedFrom": "database/world_mythology.sqlite",
             "completionClaim": (
@@ -1162,6 +1191,7 @@ def build_snapshot(database_path: Path) -> dict[str, Any]:
                 "storyExpansionTargets": sum(
                     len(batch["targets"]) for batch in story_expansion_batches
                 ),
+                "readerFeatures": len(reader_features),
             },
             "typeCounts": dict(sorted(type_counts.items())),
             "evidenceStatusCounts": dict(sorted(evidence_status_counts.items())),
@@ -1180,6 +1210,7 @@ def build_snapshot(database_path: Path) -> dict[str, Any]:
         "comparisons": comparisons,
         "accessPolicies": access_policies,
         "explorerFeatures": explorer_features,
+        "readerFeatures": reader_features,
         "analytics": {
             "map": {
                 "places": map_places,

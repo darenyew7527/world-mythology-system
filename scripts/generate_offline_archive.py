@@ -1,0 +1,263 @@
+#!/usr/bin/env python3
+"""Generate a self-contained, print-friendly public story archive for v0.29."""
+
+from __future__ import annotations
+
+import argparse
+import hashlib
+import html
+import json
+import sys
+from pathlib import Path
+from typing import Any
+
+PROJECT_DIR = Path(__file__).resolve().parents[1]
+sys.path.insert(0, str(PROJECT_DIR))
+sys.path.insert(0, str(PROJECT_DIR / "src"))
+
+from scripts.generate_web_data import build_snapshot
+from world_mythology.db import DEFAULT_DB_PATH, PROJECT_ROOT
+
+
+DEFAULT_OUTPUT_DIR = PROJECT_ROOT / "web" / "public" / "offline"
+DEFAULT_MANIFEST = PROJECT_ROOT / "reports" / "offline_archive_manifest.json"
+HTML_NAME = "world-mythology-v0.29-story-archive.html"
+JSON_NAME = "world-mythology-v0.29-story-archive.json"
+
+
+def _escape(value: Any) -> str:
+    return html.escape(str(value or ""), quote=True)
+
+
+def _sha256(path: Path) -> str:
+    digest = hashlib.sha256()
+    with path.open("rb") as handle:
+        for block in iter(lambda: handle.read(1024 * 1024), b""):
+            digest.update(block)
+    return digest.hexdigest()
+
+
+def _render_source(version: dict[str, Any]) -> str:
+    source = version.get("source") or {}
+    url = source.get("url") or ""
+    link = (
+        f'<a href="{_escape(url)}" rel="noreferrer">Open source / 打开来源</a>'
+        if url.startswith(("https://", "http://"))
+        else ""
+    )
+    return f"""
+      <section class="source-card">
+        <h4>来源与许可 / Source and rights</h4>
+        <dl>
+          <div><dt>Title</dt><dd>{_escape(source.get('title') or version.get('sourceId'))}</dd></div>
+          <div><dt>Institution</dt><dd>{_escape(source.get('institution'))}</dd></div>
+          <div><dt>Locator</dt><dd>{_escape(version.get('sourceLocation'))}</dd></div>
+          <div><dt>Rights</dt><dd>{_escape(source.get('rightsStatus'))}</dd></div>
+          <div><dt>Reuse</dt><dd>{_escape(source.get('reuseRestrictions'))}</dd></div>
+          <div><dt>Witness scope</dt><dd>{_escape(version.get('witnessScope'))}</dd></div>
+        </dl>
+        {link}
+      </section>
+    """
+
+
+def _render_version(version: dict[str, Any], *, open_first: bool) -> str:
+    sections = []
+    for section in version.get("sections", []):
+        uncertainty = section.get("uncertaintyNote")
+        sections.append(
+            f"""
+            <section class="reading-section">
+              <span>{int(section.get('order') or 0):02d}</span>
+              <div>
+                <h4><span class="zh">{_escape(section.get('headingZh'))}</span><span class="en">{_escape(section.get('headingEn'))}</span></h4>
+                <p class="zh">{_escape(section.get('bodyZh'))}</p>
+                <p class="en">{_escape(section.get('bodyEn'))}</p>
+                <aside><strong>Evidence / 证据</strong><span>{_escape(section.get('evidenceNote'))}</span><code>{_escape(section.get('anchorClaimId'))}</code>{f'<em>{_escape(uncertainty)}</em>' if uncertainty else ''}</aside>
+              </div>
+            </section>
+            """
+        )
+    return f"""
+      <details class="version" {'open' if open_first else ''}>
+        <summary><span class="zh">{_escape(version.get('labelZh'))}</span><span class="en">{_escape(version.get('labelEn'))}</span><small>{len(sections)} sections</small></summary>
+        <div class="version-scope">
+          <p><strong>Narrative scope:</strong> {_escape(version.get('narrativeScope'))}</p>
+          <p><strong>Rights note:</strong> {_escape(version.get('rightsNote'))}</p>
+        </div>
+        {_render_source(version)}
+        <div class="prose">{''.join(sections)}</div>
+      </details>
+    """
+
+
+def _render_story(story: dict[str, Any]) -> str:
+    versions = "".join(
+        _render_version(version, open_first=index == 0)
+        for index, version in enumerate(story.get("versions", []))
+    )
+    search_text = " ".join(
+        str(value or "")
+        for value in (
+            story.get("id"),
+            story.get("titleZh"),
+            story.get("canonicalTitle"),
+            story.get("summaryZh"),
+            story.get("summaryEn"),
+            story.get("civilizationNameZh"),
+            story.get("civilizationName"),
+            " ".join(story.get("themes", [])),
+        )
+    ).casefold()
+    themes = "".join(f"<li>{_escape(theme)}</li>" for theme in story.get("themes", []))
+    return f"""
+    <article class="story" data-civilization="{_escape(story.get('civilizationId'))}" data-search="{_escape(search_text)}" id="{_escape(story.get('id'))}">
+      <header>
+        <span>{_escape(story.get('civilizationNameZh'))} / {_escape(story.get('civilizationName'))}</span>
+        <h2><span class="zh">{_escape(story.get('titleZh'))}</span><span class="en">{_escape(story.get('canonicalTitle'))}</span></h2>
+        <p class="zh">{_escape(story.get('summaryZh'))}</p>
+        <p class="en">{_escape(story.get('summaryEn'))}</p>
+        <ul class="themes">{themes}</ul>
+        <dl class="story-meta">
+          <div><dt>Evidence</dt><dd>{_escape(story.get('evidenceStatus'))}</dd></div>
+          <div><dt>Access</dt><dd>{_escape(story.get('accessLevel'))}</dd></div>
+          <div><dt>Reading</dt><dd>{_escape(story.get('readingMinutes'))} min</dd></div>
+        </dl>
+      </header>
+      {versions}
+      <footer><strong>Editorial boundary / 编辑边界</strong><p>{_escape(story.get('editorialNote'))}</p></footer>
+    </article>
+    """
+
+
+def _render_html(archive: dict[str, Any]) -> str:
+    stories = archive["stories"]
+    civilization_options: dict[str, str] = {}
+    for story in stories:
+        civilization_options[story.get("civilizationId") or "UNKNOWN"] = (
+            story.get("civilizationNameZh") or story.get("civilizationName") or "Unknown"
+        )
+    options = "".join(
+        f'<option value="{_escape(key)}">{_escape(label)}</option>'
+        for key, label in sorted(civilization_options.items(), key=lambda item: item[1])
+    )
+    story_html = "".join(_render_story(story) for story in stories)
+    return f"""<!doctype html>
+<html lang="zh-Hans" data-lang="zh">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>世界神话系统 v0.29 离线故事档案</title>
+  <style>
+    :root {{ color-scheme: light dark; --ink:#17222a; --muted:#52636e; --paper:#f7f2e8; --line:#c6bda9; --gold:#8b672f; --blue:#315f76; font-family: system-ui,-apple-system,"Noto Sans SC",sans-serif; }}
+    * {{ box-sizing:border-box; }}
+    body {{ margin:0; color:var(--ink); background:#e8e1d3; }}
+    .en {{ display:none; }} html[data-lang="en"] .zh {{ display:none; }} html[data-lang="en"] .en {{ display:initial; }}
+    .masthead {{ padding:34px clamp(18px,5vw,72px); color:#e8dcc5; background:#132733; }}
+    .masthead span {{ color:#d6b776; font:12px ui-monospace,monospace; letter-spacing:.14em; }}
+    .masthead h1 {{ margin:10px 0 8px; font-family:Georgia,serif; font-weight:500; }}
+    .masthead p {{ max-width:850px; margin:0; color:#b9c5c9; line-height:1.7; }}
+    .controls {{ position:sticky; z-index:5; top:0; display:grid; grid-template-columns:minmax(220px,1fr) minmax(180px,.35fr) auto auto; gap:8px; padding:10px clamp(18px,5vw,72px); border-bottom:1px solid #314853; background:#10242f; }}
+    input,select,button {{ min-height:42px; padding:8px 11px; border:1px solid #55717d; background:#0d1d26; color:#f1eadc; }} button {{ cursor:pointer; }}
+    .archive-note {{ margin:18px auto; max-width:1180px; padding:15px 18px; border:1px solid var(--line); background:var(--paper); line-height:1.65; }}
+    main {{ display:grid; gap:18px; max-width:1180px; margin:0 auto; padding:0 18px 48px; }}
+    .story {{ border:1px solid var(--line); background:var(--paper); box-shadow:0 10px 30px rgba(37,31,23,.08); }}
+    .story[hidden] {{ display:none; }}
+    .story > header {{ padding:24px clamp(18px,4vw,42px); border-bottom:1px solid var(--line); }}
+    .story > header > span {{ color:var(--gold); font:11px ui-monospace,monospace; text-transform:uppercase; }}
+    h2 {{ margin:8px 0; font-family:Georgia,serif; font-size:clamp(24px,4vw,38px); font-weight:500; }}
+    .story > header > p {{ max-width:900px; color:var(--muted); line-height:1.75; }}
+    .themes {{ display:flex; flex-wrap:wrap; gap:6px; padding:0; list-style:none; }} .themes li {{ padding:4px 7px; border:1px solid var(--line); color:#6d5838; font-size:12px; }}
+    .story-meta {{ display:flex; flex-wrap:wrap; gap:16px; margin:14px 0 0; }} .story-meta div {{ display:flex; gap:6px; }} dt {{ color:var(--muted); }} dd {{ margin:0; }}
+    .version {{ border-bottom:1px solid var(--line); }} summary {{ display:flex; justify-content:space-between; gap:16px; padding:16px clamp(18px,4vw,42px); color:#463c2d; cursor:pointer; font-family:Georgia,serif; }}
+    .version-scope,.source-card {{ margin:0 clamp(18px,4vw,42px) 14px; padding:14px; border-left:3px solid var(--blue); background:#eee9df; }}
+    .version-scope p {{ margin:4px 0; line-height:1.6; }} .source-card h4 {{ margin:0 0 9px; }} .source-card dl {{ display:grid; grid-template-columns:repeat(2,minmax(0,1fr)); gap:7px 14px; }} .source-card dl div {{ min-width:0; }} .source-card dd {{ overflow-wrap:anywhere; }} .source-card a {{ display:inline-block; margin-top:9px; color:var(--blue); }}
+    .prose {{ max-width:900px; margin:0 auto; padding:20px clamp(18px,5vw,70px) 35px; }} .reading-section {{ display:grid; grid-template-columns:34px 1fr; gap:12px; padding:22px 0; break-inside:avoid; }} .reading-section > span {{ color:var(--gold); font:12px ui-monospace,monospace; }} .reading-section h4 {{ margin:0 0 10px; font:500 21px Georgia,serif; }} .reading-section p {{ margin:0; font-family:Georgia,serif; font-size:18px; line-height:1.9; }} .reading-section aside {{ display:grid; gap:5px; margin-top:14px; padding:10px 12px; border-left:2px solid var(--blue); background:#eee9df; color:var(--muted); font-size:12px; }} .reading-section code,.reading-section em {{ overflow-wrap:anywhere; }}
+    .story > footer {{ padding:16px clamp(18px,4vw,42px); background:#eee9df; }} .story > footer p {{ margin:5px 0 0; color:var(--muted); line-height:1.6; }}
+    @media(max-width:700px) {{ .controls {{ position:static; grid-template-columns:1fr 1fr; }} .controls input {{ grid-column:1/-1; }} .source-card dl {{ grid-template-columns:1fr; }} .reading-section p {{ font-size:17px; }} }}
+    @media print {{ @page {{ margin:16mm; }} body {{ background:#fff; }} .controls {{ display:none; }} .masthead {{ padding:0 0 14px; color:#111; background:#fff; }} .masthead p {{ color:#333; }} .archive-note {{ margin:10px 0; }} main {{ display:block; max-width:none; padding:0; }} .story {{ margin:0 0 22px; border:0; box-shadow:none; break-before:page; }} .story:first-child {{ break-before:auto; }} .version {{ break-inside:auto; }} details:not([open]) > *:not(summary) {{ display:block; }} summary {{ list-style:none; }} }}
+  </style>
+</head>
+<body>
+  <header class="masthead"><span>v0.29 · OFFLINE / PRINT ARCHIVE</span><h1><span class="zh">世界神话故事离线档案</span><span class="en">World Mythology Offline Story Archive</span></h1><p><span class="zh">来源、证据定位与许可边界随故事一起保存；本文件不包含个人阅读记录，也不重建受限传统。</span><span class="en">Sources, evidence locators, and rights boundaries travel with each story. This file contains no personal reading history and does not reconstruct restricted traditions.</span></p></header>
+  <nav class="controls" aria-label="Archive filters"><input id="search" type="search" placeholder="搜索 / Search"><select id="civilization"><option value="ALL">全部传统 / All traditions</option>{options}</select><button id="language" type="button">中文 / EN</button><button type="button" onclick="window.print()">打印 / Print</button></nav>
+  <aside class="archive-note"><strong>{_escape(archive['projectVersion'])}</strong> · {_escape(archive['generatedAt'])} · {len(stories)} stories<br>{_escape(archive['licenseNote'])}</aside>
+  <main id="stories">{story_html}</main>
+  <script>
+    const search = document.querySelector('#search');
+    const civilization = document.querySelector('#civilization');
+    const stories = [...document.querySelectorAll('.story')];
+    function filter() {{ const q = search.value.normalize('NFKD').toLocaleLowerCase(); const civ = civilization.value; for (const story of stories) story.hidden = !story.dataset.search.includes(q) || (civ !== 'ALL' && story.dataset.civilization !== civ); }}
+    search.addEventListener('input', filter); civilization.addEventListener('change', filter);
+    document.querySelector('#language').addEventListener('click', () => {{ const root=document.documentElement; root.dataset.lang=root.dataset.lang==='zh'?'en':'zh'; root.lang=root.dataset.lang==='zh'?'zh-Hans':'en'; }});
+  </script>
+</body>
+</html>
+"""
+
+
+def generate(
+    database: Path = DEFAULT_DB_PATH,
+    output_dir: Path = DEFAULT_OUTPUT_DIR,
+    manifest_path: Path = DEFAULT_MANIFEST,
+) -> dict[str, Any]:
+    snapshot = build_snapshot(database)
+    meta = snapshot["meta"]
+    archive = {
+        "formatVersion": 1,
+        "artifactVersion": meta["dataVersion"],
+        "projectVersion": meta["projectVersion"],
+        "dataVersion": meta["dataVersion"],
+        "generatedAt": meta["generatedAt"],
+        "privacyModel": "NO_PERSONAL_READING_STATE; PUBLIC_SNAPSHOT_ONLY",
+        "licenseNote": "Project-authored structured summaries follow DATA_LICENSE.md; every third-party source retains its own rights and reuse restrictions.",
+        "stories": snapshot["stories"],
+        "readingRoutes": snapshot.get("readingRoutes", []),
+    }
+
+    output_dir.mkdir(parents=True, exist_ok=True)
+    html_path = output_dir / HTML_NAME
+    json_path = output_dir / JSON_NAME
+    json_path.write_text(json.dumps(archive, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
+    html_path.write_text(_render_html(archive), encoding="utf-8")
+
+    version_count = sum(len(story.get("versions", [])) for story in archive["stories"])
+    section_count = sum(
+        len(version.get("sections", []))
+        for story in archive["stories"]
+        for version in story.get("versions", [])
+    )
+    manifest = {
+        "artifactVersion": archive["artifactVersion"],
+        "projectVersion": archive["projectVersion"],
+        "dataVersion": archive["dataVersion"],
+        "generatedAt": archive["generatedAt"],
+        "databaseSha256": _sha256(database),
+        "counts": {
+            "stories": len(archive["stories"]),
+            "storyVersions": version_count,
+            "storySections": section_count,
+            "readingRoutes": len(archive["readingRoutes"]),
+        },
+        "privacyModel": archive["privacyModel"],
+        "artifacts": {
+            HTML_NAME: {"sha256": _sha256(html_path), "bytes": html_path.stat().st_size},
+            JSON_NAME: {"sha256": _sha256(json_path), "bytes": json_path.stat().st_size},
+        },
+    }
+    manifest_path.parent.mkdir(parents=True, exist_ok=True)
+    manifest_path.write_text(json.dumps(manifest, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
+    return manifest
+
+
+def parse_args() -> argparse.Namespace:
+    parser = argparse.ArgumentParser(description=__doc__)
+    parser.add_argument("--database", type=Path, default=DEFAULT_DB_PATH)
+    parser.add_argument("--output-dir", type=Path, default=DEFAULT_OUTPUT_DIR)
+    parser.add_argument("--manifest", type=Path, default=DEFAULT_MANIFEST)
+    return parser.parse_args()
+
+
+if __name__ == "__main__":
+    args = parse_args()
+    print(json.dumps(generate(args.database, args.output_dir, args.manifest), ensure_ascii=False, indent=2))
