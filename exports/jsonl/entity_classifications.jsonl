@@ -1,4 +1,5 @@
 {"entity_id":"artifact.babylonian.marduk_net","is_primary":1,"notes":null,"type_code":"ARTIFACT"}
+{"entity_id":"artifact.chinese.five_colored_stones","is_primary":1,"notes":"Narrative material of the sky repair.","type_code":"SACRED_OBJECT"}
 {"entity_id":"artifact.chinese.huntian_ling","is_primary":1,"notes":null,"type_code":"ARTIFACT"}
 {"entity_id":"artifact.chinese.qiankun_quan","is_primary":1,"notes":null,"type_code":"ARTIFACT"}
 {"entity_id":"artifact.egyptian.solar_barque","is_primary":1,"notes":null,"type_code":"SHIP"}
@@ -6,6 +7,7 @@
 {"entity_id":"artifact.greek.aegis","is_primary":0,"notes":null,"type_code":"ARMOR"}
 {"entity_id":"artifact.greek.caduceus","is_primary":1,"notes":null,"type_code":"SCEPTER"}
 {"entity_id":"artifact.greek.helm_hades","is_primary":1,"notes":null,"type_code":"ARMOR"}
+{"entity_id":"artifact.hindu.amrita","is_primary":1,"notes":"Nectar of immortality.","type_code":"SACRED_OBJECT"}
 {"entity_id":"artifact.mesopotamian.tablet_destinies","is_primary":1,"notes":null,"type_code":"ARTIFACT"}
 {"entity_id":"artifact.norse.draupnir","is_primary":1,"notes":null,"type_code":"RING"}
 {"entity_id":"artifact.norse.gleipnir","is_primary":1,"notes":null,"type_code":"ARTIFACT"}
@@ -106,8 +108,11 @@
 {"entity_id":"concept.zoroastrian.asha","is_primary":1,"notes":null,"type_code":"CONCEPT"}
 {"entity_id":"concept.zoroastrian.druj","is_primary":1,"notes":null,"type_code":"CONCEPT"}
 {"entity_id":"creature.akkadian.anzu","is_primary":1,"notes":"v0.20.0 ancient Near East witnesses","type_code":"MONSTER"}
+{"entity_id":"creature.chinese.ao_turtle","is_primary":1,"notes":"Great turtle in the Nüwa passages.","type_code":"DIVINE_BEAST"}
 {"entity_id":"creature.greek.cyclopes_hesiodic","is_primary":1,"notes":null,"type_code":"GIANT"}
 {"entity_id":"creature.greek.typhon","is_primary":1,"notes":"Primary classification at research checkpoint 2026-08-11","type_code":"MONSTER"}
+{"entity_id":"creature.hindu.akupara","is_primary":1,"notes":"Mahābhārata critical-edition witness only.","type_code":"DIVINE_BEAST"}
+{"entity_id":"creature.hindu.vasuki","is_primary":1,"notes":"Nāga king.","type_code":"DIVINE_BEAST"}
 {"entity_id":"creature.norse.fenrir","is_primary":1,"notes":null,"type_code":"MONSTER"}
 {"entity_id":"creature.norse.gullinbursti","is_primary":1,"notes":"Primary classification at research checkpoint 2026-08-11","type_code":"DIVINE_BEAST"}
 {"entity_id":"creature.norse.gullinbursti","is_primary":0,"notes":"Crafted living being in Skáldskaparmál; retain both classes","type_code":"ARTIFACT"}
@@ -120,6 +125,7 @@
 {"entity_id":"deity.babylonian.tiamat","is_primary":1,"notes":null,"type_code":"PRIMORDIAL_DEITY"}
 {"entity_id":"deity.babylonian.tiamat","is_primary":0,"notes":null,"type_code":"DRAGON"}
 {"entity_id":"deity.chinese.fu_xi","is_primary":1,"notes":null,"type_code":"DEITY"}
+{"entity_id":"deity.chinese.gonggong","is_primary":1,"notes":"Divine/clan/ruler designation varies by witness.","type_code":"DEITY"}
 {"entity_id":"deity.chinese.leigong","is_primary":1,"notes":"v0.6.0 thunder and storm comparison checkpoint","type_code":"DEITY"}
 {"entity_id":"deity.chinese.leize_thunder_spirit","is_primary":1,"notes":"v0.6.0 thunder and storm comparison checkpoint","type_code":"DEITY"}
 {"entity_id":"deity.chinese.nezha","is_primary":1,"notes":null,"type_code":"DEITY"}
@@ -210,6 +216,9 @@
 {"entity_id":"deity.greek.zeus","is_primary":1,"notes":null,"type_code":"DEITY"}
 {"entity_id":"deity.hawaiian.pele","is_primary":1,"notes":null,"type_code":"DEITY"}
 {"entity_id":"deity.hindu.brahma","is_primary":1,"notes":null,"type_code":"DEITY"}
+{"entity_id":"deity.hindu.dhanvantari","is_primary":1,"notes":"Bearer of the amṛta.","type_code":"DEITY"}
+{"entity_id":"deity.hindu.kurma","is_primary":1,"notes":"Viṣṇu tortoise form in the Bhāgavata witness.","type_code":"DEITY"}
+{"entity_id":"deity.hindu.mohini","is_primary":1,"notes":"Viṣṇu female form in the Bhāgavata witness.","type_code":"DEITY"}
 {"entity_id":"deity.hindu.shiva","is_primary":1,"notes":null,"type_code":"DEITY"}
 {"entity_id":"deity.hindu.vishnu","is_primary":1,"notes":null,"type_code":"DEITY"}
 {"entity_id":"deity.irish.bridig","is_primary":1,"notes":null,"type_code":"DEITY"}
@@ -303,6 +312,8 @@
 {"entity_id":"deity.yoruba.shango","is_primary":1,"notes":null,"type_code":"DEITY"}
 {"entity_id":"deity.zoroastrian.ahura_mazda","is_primary":1,"notes":null,"type_code":"DEITY"}
 {"entity_id":"deity.zoroastrian.mithra","is_primary":1,"notes":null,"type_code":"DEITY"}
+{"entity_id":"demon.hindu.rahu","is_primary":1,"notes":"Dānava beheaded with the discus.","type_code":"DEMON"}
+{"entity_id":"dragon.chinese.black_dragon_jizhou","is_primary":1,"notes":"Huainanzi Lan Ming witness only.","type_code":"DRAGON"}
 {"entity_id":"element.chinese.huo","is_primary":1,"notes":null,"type_code":"ELEMENT"}
 {"entity_id":"element.chinese.jin","is_primary":1,"notes":null,"type_code":"ELEMENT"}
 {"entity_id":"element.chinese.mu","is_primary":1,"notes":null,"type_code":"ELEMENT"}
@@ -315,11 +326,14 @@
 {"entity_id":"element.indian.vayu","is_primary":1,"notes":null,"type_code":"ELEMENT"}
 {"entity_id":"event.archaeology.darius_statue_discovery_1972","is_primary":1,"notes":"v0.14.0 Darius statue provenance checkpoint","type_code":"EVENT"}
 {"entity_id":"event.babylonian.marduk_tiamat","is_primary":1,"notes":null,"type_code":"EVENT"}
+{"entity_id":"event.chinese.gonggong_strikes_buzhou","is_primary":1,"notes":"Two-witness textual event.","type_code":"EVENT"}
+{"entity_id":"event.chinese.nuwa_repairs_sky","is_primary":1,"notes":"Two-witness textual event.","type_code":"EVENT"}
 {"entity_id":"event.egyptian.nocturnal_solar_journey","is_primary":1,"notes":"v0.7.0 Egyptian solar-composite checkpoint","type_code":"EVENT"}
 {"entity_id":"event.greek.medea_restores_aeetes","is_primary":1,"notes":"v0.9.0 Perses homonym audit checkpoint","type_code":"EVENT"}
 {"entity_id":"event.greek.persephone_abduction","is_primary":1,"notes":"v0.5.0 primary-source profile checkpoint","type_code":"EVENT"}
 {"entity_id":"event.greek.titanomachy","is_primary":1,"notes":null,"type_code":"EVENT"}
 {"entity_id":"event.greek.zeus_typhon_battle","is_primary":1,"notes":"Primary classification at research checkpoint 2026-08-11","type_code":"EVENT"}
+{"entity_id":"event.hindu.samudra_manthana","is_primary":1,"notes":"Two-witness textual event.","type_code":"EVENT"}
 {"entity_id":"event.japanese.kusanagi.atsuta_enshrinement","is_primary":1,"notes":"Official shrine tradition event.","type_code":"EVENT"}
 {"entity_id":"event.japanese.kusanagi.discovery","is_primary":1,"notes":"Kusanagi discovery narrative.","type_code":"EVENT"}
 {"entity_id":"event.khmer.angkor_wat_churning_scene","is_primary":1,"notes":"Materially attested represented scene.","type_code":"EVENT"}
@@ -340,6 +354,7 @@
 {"entity_id":"hero.chinese.sun_wukong","is_primary":1,"notes":null,"type_code":"HERO"}
 {"entity_id":"hero.chinese.yellow_emperor","is_primary":1,"notes":null,"type_code":"HERO"}
 {"entity_id":"hero.chinese.yellow_emperor","is_primary":0,"notes":null,"type_code":"ANCESTOR_DEITY"}
+{"entity_id":"hero.chinese.zhuanxu","is_primary":1,"notes":"Legendary sovereign; no historical-reality claim.","type_code":"HERO"}
 {"entity_id":"hero.greek.aeetes","is_primary":1,"notes":"v0.9.0 Perses homonym audit checkpoint","type_code":"HERO"}
 {"entity_id":"hero.greek.andromeda","is_primary":1,"notes":"v0.9.0 Perses homonym audit checkpoint","type_code":"HERO"}
 {"entity_id":"hero.greek.medea","is_primary":1,"notes":"v0.9.0 Perses homonym audit checkpoint","type_code":"HERO"}
@@ -402,6 +417,8 @@
 {"entity_id":"museum.ugarit.baal_thunder_ao15775","is_primary":0,"notes":null,"type_code":"MONUMENT"}
 {"entity_id":"person.norse.ask","is_primary":1,"notes":"v0.19.0 Norse witness graph","type_code":"PERSON"}
 {"entity_id":"person.norse.embla","is_primary":1,"notes":"v0.19.0 Norse witness graph","type_code":"PERSON"}
+{"entity_id":"place.chinese.buzhou_mountain","is_primary":1,"notes":"No coordinate projection.","type_code":"MYTHICAL_PLACE"}
+{"entity_id":"place.hindu.mandara","is_primary":1,"notes":"No coordinate projection.","type_code":"MYTHICAL_PLACE"}
 {"entity_id":"place.norse.mimisbrunnr","is_primary":1,"notes":"Primary classification at research checkpoint 2026-08-11","type_code":"MYTHICAL_PLACE"}
 {"entity_id":"realm.egypt.duat","is_primary":1,"notes":null,"type_code":"REALM"}
 {"entity_id":"realm.greek.tartarus","is_primary":1,"notes":"Primary classification at research checkpoint 2026-08-11","type_code":"REALM"}
@@ -517,6 +534,10 @@
 {"entity_id":"text.chinese.hong_fan","is_primary":1,"notes":"Primary classification at research checkpoint 2026-08-11","type_code":"TEXT"}
 {"entity_id":"text.chinese.hongfan.wuxing_passage","is_primary":1,"notes":"v0.21.0 Chinese semantic layers","type_code":"TEXT"}
 {"entity_id":"text.chinese.huainanzi","is_primary":1,"notes":null,"type_code":"TEXT"}
+{"entity_id":"text.chinese.huainanzi.lanming_nuwa_passage","is_primary":1,"notes":"Passage witness.","type_code":"TEXT"}
+{"entity_id":"text.chinese.huainanzi.tianwen_gonggong_passage","is_primary":1,"notes":"Passage witness.","type_code":"TEXT"}
+{"entity_id":"text.chinese.liezi","is_primary":1,"notes":"Received compendium.","type_code":"TEXT"}
+{"entity_id":"text.chinese.liezi.tangwen_nuwa_gonggong_passage","is_primary":1,"notes":"Passage witness.","type_code":"TEXT"}
 {"entity_id":"text.chinese.local_gazetteers","is_primary":1,"notes":null,"type_code":"TEXT"}
 {"entity_id":"text.chinese.lunheng","is_primary":1,"notes":"v0.6.0 thunder and storm comparison checkpoint","type_code":"TEXT"}
 {"entity_id":"text.chinese.mutianzizhuan","is_primary":1,"notes":null,"type_code":"TEXT"}
@@ -577,10 +598,13 @@
 {"entity_id":"text.greek.tragedies","is_primary":1,"notes":null,"type_code":"TEXT"}
 {"entity_id":"text.greek.works_days","is_primary":1,"notes":null,"type_code":"EPIC"}
 {"entity_id":"text.hawaiian.kumulipo","is_primary":1,"notes":null,"type_code":"ORAL_TRADITION"}
+{"entity_id":"text.hindu.bhagavata_purana","is_primary":1,"notes":"Purāṇa.","type_code":"SCRIPTURE"}
+{"entity_id":"text.hindu.bhagavata_purana.skandha8_churning","is_primary":1,"notes":"Passage witness.","type_code":"TEXT"}
 {"entity_id":"text.hindu.puranas","is_primary":1,"notes":null,"type_code":"SCRIPTURE"}
 {"entity_id":"text.hindu.upanishads","is_primary":1,"notes":null,"type_code":"SCRIPTURE"}
 {"entity_id":"text.indian.bhagavad_gita","is_primary":1,"notes":null,"type_code":"SCRIPTURE"}
 {"entity_id":"text.indian.mahabharata","is_primary":1,"notes":null,"type_code":"EPIC"}
+{"entity_id":"text.indian.mahabharata.adiparvan_churning","is_primary":1,"notes":"Passage witness.","type_code":"TEXT"}
 {"entity_id":"text.indian.ramayana","is_primary":1,"notes":null,"type_code":"EPIC"}
 {"entity_id":"text.indian.regional_epics","is_primary":1,"notes":null,"type_code":"ORAL_TRADITION"}
 {"entity_id":"text.jain.corpus","is_primary":1,"notes":null,"type_code":"SCRIPTURE"}

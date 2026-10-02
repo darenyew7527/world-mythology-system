@@ -6,7 +6,7 @@
 - 原文名: शिव
 - 转写: —
 - 研究状态: `PARTIAL`
-- 证据状态: `UNVERIFIED`
+- 证据状态: `SOURCE_BACKED`
 
 ## 分类
 
@@ -18,6 +18,7 @@
 
 ## Claims 与证据
 
-尚无 claim；实体仅为发现/索引入口。
+- `claim.v0300.churn.shiva_drinks_poison` [VERIFIED / TEXT_SAYS / 0.95] In the Bhāgavata Purāṇa witness the churning first produces a terrible poison, which Śiva drinks.
+  - 来源：[Bhāgavatapurāṇa (GRETIL e-text)](https://gretil.sub.uni-goettingen.de/gretil/corpustei/transformations/html/sa_bhAgavatapurANa.htm)；定位：Bhāgavatapurāṇa 8.7 — the poison and Śiva
 
 > 本档案只代表当前阶段性基线，不是对该传统的最终或唯一解释。

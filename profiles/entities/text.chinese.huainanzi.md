@@ -6,7 +6,7 @@
 - 原文名: 淮南子
 - 转写: —
 - 研究状态: `PARTIAL`
-- 证据状态: `UNVERIFIED`
+- 证据状态: `SOURCE_BACKED`
 
 ## 分类
 
@@ -14,7 +14,10 @@
 
 ## 关系网络
 
-当前无关系边；保留为研究缺口。
+| Relation | Target | Review / layer | Evidence | Confidence | Direction |
+|---|---|---|---:|---:|---|
+| `HAS_PART` | 《淮南子·览冥训》女娲段落见证 (`text.chinese.huainanzi.lanming_nuwa_passage`) | VERIFIED / HISTORICAL_REALITY / TEXTUAL_WITNESS | 1 | 0.99 | inferred inverse; `claim.v0300.nuwa.lanming_part_of` |
+| `HAS_PART` | 《淮南子·天文训》共工段落见证 (`text.chinese.huainanzi.tianwen_gonggong_passage`) | VERIFIED / HISTORICAL_REALITY / TEXTUAL_WITNESS | 1 | 0.99 | inferred inverse; `claim.v0300.gonggong.tianwen_part_of` |
 
 ## Claims 与证据
 

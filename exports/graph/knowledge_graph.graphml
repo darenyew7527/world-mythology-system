@@ -5,12 +5,14 @@
   <key id="relation" for="edge" attr.name="relation" attr.type="string"/>
   <graph id="world_mythology" edgedefault="directed">
     <node id="artifact.babylonian.marduk_net"><data key="name">Net of Marduk</data><data key="type">ARTIFACT</data></node>
+    <node id="artifact.chinese.five_colored_stones"><data key="name">Five-colored stones</data><data key="type">SACRED_OBJECT</data></node>
     <node id="artifact.chinese.huntian_ling"><data key="name">Huntian Ling</data><data key="type">ARTIFACT</data></node>
     <node id="artifact.chinese.qiankun_quan"><data key="name">Qiankun Quan</data><data key="type">ARTIFACT</data></node>
     <node id="artifact.egyptian.solar_barque"><data key="name">Solar barque</data><data key="type">SHIP</data></node>
     <node id="artifact.greek.aegis"><data key="name">Aegis</data><data key="type">ARTIFACT</data></node>
     <node id="artifact.greek.caduceus"><data key="name">Caduceus</data><data key="type">SCEPTER</data></node>
     <node id="artifact.greek.helm_hades"><data key="name">Helm of Hades</data><data key="type">ARMOR</data></node>
+    <node id="artifact.hindu.amrita"><data key="name">Amṛta</data><data key="type">SACRED_OBJECT</data></node>
     <node id="artifact.mesopotamian.tablet_destinies"><data key="name">Tablet of Destinies</data><data key="type">ARTIFACT</data></node>
     <node id="artifact.norse.draupnir"><data key="name">Draupnir</data><data key="type">RING</data></node>
     <node id="artifact.norse.gleipnir"><data key="name">Gleipnir</data><data key="type">ARTIFACT</data></node>
@@ -105,8 +107,11 @@
     <node id="concept.zoroastrian.asha"><data key="name">Asha</data><data key="type">CONCEPT</data></node>
     <node id="concept.zoroastrian.druj"><data key="name">Druj</data><data key="type">CONCEPT</data></node>
     <node id="creature.akkadian.anzu"><data key="name">Anzu of the Akkadian myth</data><data key="type">MONSTER</data></node>
+    <node id="creature.chinese.ao_turtle"><data key="name">Ao (great turtle)</data><data key="type">DIVINE_BEAST</data></node>
     <node id="creature.greek.cyclopes_hesiodic"><data key="name">Hesiodic Cyclopes</data><data key="type">GIANT</data></node>
     <node id="creature.greek.typhon"><data key="name">Typhon</data><data key="type">MONSTER</data></node>
+    <node id="creature.hindu.akupara"><data key="name">Akūpāra, king of tortoises</data><data key="type">DIVINE_BEAST</data></node>
+    <node id="creature.hindu.vasuki"><data key="name">Vāsuki</data><data key="type">DIVINE_BEAST</data></node>
     <node id="creature.norse.fenrir"><data key="name">Fenrir</data><data key="type">MONSTER</data></node>
     <node id="creature.norse.gullinbursti"><data key="name">Gullinbursti</data><data key="type">DIVINE_BEAST</data></node>
     <node id="creature.norse.jormungandr"><data key="name">Jörmungandr</data><data key="type">DRAGON</data></node>
@@ -117,6 +122,7 @@
     <node id="deity.babylonian.marduk"><data key="name">Marduk</data><data key="type">DEITY</data></node>
     <node id="deity.babylonian.tiamat"><data key="name">Tiamat</data><data key="type">PRIMORDIAL_DEITY</data></node>
     <node id="deity.chinese.fu_xi"><data key="name">Fuxi</data><data key="type">DEITY</data></node>
+    <node id="deity.chinese.gonggong"><data key="name">Gonggong</data><data key="type">DEITY</data></node>
     <node id="deity.chinese.leigong"><data key="name">Leigong</data><data key="type">DEITY</data></node>
     <node id="deity.chinese.leize_thunder_spirit"><data key="name">Thunder Spirit of Leize</data><data key="type">DEITY</data></node>
     <node id="deity.chinese.nezha"><data key="name">Nezha</data><data key="type">DEITY</data></node>
@@ -194,6 +200,9 @@
     <node id="deity.greek.zeus"><data key="name">Zeus</data><data key="type">DEITY</data></node>
     <node id="deity.hawaiian.pele"><data key="name">Pele</data><data key="type">DEITY</data></node>
     <node id="deity.hindu.brahma"><data key="name">Brahma</data><data key="type">DEITY</data></node>
+    <node id="deity.hindu.dhanvantari"><data key="name">Dhanvantari</data><data key="type">DEITY</data></node>
+    <node id="deity.hindu.kurma"><data key="name">Kūrma</data><data key="type">DEITY</data></node>
+    <node id="deity.hindu.mohini"><data key="name">Mohinī</data><data key="type">DEITY</data></node>
     <node id="deity.hindu.shiva"><data key="name">Shiva</data><data key="type">DEITY</data></node>
     <node id="deity.hindu.vishnu"><data key="name">Vishnu</data><data key="type">DEITY</data></node>
     <node id="deity.irish.bridig"><data key="name">Brigid</data><data key="type">DEITY</data></node>
@@ -284,6 +293,8 @@
     <node id="deity.yoruba.shango"><data key="name">Shango</data><data key="type">DEITY</data></node>
     <node id="deity.zoroastrian.ahura_mazda"><data key="name">Ahura Mazda</data><data key="type">DEITY</data></node>
     <node id="deity.zoroastrian.mithra"><data key="name">Mithra</data><data key="type">DEITY</data></node>
+    <node id="demon.hindu.rahu"><data key="name">Rāhu</data><data key="type">DEMON</data></node>
+    <node id="dragon.chinese.black_dragon_jizhou"><data key="name">Black dragon of the Nüwa passage</data><data key="type">DRAGON</data></node>
     <node id="element.chinese.huo"><data key="name">Huo (Wuxing)</data><data key="type">ELEMENT</data></node>
     <node id="element.chinese.jin"><data key="name">Jin (Wuxing)</data><data key="type">ELEMENT</data></node>
     <node id="element.chinese.mu"><data key="name">Mu (Wuxing)</data><data key="type">ELEMENT</data></node>
@@ -296,11 +307,14 @@
     <node id="element.indian.vayu"><data key="name">Vāyu</data><data key="type">ELEMENT</data></node>
     <node id="event.archaeology.darius_statue_discovery_1972"><data key="name">Discovery of the Darius Statue at Susa (1972)</data><data key="type">EVENT</data></node>
     <node id="event.babylonian.marduk_tiamat"><data key="name">Combat of Marduk and Tiamat</data><data key="type">EVENT</data></node>
+    <node id="event.chinese.gonggong_strikes_buzhou"><data key="name">Gonggong strikes Mount Buzhou</data><data key="type">EVENT</data></node>
+    <node id="event.chinese.nuwa_repairs_sky"><data key="name">Nüwa repairs the sky</data><data key="type">EVENT</data></node>
     <node id="event.egyptian.nocturnal_solar_journey"><data key="name">Nocturnal journey of the sun god</data><data key="type">EVENT</data></node>
     <node id="event.greek.medea_restores_aeetes"><data key="name">Medea restores Aeetes</data><data key="type">EVENT</data></node>
     <node id="event.greek.persephone_abduction"><data key="name">Abduction of Persephone</data><data key="type">EVENT</data></node>
     <node id="event.greek.titanomachy"><data key="name">Titanomachy</data><data key="type">EVENT</data></node>
     <node id="event.greek.zeus_typhon_battle"><data key="name">Battle of Zeus and Typhon</data><data key="type">EVENT</data></node>
+    <node id="event.hindu.samudra_manthana"><data key="name">Churning of the Ocean (textual narrative)</data><data key="type">EVENT</data></node>
     <node id="event.japanese.kusanagi.atsuta_enshrinement"><data key="name">Kusanagi enshrinement tradition at Atsuta</data><data key="type">EVENT</data></node>
     <node id="event.japanese.kusanagi.discovery"><data key="name">Discovery of Kusanagi in Yamata no Orochi</data><data key="type">EVENT</data></node>
     <node id="event.khmer.angkor_wat_churning_scene"><data key="name">Churning of the Sea of Milk scene at Angkor Wat</data><data key="type">EVENT</data></node>
@@ -320,6 +334,7 @@
     <node id="group.japanese.eight_thunder_kami"><data key="name">Eight Thunder Kami of the Kojiki</data><data key="type">CONCEPT</data></node>
     <node id="hero.chinese.sun_wukong"><data key="name">Sun Wukong</data><data key="type">HERO</data></node>
     <node id="hero.chinese.yellow_emperor"><data key="name">Yellow Emperor</data><data key="type">HERO</data></node>
+    <node id="hero.chinese.zhuanxu"><data key="name">Zhuanxu</data><data key="type">HERO</data></node>
     <node id="hero.greek.aeetes"><data key="name">Aeetes</data><data key="type">HERO</data></node>
     <node id="hero.greek.andromeda"><data key="name">Andromeda</data><data key="type">HERO</data></node>
     <node id="hero.greek.medea"><data key="name">Medea</data><data key="type">HERO</data></node>
@@ -380,6 +395,8 @@
     <node id="museum.ugarit.baal_thunder_ao15775"><data key="name">Baal with Thunderbolt stele AO 15775</data><data key="type">MUSEUM_OBJECT</data></node>
     <node id="person.norse.ask"><data key="name">Ask</data><data key="type">PERSON</data></node>
     <node id="person.norse.embla"><data key="name">Embla</data><data key="type">PERSON</data></node>
+    <node id="place.chinese.buzhou_mountain"><data key="name">Mount Buzhou</data><data key="type">MYTHICAL_PLACE</data></node>
+    <node id="place.hindu.mandara"><data key="name">Mount Mandara</data><data key="type">MYTHICAL_PLACE</data></node>
     <node id="place.norse.mimisbrunnr"><data key="name">Mímisbrunnr</data><data key="type">MYTHICAL_PLACE</data></node>
     <node id="realm.egypt.duat"><data key="name">Duat</data><data key="type">REALM</data></node>
     <node id="realm.greek.tartarus"><data key="name">Tartarus</data><data key="type">REALM</data></node>
@@ -497,6 +514,10 @@
     <node id="text.chinese.hong_fan"><data key="name">Hong Fan</data><data key="type">TEXT</data></node>
     <node id="text.chinese.hongfan.wuxing_passage"><data key="name">Hong Fan Wuxing passage witness</data><data key="type">TEXT</data></node>
     <node id="text.chinese.huainanzi"><data key="name">Huainanzi</data><data key="type">TEXT</data></node>
+    <node id="text.chinese.huainanzi.lanming_nuwa_passage"><data key="name">Huainanzi Lan Ming Nüwa passage witness</data><data key="type">TEXT</data></node>
+    <node id="text.chinese.huainanzi.tianwen_gonggong_passage"><data key="name">Huainanzi Tian Wen Gonggong passage witness</data><data key="type">TEXT</data></node>
+    <node id="text.chinese.liezi"><data key="name">Liezi</data><data key="type">TEXT</data></node>
+    <node id="text.chinese.liezi.tangwen_nuwa_gonggong_passage"><data key="name">Liezi Tang Wen Nüwa–Gonggong passage witness</data><data key="type">TEXT</data></node>
     <node id="text.chinese.local_gazetteers"><data key="name">Chinese local gazetteers</data><data key="type">TEXT</data></node>
     <node id="text.chinese.lunheng"><data key="name">Lunheng</data><data key="type">TEXT</data></node>
     <node id="text.chinese.mutianzizhuan"><data key="name">Tale of King Mu, Son of Heaven</data><data key="type">TEXT</data></node>
@@ -557,10 +578,13 @@
     <node id="text.greek.tragedies"><data key="name">Ancient Greek tragedies</data><data key="type">TEXT</data></node>
     <node id="text.greek.works_days"><data key="name">Works and Days</data><data key="type">EPIC</data></node>
     <node id="text.hawaiian.kumulipo"><data key="name">Kumulipo</data><data key="type">ORAL_TRADITION</data></node>
+    <node id="text.hindu.bhagavata_purana"><data key="name">Bhāgavata Purāṇa</data><data key="type">SCRIPTURE</data></node>
+    <node id="text.hindu.bhagavata_purana.skandha8_churning"><data key="name">Bhāgavata Purāṇa 8.5–8.9 churning witness</data><data key="type">TEXT</data></node>
     <node id="text.hindu.puranas"><data key="name">Purāṇas</data><data key="type">SCRIPTURE</data></node>
     <node id="text.hindu.upanishads"><data key="name">Upanishads</data><data key="type">SCRIPTURE</data></node>
     <node id="text.indian.bhagavad_gita"><data key="name">Bhagavad Gītā</data><data key="type">SCRIPTURE</data></node>
     <node id="text.indian.mahabharata"><data key="name">Mahābhārata</data><data key="type">EPIC</data></node>
+    <node id="text.indian.mahabharata.adiparvan_churning"><data key="name">Mahābhārata critical-edition Ādiparvan 1.15–1.17 churning witness</data><data key="type">TEXT</data></node>
     <node id="text.indian.ramayana"><data key="name">Rāmāyaṇa</data><data key="type">EPIC</data></node>
     <node id="text.indian.regional_epics"><data key="name">Indian regional epics and oral traditions</data><data key="type">ORAL_TRADITION</data></node>
     <node id="text.jain.corpus"><data key="name">Jain textual traditions</data><data key="type">SCRIPTURE</data></node>
@@ -888,6 +912,26 @@
     <edge id="claim.v0280.maya.twins_pair" source="hero.kiche.hunahpu" target="hero.kiche.xbalanque"><data key="relation">ASSOCIATED_WITH</data></edge>
     <edge id="claim.v0280.maya.xbalanque_defeats_seven_macaw" source="hero.kiche.xbalanque" target="monster.kiche.seven_macaw"><data key="relation">DEFEATED</data></edge>
     <edge id="claim.v0280.maya.xbalanque_participates" source="hero.kiche.xbalanque" target="event.kiche.hero_twins.seven_macaw"><data key="relation">PARTICIPATED_IN</data></edge>
+    <edge id="claim.v0300.churn.amrita_sought" source="artifact.hindu.amrita" target="event.hindu.samudra_manthana"><data key="relation">PARTICIPATED_IN</data></edge>
+    <edge id="claim.v0300.churn.bhp_member_of_puranas" source="text.hindu.bhagavata_purana" target="text.hindu.puranas"><data key="relation">MEMBER_OF</data></edge>
+    <edge id="claim.v0300.churn.bhp_part_of" source="text.hindu.bhagavata_purana.skandha8_churning" target="text.hindu.bhagavata_purana"><data key="relation">PART_OF</data></edge>
+    <edge id="claim.v0300.churn.bhp_witness" source="text.hindu.bhagavata_purana.skandha8_churning" target="event.hindu.samudra_manthana"><data key="relation">WITNESS_OF</data></edge>
+    <edge id="claim.v0300.churn.dhanvantari_carries_amrita" source="deity.hindu.dhanvantari" target="artifact.hindu.amrita"><data key="relation">CARRIES</data></edge>
+    <edge id="claim.v0300.churn.mbh_part_of" source="text.indian.mahabharata.adiparvan_churning" target="text.indian.mahabharata"><data key="relation">PART_OF</data></edge>
+    <edge id="claim.v0300.churn.mbh_witness" source="text.indian.mahabharata.adiparvan_churning" target="event.hindu.samudra_manthana"><data key="relation">WITNESS_OF</data></edge>
+    <edge id="claim.v0300.churn.vishnu_participates" source="deity.hindu.vishnu" target="event.hindu.samudra_manthana"><data key="relation">PARTICIPATED_IN</data></edge>
+    <edge id="claim.v0300.gonggong.liezi_witness" source="text.chinese.liezi.tangwen_nuwa_gonggong_passage" target="event.chinese.gonggong_strikes_buzhou"><data key="relation">WITNESS_OF</data></edge>
+    <edge id="claim.v0300.gonggong.participates" source="deity.chinese.gonggong" target="event.chinese.gonggong_strikes_buzhou"><data key="relation">PARTICIPATED_IN</data></edge>
+    <edge id="claim.v0300.gonggong.tianwen_part_of" source="text.chinese.huainanzi.tianwen_gonggong_passage" target="text.chinese.huainanzi"><data key="relation">PART_OF</data></edge>
+    <edge id="claim.v0300.gonggong.tianwen_witness" source="text.chinese.huainanzi.tianwen_gonggong_passage" target="event.chinese.gonggong_strikes_buzhou"><data key="relation">WITNESS_OF</data></edge>
+    <edge id="claim.v0300.gonggong.zhuanxu_participates" source="hero.chinese.zhuanxu" target="event.chinese.gonggong_strikes_buzhou"><data key="relation">PARTICIPATED_IN</data></edge>
+    <edge id="claim.v0300.nuwa.kills_black_dragon" source="deity.chinese.nu_wa" target="dragon.chinese.black_dragon_jizhou"><data key="relation">KILLED</data></edge>
+    <edge id="claim.v0300.nuwa.lanming_part_of" source="text.chinese.huainanzi.lanming_nuwa_passage" target="text.chinese.huainanzi"><data key="relation">PART_OF</data></edge>
+    <edge id="claim.v0300.nuwa.lanming_witness" source="text.chinese.huainanzi.lanming_nuwa_passage" target="event.chinese.nuwa_repairs_sky"><data key="relation">WITNESS_OF</data></edge>
+    <edge id="claim.v0300.nuwa.liezi_part_of" source="text.chinese.liezi.tangwen_nuwa_gonggong_passage" target="text.chinese.liezi"><data key="relation">PART_OF</data></edge>
+    <edge id="claim.v0300.nuwa.liezi_witness" source="text.chinese.liezi.tangwen_nuwa_gonggong_passage" target="event.chinese.nuwa_repairs_sky"><data key="relation">WITNESS_OF</data></edge>
+    <edge id="claim.v0300.nuwa.participates" source="deity.chinese.nu_wa" target="event.chinese.nuwa_repairs_sky"><data key="relation">PARTICIPATED_IN</data></edge>
+    <edge id="claim.v0300.nuwa.uses_stones" source="deity.chinese.nu_wa" target="artifact.chinese.five_colored_stones"><data key="relation">USES</data></edge>
     <edge id="claim.v040.aether.child_erebus" source="deity.greek.aether" target="deity.greek.erebus"><data key="relation">CHILD_OF</data></edge>
     <edge id="claim.v040.aether.child_nyx" source="deity.greek.aether" target="deity.greek.nyx"><data key="relation">CHILD_OF</data></edge>
     <edge id="claim.v040.asteria.parent_hecate" source="deity.greek.asteria" target="deity.greek.hecate"><data key="relation">PARENT_OF</data></edge>

@@ -6,7 +6,7 @@
 - 原文名: महाभारत
 - 转写: —
 - 研究状态: `PARTIAL`
-- 证据状态: `UNVERIFIED`
+- 证据状态: `SOURCE_BACKED`
 
 ## 分类
 
@@ -14,7 +14,9 @@
 
 ## 关系网络
 
-当前无关系边；保留为研究缺口。
+| Relation | Target | Review / layer | Evidence | Confidence | Direction |
+|---|---|---|---:|---:|---|
+| `HAS_PART` | 《摩诃婆罗多》精校本初篇 1.15–1.17 搅海见证 (`text.indian.mahabharata.adiparvan_churning`) | VERIFIED / HISTORICAL_REALITY / TEXTUAL_WITNESS | 2 | 0.99 | inferred inverse; `claim.v0300.churn.mbh_part_of` |
 
 ## Claims 与证据
 

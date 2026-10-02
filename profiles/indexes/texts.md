@@ -12,7 +12,11 @@
 | text.chinese.han_shu_wuxing_zhi | 汉书·五行志 | Han Shu: Wuxing Zhi | TEXT | 中国上古神话 | Eastern Han | PARTIAL |
 | text.chinese.tianwen | 天问 | Heavenly Questions | TEXT | 中国上古神话 | Preserved in Chu Ci | UNVERIFIED |
 | text.chinese.hong_fan | 洪范 | Hong Fan | TEXT | 中国上古神话 | Received chapter with complex dating history | PARTIAL |
-| text.chinese.huainanzi | 淮南子 | Huainanzi | TEXT | 中国上古神话 | Western Han | UNVERIFIED |
+| text.chinese.huainanzi | 淮南子 | Huainanzi | TEXT | 中国上古神话 | Western Han | SOURCE_BACKED |
+| text.chinese.huainanzi.lanming_nuwa_passage | 《淮南子·览冥训》女娲段落见证 | Huainanzi Lan Ming Nüwa passage witness | TEXT | 中国上古神话 | Western Han | SOURCE_BACKED |
+| text.chinese.huainanzi.tianwen_gonggong_passage | 《淮南子·天文训》共工段落见证 | Huainanzi Tian Wen Gonggong passage witness | TEXT | 中国上古神话 | Western Han | SOURCE_BACKED |
+| text.chinese.liezi | 列子 | Liezi | TEXT | 中国上古神话 | Attributed Warring States; date of the received compilation debated | SOURCE_BACKED |
+| text.chinese.liezi.tangwen_nuwa_gonggong_passage | 《列子·汤问》女娲—共工段落见证 | Liezi Tang Wen Nüwa–Gonggong passage witness | TEXT | 中国上古神话 | Received Liezi; compilation date debated | SOURCE_BACKED |
 | text.chinese.lunheng | 论衡 | Lunheng | TEXT | 中国上古神话 | Eastern Han | PARTIAL |
 | text.chinese.shang_shu | 尚书 | Shang Shu | TEXT | 中国上古神话 | Multiple textual layers; do not assign a single date | PARTIAL |
 | text.chinese.shangshu | 尚书相关传统 | Shangshu-related traditions | TEXT | 中国上古神话 | Layered compilation | UNVERIFIED |
@@ -86,8 +90,11 @@
 | text.chinese.hongfan.wuxing_passage | 《洪范》五行段落见证 | Hong Fan Wuxing passage witness | TEXT | 中国传统跨时期总类 | Textual layers and received dating debated | SOURCE_BACKED |
 | text.hawaiian.kumulipo | 库穆利波创世吟唱 | Kumulipo | ORAL_TRADITION | 夏威夷 | Living/historical Hawaiian genealogy chant | UNVERIFIED |
 | text.indian.bhagavad_gita | 薄伽梵歌 | Bhagavad Gītā | SCRIPTURE | 印度教传统 | Part of Mahābhārata | UNVERIFIED |
-| text.indian.mahabharata | 摩诃婆罗多 | Mahābhārata | EPIC | 印度教传统 | Layered composition | UNVERIFIED |
-| text.hindu.puranas | 往世书总集入口 | Purāṇas | SCRIPTURE | 印度教传统 | Multiple periods | UNVERIFIED |
+| text.hindu.bhagavata_purana | 薄伽梵往世书 | Bhāgavata Purāṇa | SCRIPTURE | 印度教传统 | Scholarly dating varies; commonly placed in the late first millennium CE | SOURCE_BACKED |
+| text.hindu.bhagavata_purana.skandha8_churning | 《薄伽梵往世书》第八篇第5–9章搅海见证 | Bhāgavata Purāṇa 8.5–8.9 churning witness | TEXT | 印度教传统 | Scholarly dating varies | SOURCE_BACKED |
+| text.indian.mahabharata | 摩诃婆罗多 | Mahābhārata | EPIC | 印度教传统 | Layered composition | SOURCE_BACKED |
+| text.indian.mahabharata.adiparvan_churning | 《摩诃婆罗多》精校本初篇 1.15–1.17 搅海见证 | Mahābhārata critical-edition Ādiparvan 1.15–1.17 churning witness | TEXT | 印度教传统 | Layered epic composition; critical edition published 1933 | SOURCE_BACKED |
+| text.hindu.puranas | 往世书总集入口 | Purāṇas | SCRIPTURE | 印度教传统 | Multiple periods | SOURCE_BACKED |
 | text.indian.ramayana | 罗摩衍那 | Rāmāyaṇa | EPIC | 印度教传统 | Layered composition | UNVERIFIED |
 | text.hindu.upanishads | 奥义书 | Upanishads | SCRIPTURE | 印度教传统 | Multiple periods | UNVERIFIED |
 | text.yoruba.ifa_corpus | Ifá 语料传统 | Ifá corpus | ORAL_TRADITION | Ifá | Living oral tradition | SOURCE_BACKED |

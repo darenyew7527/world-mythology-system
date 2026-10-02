@@ -5,7 +5,8 @@
 | deity.akkadian.ishtar | 伊什塔尔 | Ishtar | DEITY | 阿卡德 | PARTIAL | UNVERIFIED |
 | deity.akkadian.ninurta | 阿卡德《安祖神话》中的宁努尔塔 | Ninurta in the Akkadian Anzu myth | DEITY | 阿卡德 | PARTIAL | SOURCE_BACKED |
 | deity.chinese.fu_xi | 伏羲 | Fuxi | DEITY | 中国上古神话 | PARTIAL | UNVERIFIED |
-| deity.chinese.nu_wa | 女娲 | Nüwa | DEITY | 中国上古神话 | PARTIAL | UNVERIFIED |
+| deity.chinese.gonggong | 共工 | Gonggong | DEITY | 中国上古神话 | PARTIAL | SOURCE_BACKED |
+| deity.chinese.nu_wa | 女娲 | Nüwa | DEITY | 中国上古神话 | PARTIAL | SOURCE_BACKED |
 | being.chinese.pangu | 盘古 | Pangu | GIANT | 中国上古神话 | PARTIAL | UNVERIFIED |
 | deity.chinese.leize_thunder_spirit | 雷泽雷神 | Thunder Spirit of Leize | DEITY | 中国上古神话 | PARTIAL | SOURCE_BACKED |
 | hero.chinese.yellow_emperor | 黄帝 | Yellow Emperor | HERO | 中国上古神话 | PARTIAL | UNVERIFIED |
@@ -87,8 +88,11 @@
 | deity.chinese.nezha | 哪吒 | Nezha | DEITY | 中国民间信仰 | PARTIAL | UNVERIFIED |
 | deity.hawaiian.pele | 佩蕾 | Pele | DEITY | 夏威夷 | PARTIAL | UNVERIFIED |
 | deity.hindu.brahma | 梵天 | Brahma | DEITY | 印度教传统 | PARTIAL | UNVERIFIED |
-| deity.hindu.shiva | 湿婆 | Shiva | DEITY | 印度教传统 | PARTIAL | UNVERIFIED |
-| deity.hindu.vishnu | 毗湿奴 | Vishnu | DEITY | 印度教传统 | PARTIAL | UNVERIFIED |
+| deity.hindu.dhanvantari | 檀文陀利 | Dhanvantari | DEITY | 印度教传统 | PARTIAL | SOURCE_BACKED |
+| deity.hindu.kurma | 俱利摩（龟形化身） | Kūrma | DEITY | 印度教传统 | PARTIAL | SOURCE_BACKED |
+| deity.hindu.mohini | 摩希尼 | Mohinī | DEITY | 印度教传统 | PARTIAL | SOURCE_BACKED |
+| deity.hindu.shiva | 湿婆 | Shiva | DEITY | 印度教传统 | PARTIAL | SOURCE_BACKED |
+| deity.hindu.vishnu | 毗湿奴 | Vishnu | DEITY | 印度教传统 | PARTIAL | SOURCE_BACKED |
 | deity.yoruba.orunmila | 奥伦米拉 | Orunmila | DEITY | Ifá | PARTIAL | UNVERIFIED |
 | deity.irish.bridig | 布里吉德 | Brigid | DEITY | 爱尔兰 | PARTIAL | UNVERIFIED |
 | deity.irish.lugh | 鲁格 | Lugh | DEITY | 爱尔兰 | PARTIAL | UNVERIFIED |

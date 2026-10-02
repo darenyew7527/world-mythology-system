@@ -10,7 +10,9 @@ The repository contains a reproducible staged knowledge baseline, not a claim of
 
 The bilingual React explorer provides searchable entities, filters, relationship graphs, claims, evidence locators, sources, coverage, and the permanent research queue. Chinese is the default interface; English can be selected from the header.
 
-Current sealed release: `v0.29.0-reader-offline-archive`.
+Current sealed release: `v0.30.0-global-story-expansion-batch-2`.
+
+v0.30 completes the two targets that v0.28 left queued. Nüwa repairing the sky is read separately in Huainanzi “Lan Ming” and Liezi “Tang Wen”; a companion story keeps Gonggong striking Mount Buzhou in Huainanzi “Tian Wen” apart from the Liezi passage that places it *after* the repair. The churning of the ocean is registered from the Mahābhārata critical edition (Ādiparvan 1.15–1.17) and the Bhāgavata Purāṇa (8.5–8.9): the tortoise king Akūpāra and Viṣṇu's Kūrma form stay separate as an explicit witness conflict, and Śiva drinking the poison is recorded as `NOT_STATED` at the critical-edition locator rather than as counter-evidence. The Angkor Wat relief is cross-referenced without inferring its recension. Later causal retellings and the critical apparatus are queued, and Māori plus Yorùbá/Ifá remain permission-blocked only within their own targets. See [the v0.30 release notes](RELEASE_NOTES_v0.30.0.md).
 
 v0.29 adds on-device bookmarks, per-version section progress, accessible text controls, glossary/character quick look, and a self-contained bilingual offline/print archive. Personal reading state never enters SQLite, exports, or the public snapshot. See [the v0.29 release notes](RELEASE_NOTES_v0.29.0.md).
 
@@ -32,14 +34,14 @@ v0.15 decomposes the statue programme into four editorially numbered hieroglyphi
 
 v0.14 adds Xerxes I, Susa, the Darius Gate, a qualified ancient-transfer reconstruction, the 1972 discovery event and the National Museum of Iran custody layer. Manufacture, transfer interpretation, find context, installation and modern custody remain distinct.
 
-- 646 registered entities / 641 browsable canonical entities
+- 670 registered entities / 665 browsable canonical entities
 - 99 civilizations and traditions
-- 207 source records
-- 633 structured claims and 631 evidence records
-- 500 direct relationship assertions
-- 26 readable stories / 29 witness versions / 89 bilingual sections and event nodes / 6 reading routes
-- 1 global-expansion batch / 7 independently audited targets
-- 4 original-witness profiles / 7 comparison topics / 14 comparison members
+- 212 source records
+- 679 structured claims and 698 evidence records
+- 520 direct relationship assertions and 35 explicit conflicts
+- 29 readable stories / 35 witness versions / 113 bilingual sections and event nodes / 7 reading routes
+- 2 global-expansion batches / 15 independently audited targets
+- 10 original-witness profiles / 20 comparison topics / 40 comparison members
 - A bilingual genealogy mode for parents, children, siblings, consorts, and their evidence
 - An evidence-led comparison of Thor, Zeus, Indra, Raijin, Takemikazuchi, Leigong, the Leize thunder spirit, Perun, Ṣàngó, and Ugaritic Baʿlu/Haddu
 - Structured deity, artifact, text, place, creature, and event profiles in the entity view

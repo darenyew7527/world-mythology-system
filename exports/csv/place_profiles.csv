@@ -1,6 +1,8 @@
 entity_id,place_type,ancient_name,modern_name,country_code,latitude,longitude,date_range,builders,architecture_summary,excavation_summary,major_finds_summary,unesco_status,reality_status,evidence_grade
 monument.khmer.angkor_wat_churning_relief,ARCHITECTURAL_RELIEF,ចម្លាក់កូរសមុទ្រទឹកដោះ,Angkor Wat Churning of the Sea of Milk relief,KH,,,Angkorian period,,APSARA locates the in-situ relief in the southern section of Angkor Wat's eastern gallery.,,Material witness identified as the Churning of the Sea of Milk.,Within Angkor World Heritage property 668,REAL_ARCHAEOLOGICAL,OFFICIAL_HERITAGE_AUTHORITY
 museum.ugarit.baal_thunder_ao15775,MONUMENT,,,,,,,,,,,,REAL_ARCHAEOLOGICAL,UNASSESSED
+place.chinese.buzhou_mountain,MYTHICAL_MOUNTAIN,不周之山,,,,,,,,,,,MYTHICAL,TEXTUAL
+place.hindu.mandara,MYTHICAL_MOUNTAIN,मन्दर,,,,,,,,,,,MYTHICAL,TEXTUAL
 place.norse.mimisbrunnr,MYTHICAL_WELL,Mímisbrunnr,,,,,Mythic time,,,,,,MYTHICAL,TEXTUAL
 realm.egypt.duat,REALM,,,,,,,,,,,,MYTHICAL,UNASSESSED
 realm.greek.tartarus,MYTHICAL_REALM,Τάρταρος,,,,,Mythic time,,,,,,MYTHICAL,TEXTUAL

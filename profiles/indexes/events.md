@@ -2,12 +2,15 @@
 
 | ID | 中文 | English | Type | Civilization | Detail/Status | Evidence |
 |---|---|---|---|---|---|---|
+| event.chinese.gonggong_strikes_buzhou | 共工触不周山 | Gonggong strikes Mount Buzhou | EVENT | 中国上古神话 | PARTIAL | SOURCE_BACKED |
+| event.chinese.nuwa_repairs_sky | 女娲补天 | Nüwa repairs the sky | EVENT | 中国上古神话 | PARTIAL | SOURCE_BACKED |
 | event.egyptian.nocturnal_solar_journey | 太阳神夜行冥界 | Nocturnal journey of the sun god | EVENT | 古埃及 | PARTIAL | SOURCE_BACKED |
 | event.greek.persephone_abduction | 珀耳塞福涅被劫 | Abduction of Persephone | EVENT | 古希腊 | PARTIAL | SOURCE_BACKED |
 | event.greek.zeus_typhon_battle | 宙斯与提丰之战 | Battle of Zeus and Typhon | EVENT | 古希腊 | PARTIAL | PARTIAL |
 | event.greek.medea_restores_aeetes | 美狄亚恢复埃厄忒斯王位 | Medea restores Aeetes | EVENT | 古希腊 | PARTIAL | PARTIAL |
 | event.greek.titanomachy | 泰坦战争 | Titanomachy | EVENT | 古希腊 | PARTIAL | SOURCE_BACKED |
 | event.babylonian.marduk_tiamat | 马尔杜克与提亚马特之战 | Combat of Marduk and Tiamat | EVENT | 巴比伦 | PARTIAL | UNVERIFIED |
+| event.hindu.samudra_manthana | 乳海搅拌（文本叙事） | Churning of the Ocean (textual narrative) | EVENT | 印度教传统 | PARTIAL | SOURCE_BACKED |
 | event.japanese.kusanagi.discovery | 从八岐大蛇体内发现草薙剑 | Discovery of Kusanagi in Yamata no Orochi | EVENT | 日本神道 | PARTIAL | SOURCE_BACKED |
 | event.japanese.kusanagi.atsuta_enshrinement | 草薙剑奉祀热田传统 | Kusanagi enshrinement tradition at Atsuta | EVENT | 日本神道 | PARTIAL | SOURCE_BACKED |
 | event.khmer.angkor_wat_churning_scene | 吴哥寺乳海搅拌图像事件 | Churning of the Sea of Milk scene at Angkor Wat | EVENT | 柬埔寨传统 | PARTIAL | SOURCE_BACKED |

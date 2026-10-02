@@ -46,6 +46,7 @@
 2. [索尔寻找被夺走的妙尔尼尔](story.norse.hammer_recovery.md) — 《索列姆之歌》1–32节：继续到妙尔尼尔被夺与寻回的当前框架。
 3. [安祖与命运泥板](story.akkadian.anzu_tablet.md) — ORACC安祖叙事纲要：比较命运泥板的夺取与夺回。
 4. [巴力与雅姆之战](story.ugaritic.baal_yamm.md) — KTU 1.2 IV见证：以两件有名武器的顺序使用结束。
+5. [乳海搅拌：《摩诃婆罗多》精校本与《薄伽梵往世书》](story.hindu.samudra_manthana_texts.md) — 《摩诃婆罗多》精校本初篇 1.15–1.17：甘露从大海涌现，被阿修罗夺走，再由迷惑女身取回。
 
 ## 谱系差异与同名风险 / Genealogy variants and homonym risk
 
@@ -66,3 +67,16 @@
 
 1. [奥佩特节的公开仪仗路线](story.egyptian.opet_procession.md) — 埃及文物主管部门卢克索神庙档案：从卡纳克出发。
 2. [厄琉息斯大祭的公开进程](story.greek.eleusinia_procession.md) — 雅典卫城博物馆展览档案：比较雅典至厄琉息斯的公开进程。
+
+## 文本见证与物质见证分层阅读 / Reading textual and material witnesses in layers
+
+从同一故事的两种古典文本见证，读到同一主题的梵语文本与吴哥寺浮雕；每一步都保留自己的来源，不让文本替浮雕决定版本。
+
+- 证据规则：Each step keeps its own witness; textual witnesses never determine a material witness's recension, and later retellings are not back-projected.
+
+1. [女娲补天：《淮南子》与《列子》两种见证](story.chinese.nuwa_repairs_sky.md) — 《淮南子·览冥训》见证：先读《淮南子》中的宇宙崩坏与修补。
+2. [女娲补天：《淮南子》与《列子》两种见证](story.chinese.nuwa_repairs_sky.md) — 《列子·汤问》见证：比较《列子》的问答框架与缺失的黑龙、芦灰。
+3. [共工触不周山：天倾西北的两处见证](story.chinese.gonggong_buzhou.md) — 《列子·汤问》见证：看共工事件如何以“其后”接续，而不是作为起因。
+4. [乳海搅拌：《摩诃婆罗多》精校本与《薄伽梵往世书》](story.hindu.samudra_manthana_texts.md) — 《摩诃婆罗多》精校本初篇 1.15–1.17：读精校本中由龟王托山的版本。
+5. [乳海搅拌：《摩诃婆罗多》精校本与《薄伽梵往世书》](story.hindu.samudra_manthana_texts.md) — 《薄伽梵往世书》8.5–8.9：比较毗湿奴化龟与湿婆饮毒。
+6. [吴哥寺乳海搅拌：浮雕物质见证](story.khmer.angkor_wat_churning_relief.md) — APSARA 吴哥寺回廊浮雕层：最后看吴哥寺浮雕：同一主题的高棉物质见证，不由文本决定其版本。

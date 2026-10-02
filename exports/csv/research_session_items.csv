@@ -533,3 +533,12 @@ session.20260901.v0280_batch1,STORY,story.khmer.angkor_wat_churning_relief,CREAT
 session.20260901.v0280_batch1,PERMISSION_REVIEW,storytarget.v0280.01.maori,BLOCK,No named iwi/hapū publication and scoped authority yet.
 session.20260901.v0280_batch1,PERMISSION_REVIEW,storytarget.v0280.01.yoruba,BLOCK,Safeguarding metadata is not permission to collect restricted Ifá content.
 session.20260901.v0280_batch1,RELEASE,release.v0.28.0,SEAL,"Formal staged checkpoint preserves three completed, two queued and two permission-blocked targets."
+session.20261002.v0300_batch2,STORY,story.chinese.nuwa_repairs_sky,CREATE,Huainanzi Lan Ming and Liezi Tang Wen witnesses kept separate.
+session.20261002.v0300_batch2,STORY,story.chinese.gonggong_buzhou,CREATE,Huainanzi Tian Wen and Liezi Tang Wen witnesses with an explicit placement conflict.
+session.20261002.v0300_batch2,STORY,story.hindu.samudra_manthana_texts,CREATE,Critical-edition and Purāṇic witnesses with an explicit tortoise-support conflict.
+session.20261002.v0300_batch2,CONFLICT,conflict.v0300.hindu.churning_tortoise_support,CREATE,Akūpāra and Kūrma retained as separate witness-specific entities.
+session.20261002.v0300_batch2,CONFLICT,conflict.v0300.china.gonggong_placement,CREATE,Standalone etiology and sequel placement both retained.
+session.20261002.v0300_batch2,SOURCE_AUDIT,storytarget.v0300.02.khmer,BOUNDARY,Angkor relief cross-referenced without recension inference.
+session.20261002.v0300_batch2,PERMISSION_REVIEW,storytarget.v0300.02.maori,BLOCK,No named iwi/hapū publication and scoped authority yet.
+session.20261002.v0300_batch2,PERMISSION_REVIEW,storytarget.v0300.02.yoruba,BLOCK,Safeguarding metadata is not permission to collect restricted Ifá content.
+session.20261002.v0300_batch2,RELEASE,release.v0.30.0,SEAL,"Formal staged checkpoint preserves four completed, two queued and two permission-blocked batch-2 targets."

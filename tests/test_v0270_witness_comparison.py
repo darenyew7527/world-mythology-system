@@ -33,19 +33,34 @@ class OriginalWitnessComparisonTests(unittest.TestCase):
         self.assertEqual(migration["name"], "20260831_v0270_witness_comparison")
 
     def test_first_comparison_batch_has_expected_cardinality(self):
+        stories = ("story.greek.aphrodite_origins", "story.norse.ask_embla")
+        placeholders = ",".join("?" for _ in stories)
         with self.connect() as connection:
             counts = {
-                table: connection.execute(f'SELECT COUNT(*) FROM "{table}"').fetchone()[0]
-                for table in (
-                    "story_witness_profiles",
-                    "story_witness_comparisons",
-                    "story_witness_comparison_members",
-                )
+                "story_witness_profiles": connection.execute(
+                    f"""SELECT COUNT(*) FROM story_witness_profiles p
+                        JOIN story_versions v ON v.id=p.story_version_id
+                        WHERE v.story_id IN ({placeholders})""",
+                    stories,
+                ).fetchone()[0],
+                "story_witness_comparisons": connection.execute(
+                    f"SELECT COUNT(*) FROM story_witness_comparisons WHERE story_id IN ({placeholders})",
+                    stories,
+                ).fetchone()[0],
+                "story_witness_comparison_members": connection.execute(
+                    f"""SELECT COUNT(*) FROM story_witness_comparison_members m
+                        JOIN story_witness_comparisons c ON c.id=m.comparison_id
+                        WHERE c.story_id IN ({placeholders})""",
+                    stories,
+                ).fetchone()[0],
             }
             per_comparison = connection.execute(
-                """SELECT comparison_id,COUNT(*) AS members
-                   FROM story_witness_comparison_members
-                   GROUP BY comparison_id"""
+                f"""SELECT m.comparison_id,COUNT(*) AS members
+                    FROM story_witness_comparison_members m
+                    JOIN story_witness_comparisons c ON c.id=m.comparison_id
+                    WHERE c.story_id IN ({placeholders})
+                    GROUP BY m.comparison_id""",
+                stories,
             ).fetchall()
             feature = connection.execute(
                 "SELECT status FROM explorer_feature_registry WHERE feature_code='story_witness_comparison'"
@@ -127,9 +142,9 @@ class OriginalWitnessComparisonTests(unittest.TestCase):
         counts = self.snapshot["meta"]["counts"]
         release_ids = {release["id"] for release in self.snapshot["analytics"]["releaseHistory"]}
         self.assertIn("release.v0.27.0", release_ids)
-        self.assertEqual(counts["storyWitnessProfiles"], 4)
-        self.assertEqual(counts["storyWitnessComparisons"], 7)
-        self.assertEqual(counts["storyWitnessComparisonMembers"], 14)
+        self.assertGreaterEqual(counts["storyWitnessProfiles"], 4)
+        self.assertGreaterEqual(counts["storyWitnessComparisons"], 7)
+        self.assertGreaterEqual(counts["storyWitnessComparisonMembers"], 14)
         aphrodite = next(story for story in self.snapshot["stories"] if story["id"] == "story.greek.aphrodite_origins")
         self.assertEqual(len(aphrodite["witnessComparisons"]), 4)
         self.assertEqual(aphrodite["versions"][0]["witnessProfile"]["workTitleOriginal"], "Θεογονία")

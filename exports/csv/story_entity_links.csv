@@ -6,9 +6,36 @@ story.akkadian.anzu_tablet,storyver.akkadian.anzu_oracc,artifact.mesopotamian.ta
 story.babylonian.marduk_tiamat,storyver.babylonian.enuma_elish,deity.babylonian.marduk,CHARACTER,10,Derived from an explicitly linked story claim subject.
 story.babylonian.marduk_tiamat,storyver.babylonian.enuma_elish,deity.babylonian.tiamat,CHARACTER,10,Derived from an explicitly linked story claim subject.
 story.babylonian.marduk_tiamat,storyver.babylonian.enuma_elish,event.babylonian.marduk_tiamat,EVENT,20,Derived from an explicitly linked story claim object.
+story.chinese.gonggong_buzhou,storyver.chinese.gonggong_huainanzi_tianwen,deity.chinese.gonggong,CHARACTER,10,Actor.
+story.chinese.gonggong_buzhou,storyver.chinese.gonggong_huainanzi_tianwen,hero.chinese.zhuanxu,CHARACTER,20,Rival for rulership.
+story.chinese.gonggong_buzhou,storyver.chinese.gonggong_huainanzi_tianwen,place.chinese.buzhou_mountain,PLACE,30,Mythic mountain; no coordinate.
+story.chinese.gonggong_buzhou,storyver.chinese.gonggong_huainanzi_tianwen,event.chinese.gonggong_strikes_buzhou,EVENT,40,Textual event.
+story.chinese.gonggong_buzhou,storyver.chinese.gonggong_huainanzi_tianwen,text.chinese.huainanzi.tianwen_gonggong_passage,TEXT,50,Passage witness.
+story.chinese.gonggong_buzhou,storyver.chinese.gonggong_huainanzi_tianwen,text.chinese.huainanzi,TEXT,60,Parent compendium.
+story.chinese.gonggong_buzhou,storyver.chinese.gonggong_liezi_tangwen,deity.chinese.gonggong,CHARACTER,10,Actor; designation 共工氏.
+story.chinese.gonggong_buzhou,storyver.chinese.gonggong_liezi_tangwen,hero.chinese.zhuanxu,CHARACTER,20,Rival for rulership.
+story.chinese.gonggong_buzhou,storyver.chinese.gonggong_liezi_tangwen,place.chinese.buzhou_mountain,PLACE,30,Mythic mountain; no coordinate.
+story.chinese.gonggong_buzhou,storyver.chinese.gonggong_liezi_tangwen,event.chinese.gonggong_strikes_buzhou,EVENT,40,Textual event.
+story.chinese.gonggong_buzhou,storyver.chinese.gonggong_liezi_tangwen,deity.chinese.nu_wa,CHARACTER,50,Preceding episode in this witness.
+story.chinese.gonggong_buzhou,storyver.chinese.gonggong_liezi_tangwen,text.chinese.liezi.tangwen_nuwa_gonggong_passage,TEXT,60,Passage witness.
 story.chinese.leize_thunder,storyver.chinese.leize_shanhaijing,deity.chinese.leize_thunder_spirit,CHARACTER,10,Derived from an explicitly linked story claim subject.
 story.chinese.leize_thunder,storyver.chinese.leize_shanhaijing,concept.comparative.thunder,RELATED,20,Derived from an explicitly linked story claim object.
 story.chinese.leize_thunder,storyver.chinese.leize_shanhaijing,text.chinese.shanhaijing,TEXT,20,Derived from an explicitly linked story claim object.
+story.chinese.nuwa_repairs_sky,storyver.chinese.nuwa_huainanzi_lanming,deity.chinese.nu_wa,CHARACTER,10,Actor of the repair.
+story.chinese.nuwa_repairs_sky,storyver.chinese.nuwa_huainanzi_lanming,artifact.chinese.five_colored_stones,ARTIFACT,20,Refined to patch the sky.
+story.chinese.nuwa_repairs_sky,storyver.chinese.nuwa_huainanzi_lanming,creature.chinese.ao_turtle,CHARACTER,30,Legs set up as the four poles.
+story.chinese.nuwa_repairs_sky,storyver.chinese.nuwa_huainanzi_lanming,dragon.chinese.black_dragon_jizhou,CHARACTER,40,Huainanzi witness only.
+story.chinese.nuwa_repairs_sky,storyver.chinese.nuwa_huainanzi_lanming,event.chinese.nuwa_repairs_sky,EVENT,50,Textual event.
+story.chinese.nuwa_repairs_sky,storyver.chinese.nuwa_huainanzi_lanming,text.chinese.huainanzi.lanming_nuwa_passage,TEXT,60,Passage witness.
+story.chinese.nuwa_repairs_sky,storyver.chinese.nuwa_huainanzi_lanming,text.chinese.huainanzi,TEXT,70,Parent compendium.
+story.chinese.nuwa_repairs_sky,storyver.chinese.nuwa_liezi_tangwen,deity.chinese.nu_wa,CHARACTER,10,Actor of the repair; designation 女媧氏.
+story.chinese.nuwa_repairs_sky,storyver.chinese.nuwa_liezi_tangwen,artifact.chinese.five_colored_stones,ARTIFACT,20,Refined to fill the gap.
+story.chinese.nuwa_repairs_sky,storyver.chinese.nuwa_liezi_tangwen,creature.chinese.ao_turtle,CHARACTER,30,Legs set up as the four poles.
+story.chinese.nuwa_repairs_sky,storyver.chinese.nuwa_liezi_tangwen,deity.chinese.gonggong,CHARACTER,40,Introduced afterwards in this witness.
+story.chinese.nuwa_repairs_sky,storyver.chinese.nuwa_liezi_tangwen,event.chinese.nuwa_repairs_sky,EVENT,50,Textual event.
+story.chinese.nuwa_repairs_sky,storyver.chinese.nuwa_liezi_tangwen,event.chinese.gonggong_strikes_buzhou,EVENT,60,Following event in this witness.
+story.chinese.nuwa_repairs_sky,storyver.chinese.nuwa_liezi_tangwen,text.chinese.liezi.tangwen_nuwa_gonggong_passage,TEXT,70,Passage witness.
+story.chinese.nuwa_repairs_sky,storyver.chinese.nuwa_liezi_tangwen,text.chinese.liezi,TEXT,80,Parent text.
 story.egyptian.opet_procession,storyver.egyptian.opet_mota,festival.egyptian.opet,EVENT,1,Festival dossier.
 story.egyptian.opet_procession,storyver.egyptian.opet_mota,group.egyptian.theban_triad,CHARACTER_GROUP,2,Cult-image group in the official record.
 story.egyptian.opet_procession,storyver.egyptian.opet_mota,site.egypt.karnak,PLACE,10,Public departure setting.
@@ -51,6 +78,29 @@ story.greek.zeus_typhon,storyver.greek.typhon_theogony,deity.greek.zeus,CHARACTE
 story.greek.zeus_typhon,storyver.greek.typhon_theogony,deity.greek.gaia,CHARACTER,20,Derived from an explicitly linked story claim object.
 story.greek.zeus_typhon,storyver.greek.typhon_theogony,realm.greek.tartarus,RELATED,20,Derived from an explicitly linked story claim object.
 story.greek.zeus_typhon,storyver.greek.typhon_theogony,event.greek.zeus_typhon_battle,EVENT,20,Derived from an explicitly linked story claim object.
+story.hindu.samudra_manthana_texts,storyver.hindu.churning_mbh_ce,deity.hindu.vishnu,CHARACTER,10,Nārāyaṇa in the epic witness.
+story.hindu.samudra_manthana_texts,storyver.hindu.churning_mbh_ce,place.hindu.mandara,PLACE,20,Churning rod; no coordinate.
+story.hindu.samudra_manthana_texts,storyver.hindu.churning_mbh_ce,creature.hindu.vasuki,CHARACTER,30,Churning rope.
+story.hindu.samudra_manthana_texts,storyver.hindu.churning_mbh_ce,creature.hindu.akupara,CHARACTER,40,Tortoise king; this witness only.
+story.hindu.samudra_manthana_texts,storyver.hindu.churning_mbh_ce,deity.hindu.dhanvantari,CHARACTER,50,Bearer of the amṛta.
+story.hindu.samudra_manthana_texts,storyver.hindu.churning_mbh_ce,artifact.hindu.amrita,ARTIFACT,60,Object of the churning.
+story.hindu.samudra_manthana_texts,storyver.hindu.churning_mbh_ce,demon.hindu.rahu,CHARACTER,70,Beheaded with the discus.
+story.hindu.samudra_manthana_texts,storyver.hindu.churning_mbh_ce,event.hindu.samudra_manthana,EVENT,80,Textual event.
+story.hindu.samudra_manthana_texts,storyver.hindu.churning_mbh_ce,text.indian.mahabharata.adiparvan_churning,TEXT,90,Passage witness.
+story.hindu.samudra_manthana_texts,storyver.hindu.churning_mbh_ce,text.indian.mahabharata,TEXT,100,Parent epic.
+story.hindu.samudra_manthana_texts,storyver.hindu.churning_mbh_ce,monument.khmer.angkor_wat_churning_relief,RELATED,110,Separate material witness; recension not inferred.
+story.hindu.samudra_manthana_texts,storyver.hindu.churning_bhagavata,deity.hindu.vishnu,CHARACTER,10,Actor in the Purāṇic witness.
+story.hindu.samudra_manthana_texts,storyver.hindu.churning_bhagavata,place.hindu.mandara,PLACE,20,Churning rod; no coordinate.
+story.hindu.samudra_manthana_texts,storyver.hindu.churning_bhagavata,creature.hindu.vasuki,CHARACTER,30,Churning rope.
+story.hindu.samudra_manthana_texts,storyver.hindu.churning_bhagavata,deity.hindu.kurma,CHARACTER,40,Tortoise form of Viṣṇu; this witness only.
+story.hindu.samudra_manthana_texts,storyver.hindu.churning_bhagavata,deity.hindu.shiva,CHARACTER,50,Drinks the poison in this witness.
+story.hindu.samudra_manthana_texts,storyver.hindu.churning_bhagavata,deity.hindu.dhanvantari,CHARACTER,60,Bearer of the amṛta.
+story.hindu.samudra_manthana_texts,storyver.hindu.churning_bhagavata,artifact.hindu.amrita,ARTIFACT,70,Object of the churning.
+story.hindu.samudra_manthana_texts,storyver.hindu.churning_bhagavata,deity.hindu.mohini,CHARACTER,80,Female form of Viṣṇu; this witness only.
+story.hindu.samudra_manthana_texts,storyver.hindu.churning_bhagavata,demon.hindu.rahu,CHARACTER,90,Beheaded with the discus.
+story.hindu.samudra_manthana_texts,storyver.hindu.churning_bhagavata,event.hindu.samudra_manthana,EVENT,100,Textual event.
+story.hindu.samudra_manthana_texts,storyver.hindu.churning_bhagavata,text.hindu.bhagavata_purana.skandha8_churning,TEXT,110,Passage witness.
+story.hindu.samudra_manthana_texts,storyver.hindu.churning_bhagavata,text.hindu.bhagavata_purana,TEXT,120,Parent Purāṇa.
 story.japanese.eight_thunder_yomi,storyver.japanese.eight_thunder_kojiki,group.japanese.eight_thunder_kami,RELATED,10,Derived from an explicitly linked story claim subject.
 story.japanese.eight_thunder_yomi,storyver.japanese.eight_thunder_kojiki,deity.japanese.ooikazuchi,CHARACTER,10,Derived from an explicitly linked story claim subject.
 story.japanese.eight_thunder_yomi,storyver.japanese.eight_thunder_kojiki,deity.japanese.honoikazuchi,CHARACTER,10,Derived from an explicitly linked story claim subject.

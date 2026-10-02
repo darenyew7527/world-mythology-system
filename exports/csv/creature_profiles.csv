@@ -9,12 +9,17 @@ being.norse.sindri,DWARF,{},"[""smithing""]",[],,,
 being.norse.sons_of_ivaldi,CREATURE,{},[],[],,,
 being.norse.ymir,GIANT,{},[],[],,,
 creature.akkadian.anzu,MYTHIC_MONSTROUS_BIRD,"{""form"":""lion-eagle in later scholarly description""}","[""control associated with stolen Tablet of Destinies""]",[],,Akkadian Anzu myth witness.,Defeated by Ninurta in the registered synopsis.
+creature.chinese.ao_turtle,GREAT_TURTLE,{},[],[],,Named in the Huainanzi Lan Ming and Liezi Tang Wen Nüwa passages.,Its legs are cut off and used to set up the four poles in both witnesses.
 creature.greek.cyclopes_hesiodic,GIANT,{},[],[],,,
 creature.greek.typhon,MONSTER,"{""heads"":""one hundred serpent heads in Hesiod 824-835"",""features"":[""flashing fire"",""many voices""]}","[""immense strength"",""fire"",""terrifying voices""]",[],,Child of Gaia and Tartarus in Hesiod,Defeated by Zeus and cast into Tartarus in Hesiod
+creature.hindu.akupara,TORTOISE_KING,"{""form"":""tortoise""}","[""bears Mount Mandara""]",[],,Named as king of tortoises in the Mahābhārata critical-edition churning witness.,Supports the mountain during the churning in that witness.
+creature.hindu.vasuki,NAGA_KING,"{""form"":""serpent""}",[],[],,Nāga king in the epic and Purāṇic churning witnesses.,Serves as the churning rope in both registered witnesses.
 creature.norse.fenrir,MONSTER,{},[],[],,,
 creature.norse.gullinbursti,DIVINE_BEAST,"{""bristles"":""golden""}","[""shines in darkness""]",[],,Forged in the treasure contest,Given to Freyr in the narrative
 creature.norse.jormungandr,DRAGON,{},[],[],,,
 creature.vedic.vritra,RIGVEDIC SERPENT OPPONENT,"{""witness_designation"":""ahi / serpent""}","[""阻水语境（RV 1.32）""]","[""在 RV 1.32 中被因陀罗以金刚杵击杀""]",,Witness-specific opponent in Rigveda 1.32.,Killed by Indra in the registered hymn narrative.
 deity.babylonian.tiamat,DRAGON,{},[],[],,,
+demon.hindu.rahu,DANAVA,{},[],[],,Dānava in the epic and Purāṇic churning witnesses.,Beheaded with Viṣṇu's discus after drinking the amṛta in disguise; later astral identities are not modeled here.
+dragon.chinese.black_dragon_jizhou,DRAGON,"{""color"":""black""}",[],[],,Named only in the Huainanzi Lan Ming Nüwa passage.,Killed by Nüwa to relieve Jizhou in that witness.
 monster.japanese.yamata_no_orochi,MYTHIC_SERPENT,{},[],[],,Registered from the Kokugakuin academic summary of Kojiki and Nihongi narrative layers.,Defeated by Susanoo in the source-scoped narrative; Kusanagi is then found in the serpent's tail.
 monster.kiche.seven_macaw,NAMED_MYTHIC_OPPONENT,{},[],[],,Registered only from the public Smithsonian K'iche'-attributed Hero Twins overview.,The public overview says the Hero Twins defeat Seven Macaw; no larger cycle is inferred here.

@@ -1139,6 +1139,82 @@ name.v0280.relief.zh,monument.khmer.angkor_wat_churning_relief,吴哥寺“乳�
 name.v0280.seven_macaw.en,monster.kiche.seven_macaw,Seven Macaw,seven macaw,lang.en,Latin,CANONICAL,,1,source.maya.creation.nmai,Public Smithsonian label.
 name.v0280.seven_macaw.zh,monster.kiche.seven_macaw,七金刚鹦鹉,七金刚鹦鹉,lang.zh,Han,TRANSLATION,,1,source.maya.creation.nmai,Independent Chinese label; no unverified K'iche' form supplied.
 name.v0280.xbalanque.quc,hero.kiche.xbalanque,Xb’alanke,xb’alanke,lang.quc,Latin,ORIGINAL,,1,source.maya.creation.nmai,Specific K'iche' language tag added without deleting the legacy umbrella-language row.
+name.v0300.akupara.en,creature.hindu.akupara,"Akūpāra, king of tortoises",akupara king of tortoises,lang.en,Latin,CANONICAL,IAST,1,source.india.mahabharata.adiparvan.gretil,Descriptive canonical label.
+name.v0300.akupara.san,creature.hindu.akupara,अकूपार,अकूपार,lang.san,Devanagari,ORIGINAL,IAST,1,source.india.mahabharata.adiparvan.gretil,Sanskrit name.
+name.v0300.akupara.zh,creature.hindu.akupara,龟王阿库帕拉,龟王阿库帕拉,lang.zh,Han,TRANSLATION,,1,source.india.mahabharata.adiparvan.gretil,Independent Chinese transliteration; no standard Chinese form is asserted.
+name.v0300.amrita.en,artifact.hindu.amrita,Amṛta,amrta,lang.en,Latin,CANONICAL,IAST,1,source.india.mahabharata.adiparvan.gretil,IAST canonical label.
+name.v0300.amrita.san,artifact.hindu.amrita,अमृत,अमृत,lang.san,Devanagari,ORIGINAL,IAST,1,source.india.mahabharata.adiparvan.gretil,Sanskrit term.
+name.v0300.amrita.zh,artifact.hindu.amrita,甘露（阿姆利塔）,甘露阿姆利塔,lang.zh,Han,TRANSLATION,,1,source.india.mahabharata.adiparvan.gretil,Chinese label.
+name.v0300.ao.en,creature.chinese.ao_turtle,Ao (great turtle),ao great turtle,lang.en,Latin,CANONICAL,Pinyin,1,source.china.huainanzi.lanmingxun.ctext,Descriptive English label.
+name.v0300.ao.lzh,creature.chinese.ao_turtle,鼇,鼇,lang.lzh,Han,ORIGINAL,,1,source.china.huainanzi.lanmingxun.ctext,Glyph varies across editions.
+name.v0300.ao.lzh_variant,creature.chinese.ao_turtle,鰲,鰲,lang.lzh,Han,TEXTUAL_VARIANT,,0,source.china.liezi.tangwen.ctext,Variant glyph found in received Liezi editions.
+name.v0300.ao.zh,creature.chinese.ao_turtle,鳌,鳌,lang.zh,Han,TRANSLATION,,1,source.china.huainanzi.lanmingxun.ctext,Simplified Chinese label.
+name.v0300.bhp.en,text.hindu.bhagavata_purana,Bhāgavata Purāṇa,bhagavata purana,lang.en,Latin,CANONICAL,IAST,1,source.india.bhagavatapurana.gretil,Canonical title.
+name.v0300.bhp.san,text.hindu.bhagavata_purana,भागवतपुराण,भागवतपुराण,lang.san,Devanagari,ORIGINAL_TITLE,IAST,1,source.india.bhagavatapurana.gretil,Sanskrit title.
+name.v0300.bhp.zh,text.hindu.bhagavata_purana,薄伽梵往世书,薄伽梵往世书,lang.zh,Han,TRANSLATION,,1,source.india.bhagavatapurana.gretil,Chinese title.
+name.v0300.bhp_passage.en,text.hindu.bhagavata_purana.skandha8_churning,Bhāgavata Purāṇa 8.5–8.9 churning witness,bhagavata purana 8.5 8.9 churning witness,lang.en,Latin,EDITORIAL_CANONICAL,,1,source.india.bhagavatapurana.gretil,Editorial witness label.
+name.v0300.bhp_passage.san,text.hindu.bhagavata_purana.skandha8_churning,भागवतपुराण ८.५–८.९,भागवतपुराण ८.५ ८.९,lang.san,Devanagari,ORIGINAL_TITLE,IAST,1,source.india.bhagavatapurana.gretil,Work and locator of the passage witness.
+name.v0300.bhp_passage.zh,text.hindu.bhagavata_purana.skandha8_churning,《薄伽梵往世书》第八篇第5–9章搅海见证,薄伽梵往世书第八篇搅海见证,lang.zh,Han,TRANSLATION,,1,source.india.bhagavatapurana.gretil,Editorial witness label.
+name.v0300.black_dragon.en,dragon.chinese.black_dragon_jizhou,Black dragon of the Nüwa passage,black dragon nuwa passage,lang.en,Latin,DESCRIPTIVE,,1,source.china.huainanzi.lanmingxun.ctext,Descriptive label avoids merging with other black dragons.
+name.v0300.black_dragon.lzh,dragon.chinese.black_dragon_jizhou,黑龍,黑龍,lang.lzh,Han,ORIGINAL,,1,source.china.huainanzi.lanmingxun.ctext,Huainanzi Lan Ming form.
+name.v0300.black_dragon.zh,dragon.chinese.black_dragon_jizhou,黑龙（女娲补天段）,黑龙女娲补天段,lang.zh,Han,DESCRIPTIVE,,1,source.china.huainanzi.lanmingxun.ctext,Witness-scoped Chinese label.
+name.v0300.buzhou.en,place.chinese.buzhou_mountain,Mount Buzhou,mount buzhou,lang.en,Latin,CANONICAL,Pinyin,1,source.china.huainanzi.tianwenxun.ctext,English label.
+name.v0300.buzhou.lzh,place.chinese.buzhou_mountain,不周之山,不周之山,lang.lzh,Han,ORIGINAL,,1,source.china.huainanzi.tianwenxun.ctext,Form used in both registered witnesses.
+name.v0300.buzhou.zh,place.chinese.buzhou_mountain,不周山,不周山,lang.zh,Han,TRANSLATION,,1,source.china.huainanzi.tianwenxun.ctext,Modern Chinese label.
+name.v0300.churning.amrtamanthana,event.hindu.samudra_manthana,amṛtamanthana,amṛtamanthana,lang.san,Latin,TEXTUAL_VARIANT,IAST,0,source.india.mahabharata.adiparvan.gretil,Episode designation associated with the Ādiparvan account.
+name.v0300.churning.en,event.hindu.samudra_manthana,Churning of the Ocean (textual narrative),churning of the ocean textual narrative,lang.en,Latin,DESCRIPTIVE,,1,source.india.mahabharata.adiparvan.gretil,Distinguishes the textual event from the Angkor material scene.
+name.v0300.churning.iast,event.hindu.samudra_manthana,samudramanthana,samudramanthana,lang.san,Latin,TRANSLITERATION,IAST,0,source.india.bhagavatapurana.gretil,IAST transliteration.
+name.v0300.churning.san,event.hindu.samudra_manthana,समुद्रमन्थन,समुद्रमन्थन,lang.san,Devanagari,ORIGINAL,IAST,1,source.india.bhagavatapurana.gretil,Conventional Sanskrit episode label.
+name.v0300.churning.zh,event.hindu.samudra_manthana,乳海搅拌（文本叙事）,乳海搅拌文本叙事,lang.zh,Han,TRANSLATION,,1,source.india.mahabharata.adiparvan.gretil,Chinese label distinguishing the textual event.
+name.v0300.dhanvantari.en,deity.hindu.dhanvantari,Dhanvantari,dhanvantari,lang.en,Latin,CANONICAL,IAST,1,source.india.mahabharata.adiparvan.gretil,Canonical label.
+name.v0300.dhanvantari.san,deity.hindu.dhanvantari,धन्वन्तरि,धन्वन्तरि,lang.san,Devanagari,ORIGINAL,IAST,1,source.india.mahabharata.adiparvan.gretil,Sanskrit name.
+name.v0300.dhanvantari.zh,deity.hindu.dhanvantari,檀文陀利,檀文陀利,lang.zh,Han,TRANSLATION,,1,source.india.mahabharata.adiparvan.gretil,Chinese transliteration.
+name.v0300.gonggong.en,deity.chinese.gonggong,Gonggong,gonggong,lang.en,Latin,CANONICAL,Pinyin,1,source.china.huainanzi.tianwenxun.ctext,Pinyin canonical label.
+name.v0300.gonggong.lzh,deity.chinese.gonggong,共工,共工,lang.lzh,Han,ORIGINAL,,1,source.china.huainanzi.tianwenxun.ctext,Huainanzi Tian Wen form.
+name.v0300.gonggong.lzh_shi,deity.chinese.gonggong,共工氏,共工氏,lang.lzh,Han,TEXTUAL_VARIANT,,0,source.china.liezi.tangwen.ctext,Liezi Tang Wen form with the clan designation 氏.
+name.v0300.gonggong.zh,deity.chinese.gonggong,共工,共工,lang.zh,Han,TRANSLATION,,1,source.china.huainanzi.tianwenxun.ctext,Modern Chinese label.
+name.v0300.gonggong_event.en,event.chinese.gonggong_strikes_buzhou,Gonggong strikes Mount Buzhou,gonggong strikes mount buzhou,lang.en,Latin,DESCRIPTIVE,,1,source.china.huainanzi.tianwenxun.ctext,English event label.
+name.v0300.gonggong_event.lzh,event.chinese.gonggong_strikes_buzhou,共工觸不周之山,共工觸不周之山,lang.lzh,Han,DESCRIPTIVE,,1,source.china.huainanzi.tianwenxun.ctext,Event label built from the shared witness wording.
+name.v0300.gonggong_event.zh,event.chinese.gonggong_strikes_buzhou,共工触不周山,共工触不周山,lang.zh,Han,TRANSLATION,,1,source.china.huainanzi.tianwenxun.ctext,Modern Chinese event label.
+name.v0300.kurma.en,deity.hindu.kurma,Kūrma,kurma,lang.en,Latin,CANONICAL,IAST,1,source.india.bhagavatapurana.gretil,IAST canonical label.
+name.v0300.kurma.san,deity.hindu.kurma,कूर्म,कूर्म,lang.san,Devanagari,ORIGINAL,IAST,1,source.india.bhagavatapurana.gretil,Sanskrit name.
+name.v0300.kurma.zh,deity.hindu.kurma,俱利摩（龟形化身）,俱利摩龟形化身,lang.zh,Han,TRANSLATION,,1,source.india.bhagavatapurana.gretil,Chinese label.
+name.v0300.lanming_passage.en,text.chinese.huainanzi.lanming_nuwa_passage,Huainanzi Lan Ming Nüwa passage witness,huainanzi lan ming nuwa passage witness,lang.en,Latin,EDITORIAL_CANONICAL,,1,source.china.huainanzi.lanmingxun.ctext,Editorial witness label.
+name.v0300.lanming_passage.lzh,text.chinese.huainanzi.lanming_nuwa_passage,淮南子·覽冥訓,淮南子覽冥訓,lang.lzh,Han,ORIGINAL_TITLE,,1,source.china.huainanzi.lanmingxun.ctext,Chapter title.
+name.v0300.lanming_passage.zh,text.chinese.huainanzi.lanming_nuwa_passage,《淮南子·览冥训》女娲段落见证,淮南子览冥训女娲段落见证,lang.zh,Han,TRANSLATION,,1,source.china.huainanzi.lanmingxun.ctext,Editorial witness label.
+name.v0300.liezi.en,text.chinese.liezi,Liezi,liezi,lang.en,Latin,CANONICAL,Pinyin,1,source.china.liezi.tangwen.ctext,Pinyin title.
+name.v0300.liezi.lzh,text.chinese.liezi,列子,列子,lang.lzh,Han,ORIGINAL_TITLE,,1,source.china.liezi.tangwen.ctext,Received title.
+name.v0300.liezi.zh,text.chinese.liezi,列子,列子,lang.zh,Han,TRANSLATION,,1,source.china.liezi.tangwen.ctext,Modern Chinese title.
+name.v0300.mandara.en,place.hindu.mandara,Mount Mandara,mount mandara,lang.en,Latin,CANONICAL,IAST,1,source.india.mahabharata.adiparvan.gretil,English label.
+name.v0300.mandara.san,place.hindu.mandara,मन्दर,मन्दर,lang.san,Devanagari,ORIGINAL,IAST,1,source.india.mahabharata.adiparvan.gretil,Sanskrit name.
+name.v0300.mandara.zh,place.hindu.mandara,曼陀罗山,曼陀罗山,lang.zh,Han,TRANSLATION,,1,source.india.mahabharata.adiparvan.gretil,Chinese label.
+name.v0300.mbh_passage.en,text.indian.mahabharata.adiparvan_churning,Mahābhārata critical-edition Ādiparvan 1.15–1.17 churning witness,mahabharata critical edition adiparvan 1.15 1.17 churning witness,lang.en,Latin,EDITORIAL_CANONICAL,,1,source.india.mahabharata.adiparvan.gretil,Editorial witness label.
+name.v0300.mbh_passage.san,text.indian.mahabharata.adiparvan_churning,आदिपर्वन्,आदिपर्वन्,lang.san,Devanagari,ORIGINAL_TITLE,IAST,1,source.india.mahabharata.adiparvan.gretil,Book title of the passage witness.
+name.v0300.mbh_passage.zh,text.indian.mahabharata.adiparvan_churning,《摩诃婆罗多》精校本初篇 1.15–1.17 搅海见证,摩诃婆罗多精校本初篇搅海见证,lang.zh,Han,TRANSLATION,,1,source.india.mahabharata.adiparvan.gretil,Editorial witness label.
+name.v0300.mohini.en,deity.hindu.mohini,Mohinī,mohini,lang.en,Latin,CANONICAL,IAST,1,source.india.bhagavatapurana.gretil,IAST canonical label.
+name.v0300.mohini.san,deity.hindu.mohini,मोहिनी,मोहिनी,lang.san,Devanagari,ORIGINAL,IAST,1,source.india.bhagavatapurana.gretil,Sanskrit name.
+name.v0300.mohini.zh,deity.hindu.mohini,摩希尼,摩希尼,lang.zh,Han,TRANSLATION,,1,source.india.bhagavatapurana.gretil,Chinese transliteration.
+name.v0300.nuwa_event.en,event.chinese.nuwa_repairs_sky,Nüwa repairs the sky,nuwa repairs the sky,lang.en,Latin,DESCRIPTIVE,,1,source.china.huainanzi.lanmingxun.ctext,English event label.
+name.v0300.nuwa_event.lzh,event.chinese.nuwa_repairs_sky,女媧補天,女媧補天,lang.lzh,Han,DESCRIPTIVE,,1,source.china.huainanzi.lanmingxun.ctext,"Conventional event label, not a quotation."
+name.v0300.nuwa_event.zh,event.chinese.nuwa_repairs_sky,女娲补天,女娲补天,lang.zh,Han,TRANSLATION,,1,source.china.huainanzi.lanmingxun.ctext,Modern Chinese event label.
+name.v0300.rahu.en,demon.hindu.rahu,Rāhu,rahu,lang.en,Latin,CANONICAL,IAST,1,source.india.mahabharata.adiparvan.gretil,IAST canonical label.
+name.v0300.rahu.san,demon.hindu.rahu,राहु,राहु,lang.san,Devanagari,ORIGINAL,IAST,1,source.india.mahabharata.adiparvan.gretil,Sanskrit name.
+name.v0300.rahu.zh,demon.hindu.rahu,罗睺,罗睺,lang.zh,Han,TRANSLATION,,1,source.india.mahabharata.adiparvan.gretil,Conventional Chinese name.
+name.v0300.stones.en,artifact.chinese.five_colored_stones,Five-colored stones,five colored stones,lang.en,Latin,CANONICAL,,1,source.china.huainanzi.lanmingxun.ctext,English label.
+name.v0300.stones.lzh,artifact.chinese.five_colored_stones,五色石,五色石,lang.lzh,Han,ORIGINAL,,1,source.china.huainanzi.lanmingxun.ctext,Form shared by both witnesses.
+name.v0300.stones.zh,artifact.chinese.five_colored_stones,五色石,五色石,lang.zh,Han,TRANSLATION,,1,source.china.huainanzi.lanmingxun.ctext,Modern Chinese label.
+name.v0300.tangwen_passage.en,text.chinese.liezi.tangwen_nuwa_gonggong_passage,Liezi Tang Wen Nüwa–Gonggong passage witness,liezi tang wen nuwa gonggong passage witness,lang.en,Latin,EDITORIAL_CANONICAL,,1,source.china.liezi.tangwen.ctext,Editorial witness label.
+name.v0300.tangwen_passage.lzh,text.chinese.liezi.tangwen_nuwa_gonggong_passage,列子·湯問,列子湯問,lang.lzh,Han,ORIGINAL_TITLE,,1,source.china.liezi.tangwen.ctext,Chapter title.
+name.v0300.tangwen_passage.zh,text.chinese.liezi.tangwen_nuwa_gonggong_passage,《列子·汤问》女娲—共工段落见证,列子汤问女娲共工段落见证,lang.zh,Han,TRANSLATION,,1,source.china.liezi.tangwen.ctext,Editorial witness label.
+name.v0300.tianwen_passage.en,text.chinese.huainanzi.tianwen_gonggong_passage,Huainanzi Tian Wen Gonggong passage witness,huainanzi tian wen gonggong passage witness,lang.en,Latin,EDITORIAL_CANONICAL,,1,source.china.huainanzi.tianwenxun.ctext,Editorial witness label.
+name.v0300.tianwen_passage.lzh,text.chinese.huainanzi.tianwen_gonggong_passage,淮南子·天文訓,淮南子天文訓,lang.lzh,Han,ORIGINAL_TITLE,,1,source.china.huainanzi.tianwenxun.ctext,Chapter title.
+name.v0300.tianwen_passage.zh,text.chinese.huainanzi.tianwen_gonggong_passage,《淮南子·天文训》共工段落见证,淮南子天文训共工段落见证,lang.zh,Han,TRANSLATION,,1,source.china.huainanzi.tianwenxun.ctext,Editorial witness label.
+name.v0300.vasuki.en,creature.hindu.vasuki,Vāsuki,vasuki,lang.en,Latin,CANONICAL,IAST,1,source.india.mahabharata.adiparvan.gretil,IAST canonical label.
+name.v0300.vasuki.san,creature.hindu.vasuki,वासुकि,वासुकि,lang.san,Devanagari,ORIGINAL,IAST,1,source.india.mahabharata.adiparvan.gretil,Sanskrit name.
+name.v0300.vasuki.zh,creature.hindu.vasuki,婆苏吉,婆苏吉,lang.zh,Han,TRANSLATION,,1,source.india.mahabharata.adiparvan.gretil,Chinese transliteration.
+name.v0300.zhuanxu.en,hero.chinese.zhuanxu,Zhuanxu,zhuanxu,lang.en,Latin,CANONICAL,Pinyin,1,source.china.huainanzi.tianwenxun.ctext,Pinyin canonical label.
+name.v0300.zhuanxu.lzh,hero.chinese.zhuanxu,顓頊,顓頊,lang.lzh,Han,ORIGINAL,,1,source.china.huainanzi.tianwenxun.ctext,Received-text form.
+name.v0300.zhuanxu.zh,hero.chinese.zhuanxu,颛顼,颛顼,lang.zh,Han,TRANSLATION,,1,source.china.huainanzi.tianwenxun.ctext,Simplified Chinese label.
 name.v050.ares.grc,deity.greek.ares,Ἄρης,ἄρης,lang.grc,Greek,ORIGINAL,,1,source.greek.homeric_hymn_ares8.scaife,Ancient Greek name
 name.v050.artemis.grc,deity.greek.artemis,Ἄρτεμις,ἄρτεμις,lang.grc,Greek,ORIGINAL,,1,source.greek.homeric_hymn_artemis27.scaife,Ancient Greek name
 name.v050.athena.grc,deity.greek.athena,Ἀθηνᾶ,ἀθηνᾶ,lang.grc,Greek,ORIGINAL,,1,source.greek.homeric_hymn_athena28.scaife,Ancient Greek name

@@ -2,6 +2,13 @@ event_id,participant_id,role,outcome,claim_id
 event.archaeology.darius_statue_discovery_1972,museum.iran.darius_susa_statue,DISCOVERED_OBJECT,Recovered fragmentary and later displayed in Tehran,claim.v0140.discovery_event_statue
 event.babylonian.marduk_tiamat,deity.babylonian.marduk,PARTICIPANT,,claim.babylonian.marduk_participates_combat
 event.babylonian.marduk_tiamat,deity.babylonian.tiamat,PARTICIPANT,,claim.babylonian.tiamat_participates_combat
+event.chinese.gonggong_strikes_buzhou,deity.chinese.gonggong,ACTOR,Strikes Mount Buzhou in anger.,claim.v0300.gonggong.participates
+event.chinese.gonggong_strikes_buzhou,hero.chinese.zhuanxu,RIVAL,Named rival for rulership.,claim.v0300.gonggong.zhuanxu_participates
+event.chinese.gonggong_strikes_buzhou,place.chinese.buzhou_mountain,MYTHIC_PLACE,Struck mountain; no coordinate.,claim.v0300.gonggong.strikes_buzhou
+event.chinese.nuwa_repairs_sky,deity.chinese.nu_wa,ACTOR,Repairs the sky in both witnesses.,claim.v0300.nuwa.participates
+event.chinese.nuwa_repairs_sky,artifact.chinese.five_colored_stones,INSTRUMENT,Refined to patch the sky.,claim.v0300.nuwa.uses_stones
+event.chinese.nuwa_repairs_sky,creature.chinese.ao_turtle,MATERIAL,Legs set up as the four poles.,claim.v0300.nuwa.ao_legs
+event.chinese.nuwa_repairs_sky,dragon.chinese.black_dragon_jizhou,OPPONENT,Killed in the Huainanzi witness only.,claim.v0300.nuwa.kills_black_dragon
 event.greek.persephone_abduction,deity.greek.persephone,ABDUCTED,Taken to the underworld in this hymn witness,claim.v050.h2.persephone_participated
 event.greek.persephone_abduction,deity.greek.demeter,SEARCHER,Searches for Persephone,claim.v050.h2.demeter_participated
 event.greek.persephone_abduction,deity.greek.hades,ABDUCTOR,Takes Persephone below,claim.v050.h2.hades_participated
@@ -9,6 +16,16 @@ event.greek.titanomachy,deity.greek.zeus,LEADER,Victory in the Hesiodic witness,
 event.greek.titanomachy,deity.greek.cronus,TITAN_LEADER,Defeat in the Hesiodic witness,claim.v050.theogony.cronus_participated_titanomachy
 event.greek.zeus_typhon_battle,creature.greek.typhon,OPPONENT,Defeated,claim.typhon.participated_battle
 event.greek.zeus_typhon_battle,deity.greek.zeus,OPPONENT,Victorious,claim.zeus.participated_typhon
+event.hindu.samudra_manthana,deity.hindu.vishnu,ACTOR,Advises and acts in both witnesses.,claim.v0300.churn.vishnu_participates
+event.hindu.samudra_manthana,artifact.hindu.amrita,SOUGHT_OBJECT,Object of the churning.,claim.v0300.churn.amrita_sought
+event.hindu.samudra_manthana,place.hindu.mandara,CHURNING_ROD,Serves as the rod in both witnesses.,claim.v0300.churn.mandara_rod
+event.hindu.samudra_manthana,creature.hindu.vasuki,CHURNING_ROPE,Serves as the rope in both witnesses.,claim.v0300.churn.vasuki_rope
+event.hindu.samudra_manthana,creature.hindu.akupara,MOUNTAIN_SUPPORT,Mahābhārata CE witness only.,claim.v0300.churn.akupara_supports
+event.hindu.samudra_manthana,deity.hindu.kurma,MOUNTAIN_SUPPORT,Bhāgavata Purāṇa witness only.,claim.v0300.churn.kurma_supports
+event.hindu.samudra_manthana,deity.hindu.shiva,POISON_DRINKER,Bhāgavata Purāṇa witness only.,claim.v0300.churn.shiva_drinks_poison
+event.hindu.samudra_manthana,deity.hindu.dhanvantari,BEARER_OF_AMRITA,Emerges with the amṛta in both witnesses.,claim.v0300.churn.dhanvantari_carries_amrita
+event.hindu.samudra_manthana,deity.hindu.mohini,DISTRIBUTOR,Bhāgavata Purāṇa witness only.,claim.v0300.churn.mohini_distributes
+event.hindu.samudra_manthana,demon.hindu.rahu,DISGUISED_DRINKER,Beheaded with the discus in both witnesses.,claim.v0300.churn.rahu_drinks
 event.japanese.kusanagi.atsuta_enshrinement,hero.japanese.yamato_takeru,TRANSMISSION_FIGURE,Linked to the official shrine's account.,claim.v0280.japan.yamato_atsuta_event
 event.japanese.kusanagi.atsuta_enshrinement,weapon.japanese.kusanagi,SACRED_ARTIFACT,Central to the public enshrinement account.,claim.v0280.japan.kusanagi_atsuta_event
 event.japanese.kusanagi.atsuta_enshrinement,site.japanese.atsuta_jingu,DESTINATION,Officially named shrine context.,claim.v0280.japan.kusanagi_worshipped_atsuta
