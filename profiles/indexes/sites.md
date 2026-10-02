@@ -11,6 +11,7 @@
 | site.china.ritual_sites_scope | 中国古代祭祀遗址研究入口 | Ancient Chinese ritual sites research scope | ARCHAEOLOGICAL_SITE | 中国上古神话 | REAL_ARCHAEOLOGICAL | — |
 | site.china.kunlun_scope | 昆仑相关文化地点 | Kunlun-related cultural locations | PLACE | 中国上古神话 | MIXED | — |
 | site.chinese.mogao_cave_285 | 莫高窟第285窟 | Mogao Cave 285 | ARCHAEOLOGICAL_SITE | 中国上古神话 | REAL_ARCHAEOLOGICAL | Part of Mogao Caves, World Heritage property 440 |
+| place.chinese.buzhou_mountain | 不周山 | Mount Buzhou | MYTHICAL_PLACE | 中国上古神话 | MYTHICAL | — |
 | site.china.taishan | 泰山 | Mount Taishan | PLACE | 中国上古神话 | REAL_SACRED | World Heritage 437 |
 | site.egypt.abu_simbel | 阿布辛贝 | Abu Simbel | TEMPLE | 古埃及 | REAL_ARCHAEOLOGICAL | Nubian Monuments World Heritage component |
 | site.egypt.abydos | 阿拜多斯 | Abydos | ARCHAEOLOGICAL_SITE | 古埃及 | REAL_ARCHAEOLOGICAL | — |
@@ -55,6 +56,7 @@
 | site.india.elephanta | 象岛石窟 | Elephanta Caves | TEMPLE | 印度教传统 | REAL_ARCHAEOLOGICAL | World Heritage |
 | site.india.ellora | 埃洛拉石窟 | Ellora Caves | TEMPLE | 印度教传统 | REAL_ARCHAEOLOGICAL | World Heritage |
 | site.india.khajuraho | 克久拉霍古迹群 | Khajuraho Group of Monuments | TEMPLE | 印度教传统 | REAL_ARCHAEOLOGICAL | World Heritage |
+| place.hindu.mandara | 曼陀罗山 | Mount Mandara | MYTHICAL_PLACE | 印度教传统 | MYTHICAL | — |
 | site.indonesia.prambanan | 普兰巴南 | Prambanan | TEMPLE | 印度教传统 | REAL_ARCHAEOLOGICAL | World Heritage |
 | site.india.konark | 科纳克太阳神庙 | Sun Temple at Konark | TEMPLE | 印度教传统 | REAL_ARCHAEOLOGICAL | World Heritage |
 | site.india.varanasi | 瓦拉纳西 | Varanasi | PLACE | 印度教传统 | REAL_SACRED | — |

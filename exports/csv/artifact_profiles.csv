@@ -1,11 +1,13 @@
 entity_id,artifact_type,material_json,appearance_json,abilities_json,limitations_json,usage_conditions_json,creation_summary,fate_summary
 artifact.babylonian.marduk_net,ARTIFACT,[],{},[],[],[],,
+artifact.chinese.five_colored_stones,NARRATIVE_MATERIAL,"[""stone""]","{""colors"":5}","[""used to patch the sky""]",[],[],Refined by Nüwa in both the Huainanzi Lan Ming and Liezi Tang Wen witnesses.,Used to repair the sky; no material object or cult relic is inferred.
 artifact.chinese.huntian_ling,ARTIFACT,[],{},[],[],[],,
 artifact.chinese.qiankun_quan,ARTIFACT,[],{},[],[],[],,
 artifact.egyptian.solar_barque,SHIP,[],{},[],[],[],,
 artifact.greek.aegis,DIVINE_ARMOR,[],"{""iliad_5"":""Athena wears the tasselled aegis / 雅典娜披挂流苏埃癸斯""}",[],"[""术语含义与物件形态需按文本和图像分别研究 / form and terminology remain witness-specific""]",[],,
 artifact.greek.caduceus,SCEPTER,[],{},[],[],[],,
 artifact.greek.helm_hades,ARMOR,[],{},[],[],[],,
+artifact.hindu.amrita,DIVINE_ELIXIR,"[""nectar""]",{},"[""immortality""]",[],[],Produced by churning the ocean in both registered textual witnesses.,Seized by the asuras and recovered for the gods through Viṣṇu's female form in both witnesses.
 artifact.mesopotamian.tablet_destinies,ARTIFACT,[],{},[],[],[],,
 artifact.norse.draupnir,RING,[],{},[],[],[],,
 artifact.norse.gleipnir,ARTIFACT,[],{},[],[],[],,

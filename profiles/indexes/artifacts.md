@@ -3,6 +3,7 @@
 | ID | 中文 | English | Type | Civilization | Detail/Status | Evidence |
 |---|---|---|---|---|---|---|
 | artifact.mesopotamian.tablet_destinies | 命运泥板 | Tablet of Destinies | ARTIFACT | 阿卡德 | PARTIAL | UNVERIFIED |
+| artifact.chinese.five_colored_stones | 五色石 | Five-colored stones | SACRED_OBJECT | 中国上古神话 | PARTIAL | SOURCE_BACKED |
 | artifact.egyptian.solar_barque | 太阳船 | Solar barque | SHIP | 古埃及 | PARTIAL | PARTIAL |
 | artifact.greek.aegis | 埃癸斯神盾 | Aegis | ARTIFACT | 古希腊 | PARTIAL | SOURCE_BACKED |
 | weapon.greek.apollo_bow | 阿波罗之弓 | Bow of Apollo | WEAPON | 古希腊 | PARTIAL | SOURCE_BACKED |
@@ -18,6 +19,7 @@
 | artifact.chinese.qiankun_quan | 乾坤圈 | Qiankun Quan | ARTIFACT | 中国民间信仰 | PARTIAL | UNVERIFIED |
 | weapon.chinese.ruyi_jingu_bang | 如意金箍棒 | Ruyi Jingu Bang | WEAPON | 中国民间信仰 | PARTIAL | UNVERIFIED |
 | weapon.chinese.xuanyuan_sword | 轩辕剑相关传统 | Xuanyuan Sword tradition | WEAPON | 中国民间信仰 | NEEDS_REVIEW | UNVERIFIED |
+| artifact.hindu.amrita | 甘露（阿姆利塔） | Amṛta | SACRED_OBJECT | 印度教传统 | PARTIAL | SOURCE_BACKED |
 | weapon.indian.brahmastra | 梵天武器 | Brahmastra | WEAPON | 印度教传统 | PARTIAL | UNVERIFIED |
 | weapon.indian.gandiva | 甘狄拔神弓 | Gandiva | WEAPON | 印度教传统 | PARTIAL | UNVERIFIED |
 | weapon.hindu.pashupatastra | 兽主神兵 | Pashupatastra | WEAPON | 印度教传统 | PARTIAL | UNVERIFIED |

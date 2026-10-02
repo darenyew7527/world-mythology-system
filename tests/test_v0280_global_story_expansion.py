@@ -173,7 +173,7 @@ class GlobalStoryExpansionTests(unittest.TestCase):
         counts = self.snapshot["meta"]["counts"]
         self.assertEqual(
             self.snapshot["meta"]["datasetRelease"]["id"],
-            "release.v0.29.0",
+            "release.v0.30.0",
         )
         self.assertEqual(
             {
@@ -188,15 +188,19 @@ class GlobalStoryExpansionTests(unittest.TestCase):
                 )
             },
             {
-                "stories": 26,
-                "storyVersions": 29,
-                "storySections": 89,
-                "storyEventNodes": 89,
-                "storyExpansionBatches": 1,
-                "storyExpansionTargets": 7,
+                "stories": 29,
+                "storyVersions": 35,
+                "storySections": 113,
+                "storyEventNodes": 113,
+                "storyExpansionBatches": 2,
+                "storyExpansionTargets": 15,
             },
         )
-        self.assertEqual(len(self.snapshot["storyExpansionBatches"][0]["targets"]), 7)
+        batch = next(
+            item for item in self.snapshot["storyExpansionBatches"]
+            if item["id"] == "storybatch.v0280.01"
+        )
+        self.assertEqual(len(batch["targets"]), 7)
         serialized = json.dumps(self.snapshot, ensure_ascii=False)
         self.assertNotIn("shortQuote", serialized)
         self.assertNotIn("short_quote", serialized)
@@ -210,11 +214,11 @@ class GlobalStoryExpansionTests(unittest.TestCase):
         self.assertIn("storyExpansionBatches={data.storyExpansionBatches || []}", app)
         self.assertIn('className="story-expansion-audit"', library)
         self.assertIn("BLOCKED_PERMISSION", library)
-        self.assertIn("v0.29", library)
+        self.assertIn("v0.30", library)
         self.assertIn(".story-expansion-audit ul { display: flex; overflow-x: auto", tablet)
         self.assertIn(".story-expansion-audit > header { align-items: flex-start; flex-direction: column; }", mobile)
 
-    def test_v028_release_remains_preserved_after_v029_seal(self):
+    def test_v028_release_remains_preserved_after_later_seals(self):
         with self.connect() as connection:
             v028_release = connection.execute(
                 "SELECT schema_version,data_version FROM dataset_releases "
@@ -237,7 +241,7 @@ class GlobalStoryExpansionTests(unittest.TestCase):
         self.assertEqual(dict(v028_release), {"schema_version": 38, "data_version": "0.28.0"})
         self.assertEqual(
             dict(latest_release),
-            {"id": "release.v0.29.0", "schema_version": 40, "data_version": "0.29.0"},
+            {"id": "release.v0.30.0", "schema_version": 42, "data_version": "0.30.0"},
         )
         self.assertEqual(
             migration["name"],
@@ -246,18 +250,18 @@ class GlobalStoryExpansionTests(unittest.TestCase):
         self.assertEqual(checkpoint["snapshot_status"], "SEALED_RELEASE")
         self.assertEqual(
             checkpoint["data_version"],
-            "0.29.0",
+            "0.30.0",
         )
-        self.assertEqual(checkpoint["release_id"], "release.v0.29.0")
-        self.assertEqual(checkpoint["latest_sealed_release_id"], "release.v0.29.0")
+        self.assertEqual(checkpoint["release_id"], "release.v0.30.0")
+        self.assertEqual(checkpoint["latest_sealed_release_id"], "release.v0.30.0")
         self.assertEqual(manifest["snapshot_status"], "SEALED_RELEASE")
         self.assertEqual(
             manifest["project"]["data_version"],
-            "0.29.0",
+            "0.30.0",
         )
         self.assertEqual(
             manifest["latest_sealed_release"]["data_version"],
-            "0.29.0",
+            "0.30.0",
         )
         self.assertNotIn("当前为开发快照", coverage)
 

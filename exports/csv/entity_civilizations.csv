@@ -1,11 +1,13 @@
 entity_id,civilization_id,association_role,certainty,notes
 artifact.babylonian.marduk_net,civ.babylonian,ORIGIN_OR_ATTESTATION,SUPPORTED,
+artifact.chinese.five_colored_stones,civ.chinese_ancient,TEXTUAL_ATTESTATION,SUPPORTED,Huainanzi and Liezi witnesses.
 artifact.chinese.huntian_ling,civ.chinese_folk,ORIGIN_OR_ATTESTATION,SUPPORTED,
 artifact.chinese.qiankun_quan,civ.chinese_folk,ORIGIN_OR_ATTESTATION,SUPPORTED,
 artifact.egyptian.solar_barque,civ.egyptian,ORIGIN_OR_ATTESTATION,SUPPORTED,
 artifact.greek.aegis,civ.greek,ORIGIN_OR_ATTESTATION,SUPPORTED,
 artifact.greek.caduceus,civ.greek,ORIGIN_OR_ATTESTATION,SUPPORTED,
 artifact.greek.helm_hades,civ.greek,ORIGIN_OR_ATTESTATION,SUPPORTED,
+artifact.hindu.amrita,civ.hindu,TEXTUAL_ATTESTATION,SUPPORTED,Both witnesses.
 artifact.mesopotamian.tablet_destinies,civ.akkadian,ORIGIN_OR_ATTESTATION,SUPPORTED,
 artifact.norse.draupnir,civ.norse,ORIGIN_OR_ATTESTATION,SUPPORTED,
 artifact.norse.gleipnir,civ.norse,ORIGIN_OR_ATTESTATION,SUPPORTED,
@@ -52,8 +54,11 @@ concept.yoruba.living_tradition_access,civ.yoruba,COMMUNITY_GOVERNANCE_CONTEXT,S
 concept.zoroastrian.asha,civ.zoroastrian,ORIGIN_OR_ATTESTATION,SUPPORTED,
 concept.zoroastrian.druj,civ.zoroastrian,ORIGIN_OR_ATTESTATION,SUPPORTED,
 creature.akkadian.anzu,civ.akkadian,WITNESS_SCOPED_CONTEXT,SUPPORTED,v0.20 scoped association
+creature.chinese.ao_turtle,civ.chinese_ancient,TEXTUAL_ATTESTATION,SUPPORTED,Huainanzi and Liezi witnesses.
 creature.greek.cyclopes_hesiodic,civ.greek,ORIGIN_OR_ATTESTATION,SUPPORTED,
 creature.greek.typhon,civ.greek,ORIGIN,SUPPORTED,"Text-tradition association, not historical existence"
+creature.hindu.akupara,civ.hindu,TEXTUAL_ATTESTATION,SUPPORTED,Mahābhārata witness.
+creature.hindu.vasuki,civ.hindu,TEXTUAL_ATTESTATION,SUPPORTED,Both witnesses.
 creature.norse.fenrir,civ.norse,ORIGIN_OR_ATTESTATION,SUPPORTED,
 creature.norse.gullinbursti,civ.norse,ORIGIN,SUPPORTED,"Text-tradition association, not historical existence"
 creature.norse.jormungandr,civ.norse,ORIGIN_OR_ATTESTATION,SUPPORTED,
@@ -64,6 +69,7 @@ deity.assyrian.ashur,civ.assyrian,ORIGIN_OR_ATTESTATION,SUPPORTED,
 deity.babylonian.marduk,civ.babylonian,ORIGIN_OR_ATTESTATION,SUPPORTED,
 deity.babylonian.tiamat,civ.babylonian,ORIGIN_OR_ATTESTATION,SUPPORTED,
 deity.chinese.fu_xi,civ.chinese_ancient,ORIGIN_OR_ATTESTATION,SUPPORTED,
+deity.chinese.gonggong,civ.chinese_ancient,TEXTUAL_ATTESTATION,SUPPORTED,Huainanzi and Liezi witnesses.
 deity.chinese.leigong,civ.chinese_folk,ORIGIN,SUPPORTED,v0.6.0 witness-scoped baseline
 deity.chinese.leize_thunder_spirit,civ.chinese_ancient,ORIGIN,SUPPORTED,v0.6.0 witness-scoped baseline
 deity.chinese.nezha,civ.chinese_folk,ORIGIN_OR_ATTESTATION,SUPPORTED,
@@ -141,6 +147,9 @@ deity.greek.uranus,civ.greek,ORIGIN_OR_ATTESTATION,SUPPORTED,
 deity.greek.zeus,civ.greek,ORIGIN_OR_ATTESTATION,SUPPORTED,
 deity.hawaiian.pele,civ.hawaiian,ORIGIN_OR_ATTESTATION,SUPPORTED,
 deity.hindu.brahma,civ.hindu,ORIGIN_OR_ATTESTATION,SUPPORTED,
+deity.hindu.dhanvantari,civ.hindu,TEXTUAL_ATTESTATION,SUPPORTED,Both witnesses.
+deity.hindu.kurma,civ.hindu,TEXTUAL_ATTESTATION,SUPPORTED,Bhāgavata witness.
+deity.hindu.mohini,civ.hindu,TEXTUAL_ATTESTATION,SUPPORTED,Bhāgavata witness.
 deity.hindu.shiva,civ.hindu,ORIGIN_OR_ATTESTATION,SUPPORTED,
 deity.hindu.vishnu,civ.hindu,ORIGIN_OR_ATTESTATION,SUPPORTED,
 deity.irish.bridig,civ.irish,ORIGIN_OR_ATTESTATION,SUPPORTED,
@@ -231,6 +240,8 @@ deity.yoruba.oshun,civ.yoruba,ORIGIN_OR_ATTESTATION,SUPPORTED,
 deity.yoruba.shango,civ.yoruba,ORIGIN_OR_ATTESTATION,SUPPORTED,
 deity.zoroastrian.ahura_mazda,civ.zoroastrian,ORIGIN_OR_ATTESTATION,SUPPORTED,
 deity.zoroastrian.mithra,civ.zoroastrian,ORIGIN_OR_ATTESTATION,SUPPORTED,
+demon.hindu.rahu,civ.hindu,TEXTUAL_ATTESTATION,SUPPORTED,Both witnesses.
+dragon.chinese.black_dragon_jizhou,civ.chinese_ancient,TEXTUAL_ATTESTATION,SUPPORTED,Huainanzi witness.
 element.chinese.huo,civ.chinese_ancient,ORIGIN_OR_ATTESTATION,SUPPORTED,
 element.chinese.jin,civ.chinese_ancient,ORIGIN_OR_ATTESTATION,SUPPORTED,
 element.chinese.mu,civ.chinese_ancient,ORIGIN_OR_ATTESTATION,SUPPORTED,
@@ -243,11 +254,14 @@ element.indian.prithvi,civ.hindu,ORIGIN_OR_ATTESTATION,SUPPORTED,
 element.indian.vayu,civ.hindu,ORIGIN_OR_ATTESTATION,SUPPORTED,
 event.archaeology.darius_statue_discovery_1972,civ.persian,ARCHAEOLOGICAL_CONTEXT,SUPPORTED,Modern discovery of Achaemenid object
 event.babylonian.marduk_tiamat,civ.babylonian,ORIGIN_OR_ATTESTATION,SUPPORTED,
+event.chinese.gonggong_strikes_buzhou,civ.chinese_ancient,TEXTUAL_ATTESTATION,SUPPORTED,Two independent witnesses.
+event.chinese.nuwa_repairs_sky,civ.chinese_ancient,TEXTUAL_ATTESTATION,SUPPORTED,Two independent witnesses.
 event.egyptian.nocturnal_solar_journey,civ.egyptian,ORIGIN,SUPPORTED,v0.7.0 source-located Egyptian baseline
 event.greek.medea_restores_aeetes,civ.greek,ORIGIN,SUPPORTED,v0.9.0 source-located Greek baseline
 event.greek.persephone_abduction,civ.greek,ORIGIN,SUPPORTED,Registered within the ancient Greek textual baseline
 event.greek.titanomachy,civ.greek,ORIGIN_OR_ATTESTATION,SUPPORTED,
 event.greek.zeus_typhon_battle,civ.greek,ORIGIN,SUPPORTED,"Text-tradition association, not historical existence"
+event.hindu.samudra_manthana,civ.hindu,TEXTUAL_ATTESTATION,SUPPORTED,Two independent witnesses.
 event.japanese.kusanagi.atsuta_enshrinement,civ.japanese_shinto,LIVING_TRADITION,SUPPORTED,Current official public account.
 event.japanese.kusanagi.discovery,civ.japanese_shinto,TEXTUAL_ATTESTATION,SUPPORTED,Academic source scope.
 event.khmer.angkor_wat_churning_scene,civ.khmer,MATERIAL_WITNESS,SUPPORTED,Khmer representation kept distinct from textual versions.
@@ -268,6 +282,7 @@ group.egyptian.theban_triad,civ.egyptian,ORIGIN,SUPPORTED,v0.7.0 source-located 
 group.japanese.eight_thunder_kami,civ.japanese_shinto,ORIGIN,SUPPORTED,v0.6.0 witness-scoped baseline
 hero.chinese.sun_wukong,civ.chinese_folk,ORIGIN_OR_ATTESTATION,SUPPORTED,
 hero.chinese.yellow_emperor,civ.chinese_ancient,ORIGIN_OR_ATTESTATION,SUPPORTED,
+hero.chinese.zhuanxu,civ.chinese_ancient,TEXTUAL_ATTESTATION,SUPPORTED,Huainanzi and Liezi witnesses.
 hero.greek.aeetes,civ.greek,ORIGIN,SUPPORTED,v0.9.0 source-located Greek baseline
 hero.greek.andromeda,civ.greek,ORIGIN,SUPPORTED,v0.9.0 source-located Greek baseline
 hero.greek.medea,civ.greek,ORIGIN,SUPPORTED,v0.9.0 source-located Greek baseline
@@ -322,6 +337,8 @@ museum.ugarit.baal_cycle_ao16643,civ.ugaritic,ORIGIN_OR_ATTESTATION,SUPPORTED,
 museum.ugarit.baal_thunder_ao15775,civ.ugaritic,ORIGIN_OR_ATTESTATION,SUPPORTED,
 person.norse.ask,civ.norse,OLD_NORSE_WITNESS_CONTEXT,SUPPORTED,Witness-scoped association
 person.norse.embla,civ.norse,OLD_NORSE_WITNESS_CONTEXT,SUPPORTED,Witness-scoped association
+place.chinese.buzhou_mountain,civ.chinese_ancient,TEXTUAL_ATTESTATION,SUPPORTED,Mythic place.
+place.hindu.mandara,civ.hindu,TEXTUAL_ATTESTATION,SUPPORTED,Mythic place.
 place.norse.mimisbrunnr,civ.norse,ORIGIN,SUPPORTED,"Text-tradition association, not historical existence"
 realm.egypt.duat,civ.egyptian,ORIGIN_OR_ATTESTATION,SUPPORTED,
 realm.greek.tartarus,civ.greek,ORIGIN,SUPPORTED,"Text-tradition association, not historical existence"
@@ -433,6 +450,10 @@ text.chinese.hanshu.wuxing_omen_passage,civ.chinese,CHINESE_TEXT_OR_VISUAL_CONTE
 text.chinese.hong_fan,civ.chinese_ancient,ORIGIN,SUPPORTED,"Text-tradition association, not historical existence"
 text.chinese.hongfan.wuxing_passage,civ.chinese,CHINESE_TEXT_OR_VISUAL_CONTEXT,SUPPORTED,v0.21 scoped association
 text.chinese.huainanzi,civ.chinese_ancient,ORIGIN_OR_ATTESTATION,SUPPORTED,
+text.chinese.huainanzi.lanming_nuwa_passage,civ.chinese_ancient,TEXTUAL_WITNESS,CONFIRMED,Chapter-located passage.
+text.chinese.huainanzi.tianwen_gonggong_passage,civ.chinese_ancient,TEXTUAL_WITNESS,CONFIRMED,Chapter-located passage.
+text.chinese.liezi,civ.chinese_ancient,TEXTUAL_TRADITION,SUPPORTED,Received text; dating debated.
+text.chinese.liezi.tangwen_nuwa_gonggong_passage,civ.chinese_ancient,TEXTUAL_WITNESS,CONFIRMED,Chapter-located passage.
 text.chinese.local_gazetteers,civ.chinese_local,ORIGIN_OR_ATTESTATION,SUPPORTED,
 text.chinese.lunheng,civ.chinese_ancient,ORIGIN,SUPPORTED,v0.6.0 witness-scoped baseline
 text.chinese.mutianzizhuan,civ.chinese_ancient,ORIGIN_OR_ATTESTATION,SUPPORTED,
@@ -494,10 +515,13 @@ text.greek.theogony,civ.greek,ORIGIN_OR_ATTESTATION,SUPPORTED,
 text.greek.tragedies,civ.greek,ORIGIN_OR_ATTESTATION,SUPPORTED,
 text.greek.works_days,civ.greek,ORIGIN_OR_ATTESTATION,SUPPORTED,
 text.hawaiian.kumulipo,civ.hawaiian,ORIGIN_OR_ATTESTATION,SUPPORTED,
+text.hindu.bhagavata_purana,civ.hindu,TEXTUAL_TRADITION,CONFIRMED,Living scripture.
+text.hindu.bhagavata_purana.skandha8_churning,civ.hindu,TEXTUAL_WITNESS,CONFIRMED,Skandha 8 locator.
 text.hindu.puranas,civ.hindu,ORIGIN_OR_ATTESTATION,SUPPORTED,
 text.hindu.upanishads,civ.hindu,ORIGIN_OR_ATTESTATION,SUPPORTED,
 text.indian.bhagavad_gita,civ.hindu,ORIGIN_OR_ATTESTATION,SUPPORTED,
 text.indian.mahabharata,civ.hindu,ORIGIN_OR_ATTESTATION,SUPPORTED,
+text.indian.mahabharata.adiparvan_churning,civ.hindu,TEXTUAL_WITNESS,CONFIRMED,Critical-edition locator.
 text.indian.ramayana,civ.hindu,ORIGIN_OR_ATTESTATION,SUPPORTED,
 text.indian.regional_epics,civ.indian_regional,ORIGIN_OR_ATTESTATION,SUPPORTED,
 text.jain.corpus,civ.jain,ORIGIN_OR_ATTESTATION,SUPPORTED,

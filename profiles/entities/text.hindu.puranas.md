@@ -6,7 +6,7 @@
 - 原文名: पुराण
 - 转写: —
 - 研究状态: `PARTIAL`
-- 证据状态: `UNVERIFIED`
+- 证据状态: `SOURCE_BACKED`
 
 ## 分类
 
@@ -14,7 +14,9 @@
 
 ## 关系网络
 
-当前无关系边；保留为研究缺口。
+| Relation | Target | Review / layer | Evidence | Confidence | Direction |
+|---|---|---|---:|---:|---|
+| `HAS_MEMBER` | 薄伽梵往世书 (`text.hindu.bhagavata_purana`) | VERIFIED / HISTORICAL_REALITY / TEXTUAL_WITNESS | 1 | 0.99 | inferred inverse; `claim.v0300.churn.bhp_member_of_puranas` |
 
 ## Claims 与证据
 

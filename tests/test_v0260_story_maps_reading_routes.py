@@ -8,6 +8,14 @@ from scripts.generate_web_data import build_snapshot
 
 ROOT = Path(__file__).resolve().parents[1]
 DB = ROOT / "database" / "world_mythology.sqlite"
+V026_ROUTE_IDS = (
+    "route.creation_accounts",
+    "route.underworld_journeys",
+    "route.divine_combat",
+    "route.artifact_circulation",
+    "route.genealogy_conflicts",
+    "route.sacred_processions",
+)
 
 
 class StoryMapsReadingRoutesTests(unittest.TestCase):
@@ -74,7 +82,10 @@ class StoryMapsReadingRoutesTests(unittest.TestCase):
 
     def test_six_routes_keep_witness_specific_steps(self):
         with self.connect() as connection:
-            routes = connection.execute("SELECT COUNT(*) FROM reading_routes").fetchone()[0]
+            routes = connection.execute(
+                f"SELECT COUNT(*) FROM reading_routes WHERE id IN ({','.join('?' for _ in V026_ROUTE_IDS)})",
+                V026_ROUTE_IDS,
+            ).fetchone()[0]
             steps = connection.execute("SELECT COUNT(*) FROM reading_route_steps").fetchone()[0]
             orphaned = connection.execute(
                 """SELECT COUNT(*) FROM reading_route_steps rs
@@ -90,7 +101,7 @@ class StoryMapsReadingRoutesTests(unittest.TestCase):
         self.assertIn("release.v0.26.0", release_ids)
         self.assertGreaterEqual(self.snapshot["meta"]["counts"]["stories"], 23)
         self.assertGreaterEqual(self.snapshot["meta"]["counts"]["storyEventNodes"], 77)
-        self.assertEqual(len(self.snapshot["readingRoutes"]), 6)
+        self.assertTrue(set(V026_ROUTE_IDS) <= {route["id"] for route in self.snapshot["readingRoutes"]})
         serialized = json.dumps(self.snapshot, ensure_ascii=False)
         self.assertNotIn("shortQuote", serialized)
         self.assertNotIn("short_quote", serialized)

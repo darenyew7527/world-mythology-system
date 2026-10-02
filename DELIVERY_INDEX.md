@@ -9,37 +9,39 @@
 | 文明／传统 | 99 |
 | 文化语境 | 18 |
 | 语言 | 27 |
-| 统一实体 | 646 |
+| 统一实体 | 670 |
 | 实体重定向／去重审计 | 5 |
-| 多类型分类 | 672 |
-| 名称与译名 | 1391 |
-| 来源 | 207 |
-| Claims | 633 |
-| Evidence | 631 |
-| 关系边（直接） | 500 |
-| 显式冲突 | 33 |
-| 永久研究队列 | 118 |
-| 可阅读故事 | 26 |
-| 故事文本版本 | 29 |
-| 故事阅读分段 | 89 |
-| 故事事件节点 | 89 |
-| 全球故事扩张批次 | 1 |
-| 全球故事扩张目标 | 7 |
-| 原典见证档案 | 4 |
-| 原典对读主题 | 7 |
-| 原典对读成员 | 14 |
-| 主题阅读路线 | 6 |
-| 阅读路线步骤 | 23 |
+| 多类型分类 | 696 |
+| 名称与译名 | 1467 |
+| 来源 | 212 |
+| Claims | 679 |
+| Evidence | 698 |
+| 关系边（直接） | 520 |
+| 显式冲突 | 35 |
+| 永久研究队列 | 122 |
+| 可阅读故事 | 29 |
+| 故事文本版本 | 35 |
+| 故事阅读分段 | 113 |
+| 故事事件节点 | 113 |
+| 全球故事扩张批次 | 2 |
+| 全球故事扩张目标 | 15 |
+| 原典见证档案 | 10 |
+| 原典对读主题 | 20 |
+| 原典对读成员 | 40 |
+| 主题阅读路线 | 7 |
+| 阅读路线步骤 | 30 |
 | 阅读器与离线功能 | 5 |
 
-来源登记状态：`URL_SYNTAX_VALID` 207。
+来源登记状态：`URL_SYNTAX_VALID` 212。
 
 ## 直接打开这些文件
 
 - `database/world_mythology.sqlite`：事实核心数据库。
+- `RELEASE_NOTES_v0.30.0.md`：v0.30 全球故事扩张第二批：女娲、共工与乳海搅拌的分见证故事。
+- `docs/ROADMAP_v0.30-v0.33.md`：v0.30 正式状态与后续候选方向。
 - `RELEASE_NOTES_v0.29.0.md`：v0.29 本机阅读器、离线打印档案与隐私边界。
 - `RELEASE_NOTES_v0.28.0.md`：v0.28 全球故事扩张、独立目标审计与权限边界。
-- `docs/ROADMAP_v0.26-v0.29.md`：v0.28 全球故事扩张正式状态、目标审计与后续路线。
+- `docs/ROADMAP_v0.26-v0.29.md`：v0.26–v0.29 故事阅读路线图与正式状态。
 - `RELEASE_NOTES_v0.27.0.md`：v0.27 原典见证逐项对读、显式未知状态与版权边界。
 - `RELEASE_NOTES_v0.26.0.md`：v0.26 故事地图、事件节点、主题阅读路线与公开进程故事。
 - `RELEASE_NOTES_v0.25.0.md`：v0.25 神话故事阅读库、版本分离、证据链接与阅读边界。
@@ -61,12 +63,12 @@
 - `exports/graph/`：JSON、CSV、GraphML 知识图谱。
 - `profiles/entities/`：每个实体的 Markdown 阅读档案。
 - `profiles/stories/index.md`：可下载的完整故事阅读档案索引。
-- `profiles/stories/reading_routes.md`：六条见证安全的主题阅读路线。
+- `profiles/stories/reading_routes.md`：七条见证安全的阅读路线（含文本／物质见证分层路线）。
 - `visualization/index.html`：静态关系网络基础。
 - `web/`：中文优先、可切换英文的 React/Vite 公开探索器。
 - `web/public/data/site-data.json`：不含证据短引文的浏览器安全数据快照。
-- `web/public/offline/world-mythology-v0.29-story-archive.html`：可断网打开和打印的单文件双语故事档案。
-- `web/public/offline/world-mythology-v0.29-story-archive.json`：与离线档案对应的可检查公开数据。
+- `web/public/offline/world-mythology-v0.30-story-archive.html`：可断网打开和打印的单文件双语故事档案。
+- `web/public/offline/world-mythology-v0.30-story-archive.json`：与离线档案对应的可检查公开数据。
 - `docs/design/public-explorer-desktop.png`：公开探索器桌面截图。
 - `api/openapi.yaml`：只读 API 契约。
 - `assets/world_mythology_system_reference.jpeg`：用户提供的视觉架构参考，不作为事实来源。

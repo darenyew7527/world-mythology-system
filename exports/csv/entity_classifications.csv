@@ -1,5 +1,6 @@
 entity_id,type_code,is_primary,notes
 artifact.babylonian.marduk_net,ARTIFACT,1,
+artifact.chinese.five_colored_stones,SACRED_OBJECT,1,Narrative material of the sky repair.
 artifact.chinese.huntian_ling,ARTIFACT,1,
 artifact.chinese.qiankun_quan,ARTIFACT,1,
 artifact.egyptian.solar_barque,SHIP,1,
@@ -7,6 +8,7 @@ artifact.greek.aegis,ARTIFACT,1,
 artifact.greek.aegis,ARMOR,0,
 artifact.greek.caduceus,SCEPTER,1,
 artifact.greek.helm_hades,ARMOR,1,
+artifact.hindu.amrita,SACRED_OBJECT,1,Nectar of immortality.
 artifact.mesopotamian.tablet_destinies,ARTIFACT,1,
 artifact.norse.draupnir,RING,1,
 artifact.norse.gleipnir,ARTIFACT,1,
@@ -107,8 +109,11 @@ concept.yoruba.living_tradition_access,CONCEPT,1,v0.23.0 living-tradition permis
 concept.zoroastrian.asha,CONCEPT,1,
 concept.zoroastrian.druj,CONCEPT,1,
 creature.akkadian.anzu,MONSTER,1,v0.20.0 ancient Near East witnesses
+creature.chinese.ao_turtle,DIVINE_BEAST,1,Great turtle in the Nüwa passages.
 creature.greek.cyclopes_hesiodic,GIANT,1,
 creature.greek.typhon,MONSTER,1,Primary classification at research checkpoint 2026-08-11
+creature.hindu.akupara,DIVINE_BEAST,1,Mahābhārata critical-edition witness only.
+creature.hindu.vasuki,DIVINE_BEAST,1,Nāga king.
 creature.norse.fenrir,MONSTER,1,
 creature.norse.gullinbursti,DIVINE_BEAST,1,Primary classification at research checkpoint 2026-08-11
 creature.norse.gullinbursti,ARTIFACT,0,Crafted living being in Skáldskaparmál; retain both classes
@@ -121,6 +126,7 @@ deity.babylonian.marduk,DEITY,1,
 deity.babylonian.tiamat,PRIMORDIAL_DEITY,1,
 deity.babylonian.tiamat,DRAGON,0,
 deity.chinese.fu_xi,DEITY,1,
+deity.chinese.gonggong,DEITY,1,Divine/clan/ruler designation varies by witness.
 deity.chinese.leigong,DEITY,1,v0.6.0 thunder and storm comparison checkpoint
 deity.chinese.leize_thunder_spirit,DEITY,1,v0.6.0 thunder and storm comparison checkpoint
 deity.chinese.nezha,DEITY,1,
@@ -211,6 +217,9 @@ deity.greek.uranus,PRIMORDIAL_DEITY,1,
 deity.greek.zeus,DEITY,1,
 deity.hawaiian.pele,DEITY,1,
 deity.hindu.brahma,DEITY,1,
+deity.hindu.dhanvantari,DEITY,1,Bearer of the amṛta.
+deity.hindu.kurma,DEITY,1,Viṣṇu tortoise form in the Bhāgavata witness.
+deity.hindu.mohini,DEITY,1,Viṣṇu female form in the Bhāgavata witness.
 deity.hindu.shiva,DEITY,1,
 deity.hindu.vishnu,DEITY,1,
 deity.irish.bridig,DEITY,1,
@@ -304,6 +313,8 @@ deity.yoruba.oshun,DEITY,1,
 deity.yoruba.shango,DEITY,1,
 deity.zoroastrian.ahura_mazda,DEITY,1,
 deity.zoroastrian.mithra,DEITY,1,
+demon.hindu.rahu,DEMON,1,Dānava beheaded with the discus.
+dragon.chinese.black_dragon_jizhou,DRAGON,1,Huainanzi Lan Ming witness only.
 element.chinese.huo,ELEMENT,1,
 element.chinese.jin,ELEMENT,1,
 element.chinese.mu,ELEMENT,1,
@@ -316,11 +327,14 @@ element.indian.prithvi,ELEMENT,1,
 element.indian.vayu,ELEMENT,1,
 event.archaeology.darius_statue_discovery_1972,EVENT,1,v0.14.0 Darius statue provenance checkpoint
 event.babylonian.marduk_tiamat,EVENT,1,
+event.chinese.gonggong_strikes_buzhou,EVENT,1,Two-witness textual event.
+event.chinese.nuwa_repairs_sky,EVENT,1,Two-witness textual event.
 event.egyptian.nocturnal_solar_journey,EVENT,1,v0.7.0 Egyptian solar-composite checkpoint
 event.greek.medea_restores_aeetes,EVENT,1,v0.9.0 Perses homonym audit checkpoint
 event.greek.persephone_abduction,EVENT,1,v0.5.0 primary-source profile checkpoint
 event.greek.titanomachy,EVENT,1,
 event.greek.zeus_typhon_battle,EVENT,1,Primary classification at research checkpoint 2026-08-11
+event.hindu.samudra_manthana,EVENT,1,Two-witness textual event.
 event.japanese.kusanagi.atsuta_enshrinement,EVENT,1,Official shrine tradition event.
 event.japanese.kusanagi.discovery,EVENT,1,Kusanagi discovery narrative.
 event.khmer.angkor_wat_churning_scene,EVENT,1,Materially attested represented scene.
@@ -341,6 +355,7 @@ group.japanese.eight_thunder_kami,CONCEPT,1,v0.6.0 thunder and storm comparison 
 hero.chinese.sun_wukong,HERO,1,
 hero.chinese.yellow_emperor,HERO,1,
 hero.chinese.yellow_emperor,ANCESTOR_DEITY,0,
+hero.chinese.zhuanxu,HERO,1,Legendary sovereign; no historical-reality claim.
 hero.greek.aeetes,HERO,1,v0.9.0 Perses homonym audit checkpoint
 hero.greek.andromeda,HERO,1,v0.9.0 Perses homonym audit checkpoint
 hero.greek.medea,HERO,1,v0.9.0 Perses homonym audit checkpoint
@@ -403,6 +418,8 @@ museum.ugarit.baal_thunder_ao15775,MUSEUM_OBJECT,1,
 museum.ugarit.baal_thunder_ao15775,MONUMENT,0,
 person.norse.ask,PERSON,1,v0.19.0 Norse witness graph
 person.norse.embla,PERSON,1,v0.19.0 Norse witness graph
+place.chinese.buzhou_mountain,MYTHICAL_PLACE,1,No coordinate projection.
+place.hindu.mandara,MYTHICAL_PLACE,1,No coordinate projection.
 place.norse.mimisbrunnr,MYTHICAL_PLACE,1,Primary classification at research checkpoint 2026-08-11
 realm.egypt.duat,REALM,1,
 realm.greek.tartarus,REALM,1,Primary classification at research checkpoint 2026-08-11
@@ -518,6 +535,10 @@ text.chinese.hanshu.wuxing_omen_passage,TEXT,1,v0.21.0 Chinese semantic layers
 text.chinese.hong_fan,TEXT,1,Primary classification at research checkpoint 2026-08-11
 text.chinese.hongfan.wuxing_passage,TEXT,1,v0.21.0 Chinese semantic layers
 text.chinese.huainanzi,TEXT,1,
+text.chinese.huainanzi.lanming_nuwa_passage,TEXT,1,Passage witness.
+text.chinese.huainanzi.tianwen_gonggong_passage,TEXT,1,Passage witness.
+text.chinese.liezi,TEXT,1,Received compendium.
+text.chinese.liezi.tangwen_nuwa_gonggong_passage,TEXT,1,Passage witness.
 text.chinese.local_gazetteers,TEXT,1,
 text.chinese.lunheng,TEXT,1,v0.6.0 thunder and storm comparison checkpoint
 text.chinese.mutianzizhuan,TEXT,1,
@@ -578,10 +599,13 @@ text.greek.theogony,EPIC,1,
 text.greek.tragedies,TEXT,1,
 text.greek.works_days,EPIC,1,
 text.hawaiian.kumulipo,ORAL_TRADITION,1,
+text.hindu.bhagavata_purana,SCRIPTURE,1,Purāṇa.
+text.hindu.bhagavata_purana.skandha8_churning,TEXT,1,Passage witness.
 text.hindu.puranas,SCRIPTURE,1,
 text.hindu.upanishads,SCRIPTURE,1,
 text.indian.bhagavad_gita,SCRIPTURE,1,
 text.indian.mahabharata,EPIC,1,
+text.indian.mahabharata.adiparvan_churning,TEXT,1,Passage witness.
 text.indian.ramayana,EPIC,1,
 text.indian.regional_epics,ORAL_TRADITION,1,
 text.jain.corpus,SCRIPTURE,1,

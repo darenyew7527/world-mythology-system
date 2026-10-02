@@ -1,10 +1,12 @@
 {"association_role":"ORIGIN_OR_ATTESTATION","certainty":"SUPPORTED","civilization_id":"civ.babylonian","entity_id":"artifact.babylonian.marduk_net","notes":null}
+{"association_role":"TEXTUAL_ATTESTATION","certainty":"SUPPORTED","civilization_id":"civ.chinese_ancient","entity_id":"artifact.chinese.five_colored_stones","notes":"Huainanzi and Liezi witnesses."}
 {"association_role":"ORIGIN_OR_ATTESTATION","certainty":"SUPPORTED","civilization_id":"civ.chinese_folk","entity_id":"artifact.chinese.huntian_ling","notes":null}
 {"association_role":"ORIGIN_OR_ATTESTATION","certainty":"SUPPORTED","civilization_id":"civ.chinese_folk","entity_id":"artifact.chinese.qiankun_quan","notes":null}
 {"association_role":"ORIGIN_OR_ATTESTATION","certainty":"SUPPORTED","civilization_id":"civ.egyptian","entity_id":"artifact.egyptian.solar_barque","notes":null}
 {"association_role":"ORIGIN_OR_ATTESTATION","certainty":"SUPPORTED","civilization_id":"civ.greek","entity_id":"artifact.greek.aegis","notes":null}
 {"association_role":"ORIGIN_OR_ATTESTATION","certainty":"SUPPORTED","civilization_id":"civ.greek","entity_id":"artifact.greek.caduceus","notes":null}
 {"association_role":"ORIGIN_OR_ATTESTATION","certainty":"SUPPORTED","civilization_id":"civ.greek","entity_id":"artifact.greek.helm_hades","notes":null}
+{"association_role":"TEXTUAL_ATTESTATION","certainty":"SUPPORTED","civilization_id":"civ.hindu","entity_id":"artifact.hindu.amrita","notes":"Both witnesses."}
 {"association_role":"ORIGIN_OR_ATTESTATION","certainty":"SUPPORTED","civilization_id":"civ.akkadian","entity_id":"artifact.mesopotamian.tablet_destinies","notes":null}
 {"association_role":"ORIGIN_OR_ATTESTATION","certainty":"SUPPORTED","civilization_id":"civ.norse","entity_id":"artifact.norse.draupnir","notes":null}
 {"association_role":"ORIGIN_OR_ATTESTATION","certainty":"SUPPORTED","civilization_id":"civ.norse","entity_id":"artifact.norse.gleipnir","notes":null}
@@ -51,8 +53,11 @@
 {"association_role":"ORIGIN_OR_ATTESTATION","certainty":"SUPPORTED","civilization_id":"civ.zoroastrian","entity_id":"concept.zoroastrian.asha","notes":null}
 {"association_role":"ORIGIN_OR_ATTESTATION","certainty":"SUPPORTED","civilization_id":"civ.zoroastrian","entity_id":"concept.zoroastrian.druj","notes":null}
 {"association_role":"WITNESS_SCOPED_CONTEXT","certainty":"SUPPORTED","civilization_id":"civ.akkadian","entity_id":"creature.akkadian.anzu","notes":"v0.20 scoped association"}
+{"association_role":"TEXTUAL_ATTESTATION","certainty":"SUPPORTED","civilization_id":"civ.chinese_ancient","entity_id":"creature.chinese.ao_turtle","notes":"Huainanzi and Liezi witnesses."}
 {"association_role":"ORIGIN_OR_ATTESTATION","certainty":"SUPPORTED","civilization_id":"civ.greek","entity_id":"creature.greek.cyclopes_hesiodic","notes":null}
 {"association_role":"ORIGIN","certainty":"SUPPORTED","civilization_id":"civ.greek","entity_id":"creature.greek.typhon","notes":"Text-tradition association, not historical existence"}
+{"association_role":"TEXTUAL_ATTESTATION","certainty":"SUPPORTED","civilization_id":"civ.hindu","entity_id":"creature.hindu.akupara","notes":"Mahābhārata witness."}
+{"association_role":"TEXTUAL_ATTESTATION","certainty":"SUPPORTED","civilization_id":"civ.hindu","entity_id":"creature.hindu.vasuki","notes":"Both witnesses."}
 {"association_role":"ORIGIN_OR_ATTESTATION","certainty":"SUPPORTED","civilization_id":"civ.norse","entity_id":"creature.norse.fenrir","notes":null}
 {"association_role":"ORIGIN","certainty":"SUPPORTED","civilization_id":"civ.norse","entity_id":"creature.norse.gullinbursti","notes":"Text-tradition association, not historical existence"}
 {"association_role":"ORIGIN_OR_ATTESTATION","certainty":"SUPPORTED","civilization_id":"civ.norse","entity_id":"creature.norse.jormungandr","notes":null}
@@ -63,6 +68,7 @@
 {"association_role":"ORIGIN_OR_ATTESTATION","certainty":"SUPPORTED","civilization_id":"civ.babylonian","entity_id":"deity.babylonian.marduk","notes":null}
 {"association_role":"ORIGIN_OR_ATTESTATION","certainty":"SUPPORTED","civilization_id":"civ.babylonian","entity_id":"deity.babylonian.tiamat","notes":null}
 {"association_role":"ORIGIN_OR_ATTESTATION","certainty":"SUPPORTED","civilization_id":"civ.chinese_ancient","entity_id":"deity.chinese.fu_xi","notes":null}
+{"association_role":"TEXTUAL_ATTESTATION","certainty":"SUPPORTED","civilization_id":"civ.chinese_ancient","entity_id":"deity.chinese.gonggong","notes":"Huainanzi and Liezi witnesses."}
 {"association_role":"ORIGIN","certainty":"SUPPORTED","civilization_id":"civ.chinese_folk","entity_id":"deity.chinese.leigong","notes":"v0.6.0 witness-scoped baseline"}
 {"association_role":"ORIGIN","certainty":"SUPPORTED","civilization_id":"civ.chinese_ancient","entity_id":"deity.chinese.leize_thunder_spirit","notes":"v0.6.0 witness-scoped baseline"}
 {"association_role":"ORIGIN_OR_ATTESTATION","certainty":"SUPPORTED","civilization_id":"civ.chinese_folk","entity_id":"deity.chinese.nezha","notes":null}
@@ -140,6 +146,9 @@
 {"association_role":"ORIGIN_OR_ATTESTATION","certainty":"SUPPORTED","civilization_id":"civ.greek","entity_id":"deity.greek.zeus","notes":null}
 {"association_role":"ORIGIN_OR_ATTESTATION","certainty":"SUPPORTED","civilization_id":"civ.hawaiian","entity_id":"deity.hawaiian.pele","notes":null}
 {"association_role":"ORIGIN_OR_ATTESTATION","certainty":"SUPPORTED","civilization_id":"civ.hindu","entity_id":"deity.hindu.brahma","notes":null}
+{"association_role":"TEXTUAL_ATTESTATION","certainty":"SUPPORTED","civilization_id":"civ.hindu","entity_id":"deity.hindu.dhanvantari","notes":"Both witnesses."}
+{"association_role":"TEXTUAL_ATTESTATION","certainty":"SUPPORTED","civilization_id":"civ.hindu","entity_id":"deity.hindu.kurma","notes":"Bhāgavata witness."}
+{"association_role":"TEXTUAL_ATTESTATION","certainty":"SUPPORTED","civilization_id":"civ.hindu","entity_id":"deity.hindu.mohini","notes":"Bhāgavata witness."}
 {"association_role":"ORIGIN_OR_ATTESTATION","certainty":"SUPPORTED","civilization_id":"civ.hindu","entity_id":"deity.hindu.shiva","notes":null}
 {"association_role":"ORIGIN_OR_ATTESTATION","certainty":"SUPPORTED","civilization_id":"civ.hindu","entity_id":"deity.hindu.vishnu","notes":null}
 {"association_role":"ORIGIN_OR_ATTESTATION","certainty":"SUPPORTED","civilization_id":"civ.irish","entity_id":"deity.irish.bridig","notes":null}
@@ -230,6 +239,8 @@
 {"association_role":"ORIGIN_OR_ATTESTATION","certainty":"SUPPORTED","civilization_id":"civ.yoruba","entity_id":"deity.yoruba.shango","notes":null}
 {"association_role":"ORIGIN_OR_ATTESTATION","certainty":"SUPPORTED","civilization_id":"civ.zoroastrian","entity_id":"deity.zoroastrian.ahura_mazda","notes":null}
 {"association_role":"ORIGIN_OR_ATTESTATION","certainty":"SUPPORTED","civilization_id":"civ.zoroastrian","entity_id":"deity.zoroastrian.mithra","notes":null}
+{"association_role":"TEXTUAL_ATTESTATION","certainty":"SUPPORTED","civilization_id":"civ.hindu","entity_id":"demon.hindu.rahu","notes":"Both witnesses."}
+{"association_role":"TEXTUAL_ATTESTATION","certainty":"SUPPORTED","civilization_id":"civ.chinese_ancient","entity_id":"dragon.chinese.black_dragon_jizhou","notes":"Huainanzi witness."}
 {"association_role":"ORIGIN_OR_ATTESTATION","certainty":"SUPPORTED","civilization_id":"civ.chinese_ancient","entity_id":"element.chinese.huo","notes":null}
 {"association_role":"ORIGIN_OR_ATTESTATION","certainty":"SUPPORTED","civilization_id":"civ.chinese_ancient","entity_id":"element.chinese.jin","notes":null}
 {"association_role":"ORIGIN_OR_ATTESTATION","certainty":"SUPPORTED","civilization_id":"civ.chinese_ancient","entity_id":"element.chinese.mu","notes":null}
@@ -242,11 +253,14 @@
 {"association_role":"ORIGIN_OR_ATTESTATION","certainty":"SUPPORTED","civilization_id":"civ.hindu","entity_id":"element.indian.vayu","notes":null}
 {"association_role":"ARCHAEOLOGICAL_CONTEXT","certainty":"SUPPORTED","civilization_id":"civ.persian","entity_id":"event.archaeology.darius_statue_discovery_1972","notes":"Modern discovery of Achaemenid object"}
 {"association_role":"ORIGIN_OR_ATTESTATION","certainty":"SUPPORTED","civilization_id":"civ.babylonian","entity_id":"event.babylonian.marduk_tiamat","notes":null}
+{"association_role":"TEXTUAL_ATTESTATION","certainty":"SUPPORTED","civilization_id":"civ.chinese_ancient","entity_id":"event.chinese.gonggong_strikes_buzhou","notes":"Two independent witnesses."}
+{"association_role":"TEXTUAL_ATTESTATION","certainty":"SUPPORTED","civilization_id":"civ.chinese_ancient","entity_id":"event.chinese.nuwa_repairs_sky","notes":"Two independent witnesses."}
 {"association_role":"ORIGIN","certainty":"SUPPORTED","civilization_id":"civ.egyptian","entity_id":"event.egyptian.nocturnal_solar_journey","notes":"v0.7.0 source-located Egyptian baseline"}
 {"association_role":"ORIGIN","certainty":"SUPPORTED","civilization_id":"civ.greek","entity_id":"event.greek.medea_restores_aeetes","notes":"v0.9.0 source-located Greek baseline"}
 {"association_role":"ORIGIN","certainty":"SUPPORTED","civilization_id":"civ.greek","entity_id":"event.greek.persephone_abduction","notes":"Registered within the ancient Greek textual baseline"}
 {"association_role":"ORIGIN_OR_ATTESTATION","certainty":"SUPPORTED","civilization_id":"civ.greek","entity_id":"event.greek.titanomachy","notes":null}
 {"association_role":"ORIGIN","certainty":"SUPPORTED","civilization_id":"civ.greek","entity_id":"event.greek.zeus_typhon_battle","notes":"Text-tradition association, not historical existence"}
+{"association_role":"TEXTUAL_ATTESTATION","certainty":"SUPPORTED","civilization_id":"civ.hindu","entity_id":"event.hindu.samudra_manthana","notes":"Two independent witnesses."}
 {"association_role":"LIVING_TRADITION","certainty":"SUPPORTED","civilization_id":"civ.japanese_shinto","entity_id":"event.japanese.kusanagi.atsuta_enshrinement","notes":"Current official public account."}
 {"association_role":"TEXTUAL_ATTESTATION","certainty":"SUPPORTED","civilization_id":"civ.japanese_shinto","entity_id":"event.japanese.kusanagi.discovery","notes":"Academic source scope."}
 {"association_role":"MATERIAL_WITNESS","certainty":"SUPPORTED","civilization_id":"civ.khmer","entity_id":"event.khmer.angkor_wat_churning_scene","notes":"Khmer representation kept distinct from textual versions."}
@@ -267,6 +281,7 @@
 {"association_role":"ORIGIN","certainty":"SUPPORTED","civilization_id":"civ.japanese_shinto","entity_id":"group.japanese.eight_thunder_kami","notes":"v0.6.0 witness-scoped baseline"}
 {"association_role":"ORIGIN_OR_ATTESTATION","certainty":"SUPPORTED","civilization_id":"civ.chinese_folk","entity_id":"hero.chinese.sun_wukong","notes":null}
 {"association_role":"ORIGIN_OR_ATTESTATION","certainty":"SUPPORTED","civilization_id":"civ.chinese_ancient","entity_id":"hero.chinese.yellow_emperor","notes":null}
+{"association_role":"TEXTUAL_ATTESTATION","certainty":"SUPPORTED","civilization_id":"civ.chinese_ancient","entity_id":"hero.chinese.zhuanxu","notes":"Huainanzi and Liezi witnesses."}
 {"association_role":"ORIGIN","certainty":"SUPPORTED","civilization_id":"civ.greek","entity_id":"hero.greek.aeetes","notes":"v0.9.0 source-located Greek baseline"}
 {"association_role":"ORIGIN","certainty":"SUPPORTED","civilization_id":"civ.greek","entity_id":"hero.greek.andromeda","notes":"v0.9.0 source-located Greek baseline"}
 {"association_role":"ORIGIN","certainty":"SUPPORTED","civilization_id":"civ.greek","entity_id":"hero.greek.medea","notes":"v0.9.0 source-located Greek baseline"}
@@ -321,6 +336,8 @@
 {"association_role":"ORIGIN_OR_ATTESTATION","certainty":"SUPPORTED","civilization_id":"civ.ugaritic","entity_id":"museum.ugarit.baal_thunder_ao15775","notes":null}
 {"association_role":"OLD_NORSE_WITNESS_CONTEXT","certainty":"SUPPORTED","civilization_id":"civ.norse","entity_id":"person.norse.ask","notes":"Witness-scoped association"}
 {"association_role":"OLD_NORSE_WITNESS_CONTEXT","certainty":"SUPPORTED","civilization_id":"civ.norse","entity_id":"person.norse.embla","notes":"Witness-scoped association"}
+{"association_role":"TEXTUAL_ATTESTATION","certainty":"SUPPORTED","civilization_id":"civ.chinese_ancient","entity_id":"place.chinese.buzhou_mountain","notes":"Mythic place."}
+{"association_role":"TEXTUAL_ATTESTATION","certainty":"SUPPORTED","civilization_id":"civ.hindu","entity_id":"place.hindu.mandara","notes":"Mythic place."}
 {"association_role":"ORIGIN","certainty":"SUPPORTED","civilization_id":"civ.norse","entity_id":"place.norse.mimisbrunnr","notes":"Text-tradition association, not historical existence"}
 {"association_role":"ORIGIN_OR_ATTESTATION","certainty":"SUPPORTED","civilization_id":"civ.egyptian","entity_id":"realm.egypt.duat","notes":null}
 {"association_role":"ORIGIN","certainty":"SUPPORTED","civilization_id":"civ.greek","entity_id":"realm.greek.tartarus","notes":"Text-tradition association, not historical existence"}
@@ -432,6 +449,10 @@
 {"association_role":"ORIGIN","certainty":"SUPPORTED","civilization_id":"civ.chinese_ancient","entity_id":"text.chinese.hong_fan","notes":"Text-tradition association, not historical existence"}
 {"association_role":"CHINESE_TEXT_OR_VISUAL_CONTEXT","certainty":"SUPPORTED","civilization_id":"civ.chinese","entity_id":"text.chinese.hongfan.wuxing_passage","notes":"v0.21 scoped association"}
 {"association_role":"ORIGIN_OR_ATTESTATION","certainty":"SUPPORTED","civilization_id":"civ.chinese_ancient","entity_id":"text.chinese.huainanzi","notes":null}
+{"association_role":"TEXTUAL_WITNESS","certainty":"CONFIRMED","civilization_id":"civ.chinese_ancient","entity_id":"text.chinese.huainanzi.lanming_nuwa_passage","notes":"Chapter-located passage."}
+{"association_role":"TEXTUAL_WITNESS","certainty":"CONFIRMED","civilization_id":"civ.chinese_ancient","entity_id":"text.chinese.huainanzi.tianwen_gonggong_passage","notes":"Chapter-located passage."}
+{"association_role":"TEXTUAL_TRADITION","certainty":"SUPPORTED","civilization_id":"civ.chinese_ancient","entity_id":"text.chinese.liezi","notes":"Received text; dating debated."}
+{"association_role":"TEXTUAL_WITNESS","certainty":"CONFIRMED","civilization_id":"civ.chinese_ancient","entity_id":"text.chinese.liezi.tangwen_nuwa_gonggong_passage","notes":"Chapter-located passage."}
 {"association_role":"ORIGIN_OR_ATTESTATION","certainty":"SUPPORTED","civilization_id":"civ.chinese_local","entity_id":"text.chinese.local_gazetteers","notes":null}
 {"association_role":"ORIGIN","certainty":"SUPPORTED","civilization_id":"civ.chinese_ancient","entity_id":"text.chinese.lunheng","notes":"v0.6.0 witness-scoped baseline"}
 {"association_role":"ORIGIN_OR_ATTESTATION","certainty":"SUPPORTED","civilization_id":"civ.chinese_ancient","entity_id":"text.chinese.mutianzizhuan","notes":null}
@@ -493,10 +514,13 @@
 {"association_role":"ORIGIN_OR_ATTESTATION","certainty":"SUPPORTED","civilization_id":"civ.greek","entity_id":"text.greek.tragedies","notes":null}
 {"association_role":"ORIGIN_OR_ATTESTATION","certainty":"SUPPORTED","civilization_id":"civ.greek","entity_id":"text.greek.works_days","notes":null}
 {"association_role":"ORIGIN_OR_ATTESTATION","certainty":"SUPPORTED","civilization_id":"civ.hawaiian","entity_id":"text.hawaiian.kumulipo","notes":null}
+{"association_role":"TEXTUAL_TRADITION","certainty":"CONFIRMED","civilization_id":"civ.hindu","entity_id":"text.hindu.bhagavata_purana","notes":"Living scripture."}
+{"association_role":"TEXTUAL_WITNESS","certainty":"CONFIRMED","civilization_id":"civ.hindu","entity_id":"text.hindu.bhagavata_purana.skandha8_churning","notes":"Skandha 8 locator."}
 {"association_role":"ORIGIN_OR_ATTESTATION","certainty":"SUPPORTED","civilization_id":"civ.hindu","entity_id":"text.hindu.puranas","notes":null}
 {"association_role":"ORIGIN_OR_ATTESTATION","certainty":"SUPPORTED","civilization_id":"civ.hindu","entity_id":"text.hindu.upanishads","notes":null}
 {"association_role":"ORIGIN_OR_ATTESTATION","certainty":"SUPPORTED","civilization_id":"civ.hindu","entity_id":"text.indian.bhagavad_gita","notes":null}
 {"association_role":"ORIGIN_OR_ATTESTATION","certainty":"SUPPORTED","civilization_id":"civ.hindu","entity_id":"text.indian.mahabharata","notes":null}
+{"association_role":"TEXTUAL_WITNESS","certainty":"CONFIRMED","civilization_id":"civ.hindu","entity_id":"text.indian.mahabharata.adiparvan_churning","notes":"Critical-edition locator."}
 {"association_role":"ORIGIN_OR_ATTESTATION","certainty":"SUPPORTED","civilization_id":"civ.hindu","entity_id":"text.indian.ramayana","notes":null}
 {"association_role":"ORIGIN_OR_ATTESTATION","certainty":"SUPPORTED","civilization_id":"civ.indian_regional","entity_id":"text.indian.regional_epics","notes":null}
 {"association_role":"ORIGIN_OR_ATTESTATION","certainty":"SUPPORTED","civilization_id":"civ.jain","entity_id":"text.jain.corpus","notes":null}

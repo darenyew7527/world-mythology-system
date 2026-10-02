@@ -22,6 +22,10 @@ text.chinese.hanshu.wuxing_omen_passage,DYNASTIC_HISTORY_TREATISE,lang.lzh,,,Han
 text.chinese.hong_fan,CHAPTER,lang.lzh,,,Received chapter with complex dating history,,Section within Zhou Documents,,,Ancient text public domain; digital edition terms vary,Enumerates nine divisions including the five xing and their dispositions.
 text.chinese.hongfan.wuxing_passage,RECEIVED_CLASSICAL_PASSAGE,lang.lzh,,,Textual layers and received dating debated,Received editions represented by CTP bibliography,"Hong Fan, first division",Chinese Text Project bibliography links multiple editions,Hong Fan / Great Plan,Ancient text public domain; digital edition terms apply,"Names water, fire, wood, metal and earth and describes characteristic operations."
 text.chinese.huainanzi,PHILOSOPHICAL_COMPENDIUM,lang.lzh,Compiled under Liu An,,Western Han,,,,,,
+text.chinese.huainanzi.lanming_nuwa_passage,RECEIVED_CLASSICAL_PASSAGE,lang.lzh,,Compiled under Liu An,Western Han,,"Lan Ming Xun, passage opening with the collapse of the four poles",Chinese Text Project,,Ancient text public domain; digital edition terms apply,"Cosmic collapse, five-colored stones, the turtle's legs, the black dragon and reed ash."
+text.chinese.huainanzi.tianwen_gonggong_passage,RECEIVED_CLASSICAL_PASSAGE,lang.lzh,,Compiled under Liu An,Western Han,,"Tian Wen Xun, Gonggong and Mount Buzhou passage",Chinese Text Project,,Ancient text public domain; digital edition terms apply,"Gonggong contends with Zhuanxu, strikes Mount Buzhou, and heaven and earth tilt."
+text.chinese.liezi,PHILOSOPHICAL_COMPENDIUM,lang.lzh,Attributed to Lie Yukou,,Attributed Warring States; date of the received compilation debated,,Eight chapters in the received text,Chinese Text Project bibliography links received editions,,Ancient text public domain; digital edition terms apply,Received compendium whose Tang Wen chapter contains the Nüwa repair followed by the Gonggong episode.
+text.chinese.liezi.tangwen_nuwa_gonggong_passage,RECEIVED_CLASSICAL_PASSAGE,lang.lzh,Attributed to Lie Yukou,,Received Liezi; compilation date debated,,"Tang Wen, Tang–Xia Ge dialogue",Chinese Text Project,,Ancient text public domain; digital edition terms apply,"Heaven and earth as deficient things, Nüwa's repair, then the Gonggong episode."
 text.chinese.local_gazetteers,CORPUS_SCOPE,lang.lzh,Multiple,,Multiple periods,,,,,,
 text.chinese.lunheng,PHILOSOPHICAL_TEXT,lang.lzh,Wang Chong,,Eastern Han,Transmitted editions,Thematic chapters including Lei Xu,Chinese Text Project,urn:ctext:lunheng/lei-xu,Traditional witness and site rights differ,Lei Xu records and argues against a thunder-god image explanation.
 text.chinese.mutianzizhuan,NARRATIVE,lang.lzh,Unknown,,Ancient text with complex transmission,,,,,,
@@ -82,10 +86,13 @@ text.greek.theogony,DIDACTIC_EPIC,lang.grc,Hesiod,,Archaic Greece,,,,,,
 text.greek.tragedies,COLLECTION_SCOPE,lang.grc,Multiple playwrights,,Classical Greece,,,,,,
 text.greek.works_days,DIDACTIC_EPIC,lang.grc,Hesiod,,Archaic Greece,,,,,,
 text.hawaiian.kumulipo,GENEALOGICAL_CHANT,lang.haw,Hawaiian custodians,,Living/historical Hawaiian genealogy chant,,,,,,
+text.hindu.bhagavata_purana,PURANA,lang.san,,,Scholarly dating varies; commonly placed in the late first millennium CE,,Twelve skandhas,GRETIL / University of Goettingen,,Reference use; source-file rights apply,Purāṇa that remains scripture in living devotional traditions; the churning appears in Skandha 8.
+text.hindu.bhagavata_purana.skandha8_churning,PURANIC_PASSAGE,lang.san,,,Scholarly dating varies,,"Skandha 8, adhyāyas 5–9",GRETIL / University of Goettingen,,Reference use; source-file rights apply,"Truce, uprooting of Mandara, Viṣṇu as tortoise, Śiva drinks the poison, Dhanvantari, Mohinī and Rāhu."
 text.hindu.puranas,TEXT_CLASS,lang.san,Multiple,,Multiple periods,,,,,,
 text.hindu.upanishads,TEXT_CLASS,lang.san,Multiple,,Multiple periods,,,,,,
 text.indian.bhagavad_gita,DIALOGUE_SCRIPTURE,lang.san,Traditional attribution within epic,,Part of Mahābhārata,,,,,,
 text.indian.mahabharata,EPIC,lang.san,Traditional attribution to Vyāsa,,Layered composition,,,,,,
+text.indian.mahabharata.adiparvan_churning,CRITICAL_EDITION_PASSAGE,lang.san,Traditional attribution to Vyāsa,"BORI critical edition, ed. V. S. Sukthankar et al.",Layered epic composition; critical edition published 1933,Constituted text of the critical edition,Ādiparvan 1.15–1.17 within the Āstīkaparvan,GRETIL / University of Goettingen,,Reference use; source-file rights apply,"Gods seek the amṛta, Mandara and Vāsuki, the tortoise king Akūpāra, Dhanvantari, the deluding female form, Rāhu and the battle."
 text.indian.ramayana,EPIC,lang.san,Traditional attribution to Vālmīki,,Layered composition,,,,,,
 text.indian.regional_epics,CORPUS_SCOPE,,Multiple communities,,Living and historical traditions,,,,,,
 text.jain.corpus,CORPUS_SCOPE,,Multiple,,Multiple periods,,,,,,

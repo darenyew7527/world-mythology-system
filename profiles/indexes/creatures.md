@@ -3,10 +3,15 @@
 | ID | 中文 | English | Type | Civilization | Detail/Status | Evidence |
 |---|---|---|---|---|---|---|
 | creature.akkadian.anzu | 阿卡德《安祖神话》中的安祖 | Anzu of the Akkadian myth | MONSTER | 阿卡德 | PARTIAL | SOURCE_BACKED |
+| creature.chinese.ao_turtle | 鳌 | Ao (great turtle) | DIVINE_BEAST | 中国上古神话 | PARTIAL | SOURCE_BACKED |
+| dragon.chinese.black_dragon_jizhou | 黑龙（女娲补天段） | Black dragon of the Nüwa passage | DRAGON | 中国上古神话 | PARTIAL | SOURCE_BACKED |
 | being.chinese.pangu | 盘古 | Pangu | GIANT | 中国上古神话 | PARTIAL | UNVERIFIED |
 | creature.greek.cyclopes_hesiodic | 赫西俄德传统独眼巨人 | Hesiodic Cyclopes | GIANT | 古希腊 | DISCOVERED | SOURCE_BACKED |
 | creature.greek.typhon | 提丰 | Typhon | MONSTER | 古希腊 | PARTIAL | SOURCE_BACKED |
 | deity.babylonian.tiamat | 提亚马特 | Tiamat | PRIMORDIAL_DEITY | 巴比伦 | PARTIAL | SOURCE_BACKED |
+| creature.hindu.akupara | 龟王阿库帕拉 | Akūpāra, king of tortoises | DIVINE_BEAST | 印度教传统 | PARTIAL | SOURCE_BACKED |
+| demon.hindu.rahu | 罗睺 | Rāhu | DEMON | 印度教传统 | PARTIAL | SOURCE_BACKED |
+| creature.hindu.vasuki | 婆苏吉 | Vāsuki | DIVINE_BEAST | 印度教传统 | PARTIAL | SOURCE_BACKED |
 | monster.japanese.yamata_no_orochi | 八岐大蛇 | Yamata no Orochi | MONSTER | 日本神道 | PARTIAL | SOURCE_BACKED |
 | monster.kiche.seven_macaw | 七金刚鹦鹉 | Seven Macaw | MONSTER | 玛雅 | PARTIAL | SOURCE_BACKED |
 | being.norse.bestla | 贝斯特拉 | Bestla | GIANT | 北欧 | PARTIAL | SOURCE_BACKED |

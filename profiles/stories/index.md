@@ -28,3 +28,6 @@
 | [英雄双子与七金刚鹦鹉：公开基切语境见证](story.maya.hero_twins_seven_macaw.md) | Hero Twins and Seven Macaw — a public K'iche'-attributed overview | 玛雅 | MYTHIC_NARRATIVE | 1 | SOURCE_BACKED | 5 |
 | [草薙剑：大蛇发现与热田传承两层见证](story.japanese.kusanagi_transmission.md) | Kusanagi: serpent discovery and Atsuta transmission layers | 日本神道 | MYTHIC_NARRATIVE | 2 | SOURCE_BACKED | 7 |
 | [吴哥寺乳海搅拌：浮雕物质见证](story.khmer.angkor_wat_churning_relief.md) | Churning of the Sea of Milk as an Angkor Wat material witness | 柬埔寨传统 | MYTHIC_NARRATIVE | 1 | SOURCE_BACKED | 5 |
+| [女娲补天：《淮南子》与《列子》两种见证](story.chinese.nuwa_repairs_sky.md) | Nüwa repairs the sky — Huainanzi and Liezi witnesses | 中国上古神话 | MYTHIC_NARRATIVE | 2 | SOURCE_BACKED | 6 |
+| [共工触不周山：天倾西北的两处见证](story.chinese.gonggong_buzhou.md) | Gonggong strikes Mount Buzhou — two early witnesses | 中国上古神话 | MYTHIC_NARRATIVE | 2 | SOURCE_BACKED | 4 |
+| [乳海搅拌：《摩诃婆罗多》精校本与《薄伽梵往世书》](story.hindu.samudra_manthana_texts.md) | Churning of the Ocean — Mahābhārata critical edition and Bhāgavata Purāṇa witnesses | 印度教传统 | MYTHIC_NARRATIVE | 2 | SOURCE_BACKED | 8 |

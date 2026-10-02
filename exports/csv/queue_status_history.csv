@@ -48,6 +48,9 @@ qhist.v0260.opet,queue.v070.egypt.opet_layers,SOURCE_FOUND,BASELINE_COMPLETE,202
 qhist.v0260.sacredway,queue.v080.greek.sacred_way_monuments,PARTIAL,PARTIAL,2026-08-30T03:30:00Z,Expanded public procession route and Athens/Eleusis event sequence; segment-level archaeology remains open.
 qhist.v0280.japan.kusanagi,queue.japan.kusanagi_versions,SOURCE_FOUND,PARTIAL,2026-09-01T06:30:00Z,Academic origin synopsis and official shrine layer added; primary passage witnesses remain open.
 qhist.v0280.maya.hero_twins,queue.maya.hero_twins,SOURCE_FOUND,PARTIAL,2026-09-01T06:30:00Z,One bounded public episode is source-backed; the larger cycle remains open.
+qhist.v0300.china.nuwa,queue.v0280.china.nuwa_sky_repair,DISCOVERED,BASELINE_COMPLETE,2026-10-02T05:40:00Z,Huainanzi and Liezi witnesses registered as separate story versions.
+qhist.v0300.india.churning,queue.v0280.india.churning_texts,DISCOVERED,BASELINE_COMPLETE,2026-10-02T05:40:00Z,Critical-edition and Purāṇic witnesses registered as separate story versions.
+qhist.v0300.khmer.churning,queue.v0280.khmer.churning_text_witnesses,PARTIAL,PARTIAL,2026-10-02T05:40:00Z,Indian textual layer added; Southeast Asian textual witnesses remain open.
 qhist.v060.chinese.leigong,queue.v060.chinese.leigong_diachronic,SOURCE_FOUND,PARTIAL,2026-08-14T00:00:00Z,"Chu Ci, Lunheng and Mogao layers separated"
 qhist.v060.japanese.raijin,queue.v060.japanese.raijin_regional,DISCOVERED,SOURCE_FOUND,2026-08-14T00:00:00Z,Kokugakuin umbrella and name indexes registered
 qhist.v060.norse.family,queue.v060.norse.thor_genealogy_variants,SOURCE_FOUND,PARTIAL,2026-08-14T00:00:00Z,First source-located Thor household graph created
