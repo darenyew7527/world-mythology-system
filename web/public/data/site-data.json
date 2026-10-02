@@ -1124,10 +1124,10 @@
       {
         "builtAt": "2026-10-02T06:30:00Z",
         "dataVersion": "0.30.0",
-        "databaseSha256": null,
-        "gitCommit": null,
+        "databaseSha256": "a7e32d7e1363d0b8bfca5ade2f8f0b388f082446d20cd52ec1ea56dd29728bb6",
+        "gitCommit": "01c18db5dc7621ed3b2837fd3ad61773f462f41a",
         "id": "release.v0.30.0",
-        "releaseNotes": "Global story expansion batch 2: Nüwa and Gonggong stories from Huainanzi and Liezi witnesses, the churning of the ocean from the Mahābhārata critical edition and the Bhāgavata Purāṇa, thirteen witness-comparison topics, two explicit witness conflicts, a textual/material witness reading route, and an eight-target audit retaining queued and permission-blocked work.",
+        "releaseNotes": "Global story expansion batch 2: Nüwa and Gonggong stories from Huainanzi and Liezi witnesses, the churning of the ocean from the Mahābhārata critical edition and the Bhāgavata Purāṇa, thirteen witness-comparison topics, two explicit witness conflicts, a textual/material witness reading route, and an eight-target audit retaining queued and permission-blocked work. Source commit stamped; database_sha256 is the pre-stamp snapshot digest.",
         "schemaVersion": 42
       }
     ],
@@ -118136,10 +118136,10 @@
     "datasetRelease": {
       "built_at": "2026-10-02T06:30:00Z",
       "data_version": "0.30.0",
-      "database_sha256": null,
-      "git_commit": null,
+      "database_sha256": "a7e32d7e1363d0b8bfca5ade2f8f0b388f082446d20cd52ec1ea56dd29728bb6",
+      "git_commit": "01c18db5dc7621ed3b2837fd3ad61773f462f41a",
       "id": "release.v0.30.0",
-      "release_notes": "Global story expansion batch 2: Nüwa and Gonggong stories from Huainanzi and Liezi witnesses, the churning of the ocean from the Mahābhārata critical edition and the Bhāgavata Purāṇa, thirteen witness-comparison topics, two explicit witness conflicts, a textual/material witness reading route, and an eight-target audit retaining queued and permission-blocked work.",
+      "release_notes": "Global story expansion batch 2: Nüwa and Gonggong stories from Huainanzi and Liezi witnesses, the churning of the ocean from the Mahābhārata critical edition and the Bhāgavata Purāṇa, thirteen witness-comparison topics, two explicit witness conflicts, a textual/material witness reading route, and an eight-target audit retaining queued and permission-blocked work. Source commit stamped; database_sha256 is the pre-stamp snapshot digest.",
       "schema_version": 42
     },
     "evidenceStatusCounts": {
