@@ -8,6 +8,10 @@
 - 研究状态: `PARTIAL`
 - 证据状态: `UNVERIFIED`
 
+## 概要
+
+活态约鲁巴神灵；在具名社区权威授权之前，本站不发布故事。 / Living Yorùbá orisha; no public story is published here until a named community authority grants scope.
+
 ## 分类
 
 `DEITY`

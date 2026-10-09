@@ -1,13 +1,30 @@
 {"claim_id":"claim.v0140.discovery_event_statue","event_id":"event.archaeology.darius_statue_discovery_1972","outcome":"Recovered fragmentary and later displayed in Tehran","participant_id":"museum.iran.darius_susa_statue","role":"DISCOVERED_OBJECT"}
 {"claim_id":"claim.babylonian.marduk_participates_combat","event_id":"event.babylonian.marduk_tiamat","outcome":null,"participant_id":"deity.babylonian.marduk","role":"PARTICIPANT"}
 {"claim_id":"claim.babylonian.tiamat_participates_combat","event_id":"event.babylonian.marduk_tiamat","outcome":null,"participant_id":"deity.babylonian.tiamat","role":"PARTICIPANT"}
+{"claim_id":"claim.v0310.china.huangdi_zhuolu","event_id":"event.chinese.battle_of_zhuolu","outcome":null,"participant_id":"hero.chinese.yellow_emperor","role":"PARTICIPANT"}
+{"claim_id":"claim.v0310.china.chiyou_zhuolu","event_id":"event.chinese.battle_of_zhuolu","outcome":null,"participant_id":"hero.chinese.chiyou","role":"PARTICIPANT"}
+{"claim_id":"claim.v0310.china.fuxi_observes","event_id":"event.chinese.fuxi_makes_trigrams","outcome":null,"participant_id":"deity.chinese.fu_xi","role":"PARTICIPANT"}
 {"claim_id":"claim.v0300.gonggong.participates","event_id":"event.chinese.gonggong_strikes_buzhou","outcome":"Strikes Mount Buzhou in anger.","participant_id":"deity.chinese.gonggong","role":"ACTOR"}
 {"claim_id":"claim.v0300.gonggong.zhuanxu_participates","event_id":"event.chinese.gonggong_strikes_buzhou","outcome":"Named rival for rulership.","participant_id":"hero.chinese.zhuanxu","role":"RIVAL"}
 {"claim_id":"claim.v0300.gonggong.strikes_buzhou","event_id":"event.chinese.gonggong_strikes_buzhou","outcome":"Struck mountain; no coordinate.","participant_id":"place.chinese.buzhou_mountain","role":"MYTHIC_PLACE"}
+{"claim_id":"claim.v0310.china.nezha_event","event_id":"event.chinese.nezha_fights_wukong","outcome":null,"participant_id":"deity.chinese.nezha","role":"PARTICIPANT"}
+{"claim_id":"claim.v0310.china.wukong_event","event_id":"event.chinese.nezha_fights_wukong","outcome":null,"participant_id":"hero.chinese.sun_wukong","role":"PARTICIPANT"}
 {"claim_id":"claim.v0300.nuwa.participates","event_id":"event.chinese.nuwa_repairs_sky","outcome":"Repairs the sky in both witnesses.","participant_id":"deity.chinese.nu_wa","role":"ACTOR"}
 {"claim_id":"claim.v0300.nuwa.uses_stones","event_id":"event.chinese.nuwa_repairs_sky","outcome":"Refined to patch the sky.","participant_id":"artifact.chinese.five_colored_stones","role":"INSTRUMENT"}
 {"claim_id":"claim.v0300.nuwa.ao_legs","event_id":"event.chinese.nuwa_repairs_sky","outcome":"Legs set up as the four poles.","participant_id":"creature.chinese.ao_turtle","role":"MATERIAL"}
 {"claim_id":"claim.v0300.nuwa.kills_black_dragon","event_id":"event.chinese.nuwa_repairs_sky","outcome":"Killed in the Huainanzi witness only.","participant_id":"dragon.chinese.black_dragon_jizhou","role":"OPPONENT"}
+{"claim_id":"claim.v0310.china.pangu_separation","event_id":"event.chinese.pangu_heaven_earth","outcome":null,"participant_id":"being.chinese.pangu","role":"PARTICIPANT"}
+{"claim_id":"claim.v0310.egypt.ra_rebellion","event_id":"event.egyptian.heavenly_cow_punishment","outcome":null,"participant_id":"deity.egyptian.ra","role":"PARTICIPANT"}
+{"claim_id":"claim.v0310.egypt.sekhmet_event","event_id":"event.egyptian.heavenly_cow_punishment","outcome":null,"participant_id":"deity.egyptian.sekhmet","role":"PARTICIPANT"}
+{"claim_id":"claim.v0310.egypt.hathor_event","event_id":"event.egyptian.heavenly_cow_punishment","outcome":null,"participant_id":"deity.egyptian.hathor","role":"PARTICIPANT"}
+{"claim_id":"claim.v0310.egypt.osiris_event","event_id":"event.egyptian.osiris_murder_restoration","outcome":null,"participant_id":"deity.egyptian.osiris","role":"PARTICIPANT"}
+{"claim_id":"claim.v0310.egypt.seth_event","event_id":"event.egyptian.osiris_murder_restoration","outcome":null,"participant_id":"deity.egyptian.seth","role":"PARTICIPANT"}
+{"claim_id":"claim.v0310.egypt.isis_restores","event_id":"event.egyptian.osiris_murder_restoration","outcome":null,"participant_id":"deity.egyptian.isis","role":"PARTICIPANT"}
+{"claim_id":"claim.v0310.egypt.shu_separation","event_id":"event.egyptian.separation_geb_nut","outcome":null,"participant_id":"deity.egyptian.shu","role":"PARTICIPANT"}
+{"claim_id":"claim.v0310.egypt.geb_separation","event_id":"event.egyptian.separation_geb_nut","outcome":null,"participant_id":"deity.egyptian.geb","role":"PARTICIPANT"}
+{"claim_id":"claim.v0310.egypt.nut_separation","event_id":"event.egyptian.separation_geb_nut","outcome":null,"participant_id":"deity.egyptian.nut","role":"PARTICIPANT"}
+{"claim_id":"claim.v0310.egypt.anubis_weighing","event_id":"event.egyptian.weighing_heart_ani","outcome":null,"participant_id":"deity.egyptian.anubis","role":"PARTICIPANT"}
+{"claim_id":"claim.v0310.egypt.thoth_weighing","event_id":"event.egyptian.weighing_heart_ani","outcome":null,"participant_id":"deity.egyptian.thoth","role":"PARTICIPANT"}
 {"claim_id":"claim.v050.h2.persephone_participated","event_id":"event.greek.persephone_abduction","outcome":"Taken to the underworld in this hymn witness","participant_id":"deity.greek.persephone","role":"ABDUCTED"}
 {"claim_id":"claim.v050.h2.demeter_participated","event_id":"event.greek.persephone_abduction","outcome":"Searches for Persephone","participant_id":"deity.greek.demeter","role":"SEARCHER"}
 {"claim_id":"claim.v050.h2.hades_participated","event_id":"event.greek.persephone_abduction","outcome":"Takes Persephone below","participant_id":"deity.greek.hades","role":"ABDUCTOR"}
@@ -15,6 +32,7 @@
 {"claim_id":"claim.v050.theogony.cronus_participated_titanomachy","event_id":"event.greek.titanomachy","outcome":"Defeat in the Hesiodic witness","participant_id":"deity.greek.cronus","role":"TITAN_LEADER"}
 {"claim_id":"claim.typhon.participated_battle","event_id":"event.greek.zeus_typhon_battle","outcome":"Defeated","participant_id":"creature.greek.typhon","role":"OPPONENT"}
 {"claim_id":"claim.zeus.participated_typhon","event_id":"event.greek.zeus_typhon_battle","outcome":"Victorious","participant_id":"deity.greek.zeus","role":"OPPONENT"}
+{"claim_id":"claim.v0310.hawaii.pele_kahiki","event_id":"event.hawaiian.pele_journey","outcome":null,"participant_id":"deity.hawaiian.pele","role":"PARTICIPANT"}
 {"claim_id":"claim.v0300.churn.vishnu_participates","event_id":"event.hindu.samudra_manthana","outcome":"Advises and acts in both witnesses.","participant_id":"deity.hindu.vishnu","role":"ACTOR"}
 {"claim_id":"claim.v0300.churn.amrita_sought","event_id":"event.hindu.samudra_manthana","outcome":"Object of the churning.","participant_id":"artifact.hindu.amrita","role":"SOUGHT_OBJECT"}
 {"claim_id":"claim.v0300.churn.mandara_rod","event_id":"event.hindu.samudra_manthana","outcome":"Serves as the rod in both witnesses.","participant_id":"place.hindu.mandara","role":"CHURNING_ROD"}
@@ -25,25 +43,57 @@
 {"claim_id":"claim.v0300.churn.dhanvantari_carries_amrita","event_id":"event.hindu.samudra_manthana","outcome":"Emerges with the amṛta in both witnesses.","participant_id":"deity.hindu.dhanvantari","role":"BEARER_OF_AMRITA"}
 {"claim_id":"claim.v0300.churn.mohini_distributes","event_id":"event.hindu.samudra_manthana","outcome":"Bhāgavata Purāṇa witness only.","participant_id":"deity.hindu.mohini","role":"DISTRIBUTOR"}
 {"claim_id":"claim.v0300.churn.rahu_drinks","event_id":"event.hindu.samudra_manthana","outcome":"Beheaded with the discus in both witnesses.","participant_id":"demon.hindu.rahu","role":"DISGUISED_DRINKER"}
+{"claim_id":"claim.v0310.hindu.brahma_churning","event_id":"event.hindu.samudra_manthana","outcome":null,"participant_id":"deity.hindu.brahma","role":"PARTICIPANT"}
+{"claim_id":"claim.v0310.irish.lugh_battle","event_id":"event.irish.second_battle_mag_tuired","outcome":null,"participant_id":"deity.irish.lugh","role":"PARTICIPANT"}
+{"claim_id":"claim.v0310.irish.dagda_battle","event_id":"event.irish.second_battle_mag_tuired","outcome":null,"participant_id":"deity.irish.dagda","role":"PARTICIPANT"}
+{"claim_id":"claim.v0310.irish.morrigan_battle","event_id":"event.irish.second_battle_mag_tuired","outcome":null,"participant_id":"deity.irish.morrigan","role":"PARTICIPANT"}
+{"claim_id":"claim.v0310.japan.izanagi_purification","event_id":"event.japanese.izanagi_purification","outcome":null,"participant_id":"deity.japanese.izanagi","role":"PARTICIPANT"}
+{"claim_id":"claim.v0310.japan.izanagi_yomi","event_id":"event.japanese.izanagi_visits_yomi","outcome":null,"participant_id":"deity.japanese.izanagi","role":"PARTICIPANT"}
+{"claim_id":"claim.v0310.japan.izanami_yomi","event_id":"event.japanese.izanagi_visits_yomi","outcome":null,"participant_id":"deity.japanese.izanami","role":"PARTICIPANT"}
 {"claim_id":"claim.v0280.japan.yamato_atsuta_event","event_id":"event.japanese.kusanagi.atsuta_enshrinement","outcome":"Linked to the official shrine's account.","participant_id":"hero.japanese.yamato_takeru","role":"TRANSMISSION_FIGURE"}
 {"claim_id":"claim.v0280.japan.kusanagi_atsuta_event","event_id":"event.japanese.kusanagi.atsuta_enshrinement","outcome":"Central to the public enshrinement account.","participant_id":"weapon.japanese.kusanagi","role":"SACRED_ARTIFACT"}
 {"claim_id":"claim.v0280.japan.kusanagi_worshipped_atsuta","event_id":"event.japanese.kusanagi.atsuta_enshrinement","outcome":"Officially named shrine context.","participant_id":"site.japanese.atsuta_jingu","role":"DESTINATION"}
 {"claim_id":"claim.v0280.japan.susanoo_discovery_event","event_id":"event.japanese.kusanagi.discovery","outcome":"Defeats the serpent and finds the sword.","participant_id":"deity.japanese.susanoo","role":"ACTOR"}
 {"claim_id":"claim.v0280.japan.orochi_discovery_event","event_id":"event.japanese.kusanagi.discovery","outcome":"Defeated in the academic narrative summary.","participant_id":"monster.japanese.yamata_no_orochi","role":"OPPONENT"}
 {"claim_id":"claim.v0280.japan.kusanagi_discovery_event","event_id":"event.japanese.kusanagi.discovery","outcome":"Found in the serpent's tail in the narrative.","participant_id":"weapon.japanese.kusanagi","role":"DISCOVERED_ARTIFACT"}
+{"claim_id":"claim.v0310.japan.izanagi_onogoro","event_id":"event.japanese.onogoro_creation","outcome":null,"participant_id":"deity.japanese.izanagi","role":"PARTICIPANT"}
+{"claim_id":"claim.v0310.japan.izanami_onogoro","event_id":"event.japanese.onogoro_creation","outcome":null,"participant_id":"deity.japanese.izanami","role":"PARTICIPANT"}
 {"claim_id":"claim.v0280.khmer.relief_depicts_churning","event_id":"event.khmer.angkor_wat_churning_scene","outcome":"In-situ relief representing the scene.","participant_id":"monument.khmer.angkor_wat_churning_relief","role":"MATERIAL_WITNESS"}
 {"claim_id":"claim.v0280.khmer.relief_part_of_angkor_wat","event_id":"event.khmer.angkor_wat_churning_scene","outcome":"Holds the material witness in its gallery.","participant_id":"site.khmer.angkor_wat","role":"REAL_SITE"}
 {"claim_id":"claim.v0280.maya.hunahpu_participates","event_id":"event.kiche.hero_twins.seven_macaw","outcome":"Acts with Xbalanque in the public episode.","participant_id":"hero.kiche.hunahpu","role":"HERO"}
 {"claim_id":"claim.v0280.maya.xbalanque_participates","event_id":"event.kiche.hero_twins.seven_macaw","outcome":"Acts with Hunahpu in the public episode.","participant_id":"hero.kiche.xbalanque","role":"HERO"}
 {"claim_id":"claim.v0280.maya.seven_macaw_participates","event_id":"event.kiche.hero_twins.seven_macaw","outcome":"Defeated in the public overview.","participant_id":"monster.kiche.seven_macaw","role":"OPPONENT"}
+{"claim_id":"claim.v0310.maori.ranginui_separated","event_id":"event.maori.separation_rangi_papa","outcome":null,"participant_id":"deity.maori.ranginui","role":"PARTICIPANT"}
+{"claim_id":"claim.v0310.maori.papatuanuku_separated","event_id":"event.maori.separation_rangi_papa","outcome":null,"participant_id":"deity.maori.papatuanuku","role":"PARTICIPANT"}
+{"claim_id":"claim.v0310.maori.tane_some_versions","event_id":"event.maori.separation_rangi_papa","outcome":null,"participant_id":"deity.polynesian.tane","role":"PARTICIPANT"}
+{"claim_id":"claim.v0310.mexica.coatlicue_feathers","event_id":"event.mexica.birth_of_huitzilopochtli","outcome":null,"participant_id":"deity.mexica.coatlicue","role":"PARTICIPANT"}
+{"claim_id":"claim.v0310.mexica.coyol_event","event_id":"event.mexica.birth_of_huitzilopochtli","outcome":null,"participant_id":"deity.mexica.coyolxauhqui","role":"PARTICIPANT"}
+{"claim_id":"claim.v0310.mexica.huitz_armed","event_id":"event.mexica.birth_of_huitzilopochtli","outcome":null,"participant_id":"deity.mexica.huitzilopochtli","role":"PARTICIPANT"}
+{"claim_id":"claim.v0310.mexica.quetzal_event","event_id":"event.mexica.quetzalcoatl_tollan_end","outcome":null,"participant_id":"deity.mexica.quetzalcoatl","role":"PARTICIPANT"}
+{"claim_id":"claim.v0310.mexica.tezca_event","event_id":"event.mexica.quetzalcoatl_tollan_end","outcome":null,"participant_id":"deity.mexica.tezcatlipoca","role":"PARTICIPANT"}
+{"claim_id":"claim.v0310.norse.tyr_fenrir","event_id":"event.norse.binding_of_fenrir","outcome":null,"participant_id":"deity.norse.tyr","role":"PARTICIPANT"}
+{"claim_id":"claim.v0310.norse.fenrir_bound","event_id":"event.norse.binding_of_fenrir","outcome":null,"participant_id":"creature.norse.fenrir","role":"PARTICIPANT"}
+{"claim_id":"claim.v0310.norse.frigg_oaths","event_id":"event.norse.death_of_baldr","outcome":null,"participant_id":"deity.norse.frigg","role":"PARTICIPANT"}
+{"claim_id":"claim.v0310.norse.baldr_death","event_id":"event.norse.death_of_baldr","outcome":null,"participant_id":"deity.norse.baldr","role":"PARTICIPANT"}
 {"claim_id":"claim.brokkr.participated_forging","event_id":"event.norse.forging_divine_treasures","outcome":"Treasures completed","participant_id":"being.norse.brokkr","role":"SMITH_AND_BELLOWS"}
 {"claim_id":"claim.eitri.participated_forging","event_id":"event.norse.forging_divine_treasures","outcome":"Treasures completed","participant_id":"being.norse.eitri","role":"SMITH"}
 {"claim_id":"claim.norse.odin_participates_ragnarok","event_id":"event.norse.ragnarok","outcome":null,"participant_id":"deity.norse.odin","role":"PARTICIPANT"}
 {"claim_id":"claim.norse.fenrir_participates_ragnarok","event_id":"event.norse.ragnarok","outcome":null,"participant_id":"creature.norse.fenrir","role":"PARTICIPANT"}
+{"claim_id":"claim.v0310.norse.ymir_event","event_id":"event.norse.slaying_of_ymir","outcome":null,"participant_id":"being.norse.ymir","role":"PARTICIPANT"}
+{"claim_id":"claim.v0310.norse.odin_ymir_event","event_id":"event.norse.slaying_of_ymir","outcome":null,"participant_id":"deity.norse.odin","role":"PARTICIPANT"}
 {"claim_id":"claim.v0140.transfer_subject","event_id":"event.persia.darius_statue_transfer_egypt_susa","outcome":"Installed at Susa gate","participant_id":"museum.iran.darius_susa_statue","role":"TRANSFERRED_OBJECT"}
 {"claim_id":"claim.v0140.transfer_xerxes","event_id":"event.persia.darius_statue_transfer_egypt_susa","outcome":"Transfer attributed in modern scholarship","participant_id":"historical.achaemenid.xerxes_i","role":"ATTRIBUTED_ROYAL_AGENT"}
+{"claim_id":"claim.v0310.sumer.ninhursag_curse","event_id":"event.sumerian.enki_ninhursag","outcome":null,"participant_id":"deity.sumerian.ninhursag","role":"PARTICIPANT"}
+{"claim_id":"claim.v0310.sumer.enki_plants","event_id":"event.sumerian.enki_ninhursag","outcome":null,"participant_id":"deity.sumerian.enki","role":"PARTICIPANT"}
+{"claim_id":"claim.v0310.sumer.gilgamesh_event","event_id":"event.sumerian.gilgamesh_huwawa","outcome":null,"participant_id":"hero.sumerian.gilgamesh","role":"PARTICIPANT"}
+{"claim_id":"claim.v0310.sumer.utu_told","event_id":"event.sumerian.gilgamesh_huwawa","outcome":null,"participant_id":"deity.sumerian.utu","role":"PARTICIPANT"}
+{"claim_id":"claim.v0310.sumer.huwawa_event","event_id":"event.sumerian.gilgamesh_huwawa","outcome":null,"participant_id":"monster.sumerian.huwawa","role":"PARTICIPANT"}
 {"claim_id":"claim.sumerian.inanna_participates_descent","event_id":"event.sumerian.inanna_descent","outcome":null,"participant_id":"deity.sumerian.inanna","role":"PARTICIPANT"}
+{"claim_id":"claim.v0310.sumer.nanna_journey","event_id":"event.sumerian.nanna_journey","outcome":null,"participant_id":"deity.sumerian.nanna","role":"PARTICIPANT"}
+{"claim_id":"claim.v0310.sumer.enlil_blesses","event_id":"event.sumerian.nanna_journey","outcome":null,"participant_id":"deity.sumerian.enlil","role":"PARTICIPANT"}
 {"claim_id":"claim.v060.ugaritic.baal_participated_yamm_event","event_id":"event.ugaritic.baal_yamm_ktu12","outcome":"Yamm is made to fall in the registered reading","participant_id":"deity.ugaritic.baal","role":"COMBATANT"}
 {"claim_id":"claim.v060.ugaritic.yamm_participated_event","event_id":"event.ugaritic.baal_yamm_ktu12","outcome":"Falls after the second named weapon blow in the registered reading","participant_id":"deity.ugaritic.yam","role":"OPPONENT"}
 {"claim_id":"claim.v060.vedic.indra_participated_vrtra_event","event_id":"event.vedic.indra_vritra_rv132","outcome":"Kills Vrtra in this hymn witness","participant_id":"deity.vedic.indra","role":"COMBATANT"}
 {"claim_id":"claim.v060.vedic.vrtra_participated_event","event_id":"event.vedic.indra_vritra_rv132","outcome":"Killed in this hymn witness","participant_id":"creature.vedic.vritra","role":"OPPONENT"}
+{"claim_id":"claim.v0310.zoro.ahura_event","event_id":"event.zoroastrian.sixteen_lands","outcome":null,"participant_id":"deity.zoroastrian.ahura_mazda","role":"PARTICIPANT"}
+{"claim_id":"claim.v0310.zoro.angra_event","event_id":"event.zoroastrian.sixteen_lands","outcome":null,"participant_id":"being.zoroastrian.angra_mainyu","role":"PARTICIPANT"}

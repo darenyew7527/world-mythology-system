@@ -21,6 +21,7 @@
 
 ## Claims 与证据
 
-尚无 claim；实体仅为发现/索引入口。
+- `claim.v0310.japan.chamberlain_scope` [PROVISIONAL / SCHOLARLY_INTERPRETATION / 0.95] These summaries follow the section order of Chamberlain's 1882 translation; Nihon Shoki variants are kept separate.
+  - 来源：[The Kojiki: Records of Ancient Matters (tr. Basil Hall Chamberlain)](https://sacred-texts.com/shi/kojiki.htm)；定位：Translator's introduction and section notes
 
 > 本档案只代表当前阶段性基线，不是对该传统的最终或唯一解释。

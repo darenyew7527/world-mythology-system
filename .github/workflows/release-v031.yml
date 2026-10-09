@@ -1,0 +1,79 @@
+name: 发布 v0.31.0 正式版 / Publish v0.31.0 release
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - RELEASE_NOTES_v0.31.0.md
+      - .github/workflows/release-v031.yml
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: release-v0.31.0
+  cancel-in-progress: false
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v6
+        with:
+          fetch-depth: 0
+      - uses: actions/setup-python@v6
+        with:
+          python-version: "3.11"
+      - uses: actions/setup-node@v6
+        with:
+          node-version: "24"
+          cache: npm
+          cache-dependency-path: web/package-lock.json
+      - name: 正式门禁 / Formal release gates
+        run: |
+          python3 -m unittest discover -s tests -q
+          python3 scripts/validate_database.py --no-persist
+          python3 scripts/privacy_release_check.py
+          python3 -m compileall -q scripts src tests
+      - name: 构建网页 / Build web app
+        working-directory: web
+        run: npm ci && npm run build
+      - name: 建立 tag 与发布资产 / Build tag and release assets
+        env:
+          RELEASE_TAG: v0.31.0
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git tag -a "$RELEASE_TAG" -m "v0.31.0 — Deity Stories and Storyteller Mode"
+          mkdir -p release-v0.31.0
+          git bundle create release-v0.31.0/world-mythology-system-v0.31.0.git.bundle "$RELEASE_TAG"
+          cp database/world_mythology.sqlite release-v0.31.0/world_mythology_v0.31.0.sqlite
+          cp web/public/offline/world-mythology-v0.31-story-archive.html release-v0.31.0/
+          cp web/public/offline/world-mythology-v0.31-story-archive.json release-v0.31.0/
+          python3 scripts/build_release_package.py \
+            --output release-v0.31.0/World_Mythology_System_v0.31.0_deity_stories.zip \
+            --bundle release-v0.31.0/world-mythology-system-v0.31.0.git.bundle
+          cd release-v0.31.0
+          sha256sum \
+            World_Mythology_System_v0.31.0_deity_stories.zip \
+            world-mythology-system-v0.31.0.git.bundle \
+            world-mythology-v0.31-story-archive.html \
+            world-mythology-v0.31-story-archive.json \
+            world_mythology_v0.31.0.sqlite \
+            > SHA256SUMS_v0.31.0.txt
+      - name: 推送 tag 并发布 / Push tag and publish release
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          git push origin refs/tags/v0.31.0
+          gh release create v0.31.0 \
+            release-v0.31.0/World_Mythology_System_v0.31.0_deity_stories.zip \
+            release-v0.31.0/world-mythology-system-v0.31.0.git.bundle \
+            release-v0.31.0/world-mythology-v0.31-story-archive.html \
+            release-v0.31.0/world-mythology-v0.31-story-archive.json \
+            release-v0.31.0/world_mythology_v0.31.0.sqlite \
+            release-v0.31.0/SHA256SUMS_v0.31.0.txt \
+            --verify-tag \
+            --title "v0.31.0 — 神祇故事与讲故事模式 / Deity Stories and Storyteller Mode" \
+            --notes-file RELEASE_NOTES_v0.31.0.md

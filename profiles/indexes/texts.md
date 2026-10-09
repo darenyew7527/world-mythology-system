@@ -18,9 +18,11 @@
 | text.chinese.liezi | 列子 | Liezi | TEXT | 中国上古神话 | Attributed Warring States; date of the received compilation debated | SOURCE_BACKED |
 | text.chinese.liezi.tangwen_nuwa_gonggong_passage | 《列子·汤问》女娲—共工段落见证 | Liezi Tang Wen Nüwa–Gonggong passage witness | TEXT | 中国上古神话 | Received Liezi; compilation date debated | SOURCE_BACKED |
 | text.chinese.lunheng | 论衡 | Lunheng | TEXT | 中国上古神话 | Eastern Han | PARTIAL |
+| text.chinese.sanwu_liji | 《三五历纪》 | Sanwu liji (lost; known from quotations) | TEXT | 中国上古神话 | Three Kingdoms, attributed to Xu Zheng | SOURCE_BACKED |
 | text.chinese.shang_shu | 尚书 | Shang Shu | TEXT | 中国上古神话 | Multiple textual layers; do not assign a single date | PARTIAL |
 | text.chinese.shangshu | 尚书相关传统 | Shangshu-related traditions | TEXT | 中国上古神话 | Layered compilation | UNVERIFIED |
 | text.chinese.mutianzizhuan | 穆天子传 | Tale of King Mu, Son of Heaven | TEXT | 中国上古神话 | Ancient text with complex transmission | UNVERIFIED |
+| text.chinese.zhouyi_xici | 《周易·系辞》 | Xi Ci commentary of the Zhouyi | TEXT | 中国上古神话 | Received Warring States–Han layer; dating debated | SOURCE_BACKED |
 | text.egypt.amduat | 冥府书 | Amduat | TEXT | 古埃及 | New Kingdom | PARTIAL |
 | text.egypt.book_caverns | 洞穴之书 | Book of Caverns | TEXT | 古埃及 | New Kingdom | UNVERIFIED |
 | text.egypt.book_gates | 门之书 | Book of Gates | TEXT | 古埃及 | New Kingdom | UNVERIFIED |
@@ -41,6 +43,7 @@
 | text.egypt.memphite_theology | 孟斐斯神学 | Memphite Theology | INSCRIPTION | 古埃及 | Known through later inscriptional witness | UNVERIFIED |
 | text.egypt.pyramid_texts | 金字塔铭文 | Pyramid Texts | INSCRIPTION | 古埃及 | Old Kingdom onward | UNVERIFIED |
 | text.egypt.sun_hymn_standard_c_prime | 太阳赞歌：Assmann 标准赞歌 C′ | Sun Hymn: Assmann Standard Hymn C-prime | TEXT | 古埃及 | New Kingdom hymn tradition | SOURCE_BACKED |
+| text.egyptian.tale_heavenly_cow | 天牛之书 | Tale of the Heavenly Cow | TEXT | 古埃及 | New Kingdom | SOURCE_BACKED |
 | text.greek.inscriptions | 古希腊宗教铭文总集入口 | Ancient Greek religious inscriptions | INSCRIPTION | 古希腊 | Multiple periods | UNVERIFIED |
 | text.greek.tragedies | 古希腊悲剧总集入口 | Ancient Greek tragedies | TEXT | 古希腊 | Classical Greece | UNVERIFIED |
 | text.greek.argonautica | 阿尔戈英雄纪 | Argonautica | EPIC | 古希腊 | Hellenistic | UNVERIFIED |
@@ -99,6 +102,7 @@
 | text.hindu.upanishads | 奥义书 | Upanishads | SCRIPTURE | 印度教传统 | Multiple periods | UNVERIFIED |
 | text.yoruba.ifa_corpus | Ifá 语料传统 | Ifá corpus | ORAL_TRADITION | Ifá | Living oral tradition | SOURCE_BACKED |
 | text.indian.regional_epics | 印度地方史诗与口述传统入口 | Indian regional epics and oral traditions | ORAL_TRADITION | 印度地方传统 | Living and historical traditions | UNVERIFIED |
+| text.irish.cath_maige_tuired | 《第二次马格图雷德之战》 | Cath Maige Tuired (The Second Battle of Mag Tuired) | TEXT | 爱尔兰 | Medieval Irish; composition dates debated | SOURCE_BACKED |
 | text.jain.corpus | 耆那教文献总集入口 | Jain textual traditions | SCRIPTURE | 耆那教传统 | Multiple periods | UNVERIFIED |
 | text.japanese.fudoki | 风土记 | Fudoki | TEXT | 日本神道 | Eighth century onward | UNVERIFIED |
 | text.japanese.local_legends | 日本地方传说资料入口 | Japanese local legends | ORAL_TRADITION | 日本神道 | Living and historical traditions | UNVERIFIED |
@@ -159,3 +163,5 @@
 | text.zoroastrian.avesta | 阿维斯陀 | Avesta | SCRIPTURE | 琐罗亚斯德传统 | Layered oral and manuscript history | UNVERIFIED |
 | text.zoroastrian.bundahishn | 创世原本 | Bundahišn | TEXT | 琐罗亚斯德传统 | Middle Persian compilation | UNVERIFIED |
 | text.zoroastrian.denkard | 宗教行传 | Dēnkard | TEXT | 琐罗亚斯德传统 | Middle Persian compilation | UNVERIFIED |
+| text.zoroastrian.mihr_yasht | 《密赫尔颂》（第十颂） | Mihr Yasht (Yasht 10) | SCRIPTURE | 琐罗亚斯德传统 | Young Avestan; dating debated | SOURCE_BACKED |
+| text.zoroastrian.videvdad_fargard1 | 《万迪达德》第一章（十六地） | Videvdad, Fargard 1 (the sixteen lands) | SCRIPTURE | 琐罗亚斯德传统 | Young Avestan; dating debated | SOURCE_BACKED |

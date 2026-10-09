@@ -5,6 +5,10 @@
 {"entity_id":"deity.babylonian.marduk","notes":"Derived from an explicitly linked story claim subject.","role":"CHARACTER","sort_order":10,"story_id":"story.babylonian.marduk_tiamat","story_version_id":"storyver.babylonian.enuma_elish"}
 {"entity_id":"deity.babylonian.tiamat","notes":"Derived from an explicitly linked story claim subject.","role":"CHARACTER","sort_order":10,"story_id":"story.babylonian.marduk_tiamat","story_version_id":"storyver.babylonian.enuma_elish"}
 {"entity_id":"event.babylonian.marduk_tiamat","notes":"Derived from an explicitly linked story claim object.","role":"EVENT","sort_order":20,"story_id":"story.babylonian.marduk_tiamat","story_version_id":"storyver.babylonian.enuma_elish"}
+{"entity_id":"deity.chinese.fu_xi","notes":"Sage ruler","role":"CHARACTER","sort_order":10,"story_id":"story.chinese.fuxi_eight_trigrams","story_version_id":"storyver.chinese.fuxi_xici"}
+{"entity_id":"concept.chinese.bagua","notes":"Eight trigrams","role":"RELATED","sort_order":20,"story_id":"story.chinese.fuxi_eight_trigrams","story_version_id":"storyver.chinese.fuxi_xici"}
+{"entity_id":"text.chinese.zhouyi_xici","notes":"Witness","role":"TEXT","sort_order":30,"story_id":"story.chinese.fuxi_eight_trigrams","story_version_id":"storyver.chinese.fuxi_xici"}
+{"entity_id":"event.chinese.fuxi_makes_trigrams","notes":"Invention","role":"EVENT","sort_order":40,"story_id":"story.chinese.fuxi_eight_trigrams","story_version_id":"storyver.chinese.fuxi_xici"}
 {"entity_id":"deity.chinese.gonggong","notes":"Actor.","role":"CHARACTER","sort_order":10,"story_id":"story.chinese.gonggong_buzhou","story_version_id":"storyver.chinese.gonggong_huainanzi_tianwen"}
 {"entity_id":"hero.chinese.zhuanxu","notes":"Rival for rulership.","role":"CHARACTER","sort_order":20,"story_id":"story.chinese.gonggong_buzhou","story_version_id":"storyver.chinese.gonggong_huainanzi_tianwen"}
 {"entity_id":"place.chinese.buzhou_mountain","notes":"Mythic mountain; no coordinate.","role":"PLACE","sort_order":30,"story_id":"story.chinese.gonggong_buzhou","story_version_id":"storyver.chinese.gonggong_huainanzi_tianwen"}
@@ -17,9 +21,17 @@
 {"entity_id":"event.chinese.gonggong_strikes_buzhou","notes":"Textual event.","role":"EVENT","sort_order":40,"story_id":"story.chinese.gonggong_buzhou","story_version_id":"storyver.chinese.gonggong_liezi_tangwen"}
 {"entity_id":"deity.chinese.nu_wa","notes":"Preceding episode in this witness.","role":"CHARACTER","sort_order":50,"story_id":"story.chinese.gonggong_buzhou","story_version_id":"storyver.chinese.gonggong_liezi_tangwen"}
 {"entity_id":"text.chinese.liezi.tangwen_nuwa_gonggong_passage","notes":"Passage witness.","role":"TEXT","sort_order":60,"story_id":"story.chinese.gonggong_buzhou","story_version_id":"storyver.chinese.gonggong_liezi_tangwen"}
+{"entity_id":"hero.chinese.yellow_emperor","notes":"Xuanyuan","role":"CHARACTER","sort_order":10,"story_id":"story.chinese.huangdi_chiyou","story_version_id":"storyver.chinese.zhuolu_shiji"}
+{"entity_id":"hero.chinese.chiyou","notes":"Rebel","role":"CHARACTER","sort_order":20,"story_id":"story.chinese.huangdi_chiyou","story_version_id":"storyver.chinese.zhuolu_shiji"}
+{"entity_id":"event.chinese.battle_of_zhuolu","notes":"Battle","role":"EVENT","sort_order":30,"story_id":"story.chinese.huangdi_chiyou","story_version_id":"storyver.chinese.zhuolu_shiji"}
+{"entity_id":"text.chinese.shiji_ancient","notes":"Witness","role":"TEXT","sort_order":40,"story_id":"story.chinese.huangdi_chiyou","story_version_id":"storyver.chinese.zhuolu_shiji"}
 {"entity_id":"deity.chinese.leize_thunder_spirit","notes":"Derived from an explicitly linked story claim subject.","role":"CHARACTER","sort_order":10,"story_id":"story.chinese.leize_thunder","story_version_id":"storyver.chinese.leize_shanhaijing"}
 {"entity_id":"concept.comparative.thunder","notes":"Derived from an explicitly linked story claim object.","role":"RELATED","sort_order":20,"story_id":"story.chinese.leize_thunder","story_version_id":"storyver.chinese.leize_shanhaijing"}
 {"entity_id":"text.chinese.shanhaijing","notes":"Derived from an explicitly linked story claim object.","role":"TEXT","sort_order":20,"story_id":"story.chinese.leize_thunder","story_version_id":"storyver.chinese.leize_shanhaijing"}
+{"entity_id":"deity.chinese.nezha","notes":"Third prince","role":"CHARACTER","sort_order":10,"story_id":"story.chinese.nezha_wukong","story_version_id":"storyver.chinese.nezha_xiyouji_ch4"}
+{"entity_id":"hero.chinese.sun_wukong","notes":"Great Sage","role":"CHARACTER","sort_order":20,"story_id":"story.chinese.nezha_wukong","story_version_id":"storyver.chinese.nezha_xiyouji_ch4"}
+{"entity_id":"event.chinese.nezha_fights_wukong","notes":"Combat","role":"EVENT","sort_order":30,"story_id":"story.chinese.nezha_wukong","story_version_id":"storyver.chinese.nezha_xiyouji_ch4"}
+{"entity_id":"text.chinese.xiyouji","notes":"Novel","role":"TEXT","sort_order":40,"story_id":"story.chinese.nezha_wukong","story_version_id":"storyver.chinese.nezha_xiyouji_ch4"}
 {"entity_id":"deity.chinese.nu_wa","notes":"Actor of the repair.","role":"CHARACTER","sort_order":10,"story_id":"story.chinese.nuwa_repairs_sky","story_version_id":"storyver.chinese.nuwa_huainanzi_lanming"}
 {"entity_id":"artifact.chinese.five_colored_stones","notes":"Refined to patch the sky.","role":"ARTIFACT","sort_order":20,"story_id":"story.chinese.nuwa_repairs_sky","story_version_id":"storyver.chinese.nuwa_huainanzi_lanming"}
 {"entity_id":"creature.chinese.ao_turtle","notes":"Legs set up as the four poles.","role":"CHARACTER","sort_order":30,"story_id":"story.chinese.nuwa_repairs_sky","story_version_id":"storyver.chinese.nuwa_huainanzi_lanming"}
@@ -35,6 +47,30 @@
 {"entity_id":"event.chinese.gonggong_strikes_buzhou","notes":"Following event in this witness.","role":"EVENT","sort_order":60,"story_id":"story.chinese.nuwa_repairs_sky","story_version_id":"storyver.chinese.nuwa_liezi_tangwen"}
 {"entity_id":"text.chinese.liezi.tangwen_nuwa_gonggong_passage","notes":"Passage witness.","role":"TEXT","sort_order":70,"story_id":"story.chinese.nuwa_repairs_sky","story_version_id":"storyver.chinese.nuwa_liezi_tangwen"}
 {"entity_id":"text.chinese.liezi","notes":"Parent text.","role":"TEXT","sort_order":80,"story_id":"story.chinese.nuwa_repairs_sky","story_version_id":"storyver.chinese.nuwa_liezi_tangwen"}
+{"entity_id":"being.chinese.pangu","notes":"Primordial being","role":"CHARACTER","sort_order":10,"story_id":"story.chinese.pangu_sanwu_liji","story_version_id":"storyver.chinese.pangu_yiwen_leiju"}
+{"entity_id":"text.chinese.sanwu_liji","notes":"Lost source","role":"TEXT","sort_order":20,"story_id":"story.chinese.pangu_sanwu_liji","story_version_id":"storyver.chinese.pangu_yiwen_leiju"}
+{"entity_id":"event.chinese.pangu_heaven_earth","notes":"Separation","role":"EVENT","sort_order":30,"story_id":"story.chinese.pangu_sanwu_liji","story_version_id":"storyver.chinese.pangu_yiwen_leiju"}
+{"entity_id":"deity.egyptian.ra","notes":"Sun-god","role":"CHARACTER","sort_order":10,"story_id":"story.egyptian.heavenly_cow","story_version_id":"storyver.egyptian.heavenly_cow_ucl"}
+{"entity_id":"deity.egyptian.sekhmet","notes":"Eye of Ra","role":"CHARACTER","sort_order":20,"story_id":"story.egyptian.heavenly_cow","story_version_id":"storyver.egyptian.heavenly_cow_ucl"}
+{"entity_id":"deity.egyptian.hathor","notes":"Gentle form","role":"CHARACTER","sort_order":30,"story_id":"story.egyptian.heavenly_cow","story_version_id":"storyver.egyptian.heavenly_cow_ucl"}
+{"entity_id":"text.egyptian.tale_heavenly_cow","notes":"Composition","role":"TEXT","sort_order":40,"story_id":"story.egyptian.heavenly_cow","story_version_id":"storyver.egyptian.heavenly_cow_ucl"}
+{"entity_id":"event.egyptian.heavenly_cow_punishment","notes":"Punishment","role":"EVENT","sort_order":50,"story_id":"story.egyptian.heavenly_cow","story_version_id":"storyver.egyptian.heavenly_cow_ucl"}
+{"entity_id":"deity.egyptian.atum","notes":"Creator","role":"CHARACTER","sort_order":10,"story_id":"story.egyptian.heliopolitan_family","story_version_id":"storyver.egyptian.heliopolis_ucl"}
+{"entity_id":"deity.egyptian.shu","notes":"First son","role":"CHARACTER","sort_order":20,"story_id":"story.egyptian.heliopolitan_family","story_version_id":"storyver.egyptian.heliopolis_ucl"}
+{"entity_id":"deity.egyptian.tefnut","notes":"First daughter","role":"CHARACTER","sort_order":30,"story_id":"story.egyptian.heliopolitan_family","story_version_id":"storyver.egyptian.heliopolis_ucl"}
+{"entity_id":"deity.egyptian.geb","notes":"Earth","role":"CHARACTER","sort_order":40,"story_id":"story.egyptian.heliopolitan_family","story_version_id":"storyver.egyptian.heliopolis_ucl"}
+{"entity_id":"deity.egyptian.nut","notes":"Sky","role":"CHARACTER","sort_order":50,"story_id":"story.egyptian.heliopolitan_family","story_version_id":"storyver.egyptian.heliopolis_ucl"}
+{"entity_id":"deity.egyptian.osiris","notes":"Murdered king","role":"CHARACTER","sort_order":60,"story_id":"story.egyptian.heliopolitan_family","story_version_id":"storyver.egyptian.heliopolis_ucl"}
+{"entity_id":"deity.egyptian.seth","notes":"Murderer","role":"CHARACTER","sort_order":70,"story_id":"story.egyptian.heliopolitan_family","story_version_id":"storyver.egyptian.heliopolis_ucl"}
+{"entity_id":"deity.egyptian.isis","notes":"Restorer","role":"CHARACTER","sort_order":80,"story_id":"story.egyptian.heliopolitan_family","story_version_id":"storyver.egyptian.heliopolis_ucl"}
+{"entity_id":"deity.egyptian.horus","notes":"Child","role":"CHARACTER","sort_order":90,"story_id":"story.egyptian.heliopolitan_family","story_version_id":"storyver.egyptian.heliopolis_ucl"}
+{"entity_id":"event.egyptian.separation_geb_nut","notes":"Separation","role":"EVENT","sort_order":100,"story_id":"story.egyptian.heliopolitan_family","story_version_id":"storyver.egyptian.heliopolis_ucl"}
+{"entity_id":"event.egyptian.osiris_murder_restoration","notes":"Osiris cycle","role":"EVENT","sort_order":110,"story_id":"story.egyptian.heliopolitan_family","story_version_id":"storyver.egyptian.heliopolis_ucl"}
+{"entity_id":"deity.egyptian.nephthys","notes":"Mourner","role":"CHARACTER","sort_order":10,"story_id":"story.egyptian.mourning_sisters","story_version_id":"storyver.egyptian.mourning_sisters_met"}
+{"entity_id":"deity.egyptian.isis","notes":"Mourner","role":"CHARACTER","sort_order":20,"story_id":"story.egyptian.mourning_sisters","story_version_id":"storyver.egyptian.mourning_sisters_met"}
+{"entity_id":"deity.egyptian.osiris","notes":"Mourned","role":"CHARACTER","sort_order":30,"story_id":"story.egyptian.mourning_sisters","story_version_id":"storyver.egyptian.mourning_sisters_met"}
+{"entity_id":"museum.egypt.mourning_nephthys_met","notes":"Figure","role":"ARTIFACT","sort_order":40,"story_id":"story.egyptian.mourning_sisters","story_version_id":"storyver.egyptian.mourning_sisters_met"}
+{"entity_id":"museum.egypt.mourning_isis_met","notes":"Figure","role":"ARTIFACT","sort_order":50,"story_id":"story.egyptian.mourning_sisters","story_version_id":"storyver.egyptian.mourning_sisters_met"}
 {"entity_id":"festival.egyptian.opet","notes":"Festival dossier.","role":"EVENT","sort_order":1,"story_id":"story.egyptian.opet_procession","story_version_id":"storyver.egyptian.opet_mota"}
 {"entity_id":"group.egyptian.theban_triad","notes":"Cult-image group in the official record.","role":"CHARACTER_GROUP","sort_order":2,"story_id":"story.egyptian.opet_procession","story_version_id":"storyver.egyptian.opet_mota"}
 {"entity_id":"site.egypt.karnak","notes":"Public departure setting.","role":"PLACE","sort_order":10,"story_id":"story.egyptian.opet_procession","story_version_id":"storyver.egyptian.opet_mota"}
@@ -44,6 +80,11 @@
 {"entity_id":"deity.egyptian.ra","notes":"Derived from an explicitly linked story claim subject.","role":"CHARACTER","sort_order":10,"story_id":"story.egyptian.solar_night","story_version_id":"storyver.egyptian.solar_met"}
 {"entity_id":"text.egypt.amduat","notes":"Derived from an explicitly linked story claim object.","role":"TEXT","sort_order":20,"story_id":"story.egyptian.solar_night","story_version_id":"storyver.egyptian.solar_met"}
 {"entity_id":"artifact.egyptian.solar_barque","notes":"Derived from an explicitly linked story claim object.","role":"RELATED","sort_order":20,"story_id":"story.egyptian.solar_night","story_version_id":"storyver.egyptian.solar_met"}
+{"entity_id":"museum.egypt.papyrus_ani_frame3","notes":"Papyrus frame","role":"ARTIFACT","sort_order":10,"story_id":"story.egyptian.weighing_heart_ani","story_version_id":"storyver.egyptian.weighing_ani_bm"}
+{"entity_id":"deity.egyptian.anubis","notes":"Tends the balance","role":"CHARACTER","sort_order":20,"story_id":"story.egyptian.weighing_heart_ani","story_version_id":"storyver.egyptian.weighing_ani_bm"}
+{"entity_id":"deity.egyptian.thoth","notes":"Scribe","role":"CHARACTER","sort_order":30,"story_id":"story.egyptian.weighing_heart_ani","story_version_id":"storyver.egyptian.weighing_ani_bm"}
+{"entity_id":"deity.egyptian.ma_at","notes":"Feather","role":"CHARACTER","sort_order":40,"story_id":"story.egyptian.weighing_heart_ani","story_version_id":"storyver.egyptian.weighing_ani_bm"}
+{"entity_id":"event.egyptian.weighing_heart_ani","notes":"Weighing","role":"EVENT","sort_order":50,"story_id":"story.egyptian.weighing_heart_ani","story_version_id":"storyver.egyptian.weighing_ani_bm"}
 {"entity_id":"deity.greek.aphrodite","notes":"Derived from an explicitly linked story claim subject.","role":"CHARACTER","sort_order":10,"story_id":"story.greek.aphrodite_origins","story_version_id":"storyver.greek.aphrodite_theogony"}
 {"entity_id":"deity.greek.aphrodite","notes":"Derived from an explicitly linked story claim subject.","role":"CHARACTER","sort_order":10,"story_id":"story.greek.aphrodite_origins","story_version_id":"storyver.greek.aphrodite_iliad"}
 {"entity_id":"deity.greek.dione","notes":"Derived from an explicitly linked story claim subject.","role":"CHARACTER","sort_order":10,"story_id":"story.greek.aphrodite_origins","story_version_id":"storyver.greek.aphrodite_iliad"}
@@ -77,6 +118,9 @@
 {"entity_id":"deity.greek.gaia","notes":"Derived from an explicitly linked story claim object.","role":"CHARACTER","sort_order":20,"story_id":"story.greek.zeus_typhon","story_version_id":"storyver.greek.typhon_theogony"}
 {"entity_id":"realm.greek.tartarus","notes":"Derived from an explicitly linked story claim object.","role":"RELATED","sort_order":20,"story_id":"story.greek.zeus_typhon","story_version_id":"storyver.greek.typhon_theogony"}
 {"entity_id":"event.greek.zeus_typhon_battle","notes":"Derived from an explicitly linked story claim object.","role":"EVENT","sort_order":20,"story_id":"story.greek.zeus_typhon","story_version_id":"storyver.greek.typhon_theogony"}
+{"entity_id":"deity.hawaiian.pele","notes":"Volcano deity","role":"CHARACTER","sort_order":10,"story_id":"story.hawaiian.pele_journey","story_version_id":"storyver.hawaiian.pele_nps"}
+{"entity_id":"site.hawaii.halemaumau","notes":"Home","role":"PLACE","sort_order":20,"story_id":"story.hawaiian.pele_journey","story_version_id":"storyver.hawaiian.pele_nps"}
+{"entity_id":"event.hawaiian.pele_journey","notes":"Journey","role":"EVENT","sort_order":30,"story_id":"story.hawaiian.pele_journey","story_version_id":"storyver.hawaiian.pele_nps"}
 {"entity_id":"deity.hindu.vishnu","notes":"Nārāyaṇa in the epic witness.","role":"CHARACTER","sort_order":10,"story_id":"story.hindu.samudra_manthana_texts","story_version_id":"storyver.hindu.churning_mbh_ce"}
 {"entity_id":"place.hindu.mandara","notes":"Churning rod; no coordinate.","role":"PLACE","sort_order":20,"story_id":"story.hindu.samudra_manthana_texts","story_version_id":"storyver.hindu.churning_mbh_ce"}
 {"entity_id":"creature.hindu.vasuki","notes":"Churning rope.","role":"CHARACTER","sort_order":30,"story_id":"story.hindu.samudra_manthana_texts","story_version_id":"storyver.hindu.churning_mbh_ce"}
@@ -100,6 +144,15 @@
 {"entity_id":"event.hindu.samudra_manthana","notes":"Textual event.","role":"EVENT","sort_order":100,"story_id":"story.hindu.samudra_manthana_texts","story_version_id":"storyver.hindu.churning_bhagavata"}
 {"entity_id":"text.hindu.bhagavata_purana.skandha8_churning","notes":"Passage witness.","role":"TEXT","sort_order":110,"story_id":"story.hindu.samudra_manthana_texts","story_version_id":"storyver.hindu.churning_bhagavata"}
 {"entity_id":"text.hindu.bhagavata_purana","notes":"Parent Purāṇa.","role":"TEXT","sort_order":120,"story_id":"story.hindu.samudra_manthana_texts","story_version_id":"storyver.hindu.churning_bhagavata"}
+{"entity_id":"deity.hindu.brahma","notes":"Leads the gods to Viṣṇu before the churning (BhP 8.5).","role":"RELATED","sort_order":90,"story_id":"story.hindu.samudra_manthana_texts","story_version_id":"storyver.hindu.churning_bhagavata"}
+{"entity_id":"deity.irish.dagda","notes":"Owner of the cauldron","role":"CHARACTER","sort_order":10,"story_id":"story.irish.second_battle_mag_tuired","story_version_id":"storyver.irish.mag_tuired_gray"}
+{"entity_id":"deity.irish.lugh","notes":"Samildánach","role":"CHARACTER","sort_order":20,"story_id":"story.irish.second_battle_mag_tuired","story_version_id":"storyver.irish.mag_tuired_gray"}
+{"entity_id":"deity.irish.morrigan","notes":"Prophetess","role":"CHARACTER","sort_order":30,"story_id":"story.irish.second_battle_mag_tuired","story_version_id":"storyver.irish.mag_tuired_gray"}
+{"entity_id":"deity.irish.bridig","notes":"Mourning mother","role":"CHARACTER","sort_order":40,"story_id":"story.irish.second_battle_mag_tuired","story_version_id":"storyver.irish.mag_tuired_gray"}
+{"entity_id":"being.irish.balor","notes":"Fomorian champion","role":"CHARACTER","sort_order":50,"story_id":"story.irish.second_battle_mag_tuired","story_version_id":"storyver.irish.mag_tuired_gray"}
+{"entity_id":"artifact.irish.dagda_cauldron","notes":"Treasure","role":"ARTIFACT","sort_order":60,"story_id":"story.irish.second_battle_mag_tuired","story_version_id":"storyver.irish.mag_tuired_gray"}
+{"entity_id":"event.irish.second_battle_mag_tuired","notes":"Battle","role":"EVENT","sort_order":70,"story_id":"story.irish.second_battle_mag_tuired","story_version_id":"storyver.irish.mag_tuired_gray"}
+{"entity_id":"text.irish.cath_maige_tuired","notes":"Saga","role":"TEXT","sort_order":80,"story_id":"story.irish.second_battle_mag_tuired","story_version_id":"storyver.irish.mag_tuired_gray"}
 {"entity_id":"group.japanese.eight_thunder_kami","notes":"Derived from an explicitly linked story claim subject.","role":"RELATED","sort_order":10,"story_id":"story.japanese.eight_thunder_yomi","story_version_id":"storyver.japanese.eight_thunder_kojiki"}
 {"entity_id":"deity.japanese.ooikazuchi","notes":"Derived from an explicitly linked story claim subject.","role":"CHARACTER","sort_order":10,"story_id":"story.japanese.eight_thunder_yomi","story_version_id":"storyver.japanese.eight_thunder_kojiki"}
 {"entity_id":"deity.japanese.honoikazuchi","notes":"Derived from an explicitly linked story claim subject.","role":"CHARACTER","sort_order":10,"story_id":"story.japanese.eight_thunder_yomi","story_version_id":"storyver.japanese.eight_thunder_kojiki"}
@@ -110,6 +163,18 @@
 {"entity_id":"deity.japanese.naruikazuchi","notes":"Derived from an explicitly linked story claim subject.","role":"CHARACTER","sort_order":10,"story_id":"story.japanese.eight_thunder_yomi","story_version_id":"storyver.japanese.eight_thunder_kojiki"}
 {"entity_id":"deity.japanese.fusuikazuchi","notes":"Derived from an explicitly linked story claim subject.","role":"CHARACTER","sort_order":10,"story_id":"story.japanese.eight_thunder_yomi","story_version_id":"storyver.japanese.eight_thunder_kojiki"}
 {"entity_id":"text.japanese.kojiki","notes":"Derived from an explicitly linked story claim object.","role":"TEXT","sort_order":20,"story_id":"story.japanese.eight_thunder_yomi","story_version_id":"storyver.japanese.eight_thunder_kojiki"}
+{"entity_id":"deity.japanese.izanagi","notes":"Creator","role":"CHARACTER","sort_order":10,"story_id":"story.japanese.izanagi_izanami","story_version_id":"storyver.japanese.izanagi_izanami_kojiki"}
+{"entity_id":"deity.japanese.izanami","notes":"Creator","role":"CHARACTER","sort_order":20,"story_id":"story.japanese.izanagi_izanami","story_version_id":"storyver.japanese.izanagi_izanami_kojiki"}
+{"entity_id":"deity.japanese.kagutsuchi","notes":"Fire deity","role":"CHARACTER","sort_order":30,"story_id":"story.japanese.izanagi_izanami","story_version_id":"storyver.japanese.izanagi_izanami_kojiki"}
+{"entity_id":"deity.japanese.amaterasu","notes":"Born of the left eye","role":"CHARACTER","sort_order":40,"story_id":"story.japanese.izanagi_izanami","story_version_id":"storyver.japanese.izanagi_izanami_kojiki"}
+{"entity_id":"deity.japanese.tsukuyomi","notes":"Born of the right eye","role":"CHARACTER","sort_order":50,"story_id":"story.japanese.izanagi_izanami","story_version_id":"storyver.japanese.izanagi_izanami_kojiki"}
+{"entity_id":"deity.japanese.susanoo","notes":"Born of the nose","role":"CHARACTER","sort_order":60,"story_id":"story.japanese.izanagi_izanami","story_version_id":"storyver.japanese.izanagi_izanami_kojiki"}
+{"entity_id":"place.japanese.onogoro","notes":"Island","role":"PLACE","sort_order":70,"story_id":"story.japanese.izanagi_izanami","story_version_id":"storyver.japanese.izanagi_izanami_kojiki"}
+{"entity_id":"place.japanese.yomi","notes":"Land of the dead","role":"PLACE","sort_order":80,"story_id":"story.japanese.izanagi_izanami","story_version_id":"storyver.japanese.izanagi_izanami_kojiki"}
+{"entity_id":"event.japanese.onogoro_creation","notes":"Island-making","role":"EVENT","sort_order":90,"story_id":"story.japanese.izanagi_izanami","story_version_id":"storyver.japanese.izanagi_izanami_kojiki"}
+{"entity_id":"event.japanese.izanagi_visits_yomi","notes":"Yomi","role":"EVENT","sort_order":100,"story_id":"story.japanese.izanagi_izanami","story_version_id":"storyver.japanese.izanagi_izanami_kojiki"}
+{"entity_id":"event.japanese.izanagi_purification","notes":"Purification","role":"EVENT","sort_order":110,"story_id":"story.japanese.izanagi_izanami","story_version_id":"storyver.japanese.izanagi_izanami_kojiki"}
+{"entity_id":"text.japanese.kojiki","notes":"Kojiki","role":"TEXT","sort_order":120,"story_id":"story.japanese.izanagi_izanami","story_version_id":"storyver.japanese.izanagi_izanami_kojiki"}
 {"entity_id":"text.japan.yamashiro_fudoki_kamo_fragment","notes":"Derived from an explicitly linked story claim subject.","role":"TEXT","sort_order":10,"story_id":"story.japanese.kamo_arrow","story_version_id":"storyver.japanese.kamo_fudoki_fragment"}
 {"entity_id":"deity.japanese.tamayorihime_kamo","notes":"Derived from an explicitly linked story claim subject.","role":"CHARACTER","sort_order":10,"story_id":"story.japanese.kamo_arrow","story_version_id":"storyver.japanese.kamo_fudoki_fragment"}
 {"entity_id":"deity.japanese.kamo_taketsunumi","notes":"Derived from an explicitly linked story claim subject.","role":"CHARACTER","sort_order":10,"story_id":"story.japanese.kamo_arrow","story_version_id":"storyver.japanese.kamo_fudoki_fragment"}
@@ -130,11 +195,37 @@
 {"entity_id":"event.khmer.angkor_wat_churning_scene","notes":"Scene as represented by the relief.","role":"EVENT","sort_order":40,"story_id":"story.khmer.angkor_wat_churning_relief","story_version_id":"storyver.khmer.angkor_churning_apsara"}
 {"entity_id":"text.maori.creation_traditions","notes":"Derived from an explicitly linked story claim subject.","role":"RELATED","sort_order":10,"story_id":"story.maori.creation_many","story_version_id":"storyver.maori.creation_teara"}
 {"entity_id":"concept.maori.iwi_variant_scope","notes":"Derived from an explicitly linked story claim subject.","role":"RELATED","sort_order":10,"story_id":"story.maori.creation_many","story_version_id":"storyver.maori.creation_teara"}
+{"entity_id":"deity.maori.ranginui","notes":"Sky father","role":"CHARACTER","sort_order":10,"story_id":"story.maori.creation_many","story_version_id":"storyver.maori.creation_common_threads"}
+{"entity_id":"deity.maori.papatuanuku","notes":"Earth mother","role":"CHARACTER","sort_order":20,"story_id":"story.maori.creation_many","story_version_id":"storyver.maori.creation_common_threads"}
+{"entity_id":"deity.polynesian.tane","notes":"Atua of forests","role":"CHARACTER","sort_order":30,"story_id":"story.maori.creation_many","story_version_id":"storyver.maori.creation_common_threads"}
+{"entity_id":"deity.polynesian.tangaroa","notes":"Atua of the sea","role":"CHARACTER","sort_order":40,"story_id":"story.maori.creation_many","story_version_id":"storyver.maori.creation_common_threads"}
+{"entity_id":"event.maori.separation_rangi_papa","notes":"Separation","role":"EVENT","sort_order":50,"story_id":"story.maori.creation_many","story_version_id":"storyver.maori.creation_common_threads"}
+{"entity_id":"text.maori.creation_traditions","notes":"Tradition","role":"TEXT","sort_order":60,"story_id":"story.maori.creation_many","story_version_id":"storyver.maori.creation_common_threads"}
+{"entity_id":"deity.maya.kukulkan","notes":"Feathered serpent","role":"CHARACTER","sort_order":10,"story_id":"story.maya.divine_images","story_version_id":"storyver.maya.kukulkan_unesco"}
+{"entity_id":"monument.maya.el_castillo_chichen","notes":"Pyramid","role":"PLACE","sort_order":20,"story_id":"story.maya.divine_images","story_version_id":"storyver.maya.kukulkan_unesco"}
+{"entity_id":"site.mexico.chichen_itza","notes":"Real site","role":"PLACE","sort_order":30,"story_id":"story.maya.divine_images","story_version_id":"storyver.maya.kukulkan_unesco"}
+{"entity_id":"deity.mexica.quetzalcoatl","notes":"Name equivalent","role":"RELATED","sort_order":40,"story_id":"story.maya.divine_images","story_version_id":"storyver.maya.kukulkan_unesco"}
+{"entity_id":"deity.maya.chaac","notes":"Rain god","role":"CHARACTER","sort_order":10,"story_id":"story.maya.divine_images","story_version_id":"storyver.maya.chahk_met"}
+{"entity_id":"museum.maya.chahk_plate_met","notes":"Plate","role":"ARTIFACT","sort_order":20,"story_id":"story.maya.divine_images","story_version_id":"storyver.maya.chahk_met"}
+{"entity_id":"deity.maya.itzamna","notes":"Aged god","role":"CHARACTER","sort_order":10,"story_id":"story.maya.divine_images","story_version_id":"storyver.maya.itzamnaaj_met"}
 {"entity_id":"hero.kiche.hunahpu","notes":"Named Hero Twin in the public K'iche'-attributed overview.","role":"CHARACTER","sort_order":10,"story_id":"story.maya.hero_twins_seven_macaw","story_version_id":"storyver.maya.hero_twins_nmai"}
 {"entity_id":"hero.kiche.xbalanque","notes":"Named Hero Twin in the public K'iche'-attributed overview.","role":"CHARACTER","sort_order":20,"story_id":"story.maya.hero_twins_seven_macaw","story_version_id":"storyver.maya.hero_twins_nmai"}
 {"entity_id":"monster.kiche.seven_macaw","notes":"Named opponent in the bounded episode.","role":"CHARACTER","sort_order":30,"story_id":"story.maya.hero_twins_seven_macaw","story_version_id":"storyver.maya.hero_twins_nmai"}
 {"entity_id":"event.kiche.hero_twins.seven_macaw","notes":"Source-scoped episode.","role":"EVENT","sort_order":40,"story_id":"story.maya.hero_twins_seven_macaw","story_version_id":"storyver.maya.hero_twins_nmai"}
 {"entity_id":"text.kiche.popol_vuh","notes":"Colonial manuscript catalogue context; not treated as community permission.","role":"TEXT","sort_order":50,"story_id":"story.maya.hero_twins_seven_macaw","story_version_id":"storyver.maya.hero_twins_nmai"}
+{"entity_id":"deity.mexica.coatlicue","notes":"Mother","role":"CHARACTER","sort_order":10,"story_id":"story.mexica.birth_huitzilopochtli","story_version_id":"storyver.mexica.coatepec_fc"}
+{"entity_id":"deity.mexica.coyolxauhqui","notes":"Daughter","role":"CHARACTER","sort_order":20,"story_id":"story.mexica.birth_huitzilopochtli","story_version_id":"storyver.mexica.coatepec_fc"}
+{"entity_id":"deity.mexica.huitzilopochtli","notes":"Newborn war god","role":"CHARACTER","sort_order":30,"story_id":"story.mexica.birth_huitzilopochtli","story_version_id":"storyver.mexica.coatepec_fc"}
+{"entity_id":"place.mexica.coatepec","notes":"Serpent Mountain","role":"PLACE","sort_order":40,"story_id":"story.mexica.birth_huitzilopochtli","story_version_id":"storyver.mexica.coatepec_fc"}
+{"entity_id":"event.mexica.birth_of_huitzilopochtli","notes":"Birth and battle","role":"EVENT","sort_order":50,"story_id":"story.mexica.birth_huitzilopochtli","story_version_id":"storyver.mexica.coatepec_fc"}
+{"entity_id":"text.mexica.florentine_codex","notes":"Florentine Codex","role":"TEXT","sort_order":60,"story_id":"story.mexica.birth_huitzilopochtli","story_version_id":"storyver.mexica.coatepec_fc"}
+{"entity_id":"deity.mexica.quetzalcoatl","notes":"Wizard of Tollan","role":"CHARACTER","sort_order":10,"story_id":"story.mexica.quetzalcoatl_tollan","story_version_id":"storyver.mexica.tollan_fc"}
+{"entity_id":"deity.mexica.tezcatlipoca","notes":"Titlacauan","role":"CHARACTER","sort_order":20,"story_id":"story.mexica.quetzalcoatl_tollan","story_version_id":"storyver.mexica.tollan_fc"}
+{"entity_id":"event.mexica.quetzalcoatl_tollan_end","notes":"Downfall","role":"EVENT","sort_order":30,"story_id":"story.mexica.quetzalcoatl_tollan","story_version_id":"storyver.mexica.tollan_fc"}
+{"entity_id":"text.mexica.florentine_codex","notes":"Florentine Codex","role":"TEXT","sort_order":40,"story_id":"story.mexica.quetzalcoatl_tollan","story_version_id":"storyver.mexica.tollan_fc"}
+{"entity_id":"site.mexico.templo_mayor","notes":"Real site","role":"PLACE","sort_order":10,"story_id":"story.mexica.templo_mayor_twin_shrines","story_version_id":"storyver.mexica.templo_mayor_inah"}
+{"entity_id":"deity.mexica.huitzilopochtli","notes":"South shrine","role":"CHARACTER","sort_order":20,"story_id":"story.mexica.templo_mayor_twin_shrines","story_version_id":"storyver.mexica.templo_mayor_inah"}
+{"entity_id":"deity.mexica.tlaloc","notes":"North shrine","role":"CHARACTER","sort_order":30,"story_id":"story.mexica.templo_mayor_twin_shrines","story_version_id":"storyver.mexica.templo_mayor_inah"}
 {"entity_id":"text.norse.voluspa.st17_18","notes":"Derived from an explicitly linked story claim subject.","role":"TEXT","sort_order":10,"story_id":"story.norse.ask_embla","story_version_id":"storyver.norse.ask_embla_voluspa"}
 {"entity_id":"text.norse.gylfaginning.ch8_9","notes":"Derived from an explicitly linked story claim subject.","role":"TEXT","sort_order":10,"story_id":"story.norse.ask_embla","story_version_id":"storyver.norse.ask_embla_gylf"}
 {"entity_id":"deity.norse.odin","notes":"Derived from an explicitly linked story claim object.","role":"CHARACTER","sort_order":20,"story_id":"story.norse.ask_embla","story_version_id":"storyver.norse.ask_embla_voluspa"}
@@ -153,17 +244,54 @@
 {"entity_id":"artifact.norse.draupnir","notes":"Derived from an explicitly linked story claim object.","role":"RELATED","sort_order":20,"story_id":"story.norse.forging_treasures","story_version_id":"storyver.norse.forging_skald"}
 {"entity_id":"creature.norse.gullinbursti","notes":"Derived from an explicitly linked story claim object.","role":"RELATED","sort_order":20,"story_id":"story.norse.forging_treasures","story_version_id":"storyver.norse.forging_skald"}
 {"entity_id":"event.norse.forging_divine_treasures","notes":"Derived from an explicitly linked story claim object.","role":"EVENT","sort_order":20,"story_id":"story.norse.forging_treasures","story_version_id":"storyver.norse.forging_skald"}
+{"entity_id":"deity.norse.frigg","notes":"Mother","role":"CHARACTER","sort_order":10,"story_id":"story.norse.frigg_baldr","story_version_id":"storyver.norse.frigg_gylf"}
+{"entity_id":"deity.norse.baldr","notes":"Son","role":"CHARACTER","sort_order":20,"story_id":"story.norse.frigg_baldr","story_version_id":"storyver.norse.frigg_gylf"}
+{"entity_id":"deity.norse.odin","notes":"Husband","role":"CHARACTER","sort_order":30,"story_id":"story.norse.frigg_baldr","story_version_id":"storyver.norse.frigg_gylf"}
+{"entity_id":"event.norse.death_of_baldr","notes":"Death of Baldr","role":"EVENT","sort_order":40,"story_id":"story.norse.frigg_baldr","story_version_id":"storyver.norse.frigg_gylf"}
 {"entity_id":"deity.norse.loki","notes":"Derived from an explicitly linked story claim subject.","role":"CHARACTER","sort_order":10,"story_id":"story.norse.hammer_recovery","story_version_id":"storyver.norse.hammer_thrymskvida"}
 {"entity_id":"deity.norse.thor","notes":"Derived from an explicitly linked story claim subject.","role":"CHARACTER","sort_order":10,"story_id":"story.norse.hammer_recovery","story_version_id":"storyver.norse.hammer_thrymskvida"}
 {"entity_id":"text.norse.thrymskvida","notes":"Derived from an explicitly linked story claim object.","role":"TEXT","sort_order":20,"story_id":"story.norse.hammer_recovery","story_version_id":"storyver.norse.hammer_thrymskvida"}
+{"entity_id":"deity.norse.heimdall","notes":"Watchman","role":"CHARACTER","sort_order":10,"story_id":"story.norse.heimdall_watchman","story_version_id":"storyver.norse.heimdall_gylf"}
+{"entity_id":"place.norse.himinbjorg","notes":"Dwelling","role":"PLACE","sort_order":20,"story_id":"story.norse.heimdall_watchman","story_version_id":"storyver.norse.heimdall_gylf"}
+{"entity_id":"artifact.norse.gjallarhorn","notes":"Horn","role":"ARTIFACT","sort_order":30,"story_id":"story.norse.heimdall_watchman","story_version_id":"storyver.norse.heimdall_gylf"}
 {"entity_id":"being.norse.mimir","notes":"Derived from an explicitly linked story claim subject.","role":"CHARACTER","sort_order":10,"story_id":"story.norse.odin_mimir","story_version_id":"storyver.norse.odin_mimir_gylf"}
 {"entity_id":"deity.norse.odin","notes":"Derived from an explicitly linked story claim subject.","role":"CHARACTER","sort_order":10,"story_id":"story.norse.odin_mimir","story_version_id":"storyver.norse.odin_mimir_gylf"}
 {"entity_id":"place.norse.mimisbrunnr","notes":"Derived from an explicitly linked story claim object.","role":"PLACE","sort_order":20,"story_id":"story.norse.odin_mimir","story_version_id":"storyver.norse.odin_mimir_gylf"}
 {"entity_id":"creature.norse.fenrir","notes":"Derived from an explicitly linked story claim subject.","role":"CHARACTER","sort_order":10,"story_id":"story.norse.ragnarok","story_version_id":"storyver.norse.ragnarok_gylf"}
 {"entity_id":"deity.norse.odin","notes":"Derived from an explicitly linked story claim subject.","role":"CHARACTER","sort_order":10,"story_id":"story.norse.ragnarok","story_version_id":"storyver.norse.ragnarok_gylf"}
 {"entity_id":"event.norse.ragnarok","notes":"Derived from an explicitly linked story claim object.","role":"EVENT","sort_order":20,"story_id":"story.norse.ragnarok","story_version_id":"storyver.norse.ragnarok_gylf"}
+{"entity_id":"deity.norse.tyr","notes":"Pledge-giver","role":"CHARACTER","sort_order":10,"story_id":"story.norse.tyr_fenrir","story_version_id":"storyver.norse.tyr_gylf"}
+{"entity_id":"creature.norse.fenrir","notes":"Wolf","role":"CHARACTER","sort_order":20,"story_id":"story.norse.tyr_fenrir","story_version_id":"storyver.norse.tyr_gylf"}
+{"entity_id":"event.norse.binding_of_fenrir","notes":"Binding","role":"EVENT","sort_order":30,"story_id":"story.norse.tyr_fenrir","story_version_id":"storyver.norse.tyr_gylf"}
+{"entity_id":"deity.norse.njord","notes":"Father","role":"CHARACTER","sort_order":10,"story_id":"story.norse.vanir_family","story_version_id":"storyver.norse.vanir_gylf"}
+{"entity_id":"deity.norse.freyr","notes":"Son","role":"CHARACTER","sort_order":20,"story_id":"story.norse.vanir_family","story_version_id":"storyver.norse.vanir_gylf"}
+{"entity_id":"deity.norse.freyja","notes":"Daughter","role":"CHARACTER","sort_order":30,"story_id":"story.norse.vanir_family","story_version_id":"storyver.norse.vanir_gylf"}
+{"entity_id":"place.norse.noatun","notes":"Njörðr's home","role":"PLACE","sort_order":40,"story_id":"story.norse.vanir_family","story_version_id":"storyver.norse.vanir_gylf"}
+{"entity_id":"place.norse.folkvangr","notes":"Freyja's home","role":"PLACE","sort_order":50,"story_id":"story.norse.vanir_family","story_version_id":"storyver.norse.vanir_gylf"}
+{"entity_id":"text.norse.gylfaginning","notes":"Gylfaginning","role":"TEXT","sort_order":60,"story_id":"story.norse.vanir_family","story_version_id":"storyver.norse.vanir_gylf"}
+{"entity_id":"being.norse.ymir","notes":"Primordial giant","role":"CHARACTER","sort_order":10,"story_id":"story.norse.ymir_world","story_version_id":"storyver.norse.ymir_gylf"}
+{"entity_id":"deity.norse.odin","notes":"Slayer","role":"CHARACTER","sort_order":20,"story_id":"story.norse.ymir_world","story_version_id":"storyver.norse.ymir_gylf"}
+{"entity_id":"event.norse.slaying_of_ymir","notes":"World-making","role":"EVENT","sort_order":30,"story_id":"story.norse.ymir_world","story_version_id":"storyver.norse.ymir_gylf"}
+{"entity_id":"deity.slavic.perun","notes":"Chief idol","role":"CHARACTER","sort_order":10,"story_id":"story.slavic.kyiv_idols","story_version_id":"storyver.slavic.kyiv_idols_pvl"}
+{"entity_id":"deity.slavic.mokosh","notes":"Named idol","role":"CHARACTER","sort_order":20,"story_id":"story.slavic.kyiv_idols","story_version_id":"storyver.slavic.kyiv_idols_pvl"}
+{"entity_id":"event.slavic.kyiv_idols_980","notes":"Idols set up","role":"EVENT","sort_order":30,"story_id":"story.slavic.kyiv_idols","story_version_id":"storyver.slavic.kyiv_idols_pvl"}
+{"entity_id":"event.slavic.idols_cast_down_988","notes":"Idols cast down","role":"EVENT","sort_order":40,"story_id":"story.slavic.kyiv_idols","story_version_id":"storyver.slavic.kyiv_idols_pvl"}
+{"entity_id":"text.slavic.primary_chronicle","notes":"Chronicle","role":"TEXT","sort_order":50,"story_id":"story.slavic.kyiv_idols","story_version_id":"storyver.slavic.kyiv_idols_pvl"}
+{"entity_id":"deity.sumerian.enki","notes":"Eats the plants","role":"CHARACTER","sort_order":10,"story_id":"story.sumerian.enki_ninhursag","story_version_id":"storyver.sumerian.enki_ninhursag_etcsl"}
+{"entity_id":"deity.sumerian.ninhursag","notes":"Curses and heals","role":"CHARACTER","sort_order":20,"story_id":"story.sumerian.enki_ninhursag","story_version_id":"storyver.sumerian.enki_ninhursag_etcsl"}
+{"entity_id":"place.sumerian.dilmun","notes":"Dilmun","role":"PLACE","sort_order":30,"story_id":"story.sumerian.enki_ninhursag","story_version_id":"storyver.sumerian.enki_ninhursag_etcsl"}
+{"entity_id":"event.sumerian.enki_ninhursag","notes":"Curse and healing","role":"EVENT","sort_order":40,"story_id":"story.sumerian.enki_ninhursag","story_version_id":"storyver.sumerian.enki_ninhursag_etcsl"}
+{"entity_id":"hero.sumerian.gilgamesh","notes":"Hero","role":"CHARACTER","sort_order":10,"story_id":"story.sumerian.gilgamesh_huwawa_utu","story_version_id":"storyver.sumerian.gilgamesh_huwawa_etcsl"}
+{"entity_id":"deity.sumerian.utu","notes":"Sun god","role":"CHARACTER","sort_order":20,"story_id":"story.sumerian.gilgamesh_huwawa_utu","story_version_id":"storyver.sumerian.gilgamesh_huwawa_etcsl"}
+{"entity_id":"monster.sumerian.huwawa","notes":"Guardian","role":"CHARACTER","sort_order":30,"story_id":"story.sumerian.gilgamesh_huwawa_utu","story_version_id":"storyver.sumerian.gilgamesh_huwawa_etcsl"}
+{"entity_id":"event.sumerian.gilgamesh_huwawa","notes":"Expedition","role":"EVENT","sort_order":40,"story_id":"story.sumerian.gilgamesh_huwawa_utu","story_version_id":"storyver.sumerian.gilgamesh_huwawa_etcsl"}
+{"entity_id":"text.mesopotamia.gilgamesh","notes":"Later epic, kept separate","role":"RELATED","sort_order":50,"story_id":"story.sumerian.gilgamesh_huwawa_utu","story_version_id":"storyver.sumerian.gilgamesh_huwawa_etcsl"}
 {"entity_id":"deity.sumerian.inanna","notes":"Derived from an explicitly linked story claim subject.","role":"CHARACTER","sort_order":10,"story_id":"story.sumerian.inanna_descent","story_version_id":"storyver.sumerian.inanna_etcsl"}
 {"entity_id":"event.sumerian.inanna_descent","notes":"Derived from an explicitly linked story claim object.","role":"EVENT","sort_order":20,"story_id":"story.sumerian.inanna_descent","story_version_id":"storyver.sumerian.inanna_etcsl"}
+{"entity_id":"deity.sumerian.nanna","notes":"Moon god","role":"CHARACTER","sort_order":10,"story_id":"story.sumerian.nanna_journey","story_version_id":"storyver.sumerian.nanna_journey_etcsl"}
+{"entity_id":"deity.sumerian.enlil","notes":"Father","role":"CHARACTER","sort_order":20,"story_id":"story.sumerian.nanna_journey","story_version_id":"storyver.sumerian.nanna_journey_etcsl"}
+{"entity_id":"site.iraq.nippur","notes":"Nibru","role":"PLACE","sort_order":30,"story_id":"story.sumerian.nanna_journey","story_version_id":"storyver.sumerian.nanna_journey_etcsl"}
+{"entity_id":"event.sumerian.nanna_journey","notes":"Journey","role":"EVENT","sort_order":40,"story_id":"story.sumerian.nanna_journey","story_version_id":"storyver.sumerian.nanna_journey_etcsl"}
 {"entity_id":"deity.ugaritic.baal","notes":"Derived from an explicitly linked story claim subject.","role":"CHARACTER","sort_order":10,"story_id":"story.ugaritic.baal_mot","story_version_id":"storyver.ugaritic.baal_mot_ktu15_16"}
 {"entity_id":"deity.ugaritic.mot","notes":"Derived from an explicitly linked story claim subject.","role":"CHARACTER","sort_order":10,"story_id":"story.ugaritic.baal_mot","story_version_id":"storyver.ugaritic.baal_mot_ktu15_16"}
 {"entity_id":"deity.ugaritic.anat","notes":"Derived from an explicitly linked story claim subject.","role":"CHARACTER","sort_order":10,"story_id":"story.ugaritic.baal_mot","story_version_id":"storyver.ugaritic.baal_mot_ktu15_16"}
@@ -181,3 +309,11 @@
 {"entity_id":"deity.vedic.tvastr","notes":"Derived from an explicitly linked story claim subject.","role":"CHARACTER","sort_order":10,"story_id":"story.vedic.indra_vritra","story_version_id":"storyver.vedic.indra_vritra_rv132"}
 {"entity_id":"weapon.vedic.vajra","notes":"Derived from an explicitly linked story claim subject.","role":"ARTIFACT","sort_order":10,"story_id":"story.vedic.indra_vritra","story_version_id":"storyver.vedic.indra_vritra_rv132"}
 {"entity_id":"text.vedic.rigveda","notes":"Derived from an explicitly linked story claim object.","role":"RELATED","sort_order":20,"story_id":"story.vedic.indra_vritra","story_version_id":"storyver.vedic.indra_vritra_rv132"}
+{"entity_id":"deity.zoroastrian.mithra","notes":"Lord of wide pastures","role":"CHARACTER","sort_order":10,"story_id":"story.zoroastrian.mihr_yasht","story_version_id":"storyver.zoroastrian.mihr_yasht_darmesteter"}
+{"entity_id":"deity.zoroastrian.ahura_mazda","notes":"Creator","role":"CHARACTER","sort_order":20,"story_id":"story.zoroastrian.mihr_yasht","story_version_id":"storyver.zoroastrian.mihr_yasht_darmesteter"}
+{"entity_id":"text.zoroastrian.mihr_yasht","notes":"Hymn","role":"TEXT","sort_order":30,"story_id":"story.zoroastrian.mihr_yasht","story_version_id":"storyver.zoroastrian.mihr_yasht_darmesteter"}
+{"entity_id":"deity.zoroastrian.ahura_mazda","notes":"Creator","role":"CHARACTER","sort_order":10,"story_id":"story.zoroastrian.sixteen_lands","story_version_id":"storyver.zoroastrian.vd1_darmesteter"}
+{"entity_id":"being.zoroastrian.angra_mainyu","notes":"Counter-creator","role":"CHARACTER","sort_order":20,"story_id":"story.zoroastrian.sixteen_lands","story_version_id":"storyver.zoroastrian.vd1_darmesteter"}
+{"entity_id":"place.zoroastrian.airyana_vaejah","notes":"First land","role":"PLACE","sort_order":30,"story_id":"story.zoroastrian.sixteen_lands","story_version_id":"storyver.zoroastrian.vd1_darmesteter"}
+{"entity_id":"event.zoroastrian.sixteen_lands","notes":"Creation and counter-creation","role":"EVENT","sort_order":40,"story_id":"story.zoroastrian.sixteen_lands","story_version_id":"storyver.zoroastrian.vd1_darmesteter"}
+{"entity_id":"text.zoroastrian.videvdad_fargard1","notes":"Chapter","role":"TEXT","sort_order":50,"story_id":"story.zoroastrian.sixteen_lands","story_version_id":"storyver.zoroastrian.vd1_darmesteter"}

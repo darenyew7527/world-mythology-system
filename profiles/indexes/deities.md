@@ -105,6 +105,7 @@
 | deity.japanese.honoikazuchi_otokuni | 火雷神（乙训传统） | Honoikazuchi (Otokuni tradition) | DEITY | 日本神道 | PARTIAL | SOURCE_BACKED |
 | deity.japanese.izanagi | 伊邪那岐 | Izanagi | DEITY | 日本神道 | PARTIAL | UNVERIFIED |
 | deity.japanese.izanami | 伊邪那美 | Izanami | DEITY | 日本神道 | PARTIAL | UNVERIFIED |
+| deity.japanese.kagutsuchi | 火之迦具土神 | Kagutsuchi (Deity of Fire) | DEITY | 日本神道 | PARTIAL | SOURCE_BACKED |
 | deity.japanese.kamo_taketsunumi | 贺茂建角身命 | Kamo Taketsunumi no Mikoto | DEITY | 日本神道 | PARTIAL | SOURCE_BACKED |
 | deity.japanese.kamo_wakeikazuchi | 贺茂别雷大神 | Kamo Wakeikazuchi no Okami | DEITY | 日本神道 | PARTIAL | SOURCE_BACKED |
 | deity.japanese.karaijin | 加雷神／地方雷神 | Karaijin | DEITY | 日本神道 | PARTIAL | SOURCE_BACKED |
@@ -122,6 +123,8 @@
 | deity.maya.chaac | 恰克 | Chaac | DEITY | 玛雅 | PARTIAL | UNVERIFIED |
 | deity.maya.itzamna | 伊察姆纳 | Itzamna | DEITY | 玛雅 | PARTIAL | UNVERIFIED |
 | deity.maya.kukulkan | 库库尔坎 | Kukulkan | DEITY | 玛雅 | PARTIAL | UNVERIFIED |
+| deity.mexica.coatlicue | 科阿特利库埃 | Coatlicue | DEITY | 墨西卡 | PARTIAL | SOURCE_BACKED |
+| deity.mexica.coyolxauhqui | 科约尔沙乌基 | Coyolxauhqui | DEITY | 墨西卡 | PARTIAL | SOURCE_BACKED |
 | deity.mexica.huitzilopochtli | 维齐洛波奇特利 | Huitzilopochtli | DEITY | 墨西卡 | PARTIAL | UNVERIFIED |
 | deity.mexica.quetzalcoatl | 羽蛇神 | Quetzalcoatl | DEITY | 墨西卡 | PARTIAL | UNVERIFIED |
 | deity.mexica.tezcatlipoca | 特斯卡特利波卡 | Tezcatlipoca | DEITY | 墨西卡 | PARTIAL | UNVERIFIED |

@@ -22,5 +22,7 @@
   - 来源：[Māori creation traditions](https://teara.govt.nz/en/maori-creation-traditions)；定位：Public authority or named curated synthesis; access policy adds a precautionary project rule
 - `claim.v0230.maori_many` [VERIFIED / IN_TRADITION / 0.99] Te Ara states that Māori have many creation traditions and that tribes tell different versions.
   - 来源：[Māori creation traditions](https://teara.govt.nz/en/maori-creation-traditions)；定位：Public authority or named curated synthesis; access policy adds a precautionary project rule
+- `claim.v0310.maori.genealogy_explains` [VERIFIED / IN_TRADITION / 0.88] Te Ara says weaving these atua into a genealogy is the traditional Māori way of explaining the natural world.
+  - 来源：[Māori creation traditions](https://teara.govt.nz/en/maori-creation-traditions)；定位：Page 1 — Common threads in creation stories
 
 > 本档案只代表当前阶段性基线，不是对该传统的最终或唯一解释。

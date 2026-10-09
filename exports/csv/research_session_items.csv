@@ -542,3 +542,36 @@ session.20261002.v0300_batch2,SOURCE_AUDIT,storytarget.v0300.02.khmer,BOUNDARY,A
 session.20261002.v0300_batch2,PERMISSION_REVIEW,storytarget.v0300.02.maori,BLOCK,No named iwi/hapū publication and scoped authority yet.
 session.20261002.v0300_batch2,PERMISSION_REVIEW,storytarget.v0300.02.yoruba,BLOCK,Safeguarding metadata is not permission to collect restricted Ifá content.
 session.20261002.v0300_batch2,RELEASE,release.v0.30.0,SEAL,"Formal staged checkpoint preserves four completed, two queued and two permission-blocked batch-2 targets."
+session.20261009.v0310_deity_stories,STORY,story.egyptian.heliopolitan_family,CREATE,From Atum to Horus — a family of Egyptian gods
+session.20261009.v0310_deity_stories,STORY,story.egyptian.heavenly_cow,CREATE,The Eye of Ra becomes Sekhmet — Tale of the Heavenly Cow
+session.20261009.v0310_deity_stories,STORY,story.egyptian.weighing_heart_ani,CREATE,Weighing the heart — Anubis and Thoth in the Papyrus of Ani
+session.20261009.v0310_deity_stories,STORY,story.egyptian.mourning_sisters,CREATE,Two mourning goddesses — Isis and Nephthys
+session.20261009.v0310_deity_stories,STORY,story.japanese.izanagi_izanami,CREATE,"Izanagi and Izanami — making the land, Yomi and purification"
+session.20261009.v0310_deity_stories,STORY,story.norse.vanir_family,CREATE,"Njörðr, Freyr and Freyja — the Vanir family"
+session.20261009.v0310_deity_stories,STORY,story.norse.tyr_fenrir,CREATE,Týr's hand and the binding of Fenrir
+session.20261009.v0310_deity_stories,STORY,story.norse.heimdall_watchman,CREATE,"Heimdallr, watchman of the gods"
+session.20261009.v0310_deity_stories,STORY,story.norse.ymir_world,CREATE,Ymir and the shaping of the world
+session.20261009.v0310_deity_stories,STORY,story.norse.frigg_baldr,CREATE,Frigg's oaths and the death of Baldr
+session.20261009.v0310_deity_stories,STORY,story.mexica.birth_huitzilopochtli,CREATE,The birth of Huitzilopochtli on Serpent Mountain
+session.20261009.v0310_deity_stories,STORY,story.mexica.quetzalcoatl_tollan,CREATE,Quetzalcoatl and Titlacauan at Tollan
+session.20261009.v0310_deity_stories,STORY,story.mexica.templo_mayor_twin_shrines,CREATE,Two gods on one pyramid — the Templo Mayor
+session.20261009.v0310_deity_stories,STORY,story.maya.divine_images,CREATE,"Three Maya gods in stone, clay and glyph"
+session.20261009.v0310_deity_stories,STORY,story.sumerian.enki_ninhursag,CREATE,Enki and Ninhursaĝa in Dilmun
+session.20261009.v0310_deity_stories,STORY,story.sumerian.nanna_journey,CREATE,Nanna-Suen sails to Nibru
+session.20261009.v0310_deity_stories,STORY,story.sumerian.gilgamesh_huwawa_utu,CREATE,Utu helps Gilgameš set out against Ḫuwawa
+session.20261009.v0310_deity_stories,STORY,story.chinese.fuxi_eight_trigrams,CREATE,Fuxi makes the eight trigrams
+session.20261009.v0310_deity_stories,STORY,story.chinese.huangdi_chiyou,CREATE,The Yellow Emperor and Chiyou at Zhuolu
+session.20261009.v0310_deity_stories,STORY,story.chinese.pangu_sanwu_liji,CREATE,Pangu between heaven and earth
+session.20261009.v0310_deity_stories,STORY,story.chinese.nezha_wukong,CREATE,"Nezha against Sun Wukong (Journey to the West, ch. 4)"
+session.20261009.v0310_deity_stories,STORY,story.irish.second_battle_mag_tuired,CREATE,The Second Battle of Mag Tuired
+session.20261009.v0310_deity_stories,STORY,story.slavic.kyiv_idols,CREATE,The idols on the Kyiv hill — Perun and Mokosh
+session.20261009.v0310_deity_stories,STORY,story.zoroastrian.mihr_yasht,CREATE,Mithra of the wide pastures — the Mihr Yasht
+session.20261009.v0310_deity_stories,STORY,story.zoroastrian.sixteen_lands,CREATE,Sixteen good lands and their plagues — Videvdad 1
+session.20261009.v0310_deity_stories,STORY,story.hawaiian.pele_journey,CREATE,Pele's journey to Halemaʻumaʻu
+session.20261009.v0310_deity_stories,STORY_VERSION,storyver.maori.creation_common_threads,CREATE,Te Ara common-threads version (attribution required).
+session.20261009.v0310_deity_stories,ACCESS_POLICY,policy.v0310.hawaii.pele_public,CREATE,ATTRIBUTION_REQUIRED
+session.20261009.v0310_deity_stories,ACCESS_POLICY,policy.v0310.oshun.public_heritage,CREATE,PUBLIC_CONTEXT
+session.20261009.v0310_deity_stories,ACCESS_POLICY,policy.v0310.oshun.living_practice,CREATE,PERMISSION_REQUIRED
+session.20261009.v0310_deity_stories,ACCESS_POLICY,policy.v0310.ogun.permission,CREATE,PERMISSION_REQUIRED
+session.20261009.v0310_deity_stories,ACCESS_POLICY,policy.v0310.olodumare.permission,CREATE,PERMISSION_REQUIRED
+session.20261009.v0310_deity_stories,RELEASE,release.v0.31.0,SEAL,Formal staged checkpoint: 27 completed story targets and one permission-blocked Yorùbá review.

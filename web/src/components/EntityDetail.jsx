@@ -152,6 +152,47 @@ function ConflictRegister({ conflicts, copy, language }) {
   )
 }
 
+const cardCopy = {
+  zh: {
+    title: '神祇故事卡',
+    tell: '▶ 讲故事',
+    full: '阅读完整故事',
+    beats: '段可讲述',
+    status: { STORY_LINKED: '完整故事', CLAIM_CARD: '证据卡', PERMISSION_LIMITED: '需社区授权', PENDING_SOURCES: '待补来源' },
+  },
+  en: {
+    title: 'Deity story card',
+    tell: '▶ Tell the story',
+    full: 'Read the full story',
+    beats: 'beats to tell',
+    status: { STORY_LINKED: 'Full story', CLAIM_CARD: 'Evidence card', PERMISSION_LIMITED: 'Permission required', PENDING_SOURCES: 'Awaiting sources' },
+  },
+}
+
+function DeityStoryCard({ card, language, onOpenStory, onTell }) {
+  const copy = cardCopy[language] || cardCopy.zh
+  const hook = language === 'zh' ? card.hookZh || card.hookEn : card.hookEn || card.hookZh
+  const boundary = card.boundary && (language === 'zh' ? card.boundary.textZh : card.boundary.textEn)
+  return (
+    <section className="detail-story-card" data-status={card.status}>
+      <header>
+        <h2>{copy.title}</h2>
+        <span className="deity-badge" data-status={card.status}>{copy.status[card.status] || card.status}</span>
+      </header>
+      {hook && <p>{hook}</p>}
+      {boundary && <p className="deity-boundary">{boundary}</p>}
+      <footer>
+        {card.beats.length > 0 && (
+          <button className="deity-tell" type="button" onClick={() => onTell(card.entityId)}>
+            {copy.tell}<small>{card.beats.length} {copy.beats}</small>
+          </button>
+        )}
+        {card.primaryStoryId && <button type="button" onClick={() => onOpenStory(card.primaryStoryId)}>{copy.full}</button>}
+      </footer>
+    </section>
+  )
+}
+
 export default function EntityDetail({
   copy,
   entity,
@@ -161,6 +202,8 @@ export default function EntityDetail({
   onNavigate,
   onOpenStory,
   onSelect,
+  onTell,
+  storyCard,
 }) {
   const [tab, setTab] = useState('overview')
   const [copied, setCopied] = useState(false)
@@ -248,6 +291,7 @@ export default function EntityDetail({
       <div className="detail-scroll">
         {tab === 'overview' && (
           <div className="overview-layout">
+            {storyCard && <DeityStoryCard card={storyCard} language={language} onOpenStory={onOpenStory} onTell={onTell} />}
             <ConflictRegister conflicts={entity.conflicts} copy={copy} language={language} />
             <section className="basic-information">
               <h2>{copy.basicInformation}</h2>

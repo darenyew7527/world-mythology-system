@@ -219,6 +219,7 @@ When the asuras snatch the amṛta, Viṣṇu becomes Mohinī, captivates them a
 - `claim.v0300.churn.shiva_drinks_poison` [VERIFIED / TEXT_SAYS] In the Bhāgavata Purāṇa witness the churning first produces a terrible poison, which Śiva drinks. — Bhāgavatapurāṇa (GRETIL e-text)
 - `claim.v0300.churn.vasuki_rope` [VERIFIED / TEXT_SAYS] The nāga Vāsuki serves as the churning rope in both registered witnesses. — Bhāgavatapurāṇa (GRETIL e-text),Mahābhārata, Ādiparvan (critical-edition e-text)
 - `claim.v0300.churn.vishnu_participates` [VERIFIED / TEXT_SAYS] Viṣṇu (also called Nārāyaṇa in the epic witness) takes part in the churning narrative in both registered witnesses. — Bhāgavatapurāṇa (GRETIL e-text),Mahābhārata, Ādiparvan (critical-edition e-text)
+- `claim.v0310.hindu.brahma_churning` [VERIFIED / TEXT_SAYS] In Bhāgavata Purāṇa 8.5 the distressed gods go to Brahmā, who leads them to the Lord Ajita (Viṣṇu) and praises him; the churning follows in 8.6–8.9. — Bhāgavatapurāṇa (GRETIL e-text)
 - `claim.v0300.churn.kurma_supports` [VERIFIED / TEXT_SAYS] In the Bhāgavata Purāṇa witness Viṣṇu, in the form of a giant tortoise, raises Mount Mandara on his back. — Bhāgavatapurāṇa (GRETIL e-text)
 
 ### 连接实体
@@ -231,6 +232,7 @@ When the asuras snatch the amṛta, Viṣṇu becomes Mohinī, captivates them a
 - `CHARACTER` 檀文陀利 (`deity.hindu.dhanvantari`)
 - `ARTIFACT` 甘露（阿姆利塔） (`artifact.hindu.amrita`)
 - `CHARACTER` 摩希尼 (`deity.hindu.mohini`)
+- `RELATED` 梵天 (`deity.hindu.brahma`)
 - `CHARACTER` 罗睺 (`demon.hindu.rahu`)
 - `EVENT` 乳海搅拌（文本叙事） (`event.hindu.samudra_manthana`)
 - `TEXT` 《薄伽梵往世书》第八篇第5–9章搅海见证 (`text.hindu.bhagavata_purana.skandha8_churning`)

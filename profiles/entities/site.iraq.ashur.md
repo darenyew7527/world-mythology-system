@@ -14,7 +14,9 @@
 
 ## 关系网络
 
-当前无关系边；保留为研究缺口。
+| Relation | Target | Review / layer | Evidence | Confidence | Direction |
+|---|---|---|---:|---:|---|
+| `SITE_OF_WORSHIP_FOR` | 阿舒尔 (`deity.assyrian.ashur`) | VERIFIED / HISTORICAL_REALITY / RITUAL_PRACTICE | 1 | 0.93 | inferred inverse; `claim.v0310.assyria.ashur_city` |
 
 ## Claims 与证据
 

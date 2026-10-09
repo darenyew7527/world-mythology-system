@@ -5,6 +5,7 @@ const messages = {
     nav: {
       explore: '探索',
       stories: '神话故事',
+      deities: '神祇故事',
       workbench: '证据工作台',
       graph: '关系图谱',
       thunder: '神祇对照',
@@ -144,6 +145,7 @@ const messages = {
     nav: {
       explore: 'Explore',
       stories: 'Stories',
+      deities: 'Deity stories',
       workbench: 'Evidence Workbench',
       graph: 'Knowledge Graph',
       thunder: 'Comparisons',

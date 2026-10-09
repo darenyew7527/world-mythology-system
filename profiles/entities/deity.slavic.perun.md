@@ -21,11 +21,17 @@
 | Relation | Target | Review / layer | Evidence | Confidence | Direction |
 |---|---|---|---:|---:|---|
 | `APPEARS_IN` | 往年纪事 (`text.slavic.primary_chronicle`) | VERIFIED / TEXT_SAYS / TEXTUAL_WITNESS | 1 | 0.99 | stored claim; `claim.v060.slavic.perun_appears_pvl` |
+| `ASSOCIATED_WITH` | 988 年推倒基辅神像 (`event.slavic.idols_cast_down_988`) | VERIFIED / TEXT_SAYS / TEXTUAL_WITNESS | 1 | 0.90 | stored claim; `claim.v0310.slavic.perun_cast_down` |
 | `ASSOCIATED_WITH` | 雷 (`concept.comparative.thunder`) | VERIFIED / SCHOLARLY_INTERPRETATION / SCHOLARLY_INTERPRETATION | 1 | 0.94 | stored claim; `claim.v060.slavic.perun_thunder_scope` |
+| `ASSOCIATED_WITH` | 980 年基辅山岗神像 (`event.slavic.kyiv_idols_980`) | VERIFIED / TEXT_SAYS / RITUAL_PRACTICE | 1 | 0.92 | stored claim; `claim.v0310.slavic.perun_idol_980` |
 | `CO_INVOKED_WITH` | 维列斯 (`deity.slavic.veles`) | VERIFIED / TEXT_SAYS / RITUAL_PRACTICE | 1 | 0.97 | stored claim; `claim.v060.slavic.perun_coinvoked_veles` |
 
 ## Claims 与证据
 
+- `claim.v0310.slavic.perun_cast_down` [VERIFIED / TEXT_SAYS / 0.90] In 988 Volodimer orders the idols overthrown; Perun's image is tied to a horse's tail, beaten with sticks, dragged down the hill and thrown into the Dnieper.
+  - 来源：[Tale of Bygone Years digital critical edition](https://pvl.obdurodon.org/)；定位：annal 988 (overthrow of the idols)
+- `claim.v0310.slavic.perun_idol_980` [VERIFIED / TEXT_SAYS / 0.92] Perun heads the 980 list of idols on the Kyiv hill.
+  - 来源：[Tale of Bygone Years digital critical edition](https://pvl.obdurodon.org/)；定位：annal 980 (list of idols)
 - `claim.v060.slavic.perun_980_image` [VERIFIED / TEXT_SAYS / 0.98] The 980 annal describes a wooden Perun idol with a silver head and golden moustache on the Kyiv hill.
   - 来源：[Tale of Bygone Years digital critical edition](https://pvl.obdurodon.org/)；定位：annal 980
 - `claim.v060.slavic.perun_appears_pvl` [VERIFIED / TEXT_SAYS / 0.99] The Primary Chronicle names Perun in treaty-oath entries and in the 980 and 988 Kyiv idol episodes.

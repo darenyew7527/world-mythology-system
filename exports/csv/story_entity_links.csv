@@ -6,6 +6,10 @@ story.akkadian.anzu_tablet,storyver.akkadian.anzu_oracc,artifact.mesopotamian.ta
 story.babylonian.marduk_tiamat,storyver.babylonian.enuma_elish,deity.babylonian.marduk,CHARACTER,10,Derived from an explicitly linked story claim subject.
 story.babylonian.marduk_tiamat,storyver.babylonian.enuma_elish,deity.babylonian.tiamat,CHARACTER,10,Derived from an explicitly linked story claim subject.
 story.babylonian.marduk_tiamat,storyver.babylonian.enuma_elish,event.babylonian.marduk_tiamat,EVENT,20,Derived from an explicitly linked story claim object.
+story.chinese.fuxi_eight_trigrams,storyver.chinese.fuxi_xici,deity.chinese.fu_xi,CHARACTER,10,Sage ruler
+story.chinese.fuxi_eight_trigrams,storyver.chinese.fuxi_xici,concept.chinese.bagua,RELATED,20,Eight trigrams
+story.chinese.fuxi_eight_trigrams,storyver.chinese.fuxi_xici,text.chinese.zhouyi_xici,TEXT,30,Witness
+story.chinese.fuxi_eight_trigrams,storyver.chinese.fuxi_xici,event.chinese.fuxi_makes_trigrams,EVENT,40,Invention
 story.chinese.gonggong_buzhou,storyver.chinese.gonggong_huainanzi_tianwen,deity.chinese.gonggong,CHARACTER,10,Actor.
 story.chinese.gonggong_buzhou,storyver.chinese.gonggong_huainanzi_tianwen,hero.chinese.zhuanxu,CHARACTER,20,Rival for rulership.
 story.chinese.gonggong_buzhou,storyver.chinese.gonggong_huainanzi_tianwen,place.chinese.buzhou_mountain,PLACE,30,Mythic mountain; no coordinate.
@@ -18,9 +22,17 @@ story.chinese.gonggong_buzhou,storyver.chinese.gonggong_liezi_tangwen,place.chin
 story.chinese.gonggong_buzhou,storyver.chinese.gonggong_liezi_tangwen,event.chinese.gonggong_strikes_buzhou,EVENT,40,Textual event.
 story.chinese.gonggong_buzhou,storyver.chinese.gonggong_liezi_tangwen,deity.chinese.nu_wa,CHARACTER,50,Preceding episode in this witness.
 story.chinese.gonggong_buzhou,storyver.chinese.gonggong_liezi_tangwen,text.chinese.liezi.tangwen_nuwa_gonggong_passage,TEXT,60,Passage witness.
+story.chinese.huangdi_chiyou,storyver.chinese.zhuolu_shiji,hero.chinese.yellow_emperor,CHARACTER,10,Xuanyuan
+story.chinese.huangdi_chiyou,storyver.chinese.zhuolu_shiji,hero.chinese.chiyou,CHARACTER,20,Rebel
+story.chinese.huangdi_chiyou,storyver.chinese.zhuolu_shiji,event.chinese.battle_of_zhuolu,EVENT,30,Battle
+story.chinese.huangdi_chiyou,storyver.chinese.zhuolu_shiji,text.chinese.shiji_ancient,TEXT,40,Witness
 story.chinese.leize_thunder,storyver.chinese.leize_shanhaijing,deity.chinese.leize_thunder_spirit,CHARACTER,10,Derived from an explicitly linked story claim subject.
 story.chinese.leize_thunder,storyver.chinese.leize_shanhaijing,concept.comparative.thunder,RELATED,20,Derived from an explicitly linked story claim object.
 story.chinese.leize_thunder,storyver.chinese.leize_shanhaijing,text.chinese.shanhaijing,TEXT,20,Derived from an explicitly linked story claim object.
+story.chinese.nezha_wukong,storyver.chinese.nezha_xiyouji_ch4,deity.chinese.nezha,CHARACTER,10,Third prince
+story.chinese.nezha_wukong,storyver.chinese.nezha_xiyouji_ch4,hero.chinese.sun_wukong,CHARACTER,20,Great Sage
+story.chinese.nezha_wukong,storyver.chinese.nezha_xiyouji_ch4,event.chinese.nezha_fights_wukong,EVENT,30,Combat
+story.chinese.nezha_wukong,storyver.chinese.nezha_xiyouji_ch4,text.chinese.xiyouji,TEXT,40,Novel
 story.chinese.nuwa_repairs_sky,storyver.chinese.nuwa_huainanzi_lanming,deity.chinese.nu_wa,CHARACTER,10,Actor of the repair.
 story.chinese.nuwa_repairs_sky,storyver.chinese.nuwa_huainanzi_lanming,artifact.chinese.five_colored_stones,ARTIFACT,20,Refined to patch the sky.
 story.chinese.nuwa_repairs_sky,storyver.chinese.nuwa_huainanzi_lanming,creature.chinese.ao_turtle,CHARACTER,30,Legs set up as the four poles.
@@ -36,6 +48,30 @@ story.chinese.nuwa_repairs_sky,storyver.chinese.nuwa_liezi_tangwen,event.chinese
 story.chinese.nuwa_repairs_sky,storyver.chinese.nuwa_liezi_tangwen,event.chinese.gonggong_strikes_buzhou,EVENT,60,Following event in this witness.
 story.chinese.nuwa_repairs_sky,storyver.chinese.nuwa_liezi_tangwen,text.chinese.liezi.tangwen_nuwa_gonggong_passage,TEXT,70,Passage witness.
 story.chinese.nuwa_repairs_sky,storyver.chinese.nuwa_liezi_tangwen,text.chinese.liezi,TEXT,80,Parent text.
+story.chinese.pangu_sanwu_liji,storyver.chinese.pangu_yiwen_leiju,being.chinese.pangu,CHARACTER,10,Primordial being
+story.chinese.pangu_sanwu_liji,storyver.chinese.pangu_yiwen_leiju,text.chinese.sanwu_liji,TEXT,20,Lost source
+story.chinese.pangu_sanwu_liji,storyver.chinese.pangu_yiwen_leiju,event.chinese.pangu_heaven_earth,EVENT,30,Separation
+story.egyptian.heavenly_cow,storyver.egyptian.heavenly_cow_ucl,deity.egyptian.ra,CHARACTER,10,Sun-god
+story.egyptian.heavenly_cow,storyver.egyptian.heavenly_cow_ucl,deity.egyptian.sekhmet,CHARACTER,20,Eye of Ra
+story.egyptian.heavenly_cow,storyver.egyptian.heavenly_cow_ucl,deity.egyptian.hathor,CHARACTER,30,Gentle form
+story.egyptian.heavenly_cow,storyver.egyptian.heavenly_cow_ucl,text.egyptian.tale_heavenly_cow,TEXT,40,Composition
+story.egyptian.heavenly_cow,storyver.egyptian.heavenly_cow_ucl,event.egyptian.heavenly_cow_punishment,EVENT,50,Punishment
+story.egyptian.heliopolitan_family,storyver.egyptian.heliopolis_ucl,deity.egyptian.atum,CHARACTER,10,Creator
+story.egyptian.heliopolitan_family,storyver.egyptian.heliopolis_ucl,deity.egyptian.shu,CHARACTER,20,First son
+story.egyptian.heliopolitan_family,storyver.egyptian.heliopolis_ucl,deity.egyptian.tefnut,CHARACTER,30,First daughter
+story.egyptian.heliopolitan_family,storyver.egyptian.heliopolis_ucl,deity.egyptian.geb,CHARACTER,40,Earth
+story.egyptian.heliopolitan_family,storyver.egyptian.heliopolis_ucl,deity.egyptian.nut,CHARACTER,50,Sky
+story.egyptian.heliopolitan_family,storyver.egyptian.heliopolis_ucl,deity.egyptian.osiris,CHARACTER,60,Murdered king
+story.egyptian.heliopolitan_family,storyver.egyptian.heliopolis_ucl,deity.egyptian.seth,CHARACTER,70,Murderer
+story.egyptian.heliopolitan_family,storyver.egyptian.heliopolis_ucl,deity.egyptian.isis,CHARACTER,80,Restorer
+story.egyptian.heliopolitan_family,storyver.egyptian.heliopolis_ucl,deity.egyptian.horus,CHARACTER,90,Child
+story.egyptian.heliopolitan_family,storyver.egyptian.heliopolis_ucl,event.egyptian.separation_geb_nut,EVENT,100,Separation
+story.egyptian.heliopolitan_family,storyver.egyptian.heliopolis_ucl,event.egyptian.osiris_murder_restoration,EVENT,110,Osiris cycle
+story.egyptian.mourning_sisters,storyver.egyptian.mourning_sisters_met,deity.egyptian.nephthys,CHARACTER,10,Mourner
+story.egyptian.mourning_sisters,storyver.egyptian.mourning_sisters_met,deity.egyptian.isis,CHARACTER,20,Mourner
+story.egyptian.mourning_sisters,storyver.egyptian.mourning_sisters_met,deity.egyptian.osiris,CHARACTER,30,Mourned
+story.egyptian.mourning_sisters,storyver.egyptian.mourning_sisters_met,museum.egypt.mourning_nephthys_met,ARTIFACT,40,Figure
+story.egyptian.mourning_sisters,storyver.egyptian.mourning_sisters_met,museum.egypt.mourning_isis_met,ARTIFACT,50,Figure
 story.egyptian.opet_procession,storyver.egyptian.opet_mota,festival.egyptian.opet,EVENT,1,Festival dossier.
 story.egyptian.opet_procession,storyver.egyptian.opet_mota,group.egyptian.theban_triad,CHARACTER_GROUP,2,Cult-image group in the official record.
 story.egyptian.opet_procession,storyver.egyptian.opet_mota,site.egypt.karnak,PLACE,10,Public departure setting.
@@ -45,6 +81,11 @@ story.egyptian.solar_night,storyver.egyptian.solar_met,event.egyptian.nocturnal_
 story.egyptian.solar_night,storyver.egyptian.solar_met,deity.egyptian.ra,CHARACTER,10,Derived from an explicitly linked story claim subject.
 story.egyptian.solar_night,storyver.egyptian.solar_met,text.egypt.amduat,TEXT,20,Derived from an explicitly linked story claim object.
 story.egyptian.solar_night,storyver.egyptian.solar_met,artifact.egyptian.solar_barque,RELATED,20,Derived from an explicitly linked story claim object.
+story.egyptian.weighing_heart_ani,storyver.egyptian.weighing_ani_bm,museum.egypt.papyrus_ani_frame3,ARTIFACT,10,Papyrus frame
+story.egyptian.weighing_heart_ani,storyver.egyptian.weighing_ani_bm,deity.egyptian.anubis,CHARACTER,20,Tends the balance
+story.egyptian.weighing_heart_ani,storyver.egyptian.weighing_ani_bm,deity.egyptian.thoth,CHARACTER,30,Scribe
+story.egyptian.weighing_heart_ani,storyver.egyptian.weighing_ani_bm,deity.egyptian.ma_at,CHARACTER,40,Feather
+story.egyptian.weighing_heart_ani,storyver.egyptian.weighing_ani_bm,event.egyptian.weighing_heart_ani,EVENT,50,Weighing
 story.greek.aphrodite_origins,storyver.greek.aphrodite_theogony,deity.greek.aphrodite,CHARACTER,10,Derived from an explicitly linked story claim subject.
 story.greek.aphrodite_origins,storyver.greek.aphrodite_iliad,deity.greek.aphrodite,CHARACTER,10,Derived from an explicitly linked story claim subject.
 story.greek.aphrodite_origins,storyver.greek.aphrodite_iliad,deity.greek.dione,CHARACTER,10,Derived from an explicitly linked story claim subject.
@@ -78,6 +119,9 @@ story.greek.zeus_typhon,storyver.greek.typhon_theogony,deity.greek.zeus,CHARACTE
 story.greek.zeus_typhon,storyver.greek.typhon_theogony,deity.greek.gaia,CHARACTER,20,Derived from an explicitly linked story claim object.
 story.greek.zeus_typhon,storyver.greek.typhon_theogony,realm.greek.tartarus,RELATED,20,Derived from an explicitly linked story claim object.
 story.greek.zeus_typhon,storyver.greek.typhon_theogony,event.greek.zeus_typhon_battle,EVENT,20,Derived from an explicitly linked story claim object.
+story.hawaiian.pele_journey,storyver.hawaiian.pele_nps,deity.hawaiian.pele,CHARACTER,10,Volcano deity
+story.hawaiian.pele_journey,storyver.hawaiian.pele_nps,site.hawaii.halemaumau,PLACE,20,Home
+story.hawaiian.pele_journey,storyver.hawaiian.pele_nps,event.hawaiian.pele_journey,EVENT,30,Journey
 story.hindu.samudra_manthana_texts,storyver.hindu.churning_mbh_ce,deity.hindu.vishnu,CHARACTER,10,Nārāyaṇa in the epic witness.
 story.hindu.samudra_manthana_texts,storyver.hindu.churning_mbh_ce,place.hindu.mandara,PLACE,20,Churning rod; no coordinate.
 story.hindu.samudra_manthana_texts,storyver.hindu.churning_mbh_ce,creature.hindu.vasuki,CHARACTER,30,Churning rope.
@@ -101,6 +145,15 @@ story.hindu.samudra_manthana_texts,storyver.hindu.churning_bhagavata,demon.hindu
 story.hindu.samudra_manthana_texts,storyver.hindu.churning_bhagavata,event.hindu.samudra_manthana,EVENT,100,Textual event.
 story.hindu.samudra_manthana_texts,storyver.hindu.churning_bhagavata,text.hindu.bhagavata_purana.skandha8_churning,TEXT,110,Passage witness.
 story.hindu.samudra_manthana_texts,storyver.hindu.churning_bhagavata,text.hindu.bhagavata_purana,TEXT,120,Parent Purāṇa.
+story.hindu.samudra_manthana_texts,storyver.hindu.churning_bhagavata,deity.hindu.brahma,RELATED,90,Leads the gods to Viṣṇu before the churning (BhP 8.5).
+story.irish.second_battle_mag_tuired,storyver.irish.mag_tuired_gray,deity.irish.dagda,CHARACTER,10,Owner of the cauldron
+story.irish.second_battle_mag_tuired,storyver.irish.mag_tuired_gray,deity.irish.lugh,CHARACTER,20,Samildánach
+story.irish.second_battle_mag_tuired,storyver.irish.mag_tuired_gray,deity.irish.morrigan,CHARACTER,30,Prophetess
+story.irish.second_battle_mag_tuired,storyver.irish.mag_tuired_gray,deity.irish.bridig,CHARACTER,40,Mourning mother
+story.irish.second_battle_mag_tuired,storyver.irish.mag_tuired_gray,being.irish.balor,CHARACTER,50,Fomorian champion
+story.irish.second_battle_mag_tuired,storyver.irish.mag_tuired_gray,artifact.irish.dagda_cauldron,ARTIFACT,60,Treasure
+story.irish.second_battle_mag_tuired,storyver.irish.mag_tuired_gray,event.irish.second_battle_mag_tuired,EVENT,70,Battle
+story.irish.second_battle_mag_tuired,storyver.irish.mag_tuired_gray,text.irish.cath_maige_tuired,TEXT,80,Saga
 story.japanese.eight_thunder_yomi,storyver.japanese.eight_thunder_kojiki,group.japanese.eight_thunder_kami,RELATED,10,Derived from an explicitly linked story claim subject.
 story.japanese.eight_thunder_yomi,storyver.japanese.eight_thunder_kojiki,deity.japanese.ooikazuchi,CHARACTER,10,Derived from an explicitly linked story claim subject.
 story.japanese.eight_thunder_yomi,storyver.japanese.eight_thunder_kojiki,deity.japanese.honoikazuchi,CHARACTER,10,Derived from an explicitly linked story claim subject.
@@ -111,6 +164,18 @@ story.japanese.eight_thunder_yomi,storyver.japanese.eight_thunder_kojiki,deity.j
 story.japanese.eight_thunder_yomi,storyver.japanese.eight_thunder_kojiki,deity.japanese.naruikazuchi,CHARACTER,10,Derived from an explicitly linked story claim subject.
 story.japanese.eight_thunder_yomi,storyver.japanese.eight_thunder_kojiki,deity.japanese.fusuikazuchi,CHARACTER,10,Derived from an explicitly linked story claim subject.
 story.japanese.eight_thunder_yomi,storyver.japanese.eight_thunder_kojiki,text.japanese.kojiki,TEXT,20,Derived from an explicitly linked story claim object.
+story.japanese.izanagi_izanami,storyver.japanese.izanagi_izanami_kojiki,deity.japanese.izanagi,CHARACTER,10,Creator
+story.japanese.izanagi_izanami,storyver.japanese.izanagi_izanami_kojiki,deity.japanese.izanami,CHARACTER,20,Creator
+story.japanese.izanagi_izanami,storyver.japanese.izanagi_izanami_kojiki,deity.japanese.kagutsuchi,CHARACTER,30,Fire deity
+story.japanese.izanagi_izanami,storyver.japanese.izanagi_izanami_kojiki,deity.japanese.amaterasu,CHARACTER,40,Born of the left eye
+story.japanese.izanagi_izanami,storyver.japanese.izanagi_izanami_kojiki,deity.japanese.tsukuyomi,CHARACTER,50,Born of the right eye
+story.japanese.izanagi_izanami,storyver.japanese.izanagi_izanami_kojiki,deity.japanese.susanoo,CHARACTER,60,Born of the nose
+story.japanese.izanagi_izanami,storyver.japanese.izanagi_izanami_kojiki,place.japanese.onogoro,PLACE,70,Island
+story.japanese.izanagi_izanami,storyver.japanese.izanagi_izanami_kojiki,place.japanese.yomi,PLACE,80,Land of the dead
+story.japanese.izanagi_izanami,storyver.japanese.izanagi_izanami_kojiki,event.japanese.onogoro_creation,EVENT,90,Island-making
+story.japanese.izanagi_izanami,storyver.japanese.izanagi_izanami_kojiki,event.japanese.izanagi_visits_yomi,EVENT,100,Yomi
+story.japanese.izanagi_izanami,storyver.japanese.izanagi_izanami_kojiki,event.japanese.izanagi_purification,EVENT,110,Purification
+story.japanese.izanagi_izanami,storyver.japanese.izanagi_izanami_kojiki,text.japanese.kojiki,TEXT,120,Kojiki
 story.japanese.kamo_arrow,storyver.japanese.kamo_fudoki_fragment,text.japan.yamashiro_fudoki_kamo_fragment,TEXT,10,Derived from an explicitly linked story claim subject.
 story.japanese.kamo_arrow,storyver.japanese.kamo_fudoki_fragment,deity.japanese.tamayorihime_kamo,CHARACTER,10,Derived from an explicitly linked story claim subject.
 story.japanese.kamo_arrow,storyver.japanese.kamo_fudoki_fragment,deity.japanese.kamo_taketsunumi,CHARACTER,10,Derived from an explicitly linked story claim subject.
@@ -131,11 +196,37 @@ story.khmer.angkor_wat_churning_relief,storyver.khmer.angkor_churning_apsara,mon
 story.khmer.angkor_wat_churning_relief,storyver.khmer.angkor_churning_apsara,event.khmer.angkor_wat_churning_scene,EVENT,40,Scene as represented by the relief.
 story.maori.creation_many,storyver.maori.creation_teara,text.maori.creation_traditions,RELATED,10,Derived from an explicitly linked story claim subject.
 story.maori.creation_many,storyver.maori.creation_teara,concept.maori.iwi_variant_scope,RELATED,10,Derived from an explicitly linked story claim subject.
+story.maori.creation_many,storyver.maori.creation_common_threads,deity.maori.ranginui,CHARACTER,10,Sky father
+story.maori.creation_many,storyver.maori.creation_common_threads,deity.maori.papatuanuku,CHARACTER,20,Earth mother
+story.maori.creation_many,storyver.maori.creation_common_threads,deity.polynesian.tane,CHARACTER,30,Atua of forests
+story.maori.creation_many,storyver.maori.creation_common_threads,deity.polynesian.tangaroa,CHARACTER,40,Atua of the sea
+story.maori.creation_many,storyver.maori.creation_common_threads,event.maori.separation_rangi_papa,EVENT,50,Separation
+story.maori.creation_many,storyver.maori.creation_common_threads,text.maori.creation_traditions,TEXT,60,Tradition
+story.maya.divine_images,storyver.maya.kukulkan_unesco,deity.maya.kukulkan,CHARACTER,10,Feathered serpent
+story.maya.divine_images,storyver.maya.kukulkan_unesco,monument.maya.el_castillo_chichen,PLACE,20,Pyramid
+story.maya.divine_images,storyver.maya.kukulkan_unesco,site.mexico.chichen_itza,PLACE,30,Real site
+story.maya.divine_images,storyver.maya.kukulkan_unesco,deity.mexica.quetzalcoatl,RELATED,40,Name equivalent
+story.maya.divine_images,storyver.maya.chahk_met,deity.maya.chaac,CHARACTER,10,Rain god
+story.maya.divine_images,storyver.maya.chahk_met,museum.maya.chahk_plate_met,ARTIFACT,20,Plate
+story.maya.divine_images,storyver.maya.itzamnaaj_met,deity.maya.itzamna,CHARACTER,10,Aged god
 story.maya.hero_twins_seven_macaw,storyver.maya.hero_twins_nmai,hero.kiche.hunahpu,CHARACTER,10,Named Hero Twin in the public K'iche'-attributed overview.
 story.maya.hero_twins_seven_macaw,storyver.maya.hero_twins_nmai,hero.kiche.xbalanque,CHARACTER,20,Named Hero Twin in the public K'iche'-attributed overview.
 story.maya.hero_twins_seven_macaw,storyver.maya.hero_twins_nmai,monster.kiche.seven_macaw,CHARACTER,30,Named opponent in the bounded episode.
 story.maya.hero_twins_seven_macaw,storyver.maya.hero_twins_nmai,event.kiche.hero_twins.seven_macaw,EVENT,40,Source-scoped episode.
 story.maya.hero_twins_seven_macaw,storyver.maya.hero_twins_nmai,text.kiche.popol_vuh,TEXT,50,Colonial manuscript catalogue context; not treated as community permission.
+story.mexica.birth_huitzilopochtli,storyver.mexica.coatepec_fc,deity.mexica.coatlicue,CHARACTER,10,Mother
+story.mexica.birth_huitzilopochtli,storyver.mexica.coatepec_fc,deity.mexica.coyolxauhqui,CHARACTER,20,Daughter
+story.mexica.birth_huitzilopochtli,storyver.mexica.coatepec_fc,deity.mexica.huitzilopochtli,CHARACTER,30,Newborn war god
+story.mexica.birth_huitzilopochtli,storyver.mexica.coatepec_fc,place.mexica.coatepec,PLACE,40,Serpent Mountain
+story.mexica.birth_huitzilopochtli,storyver.mexica.coatepec_fc,event.mexica.birth_of_huitzilopochtli,EVENT,50,Birth and battle
+story.mexica.birth_huitzilopochtli,storyver.mexica.coatepec_fc,text.mexica.florentine_codex,TEXT,60,Florentine Codex
+story.mexica.quetzalcoatl_tollan,storyver.mexica.tollan_fc,deity.mexica.quetzalcoatl,CHARACTER,10,Wizard of Tollan
+story.mexica.quetzalcoatl_tollan,storyver.mexica.tollan_fc,deity.mexica.tezcatlipoca,CHARACTER,20,Titlacauan
+story.mexica.quetzalcoatl_tollan,storyver.mexica.tollan_fc,event.mexica.quetzalcoatl_tollan_end,EVENT,30,Downfall
+story.mexica.quetzalcoatl_tollan,storyver.mexica.tollan_fc,text.mexica.florentine_codex,TEXT,40,Florentine Codex
+story.mexica.templo_mayor_twin_shrines,storyver.mexica.templo_mayor_inah,site.mexico.templo_mayor,PLACE,10,Real site
+story.mexica.templo_mayor_twin_shrines,storyver.mexica.templo_mayor_inah,deity.mexica.huitzilopochtli,CHARACTER,20,South shrine
+story.mexica.templo_mayor_twin_shrines,storyver.mexica.templo_mayor_inah,deity.mexica.tlaloc,CHARACTER,30,North shrine
 story.norse.ask_embla,storyver.norse.ask_embla_voluspa,text.norse.voluspa.st17_18,TEXT,10,Derived from an explicitly linked story claim subject.
 story.norse.ask_embla,storyver.norse.ask_embla_gylf,text.norse.gylfaginning.ch8_9,TEXT,10,Derived from an explicitly linked story claim subject.
 story.norse.ask_embla,storyver.norse.ask_embla_voluspa,deity.norse.odin,CHARACTER,20,Derived from an explicitly linked story claim object.
@@ -154,17 +245,54 @@ story.norse.forging_treasures,storyver.norse.forging_skald,weapon.norse.mjolnir,
 story.norse.forging_treasures,storyver.norse.forging_skald,artifact.norse.draupnir,RELATED,20,Derived from an explicitly linked story claim object.
 story.norse.forging_treasures,storyver.norse.forging_skald,creature.norse.gullinbursti,RELATED,20,Derived from an explicitly linked story claim object.
 story.norse.forging_treasures,storyver.norse.forging_skald,event.norse.forging_divine_treasures,EVENT,20,Derived from an explicitly linked story claim object.
+story.norse.frigg_baldr,storyver.norse.frigg_gylf,deity.norse.frigg,CHARACTER,10,Mother
+story.norse.frigg_baldr,storyver.norse.frigg_gylf,deity.norse.baldr,CHARACTER,20,Son
+story.norse.frigg_baldr,storyver.norse.frigg_gylf,deity.norse.odin,CHARACTER,30,Husband
+story.norse.frigg_baldr,storyver.norse.frigg_gylf,event.norse.death_of_baldr,EVENT,40,Death of Baldr
 story.norse.hammer_recovery,storyver.norse.hammer_thrymskvida,deity.norse.loki,CHARACTER,10,Derived from an explicitly linked story claim subject.
 story.norse.hammer_recovery,storyver.norse.hammer_thrymskvida,deity.norse.thor,CHARACTER,10,Derived from an explicitly linked story claim subject.
 story.norse.hammer_recovery,storyver.norse.hammer_thrymskvida,text.norse.thrymskvida,TEXT,20,Derived from an explicitly linked story claim object.
+story.norse.heimdall_watchman,storyver.norse.heimdall_gylf,deity.norse.heimdall,CHARACTER,10,Watchman
+story.norse.heimdall_watchman,storyver.norse.heimdall_gylf,place.norse.himinbjorg,PLACE,20,Dwelling
+story.norse.heimdall_watchman,storyver.norse.heimdall_gylf,artifact.norse.gjallarhorn,ARTIFACT,30,Horn
 story.norse.odin_mimir,storyver.norse.odin_mimir_gylf,being.norse.mimir,CHARACTER,10,Derived from an explicitly linked story claim subject.
 story.norse.odin_mimir,storyver.norse.odin_mimir_gylf,deity.norse.odin,CHARACTER,10,Derived from an explicitly linked story claim subject.
 story.norse.odin_mimir,storyver.norse.odin_mimir_gylf,place.norse.mimisbrunnr,PLACE,20,Derived from an explicitly linked story claim object.
 story.norse.ragnarok,storyver.norse.ragnarok_gylf,creature.norse.fenrir,CHARACTER,10,Derived from an explicitly linked story claim subject.
 story.norse.ragnarok,storyver.norse.ragnarok_gylf,deity.norse.odin,CHARACTER,10,Derived from an explicitly linked story claim subject.
 story.norse.ragnarok,storyver.norse.ragnarok_gylf,event.norse.ragnarok,EVENT,20,Derived from an explicitly linked story claim object.
+story.norse.tyr_fenrir,storyver.norse.tyr_gylf,deity.norse.tyr,CHARACTER,10,Pledge-giver
+story.norse.tyr_fenrir,storyver.norse.tyr_gylf,creature.norse.fenrir,CHARACTER,20,Wolf
+story.norse.tyr_fenrir,storyver.norse.tyr_gylf,event.norse.binding_of_fenrir,EVENT,30,Binding
+story.norse.vanir_family,storyver.norse.vanir_gylf,deity.norse.njord,CHARACTER,10,Father
+story.norse.vanir_family,storyver.norse.vanir_gylf,deity.norse.freyr,CHARACTER,20,Son
+story.norse.vanir_family,storyver.norse.vanir_gylf,deity.norse.freyja,CHARACTER,30,Daughter
+story.norse.vanir_family,storyver.norse.vanir_gylf,place.norse.noatun,PLACE,40,Njörðr's home
+story.norse.vanir_family,storyver.norse.vanir_gylf,place.norse.folkvangr,PLACE,50,Freyja's home
+story.norse.vanir_family,storyver.norse.vanir_gylf,text.norse.gylfaginning,TEXT,60,Gylfaginning
+story.norse.ymir_world,storyver.norse.ymir_gylf,being.norse.ymir,CHARACTER,10,Primordial giant
+story.norse.ymir_world,storyver.norse.ymir_gylf,deity.norse.odin,CHARACTER,20,Slayer
+story.norse.ymir_world,storyver.norse.ymir_gylf,event.norse.slaying_of_ymir,EVENT,30,World-making
+story.slavic.kyiv_idols,storyver.slavic.kyiv_idols_pvl,deity.slavic.perun,CHARACTER,10,Chief idol
+story.slavic.kyiv_idols,storyver.slavic.kyiv_idols_pvl,deity.slavic.mokosh,CHARACTER,20,Named idol
+story.slavic.kyiv_idols,storyver.slavic.kyiv_idols_pvl,event.slavic.kyiv_idols_980,EVENT,30,Idols set up
+story.slavic.kyiv_idols,storyver.slavic.kyiv_idols_pvl,event.slavic.idols_cast_down_988,EVENT,40,Idols cast down
+story.slavic.kyiv_idols,storyver.slavic.kyiv_idols_pvl,text.slavic.primary_chronicle,TEXT,50,Chronicle
+story.sumerian.enki_ninhursag,storyver.sumerian.enki_ninhursag_etcsl,deity.sumerian.enki,CHARACTER,10,Eats the plants
+story.sumerian.enki_ninhursag,storyver.sumerian.enki_ninhursag_etcsl,deity.sumerian.ninhursag,CHARACTER,20,Curses and heals
+story.sumerian.enki_ninhursag,storyver.sumerian.enki_ninhursag_etcsl,place.sumerian.dilmun,PLACE,30,Dilmun
+story.sumerian.enki_ninhursag,storyver.sumerian.enki_ninhursag_etcsl,event.sumerian.enki_ninhursag,EVENT,40,Curse and healing
+story.sumerian.gilgamesh_huwawa_utu,storyver.sumerian.gilgamesh_huwawa_etcsl,hero.sumerian.gilgamesh,CHARACTER,10,Hero
+story.sumerian.gilgamesh_huwawa_utu,storyver.sumerian.gilgamesh_huwawa_etcsl,deity.sumerian.utu,CHARACTER,20,Sun god
+story.sumerian.gilgamesh_huwawa_utu,storyver.sumerian.gilgamesh_huwawa_etcsl,monster.sumerian.huwawa,CHARACTER,30,Guardian
+story.sumerian.gilgamesh_huwawa_utu,storyver.sumerian.gilgamesh_huwawa_etcsl,event.sumerian.gilgamesh_huwawa,EVENT,40,Expedition
+story.sumerian.gilgamesh_huwawa_utu,storyver.sumerian.gilgamesh_huwawa_etcsl,text.mesopotamia.gilgamesh,RELATED,50,"Later epic, kept separate"
 story.sumerian.inanna_descent,storyver.sumerian.inanna_etcsl,deity.sumerian.inanna,CHARACTER,10,Derived from an explicitly linked story claim subject.
 story.sumerian.inanna_descent,storyver.sumerian.inanna_etcsl,event.sumerian.inanna_descent,EVENT,20,Derived from an explicitly linked story claim object.
+story.sumerian.nanna_journey,storyver.sumerian.nanna_journey_etcsl,deity.sumerian.nanna,CHARACTER,10,Moon god
+story.sumerian.nanna_journey,storyver.sumerian.nanna_journey_etcsl,deity.sumerian.enlil,CHARACTER,20,Father
+story.sumerian.nanna_journey,storyver.sumerian.nanna_journey_etcsl,site.iraq.nippur,PLACE,30,Nibru
+story.sumerian.nanna_journey,storyver.sumerian.nanna_journey_etcsl,event.sumerian.nanna_journey,EVENT,40,Journey
 story.ugaritic.baal_mot,storyver.ugaritic.baal_mot_ktu15_16,deity.ugaritic.baal,CHARACTER,10,Derived from an explicitly linked story claim subject.
 story.ugaritic.baal_mot,storyver.ugaritic.baal_mot_ktu15_16,deity.ugaritic.mot,CHARACTER,10,Derived from an explicitly linked story claim subject.
 story.ugaritic.baal_mot,storyver.ugaritic.baal_mot_ktu15_16,deity.ugaritic.anat,CHARACTER,10,Derived from an explicitly linked story claim subject.
@@ -182,3 +310,11 @@ story.vedic.indra_vritra,storyver.vedic.indra_vritra_rv132,event.vedic.indra_vri
 story.vedic.indra_vritra,storyver.vedic.indra_vritra_rv132,deity.vedic.tvastr,CHARACTER,10,Derived from an explicitly linked story claim subject.
 story.vedic.indra_vritra,storyver.vedic.indra_vritra_rv132,weapon.vedic.vajra,ARTIFACT,10,Derived from an explicitly linked story claim subject.
 story.vedic.indra_vritra,storyver.vedic.indra_vritra_rv132,text.vedic.rigveda,RELATED,20,Derived from an explicitly linked story claim object.
+story.zoroastrian.mihr_yasht,storyver.zoroastrian.mihr_yasht_darmesteter,deity.zoroastrian.mithra,CHARACTER,10,Lord of wide pastures
+story.zoroastrian.mihr_yasht,storyver.zoroastrian.mihr_yasht_darmesteter,deity.zoroastrian.ahura_mazda,CHARACTER,20,Creator
+story.zoroastrian.mihr_yasht,storyver.zoroastrian.mihr_yasht_darmesteter,text.zoroastrian.mihr_yasht,TEXT,30,Hymn
+story.zoroastrian.sixteen_lands,storyver.zoroastrian.vd1_darmesteter,deity.zoroastrian.ahura_mazda,CHARACTER,10,Creator
+story.zoroastrian.sixteen_lands,storyver.zoroastrian.vd1_darmesteter,being.zoroastrian.angra_mainyu,CHARACTER,20,Counter-creator
+story.zoroastrian.sixteen_lands,storyver.zoroastrian.vd1_darmesteter,place.zoroastrian.airyana_vaejah,PLACE,30,First land
+story.zoroastrian.sixteen_lands,storyver.zoroastrian.vd1_darmesteter,event.zoroastrian.sixteen_lands,EVENT,40,Creation and counter-creation
+story.zoroastrian.sixteen_lands,storyver.zoroastrian.vd1_darmesteter,text.zoroastrian.videvdad_fargard1,TEXT,50,Chapter

@@ -23,6 +23,7 @@ Textual narrative event registered from separate Mahābhārata critical-edition 
 | `ATTESTED_BY` | 《薄伽梵往世书》第八篇第5–9章搅海见证 (`text.hindu.bhagavata_purana.skandha8_churning`) | VERIFIED / HISTORICAL_REALITY / TEXTUAL_WITNESS | 1 | 0.98 | inferred inverse; `claim.v0300.churn.bhp_witness` |
 | `ATTESTED_BY` | 《摩诃婆罗多》精校本初篇 1.15–1.17 搅海见证 (`text.indian.mahabharata.adiparvan_churning`) | VERIFIED / HISTORICAL_REALITY / TEXTUAL_WITNESS | 1 | 0.98 | inferred inverse; `claim.v0300.churn.mbh_witness` |
 | `HAS_PARTICIPANT` | 甘露（阿姆利塔） (`artifact.hindu.amrita`) | VERIFIED / TEXT_SAYS / MYTHIC_NARRATIVE | 2 | 0.97 | inferred inverse; `claim.v0300.churn.amrita_sought` |
+| `HAS_PARTICIPANT` | 梵天 (`deity.hindu.brahma`) | VERIFIED / TEXT_SAYS / MYTHIC_NARRATIVE | 1 | 0.86 | inferred inverse; `claim.v0310.hindu.brahma_churning` |
 | `HAS_PARTICIPANT` | 毗湿奴 (`deity.hindu.vishnu`) | VERIFIED / TEXT_SAYS / MYTHIC_NARRATIVE | 2 | 0.97 | inferred inverse; `claim.v0300.churn.vishnu_participates` |
 
 ## Claims 与证据

@@ -34,7 +34,7 @@ class GlobalStoryExpansionBatch2Tests(unittest.TestCase):
         connection.row_factory = sqlite3.Row
         return connection
 
-    def test_schema_41_and_42_seal_v030_as_latest_release(self):
+    def test_schema_41_and_42_seal_v030_preserved_after_v031(self):
         with self.connect() as connection:
             migrations = {
                 row["version"]: row["name"]
@@ -55,12 +55,14 @@ class GlobalStoryExpansionBatch2Tests(unittest.TestCase):
         })
         self.assertEqual(
             dict(latest),
-            {"id": "release.v0.30.0", "schema_version": 42, "data_version": "0.30.0"},
+            {"id": "release.v0.31.0", "schema_version": 44, "data_version": "0.31.0"},
         )
         self.assertEqual(v029["schema_version"], 40)
-        meta = self.snapshot["meta"]
-        self.assertEqual(meta["projectVersion"], "0.30.0-global-story-expansion-batch-2")
-        self.assertEqual(meta["dataVersion"], "0.30.0")
+        with self.connect() as connection:
+            v030 = connection.execute(
+                "SELECT schema_version,data_version FROM dataset_releases WHERE id='release.v0.30.0'"
+            ).fetchone()
+        self.assertEqual(dict(v030), {"schema_version": 42, "data_version": "0.30.0"})
 
     def test_batch2_is_append_only_and_keeps_queued_and_blocked_targets(self):
         with self.connect() as connection:
@@ -267,7 +269,10 @@ class GlobalStoryExpansionBatch2Tests(unittest.TestCase):
 
     def test_public_snapshot_exposes_batch_history_and_comparisons_without_quotes(self):
         batches = self.snapshot["storyExpansionBatches"]
-        self.assertEqual([batch["id"] for batch in batches], ["storybatch.v0300.02", "storybatch.v0280.01"])
+        self.assertEqual(
+            [batch["id"] for batch in batches],
+            ["storybatch.v0310.03", "storybatch.v0300.02", "storybatch.v0280.01"],
+        )
         stories = {story["id"]: story for story in self.snapshot["stories"]}
         self.assertEqual(
             {story_id: len(stories[story_id]["witnessComparisons"]) for story_id in V030_STORIES},

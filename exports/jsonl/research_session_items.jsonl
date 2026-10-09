@@ -541,3 +541,36 @@
 {"action":"BLOCK","item_id":"storytarget.v0300.02.maori","item_kind":"PERMISSION_REVIEW","result":"No named iwi/hapū publication and scoped authority yet.","session_id":"session.20261002.v0300_batch2"}
 {"action":"BLOCK","item_id":"storytarget.v0300.02.yoruba","item_kind":"PERMISSION_REVIEW","result":"Safeguarding metadata is not permission to collect restricted Ifá content.","session_id":"session.20261002.v0300_batch2"}
 {"action":"SEAL","item_id":"release.v0.30.0","item_kind":"RELEASE","result":"Formal staged checkpoint preserves four completed, two queued and two permission-blocked batch-2 targets.","session_id":"session.20261002.v0300_batch2"}
+{"action":"CREATE","item_id":"story.egyptian.heliopolitan_family","item_kind":"STORY","result":"From Atum to Horus — a family of Egyptian gods","session_id":"session.20261009.v0310_deity_stories"}
+{"action":"CREATE","item_id":"story.egyptian.heavenly_cow","item_kind":"STORY","result":"The Eye of Ra becomes Sekhmet — Tale of the Heavenly Cow","session_id":"session.20261009.v0310_deity_stories"}
+{"action":"CREATE","item_id":"story.egyptian.weighing_heart_ani","item_kind":"STORY","result":"Weighing the heart — Anubis and Thoth in the Papyrus of Ani","session_id":"session.20261009.v0310_deity_stories"}
+{"action":"CREATE","item_id":"story.egyptian.mourning_sisters","item_kind":"STORY","result":"Two mourning goddesses — Isis and Nephthys","session_id":"session.20261009.v0310_deity_stories"}
+{"action":"CREATE","item_id":"story.japanese.izanagi_izanami","item_kind":"STORY","result":"Izanagi and Izanami — making the land, Yomi and purification","session_id":"session.20261009.v0310_deity_stories"}
+{"action":"CREATE","item_id":"story.norse.vanir_family","item_kind":"STORY","result":"Njörðr, Freyr and Freyja — the Vanir family","session_id":"session.20261009.v0310_deity_stories"}
+{"action":"CREATE","item_id":"story.norse.tyr_fenrir","item_kind":"STORY","result":"Týr's hand and the binding of Fenrir","session_id":"session.20261009.v0310_deity_stories"}
+{"action":"CREATE","item_id":"story.norse.heimdall_watchman","item_kind":"STORY","result":"Heimdallr, watchman of the gods","session_id":"session.20261009.v0310_deity_stories"}
+{"action":"CREATE","item_id":"story.norse.ymir_world","item_kind":"STORY","result":"Ymir and the shaping of the world","session_id":"session.20261009.v0310_deity_stories"}
+{"action":"CREATE","item_id":"story.norse.frigg_baldr","item_kind":"STORY","result":"Frigg's oaths and the death of Baldr","session_id":"session.20261009.v0310_deity_stories"}
+{"action":"CREATE","item_id":"story.mexica.birth_huitzilopochtli","item_kind":"STORY","result":"The birth of Huitzilopochtli on Serpent Mountain","session_id":"session.20261009.v0310_deity_stories"}
+{"action":"CREATE","item_id":"story.mexica.quetzalcoatl_tollan","item_kind":"STORY","result":"Quetzalcoatl and Titlacauan at Tollan","session_id":"session.20261009.v0310_deity_stories"}
+{"action":"CREATE","item_id":"story.mexica.templo_mayor_twin_shrines","item_kind":"STORY","result":"Two gods on one pyramid — the Templo Mayor","session_id":"session.20261009.v0310_deity_stories"}
+{"action":"CREATE","item_id":"story.maya.divine_images","item_kind":"STORY","result":"Three Maya gods in stone, clay and glyph","session_id":"session.20261009.v0310_deity_stories"}
+{"action":"CREATE","item_id":"story.sumerian.enki_ninhursag","item_kind":"STORY","result":"Enki and Ninhursaĝa in Dilmun","session_id":"session.20261009.v0310_deity_stories"}
+{"action":"CREATE","item_id":"story.sumerian.nanna_journey","item_kind":"STORY","result":"Nanna-Suen sails to Nibru","session_id":"session.20261009.v0310_deity_stories"}
+{"action":"CREATE","item_id":"story.sumerian.gilgamesh_huwawa_utu","item_kind":"STORY","result":"Utu helps Gilgameš set out against Ḫuwawa","session_id":"session.20261009.v0310_deity_stories"}
+{"action":"CREATE","item_id":"story.chinese.fuxi_eight_trigrams","item_kind":"STORY","result":"Fuxi makes the eight trigrams","session_id":"session.20261009.v0310_deity_stories"}
+{"action":"CREATE","item_id":"story.chinese.huangdi_chiyou","item_kind":"STORY","result":"The Yellow Emperor and Chiyou at Zhuolu","session_id":"session.20261009.v0310_deity_stories"}
+{"action":"CREATE","item_id":"story.chinese.pangu_sanwu_liji","item_kind":"STORY","result":"Pangu between heaven and earth","session_id":"session.20261009.v0310_deity_stories"}
+{"action":"CREATE","item_id":"story.chinese.nezha_wukong","item_kind":"STORY","result":"Nezha against Sun Wukong (Journey to the West, ch. 4)","session_id":"session.20261009.v0310_deity_stories"}
+{"action":"CREATE","item_id":"story.irish.second_battle_mag_tuired","item_kind":"STORY","result":"The Second Battle of Mag Tuired","session_id":"session.20261009.v0310_deity_stories"}
+{"action":"CREATE","item_id":"story.slavic.kyiv_idols","item_kind":"STORY","result":"The idols on the Kyiv hill — Perun and Mokosh","session_id":"session.20261009.v0310_deity_stories"}
+{"action":"CREATE","item_id":"story.zoroastrian.mihr_yasht","item_kind":"STORY","result":"Mithra of the wide pastures — the Mihr Yasht","session_id":"session.20261009.v0310_deity_stories"}
+{"action":"CREATE","item_id":"story.zoroastrian.sixteen_lands","item_kind":"STORY","result":"Sixteen good lands and their plagues — Videvdad 1","session_id":"session.20261009.v0310_deity_stories"}
+{"action":"CREATE","item_id":"story.hawaiian.pele_journey","item_kind":"STORY","result":"Pele's journey to Halemaʻumaʻu","session_id":"session.20261009.v0310_deity_stories"}
+{"action":"CREATE","item_id":"storyver.maori.creation_common_threads","item_kind":"STORY_VERSION","result":"Te Ara common-threads version (attribution required).","session_id":"session.20261009.v0310_deity_stories"}
+{"action":"CREATE","item_id":"policy.v0310.hawaii.pele_public","item_kind":"ACCESS_POLICY","result":"ATTRIBUTION_REQUIRED","session_id":"session.20261009.v0310_deity_stories"}
+{"action":"CREATE","item_id":"policy.v0310.oshun.public_heritage","item_kind":"ACCESS_POLICY","result":"PUBLIC_CONTEXT","session_id":"session.20261009.v0310_deity_stories"}
+{"action":"CREATE","item_id":"policy.v0310.oshun.living_practice","item_kind":"ACCESS_POLICY","result":"PERMISSION_REQUIRED","session_id":"session.20261009.v0310_deity_stories"}
+{"action":"CREATE","item_id":"policy.v0310.ogun.permission","item_kind":"ACCESS_POLICY","result":"PERMISSION_REQUIRED","session_id":"session.20261009.v0310_deity_stories"}
+{"action":"CREATE","item_id":"policy.v0310.olodumare.permission","item_kind":"ACCESS_POLICY","result":"PERMISSION_REQUIRED","session_id":"session.20261009.v0310_deity_stories"}
+{"action":"SEAL","item_id":"release.v0.31.0","item_kind":"RELEASE","result":"Formal staged checkpoint: 27 completed story targets and one permission-blocked Yorùbá review.","session_id":"session.20261009.v0310_deity_stories"}

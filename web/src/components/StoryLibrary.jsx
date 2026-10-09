@@ -6,7 +6,7 @@ import StoryReaderTools from './StoryReaderTools.jsx'
 
 const ui = {
   zh: {
-    eyebrow: 'v0.30 · 全球故事扩张第二批',
+    eyebrow: 'v0.31 · 神祇故事与讲故事模式',
     title: '神话故事阅读库',
     intro: '从永久队列逐项扩张可公开、可回溯的故事见证；活态传统先过权限门禁，单项目受阻不影响其他目标继续。',
     search: '搜索故事、人物、神器或主题…',
@@ -55,9 +55,12 @@ const ui = {
     markHere: '标记读到这里',
     readToHere: '已读至此',
     localBookmark: '本机书签',
+    targetList: '目标清单',
+    tell: '▶ 讲故事模式',
+    tellHint: '全屏逐段讲述，适合朗读或投屏',
   },
   en: {
-    eyebrow: 'v0.30 · Global story expansion batch 2',
+    eyebrow: 'v0.31 · Deity stories and storyteller mode',
     title: 'Myth Story Library',
     intro: 'Expand public, traceable story witnesses from the permanent queue; living traditions pass permission gates first, and one blocked target never stops the rest.',
     search: 'Search stories, people, artifacts, or themes…',
@@ -106,6 +109,9 @@ const ui = {
     markHere: 'Mark read to here',
     readToHere: 'Read to here',
     localBookmark: 'On-device bookmark',
+    targetList: 'Target list',
+    tell: '▶ Storyteller mode',
+    tellHint: 'Full screen, one section at a time — for reading aloud or presenting',
   },
 }
 
@@ -184,6 +190,7 @@ export default function StoryLibrary({
   language,
   onOpenEntity,
   onSelectStory,
+  onTell,
   readingRoutes = [],
   selectedStoryId,
   storyExpansionBatches = [],
@@ -350,6 +357,14 @@ export default function StoryLibrary({
               {expansionStatusLabels[language]?.[expansionBatch.status] || expansionBatch.status}
             </b>
           </header>
+          <details className="story-expansion-targets" open={expansionBatch.targets.length <= 8}>
+            <summary>
+              {copy.targetList} · {expansionBatch.targets.length}
+              {Object.entries(expansionBatch.targets.reduce((counts, target) => ({ ...counts, [target.status]: (counts[target.status] || 0) + 1 }), {}))
+                .map(([status, count]) => (
+                  <small data-status={status} key={status}>{expansionStatusLabels[language]?.[status] || status} {count}</small>
+                ))}
+            </summary>
           <ul>
             {expansionBatch.targets.map((target) => (
               <li data-status={target.status} key={target.id} title={target.blockerReason || target.nextAction}>
@@ -365,6 +380,7 @@ export default function StoryLibrary({
               </li>
             ))}
           </ul>
+          </details>
         </section>
       )}
 
@@ -438,6 +454,11 @@ export default function StoryLibrary({
                 <div><dt>{copy.sourceBacked}</dt><dd>{statusLabel(selected.evidenceStatus, language)}</dd></div>
                 <div><dt>{copy.access}</dt><dd>{selected.accessLevel}</dd></div>
               </dl>
+              {onTell && (
+                <button className="story-tell-button" title={copy.tellHint} type="button" onClick={() => onTell(selected, selectedVersion)}>
+                  {copy.tell}<small>{copy.tellHint}</small>
+                </button>
+              )}
             </header>
 
             <StoryReaderTools

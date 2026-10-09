@@ -2,54 +2,54 @@
 
 当前公开可发现资料的阶段性知识基线已经建立，并且系统可以继续扩张。
 
-数据版本：`0.30.0`；生成时间：`2026-10-02T05:48:43Z`。
+数据版本：`0.31.0`；生成时间：`2026-10-09T00:50:01Z`。
 
 > 所有分母只指当前登记基线；系统不会计算或宣称“全球神话完成百分比”。
 
 | Metric | Value | Denominator | Meaning |
 |---|---:|---:|---|
-| `artifact_profiles_with_abilities` | 5 | 40 | Populated or evidence-linked records / current records in this registered profile collection. |
-| `canonical_entities` | 665 | — | Absolute count in the current registered baseline; not a percentage of world mythology. |
+| `artifact_profiles_with_abilities` | 7 | 42 | Populated or evidence-linked records / current records in this registered profile collection. |
+| `canonical_entities` | 721 | — | Absolute count in the current registered baseline; not a percentage of world mythology. |
 | `civilizations` | 99 | — | Absolute count in the current registered baseline; not a percentage of world mythology. |
-| `claims` | 679 | — | Absolute count in the current registered baseline; not a percentage of world mythology. |
-| `collection_queue` | 122 | — | Absolute count in the current registered baseline; not a percentage of world mythology. |
+| `claims` | 892 | — | Absolute count in the current registered baseline; not a percentage of world mythology. |
+| `collection_queue` | 125 | — | Absolute count in the current registered baseline; not a percentage of world mythology. |
 | `conflicts` | 35 | — | Absolute count in the current registered baseline; not a percentage of world mythology. |
-| `creature_profiles_with_abilities` | 9 | 24 | Populated or evidence-linked records / current records in this registered profile collection. |
-| `deity_profiles_with_domains` | 73 | 181 | Populated or evidence-linked records / current records in this registered profile collection. |
-| `entities` | 670 | — | Absolute count in the current registered baseline; not a percentage of world mythology. |
-| `entities_with_claims` | 280 | — | Absolute count in the current registered baseline; not a percentage of world mythology. |
-| `entities_with_evidence` | 274 | 670 | Current registered entities with at least one evidenced outgoing claim; not global completeness. |
-| `evidence` | 698 | — | Absolute count in the current registered baseline; not a percentage of world mythology. |
-| `evidenced_claims` | 673 | 679 | Claims with at least one evidence record / all currently registered claims. |
-| `living_tradition_sources` | 23 | — | Absolute count in the current registered baseline; not a percentage of world mythology. |
-| `place_entities_with_evidence` | 21 | 98 | Populated or evidence-linked records / current records in this registered profile collection. |
-| `place_profiles_with_coordinates` | 2 | 98 | Populated or evidence-linked records / current records in this registered profile collection. |
+| `creature_profiles_with_abilities` | 9 | 25 | Populated or evidence-linked records / current records in this registered profile collection. |
+| `deity_profiles_with_domains` | 74 | 184 | Populated or evidence-linked records / current records in this registered profile collection. |
+| `entities` | 726 | — | Absolute count in the current registered baseline; not a percentage of world mythology. |
+| `entities_with_claims` | 372 | — | Absolute count in the current registered baseline; not a percentage of world mythology. |
+| `entities_with_evidence` | 367 | 726 | Current registered entities with at least one evidenced outgoing claim; not global completeness. |
+| `evidence` | 916 | — | Absolute count in the current registered baseline; not a percentage of world mythology. |
+| `evidenced_claims` | 886 | 892 | Claims with at least one evidence record / all currently registered claims. |
+| `living_tradition_sources` | 28 | — | Absolute count in the current registered baseline; not a percentage of world mythology. |
+| `place_entities_with_evidence` | 24 | 110 | Populated or evidence-linked records / current records in this registered profile collection. |
+| `place_profiles_with_coordinates` | 2 | 110 | Populated or evidence-linked records / current records in this registered profile collection. |
 | `priority_civilizations` | 24 | — | Absolute count in the current registered baseline; not a percentage of world mythology. |
-| `queue_new_or_discovered` | 20 | — | Absolute count in the current registered baseline; not a percentage of world mythology. |
+| `queue_new_or_discovered` | 23 | — | Absolute count in the current registered baseline; not a percentage of world mythology. |
 | `queue_source_found` | 29 | — | Absolute count in the current registered baseline; not a percentage of world mythology. |
-| `reader_feature_registry` | 5 | — | Absolute count in the current registered baseline; not a percentage of world mythology. |
+| `reader_feature_registry` | 6 | — | Absolute count in the current registered baseline; not a percentage of world mythology. |
 | `reading_route_steps` | 30 | — | Absolute count in the current registered baseline; not a percentage of world mythology. |
 | `reading_routes` | 7 | — | Absolute count in the current registered baseline; not a percentage of world mythology. |
 | `redirected_duplicate_entities` | 5 | — | Absolute count in the current registered baseline; not a percentage of world mythology. |
 | `registered_sources` | 0 | — | Absolute count in the current registered baseline; not a percentage of world mythology. |
-| `relationships` | 520 | — | Absolute count in the current registered baseline; not a percentage of world mythology. |
-| `sources` | 212 | — | Absolute count in the current registered baseline; not a percentage of world mythology. |
+| `relationships` | 639 | — | Absolute count in the current registered baseline; not a percentage of world mythology. |
+| `sources` | 233 | — | Absolute count in the current registered baseline; not a percentage of world mythology. |
 | `sources_needing_review` | 0 | — | Absolute count in the current registered baseline; not a percentage of world mythology. |
-| `stories` | 29 | — | Absolute count in the current registered baseline; not a percentage of world mythology. |
-| `story_event_nodes` | 113 | — | Absolute count in the current registered baseline; not a percentage of world mythology. |
-| `story_expansion_batches` | 2 | — | Absolute count in the current registered baseline; not a percentage of world mythology. |
-| `story_expansion_targets` | 15 | — | Absolute count in the current registered baseline; not a percentage of world mythology. |
-| `story_sections` | 113 | — | Absolute count in the current registered baseline; not a percentage of world mythology. |
-| `story_versions` | 35 | — | Absolute count in the current registered baseline; not a percentage of world mythology. |
-| `story_versions_with_claims` | 35 | 35 | Populated or evidence-linked records / current records in this registered profile collection. |
+| `stories` | 55 | — | Absolute count in the current registered baseline; not a percentage of world mythology. |
+| `story_event_nodes` | 212 | — | Absolute count in the current registered baseline; not a percentage of world mythology. |
+| `story_expansion_batches` | 3 | — | Absolute count in the current registered baseline; not a percentage of world mythology. |
+| `story_expansion_targets` | 43 | — | Absolute count in the current registered baseline; not a percentage of world mythology. |
+| `story_sections` | 212 | — | Absolute count in the current registered baseline; not a percentage of world mythology. |
+| `story_versions` | 64 | — | Absolute count in the current registered baseline; not a percentage of world mythology. |
+| `story_versions_with_claims` | 64 | 64 | Populated or evidence-linked records / current records in this registered profile collection. |
 | `story_witness_comparison_members` | 40 | — | Absolute count in the current registered baseline; not a percentage of world mythology. |
 | `story_witness_comparisons` | 20 | — | Absolute count in the current registered baseline; not a percentage of world mythology. |
 | `story_witness_profiles` | 10 | — | Absolute count in the current registered baseline; not a percentage of world mythology. |
-| `text_entities_with_evidence` | 51 | 157 | Populated or evidence-linked records / current records in this registered profile collection. |
-| `text_profiles_with_summary` | 56 | 157 | Populated or evidence-linked records / current records in this registered profile collection. |
-| `unverified_or_provisional_claims` | 39 | — | Absolute count in the current registered baseline; not a percentage of world mythology. |
-| `url_syntax_valid_sources` | 212 | — | Absolute count in the current registered baseline; not a percentage of world mythology. |
-| `verified_claims` | 638 | — | Absolute count in the current registered baseline; not a percentage of world mythology. |
+| `text_entities_with_evidence` | 60 | 163 | Populated or evidence-linked records / current records in this registered profile collection. |
+| `text_profiles_with_summary` | 62 | 163 | Populated or evidence-linked records / current records in this registered profile collection. |
+| `unverified_or_provisional_claims` | 49 | — | Absolute count in the current registered baseline; not a percentage of world mythology. |
+| `url_syntax_valid_sources` | 233 | — | Absolute count in the current registered baseline; not a percentage of world mythology. |
+| `verified_claims` | 841 | — | Absolute count in the current registered baseline; not a percentage of world mythology. |
 | `web_confirmed_sources` | 0 | — | Absolute count in the current registered baseline; not a percentage of world mythology. |
 
 ## 当前结论

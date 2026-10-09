@@ -9,12 +9,15 @@ artifact.greek.aegis,ARMOR,0,
 artifact.greek.caduceus,SCEPTER,1,
 artifact.greek.helm_hades,ARMOR,1,
 artifact.hindu.amrita,SACRED_OBJECT,1,Nectar of immortality.
+artifact.irish.dagda_cauldron,SACRED_OBJECT,1,v0.31 story entity.
 artifact.mesopotamian.tablet_destinies,ARTIFACT,1,
 artifact.norse.draupnir,RING,1,
+artifact.norse.gjallarhorn,ARTIFACT,1,v0.31 story entity.
 artifact.norse.gleipnir,ARTIFACT,1,
 artifact.yoruba.ose_sango,SACRED_OBJECT,1,v0.6.0 thunder and storm comparison checkpoint
 being.chinese.pangu,GIANT,1,
 being.chinese.pangu,PRIMORDIAL_DEITY,0,
+being.irish.balor,ENTITY,1,v0.31 story entity.
 being.norse.bestla,GIANT,1,Primary classification at research checkpoint 2026-08-11
 being.norse.brokkr,DWARF,1,Primary classification at research checkpoint 2026-08-11
 being.norse.brokkr,CREATURE,0,DWARF is nested under CREATURE
@@ -29,6 +32,7 @@ being.norse.ymir,GIANT,1,
 being.norse.ymir,PRIMORDIAL_DEITY,0,
 being.zoroastrian.angra_mainyu,DEITY,1,
 being.zoroastrian.angra_mainyu,CONCEPT,0,
+concept.chinese.bagua,CONCEPT,1,v0.31 story entity.
 concept.chinese.leigong.visual_witnesses,CONCEPT,1,v0.21.0 Chinese semantic layers
 concept.chinese.wuxing,CONCEPT,1,
 concept.chinese.wuxing.han_correlative_omens,CONCEPT,1,v0.21.0 Chinese semantic layers
@@ -233,6 +237,7 @@ deity.japanese.honoikazuchi,DEITY,1,v0.6.0 thunder and storm comparison checkpoi
 deity.japanese.honoikazuchi_otokuni,DEITY,1,v0.10.0 Japanese thunder local-dossier checkpoint
 deity.japanese.izanagi,DEITY,1,
 deity.japanese.izanami,DEITY,1,
+deity.japanese.kagutsuchi,DEITY,1,v0.31 story entity.
 deity.japanese.kamo_taketsunumi,DEITY,1,v0.10.0 Japanese thunder local-dossier checkpoint
 deity.japanese.kamo_wakeikazuchi,DEITY,1,v0.10.0 Japanese thunder local-dossier checkpoint
 deity.japanese.karaijin,DEITY,1,v0.18.0 Japanese thunder witnesses
@@ -252,6 +257,8 @@ deity.maori.ranginui,PRIMORDIAL_DEITY,1,
 deity.maya.chaac,DEITY,1,
 deity.maya.itzamna,DEITY,1,
 deity.maya.kukulkan,DEITY,1,
+deity.mexica.coatlicue,DEITY,1,v0.31 story entity.
+deity.mexica.coyolxauhqui,DEITY,1,v0.31 story entity.
 deity.mexica.huitzilopochtli,DEITY,1,
 deity.mexica.quetzalcoatl,DEITY,1,
 deity.mexica.tezcatlipoca,DEITY,1,
@@ -327,31 +334,57 @@ element.indian.prithvi,ELEMENT,1,
 element.indian.vayu,ELEMENT,1,
 event.archaeology.darius_statue_discovery_1972,EVENT,1,v0.14.0 Darius statue provenance checkpoint
 event.babylonian.marduk_tiamat,EVENT,1,
+event.chinese.battle_of_zhuolu,EVENT,1,v0.31 story entity.
+event.chinese.fuxi_makes_trigrams,EVENT,1,v0.31 story entity.
 event.chinese.gonggong_strikes_buzhou,EVENT,1,Two-witness textual event.
+event.chinese.nezha_fights_wukong,EVENT,1,v0.31 story entity.
 event.chinese.nuwa_repairs_sky,EVENT,1,Two-witness textual event.
+event.chinese.pangu_heaven_earth,EVENT,1,v0.31 story entity.
+event.egyptian.heavenly_cow_punishment,EVENT,1,v0.31 story entity.
 event.egyptian.nocturnal_solar_journey,EVENT,1,v0.7.0 Egyptian solar-composite checkpoint
+event.egyptian.osiris_murder_restoration,EVENT,1,v0.31 story entity.
+event.egyptian.separation_geb_nut,EVENT,1,v0.31 story entity.
+event.egyptian.weighing_heart_ani,EVENT,1,v0.31 story entity.
 event.greek.medea_restores_aeetes,EVENT,1,v0.9.0 Perses homonym audit checkpoint
 event.greek.persephone_abduction,EVENT,1,v0.5.0 primary-source profile checkpoint
 event.greek.titanomachy,EVENT,1,
 event.greek.zeus_typhon_battle,EVENT,1,Primary classification at research checkpoint 2026-08-11
+event.hawaiian.pele_journey,EVENT,1,v0.31 story entity.
 event.hindu.samudra_manthana,EVENT,1,Two-witness textual event.
+event.irish.second_battle_mag_tuired,EVENT,1,v0.31 story entity.
+event.japanese.izanagi_purification,EVENT,1,v0.31 story entity.
+event.japanese.izanagi_visits_yomi,EVENT,1,v0.31 story entity.
 event.japanese.kusanagi.atsuta_enshrinement,EVENT,1,Official shrine tradition event.
 event.japanese.kusanagi.discovery,EVENT,1,Kusanagi discovery narrative.
+event.japanese.onogoro_creation,EVENT,1,v0.31 story entity.
 event.khmer.angkor_wat_churning_scene,EVENT,1,Materially attested represented scene.
 event.kiche.hero_twins.seven_macaw,EVENT,1,Bounded public story episode.
+event.maori.separation_rangi_papa,EVENT,1,v0.31 story entity.
+event.mexica.birth_of_huitzilopochtli,EVENT,1,v0.31 story entity.
+event.mexica.quetzalcoatl_tollan_end,EVENT,1,v0.31 story entity.
+event.norse.binding_of_fenrir,EVENT,1,v0.31 story entity.
+event.norse.death_of_baldr,EVENT,1,v0.31 story entity.
 event.norse.forging_divine_treasures,EVENT,1,Primary classification at research checkpoint 2026-08-11
 event.norse.ragnarok,EVENT,1,
+event.norse.slaying_of_ymir,EVENT,1,v0.31 story entity.
 event.persia.darius_statue_transfer_egypt_susa,EVENT,1,v0.14.0 Darius statue provenance checkpoint
+event.slavic.idols_cast_down_988,EVENT,1,v0.31 story entity.
+event.slavic.kyiv_idols_980,EVENT,1,v0.31 story entity.
+event.sumerian.enki_ninhursag,EVENT,1,v0.31 story entity.
+event.sumerian.gilgamesh_huwawa,EVENT,1,v0.31 story entity.
 event.sumerian.inanna_descent,EVENT,1,
+event.sumerian.nanna_journey,EVENT,1,v0.31 story entity.
 event.ugaritic.baal_mot_ktu15_16,EVENT,1,v0.20.0 ancient Near East witnesses
 event.ugaritic.baal_yamm_ktu12,EVENT,1,v0.6.0 thunder and storm comparison checkpoint
 event.vedic.indra_vritra_rv132,EVENT,1,v0.6.0 thunder and storm comparison checkpoint
+event.zoroastrian.sixteen_lands,EVENT,1,v0.31 story entity.
 festival.egyptian.opet,FESTIVAL,1,v0.7.0 Egyptian solar-composite checkpoint
 festival.greek.great_eleusinia,FESTIVAL,1,v0.8.0 Eleusis evidence-layer checkpoint
 festival.japan.kamo_aoi,FESTIVAL,1,v0.10.0 Japanese thunder local-dossier checkpoint
 festival.yoruba.sango_oyo,FESTIVAL,1,v0.6.0 thunder and storm comparison checkpoint
 group.egyptian.theban_triad,CONCEPT,1,v0.7.0 Egyptian solar-composite checkpoint
 group.japanese.eight_thunder_kami,CONCEPT,1,v0.6.0 thunder and storm comparison checkpoint
+hero.chinese.chiyou,HERO,1,v0.31 story entity.
 hero.chinese.sun_wukong,HERO,1,
 hero.chinese.yellow_emperor,HERO,1,
 hero.chinese.yellow_emperor,ANCESTOR_DEITY,0,
@@ -369,6 +402,7 @@ hero.japanese.yamato_takeru,HERO,1,
 hero.kiche.hunahpu,HERO,1,
 hero.kiche.xbalanque,HERO,1,
 hero.polynesian.maui,HERO,1,
+hero.sumerian.gilgamesh,HERO,1,v0.31 story entity.
 historical.achaemenid.darius_i,HISTORICAL_FIGURE,1,v0.12.0 Ra-Atum witness-layer checkpoint
 historical.achaemenid.xerxes_i,HISTORICAL_FIGURE,1,v0.14.0 Darius statue provenance checkpoint
 historical.japan.ogata_korin,HISTORICAL_FIGURE,1,v0.18.0 Japanese thunder witnesses
@@ -389,14 +423,19 @@ modern.marvel.mcu.thor,MODERN_WORK,1,v0.6.0 thunder and storm comparison checkpo
 modern_work.japan.hoitsu_wind_thunder_version,MODERN_WORK,1,v0.18.0 Japanese thunder witnesses
 monster.japanese.yamata_no_orochi,MONSTER,1,Kojiki/Nihongi academic-reference scope.
 monster.kiche.seven_macaw,MONSTER,1,Source-scoped narrative opponent.
+monster.sumerian.huwawa,MONSTER,1,v0.31 story entity.
 monument.khmer.angkor_wat_churning_relief,MONUMENT,1,In-situ architectural relief.
+monument.maya.el_castillo_chichen,MONUMENT,1,v0.31 story entity.
 museum.babylon.flood_tablet_k3375,MUSEUM_OBJECT,1,
 museum.bm.khepri_hymn_stela_ea826,MUSEUM_OBJECT,1,v0.7.0 Egyptian solar-composite checkpoint
 museum.bm.vajra_1948_0716_11_b,MUSEUM_OBJECT,1,v0.22.0 vajra reception layers
+museum.egypt.mourning_isis_met,MUSEUM_OBJECT,1,v0.31 story entity.
+museum.egypt.mourning_nephthys_met,MUSEUM_OBJECT,1,v0.31 story entity.
 museum.egypt.papyrus_ani_frame3,MUSEUM_OBJECT,1,
 museum.greek.zeus_poseidon_met_21_88_52,MUSEUM_OBJECT,1,
 museum.iran.darius_susa_statue,MUSEUM_OBJECT,1,v0.12.0 Ra-Atum witness-layer checkpoint
 museum.japan.sotatsu_wind_thunder_screens,MUSEUM_OBJECT,1,v0.10.0 Japanese thunder local-dossier checkpoint
+museum.maya.chahk_plate_met,MUSEUM_OBJECT,1,v0.31 story entity.
 museum.met.amun_re_scarab_09_180_953,MUSEUM_OBJECT,1,v0.7.0 Egyptian solar-composite checkpoint
 museum.met.eleusinian_relief_14_130_9,MUSEUM_OBJECT,1,v0.8.0 Eleusis evidence-layer checkpoint
 museum.met.nauny_book_dead_30_3_31,MUSEUM_OBJECT,1,v0.7.0 Egyptian solar-composite checkpoint
@@ -420,7 +459,15 @@ person.norse.ask,PERSON,1,v0.19.0 Norse witness graph
 person.norse.embla,PERSON,1,v0.19.0 Norse witness graph
 place.chinese.buzhou_mountain,MYTHICAL_PLACE,1,No coordinate projection.
 place.hindu.mandara,MYTHICAL_PLACE,1,No coordinate projection.
+place.japanese.onogoro,MYTHICAL_PLACE,1,v0.31 story entity.
+place.japanese.yomi,REALM,1,v0.31 story entity.
+place.mexica.coatepec,MYTHICAL_PLACE,1,v0.31 story entity.
+place.norse.folkvangr,MYTHICAL_PLACE,1,v0.31 story entity.
+place.norse.himinbjorg,MYTHICAL_PLACE,1,v0.31 story entity.
 place.norse.mimisbrunnr,MYTHICAL_PLACE,1,Primary classification at research checkpoint 2026-08-11
+place.norse.noatun,MYTHICAL_PLACE,1,v0.31 story entity.
+place.sumerian.dilmun,MYTHICAL_PLACE,1,v0.31 story entity.
+place.zoroastrian.airyana_vaejah,MYTHICAL_PLACE,1,v0.31 story entity.
 realm.egypt.duat,REALM,1,
 realm.greek.tartarus,REALM,1,Primary classification at research checkpoint 2026-08-11
 realm.norse.valhalla,REALM,1,
@@ -468,6 +515,7 @@ site.greece.sacred_way,ARCHAEOLOGICAL_SITE,1,v0.8.0 Eleusis evidence-layer check
 site.greece.sacred_way_aphrodite_daphne,ARCHAEOLOGICAL_SITE,1,v0.17.0 Eleusis network
 site.greece.sacred_way_roman_bridge,ARCHAEOLOGICAL_SITE,1,v0.17.0 Eleusis network
 site.guatemala.tikal,ARCHAEOLOGICAL_SITE,1,
+site.hawaii.halemaumau,PLACE,1,v0.31 story entity.
 site.iceland.sacred_scope,PLACE,1,
 site.india.elephanta,TEMPLE,1,
 site.india.ellora,TEMPLE,1,
@@ -495,11 +543,13 @@ site.khmer.angkor_wat,ARCHAEOLOGICAL_SITE,1,Real site within UNESCO property 668
 site.mexico.chichen_itza,ARCHAEOLOGICAL_SITE,1,
 site.mexico.monte_alban,ARCHAEOLOGICAL_SITE,1,
 site.mexico.palenque,ARCHAEOLOGICAL_SITE,1,
+site.mexico.templo_mayor,TEMPLE,1,v0.31 story entity.
 site.mexico.tenochtitlan,ARCHAEOLOGICAL_SITE,1,
 site.mexico.teotihuacan,ARCHAEOLOGICAL_SITE,1,
 site.micronesia.nan_madol,ARCHAEOLOGICAL_SITE,1,
 site.nigeria.benin_city,ARCHAEOLOGICAL_SITE,1,
 site.nigeria.ife,ARCHAEOLOGICAL_SITE,1,
+site.nigeria.osun_osogbo,PLACE,1,v0.31 story entity.
 site.norse.runestones_scope,INSCRIPTION,1,
 site.peru.cusco,ARCHAEOLOGICAL_SITE,1,
 site.peru.machu_picchu,ARCHAEOLOGICAL_SITE,1,
@@ -542,6 +592,7 @@ text.chinese.liezi.tangwen_nuwa_gonggong_passage,TEXT,1,Passage witness.
 text.chinese.local_gazetteers,TEXT,1,
 text.chinese.lunheng,TEXT,1,v0.6.0 thunder and storm comparison checkpoint
 text.chinese.mutianzizhuan,TEXT,1,
+text.chinese.sanwu_liji,TEXT,1,v0.31 story entity.
 text.chinese.shang_shu,TEXT,1,Primary classification at research checkpoint 2026-08-11
 text.chinese.shangshu,TEXT,1,
 text.chinese.shanhaijing,TEXT,1,
@@ -549,6 +600,7 @@ text.chinese.shiji_ancient,TEXT,1,
 text.chinese.soushenji,TEXT,1,
 text.chinese.tianwen,TEXT,1,
 text.chinese.xiyouji,TEXT,1,
+text.chinese.zhouyi_xici,TEXT,1,v0.31 story entity.
 text.egypt.amduat,TEXT,1,
 text.egypt.book_caverns,TEXT,1,
 text.egypt.book_dead,PAPYRUS,1,
@@ -569,6 +621,7 @@ text.egypt.memphite_theology,INSCRIPTION,1,
 text.egypt.pyramid_texts,INSCRIPTION,1,
 text.egypt.sun_hymn_standard_c_prime,TEXT,1,v0.12.0 Ra-Atum witness-layer checkpoint
 text.egypt.temple_tomb_inscriptions,INSCRIPTION,1,
+text.egyptian.tale_heavenly_cow,TEXT,1,v0.31 story entity.
 text.greek.apollodorus_library,TEXT,1,v0.9.0 Perses homonym audit checkpoint
 text.greek.argonautica,EPIC,1,
 text.greek.bibliotheca,TEXT,1,
@@ -608,6 +661,7 @@ text.indian.mahabharata,EPIC,1,
 text.indian.mahabharata.adiparvan_churning,TEXT,1,Passage witness.
 text.indian.ramayana,EPIC,1,
 text.indian.regional_epics,ORAL_TRADITION,1,
+text.irish.cath_maige_tuired,TEXT,1,v0.31 story entity.
 text.jain.corpus,SCRIPTURE,1,
 text.japan.yamashiro_fudoki_kamo_fragment,TEXT,1,v0.18.0 Japanese thunder witnesses
 text.japanese.fudoki,TEXT,1,
@@ -669,6 +723,8 @@ text.yoruba.ifa_corpus,ORAL_TRADITION,1,
 text.zoroastrian.avesta,SCRIPTURE,1,
 text.zoroastrian.bundahishn,TEXT,1,
 text.zoroastrian.denkard,TEXT,1,
+text.zoroastrian.mihr_yasht,SCRIPTURE,1,v0.31 story entity.
+text.zoroastrian.videvdad_fargard1,SCRIPTURE,1,v0.31 story entity.
 weapon.arthurian.excalibur,WEAPON,1,
 weapon.babylonian.marduk_bow,WEAPON,1,
 weapon.chinese.ruyi_jingu_bang,WEAPON,1,

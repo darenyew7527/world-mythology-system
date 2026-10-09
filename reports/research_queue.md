@@ -124,3 +124,6 @@
 | queue.norse.vili | Vili | DEITY | civ.norse | 84 | PARTIAL | Add manuscript/redaction-specific attestations |
 | queue.v0300.india.ananta_entity | Ananta (Śeṣa) entity and witness-scoped roles | CREATURE | civ.hindu | 80 | DISCOVERED | Create the Ananta entity only with source-backed names and roles; do not merge with other serpent figures by name alone. |
 | queue.greek.hydra | Lernaean Hydra | MONSTER | civ.greek | 70 | DISCOVERED | Find primary textual attestations |
+| queue.v0310.china.pangu_body_transformation | Register the Pangu body-transformation witness separately | TEXT | civ.chinese_ancient | 60 | DISCOVERED | Locate the later witness (e.g. Wuyun linian ji as quoted in Yishi) with chapter-level locators; do not merge with the Sanwu liji quotation. |
+| queue.v0310.irish.cmt_irish_text | Align Cath Maige Tuired paragraphs with the Irish text (CELT G300010) | TEXT | civ.irish | 55 | DISCOVERED | Check Gray paragraph numbers against the Irish text before adding further claims. |
+| queue.v0310.hawaii.pele_community_review | Seek Native Hawaiian guidance before extending Pele material | DEITY | civ.hawaiian | 50 | DISCOVERED | Only the NPS public summary is used; family and place-specific moʻolelo stay out of scope. |

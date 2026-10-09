@@ -15,6 +15,7 @@
 | concept.zoroastrian.druj | 德鲁杰（虚妄／失序） | Druj | CONCEPT | 琐罗亚斯德传统 | PARTIAL | UNVERIFIED |
 | concept.egyptian.divine_syncretism | 古埃及神祇复合／融合表达 | Egyptian divine syncretism | CONCEPT | 古埃及 | PARTIAL | SOURCE_BACKED |
 | group.japanese.eight_thunder_kami | 《古事记》八雷神 | Eight Thunder Kami of the Kojiki | CONCEPT | 日本神道 | PARTIAL | SOURCE_BACKED |
+| concept.chinese.bagua | 八卦 | Eight Trigrams (bagua) | CONCEPT | 中国上古神话 | PARTIAL | SOURCE_BACKED |
 | concept.greek.eleusinian_secrecy | 厄琉息斯仪式保密原则 | Eleusinian ritual secrecy | CONCEPT | 古希腊 | PARTIAL | PARTIAL |
 | concept.comparative.fate | 命运 | Fate | CONCEPT | — | PARTIAL | UNVERIFIED |
 | concept.greek.eleusinian_relief_copy_network | 大厄琉息斯浮雕摹本网络 | Great Eleusinian Relief Copy Network | CONCEPT | 古希腊 | PARTIAL | SOURCE_BACKED |

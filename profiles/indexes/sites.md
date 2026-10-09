@@ -53,6 +53,7 @@
 | site.chinese.mogao_cave_249 | 莫高窟第249窟 | Mogao Cave 249 | ARCHAEOLOGICAL_SITE | 中国传统跨时期总类 | REAL_ARCHAEOLOGICAL | Part of Mogao Caves, World Heritage property 440 |
 | site.ethiopia.aksum | 阿克苏姆 | Aksum | ARCHAEOLOGICAL_SITE | 埃塞俄比亚传统 | REAL_ARCHAEOLOGICAL | World Heritage |
 | site.ethiopia.lalibela | 拉利贝拉岩石教堂 | Rock-Hewn Churches of Lalibela | MONUMENT | 埃塞俄比亚传统 | REAL_SACRED | World Heritage |
+| site.hawaii.halemaumau | 哈雷茂茂火山口 | Halemaʻumaʻu crater, Kīlauea | PLACE | 夏威夷 | REAL_SACRED | — |
 | site.india.elephanta | 象岛石窟 | Elephanta Caves | TEMPLE | 印度教传统 | REAL_ARCHAEOLOGICAL | World Heritage |
 | site.india.ellora | 埃洛拉石窟 | Ellora Caves | TEMPLE | 印度教传统 | REAL_ARCHAEOLOGICAL | World Heritage |
 | site.india.khajuraho | 克久拉霍古迹群 | Khajuraho Group of Monuments | TEMPLE | 印度教传统 | REAL_ARCHAEOLOGICAL | World Heritage |
@@ -65,22 +66,30 @@
 | site.japanese.atsuta_jingu | 热田神宫 | Atsuta Jingu | TEMPLE | 日本神道 | REAL_SACRED | — |
 | site.japan.kamigamo_jinja | 贺茂别雷神社（上贺茂神社） | Kamo Wakeikazuchi Jinja (Kamigamo Jinja) | ARCHAEOLOGICAL_SITE | 日本神道 | REAL_SACRED | WORLD_HERITAGE_COMPONENT_688_001 |
 | site.japan.shrines_scope | 日本主要神社研究入口 | Major Japanese shrines research scope | TEMPLE | 日本神道 | REAL_SACRED | — |
+| place.japanese.onogoro | 淤能碁吕岛 | Onogoro Island | MYTHICAL_PLACE | 日本神道 | MYTHICAL | — |
+| place.japanese.yomi | 黄泉国 | Yomi (Land of Hades in Chamberlain) | REALM | 日本神道 | MYTHICAL | — |
 | site.cambodia.angkor | 吴哥 | Angkor | ARCHAEOLOGICAL_SITE | 柬埔寨传统 | REAL_ARCHAEOLOGICAL | World Heritage property 668 |
 | site.khmer.angkor_wat | 吴哥寺 | Angkor Wat | ARCHAEOLOGICAL_SITE | 柬埔寨传统 | REAL_ARCHAEOLOGICAL | Part of Angkor World Heritage property 668 |
 | monument.khmer.angkor_wat_churning_relief | 吴哥寺“乳海搅拌”浮雕 | Angkor Wat Churning of the Sea of Milk relief | MONUMENT | 柬埔寨传统 | REAL_ARCHAEOLOGICAL | Within Angkor World Heritage property 668 |
 | site.mexico.chichen_itza | 奇琴伊察 | Chichen-Itza | ARCHAEOLOGICAL_SITE | 玛雅 | REAL_ARCHAEOLOGICAL | World Heritage 483 |
+| monument.maya.el_castillo_chichen | 奇琴伊察卡斯蒂略（库库尔坎神庙） | El Castillo (Temple of Kukulkan), Chichen-Itza | MONUMENT | 玛雅 | REAL_ARCHAEOLOGICAL | Part of World Heritage property 483 |
 | site.mexico.palenque | 帕伦克 | Palenque | ARCHAEOLOGICAL_SITE | 玛雅 | REAL_ARCHAEOLOGICAL | World Heritage |
 | site.guatemala.tikal | 蒂卡尔 | Tikal | ARCHAEOLOGICAL_SITE | 玛雅 | REAL_ARCHAEOLOGICAL | World Heritage 64 |
+| place.mexica.coatepec | 蛇山（科阿特佩克） | Coatepec (Serpent Mountain) | MYTHICAL_PLACE | 墨西卡 | MYTHICAL | — |
+| site.mexico.templo_mayor | 特诺奇蒂特兰大神庙 | Templo Mayor of Tenochtitlan | TEMPLE | 墨西卡 | REAL_ARCHAEOLOGICAL | — |
 | site.mexico.tenochtitlan | 特诺奇蒂特兰 | Tenochtitlan | ARCHAEOLOGICAL_SITE | 墨西卡 | REAL_HISTORIC | Within Historic Centre of Mexico City World Heritage |
 | site.micronesia.nan_madol | 南马都尔 | Nan Madol | ARCHAEOLOGICAL_SITE | 密克罗尼西亚 | REAL_ARCHAEOLOGICAL | World Heritage |
 | site.greece.knossos | 克诺索斯 | Knossos | ARCHAEOLOGICAL_SITE | 米诺斯 | REAL_ARCHAEOLOGICAL | — |
 | site.greece.mycenae | 迈锡尼 | Mycenae | ARCHAEOLOGICAL_SITE | 迈锡尼 | REAL_ARCHAEOLOGICAL | World Heritage |
 | site.peru.nazca | 纳斯卡线 | Nazca Lines | MONUMENT | 纳斯卡 | REAL_ARCHAEOLOGICAL | World Heritage |
 | site.sweden.birka | 比尔卡 | Birka | ARCHAEOLOGICAL_SITE | 北欧 | REAL_ARCHAEOLOGICAL | World Heritage 555 |
+| place.norse.folkvangr | 弗尔克范格 | Fólkvangr | MYTHICAL_PLACE | 北欧 | MYTHICAL | — |
 | site.denmark.hedeby | 海泽比 | Hedeby | ARCHAEOLOGICAL_SITE | 北欧 | REAL_ARCHAEOLOGICAL | World Heritage |
+| place.norse.himinbjorg | 希敏约格 | Himinbjörg | MYTHICAL_PLACE | 北欧 | MYTHICAL | — |
 | site.iceland.sacred_scope | 冰岛圣地研究入口 | Icelandic sacred sites research scope | PLACE | 北欧 | MIXED | — |
 | place.norse.mimisbrunnr | 密米尔之泉 | Mímisbrunnr | MYTHICAL_PLACE | 北欧 | MYTHICAL | — |
 | site.norse.runestones_scope | 北欧符文石研究入口 | Norse runestones research scope | INSCRIPTION | 北欧 | REAL_ARCHAEOLOGICAL | — |
+| place.norse.noatun | 诺欧通 | Nóatún | MYTHICAL_PLACE | 北欧 | MYTHICAL | — |
 | site.sweden.uppsala | 老乌普萨拉 | Old Uppsala | ARCHAEOLOGICAL_SITE | 北欧 | REAL_ARCHAEOLOGICAL | — |
 | realm.norse.valhalla | 瓦尔哈拉 | Valhalla | REALM | 北欧 | MYTHICAL | — |
 | site.iran.susa_darius_gate | 苏萨大流士门 | Darius Gate at Susa | ARCHAEOLOGICAL_SITE | 波斯 | REAL_ARCHAEOLOGICAL | — |
@@ -88,6 +97,7 @@
 | site.chile.rapa_nui | 拉帕努伊／复活节岛 | Rapa Nui | MONUMENT | 波利尼西亚 | REAL_ARCHAEOLOGICAL | World Heritage |
 | site.polynesia.taputapuatea | 塔普塔普阿泰阿 | Taputapuātea | ARCHAEOLOGICAL_SITE | 波利尼西亚 | REAL_SACRED | World Heritage 1529 |
 | site.zimbabwe.great_zimbabwe | 大津巴布韦 | Great Zimbabwe | ARCHAEOLOGICAL_SITE | 南非传统 | REAL_ARCHAEOLOGICAL | World Heritage |
+| place.sumerian.dilmun | 迪尔蒙（《恩基与宁胡尔萨格》） | Dilmun (in Enki and Ninhursaĝa) | MYTHICAL_PLACE | 苏美尔 | MIXED | — |
 | site.iraq.eridu | 埃里都 | Eridu | ARCHAEOLOGICAL_SITE | 苏美尔 | REAL_ARCHAEOLOGICAL | Ahwar World Heritage component |
 | site.iraq.nippur | 尼普尔 | Nippur | ARCHAEOLOGICAL_SITE | 苏美尔 | REAL_ARCHAEOLOGICAL | — |
 | realm.sumerian.kur | 苏美尔冥界 | Sumerian netherworld | REALM | 苏美尔 | MYTHICAL | — |
@@ -99,4 +109,6 @@
 | site.syria.ugarit | 乌加里特／拉斯沙姆拉 | Ugarit / Ras Shamra | ARCHAEOLOGICAL_SITE | 乌加里特 | REAL_ARCHAEOLOGICAL | — |
 | site.nigeria.ife | 伊莱-伊费 | Ile-Ife | ARCHAEOLOGICAL_SITE | 约鲁巴 | REAL_SACRED | — |
 | site.yoruba.koso_temple | 科索神庙 | Koso Temple | TEMPLE | 约鲁巴 | REAL_SACRED | Associated with the UNESCO-inscribed Sango Festival, Oyo |
+| site.nigeria.osun_osogbo | 奥孙-奥索博神树林 | Osun-Osogbo Sacred Grove | PLACE | 约鲁巴 | REAL_SACRED | World Heritage property 1118 (2005) |
 | site.mexico.monte_alban | 蒙特阿尔班 | Monte Albán | ARCHAEOLOGICAL_SITE | 萨波特克 | REAL_ARCHAEOLOGICAL | World Heritage |
+| place.zoroastrian.airyana_vaejah | 雅利安瓦伊贾 | Airyana Vaejah | MYTHICAL_PLACE | 琐罗亚斯德传统 | MIXED | — |

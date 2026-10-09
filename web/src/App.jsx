@@ -1,5 +1,6 @@
 import { useCallback, useEffect, useMemo, useState } from 'react'
 import ContributeView from './components/ContributeView.jsx'
+import DeityGallery from './components/DeityGallery.jsx'
 import EntityDetail from './components/EntityDetail.jsx'
 import EntityList from './components/EntityList.jsx'
 import EvidenceView from './components/EvidenceView.jsx'
@@ -11,8 +12,10 @@ import { SearchIcon } from './components/Icons.jsx'
 import MetricStrip from './components/MetricStrip.jsx'
 import ProgressView from './components/ProgressView.jsx'
 import StoryLibrary from './components/StoryLibrary.jsx'
+import StorytellerMode from './components/StorytellerMode.jsx'
 import ThunderView from './components/ThunderView.jsx'
 import { t } from './i18n.js'
+import { buildStoryIndex, deckFromCard, deckFromVersion } from './storyDeck.js'
 
 const FEATURED_IDS = [
   'deity.greek.zeus',
@@ -27,7 +30,7 @@ const FEATURED_IDS = [
   'deity.yoruba.orunmila',
 ]
 
-const VALID_VIEWS = new Set(['explore', 'stories', 'workbench', 'graph', 'thunder', 'evidence', 'progress', 'contribute'])
+const VALID_VIEWS = new Set(['explore', 'stories', 'deities', 'workbench', 'graph', 'thunder', 'evidence', 'progress', 'contribute'])
 
 const readQueryView = () => {
   const view = new URL(window.location.href).searchParams.get('view')
@@ -55,6 +58,7 @@ export default function App() {
   const [selectedId, setSelectedId] = useState(readHashEntity() || 'deity.greek.zeus')
   const [mobileDetailOpen, setMobileDetailOpen] = useState(false)
   const [menuOpen, setMenuOpen] = useState(false)
+  const [tellerDeck, setTellerDeck] = useState(null)
 
   const copy = t(language)
 
@@ -98,6 +102,8 @@ export default function App() {
     if (!data) return new Map()
     return new Map(data.entities.map((entity) => [entity.id, entity]))
   }, [data])
+
+  const storyIndex = useMemo(() => buildStoryIndex(data), [data])
 
   const filteredEntities = useMemo(() => {
     if (!data) return []
@@ -164,6 +170,13 @@ export default function App() {
     selectEntity(id)
     navigate('explore')
   }, [navigate, selectEntity])
+
+  const tellCard = useCallback((entityId) => {
+    const card = storyIndex.cardsByEntity.get(entityId)
+    if (card) setTellerDeck(deckFromCard(card, storyIndex))
+  }, [storyIndex])
+
+  const tellVersion = useCallback((story, version) => setTellerDeck(deckFromVersion(story, version)), [])
 
   const resetFilters = () => {
     setTypeFilter('ALL')
@@ -256,6 +269,8 @@ export default function App() {
               onNavigate={navigate}
               onOpenStory={selectStory}
               onSelect={(id) => selectEntity(id)}
+              onTell={tellCard}
+              storyCard={storyIndex.cardsByEntity.get(selectedEntity.id)}
             />
           </main>
           {mobileDetailOpen && <button aria-label={copy.close} className="mobile-scrim" type="button" onClick={() => setMobileDetailOpen(false)} />}
@@ -277,10 +292,23 @@ export default function App() {
           language={language}
           onOpenEntity={openEntity}
           onSelectStory={selectStory}
+          onTell={tellVersion}
           readingRoutes={data.readingRoutes || []}
           selectedStoryId={selectedStoryId}
           storyExpansionBatches={data.storyExpansionBatches || []}
           stories={data.stories || []}
+        />
+      )}
+
+      {activeView === 'deities' && (
+        <DeityGallery
+          cards={data.deityStoryCards || []}
+          entityById={entityById}
+          index={storyIndex}
+          language={language}
+          onOpenEntity={openEntity}
+          onOpenStory={selectStory}
+          onTell={setTellerDeck}
         />
       )}
 
@@ -305,6 +333,17 @@ export default function App() {
       {activeView === 'evidence' && <EvidenceView claims={data.claims} copy={copy} language={language} />}
       {activeView === 'progress' && <ProgressView copy={copy} language={language} meta={data.meta} queue={data.queue} />}
       {activeView === 'contribute' && <ContributeView copy={copy} language={language} />}
+
+      {tellerDeck && (
+        <StorytellerMode
+          deck={tellerDeck}
+          key={tellerDeck.id}
+          language={language}
+          onClose={() => setTellerDeck(null)}
+          onOpenEntity={(id) => { setTellerDeck(null); openEntity(id) }}
+          onOpenStory={(id) => { setTellerDeck(null); selectStory(id) }}
+        />
+      )}
 
       <footer className="site-footer">
         <span>{copy.brand} · {data.meta.projectVersion}</span>
