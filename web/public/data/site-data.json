@@ -1208,8 +1208,8 @@
       {
         "builtAt": "2026-10-09T03:00:00Z",
         "dataVersion": "0.31.0",
-        "databaseSha256": "4c35ea671a277f8e51c15c3bbd03c7b06bbc3f8d9113b2fbfbe43507ce185989",
-        "gitCommit": "263da9743f68f2754c8529d958de637e2155f943",
+        "databaseSha256": "223d26670ab0a4b09fcde6c868c17df43e573cb2e82b96ce691ac5e24e8103da",
+        "gitCommit": "136e7ebdb03ef92439cad05ab2241bdc4a59df98",
         "id": "release.v0.31.0",
         "releaseNotes": "Deity stories: 26 new source-located stories (Egypt, Japan, Norse, Mexica, Maya, Sumer, China, Ireland, Slavic, Zoroastrian, Hawaiʻi) plus a public Te Ara version of the Māori common threads; build-time story cards for all 184 deities; storyteller mode and a deity-story gallery in the web app; Ogun and Olodumare remain permission-limited. Source commit stamped; database_sha256 is the pre-stamp snapshot digest.",
         "schemaVersion": 44
@@ -158898,8 +158898,8 @@
     "datasetRelease": {
       "built_at": "2026-10-09T03:00:00Z",
       "data_version": "0.31.0",
-      "database_sha256": "4c35ea671a277f8e51c15c3bbd03c7b06bbc3f8d9113b2fbfbe43507ce185989",
-      "git_commit": "263da9743f68f2754c8529d958de637e2155f943",
+      "database_sha256": "223d26670ab0a4b09fcde6c868c17df43e573cb2e82b96ce691ac5e24e8103da",
+      "git_commit": "136e7ebdb03ef92439cad05ab2241bdc4a59df98",
       "id": "release.v0.31.0",
       "release_notes": "Deity stories: 26 new source-located stories (Egypt, Japan, Norse, Mexica, Maya, Sumer, China, Ireland, Slavic, Zoroastrian, Hawaiʻi) plus a public Te Ara version of the Māori common threads; build-time story cards for all 184 deities; storyteller mode and a deity-story gallery in the web app; Ogun and Olodumare remain permission-limited. Source commit stamped; database_sha256 is the pre-stamp snapshot digest.",
       "schema_version": 44
