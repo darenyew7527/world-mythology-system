@@ -1717,3 +1717,46 @@ code {
 .story-expansion-targets > summary small { padding: 1px 7px; border: 1px solid rgba(117,148,168,.3); color: #9fb0ba; font-size: .72rem; }
 .story-expansion-targets > summary small[data-status="COMPLETED"] { border-color: rgba(116,200,170,.4); color: var(--success); }
 .story-expansion-targets > summary small[data-status="BLOCKED_PERMISSION"] { border-color: rgba(225,135,114,.45); color: #f0b49f; }
+
+/* v0.31 · inline deity story reader: open a deity and the story is right there */
+.deity-reader-panel { position: relative; max-width: 1540px; margin: 14px auto 0; padding: clamp(18px, 3vw, 36px) clamp(16px, 4vw, 56px); border: 1px solid var(--gold-muted); background: linear-gradient(160deg, rgba(14,44,63,.94), rgba(4,17,28,.97)); box-shadow: var(--shadow); scroll-margin-top: 12px; }
+.deity-reader-label { display: inline-block; margin-bottom: 10px; padding: 3px 10px; border: 1px solid var(--gold-muted); color: var(--gold-bright); font: .74rem ui-monospace, monospace; letter-spacing: .12em; }
+.deity-reader { display: grid; gap: 14px; max-width: 880px; }
+.deity-reader-panel .deity-reader { margin: 0 auto; }
+.deity-reader > header { display: grid; gap: 6px; }
+.deity-reader > header > span { display: flex; flex-wrap: wrap; gap: 10px; align-items: center; color: var(--gold); font: .76rem ui-monospace, monospace; letter-spacing: .08em; }
+.deity-reader h2, .deity-reader h3 { margin: 0; color: var(--gold-bright); font-family: var(--display); font-size: clamp(1.6rem, 3.4vw, 2.4rem); font-weight: 500; letter-spacing: .03em; line-height: 1.25; }
+.deity-reader > header h2 em, .deity-reader > header h3 em { margin-left: 10px; color: #93a5b0; font-size: .55em; font-style: normal; }
+.deity-reader-story-title { margin: 0; color: #d8c7a6; font-family: var(--display); font-size: 1.05rem; }
+.deity-reader-hook { margin: 0; color: #b4c0c5; font-size: .95rem; line-height: 1.8; }
+.deity-reader-intro { margin: 0; padding: 10px 12px; border-left: 2px solid var(--blue-border); background: rgba(9,34,56,.45); color: #a9bcc6; font-size: .86rem; line-height: 1.7; }
+.deity-reader-beats { display: grid; gap: 4px; margin: 0; padding: 0; list-style: none; }
+.deity-reader-beats > li { display: grid; grid-template-columns: 2.4em minmax(0, 1fr); gap: 12px; padding: 16px 0; border-top: 1px solid rgba(201,154,82,.16); }
+.deity-reader-beats > li > span { padding-top: 4px; color: var(--gold); font: .8rem ui-monospace, monospace; }
+.deity-reader-beats h3, .deity-reader-beats h4 { margin: 0 0 8px; color: #f0dcb8; font-family: var(--display); font-size: 1.22rem; font-weight: 500; }
+.deity-reader-text { margin: 0; color: #efe8dc; font-family: var(--display); font-size: 1.08rem; line-height: 1.95; }
+.deity-reader-statement { margin: 8px 0 0; color: #8fa3ae; font-size: .84rem; line-height: 1.65; }
+.deity-reader-beats small { display: block; margin-top: 8px; color: #7f95a2; font-size: .78rem; line-height: 1.55; overflow-wrap: anywhere; }
+.deity-reader b { margin-right: 8px; color: #8cbfdc; font-weight: 500; }
+.deity-reader-beats .deity-reader-uncertain { color: #cdb894; }
+.deity-reader-beats .deity-reader-uncertain b { color: var(--gold); }
+.deity-reader > header .deity-badge { margin: 0; color: var(--gold-bright); }
+.deity-reader-boundary { margin: 0; line-height: 1.75; }
+.deity-reader > footer { display: flex; flex-wrap: wrap; gap: 8px; padding-top: 4px; }
+.deity-reader > footer button { min-height: 42px; padding: 0 14px; border: 1px solid rgba(117,148,168,.32); background: rgba(3,16,27,.85); color: #d0d3cf; font-size: .86rem; cursor: pointer; }
+.deity-reader > footer button:hover { border-color: var(--gold); color: var(--gold-bright); }
+.deity-reader > footer .deity-tell { border-color: var(--gold); background: rgba(201,154,82,.18); color: var(--gold-bright); font-weight: 600; }
+.deity-card-title { padding: 0; border: 0; background: none; color: inherit; font: inherit; text-align: left; cursor: pointer; }
+.deity-card-title:hover { color: var(--gold-bright); text-decoration: underline; text-underline-offset: 4px; }
+.deity-card footer .deity-read { border-color: rgba(101,199,255,.45); color: #bfe6ff; }
+.deity-card[aria-current="true"] { border-color: var(--gold); box-shadow: 0 0 0 1px var(--gold-muted) inset; }
+.detail-story-card > h2 { margin: 0; color: var(--gold); font: .78rem ui-monospace, monospace; letter-spacing: .14em; }
+.detail-story-card .deity-reader h3 { font-size: clamp(1.35rem, 2.4vw, 1.9rem); }
+.detail-story-card .deity-reader-beats h4 { font-size: 1.08rem; }
+.detail-story-card .deity-reader-text { font-size: 1rem; }
+.story-layout + .story-expansion-audit { margin-top: 18px; }
+@media (max-width: 640px) {
+  .deity-reader-beats > li { grid-template-columns: minmax(0, 1fr); gap: 4px; }
+  .deity-reader-text { font-size: 1.02rem; }
+  .deity-reader > footer button { flex: 1 1 100%; }
+}

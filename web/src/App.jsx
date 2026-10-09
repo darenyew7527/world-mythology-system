@@ -15,7 +15,7 @@ import StoryLibrary from './components/StoryLibrary.jsx'
 import StorytellerMode from './components/StorytellerMode.jsx'
 import ThunderView from './components/ThunderView.jsx'
 import { t } from './i18n.js'
-import { buildStoryIndex, deckFromCard, deckFromVersion } from './storyDeck.js'
+import { buildStoryIndex, deckFromVersion } from './storyDeck.js'
 
 const FEATURED_IDS = [
   'deity.greek.zeus',
@@ -43,6 +43,7 @@ const readHashEntity = () => {
 }
 
 const readQueryStory = () => new URL(window.location.href).searchParams.get('story')
+const readQueryDeity = () => new URL(window.location.href).searchParams.get('deity')
 
 const normalize = (value) => (value || '').normalize('NFKD').toLocaleLowerCase()
 
@@ -52,6 +53,7 @@ export default function App() {
   const [language, setLanguage] = useState(() => window.localStorage.getItem('wms-language') || 'zh')
   const [activeView, setActiveView] = useState(readQueryView)
   const [selectedStoryId, setSelectedStoryId] = useState(readQueryStory)
+  const [selectedDeityId, setSelectedDeityId] = useState(readQueryDeity)
   const [query, setQuery] = useState('')
   const [typeFilter, setTypeFilter] = useState('ALL')
   const [civilizationFilter, setCivilizationFilter] = useState('ALL')
@@ -93,6 +95,7 @@ export default function App() {
     const onPopState = () => {
       setActiveView(readQueryView())
       setSelectedStoryId(readQueryStory())
+      setSelectedDeityId(readQueryDeity())
     }
     window.addEventListener('popstate', onPopState)
     return () => window.removeEventListener('popstate', onPopState)
@@ -153,6 +156,7 @@ export default function App() {
     if (view === 'explore') url.searchParams.delete('view')
     else url.searchParams.set('view', view)
     if (view !== 'stories') url.searchParams.delete('story')
+    if (view !== 'deities') url.searchParams.delete('deity')
     window.history.pushState(null, '', url)
   }, [])
 
@@ -171,10 +175,13 @@ export default function App() {
     navigate('explore')
   }, [navigate, selectEntity])
 
-  const tellCard = useCallback((entityId) => {
-    const card = storyIndex.cardsByEntity.get(entityId)
-    if (card) setTellerDeck(deckFromCard(card, storyIndex))
-  }, [storyIndex])
+  const selectDeity = useCallback((entityId) => {
+    setSelectedDeityId(entityId)
+    const url = new URL(window.location.href)
+    url.searchParams.set('view', 'deities')
+    url.searchParams.set('deity', entityId)
+    window.history.replaceState(null, '', url)
+  }, [])
 
   const tellVersion = useCallback((story, version) => setTellerDeck(deckFromVersion(story, version)), [])
 
@@ -269,8 +276,9 @@ export default function App() {
               onNavigate={navigate}
               onOpenStory={selectStory}
               onSelect={(id) => selectEntity(id)}
-              onTell={tellCard}
+              onTell={setTellerDeck}
               storyCard={storyIndex.cardsByEntity.get(selectedEntity.id)}
+              storyIndex={storyIndex}
             />
           </main>
           {mobileDetailOpen && <button aria-label={copy.close} className="mobile-scrim" type="button" onClick={() => setMobileDetailOpen(false)} />}
@@ -308,7 +316,9 @@ export default function App() {
           language={language}
           onOpenEntity={openEntity}
           onOpenStory={selectStory}
+          onSelectDeity={selectDeity}
           onTell={setTellerDeck}
+          selectedDeityId={selectedDeityId}
         />
       )}
 

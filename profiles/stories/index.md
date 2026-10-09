@@ -57,3 +57,5 @@
 | [广阔牧场之主密特拉：《密赫尔颂》](story.zoroastrian.mihr_yasht.md) | Mithra of the wide pastures — the Mihr Yasht | 琐罗亚斯德传统 | TEXT_FRAGMENT | 1 | SOURCE_BACKED | 4 |
 | [十六片良地与它们的灾祸：《万迪达德》第一章](story.zoroastrian.sixteen_lands.md) | Sixteen good lands and their plagues — Videvdad 1 | 琐罗亚斯德传统 | CREATION_ACCOUNT | 1 | SOURCE_BACKED | 4 |
 | [佩蕾的旅程：从卡希基到哈雷茂茂](story.hawaiian.pele_journey.md) | Pele's journey to Halemaʻumaʻu | 夏威夷 | MYTHIC_NARRATIVE | 1 | SOURCE_BACKED | 4 |
+
+另见：[神祇故事集 — 全部神祇的故事，打开即可阅读](deities/index.md)

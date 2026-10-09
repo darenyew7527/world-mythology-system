@@ -1,6 +1,7 @@
-import { useDeferredValue, useMemo, useState } from 'react'
+import { useDeferredValue, useMemo, useRef, useState } from 'react'
 import { BookIcon, SearchIcon } from './Icons.jsx'
 import { deckFromCard } from '../storyDeck.js'
+import DeityStoryReader from './DeityStoryReader.jsx'
 
 const ui = {
   zh: {
@@ -11,6 +12,9 @@ const ui = {
     allCivs: '全部文明',
     all: '全部',
     random: '随机讲一位',
+    read: '阅读',
+    reading: '正在阅读',
+    today: '今日故事',
     tell: '讲故事',
     fullStory: '完整故事',
     profile: '档案',
@@ -37,6 +41,9 @@ const ui = {
     allCivs: 'All traditions',
     all: 'All',
     random: 'Tell me a random one',
+    read: 'Read',
+    reading: 'Now reading',
+    today: 'Story of the day',
     tell: 'Tell the story',
     fullStory: 'Full story',
     profile: 'Profile',
@@ -60,12 +67,39 @@ const ui = {
 const STATUS_ORDER = ['STORY_LINKED', 'CLAIM_CARD', 'PERMISSION_LIMITED']
 const normalize = (value) => (value || '').normalize('NFKD').toLocaleLowerCase()
 
-export default function DeityGallery({ cards, entityById, index, language, onOpenEntity, onOpenStory, onTell }) {
+// A different full story greets the reader each day, so the page opens on something to read.
+const FEATURED_STORIES = [
+  'deity.irish.morrigan', 'deity.norse.tyr', 'deity.egyptian.sekhmet', 'deity.japanese.izanagi', 'deity.chinese.fu_xi',
+  'being.chinese.pangu', 'deity.mexica.huitzilopochtli', 'deity.sumerian.ninhursag', 'deity.egyptian.anubis',
+  'deity.norse.heimdall', 'deity.zoroastrian.mithra', 'deity.hawaiian.pele', 'deity.egyptian.isis', 'deity.norse.frigg',
+]
+
+const storyOfTheDay = (cards) => {
+  const linked = cards.filter((card) => card.status === 'STORY_LINKED')
+  const featured = FEATURED_STORIES.map((id) => linked.find((card) => card.entityId === id)).filter(Boolean)
+  const pool = featured.length > 0 ? featured : linked
+  if (pool.length === 0) return cards[0]?.entityId || null
+  const now = new Date()
+  const day = Math.floor((Date.UTC(now.getFullYear(), now.getMonth(), now.getDate()) - Date.UTC(now.getFullYear(), 0, 0)) / 86400000)
+  return pool[day % pool.length].entityId
+}
+
+export default function DeityGallery({ cards, entityById, index, language, onOpenEntity, onOpenStory, onSelectDeity, onTell, selectedDeityId }) {
   const copy = ui[language] || ui.zh
   const [query, setQuery] = useState('')
   const [civilization, setCivilization] = useState('ALL')
   const [status, setStatus] = useState('ALL')
   const deferredQuery = useDeferredValue(query)
+  const readerRef = useRef(null)
+  const defaultId = useMemo(() => storyOfTheDay(cards), [cards])
+  const cardById = useMemo(() => new Map(cards.map((card) => [card.entityId, card])), [cards])
+  const selectedCard = cardById.get(selectedDeityId) || cardById.get(defaultId)
+  const isDefault = !cardById.has(selectedDeityId)
+
+  const read = (card) => {
+    onSelectDeity(card.entityId)
+    window.requestAnimationFrame(() => readerRef.current?.scrollIntoView({ behavior: 'smooth', block: 'start' }))
+  }
 
   const statusCounts = useMemo(() => {
     const counts = {}
@@ -136,6 +170,21 @@ export default function DeityGallery({ cards, entityById, index, language, onOpe
         </dl>
       </header>
 
+      {selectedCard && (
+        <section className="deity-reader-panel" aria-label={copy.reading} ref={readerRef}>
+          <span className="deity-reader-label">{isDefault ? copy.today : copy.reading}</span>
+          <DeityStoryReader
+            card={selectedCard}
+            index={index}
+            key={selectedCard.entityId}
+            language={language}
+            onOpenEntity={onOpenEntity}
+            onOpenStory={onOpenStory}
+            onTell={onTell}
+          />
+        </section>
+      )}
+
       <section className="deity-toolbar" aria-label={copy.title}>
         <label className="story-search">
           <SearchIcon size={19} />
@@ -166,17 +215,27 @@ export default function DeityGallery({ cards, entityById, index, language, onOpe
               const primaryName = language === 'zh' ? card.nameZh : card.name
               const secondaryName = language === 'zh' ? card.name : card.nameZh
               return (
-                <article className="deity-card" data-status={card.status} key={card.entityId}>
+                <article
+                  aria-current={selectedCard?.entityId === card.entityId ? 'true' : undefined}
+                  className="deity-card"
+                  data-status={card.status}
+                  key={card.entityId}
+                >
                   <header>
                     <span className="deity-badge" data-status={card.status}>{copy.status[card.status] || card.status}</span>
                     {card.beats.length > 0 && <small>{card.beats.length} {copy.beats}</small>}
                   </header>
-                  <h3>{primaryName}{secondaryName && secondaryName !== primaryName && <em>{secondaryName}</em>}</h3>
+                  <h3>
+                    <button className="deity-card-title" type="button" onClick={() => read(card)}>
+                      {primaryName}{secondaryName && secondaryName !== primaryName && <em>{secondaryName}</em>}
+                    </button>
+                  </h3>
                   {hook && <p>{hook}</p>}
                   {card.status === 'PERMISSION_LIMITED' && card.boundary && (
                     <p className="deity-boundary">{language === 'zh' ? card.boundary.textZh : card.boundary.textEn}</p>
                   )}
                   <footer>
+                    <button className="deity-read" type="button" onClick={() => read(card)}>{copy.read}</button>
                     {card.beats.length > 0 && (
                       <button className="deity-tell" type="button" onClick={() => tell(card)}>▶ {copy.tell}</button>
                     )}

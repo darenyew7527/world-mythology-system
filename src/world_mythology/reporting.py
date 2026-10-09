@@ -308,6 +308,8 @@ def _generate_story_profiles(conn, profile_root: Path) -> int:
         ["中文", "English", "文明／传统", "Type", "Versions", "Evidence", "Minutes"],
         index_rows,
     )
+    with (story_dir / "index.md").open("a", encoding="utf-8") as index_file:
+        index_file.write("\n另见：[神祇故事集 — 全部神祇的故事，打开即可阅读](deities/index.md)\n")
     route_lines = [
         "# 主题阅读路线", "",
         "> 路线是编辑导航，不证明跨文明同源；每一步仍以指定故事版本为证据边界。", "",

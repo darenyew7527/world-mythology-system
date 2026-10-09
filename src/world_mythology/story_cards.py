@@ -344,6 +344,7 @@ def resolve_card(card: dict[str, Any], sections_by_id: dict[str, dict[str, Any]]
             "textEn": claim.get("statement") or "",
             "sourceTitle": first.get("sourceTitle"),
             "sourceLocation": first.get("sourceLocation"),
+            "evidenceNote": None,
             "knowledgeLayer": claim.get("knowledgeLayer"),
             "uncertaintyNote": None,
         }
@@ -361,6 +362,7 @@ def resolve_card(card: dict[str, Any], sections_by_id: dict[str, dict[str, Any]]
                 "textEn": section.get("bodyEn") or "",
                 "sourceTitle": section.get("sourceTitle"),
                 "sourceLocation": section.get("sourceLocation"),
+                "evidenceNote": section.get("evidenceNote"),
                 "knowledgeLayer": None,
                 "uncertaintyNote": section.get("uncertaintyNote"),
             })

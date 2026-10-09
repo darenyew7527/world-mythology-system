@@ -8,6 +8,8 @@ The repository contains a reproducible staged knowledge baseline, not a claim of
 
 ## Public preview
 
+> 📖 **Read now**: [Deity story collection (all 184 deities)](profiles/stories/deities/index.md) · [Story dossiers (55 stories)](profiles/stories/index.md) · [Live explorer](https://darenyew7527.github.io/world-mythology-system/?view=deities)
+
 The bilingual React explorer provides searchable entities, filters, relationship graphs, claims, evidence locators, sources, coverage, and the permanent research queue. Chinese is the default interface; English can be selected from the header.
 
 Current sealed release: `v0.31.0-deity-stories`.

@@ -3,7 +3,7 @@
   "projectVersion": "0.31.0-deity-stories",
   "dataVersion": "0.31.0",
   "generatedAt": "2026-10-09T03:00:00Z",
-  "databaseSha256": "543866feba3417e51d9f6ee1e3de959dc34d18eb235a1b129885bd793e9a8daa",
+  "databaseSha256": "223d26670ab0a4b09fcde6c868c17df43e573cb2e82b96ce691ac5e24e8103da",
   "counts": {
     "stories": 55,
     "storyVersions": 64,
@@ -14,12 +14,12 @@
   "privacyModel": "NO_PERSONAL_READING_STATE; PUBLIC_SNAPSHOT_ONLY",
   "artifacts": {
     "world-mythology-v0.31-story-archive.html": {
-      "sha256": "680e1b6266ad2e4f901d5dd52b8a5e8a2047408b34871104cae9fe3dff3ccfa8",
-      "bytes": 806220
+      "sha256": "9760cf4d15586e61ec0dcaf264c8263eb1d08784fda085638053596966dd7233",
+      "bytes": 821121
     },
     "world-mythology-v0.31-story-archive.json": {
-      "sha256": "1a82d0b275936129e5b94a7a2ef800c41158fa752c8cc79391973a722e555ad2",
-      "bytes": 1746781
+      "sha256": "e80dbb72192f1bbf8ab2aeb58d6a8a8dc37dccf5a0546b43d7e5198fcc814a08",
+      "bytes": 1787576
     }
   }
 }

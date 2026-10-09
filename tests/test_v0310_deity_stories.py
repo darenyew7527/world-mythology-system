@@ -240,6 +240,32 @@ class DeityStoriesTests(unittest.TestCase):
         self.assertNotIn("shortQuote", serialized)
         self.assertNotIn("short_quote", serialized)
 
+    def test_markdown_story_collection_is_readable_on_github(self):
+        from scripts.generate_offline_archive import write_deity_story_markdown
+        from world_mythology.story_cards import resolve_card
+
+        sections = {
+            section["id"]: dict(section, sourceTitle=(version.get("source") or {}).get("title"),
+                                sourceLocation=version.get("sourceLocation"))
+            for story in self.snapshot["stories"]
+            for version in story["versions"]
+            for section in version["sections"]
+        }
+        cards = [resolve_card(card, sections, self.claims) for card in self.snapshot["deityStoryCards"]]
+        with tempfile.TemporaryDirectory() as temp_dir:
+            root = Path(temp_dir)
+            write_deity_story_markdown(cards, root)
+            index = (root / "index.md").read_text(encoding="utf-8")
+            irish = (root / "irish.md").read_text(encoding="utf-8")
+            yoruba = (root / "yoruba.md").read_text(encoding="utf-8")
+        self.assertIn("(irish.md)", index)
+        self.assertIn("萨温节前后，达格达在乌恩辛河边", irish)
+        self.assertIn("Gray 本 §84", irish)
+        self.assertIn("不发布故事", yoruba)
+        committed = ROOT / "profiles" / "stories" / "deities"
+        self.assertTrue((committed / "index.md").is_file())
+        self.assertIn("deities/index.md", (ROOT / "README.md").read_text(encoding="utf-8"))
+
     def test_card_builder_never_invents_a_story(self):
         entities = [
             {"id": "deity.test.a", "canonicalName": "A", "nameZh": "甲", "primaryType": "DEITY", "types": ["DEITY"],
@@ -284,7 +310,12 @@ class DeityStoriesTests(unittest.TestCase):
             self.assertIn(key, teller)
         self.assertIn("aria-live", teller)
         self.assertIn("deckFromCard", gallery)
-        self.assertIn("DeityStoryCard", detail)
+        self.assertIn("<DeityStoryReader", detail)
+        self.assertIn("<DeityStoryReader", gallery)
+        self.assertIn("storyOfTheDay", gallery)
+        # The reader comes before the audit and route panels so a story is readable on open.
+        self.assertLess(library.index('className="story-layout"'), library.index('className="story-expansion-audit"'))
+        self.assertLess(library.index('className="story-layout"'), library.index('className="story-route-strip"'))
         self.assertIn("story-tell-button", library)
         self.assertIn("wms-reader-v029", storage)
         self.assertIn("saveTellerSettings", storage)

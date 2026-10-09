@@ -98,6 +98,7 @@ def generate(db_path: Path = DEFAULT_DB_PATH) -> Path:
         "- `exports/jsonl/`、`exports/csv/`：全部持久表的交换导出。",
         "- `exports/graph/`：JSON、CSV、GraphML 知识图谱。",
         "- `profiles/entities/`：每个实体的 Markdown 阅读档案。",
+        "- `profiles/stories/deities/index.md`：神祇故事集，全部神祇的故事按文明分文件，打开即可阅读。",
         "- `profiles/stories/index.md`：可下载的完整故事阅读档案索引。",
         "- `profiles/stories/reading_routes.md`：七条见证安全的阅读路线（含文本／物质见证分层路线）。",
         "- `visualization/index.html`：静态关系网络基础。",

@@ -64,7 +64,7 @@
     "tradition_links": 6
   },
   "database": "world_mythology.sqlite",
-  "database_sha256": "543866feba3417e51d9f6ee1e3de959dc34d18eb235a1b129885bd793e9a8daa",
+  "database_sha256": "223d26670ab0a4b09fcde6c868c17df43e573cb2e82b96ce691ac5e24e8103da",
   "excluded_object_types": [
     "view",
     "sqlite_internal"
@@ -123,7 +123,7 @@
     {
       "bytes": 5919,
       "path": "csv/coverage_reports.csv",
-      "sha256": "2472ea07ea03ac87da165fc3fe18b7de1dc78817f829e3e84ee206fa033f37c1"
+      "sha256": "da3bbc38d68085a006d351a98eb43a0ff3ab77ce5f841861b3772f6788c54ceb"
     },
     {
       "bytes": 3553,
@@ -448,7 +448,7 @@
     {
       "bytes": 7761,
       "path": "jsonl/coverage_reports.jsonl",
-      "sha256": "123c64de5f513443188b0a570ce0240903804442d8c900c0c42290e6e723a1a6"
+      "sha256": "fe0caa63fae137d5356d5f9dffb37c5e7a133e5468ce89173ef0fdc3e2a88ce3"
     },
     {
       "bytes": 7245,
