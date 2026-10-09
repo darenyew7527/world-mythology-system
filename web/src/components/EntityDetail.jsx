@@ -17,6 +17,7 @@ import {
   ExternalIcon,
   PlusIcon,
 } from './Icons.jsx'
+import DeityStoryReader from './DeityStoryReader.jsx'
 import RelationshipGraph from './RelationshipGraph.jsx'
 
 const locatorText = (evidence) =>
@@ -161,6 +162,9 @@ export default function EntityDetail({
   onNavigate,
   onOpenStory,
   onSelect,
+  onTell,
+  storyCard,
+  storyIndex,
 }) {
   const [tab, setTab] = useState('overview')
   const [copied, setCopied] = useState(false)
@@ -248,6 +252,20 @@ export default function EntityDetail({
       <div className="detail-scroll">
         {tab === 'overview' && (
           <div className="overview-layout">
+            {storyCard && (
+              <section className="detail-story-card" data-status={storyCard.status}>
+                <h2>{language === 'zh' ? '神祇故事' : 'Deity story'}</h2>
+                <DeityStoryReader
+                  card={storyCard}
+                  headingLevel={3}
+                  index={storyIndex}
+                  key={storyCard.entityId}
+                  language={language}
+                  onOpenStory={onOpenStory}
+                  onTell={onTell}
+                />
+              </section>
+            )}
             <ConflictRegister conflicts={entity.conflicts} copy={copy} language={language} />
             <section className="basic-information">
               <h2>{copy.basicInformation}</h2>

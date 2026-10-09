@@ -19,6 +19,8 @@
 | `HOLDS` | 娜乌妮《亡灵书》纸草 30.3.31 (`museum.met.nauny_book_dead_30_3_31`) | VERIFIED / HISTORICAL_REALITY / ARCHAEOLOGICAL | 1 | 0.99 | inferred inverse; `claim.v070.egypt.nauny_held_met` |
 | `HOLDS` | 拉-哈拉赫提釉陶护符 74.51.4497 (`museum.met.ra_horakhty_amulet_74_51_4497`) | VERIFIED / HISTORICAL_REALITY / ARCHAEOLOGICAL | 1 | 0.99 | inferred inverse; `claim.v070.egypt.amulet_held_met` |
 | `HOLDS` | 卜塔-索卡尔-奥西里斯像内部亚麻与泥 21.9.1d (`museum.met.pso_contents_21_9_1d`) | VERIFIED / HISTORICAL_REALITY / ARCHAEOLOGICAL | 1 | 0.99 | inferred inverse; `claim.v0110.contents_held` |
+| `HOLDS` | 哀悼的奈芙蒂斯木像 (`museum.egypt.mourning_nephthys_met`) | VERIFIED / HISTORICAL_REALITY / ARCHAEOLOGICAL | 1 | 0.97 | inferred inverse; `claim.v0310.egypt.nephthys_held_met` |
+| `HOLDS` | 大都会博物馆恰克神陶盘 (`museum.maya.chahk_plate_met`) | VERIFIED / HISTORICAL_REALITY / ARCHAEOLOGICAL | 1 | 0.95 | inferred inverse; `claim.v0310.maya.chahk_held_met` |
 | `HOLDS` | 佩斯乔维敏的卜塔-索卡尔-奥西里斯像 34.9 (`museum.met.pso_34_9`) | VERIFIED / HISTORICAL_REALITY / ARCHAEOLOGICAL | 1 | 0.99 | inferred inverse; `claim.v0110.fig34_held` |
 | `HOLDS` | 帕赫伦孔苏的卜塔-索卡尔-奥西里斯像 28.3.48 (`museum.met.pso_28_3_48`) | VERIFIED / HISTORICAL_REALITY / ARCHAEOLOGICAL | 1 | 0.99 | inferred inverse; `claim.v0110.fig28_held` |
 | `HOLDS` | 神庙乐师伊希特的卜塔-索卡尔-奥西里斯像 21.9.1a-c (`museum.met.pso_21_9_1abc`) | VERIFIED / HISTORICAL_REALITY / ARCHAEOLOGICAL | 1 | 0.99 | inferred inverse; `claim.v0110.ihyt_held` |

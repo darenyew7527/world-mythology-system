@@ -1,9 +1,18 @@
 entity_id,place_type,ancient_name,modern_name,country_code,latitude,longitude,date_range,builders,architecture_summary,excavation_summary,major_finds_summary,unesco_status,reality_status,evidence_grade
 monument.khmer.angkor_wat_churning_relief,ARCHITECTURAL_RELIEF,ចម្លាក់កូរសមុទ្រទឹកដោះ,Angkor Wat Churning of the Sea of Milk relief,KH,,,Angkorian period,,APSARA locates the in-situ relief in the southern section of Angkor Wat's eastern gallery.,,Material witness identified as the Churning of the Sea of Milk.,Within Angkor World Heritage property 668,REAL_ARCHAEOLOGICAL,OFFICIAL_HERITAGE_AUTHORITY
+monument.maya.el_castillo_chichen,PYRAMID_TEMPLE,,"El Castillo, Chichen-Itza",MX,,,,,,,,Part of World Heritage property 483,REAL_ARCHAEOLOGICAL,OFFICIAL_UNESCO
 museum.ugarit.baal_thunder_ao15775,MONUMENT,,,,,,,,,,,,REAL_ARCHAEOLOGICAL,UNASSESSED
 place.chinese.buzhou_mountain,MYTHICAL_MOUNTAIN,不周之山,,,,,,,,,,,MYTHICAL,TEXTUAL
 place.hindu.mandara,MYTHICAL_MOUNTAIN,मन्दर,,,,,,,,,,,MYTHICAL,TEXTUAL
+place.japanese.onogoro,MYTHICAL_ISLAND,淤能碁呂島,,,,,,,,,,,MYTHICAL,TEXTUAL
+place.japanese.yomi,REALM_OF_THE_DEAD,黄泉國,,,,,,,,,,,MYTHICAL,TEXTUAL
+place.mexica.coatepec,MYTHIC_MOUNTAIN,Coatepec,,,,,,,,,,,MYTHICAL,TEXTUAL
+place.norse.folkvangr,DIVINE_DWELLING,Fólkvangr,,,,,,,,,,,MYTHICAL,TEXTUAL
+place.norse.himinbjorg,DIVINE_DWELLING,Himinbjǫrg,,,,,,,,,,,MYTHICAL,TEXTUAL
 place.norse.mimisbrunnr,MYTHICAL_WELL,Mímisbrunnr,,,,,Mythic time,,,,,,MYTHICAL,TEXTUAL
+place.norse.noatun,DIVINE_DWELLING,Nóatún,,,,,,,,,,,MYTHICAL,TEXTUAL
+place.sumerian.dilmun,MYTHIC_LAND,Dilmun,,,,,,,,,,,MIXED,TEXTUAL
+place.zoroastrian.airyana_vaejah,SACRED_LAND,Airyana Vaejah,,,,,,,,,,,MIXED,TEXTUAL
 realm.egypt.duat,REALM,,,,,,,,,,,,MYTHICAL,UNASSESSED
 realm.greek.tartarus,MYTHICAL_REALM,Τάρταρος,,,,,Mythic time,,,,,,MYTHICAL,TEXTUAL
 realm.norse.valhalla,REALM,,,,,,,,,,,,MYTHICAL,UNASSESSED
@@ -51,6 +60,7 @@ site.greece.sacred_way,PROCESSIONAL_ROUTE,Ἱερὰ Ὁδός,"Sacred Way, Athe
 site.greece.sacred_way_aphrodite_daphne,OPEN_AIR_SANCTUARY,,Chaidari / Daphne,GR,,,Classical to Roman period,,"Small temple, courtyard, altar and a four-sided building; natural rock niches held offerings",Official regional archaeological catalogue record,Inscriptions and offerings associated with Aphrodite,,REAL_ARCHAEOLOGICAL,SOURCE_BACKED
 site.greece.sacred_way_roman_bridge,BRIDGE,,Elefsina,GR,,,Hadrianic period,Roman-period builders,Bridge carrying a dated Sacred Way segment over the Eleusinian Cephissus,Official regional archaeological catalogue record,Preserved road-and-bridge fabric,,REAL_ARCHAEOLOGICAL,SOURCE_BACKED
 site.guatemala.tikal,ANCIENT_CITY,,,GT,,,,,,,,World Heritage 64,REAL_ARCHAEOLOGICAL,BASELINE_METADATA
+site.hawaii.halemaumau,SACRED_VOLCANIC_CRATER,Halemaʻumaʻu,"Halemaʻumaʻu, Kīlauea summit",US,,,,,,,,,REAL_SACRED,OFFICIAL_PARK_INTERPRETATION
 site.iceland.sacred_scope,COLLECTION_SCOPE,,,IS,,,,,,,,,MIXED,BASELINE_METADATA
 site.india.elephanta,ROCK_CUT_CAVES,,,IN,,,,,,,,World Heritage,REAL_ARCHAEOLOGICAL,BASELINE_METADATA
 site.india.ellora,ROCK_CUT_CAVES,,,IN,,,,,,,,World Heritage,REAL_ARCHAEOLOGICAL,BASELINE_METADATA
@@ -78,11 +88,13 @@ site.khmer.angkor_wat,TEMPLE,អង្គរវត្ត,Angkor Wat,KH,,,Angkori
 site.mexico.chichen_itza,ANCIENT_CITY,,,MX,,,,,,,,World Heritage 483,REAL_ARCHAEOLOGICAL,BASELINE_METADATA
 site.mexico.monte_alban,ANCIENT_CITY,,,MX,,,,,,,,World Heritage,REAL_ARCHAEOLOGICAL,BASELINE_METADATA
 site.mexico.palenque,ANCIENT_CITY,,,MX,,,,,,,,World Heritage,REAL_ARCHAEOLOGICAL,BASELINE_METADATA
+site.mexico.templo_mayor,TWIN_SHRINE_PYRAMID,Huey Teocalli,"Templo Mayor, Mexico City",MX,,,Founded 1325 with later enlargements (INAH),,,,,,REAL_ARCHAEOLOGICAL,OFFICIAL_HERITAGE_AUTHORITY
 site.mexico.tenochtitlan,ANCIENT_CAPITAL,,,MX,,,,,,,,Within Historic Centre of Mexico City World Heritage,REAL_HISTORIC,BASELINE_METADATA
 site.mexico.teotihuacan,ANCIENT_CITY,,,MX,,,,,,,,World Heritage 414,REAL_ARCHAEOLOGICAL,BASELINE_METADATA
 site.micronesia.nan_madol,CEREMONIAL_CENTRE,,,FM,,,,,,,,World Heritage,REAL_ARCHAEOLOGICAL,BASELINE_METADATA
 site.nigeria.benin_city,HISTORIC_CITY_SCOPE,,,NG,,,,,,,,,REAL_HISTORIC,BASELINE_METADATA
 site.nigeria.ife,HISTORIC_SACRED_CITY,,,NG,,,,,,,,,REAL_SACRED,BASELINE_METADATA
+site.nigeria.osun_osogbo,SACRED_GROVE,,"Osogbo, Osun State",NG,,,,,,,,World Heritage property 1118 (2005),REAL_SACRED,OFFICIAL_UNESCO
 site.norse.runestones_scope,COLLECTION_SCOPE,,,,,,,,,,,,REAL_ARCHAEOLOGICAL,BASELINE_METADATA
 site.peru.cusco,HISTORIC_CAPITAL,,,PE,,,,,,,,World Heritage,REAL_HISTORIC,BASELINE_METADATA
 site.peru.machu_picchu,ANDEAN_CITY,,,PE,,,,,,,,World Heritage,REAL_ARCHAEOLOGICAL,BASELINE_METADATA

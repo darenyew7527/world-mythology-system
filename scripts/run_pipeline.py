@@ -16,7 +16,7 @@ from world_mythology.migrations import apply_migrations
 from world_mythology.reporting import generate_reports
 from world_mythology.validation import validate_database, write_validation_report
 from scripts.generate_delivery_index import generate as generate_delivery_index
-from scripts.generate_offline_archive import generate as generate_offline_archive
+from scripts.generate_offline_archive import DEFAULT_MARKDOWN_DIR, generate as generate_offline_archive
 from scripts.generate_schema_catalog import generate as generate_schema_catalog
 from scripts.generate_web_data import DEFAULT_OUTPUT as WEB_DATA_OUTPUT, build_snapshot, write_snapshot
 
@@ -57,7 +57,7 @@ def run_pipeline(database: Path, *, export_root: Path | None = None,
     if generate_reading_outputs:
         generate_delivery_index(database)
         write_snapshot(build_snapshot(database), WEB_DATA_OUTPUT)
-        offline_archive = generate_offline_archive(database)
+        offline_archive = generate_offline_archive(database, markdown_dir=DEFAULT_MARKDOWN_DIR)
     else:
         offline_archive = None
     return {"database": str(database), "migrations_applied": migrations,

@@ -25,4 +25,5 @@
 | being.norse.sindri | 辛德里 | Sindri | DWARF | 北欧 | NEEDS_REVIEW | CONFLICTING |
 | being.norse.sons_of_ivaldi | 伊瓦尔迪之子 | Sons of Ivaldi | CREATURE | 北欧 | DISCOVERED | SOURCE_BACKED |
 | being.norse.ymir | 尤弥尔 | Ymir | GIANT | 北欧 | PARTIAL | UNVERIFIED |
+| monster.sumerian.huwawa | 胡瓦瓦 | Ḫuwawa | MONSTER | 苏美尔 | PARTIAL | SOURCE_BACKED |
 | creature.vedic.vritra | 弗栗多 | Vrtra | MONSTER | 吠陀传统 | PARTIAL | SOURCE_BACKED |

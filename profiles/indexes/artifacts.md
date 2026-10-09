@@ -28,9 +28,11 @@
 | weapon.irish.caladbolg | 卡拉德博尔格 | Caladbolg | WEAPON | 爱尔兰 | PARTIAL | UNVERIFIED |
 | weapon.irish.fragarach | 弗拉加拉赫 | Fragarach | WEAPON | 爱尔兰 | PARTIAL | UNVERIFIED |
 | weapon.irish.gae_bulg | 盖·博尔格 | Gáe Bulg | WEAPON | 爱尔兰 | PARTIAL | UNVERIFIED |
+| artifact.irish.dagda_cauldron | 达格达的大锅 | The Dagda's cauldron | SACRED_OBJECT | 爱尔兰 | PARTIAL | SOURCE_BACKED |
 | weapon.japanese.amenonuhoko | 天沼矛 | Ame-no-Nuboko | WEAPON | 日本神道 | PARTIAL | UNVERIFIED |
 | weapon.japanese.kusanagi | 草薙剑 | Kusanagi-no-Tsurugi | WEAPON | 日本神道 | PARTIAL | SOURCE_BACKED |
 | artifact.norse.draupnir | 德罗普尼尔 | Draupnir | RING | 北欧 | PARTIAL | UNVERIFIED |
+| artifact.norse.gjallarhorn | 加拉尔号角 | Gjallarhorn | ARTIFACT | 北欧 | PARTIAL | SOURCE_BACKED |
 | artifact.norse.gleipnir | 格莱普尼尔 | Gleipnir | ARTIFACT | 北欧 | PARTIAL | UNVERIFIED |
 | weapon.norse.gram | 格拉姆 | Gram | WEAPON | 北欧 | PARTIAL | UNVERIFIED |
 | creature.norse.gullinbursti | 金鬃野猪 | Gullinbursti | DIVINE_BEAST | 北欧 | PARTIAL | PARTIAL |

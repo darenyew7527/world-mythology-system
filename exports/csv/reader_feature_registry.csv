@@ -4,3 +4,4 @@ GLOSSARY_QUICK_LOOK,术语与人物速查,Glossary and character quick look,LOCA
 LOCAL_BOOKMARKS,本机书签,On-device bookmarks,LOCAL_ONLY,0,0,0,0,v0.29.0,Only story IDs are stored in the browser-local versioned state key.
 LOCAL_READING_PROGRESS,本机阅读进度,On-device reading progress,LOCAL_ONLY,0,0,0,0,v0.29.0,Section order and update time stay on the reader device and are never exported.
 OFFLINE_PRINT_ARCHIVE,离线打印故事档案,Offline printable story archive,STATIC_PUBLIC_ARTIFACT,0,0,1,1,v0.29.0,Self-contained HTML and JSON contain public source-scoped summaries only; no reading state is embedded.
+STORYTELLER_MODE,讲故事模式,Storyteller mode,LOCAL_ONLY,0,0,0,0,v0.31.0,Text size and note visibility for storyteller mode are stored only in the existing browser-local reader key.

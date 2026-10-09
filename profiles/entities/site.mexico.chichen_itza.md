@@ -14,7 +14,9 @@
 
 ## 关系网络
 
-当前无关系边；保留为研究缺口。
+| Relation | Target | Review / layer | Evidence | Confidence | Direction |
+|---|---|---|---:|---:|---|
+| `HAS_PART` | 奇琴伊察卡斯蒂略（库库尔坎神庙） (`monument.maya.el_castillo_chichen`) | VERIFIED / HISTORICAL_REALITY / ARCHAEOLOGICAL | 1 | 0.96 | inferred inverse; `claim.v0310.maya.castillo_part` |
 
 ## Claims 与证据
 

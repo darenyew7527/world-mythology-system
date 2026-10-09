@@ -8,8 +8,10 @@ artifact.greek.aegis,DIVINE_ARMOR,[],"{""iliad_5"":""Athena wears the tasselled 
 artifact.greek.caduceus,SCEPTER,[],{},[],[],[],,
 artifact.greek.helm_hades,ARMOR,[],{},[],[],[],,
 artifact.hindu.amrita,DIVINE_ELIXIR,"[""nectar""]",{},"[""immortality""]",[],[],Produced by churning the ocean in both registered textual witnesses.,Seized by the asuras and recovered for the gods through Viṣṇu's female form in both witnesses.
+artifact.irish.dagda_cauldron,CAULDRON,[],{},"[""no company ever went away from it unsatisfied""]",[],[],Brought from the city of Murias (§6).,
 artifact.mesopotamian.tablet_destinies,ARTIFACT,[],{},[],[],[],,
 artifact.norse.draupnir,RING,[],{},[],[],[],,
+artifact.norse.gjallarhorn,HORN,[],{},"[""its blast is heard in all worlds""]",[],[],,Associated with Heimdallr in Gylfaginning 27.
 artifact.norse.gleipnir,ARTIFACT,[],{},[],[],[],,
 artifact.yoruba.ose_sango,SACRED_OBJECT,"[""木（博物馆见证）""]","{""public_museum_witness"":""double-axe-topped staff""}",[],"[""不可写成古代实战武器"",""不得推断受限仪式步骤""]","[""活态传统权限与具体语境优先""]",由具体约鲁巴艺术家与传统语境制作；不同物件不是一件唯一神器。 / Made in specific Yoruba artistic and devotional contexts; not one globally unique artifact.,
 creature.norse.gullinbursti,CRAFTED_DIVINE_BEAST,"[""golden bristles""]","{""form"":""boar"",""bristles"":""golden""}","[""shines in darkness""]",[],[],Produced during the treasure-forging contest in Skáldskaparmál,

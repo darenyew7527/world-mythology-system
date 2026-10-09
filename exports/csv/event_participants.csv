@@ -2,13 +2,30 @@ event_id,participant_id,role,outcome,claim_id
 event.archaeology.darius_statue_discovery_1972,museum.iran.darius_susa_statue,DISCOVERED_OBJECT,Recovered fragmentary and later displayed in Tehran,claim.v0140.discovery_event_statue
 event.babylonian.marduk_tiamat,deity.babylonian.marduk,PARTICIPANT,,claim.babylonian.marduk_participates_combat
 event.babylonian.marduk_tiamat,deity.babylonian.tiamat,PARTICIPANT,,claim.babylonian.tiamat_participates_combat
+event.chinese.battle_of_zhuolu,hero.chinese.yellow_emperor,PARTICIPANT,,claim.v0310.china.huangdi_zhuolu
+event.chinese.battle_of_zhuolu,hero.chinese.chiyou,PARTICIPANT,,claim.v0310.china.chiyou_zhuolu
+event.chinese.fuxi_makes_trigrams,deity.chinese.fu_xi,PARTICIPANT,,claim.v0310.china.fuxi_observes
 event.chinese.gonggong_strikes_buzhou,deity.chinese.gonggong,ACTOR,Strikes Mount Buzhou in anger.,claim.v0300.gonggong.participates
 event.chinese.gonggong_strikes_buzhou,hero.chinese.zhuanxu,RIVAL,Named rival for rulership.,claim.v0300.gonggong.zhuanxu_participates
 event.chinese.gonggong_strikes_buzhou,place.chinese.buzhou_mountain,MYTHIC_PLACE,Struck mountain; no coordinate.,claim.v0300.gonggong.strikes_buzhou
+event.chinese.nezha_fights_wukong,deity.chinese.nezha,PARTICIPANT,,claim.v0310.china.nezha_event
+event.chinese.nezha_fights_wukong,hero.chinese.sun_wukong,PARTICIPANT,,claim.v0310.china.wukong_event
 event.chinese.nuwa_repairs_sky,deity.chinese.nu_wa,ACTOR,Repairs the sky in both witnesses.,claim.v0300.nuwa.participates
 event.chinese.nuwa_repairs_sky,artifact.chinese.five_colored_stones,INSTRUMENT,Refined to patch the sky.,claim.v0300.nuwa.uses_stones
 event.chinese.nuwa_repairs_sky,creature.chinese.ao_turtle,MATERIAL,Legs set up as the four poles.,claim.v0300.nuwa.ao_legs
 event.chinese.nuwa_repairs_sky,dragon.chinese.black_dragon_jizhou,OPPONENT,Killed in the Huainanzi witness only.,claim.v0300.nuwa.kills_black_dragon
+event.chinese.pangu_heaven_earth,being.chinese.pangu,PARTICIPANT,,claim.v0310.china.pangu_separation
+event.egyptian.heavenly_cow_punishment,deity.egyptian.ra,PARTICIPANT,,claim.v0310.egypt.ra_rebellion
+event.egyptian.heavenly_cow_punishment,deity.egyptian.sekhmet,PARTICIPANT,,claim.v0310.egypt.sekhmet_event
+event.egyptian.heavenly_cow_punishment,deity.egyptian.hathor,PARTICIPANT,,claim.v0310.egypt.hathor_event
+event.egyptian.osiris_murder_restoration,deity.egyptian.osiris,PARTICIPANT,,claim.v0310.egypt.osiris_event
+event.egyptian.osiris_murder_restoration,deity.egyptian.seth,PARTICIPANT,,claim.v0310.egypt.seth_event
+event.egyptian.osiris_murder_restoration,deity.egyptian.isis,PARTICIPANT,,claim.v0310.egypt.isis_restores
+event.egyptian.separation_geb_nut,deity.egyptian.shu,PARTICIPANT,,claim.v0310.egypt.shu_separation
+event.egyptian.separation_geb_nut,deity.egyptian.geb,PARTICIPANT,,claim.v0310.egypt.geb_separation
+event.egyptian.separation_geb_nut,deity.egyptian.nut,PARTICIPANT,,claim.v0310.egypt.nut_separation
+event.egyptian.weighing_heart_ani,deity.egyptian.anubis,PARTICIPANT,,claim.v0310.egypt.anubis_weighing
+event.egyptian.weighing_heart_ani,deity.egyptian.thoth,PARTICIPANT,,claim.v0310.egypt.thoth_weighing
 event.greek.persephone_abduction,deity.greek.persephone,ABDUCTED,Taken to the underworld in this hymn witness,claim.v050.h2.persephone_participated
 event.greek.persephone_abduction,deity.greek.demeter,SEARCHER,Searches for Persephone,claim.v050.h2.demeter_participated
 event.greek.persephone_abduction,deity.greek.hades,ABDUCTOR,Takes Persephone below,claim.v050.h2.hades_participated
@@ -16,6 +33,7 @@ event.greek.titanomachy,deity.greek.zeus,LEADER,Victory in the Hesiodic witness,
 event.greek.titanomachy,deity.greek.cronus,TITAN_LEADER,Defeat in the Hesiodic witness,claim.v050.theogony.cronus_participated_titanomachy
 event.greek.zeus_typhon_battle,creature.greek.typhon,OPPONENT,Defeated,claim.typhon.participated_battle
 event.greek.zeus_typhon_battle,deity.greek.zeus,OPPONENT,Victorious,claim.zeus.participated_typhon
+event.hawaiian.pele_journey,deity.hawaiian.pele,PARTICIPANT,,claim.v0310.hawaii.pele_kahiki
 event.hindu.samudra_manthana,deity.hindu.vishnu,ACTOR,Advises and acts in both witnesses.,claim.v0300.churn.vishnu_participates
 event.hindu.samudra_manthana,artifact.hindu.amrita,SOUGHT_OBJECT,Object of the churning.,claim.v0300.churn.amrita_sought
 event.hindu.samudra_manthana,place.hindu.mandara,CHURNING_ROD,Serves as the rod in both witnesses.,claim.v0300.churn.mandara_rod
@@ -26,25 +44,57 @@ event.hindu.samudra_manthana,deity.hindu.shiva,POISON_DRINKER,Bhāgavata Purā�
 event.hindu.samudra_manthana,deity.hindu.dhanvantari,BEARER_OF_AMRITA,Emerges with the amṛta in both witnesses.,claim.v0300.churn.dhanvantari_carries_amrita
 event.hindu.samudra_manthana,deity.hindu.mohini,DISTRIBUTOR,Bhāgavata Purāṇa witness only.,claim.v0300.churn.mohini_distributes
 event.hindu.samudra_manthana,demon.hindu.rahu,DISGUISED_DRINKER,Beheaded with the discus in both witnesses.,claim.v0300.churn.rahu_drinks
+event.hindu.samudra_manthana,deity.hindu.brahma,PARTICIPANT,,claim.v0310.hindu.brahma_churning
+event.irish.second_battle_mag_tuired,deity.irish.lugh,PARTICIPANT,,claim.v0310.irish.lugh_battle
+event.irish.second_battle_mag_tuired,deity.irish.dagda,PARTICIPANT,,claim.v0310.irish.dagda_battle
+event.irish.second_battle_mag_tuired,deity.irish.morrigan,PARTICIPANT,,claim.v0310.irish.morrigan_battle
+event.japanese.izanagi_purification,deity.japanese.izanagi,PARTICIPANT,,claim.v0310.japan.izanagi_purification
+event.japanese.izanagi_visits_yomi,deity.japanese.izanagi,PARTICIPANT,,claim.v0310.japan.izanagi_yomi
+event.japanese.izanagi_visits_yomi,deity.japanese.izanami,PARTICIPANT,,claim.v0310.japan.izanami_yomi
 event.japanese.kusanagi.atsuta_enshrinement,hero.japanese.yamato_takeru,TRANSMISSION_FIGURE,Linked to the official shrine's account.,claim.v0280.japan.yamato_atsuta_event
 event.japanese.kusanagi.atsuta_enshrinement,weapon.japanese.kusanagi,SACRED_ARTIFACT,Central to the public enshrinement account.,claim.v0280.japan.kusanagi_atsuta_event
 event.japanese.kusanagi.atsuta_enshrinement,site.japanese.atsuta_jingu,DESTINATION,Officially named shrine context.,claim.v0280.japan.kusanagi_worshipped_atsuta
 event.japanese.kusanagi.discovery,deity.japanese.susanoo,ACTOR,Defeats the serpent and finds the sword.,claim.v0280.japan.susanoo_discovery_event
 event.japanese.kusanagi.discovery,monster.japanese.yamata_no_orochi,OPPONENT,Defeated in the academic narrative summary.,claim.v0280.japan.orochi_discovery_event
 event.japanese.kusanagi.discovery,weapon.japanese.kusanagi,DISCOVERED_ARTIFACT,Found in the serpent's tail in the narrative.,claim.v0280.japan.kusanagi_discovery_event
+event.japanese.onogoro_creation,deity.japanese.izanagi,PARTICIPANT,,claim.v0310.japan.izanagi_onogoro
+event.japanese.onogoro_creation,deity.japanese.izanami,PARTICIPANT,,claim.v0310.japan.izanami_onogoro
 event.khmer.angkor_wat_churning_scene,monument.khmer.angkor_wat_churning_relief,MATERIAL_WITNESS,In-situ relief representing the scene.,claim.v0280.khmer.relief_depicts_churning
 event.khmer.angkor_wat_churning_scene,site.khmer.angkor_wat,REAL_SITE,Holds the material witness in its gallery.,claim.v0280.khmer.relief_part_of_angkor_wat
 event.kiche.hero_twins.seven_macaw,hero.kiche.hunahpu,HERO,Acts with Xbalanque in the public episode.,claim.v0280.maya.hunahpu_participates
 event.kiche.hero_twins.seven_macaw,hero.kiche.xbalanque,HERO,Acts with Hunahpu in the public episode.,claim.v0280.maya.xbalanque_participates
 event.kiche.hero_twins.seven_macaw,monster.kiche.seven_macaw,OPPONENT,Defeated in the public overview.,claim.v0280.maya.seven_macaw_participates
+event.maori.separation_rangi_papa,deity.maori.ranginui,PARTICIPANT,,claim.v0310.maori.ranginui_separated
+event.maori.separation_rangi_papa,deity.maori.papatuanuku,PARTICIPANT,,claim.v0310.maori.papatuanuku_separated
+event.maori.separation_rangi_papa,deity.polynesian.tane,PARTICIPANT,,claim.v0310.maori.tane_some_versions
+event.mexica.birth_of_huitzilopochtli,deity.mexica.coatlicue,PARTICIPANT,,claim.v0310.mexica.coatlicue_feathers
+event.mexica.birth_of_huitzilopochtli,deity.mexica.coyolxauhqui,PARTICIPANT,,claim.v0310.mexica.coyol_event
+event.mexica.birth_of_huitzilopochtli,deity.mexica.huitzilopochtli,PARTICIPANT,,claim.v0310.mexica.huitz_armed
+event.mexica.quetzalcoatl_tollan_end,deity.mexica.quetzalcoatl,PARTICIPANT,,claim.v0310.mexica.quetzal_event
+event.mexica.quetzalcoatl_tollan_end,deity.mexica.tezcatlipoca,PARTICIPANT,,claim.v0310.mexica.tezca_event
+event.norse.binding_of_fenrir,deity.norse.tyr,PARTICIPANT,,claim.v0310.norse.tyr_fenrir
+event.norse.binding_of_fenrir,creature.norse.fenrir,PARTICIPANT,,claim.v0310.norse.fenrir_bound
+event.norse.death_of_baldr,deity.norse.frigg,PARTICIPANT,,claim.v0310.norse.frigg_oaths
+event.norse.death_of_baldr,deity.norse.baldr,PARTICIPANT,,claim.v0310.norse.baldr_death
 event.norse.forging_divine_treasures,being.norse.brokkr,SMITH_AND_BELLOWS,Treasures completed,claim.brokkr.participated_forging
 event.norse.forging_divine_treasures,being.norse.eitri,SMITH,Treasures completed,claim.eitri.participated_forging
 event.norse.ragnarok,deity.norse.odin,PARTICIPANT,,claim.norse.odin_participates_ragnarok
 event.norse.ragnarok,creature.norse.fenrir,PARTICIPANT,,claim.norse.fenrir_participates_ragnarok
+event.norse.slaying_of_ymir,being.norse.ymir,PARTICIPANT,,claim.v0310.norse.ymir_event
+event.norse.slaying_of_ymir,deity.norse.odin,PARTICIPANT,,claim.v0310.norse.odin_ymir_event
 event.persia.darius_statue_transfer_egypt_susa,museum.iran.darius_susa_statue,TRANSFERRED_OBJECT,Installed at Susa gate,claim.v0140.transfer_subject
 event.persia.darius_statue_transfer_egypt_susa,historical.achaemenid.xerxes_i,ATTRIBUTED_ROYAL_AGENT,Transfer attributed in modern scholarship,claim.v0140.transfer_xerxes
+event.sumerian.enki_ninhursag,deity.sumerian.ninhursag,PARTICIPANT,,claim.v0310.sumer.ninhursag_curse
+event.sumerian.enki_ninhursag,deity.sumerian.enki,PARTICIPANT,,claim.v0310.sumer.enki_plants
+event.sumerian.gilgamesh_huwawa,hero.sumerian.gilgamesh,PARTICIPANT,,claim.v0310.sumer.gilgamesh_event
+event.sumerian.gilgamesh_huwawa,deity.sumerian.utu,PARTICIPANT,,claim.v0310.sumer.utu_told
+event.sumerian.gilgamesh_huwawa,monster.sumerian.huwawa,PARTICIPANT,,claim.v0310.sumer.huwawa_event
 event.sumerian.inanna_descent,deity.sumerian.inanna,PARTICIPANT,,claim.sumerian.inanna_participates_descent
+event.sumerian.nanna_journey,deity.sumerian.nanna,PARTICIPANT,,claim.v0310.sumer.nanna_journey
+event.sumerian.nanna_journey,deity.sumerian.enlil,PARTICIPANT,,claim.v0310.sumer.enlil_blesses
 event.ugaritic.baal_yamm_ktu12,deity.ugaritic.baal,COMBATANT,Yamm is made to fall in the registered reading,claim.v060.ugaritic.baal_participated_yamm_event
 event.ugaritic.baal_yamm_ktu12,deity.ugaritic.yam,OPPONENT,Falls after the second named weapon blow in the registered reading,claim.v060.ugaritic.yamm_participated_event
 event.vedic.indra_vritra_rv132,deity.vedic.indra,COMBATANT,Kills Vrtra in this hymn witness,claim.v060.vedic.indra_participated_vrtra_event
 event.vedic.indra_vritra_rv132,creature.vedic.vritra,OPPONENT,Killed in this hymn witness,claim.v060.vedic.vrtra_participated_event
+event.zoroastrian.sixteen_lands,deity.zoroastrian.ahura_mazda,PARTICIPANT,,claim.v0310.zoro.ahura_event
+event.zoroastrian.sixteen_lands,being.zoroastrian.angra_mainyu,PARTICIPANT,,claim.v0310.zoro.angra_event

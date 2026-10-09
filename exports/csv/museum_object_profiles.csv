@@ -2,10 +2,13 @@ entity_id,holding_institution,catalogue_number,object_type,provenance,date_range
 museum.babylon.flood_tablet_k3375,British Museum,K.3375,CUNEIFORM_TABLET,,,
 museum.bm.khepri_hymn_stela_ea826,British Museum,EA826,Stela with solar hymn,Egypt,,Catalogue record retained
 museum.bm.vajra_1948_0716_11_b,British Museum,"1948,0716.11.b",Buddhist ritual vajra,Museum catalogue scope,Date pending fuller catalogue audit,Official British Museum object record.
+museum.egypt.mourning_isis_met,The Metropolitan Museum of Art,12.182.23b,WOODEN_FIGURE,,332–30 BCE,"Rogers Fund, 1912"
+museum.egypt.mourning_nephthys_met,The Metropolitan Museum of Art,12.182.23a,WOODEN_FIGURE,,332–30 BCE,"Rogers Fund, 1912"
 museum.egypt.papyrus_ani_frame3,British Museum,"EA10470,3",PAPYRUS,,,
 museum.greek.zeus_poseidon_met_21_88_52,Metropolitan Museum of Art,21.88.52,BRONZE_STATUETTE,,,
 museum.iran.darius_susa_statue,National Museum of Iran,Susa Darius statue,Egyptian-style inscribed stone statue,Found at Susa; made in Egypt according to the registered scholarly synthesis,"Reign of Darius I, 522-486 BCE",Displayed at the National Museum of Iran; exact inventory number remains queued and is not inferred from secondary records
 museum.japan.sotatsu_wind_thunder_screens,Kyoto National Museum catalogue; owned by Kennin-ji Temple,National Treasure; Kennin-ji pair,PAIR_OF_TWO_FOLD_SCREENS,"Kennin-ji Temple, Kyoto","Edo period, 17th century",Official catalogue states ink and color on gold-foiled paper; no image is packaged.
+museum.maya.chahk_plate_met,The Metropolitan Museum of Art,2021.320,CERAMIC_PLATE,,Classic Maya,"Gift of the Mol Collection, 2021"
 museum.met.amun_re_scarab_09_180_953,The Metropolitan Museum of Art,09.180.953,Faience scarab,Lisht North cemetery debris; MMA excavations,ca. 1300-1080 BCE,"Rogers Fund, 1909"
 museum.met.eleusinian_relief_14_130_9,The Metropolitan Museum of Art,14.130.9,MARBLE_RELIEF_FRAGMENTS,"Roman copy fragments, set in a cast of the Greek original",ca. 27 BCE-14 CE,Official museum catalogue; public-domain object media is not packaged.
 museum.met.nauny_book_dead_30_3_31,The Metropolitan Museum of Art,30.3.31,"Papyrus, paint","Thebes, Deir el-Bahri, Tomb TT358",ca. 1050 BCE,"MMA excavations, 1928-29; Rogers Fund, 1930"

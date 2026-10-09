@@ -29,6 +29,7 @@ text.chinese.liezi.tangwen_nuwa_gonggong_passage,RECEIVED_CLASSICAL_PASSAGE,lang
 text.chinese.local_gazetteers,CORPUS_SCOPE,lang.lzh,Multiple,,Multiple periods,,,,,,
 text.chinese.lunheng,PHILOSOPHICAL_TEXT,lang.lzh,Wang Chong,,Eastern Han,Transmitted editions,Thematic chapters including Lei Xu,Chinese Text Project,urn:ctext:lunheng/lei-xu,Traditional witness and site rights differ,Lei Xu records and argues against a thunder-god image explanation.
 text.chinese.mutianzizhuan,NARRATIVE,lang.lzh,Unknown,,Ancient text with complex transmission,,,,,,
+text.chinese.sanwu_liji,LOST_WORK_KNOWN_FROM_QUOTATION,lang.lzh,,,"Three Kingdoms, attributed to Xu Zheng",,,,,,Quoted in Yiwen leiju juan 1 and Taiping yulan juan 1 for Pangu between the separating heaven and earth.
 text.chinese.shang_shu,RECEIVED_CLASSIC,lang.lzh,,Layered received compilation,Multiple textual layers; do not assign a single date,,Canon includes Zhou Documents and Hong Fan,,,Ancient text public domain; digital edition terms vary,Documents and speeches transmitted in received and excavated traditions.
 text.chinese.shangshu,CLASSIC,lang.lzh,Multiple,,Layered compilation,,,,,,
 text.chinese.shanhaijing,GEOGRAPHIC_MYTHOGRAPHY,lang.lzh,Multiple/unknown,,Layered ancient text,,,,,,
@@ -36,6 +37,7 @@ text.chinese.shiji_ancient,HISTORIOGRAPHY,lang.lzh,Sima Qian,,Western Han,,,,,,
 text.chinese.soushenji,MIRABILIA,lang.lzh,Gan Bao,,Six Dynasties,,,,,,
 text.chinese.tianwen,POEM,lang.lzh,Attributed to Qu Yuan,,Preserved in Chu Ci,,,,,,
 text.chinese.xiyouji,LATER_LITERATURE,lang.lzh,Traditionally attributed to Wu Cheng'en,,Ming dynasty,,,,,,
+text.chinese.zhouyi_xici,CLASSICAL_COMMENTARY,lang.lzh,,,Received Warring States–Han layer; dating debated,,,,,,Xi Ci II opens its sequence of sage inventions with Baoxi making the eight trigrams and nets.
 text.egypt.amduat,UNDERWORLD_BOOK,lang.egy,Multiple,,New Kingdom,,,,,,
 text.egypt.book_caverns,UNDERWORLD_BOOK,lang.egy,Multiple,,New Kingdom,,,,,,
 text.egypt.book_dead,FUNERARY_CORPUS,lang.egy,Multiple,,New Kingdom onward,,,,,,
@@ -56,6 +58,7 @@ text.egypt.memphite_theology,THEOLOGICAL_TEXT,lang.egy,Multiple,,Known through l
 text.egypt.pyramid_texts,FUNERARY_CORPUS,lang.egy,Multiple,,Old Kingdom onward,,,,,,
 text.egypt.sun_hymn_standard_c_prime,Sun hymn,lang.egy,,Assmann scholarly classification,New Kingdom hymn tradition,UCL page presents a transliterated and translated witness,Section-level hymn within the Chapter 15 research entry,UCL Digital Egypt,,Ancient text public domain; UCL edition and translation rights apply,The registered passage addresses Ra in rising with the composite form Atum-Horakhty.
 text.egypt.temple_tomb_inscriptions,CORPUS_SCOPE,lang.egy,,,Multiple periods,,,,,,
+text.egyptian.tale_heavenly_cow,RELIGIOUS_COMPOSITION,lang.egy,,,New Kingdom,,,,,,"Rebellion against Ra, the Eye of Ra as Sekhmet, the red beer and the return to Hathor."
 text.greek.apollodorus_library,MYTHOGRAPHIC_COMPILATION,lang.grc,Pseudo-Apollodorus,,Commonly dated to the first or second century CE,,Books and numbered sections,,,Ancient text public domain; digital editions retain presentation terms,Genealogical and narrative compendium with separate Perses contexts.
 text.greek.argonautica,EPIC,lang.grc,Apollonius of Rhodes,,Hellenistic,,,,,,
 text.greek.bibliotheca,MYTHOGRAPHY,lang.grc,Pseudo-Apollodorus,,Roman imperial period,,,,,,
@@ -95,6 +98,7 @@ text.indian.mahabharata,EPIC,lang.san,Traditional attribution to Vyāsa,,Layered
 text.indian.mahabharata.adiparvan_churning,CRITICAL_EDITION_PASSAGE,lang.san,Traditional attribution to Vyāsa,"BORI critical edition, ed. V. S. Sukthankar et al.",Layered epic composition; critical edition published 1933,Constituted text of the critical edition,Ādiparvan 1.15–1.17 within the Āstīkaparvan,GRETIL / University of Goettingen,,Reference use; source-file rights apply,"Gods seek the amṛta, Mandara and Vāsuki, the tortoise king Akūpāra, Dhanvantari, the deluding female form, Rāhu and the battle."
 text.indian.ramayana,EPIC,lang.san,Traditional attribution to Vālmīki,,Layered composition,,,,,,
 text.indian.regional_epics,CORPUS_SCOPE,,Multiple communities,,Living and historical traditions,,,,,,
+text.irish.cath_maige_tuired,SAGA,lang.gle,,,Medieval Irish; composition dates debated,,,,,,The Túatha Dé Danann prepare for and win the battle against the Fomoire; ends with the Morrígan's prophecies.
 text.jain.corpus,CORPUS_SCOPE,,Multiple,,Multiple periods,,,,,,
 text.japan.yamashiro_fudoki_kamo_fragment,QUOTED_FRAGMENT,lang.ojp,,,Provincial gazetteer tradition; exact original date and transmission require edition audit,Later quotation witnesses,Fragment concerning Kamo genealogy,Quotation-chain repositories pending,Yamashiro no kuni fudoki itsubun,Ancient fragment public domain; modern editions retain rights,"Fragmentary witness for Tamayorihime, the red arrow, Honoikazuchi of Otokuni and Kamo Wakeikazuchi."
 text.japanese.fudoki,GAZETTEER,lang.ojp,Provincial compilers,,Eighth century onward,,,,,,
@@ -156,3 +160,5 @@ text.yoruba.ifa_corpus,LIVING_ORAL_CORPUS,lang.yrb,Lineages and practitioners,,L
 text.zoroastrian.avesta,SCRIPTURE_CORPUS,lang.ave,Multiple,,Layered oral and manuscript history,,,,,,
 text.zoroastrian.bundahishn,COSMOGONIC_TEXT,lang.pal,Multiple,,Middle Persian compilation,,,,,,
 text.zoroastrian.denkard,ENCYCLOPEDIC_TEXT,lang.pal,Multiple,,Middle Persian compilation,,,,,,
+text.zoroastrian.mihr_yasht,HYMN,lang.ave,,,Young Avestan; dating debated,,,,,,"Hymn praising Mithra, lord of wide pastures, guardian of the contract, with a thousand ears and ten thousand eyes."
+text.zoroastrian.videvdad_fargard1,SCRIPTURE_CHAPTER,lang.ave,,,Young Avestan; dating debated,,,,,,List of sixteen lands created by Ahura Mazda and the plagues Angra Mainyu set against them.

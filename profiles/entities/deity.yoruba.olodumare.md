@@ -8,6 +8,10 @@
 - 研究状态: `PARTIAL`
 - 证据状态: `UNVERIFIED`
 
+## 概要
+
+活态约鲁巴传统中的至高存在；在具名社区权威授权之前，本站不发布故事。 / Supreme being in living Yorùbá tradition; no public story is published here until a named community authority grants scope.
+
 ## 分类
 
 `DEITY`

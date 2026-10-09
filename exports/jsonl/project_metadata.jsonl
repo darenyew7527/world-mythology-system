@@ -1,10 +1,10 @@
 {"key":"baseline_statement","updated_at":"2026-08-10T00:00:00Z","value":"Current publicly discoverable material has a staged knowledge baseline; the system remains expandable."}
 {"key":"completion_policy","updated_at":"2026-08-10T00:00:00Z","value":"NO_ALL_COMPLETE"}
-{"key":"data_version","updated_at":"2026-10-02T06:30:00Z","value":"0.30.0"}
-{"key":"generated_at","updated_at":"2026-10-02T06:30:00Z","value":"2026-10-02T06:30:00Z"}
+{"key":"data_version","updated_at":"2026-10-09T03:00:00Z","value":"0.31.0"}
+{"key":"generated_at","updated_at":"2026-10-09T03:00:00Z","value":"2026-10-09T03:00:00Z"}
 {"key":"project_name","updated_at":"2026-08-10T00:00:00Z","value":"世界神话系统 / World Mythology System"}
-{"key":"project_status","updated_at":"2026-10-02T06:30:00Z","value":"v0.30.0 sealed staged checkpoint: global story expansion continues; textual witnesses stay separate and permission blocks are target-local, never ALL COMPLETE"}
-{"key":"project_version","updated_at":"2026-10-02T06:30:00Z","value":"0.30.0-global-story-expansion-batch-2"}
-{"key":"schema_version","updated_at":"2026-10-02T06:30:00Z","value":"42"}
+{"key":"project_status","updated_at":"2026-10-09T03:00:00Z","value":"v0.31.0 sealed staged checkpoint: every deity has a story card; living-tradition permission limits stay target-local, never ALL COMPLETE"}
+{"key":"project_version","updated_at":"2026-10-09T03:00:00Z","value":"0.31.0-deity-stories"}
+{"key":"schema_version","updated_at":"2026-10-09T03:00:00Z","value":"44"}
 {"key":"story_route_policy","updated_at":"2026-08-30T03:30:00Z","value":"Reading routes are editorial navigation, not common-origin claims; event order is not absolute chronology"}
 {"key":"story_witness_policy","updated_at":"2026-08-31T23:05:00Z","value":"Witnesses remain separate; alignments are editorial navigation; NOT_STATED and UNMODELED never become inferred facts"}

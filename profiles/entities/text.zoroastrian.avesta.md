@@ -14,7 +14,9 @@
 
 ## 关系网络
 
-当前无关系边；保留为研究缺口。
+| Relation | Target | Review / layer | Evidence | Confidence | Direction |
+|---|---|---|---:|---:|---|
+| `HAS_PART` | 《密赫尔颂》（第十颂） (`text.zoroastrian.mihr_yasht`) | VERIFIED / HISTORICAL_REALITY / TEXTUAL_WITNESS | 1 | 0.95 | inferred inverse; `claim.v0310.zoro.mihr_yasht_witness` |
 
 ## Claims 与证据
 

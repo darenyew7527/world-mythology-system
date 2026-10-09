@@ -11,12 +11,17 @@ from __future__ import annotations
 import argparse
 import json
 import sqlite3
+import sys
 from collections import Counter, defaultdict
 from pathlib import Path
 from typing import Any
 
 
 ROOT = Path(__file__).resolve().parents[1]
+if str(ROOT / "src") not in sys.path:
+    sys.path.insert(0, str(ROOT / "src"))
+
+from world_mythology.story_cards import build_deity_story_cards, card_status_counts  # noqa: E402
 DEFAULT_DATABASE = ROOT / "database" / "world_mythology.sqlite"
 DEFAULT_OUTPUT = ROOT / "web" / "public" / "data" / "site-data.json"
 
@@ -1142,6 +1147,12 @@ def build_snapshot(database_path: Path) -> dict[str, Any]:
             }
         )
 
+    predicate_labels = {
+        row["code"]: row["label_zh"]
+        for row in _rows(connection, "SELECT code,label_zh FROM relationship_types WHERE label_zh IS NOT NULL")
+    }
+    deity_story_cards = build_deity_story_cards(entities, stories, access_policies, predicate_labels)
+
     snapshot = {
         "meta": {
             "projectVersion": project_version,
@@ -1192,7 +1203,9 @@ def build_snapshot(database_path: Path) -> dict[str, Any]:
                     len(batch["targets"]) for batch in story_expansion_batches
                 ),
                 "readerFeatures": len(reader_features),
+                "deityStoryCards": len(deity_story_cards),
             },
+            "deityStoryCardStatusCounts": card_status_counts(deity_story_cards),
             "typeCounts": dict(sorted(type_counts.items())),
             "evidenceStatusCounts": dict(sorted(evidence_status_counts.items())),
             "researchStatusCounts": dict(sorted(research_status_counts.items())),
@@ -1206,6 +1219,7 @@ def build_snapshot(database_path: Path) -> dict[str, Any]:
         "stories": stories,
         "readingRoutes": reading_routes,
         "storyExpansionBatches": story_expansion_batches,
+        "deityStoryCards": deity_story_cards,
         "queue": queue,
         "comparisons": comparisons,
         "accessPolicies": access_policies,

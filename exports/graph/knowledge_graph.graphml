@@ -13,11 +13,14 @@
     <node id="artifact.greek.caduceus"><data key="name">Caduceus</data><data key="type">SCEPTER</data></node>
     <node id="artifact.greek.helm_hades"><data key="name">Helm of Hades</data><data key="type">ARMOR</data></node>
     <node id="artifact.hindu.amrita"><data key="name">Amṛta</data><data key="type">SACRED_OBJECT</data></node>
+    <node id="artifact.irish.dagda_cauldron"><data key="name">The Dagda's cauldron</data><data key="type">SACRED_OBJECT</data></node>
     <node id="artifact.mesopotamian.tablet_destinies"><data key="name">Tablet of Destinies</data><data key="type">ARTIFACT</data></node>
     <node id="artifact.norse.draupnir"><data key="name">Draupnir</data><data key="type">RING</data></node>
+    <node id="artifact.norse.gjallarhorn"><data key="name">Gjallarhorn</data><data key="type">ARTIFACT</data></node>
     <node id="artifact.norse.gleipnir"><data key="name">Gleipnir</data><data key="type">ARTIFACT</data></node>
     <node id="artifact.yoruba.ose_sango"><data key="name">Ose Sango</data><data key="type">SACRED_OBJECT</data></node>
     <node id="being.chinese.pangu"><data key="name">Pangu</data><data key="type">GIANT</data></node>
+    <node id="being.irish.balor"><data key="name">Balor</data><data key="type">ENTITY</data></node>
     <node id="being.norse.bestla"><data key="name">Bestla</data><data key="type">GIANT</data></node>
     <node id="being.norse.brokkr"><data key="name">Brokkr</data><data key="type">DWARF</data></node>
     <node id="being.norse.eitri"><data key="name">Eitri</data><data key="type">DWARF</data></node>
@@ -27,6 +30,7 @@
     <node id="being.norse.sons_of_ivaldi"><data key="name">Sons of Ivaldi</data><data key="type">CREATURE</data></node>
     <node id="being.norse.ymir"><data key="name">Ymir</data><data key="type">GIANT</data></node>
     <node id="being.zoroastrian.angra_mainyu"><data key="name">Angra Mainyu</data><data key="type">DEITY</data></node>
+    <node id="concept.chinese.bagua"><data key="name">Eight Trigrams (bagua)</data><data key="type">CONCEPT</data></node>
     <node id="concept.chinese.leigong.visual_witnesses"><data key="name">Leigong / thunder-deity visual witness layer</data><data key="type">CONCEPT</data></node>
     <node id="concept.chinese.wuxing"><data key="name">Wuxing</data><data key="type">CONCEPT</data></node>
     <node id="concept.chinese.wuxing.han_correlative_omens"><data key="name">Han historiographic correlative-omen layer</data><data key="type">CONCEPT</data></node>
@@ -216,6 +220,7 @@
     <node id="deity.japanese.honoikazuchi_otokuni"><data key="name">Honoikazuchi (Otokuni tradition)</data><data key="type">DEITY</data></node>
     <node id="deity.japanese.izanagi"><data key="name">Izanagi</data><data key="type">DEITY</data></node>
     <node id="deity.japanese.izanami"><data key="name">Izanami</data><data key="type">DEITY</data></node>
+    <node id="deity.japanese.kagutsuchi"><data key="name">Kagutsuchi (Deity of Fire)</data><data key="type">DEITY</data></node>
     <node id="deity.japanese.kamo_taketsunumi"><data key="name">Kamo Taketsunumi no Mikoto</data><data key="type">DEITY</data></node>
     <node id="deity.japanese.kamo_wakeikazuchi"><data key="name">Kamo Wakeikazuchi no Okami</data><data key="type">DEITY</data></node>
     <node id="deity.japanese.karaijin"><data key="name">Karaijin</data><data key="type">DEITY</data></node>
@@ -235,6 +240,8 @@
     <node id="deity.maya.chaac"><data key="name">Chaac</data><data key="type">DEITY</data></node>
     <node id="deity.maya.itzamna"><data key="name">Itzamna</data><data key="type">DEITY</data></node>
     <node id="deity.maya.kukulkan"><data key="name">Kukulkan</data><data key="type">DEITY</data></node>
+    <node id="deity.mexica.coatlicue"><data key="name">Coatlicue</data><data key="type">DEITY</data></node>
+    <node id="deity.mexica.coyolxauhqui"><data key="name">Coyolxauhqui</data><data key="type">DEITY</data></node>
     <node id="deity.mexica.huitzilopochtli"><data key="name">Huitzilopochtli</data><data key="type">DEITY</data></node>
     <node id="deity.mexica.quetzalcoatl"><data key="name">Quetzalcoatl</data><data key="type">DEITY</data></node>
     <node id="deity.mexica.tezcatlipoca"><data key="name">Tezcatlipoca</data><data key="type">DEITY</data></node>
@@ -307,31 +314,57 @@
     <node id="element.indian.vayu"><data key="name">Vāyu</data><data key="type">ELEMENT</data></node>
     <node id="event.archaeology.darius_statue_discovery_1972"><data key="name">Discovery of the Darius Statue at Susa (1972)</data><data key="type">EVENT</data></node>
     <node id="event.babylonian.marduk_tiamat"><data key="name">Combat of Marduk and Tiamat</data><data key="type">EVENT</data></node>
+    <node id="event.chinese.battle_of_zhuolu"><data key="name">Battle in the wilds of Zhuolu</data><data key="type">EVENT</data></node>
+    <node id="event.chinese.fuxi_makes_trigrams"><data key="name">Fuxi makes the eight trigrams</data><data key="type">EVENT</data></node>
     <node id="event.chinese.gonggong_strikes_buzhou"><data key="name">Gonggong strikes Mount Buzhou</data><data key="type">EVENT</data></node>
+    <node id="event.chinese.nezha_fights_wukong"><data key="name">Nezha fights Sun Wukong (Journey to the West ch. 4)</data><data key="type">EVENT</data></node>
     <node id="event.chinese.nuwa_repairs_sky"><data key="name">Nüwa repairs the sky</data><data key="type">EVENT</data></node>
+    <node id="event.chinese.pangu_heaven_earth"><data key="name">Pangu between heaven and earth (Sanwu liji)</data><data key="type">EVENT</data></node>
+    <node id="event.egyptian.heavenly_cow_punishment"><data key="name">Punishment of humankind in the Tale of the Heavenly Cow</data><data key="type">EVENT</data></node>
     <node id="event.egyptian.nocturnal_solar_journey"><data key="name">Nocturnal journey of the sun god</data><data key="type">EVENT</data></node>
+    <node id="event.egyptian.osiris_murder_restoration"><data key="name">Murder of Osiris and the conception of Horus</data><data key="type">EVENT</data></node>
+    <node id="event.egyptian.separation_geb_nut"><data key="name">Shu separates Geb and Nut</data><data key="type">EVENT</data></node>
+    <node id="event.egyptian.weighing_heart_ani"><data key="name">Weighing of Ani's heart</data><data key="type">EVENT</data></node>
     <node id="event.greek.medea_restores_aeetes"><data key="name">Medea restores Aeetes</data><data key="type">EVENT</data></node>
     <node id="event.greek.persephone_abduction"><data key="name">Abduction of Persephone</data><data key="type">EVENT</data></node>
     <node id="event.greek.titanomachy"><data key="name">Titanomachy</data><data key="type">EVENT</data></node>
     <node id="event.greek.zeus_typhon_battle"><data key="name">Battle of Zeus and Typhon</data><data key="type">EVENT</data></node>
+    <node id="event.hawaiian.pele_journey"><data key="name">Pele's journey from Kahiki</data><data key="type">EVENT</data></node>
     <node id="event.hindu.samudra_manthana"><data key="name">Churning of the Ocean (textual narrative)</data><data key="type">EVENT</data></node>
+    <node id="event.irish.second_battle_mag_tuired"><data key="name">Second Battle of Mag Tuired</data><data key="type">EVENT</data></node>
+    <node id="event.japanese.izanagi_purification"><data key="name">Izanagi's purification</data><data key="type">EVENT</data></node>
+    <node id="event.japanese.izanagi_visits_yomi"><data key="name">Izanagi follows Izanami to Yomi</data><data key="type">EVENT</data></node>
     <node id="event.japanese.kusanagi.atsuta_enshrinement"><data key="name">Kusanagi enshrinement tradition at Atsuta</data><data key="type">EVENT</data></node>
     <node id="event.japanese.kusanagi.discovery"><data key="name">Discovery of Kusanagi in Yamata no Orochi</data><data key="type">EVENT</data></node>
+    <node id="event.japanese.onogoro_creation"><data key="name">Making of Onogoro Island</data><data key="type">EVENT</data></node>
     <node id="event.khmer.angkor_wat_churning_scene"><data key="name">Churning of the Sea of Milk scene at Angkor Wat</data><data key="type">EVENT</data></node>
     <node id="event.kiche.hero_twins.seven_macaw"><data key="name">Hero Twins and Seven Macaw episode</data><data key="type">EVENT</data></node>
+    <node id="event.maori.separation_rangi_papa"><data key="name">Separation of Ranginui and Papatūānuku</data><data key="type">EVENT</data></node>
+    <node id="event.mexica.birth_of_huitzilopochtli"><data key="name">Birth of Huitzilopochtli at Coatepec</data><data key="type">EVENT</data></node>
+    <node id="event.mexica.quetzalcoatl_tollan_end"><data key="name">End of Quetzalcoatl's glory at Tollan</data><data key="type">EVENT</data></node>
+    <node id="event.norse.binding_of_fenrir"><data key="name">Binding of Fenrir</data><data key="type">EVENT</data></node>
+    <node id="event.norse.death_of_baldr"><data key="name">Death of Baldr</data><data key="type">EVENT</data></node>
     <node id="event.norse.forging_divine_treasures"><data key="name">Forging of the divine treasures</data><data key="type">EVENT</data></node>
     <node id="event.norse.ragnarok"><data key="name">Ragnarök</data><data key="type">EVENT</data></node>
+    <node id="event.norse.slaying_of_ymir"><data key="name">Slaying of Ymir and the shaping of the world</data><data key="type">EVENT</data></node>
     <node id="event.persia.darius_statue_transfer_egypt_susa"><data key="name">Reconstructed Transfer of the Darius Statue to Susa</data><data key="type">EVENT</data></node>
+    <node id="event.slavic.idols_cast_down_988"><data key="name">The Kyiv idols are cast down (988)</data><data key="type">EVENT</data></node>
+    <node id="event.slavic.kyiv_idols_980"><data key="name">Volodimer's idols on the Kyiv hill (980)</data><data key="type">EVENT</data></node>
+    <node id="event.sumerian.enki_ninhursag"><data key="name">Enki's illness and Ninhursaĝa's healing</data><data key="type">EVENT</data></node>
+    <node id="event.sumerian.gilgamesh_huwawa"><data key="name">Gilgameš's expedition against Ḫuwawa</data><data key="type">EVENT</data></node>
     <node id="event.sumerian.inanna_descent"><data key="name">Descent of Inanna</data><data key="type">EVENT</data></node>
+    <node id="event.sumerian.nanna_journey"><data key="name">Nanna-Suen's journey to Nibru</data><data key="type">EVENT</data></node>
     <node id="event.ugaritic.baal_mot_ktu15_16"><data key="name">Baal and Mot sequence in KTU 1.5–1.6</data><data key="type">EVENT</data></node>
     <node id="event.ugaritic.baal_yamm_ktu12"><data key="name">Baal and Yamm in KTU 1.2 IV</data><data key="type">EVENT</data></node>
     <node id="event.vedic.indra_vritra_rv132"><data key="name">Indra and Vrtra in Rigveda 1.32</data><data key="type">EVENT</data></node>
+    <node id="event.zoroastrian.sixteen_lands"><data key="name">Creation of the sixteen lands and their counter-creations</data><data key="type">EVENT</data></node>
     <node id="festival.egyptian.opet"><data key="name">Opet Festival</data><data key="type">FESTIVAL</data></node>
     <node id="festival.greek.great_eleusinia"><data key="name">Great Eleusinia</data><data key="type">FESTIVAL</data></node>
     <node id="festival.japan.kamo_aoi"><data key="name">Kamo Festival (Aoi Matsuri)</data><data key="type">FESTIVAL</data></node>
     <node id="festival.yoruba.sango_oyo"><data key="name">Sango Festival, Oyo</data><data key="type">FESTIVAL</data></node>
     <node id="group.egyptian.theban_triad"><data key="name">Theban Triad</data><data key="type">CONCEPT</data></node>
     <node id="group.japanese.eight_thunder_kami"><data key="name">Eight Thunder Kami of the Kojiki</data><data key="type">CONCEPT</data></node>
+    <node id="hero.chinese.chiyou"><data key="name">Chiyou</data><data key="type">HERO</data></node>
     <node id="hero.chinese.sun_wukong"><data key="name">Sun Wukong</data><data key="type">HERO</data></node>
     <node id="hero.chinese.yellow_emperor"><data key="name">Yellow Emperor</data><data key="type">HERO</data></node>
     <node id="hero.chinese.zhuanxu"><data key="name">Zhuanxu</data><data key="type">HERO</data></node>
@@ -348,6 +381,7 @@
     <node id="hero.kiche.hunahpu"><data key="name">Hunahpu</data><data key="type">HERO</data></node>
     <node id="hero.kiche.xbalanque"><data key="name">Xbalanque</data><data key="type">HERO</data></node>
     <node id="hero.polynesian.maui"><data key="name">Māui</data><data key="type">HERO</data></node>
+    <node id="hero.sumerian.gilgamesh"><data key="name">Gilgameš (Sumerian poems)</data><data key="type">HERO</data></node>
     <node id="historical.achaemenid.darius_i"><data key="name">Darius I</data><data key="type">HISTORICAL_FIGURE</data></node>
     <node id="historical.achaemenid.xerxes_i"><data key="name">Xerxes I</data><data key="type">HISTORICAL_FIGURE</data></node>
     <node id="historical.japan.ogata_korin"><data key="name">Ogata Kōrin</data><data key="type">HISTORICAL_FIGURE</data></node>
@@ -368,14 +402,19 @@
     <node id="modern_work.japan.hoitsu_wind_thunder_version"><data key="name">Wind and Thunder God Screens attributed to Sakai Hōitsu — research record</data><data key="type">MODERN_WORK</data></node>
     <node id="monster.japanese.yamata_no_orochi"><data key="name">Yamata no Orochi</data><data key="type">MONSTER</data></node>
     <node id="monster.kiche.seven_macaw"><data key="name">Seven Macaw</data><data key="type">MONSTER</data></node>
+    <node id="monster.sumerian.huwawa"><data key="name">Ḫuwawa</data><data key="type">MONSTER</data></node>
     <node id="monument.khmer.angkor_wat_churning_relief"><data key="name">Angkor Wat Churning of the Sea of Milk relief</data><data key="type">MONUMENT</data></node>
+    <node id="monument.maya.el_castillo_chichen"><data key="name">El Castillo (Temple of Kukulkan), Chichen-Itza</data><data key="type">MONUMENT</data></node>
     <node id="museum.babylon.flood_tablet_k3375"><data key="name">Flood Tablet K.3375</data><data key="type">MUSEUM_OBJECT</data></node>
     <node id="museum.bm.khepri_hymn_stela_ea826"><data key="name">Stela with hymn to Khepri</data><data key="type">MUSEUM_OBJECT</data></node>
     <node id="museum.bm.vajra_1948_0716_11_b"><data key="name">Buddhist ritual vajra 1948,0716.11.b</data><data key="type">MUSEUM_OBJECT</data></node>
+    <node id="museum.egypt.mourning_isis_met"><data key="name">Mourning Isis (Met 12.182.23b)</data><data key="type">MUSEUM_OBJECT</data></node>
+    <node id="museum.egypt.mourning_nephthys_met"><data key="name">Mourning Nephthys (Met 12.182.23a)</data><data key="type">MUSEUM_OBJECT</data></node>
     <node id="museum.egypt.papyrus_ani_frame3"><data key="name">Papyrus of Ani, frame 3</data><data key="type">MUSEUM_OBJECT</data></node>
     <node id="museum.greek.zeus_poseidon_met_21_88_52"><data key="name">Bronze statuette: Zeus or Poseidon</data><data key="type">MUSEUM_OBJECT</data></node>
     <node id="museum.iran.darius_susa_statue"><data key="name">Egyptian Statue of Darius I from Susa</data><data key="type">MUSEUM_OBJECT</data></node>
     <node id="museum.japan.sotatsu_wind_thunder_screens"><data key="name">Wind God and Thunder God Screens by Tawaraya Sotatsu</data><data key="type">MUSEUM_OBJECT</data></node>
+    <node id="museum.maya.chahk_plate_met"><data key="name">Plate with the god Chahk (Met 2021.320)</data><data key="type">MUSEUM_OBJECT</data></node>
     <node id="museum.met.amun_re_scarab_09_180_953"><data key="name">Scarab inscribed with Amun-Re and Neit</data><data key="type">MUSEUM_OBJECT</data></node>
     <node id="museum.met.eleusinian_relief_14_130_9"><data key="name">Roman fragments of the Great Eleusinian Relief 14.130.9</data><data key="type">MUSEUM_OBJECT</data></node>
     <node id="museum.met.nauny_book_dead_30_3_31"><data key="name">Book of the Dead for Nauny</data><data key="type">MUSEUM_OBJECT</data></node>
@@ -397,7 +436,15 @@
     <node id="person.norse.embla"><data key="name">Embla</data><data key="type">PERSON</data></node>
     <node id="place.chinese.buzhou_mountain"><data key="name">Mount Buzhou</data><data key="type">MYTHICAL_PLACE</data></node>
     <node id="place.hindu.mandara"><data key="name">Mount Mandara</data><data key="type">MYTHICAL_PLACE</data></node>
+    <node id="place.japanese.onogoro"><data key="name">Onogoro Island</data><data key="type">MYTHICAL_PLACE</data></node>
+    <node id="place.japanese.yomi"><data key="name">Yomi (Land of Hades in Chamberlain)</data><data key="type">REALM</data></node>
+    <node id="place.mexica.coatepec"><data key="name">Coatepec (Serpent Mountain)</data><data key="type">MYTHICAL_PLACE</data></node>
+    <node id="place.norse.folkvangr"><data key="name">Fólkvangr</data><data key="type">MYTHICAL_PLACE</data></node>
+    <node id="place.norse.himinbjorg"><data key="name">Himinbjörg</data><data key="type">MYTHICAL_PLACE</data></node>
     <node id="place.norse.mimisbrunnr"><data key="name">Mímisbrunnr</data><data key="type">MYTHICAL_PLACE</data></node>
+    <node id="place.norse.noatun"><data key="name">Nóatún</data><data key="type">MYTHICAL_PLACE</data></node>
+    <node id="place.sumerian.dilmun"><data key="name">Dilmun (in Enki and Ninhursaĝa)</data><data key="type">MYTHICAL_PLACE</data></node>
+    <node id="place.zoroastrian.airyana_vaejah"><data key="name">Airyana Vaejah</data><data key="type">MYTHICAL_PLACE</data></node>
     <node id="realm.egypt.duat"><data key="name">Duat</data><data key="type">REALM</data></node>
     <node id="realm.greek.tartarus"><data key="name">Tartarus</data><data key="type">REALM</data></node>
     <node id="realm.norse.valhalla"><data key="name">Valhalla</data><data key="type">REALM</data></node>
@@ -447,6 +494,7 @@
     <node id="site.greece.sacred_way_aphrodite_daphne"><data key="name">Sanctuary of Aphrodite at Daphne</data><data key="type">ARCHAEOLOGICAL_SITE</data></node>
     <node id="site.greece.sacred_way_roman_bridge"><data key="name">Roman Bridge over the Eleusinian Cephissus</data><data key="type">ARCHAEOLOGICAL_SITE</data></node>
     <node id="site.guatemala.tikal"><data key="name">Tikal</data><data key="type">ARCHAEOLOGICAL_SITE</data></node>
+    <node id="site.hawaii.halemaumau"><data key="name">Halemaʻumaʻu crater, Kīlauea</data><data key="type">PLACE</data></node>
     <node id="site.iceland.sacred_scope"><data key="name">Icelandic sacred sites research scope</data><data key="type">PLACE</data></node>
     <node id="site.india.elephanta"><data key="name">Elephanta Caves</data><data key="type">TEMPLE</data></node>
     <node id="site.india.ellora"><data key="name">Ellora Caves</data><data key="type">TEMPLE</data></node>
@@ -474,11 +522,13 @@
     <node id="site.mexico.chichen_itza"><data key="name">Chichen-Itza</data><data key="type">ARCHAEOLOGICAL_SITE</data></node>
     <node id="site.mexico.monte_alban"><data key="name">Monte Albán</data><data key="type">ARCHAEOLOGICAL_SITE</data></node>
     <node id="site.mexico.palenque"><data key="name">Palenque</data><data key="type">ARCHAEOLOGICAL_SITE</data></node>
+    <node id="site.mexico.templo_mayor"><data key="name">Templo Mayor of Tenochtitlan</data><data key="type">TEMPLE</data></node>
     <node id="site.mexico.tenochtitlan"><data key="name">Tenochtitlan</data><data key="type">ARCHAEOLOGICAL_SITE</data></node>
     <node id="site.mexico.teotihuacan"><data key="name">Teotihuacan</data><data key="type">ARCHAEOLOGICAL_SITE</data></node>
     <node id="site.micronesia.nan_madol"><data key="name">Nan Madol</data><data key="type">ARCHAEOLOGICAL_SITE</data></node>
     <node id="site.nigeria.benin_city"><data key="name">Benin City historical sites</data><data key="type">ARCHAEOLOGICAL_SITE</data></node>
     <node id="site.nigeria.ife"><data key="name">Ile-Ife</data><data key="type">ARCHAEOLOGICAL_SITE</data></node>
+    <node id="site.nigeria.osun_osogbo"><data key="name">Osun-Osogbo Sacred Grove</data><data key="type">PLACE</data></node>
     <node id="site.norse.runestones_scope"><data key="name">Norse runestones research scope</data><data key="type">INSCRIPTION</data></node>
     <node id="site.peru.cusco"><data key="name">Cusco</data><data key="type">ARCHAEOLOGICAL_SITE</data></node>
     <node id="site.peru.machu_picchu"><data key="name">Machu Picchu</data><data key="type">ARCHAEOLOGICAL_SITE</data></node>
@@ -521,6 +571,7 @@
     <node id="text.chinese.local_gazetteers"><data key="name">Chinese local gazetteers</data><data key="type">TEXT</data></node>
     <node id="text.chinese.lunheng"><data key="name">Lunheng</data><data key="type">TEXT</data></node>
     <node id="text.chinese.mutianzizhuan"><data key="name">Tale of King Mu, Son of Heaven</data><data key="type">TEXT</data></node>
+    <node id="text.chinese.sanwu_liji"><data key="name">Sanwu liji (lost; known from quotations)</data><data key="type">TEXT</data></node>
     <node id="text.chinese.shang_shu"><data key="name">Shang Shu</data><data key="type">TEXT</data></node>
     <node id="text.chinese.shangshu"><data key="name">Shangshu-related traditions</data><data key="type">TEXT</data></node>
     <node id="text.chinese.shanhaijing"><data key="name">Classic of Mountains and Seas</data><data key="type">TEXT</data></node>
@@ -528,6 +579,7 @@
     <node id="text.chinese.soushenji"><data key="name">Soushen Ji</data><data key="type">TEXT</data></node>
     <node id="text.chinese.tianwen"><data key="name">Heavenly Questions</data><data key="type">TEXT</data></node>
     <node id="text.chinese.xiyouji"><data key="name">Journey to the West</data><data key="type">TEXT</data></node>
+    <node id="text.chinese.zhouyi_xici"><data key="name">Xi Ci commentary of the Zhouyi</data><data key="type">TEXT</data></node>
     <node id="text.egypt.amduat"><data key="name">Amduat</data><data key="type">TEXT</data></node>
     <node id="text.egypt.book_caverns"><data key="name">Book of Caverns</data><data key="type">TEXT</data></node>
     <node id="text.egypt.book_dead"><data key="name">Book of the Dead</data><data key="type">PAPYRUS</data></node>
@@ -548,6 +600,7 @@
     <node id="text.egypt.pyramid_texts"><data key="name">Pyramid Texts</data><data key="type">INSCRIPTION</data></node>
     <node id="text.egypt.sun_hymn_standard_c_prime"><data key="name">Sun Hymn: Assmann Standard Hymn C-prime</data><data key="type">TEXT</data></node>
     <node id="text.egypt.temple_tomb_inscriptions"><data key="name">Egyptian temple and tomb inscriptions</data><data key="type">INSCRIPTION</data></node>
+    <node id="text.egyptian.tale_heavenly_cow"><data key="name">Tale of the Heavenly Cow</data><data key="type">TEXT</data></node>
     <node id="text.greek.apollodorus_library"><data key="name">Pseudo-Apollodorus, Library</data><data key="type">TEXT</data></node>
     <node id="text.greek.argonautica"><data key="name">Argonautica</data><data key="type">EPIC</data></node>
     <node id="text.greek.bibliotheca"><data key="name">Bibliotheca</data><data key="type">TEXT</data></node>
@@ -587,6 +640,7 @@
     <node id="text.indian.mahabharata.adiparvan_churning"><data key="name">Mahābhārata critical-edition Ādiparvan 1.15–1.17 churning witness</data><data key="type">TEXT</data></node>
     <node id="text.indian.ramayana"><data key="name">Rāmāyaṇa</data><data key="type">EPIC</data></node>
     <node id="text.indian.regional_epics"><data key="name">Indian regional epics and oral traditions</data><data key="type">ORAL_TRADITION</data></node>
+    <node id="text.irish.cath_maige_tuired"><data key="name">Cath Maige Tuired (The Second Battle of Mag Tuired)</data><data key="type">TEXT</data></node>
     <node id="text.jain.corpus"><data key="name">Jain textual traditions</data><data key="type">SCRIPTURE</data></node>
     <node id="text.japan.yamashiro_fudoki_kamo_fragment"><data key="name">Yamashiro Fudoki Kamo Fragment</data><data key="type">TEXT</data></node>
     <node id="text.japanese.fudoki"><data key="name">Fudoki</data><data key="type">TEXT</data></node>
@@ -648,6 +702,8 @@
     <node id="text.zoroastrian.avesta"><data key="name">Avesta</data><data key="type">SCRIPTURE</data></node>
     <node id="text.zoroastrian.bundahishn"><data key="name">Bundahišn</data><data key="type">TEXT</data></node>
     <node id="text.zoroastrian.denkard"><data key="name">Dēnkard</data><data key="type">TEXT</data></node>
+    <node id="text.zoroastrian.mihr_yasht"><data key="name">Mihr Yasht (Yasht 10)</data><data key="type">SCRIPTURE</data></node>
+    <node id="text.zoroastrian.videvdad_fargard1"><data key="name">Videvdad, Fargard 1 (the sixteen lands)</data><data key="type">SCRIPTURE</data></node>
     <node id="weapon.arthurian.excalibur"><data key="name">Excalibur</data><data key="type">WEAPON</data></node>
     <node id="weapon.babylonian.marduk_bow"><data key="name">Bow of Marduk</data><data key="type">WEAPON</data></node>
     <node id="weapon.chinese.ruyi_jingu_bang"><data key="name">Ruyi Jingu Bang</data><data key="type">WEAPON</data></node>
@@ -932,6 +988,125 @@
     <edge id="claim.v0300.nuwa.liezi_witness" source="text.chinese.liezi.tangwen_nuwa_gonggong_passage" target="event.chinese.nuwa_repairs_sky"><data key="relation">WITNESS_OF</data></edge>
     <edge id="claim.v0300.nuwa.participates" source="deity.chinese.nu_wa" target="event.chinese.nuwa_repairs_sky"><data key="relation">PARTICIPATED_IN</data></edge>
     <edge id="claim.v0300.nuwa.uses_stones" source="deity.chinese.nu_wa" target="artifact.chinese.five_colored_stones"><data key="relation">USES</data></edge>
+    <edge id="claim.v0310.assyria.ashur_city" source="deity.assyrian.ashur" target="site.iraq.ashur"><data key="relation">WORSHIPPED_AT</data></edge>
+    <edge id="claim.v0310.canaan.athirat_consort_el" source="deity.ugaritic.asherah" target="deity.ugaritic.el"><data key="relation">CONSORT_OF</data></edge>
+    <edge id="claim.v0310.china.chiyou_zhuolu" source="hero.chinese.chiyou" target="event.chinese.battle_of_zhuolu"><data key="relation">PARTICIPATED_IN</data></edge>
+    <edge id="claim.v0310.china.fuxi_bagua" source="deity.chinese.fu_xi" target="concept.chinese.bagua"><data key="relation">CREATOR_OF</data></edge>
+    <edge id="claim.v0310.china.fuxi_observes" source="deity.chinese.fu_xi" target="event.chinese.fuxi_makes_trigrams"><data key="relation">PARTICIPATED_IN</data></edge>
+    <edge id="claim.v0310.china.huangdi_kills_chiyou" source="hero.chinese.yellow_emperor" target="hero.chinese.chiyou"><data key="relation">KILLED</data></edge>
+    <edge id="claim.v0310.china.huangdi_zhuolu" source="hero.chinese.yellow_emperor" target="event.chinese.battle_of_zhuolu"><data key="relation">PARTICIPATED_IN</data></edge>
+    <edge id="claim.v0310.china.nezha_event" source="deity.chinese.nezha" target="event.chinese.nezha_fights_wukong"><data key="relation">PARTICIPATED_IN</data></edge>
+    <edge id="claim.v0310.china.pangu_separation" source="being.chinese.pangu" target="event.chinese.pangu_heaven_earth"><data key="relation">PARTICIPATED_IN</data></edge>
+    <edge id="claim.v0310.china.shiji_witness" source="text.chinese.shiji_ancient" target="event.chinese.battle_of_zhuolu"><data key="relation">WITNESS_OF</data></edge>
+    <edge id="claim.v0310.china.wukong_defeats_nezha" source="hero.chinese.sun_wukong" target="deity.chinese.nezha"><data key="relation">DEFEATED</data></edge>
+    <edge id="claim.v0310.china.wukong_event" source="hero.chinese.sun_wukong" target="event.chinese.nezha_fights_wukong"><data key="relation">PARTICIPATED_IN</data></edge>
+    <edge id="claim.v0310.china.xici_witness" source="text.chinese.zhouyi_xici" target="event.chinese.fuxi_makes_trigrams"><data key="relation">WITNESS_OF</data></edge>
+    <edge id="claim.v0310.egypt.ani_depicts_anubis" source="museum.egypt.papyrus_ani_frame3" target="deity.egyptian.anubis"><data key="relation">DEPICTS</data></edge>
+    <edge id="claim.v0310.egypt.ani_depicts_thoth" source="museum.egypt.papyrus_ani_frame3" target="deity.egyptian.thoth"><data key="relation">DEPICTS</data></edge>
+    <edge id="claim.v0310.egypt.ani_depicts_weighing" source="museum.egypt.papyrus_ani_frame3" target="event.egyptian.weighing_heart_ani"><data key="relation">DEPICTS</data></edge>
+    <edge id="claim.v0310.egypt.anubis_weighing" source="deity.egyptian.anubis" target="event.egyptian.weighing_heart_ani"><data key="relation">PARTICIPATED_IN</data></edge>
+    <edge id="claim.v0310.egypt.cow_text_witness" source="text.egyptian.tale_heavenly_cow" target="event.egyptian.heavenly_cow_punishment"><data key="relation">WITNESS_OF</data></edge>
+    <edge id="claim.v0310.egypt.geb_child_shu" source="deity.egyptian.geb" target="deity.egyptian.shu"><data key="relation">CHILD_OF</data></edge>
+    <edge id="claim.v0310.egypt.geb_child_tefnut" source="deity.egyptian.geb" target="deity.egyptian.tefnut"><data key="relation">CHILD_OF</data></edge>
+    <edge id="claim.v0310.egypt.geb_separation" source="deity.egyptian.geb" target="event.egyptian.separation_geb_nut"><data key="relation">PARTICIPATED_IN</data></edge>
+    <edge id="claim.v0310.egypt.hathor_event" source="deity.egyptian.hathor" target="event.egyptian.heavenly_cow_punishment"><data key="relation">PARTICIPATED_IN</data></edge>
+    <edge id="claim.v0310.egypt.horus_child_isis" source="deity.egyptian.horus" target="deity.egyptian.isis"><data key="relation">CHILD_OF</data></edge>
+    <edge id="claim.v0310.egypt.horus_child_osiris" source="deity.egyptian.horus" target="deity.egyptian.osiris"><data key="relation">CHILD_OF</data></edge>
+    <edge id="claim.v0310.egypt.isis_figure" source="museum.egypt.mourning_isis_met" target="deity.egyptian.isis"><data key="relation">DEPICTS</data></edge>
+    <edge id="claim.v0310.egypt.isis_restores" source="deity.egyptian.isis" target="event.egyptian.osiris_murder_restoration"><data key="relation">PARTICIPATED_IN</data></edge>
+    <edge id="claim.v0310.egypt.mourners_pair" source="museum.egypt.mourning_nephthys_met" target="museum.egypt.mourning_isis_met"><data key="relation">ASSOCIATED_WITH</data></edge>
+    <edge id="claim.v0310.egypt.nephthys_figure" source="museum.egypt.mourning_nephthys_met" target="deity.egyptian.nephthys"><data key="relation">DEPICTS</data></edge>
+    <edge id="claim.v0310.egypt.nephthys_held_met" source="museum.egypt.mourning_nephthys_met" target="institution.met"><data key="relation">HELD_BY_MUSEUM</data></edge>
+    <edge id="claim.v0310.egypt.nut_child_shu" source="deity.egyptian.nut" target="deity.egyptian.shu"><data key="relation">CHILD_OF</data></edge>
+    <edge id="claim.v0310.egypt.nut_child_tefnut" source="deity.egyptian.nut" target="deity.egyptian.tefnut"><data key="relation">CHILD_OF</data></edge>
+    <edge id="claim.v0310.egypt.nut_separation" source="deity.egyptian.nut" target="event.egyptian.separation_geb_nut"><data key="relation">PARTICIPATED_IN</data></edge>
+    <edge id="claim.v0310.egypt.osiris_event" source="deity.egyptian.osiris" target="event.egyptian.osiris_murder_restoration"><data key="relation">PARTICIPATED_IN</data></edge>
+    <edge id="claim.v0310.egypt.ra_rebellion" source="deity.egyptian.ra" target="event.egyptian.heavenly_cow_punishment"><data key="relation">PARTICIPATED_IN</data></edge>
+    <edge id="claim.v0310.egypt.sekhmet_event" source="deity.egyptian.sekhmet" target="event.egyptian.heavenly_cow_punishment"><data key="relation">PARTICIPATED_IN</data></edge>
+    <edge id="claim.v0310.egypt.seth_brother_osiris" source="deity.egyptian.seth" target="deity.egyptian.osiris"><data key="relation">SIBLING_OF</data></edge>
+    <edge id="claim.v0310.egypt.seth_event" source="deity.egyptian.seth" target="event.egyptian.osiris_murder_restoration"><data key="relation">PARTICIPATED_IN</data></edge>
+    <edge id="claim.v0310.egypt.seth_kills_osiris" source="deity.egyptian.seth" target="deity.egyptian.osiris"><data key="relation">KILLED</data></edge>
+    <edge id="claim.v0310.egypt.shu_child_atum" source="deity.egyptian.shu" target="deity.egyptian.atum"><data key="relation">CHILD_OF</data></edge>
+    <edge id="claim.v0310.egypt.shu_separation" source="deity.egyptian.shu" target="event.egyptian.separation_geb_nut"><data key="relation">PARTICIPATED_IN</data></edge>
+    <edge id="claim.v0310.egypt.tefnut_child_atum" source="deity.egyptian.tefnut" target="deity.egyptian.atum"><data key="relation">CHILD_OF</data></edge>
+    <edge id="claim.v0310.egypt.thoth_weighing" source="deity.egyptian.thoth" target="event.egyptian.weighing_heart_ani"><data key="relation">PARTICIPATED_IN</data></edge>
+    <edge id="claim.v0310.hawaii.pele_halemaumau" source="deity.hawaiian.pele" target="site.hawaii.halemaumau"><data key="relation">LIVES_IN</data></edge>
+    <edge id="claim.v0310.hawaii.pele_kahiki" source="deity.hawaiian.pele" target="event.hawaiian.pele_journey"><data key="relation">PARTICIPATED_IN</data></edge>
+    <edge id="claim.v0310.hindu.brahma_churning" source="deity.hindu.brahma" target="event.hindu.samudra_manthana"><data key="relation">PARTICIPATED_IN</data></edge>
+    <edge id="claim.v0310.irish.brig_child_dagda" source="deity.irish.bridig" target="deity.irish.dagda"><data key="relation">CHILD_OF</data></edge>
+    <edge id="claim.v0310.irish.cmt_witness" source="text.irish.cath_maige_tuired" target="event.irish.second_battle_mag_tuired"><data key="relation">WITNESS_OF</data></edge>
+    <edge id="claim.v0310.irish.dagda_battle" source="deity.irish.dagda" target="event.irish.second_battle_mag_tuired"><data key="relation">PARTICIPATED_IN</data></edge>
+    <edge id="claim.v0310.irish.dagda_cauldron" source="deity.irish.dagda" target="artifact.irish.dagda_cauldron"><data key="relation">OWNS</data></edge>
+    <edge id="claim.v0310.irish.dagda_morrigan" source="deity.irish.morrigan" target="deity.irish.dagda"><data key="relation">ASSOCIATED_WITH</data></edge>
+    <edge id="claim.v0310.irish.lugh_battle" source="deity.irish.lugh" target="event.irish.second_battle_mag_tuired"><data key="relation">PARTICIPATED_IN</data></edge>
+    <edge id="claim.v0310.irish.lugh_kills_balor" source="deity.irish.lugh" target="being.irish.balor"><data key="relation">KILLED</data></edge>
+    <edge id="claim.v0310.irish.morrigan_battle" source="deity.irish.morrigan" target="event.irish.second_battle_mag_tuired"><data key="relation">PARTICIPATED_IN</data></edge>
+    <edge id="claim.v0310.japan.amaterasu_born" source="deity.japanese.amaterasu" target="deity.japanese.izanagi"><data key="relation">CHILD_OF</data></edge>
+    <edge id="claim.v0310.japan.izanagi_consort" source="deity.japanese.izanagi" target="deity.japanese.izanami"><data key="relation">CONSORT_OF</data></edge>
+    <edge id="claim.v0310.japan.izanagi_onogoro" source="deity.japanese.izanagi" target="event.japanese.onogoro_creation"><data key="relation">PARTICIPATED_IN</data></edge>
+    <edge id="claim.v0310.japan.izanagi_purification" source="deity.japanese.izanagi" target="event.japanese.izanagi_purification"><data key="relation">PARTICIPATED_IN</data></edge>
+    <edge id="claim.v0310.japan.izanagi_yomi" source="deity.japanese.izanagi" target="event.japanese.izanagi_visits_yomi"><data key="relation">PARTICIPATED_IN</data></edge>
+    <edge id="claim.v0310.japan.izanami_onogoro" source="deity.japanese.izanami" target="event.japanese.onogoro_creation"><data key="relation">PARTICIPATED_IN</data></edge>
+    <edge id="claim.v0310.japan.izanami_yomi" source="deity.japanese.izanami" target="event.japanese.izanagi_visits_yomi"><data key="relation">PARTICIPATED_IN</data></edge>
+    <edge id="claim.v0310.japan.kagutsuchi_child" source="deity.japanese.kagutsuchi" target="deity.japanese.izanami"><data key="relation">CHILD_OF</data></edge>
+    <edge id="claim.v0310.japan.susanoo_born" source="deity.japanese.susanoo" target="deity.japanese.izanagi"><data key="relation">CHILD_OF</data></edge>
+    <edge id="claim.v0310.japan.tsukuyomi_born" source="deity.japanese.tsukuyomi" target="deity.japanese.izanagi"><data key="relation">CHILD_OF</data></edge>
+    <edge id="claim.v0310.maori.papatuanuku_separated" source="deity.maori.papatuanuku" target="event.maori.separation_rangi_papa"><data key="relation">PARTICIPATED_IN</data></edge>
+    <edge id="claim.v0310.maori.rangi_papa_joined" source="deity.maori.ranginui" target="deity.maori.papatuanuku"><data key="relation">CONSORT_OF</data></edge>
+    <edge id="claim.v0310.maori.ranginui_separated" source="deity.maori.ranginui" target="event.maori.separation_rangi_papa"><data key="relation">PARTICIPATED_IN</data></edge>
+    <edge id="claim.v0310.maori.tane_child_papatuanuku" source="deity.polynesian.tane" target="deity.maori.papatuanuku"><data key="relation">CHILD_OF</data></edge>
+    <edge id="claim.v0310.maori.tane_child_ranginui" source="deity.polynesian.tane" target="deity.maori.ranginui"><data key="relation">CHILD_OF</data></edge>
+    <edge id="claim.v0310.maori.tane_some_versions" source="deity.polynesian.tane" target="event.maori.separation_rangi_papa"><data key="relation">PARTICIPATED_IN</data></edge>
+    <edge id="claim.v0310.maori.tangaroa_child_papatuanuku" source="deity.polynesian.tangaroa" target="deity.maori.papatuanuku"><data key="relation">CHILD_OF</data></edge>
+    <edge id="claim.v0310.maori.tangaroa_child_ranginui" source="deity.polynesian.tangaroa" target="deity.maori.ranginui"><data key="relation">CHILD_OF</data></edge>
+    <edge id="claim.v0310.maya.castillo_kukulkan" source="monument.maya.el_castillo_chichen" target="deity.maya.kukulkan"><data key="relation">DEDICATED_TO</data></edge>
+    <edge id="claim.v0310.maya.castillo_part" source="monument.maya.el_castillo_chichen" target="site.mexico.chichen_itza"><data key="relation">PART_OF</data></edge>
+    <edge id="claim.v0310.maya.chahk_held_met" source="museum.maya.chahk_plate_met" target="institution.met"><data key="relation">HELD_BY_MUSEUM</data></edge>
+    <edge id="claim.v0310.maya.chahk_plate" source="museum.maya.chahk_plate_met" target="deity.maya.chaac"><data key="relation">DEPICTS</data></edge>
+    <edge id="claim.v0310.mexica.coatlicue_feathers" source="deity.mexica.coatlicue" target="event.mexica.birth_of_huitzilopochtli"><data key="relation">PARTICIPATED_IN</data></edge>
+    <edge id="claim.v0310.mexica.coyol_child" source="deity.mexica.coyolxauhqui" target="deity.mexica.coatlicue"><data key="relation">CHILD_OF</data></edge>
+    <edge id="claim.v0310.mexica.coyol_event" source="deity.mexica.coyolxauhqui" target="event.mexica.birth_of_huitzilopochtli"><data key="relation">PARTICIPATED_IN</data></edge>
+    <edge id="claim.v0310.mexica.huitz_armed" source="deity.mexica.huitzilopochtli" target="event.mexica.birth_of_huitzilopochtli"><data key="relation">PARTICIPATED_IN</data></edge>
+    <edge id="claim.v0310.mexica.huitz_child" source="deity.mexica.huitzilopochtli" target="deity.mexica.coatlicue"><data key="relation">CHILD_OF</data></edge>
+    <edge id="claim.v0310.mexica.huitz_kills_coyol" source="deity.mexica.huitzilopochtli" target="deity.mexica.coyolxauhqui"><data key="relation">KILLED</data></edge>
+    <edge id="claim.v0310.mexica.huitz_templo" source="deity.mexica.huitzilopochtli" target="site.mexico.templo_mayor"><data key="relation">WORSHIPPED_AT</data></edge>
+    <edge id="claim.v0310.mexica.quetzal_event" source="deity.mexica.quetzalcoatl" target="event.mexica.quetzalcoatl_tollan_end"><data key="relation">PARTICIPATED_IN</data></edge>
+    <edge id="claim.v0310.mexica.tezca_event" source="deity.mexica.tezcatlipoca" target="event.mexica.quetzalcoatl_tollan_end"><data key="relation">PARTICIPATED_IN</data></edge>
+    <edge id="claim.v0310.mexica.tlaloc_templo" source="deity.mexica.tlaloc" target="site.mexico.templo_mayor"><data key="relation">WORSHIPPED_AT</data></edge>
+    <edge id="claim.v0310.norse.baldr_death" source="deity.norse.baldr" target="event.norse.death_of_baldr"><data key="relation">PARTICIPATED_IN</data></edge>
+    <edge id="claim.v0310.norse.fenrir_bound" source="creature.norse.fenrir" target="event.norse.binding_of_fenrir"><data key="relation">PARTICIPATED_IN</data></edge>
+    <edge id="claim.v0310.norse.freyja_child_njord" source="deity.norse.freyja" target="deity.norse.njord"><data key="relation">CHILD_OF</data></edge>
+    <edge id="claim.v0310.norse.freyr_child_njord" source="deity.norse.freyr" target="deity.norse.njord"><data key="relation">CHILD_OF</data></edge>
+    <edge id="claim.v0310.norse.freyr_sibling_freyja" source="deity.norse.freyr" target="deity.norse.freyja"><data key="relation">SIBLING_OF</data></edge>
+    <edge id="claim.v0310.norse.frigg_mother_baldr" source="deity.norse.baldr" target="deity.norse.frigg"><data key="relation">CHILD_OF</data></edge>
+    <edge id="claim.v0310.norse.frigg_oaths" source="deity.norse.frigg" target="event.norse.death_of_baldr"><data key="relation">PARTICIPATED_IN</data></edge>
+    <edge id="claim.v0310.norse.frigg_wife" source="deity.norse.frigg" target="deity.norse.odin"><data key="relation">CONSORT_OF</data></edge>
+    <edge id="claim.v0310.norse.heimdall_horn" source="deity.norse.heimdall" target="artifact.norse.gjallarhorn"><data key="relation">OWNS</data></edge>
+    <edge id="claim.v0310.norse.odin_kills_ymir" source="deity.norse.odin" target="being.norse.ymir"><data key="relation">KILLED</data></edge>
+    <edge id="claim.v0310.norse.odin_ymir_event" source="deity.norse.odin" target="event.norse.slaying_of_ymir"><data key="relation">PARTICIPATED_IN</data></edge>
+    <edge id="claim.v0310.norse.tyr_fenrir" source="deity.norse.tyr" target="event.norse.binding_of_fenrir"><data key="relation">PARTICIPATED_IN</data></edge>
+    <edge id="claim.v0310.norse.ymir_event" source="being.norse.ymir" target="event.norse.slaying_of_ymir"><data key="relation">PARTICIPATED_IN</data></edge>
+    <edge id="claim.v0310.slavic.mokosh_980" source="deity.slavic.mokosh" target="text.slavic.primary_chronicle"><data key="relation">APPEARS_IN</data></edge>
+    <edge id="claim.v0310.slavic.mokosh_idol" source="deity.slavic.mokosh" target="event.slavic.kyiv_idols_980"><data key="relation">ASSOCIATED_WITH</data></edge>
+    <edge id="claim.v0310.slavic.perun_cast_down" source="deity.slavic.perun" target="event.slavic.idols_cast_down_988"><data key="relation">ASSOCIATED_WITH</data></edge>
+    <edge id="claim.v0310.slavic.perun_idol_980" source="deity.slavic.perun" target="event.slavic.kyiv_idols_980"><data key="relation">ASSOCIATED_WITH</data></edge>
+    <edge id="claim.v0310.slavic.pvl_980_witness" source="text.slavic.primary_chronicle" target="event.slavic.kyiv_idols_980"><data key="relation">WITNESS_OF</data></edge>
+    <edge id="claim.v0310.sumer.an_enki" source="deity.sumerian.an" target="deity.sumerian.enki"><data key="relation">ASSOCIATED_WITH</data></edge>
+    <edge id="claim.v0310.sumer.enki_plants" source="deity.sumerian.enki" target="event.sumerian.enki_ninhursag"><data key="relation">PARTICIPATED_IN</data></edge>
+    <edge id="claim.v0310.sumer.enlil_blesses" source="deity.sumerian.enlil" target="event.sumerian.nanna_journey"><data key="relation">PARTICIPATED_IN</data></edge>
+    <edge id="claim.v0310.sumer.gilgamesh_event" source="hero.sumerian.gilgamesh" target="event.sumerian.gilgamesh_huwawa"><data key="relation">PARTICIPATED_IN</data></edge>
+    <edge id="claim.v0310.sumer.huwawa_event" source="monster.sumerian.huwawa" target="event.sumerian.gilgamesh_huwawa"><data key="relation">PARTICIPATED_IN</data></edge>
+    <edge id="claim.v0310.sumer.nanna_child_enlil" source="deity.sumerian.nanna" target="deity.sumerian.enlil"><data key="relation">CHILD_OF</data></edge>
+    <edge id="claim.v0310.sumer.nanna_journey" source="deity.sumerian.nanna" target="event.sumerian.nanna_journey"><data key="relation">PARTICIPATED_IN</data></edge>
+    <edge id="claim.v0310.sumer.ninhursag_curse" source="deity.sumerian.ninhursag" target="event.sumerian.enki_ninhursag"><data key="relation">PARTICIPATED_IN</data></edge>
+    <edge id="claim.v0310.sumer.utu_told" source="deity.sumerian.utu" target="event.sumerian.gilgamesh_huwawa"><data key="relation">PARTICIPATED_IN</data></edge>
+    <edge id="claim.v0310.yoruba.oshun_grove" source="deity.yoruba.oshun" target="site.nigeria.osun_osogbo"><data key="relation">WORSHIPPED_AT</data></edge>
+    <edge id="claim.v0310.zoro.ahura_event" source="deity.zoroastrian.ahura_mazda" target="event.zoroastrian.sixteen_lands"><data key="relation">PARTICIPATED_IN</data></edge>
+    <edge id="claim.v0310.zoro.airyana_vaejah" source="deity.zoroastrian.ahura_mazda" target="place.zoroastrian.airyana_vaejah"><data key="relation">CREATOR_OF</data></edge>
+    <edge id="claim.v0310.zoro.angra_event" source="being.zoroastrian.angra_mainyu" target="event.zoroastrian.sixteen_lands"><data key="relation">PARTICIPATED_IN</data></edge>
+    <edge id="claim.v0310.zoro.angra_opposes" source="being.zoroastrian.angra_mainyu" target="deity.zoroastrian.ahura_mazda"><data key="relation">ENEMY_OF</data></edge>
+    <edge id="claim.v0310.zoro.mihr_yasht_witness" source="text.zoroastrian.mihr_yasht" target="text.zoroastrian.avesta"><data key="relation">PART_OF</data></edge>
+    <edge id="claim.v0310.zoro.mithra_created" source="deity.zoroastrian.mithra" target="deity.zoroastrian.ahura_mazda"><data key="relation">CREATED_BY</data></edge>
     <edge id="claim.v040.aether.child_erebus" source="deity.greek.aether" target="deity.greek.erebus"><data key="relation">CHILD_OF</data></edge>
     <edge id="claim.v040.aether.child_nyx" source="deity.greek.aether" target="deity.greek.nyx"><data key="relation">CHILD_OF</data></edge>
     <edge id="claim.v040.asteria.parent_hecate" source="deity.greek.asteria" target="deity.greek.hecate"><data key="relation">PARENT_OF</data></edge>

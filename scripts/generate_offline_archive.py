@@ -17,12 +17,13 @@ sys.path.insert(0, str(PROJECT_DIR / "src"))
 
 from scripts.generate_web_data import build_snapshot
 from world_mythology.db import DEFAULT_DB_PATH, PROJECT_ROOT
+from world_mythology.story_cards import resolve_card
 
 
 DEFAULT_OUTPUT_DIR = PROJECT_ROOT / "web" / "public" / "offline"
 DEFAULT_MANIFEST = PROJECT_ROOT / "reports" / "offline_archive_manifest.json"
-HTML_NAME = "world-mythology-v0.30-story-archive.html"
-JSON_NAME = "world-mythology-v0.30-story-archive.json"
+HTML_NAME = "world-mythology-v0.31-story-archive.html"
+JSON_NAME = "world-mythology-v0.31-story-archive.json"
 
 
 def _escape(value: Any) -> str:
@@ -130,6 +131,46 @@ def _render_story(story: dict[str, Any]) -> str:
     """
 
 
+CARD_STATUS_LABELS = {
+    "STORY_LINKED": ("有完整故事", "Full story"),
+    "CLAIM_CARD": ("证据卡", "Evidence card"),
+    "PERMISSION_LIMITED": ("需社区授权", "Permission required"),
+    "PENDING_SOURCES": ("待补来源", "Awaiting sources"),
+}
+
+
+def _render_card(card: dict[str, Any]) -> str:
+    status_zh, status_en = CARD_STATUS_LABELS.get(card["status"], (card["status"], card["status"]))
+    beats = []
+    for index, beat in enumerate(card["beats"], start=1):
+        heading = (
+            f'<h4><span class="zh">{_escape(beat["headingZh"])}</span><span class="en">{_escape(beat["headingEn"])}</span></h4>'
+            if beat.get("headingZh") else ""
+        )
+        locator = " · ".join(str(part) for part in (beat.get("sourceTitle"), beat.get("sourceLocation"), beat.get("evidenceNote")) if part)
+        note = f'<em>{_escape(beat["uncertaintyNote"])}</em>' if beat.get("uncertaintyNote") else ""
+        beats.append(
+            f"""<li><span>{index:02d}</span><div>{heading}<p class="zh">{_escape(beat['textZh'])}</p>"""
+            f"""<p class="{'en' if beat.get('headingZh') else 'statement'}">{_escape(beat['textEn'])}</p>"""
+            f"""<small>{_escape(locator)}</small>{note}</div></li>"""
+        )
+    boundary = card.get("boundary")
+    boundary_html = (
+        f'<aside class="card-boundary"><span class="zh">{_escape(boundary["textZh"])}</span><span class="en">{_escape(boundary["textEn"])}</span></aside>'
+        if boundary else ""
+    )
+    search_text = " ".join(str(value or "") for value in (card["entityId"], card["nameZh"], card["name"], card.get("civilizationNameZh"), card.get("civilizationName"))).casefold()
+    return f"""
+    <article class="deity-card" data-civilization="{_escape(card.get('civilizationId'))}" data-search="{_escape(search_text)}" id="card-{_escape(card['entityId'])}">
+      <header><span>{_escape(card.get('civilizationNameZh'))} / {_escape(card.get('civilizationName'))} · <b class="zh">{_escape(status_zh)}</b><b class="en">{_escape(status_en)}</b></span>
+        <h3><span class="zh">{_escape(card['nameZh'])}</span> <span class="latin">{_escape(card['name'])}</span></h3>
+        <p class="zh">{_escape(card.get('hookZh') or '')}</p><p class="en">{_escape(card.get('hookEn') or '')}</p></header>
+      <ol class="beats">{''.join(beats)}</ol>
+      {boundary_html}
+    </article>
+    """
+
+
 def _render_html(archive: dict[str, Any]) -> str:
     stories = archive["stories"]
     civilization_options: dict[str, str] = {}
@@ -142,12 +183,14 @@ def _render_html(archive: dict[str, Any]) -> str:
         for key, label in sorted(civilization_options.items(), key=lambda item: item[1])
     )
     story_html = "".join(_render_story(story) for story in stories)
+    cards = archive.get("deityStoryCards", [])
+    card_html = "".join(_render_card(card) for card in cards)
     return f"""<!doctype html>
 <html lang="zh-Hans" data-lang="zh">
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width,initial-scale=1">
-  <title>世界神话系统 v0.30 离线故事档案</title>
+  <title>世界神话系统 v0.31 离线故事档案</title>
   <style>
     :root {{ color-scheme: light dark; --ink:#17222a; --muted:#52636e; --paper:#f7f2e8; --line:#c6bda9; --gold:#8b672f; --blue:#315f76; font-family: system-ui,-apple-system,"Noto Sans SC",sans-serif; }}
     * {{ box-sizing:border-box; }}
@@ -174,19 +217,30 @@ def _render_html(archive: dict[str, Any]) -> str:
     .version-scope p {{ margin:4px 0; line-height:1.6; }} .source-card h4 {{ margin:0 0 9px; }} .source-card dl {{ display:grid; grid-template-columns:repeat(2,minmax(0,1fr)); gap:7px 14px; }} .source-card dl div {{ min-width:0; }} .source-card dd {{ overflow-wrap:anywhere; }} .source-card a {{ display:inline-block; margin-top:9px; color:var(--blue); }}
     .prose {{ max-width:900px; margin:0 auto; padding:20px clamp(18px,5vw,70px) 35px; }} .reading-section {{ display:grid; grid-template-columns:34px 1fr; gap:12px; padding:22px 0; break-inside:avoid; }} .reading-section > span {{ color:var(--gold); font:12px ui-monospace,monospace; }} .reading-section h4 {{ margin:0 0 10px; font:500 21px Georgia,serif; }} .reading-section p {{ margin:0; font-family:Georgia,serif; font-size:18px; line-height:1.9; }} .reading-section aside {{ display:grid; gap:5px; margin-top:14px; padding:10px 12px; border-left:2px solid var(--blue); background:#eee9df; color:var(--muted); font-size:12px; }} .reading-section code,.reading-section em {{ overflow-wrap:anywhere; }}
     .story > footer {{ padding:16px clamp(18px,4vw,42px); background:#eee9df; }} .story > footer p {{ margin:5px 0 0; color:var(--muted); line-height:1.6; }}
+    .cards-heading {{ max-width:1180px; margin:28px auto 8px; padding:0 18px; font-family:Georgia,serif; font-weight:500; }}
+    #deity-cards {{ grid-template-columns:repeat(auto-fill,minmax(320px,1fr)); align-items:start; }}
+    .deity-card {{ border:1px solid var(--line); background:var(--paper); padding:16px 18px; break-inside:avoid; }} .deity-card[hidden] {{ display:none; }}
+    .deity-card header > span {{ color:var(--gold); font:11px ui-monospace,monospace; }} .deity-card h3 {{ margin:6px 0; font:500 22px Georgia,serif; }} .deity-card .latin {{ color:var(--muted); font-size:15px; }}
+    .deity-card header p {{ margin:4px 0; color:var(--muted); line-height:1.6; }}
+    .beats {{ margin:10px 0 0; padding:0; list-style:none; }} .beats li {{ display:grid; grid-template-columns:28px 1fr; gap:8px; padding:9px 0; border-top:1px solid var(--line); }} .beats li > span {{ color:var(--gold); font:11px ui-monospace,monospace; }}
+    .beats h4 {{ margin:0 0 4px; font:500 16px Georgia,serif; }} .beats p {{ margin:0 0 4px; line-height:1.7; }} .beats .statement {{ color:var(--muted); font-size:13px; }} .beats small {{ display:block; color:var(--muted); font-size:12px; overflow-wrap:anywhere; }} .beats em {{ display:block; color:#6d5838; font-size:12px; }}
+    .card-boundary {{ margin-top:10px; padding:9px 11px; border-left:3px solid var(--gold); background:#eee9df; color:var(--muted); font-size:13px; line-height:1.6; }}
+    @media(max-width:700px) {{ #deity-cards {{ grid-template-columns:1fr; }} }}
     @media(max-width:700px) {{ .controls {{ position:static; grid-template-columns:1fr 1fr; }} .controls input {{ grid-column:1/-1; }} .source-card dl {{ grid-template-columns:1fr; }} .reading-section p {{ font-size:17px; }} }}
     @media print {{ @page {{ margin:16mm; }} body {{ background:#fff; }} .controls {{ display:none; }} .masthead {{ padding:0 0 14px; color:#111; background:#fff; }} .masthead p {{ color:#333; }} .archive-note {{ margin:10px 0; }} main {{ display:block; max-width:none; padding:0; }} .story {{ margin:0 0 22px; border:0; box-shadow:none; break-before:page; }} .story:first-child {{ break-before:auto; }} .version {{ break-inside:auto; }} details:not([open]) > *:not(summary) {{ display:block; }} summary {{ list-style:none; }} }}
   </style>
 </head>
 <body>
-  <header class="masthead"><span>v0.30 · OFFLINE / PRINT ARCHIVE</span><h1><span class="zh">世界神话故事离线档案</span><span class="en">World Mythology Offline Story Archive</span></h1><p><span class="zh">来源、证据定位与许可边界随故事一起保存；本文件不包含个人阅读记录，也不重建受限传统。</span><span class="en">Sources, evidence locators, and rights boundaries travel with each story. This file contains no personal reading history and does not reconstruct restricted traditions.</span></p></header>
+  <header class="masthead"><span>v0.31 · OFFLINE / PRINT ARCHIVE</span><h1><span class="zh">世界神话故事离线档案</span><span class="en">World Mythology Offline Story Archive</span></h1><p><span class="zh">来源、证据定位与许可边界随故事一起保存；本文件不包含个人阅读记录，也不重建受限传统。</span><span class="en">Sources, evidence locators, and rights boundaries travel with each story. This file contains no personal reading history and does not reconstruct restricted traditions.</span></p></header>
   <nav class="controls" aria-label="Archive filters"><input id="search" type="search" placeholder="搜索 / Search"><select id="civilization"><option value="ALL">全部传统 / All traditions</option>{options}</select><button id="language" type="button">中文 / EN</button><button type="button" onclick="window.print()">打印 / Print</button></nav>
-  <aside class="archive-note"><strong>{_escape(archive['projectVersion'])}</strong> · {_escape(archive['generatedAt'])} · {len(stories)} stories<br>{_escape(archive['licenseNote'])}</aside>
+  <aside class="archive-note"><strong>{_escape(archive['projectVersion'])}</strong> · {_escape(archive['generatedAt'])} · {len(stories)} stories · {len(cards)} deity cards<br>{_escape(archive['licenseNote'])}</aside>
   <main id="stories">{story_html}</main>
+  <h2 class="cards-heading"><span class="zh">神祇故事卡（{len(cards)}）</span><span class="en">Deity story cards ({len(cards)})</span></h2>
+  <main id="deity-cards">{card_html}</main>
   <script>
     const search = document.querySelector('#search');
     const civilization = document.querySelector('#civilization');
-    const stories = [...document.querySelectorAll('.story')];
+    const stories = [...document.querySelectorAll('.story, .deity-card')];
     function filter() {{ const q = search.value.normalize('NFKD').toLocaleLowerCase(); const civ = civilization.value; for (const story of stories) story.hidden = !story.dataset.search.includes(q) || (civ !== 'ALL' && story.dataset.civilization !== civ); }}
     search.addEventListener('input', filter); civilization.addEventListener('change', filter);
     document.querySelector('#language').addEventListener('click', () => {{ const root=document.documentElement; root.dataset.lang=root.dataset.lang==='zh'?'en':'zh'; root.lang=root.dataset.lang==='zh'?'zh-Hans':'en'; }});
@@ -196,10 +250,76 @@ def _render_html(archive: dict[str, Any]) -> str:
 """
 
 
+DEFAULT_MARKDOWN_DIR = PROJECT_ROOT / "profiles" / "stories" / "deities"
+
+
+def _md_text(value: Any) -> str:
+    return str(value or "").replace("\n", " ").strip()
+
+
+def write_deity_story_markdown(cards: list[dict[str, Any]], output_dir: Path) -> int:
+    """Write the resolved deity story cards as Markdown, one file per tradition, readable on GitHub."""
+    output_dir.mkdir(parents=True, exist_ok=True)
+    for stale in output_dir.glob("*.md"):
+        stale.unlink()
+    groups: dict[str, list[dict[str, Any]]] = {}
+    for card in cards:
+        groups.setdefault(card.get("civilizationId") or "civ.unknown", []).append(card)
+    index_lines = [
+        "# 神祇故事集 / Deity story collection", "",
+        "> 每一位神祇都有一张故事卡，打开即可阅读。有完整故事的，按原典段落讲述；只有零散记载的，用带出处的要点讲述；"
+        "活态传统尚未获得社区授权的，只说明边界。所有段落都来自已发布的故事分段或带证据的 Claim，本文件不新增事实。", "",
+        "| 文明／传统 | Tradition | 神祇 | 完整故事 | 证据卡 | 需授权 |", "|---|---|---:|---:|---:|---:|",
+    ]
+    for civ_id, items in groups.items():
+        slug = civ_id.split(".", 1)[-1]
+        first = items[0]
+        statuses = [item["status"] for item in items]
+        index_lines.append(
+            f"| [{first.get('civilizationNameZh') or first.get('civilizationName') or civ_id}]({slug}.md) | "
+            f"{first.get('civilizationName') or civ_id} | {len(items)} | {statuses.count('STORY_LINKED')} | "
+            f"{statuses.count('CLAIM_CARD')} | {statuses.count('PERMISSION_LIMITED')} |"
+        )
+        lines = [
+            f"# {first.get('civilizationNameZh') or civ_id} / {first.get('civilizationName') or civ_id} — 神祇故事", "",
+            "[← 神祇故事集](index.md)", "",
+            "> 段落来自已发布故事或带证据的 Claim；来源与定位附在每段之后。", "",
+        ]
+        for card in items:
+            status_zh, status_en = CARD_STATUS_LABELS.get(card["status"], (card["status"], card["status"]))
+            lines.extend([f"## {card['nameZh']} · {card['name']}", "", f"**{status_zh} / {status_en}**", ""])
+            if card.get("primaryStoryId"):
+                lines.extend([f"完整故事档案：[{card['primaryStoryId']}](../{card['primaryStoryId']}.md)", ""])
+            if card.get("hookZh"):
+                lines.extend([f"> {_md_text(card['hookZh'])}", ""])
+            if card.get("hookEn"):
+                lines.extend([f"> *{_md_text(card['hookEn'])}*", ""])
+            for number, beat in enumerate(card["beats"], start=1):
+                heading = beat.get("headingZh")
+                title = f"{heading} / {beat.get('headingEn')}" if heading else "记载 / Record"
+                lines.extend([f"### {number}. {title}", "", _md_text(beat["textZh"]), ""])
+                if beat.get("textEn"):
+                    lines.extend([f"*{_md_text(beat['textEn'])}*", ""])
+                locator = " · ".join(_md_text(part) for part in (beat.get("sourceTitle"), beat.get("sourceLocation"), beat.get("evidenceNote")) if part)
+                if locator:
+                    lines.extend([f"<sub>来源 / Source：{locator}</sub>", ""])
+                if beat.get("uncertaintyNote"):
+                    lines.extend([f"<sub>尚不确定 / Uncertain：{_md_text(beat['uncertaintyNote'])}</sub>", ""])
+            boundary = card.get("boundary")
+            if boundary:
+                lines.extend([f"> **讲述边界 / Boundary**：{_md_text(boundary['textZh'])}", ">", f"> *{_md_text(boundary['textEn'])}*", ""])
+            lines.extend(["---", ""])
+        (output_dir / f"{slug}.md").write_text("\n".join(lines), encoding="utf-8")
+    index_lines.append("")
+    (output_dir / "index.md").write_text("\n".join(index_lines), encoding="utf-8")
+    return len(groups)
+
+
 def generate(
     database: Path = DEFAULT_DB_PATH,
     output_dir: Path = DEFAULT_OUTPUT_DIR,
     manifest_path: Path = DEFAULT_MANIFEST,
+    markdown_dir: Path | None = None,
 ) -> dict[str, Any]:
     snapshot = build_snapshot(database)
     meta = snapshot["meta"]
@@ -214,6 +334,16 @@ def generate(
         "stories": snapshot["stories"],
         "readingRoutes": snapshot.get("readingRoutes", []),
     }
+    sections_by_id = {
+        section["id"]: dict(section, sourceTitle=(version.get("source") or {}).get("title"), sourceLocation=version.get("sourceLocation"))
+        for story in snapshot["stories"]
+        for version in story["versions"]
+        for section in version["sections"]
+    }
+    claims_by_id = {claim["id"]: claim for claim in snapshot["claims"]}
+    archive["deityStoryCards"] = [
+        resolve_card(card, sections_by_id, claims_by_id) for card in snapshot.get("deityStoryCards", [])
+    ]
 
     output_dir.mkdir(parents=True, exist_ok=True)
     html_path = output_dir / HTML_NAME
@@ -238,6 +368,7 @@ def generate(
             "storyVersions": version_count,
             "storySections": section_count,
             "readingRoutes": len(archive["readingRoutes"]),
+            "deityStoryCards": len(archive["deityStoryCards"]),
         },
         "privacyModel": archive["privacyModel"],
         "artifacts": {
@@ -247,6 +378,8 @@ def generate(
     }
     manifest_path.parent.mkdir(parents=True, exist_ok=True)
     manifest_path.write_text(json.dumps(manifest, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
+    if markdown_dir is not None:
+        write_deity_story_markdown(archive["deityStoryCards"], markdown_dir)
     return manifest
 
 
@@ -260,4 +393,4 @@ def parse_args() -> argparse.Namespace:
 
 if __name__ == "__main__":
     args = parse_args()
-    print(json.dumps(generate(args.database, args.output_dir, args.manifest), ensure_ascii=False, indent=2))
+    print(json.dumps(generate(args.database, args.output_dir, args.manifest, DEFAULT_MARKDOWN_DIR), ensure_ascii=False, indent=2))
