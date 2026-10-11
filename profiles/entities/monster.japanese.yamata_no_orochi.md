@@ -27,5 +27,7 @@ The great serpent in the source-scoped Kusanagi discovery account.
 
 - `claim.v0280.japan.orochi_discovery_event` [VERIFIED / TEXT_SAYS / 0.94] Yamata no Orochi is the serpent in whose tail the sword is found in the academic summary.
   - 来源：[Yamatanoorochi](https://d-museum.kokugakuin.ac.jp/eos/detail/?id=9729)；定位：Yamatanoorochi — sword discovery sequence
+- `claim.v0320.kojiki_iwato_orochi.13` [VERIFIED / TEXT_SAYS / 0.90] Ashinazuchi tells Susanoo that the eight-forked serpent of Koshi, with eight heads and eight tails, eyes like red winter-cherries and a body spanning eight valleys and hills, has devoured seven of his eight daughters.
+  - 来源：[The Kojiki: Records of Ancient Matters (tr. Basil Hall Chamberlain)](https://sacred-texts.com/shi/kojiki.htm)；定位：Sect. XVIII, The Eight-Forked Serpent (kj025)
 
 > 本档案只代表当前阶段性基线，不是对该传统的最终或唯一解释。

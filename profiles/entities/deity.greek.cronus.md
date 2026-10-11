@@ -30,6 +30,10 @@
 
 - `claim.greek.cronus_father_zeus` [VERIFIED / IN_TRADITION / 0.80] In Hesiod's Theogony, Cronus is the father of Zeus.
   - 来源：[Hesiod, Theogony](https://scaife.perseus.org/library/urn:cts:greekLit:tlg0020.tlg001/)；定位：Theogony, succession narrative around lines 453–506
+- `claim.v0320.theogony.04` [VERIFIED / TEXT_SAYS / 0.90] With a sickle of adamant made by Earth, Cronus ambushes Heaven and castrates him; from the blood come the Erinyes, the Giants and the Meliai.
+  - 来源：[Hesiod, Theogony, Evelyn-White English text](https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0130)；定位：lines 154–187
+- `claim.v0320.theogony.08` [VERIFIED / TEXT_SAYS / 0.90] Warned that a son will overthrow him, Cronus swallows each child Rhea bears: Hestia, Demeter, Hera, Hades and Poseidon.
+  - 来源：[Hesiod, Theogony, Evelyn-White English text](https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0130)；定位：lines 453–467
 - `claim.v050.theogony.cronus_participated_titanomachy` [VERIFIED / TEXT_SAYS / 0.95] Theogony’s war passage places the Titans associated with Cronus against Zeus and his allies.
   - 来源：[Hesiod, Theogony, Evelyn-White English text](https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0130)；定位：lines 617-735
 

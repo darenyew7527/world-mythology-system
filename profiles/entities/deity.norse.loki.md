@@ -26,6 +26,12 @@
 
 ## Claims 与证据
 
+- `claim.v0320.baldr_long.03` [VERIFIED / TEXT_SAYS / 0.90] Disguised as a woman, Loki learns from Frigg that the young mistletoe west of Valhöll swore no oath, and pulls it up.
+  - 来源：[Snorri Sturluson, Edda](https://www.vsnrweb-publications.org.uk/Edda-1.pdf)；定位：Gylfaginning 49
+- `claim.v0320.baldr_long.11` [VERIFIED / TEXT_SAYS / 0.90] A giantess named Þökk, believed to be Loki, alone refuses to weep for Baldr, so he remains in Hel.
+  - 来源：[Snorri Sturluson, Edda](https://www.vsnrweb-publications.org.uk/Edda-1.pdf)；定位：Gylfaginning 49
+- `claim.v0320.thor_utgard.05` [VERIFIED / TEXT_SAYS / 0.90] Loki loses an eating contest to Logi, who devours the meat, the bones and the trough itself.
+  - 来源：[Snorri Sturluson, Edda](https://www.vsnrweb-publications.org.uk/Edda-1.pdf)；定位：Gylfaginning 46
 - `claim.v060.norse.loki_appears_thrymskvida` [VERIFIED / TEXT_SAYS / 0.99] Loki accompanies and advises Thor in Thrymskvida.
   - 来源：[Codex Regius electronic edition](https://eae.ku.dk/q?p=eae/vols/text/1)；定位：stanzas 1-32
 - `claim.v060.norse.loki_parent_hel` [VERIFIED / TEXT_SAYS / 0.99] Gylfaginning names Hel as a child of Loki and Angrboda.

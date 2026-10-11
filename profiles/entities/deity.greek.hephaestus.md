@@ -25,6 +25,8 @@
 
 ## Claims 与证据
 
+- `claim.v0320.theogony.11` [VERIFIED / TEXT_SAYS / 0.90] At Zeus's will Hephaestus moulds the first woman from earth and Athena adorns her, as Zeus's answer to the theft of fire.
+  - 来源：[Hesiod, Theogony, Evelyn-White English text](https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0130)；定位：lines 570–616
 - `claim.v050.h20.hephaestus_crafts` [VERIFIED / TEXT_SAYS / 0.99] Homeric Hymn 20 praises Hephaestus for inventions and links him with Athena in teaching crafts.
   - 来源：[Homeric Hymn 20 to Hephaestus, Evelyn-White English text](https://scaife.perseus.org/library/urn%3Acts%3AgreekLit%3Atlg0013.tlg020.perseus-eng2/)；定位：lines 1-5
 - `claim.v050.theogony.hephaestus_child_hera` [VERIFIED / TEXT_SAYS / 0.99] Theogony 927-929 says Hera bore Hephaestus without union in this witness.

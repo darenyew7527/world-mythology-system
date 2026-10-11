@@ -26,5 +26,7 @@
   - 来源：[Enlil/Ellil](https://oracc.museum.upenn.edu/amgg/listofdeities/enlil/)；定位：ORACC Enlil entry, Anzu Myth discussion
 - `claim.v0310.sumer.enlil_blesses` [VERIFIED / TEXT_SAYS / 0.84] Enlil receives Nanna-Suen and grants him abundance to take back to Urim.
   - 来源：[Nanna-Suen's journey to Nibru](https://etcsl.orinst.ox.ac.uk/section1/tr151.htm)；定位：ETCSL 1.5.1, closing section
+- `claim.v0320.inanna_long.07` [VERIFIED / TEXT_SAYS / 0.90] When Ninšubur pleads for Inana after three days and nights, Enlil angrily refuses, saying whoever craves the netherworld's powers must remain there; Nanna also refuses.
+  - 来源：[Inana's Descent to the Netherworld](https://etcsl.orinst.ox.ac.uk/section1/tr141.htm)；定位：ETCSL 1.4.1, lines 173–224
 
 > 本档案只代表当前阶段性基线，不是对该传统的最终或唯一解释。

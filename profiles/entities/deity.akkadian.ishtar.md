@@ -20,6 +20,7 @@
 
 ## Claims 与证据
 
-尚无 claim；实体仅为发现/索引入口。
+- `claim.v0320.gilgamesh_sb.09` [VERIFIED / TEXT_SAYS / 0.90] Ishtar proposes marriage to Gilgamesh, who refuses her by recounting the fates of her former lovers, from Dumuzi to the gardener Ishullanu.
+  - 来源：[Poem of Gilgameš](https://www.ebl.lmu.de/corpus/L/1/4)；定位：SB Tablet VI
 
 > 本档案只代表当前阶段性基线，不是对该传统的最终或唯一解释。

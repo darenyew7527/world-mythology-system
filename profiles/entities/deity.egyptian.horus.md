@@ -27,5 +27,7 @@
   - 来源：[Gods and goddesses: creation](https://www.ucl.ac.uk/museums-static/digitalegypt/religion/deitiescreation.html)；定位：Gods and goddesses: creation — the Osiris cycle summary
 - `claim.v0310.egypt.horus_child_osiris` [VERIFIED / TEXT_SAYS / 0.92] UCL names Horus as the child of Osiris conceived after his revival.
   - 来源：[Gods and goddesses: creation](https://www.ucl.ac.uk/museums-static/digitalegypt/religion/deitiescreation.html)；定位：Gods and goddesses: creation — the Osiris cycle summary
+- `claim.v0320.plutarch_osiris.11` [VERIFIED / TEXT_SAYS / 0.90] Plutarch says Osiris returned from the other world to train Horus, who answers that the noblest deed is to avenge one's parents, and who prevails over Typhon after many days of battle.
+  - 来源：[Plutarch, On Isis and Osiris (tr. F. C. Babbitt, Loeb Moralia V, 1936)](https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Plutarch/Moralia/Isis_and_Osiris*/home.html)；定位：ch. 19
 
 > 本档案只代表当前阶段性基线，不是对该传统的最终或唯一解释。

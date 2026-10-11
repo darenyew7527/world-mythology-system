@@ -1,6 +1,7 @@
 {"entity_id":"artifact.babylonian.marduk_net","is_primary":1,"notes":null,"type_code":"ARTIFACT"}
 {"entity_id":"artifact.chinese.five_colored_stones","is_primary":1,"notes":"Narrative material of the sky repair.","type_code":"SACRED_OBJECT"}
 {"entity_id":"artifact.chinese.huntian_ling","is_primary":1,"notes":null,"type_code":"ARTIFACT"}
+{"entity_id":"artifact.chinese.linglong_pagoda","is_primary":1,"notes":"v0.32 long-story entity.","type_code":"SACRED_OBJECT"}
 {"entity_id":"artifact.chinese.qiankun_quan","is_primary":1,"notes":null,"type_code":"ARTIFACT"}
 {"entity_id":"artifact.egyptian.solar_barque","is_primary":1,"notes":null,"type_code":"SHIP"}
 {"entity_id":"artifact.greek.aegis","is_primary":1,"notes":null,"type_code":"ARTIFACT"}
@@ -27,6 +28,7 @@
 {"entity_id":"being.norse.sindri","is_primary":1,"notes":"Primary classification at research checkpoint 2026-08-11","type_code":"DWARF"}
 {"entity_id":"being.norse.sindri","is_primary":0,"notes":"DWARF is nested under CREATURE","type_code":"CREATURE"}
 {"entity_id":"being.norse.sons_of_ivaldi","is_primary":1,"notes":null,"type_code":"CREATURE"}
+{"entity_id":"being.norse.utgarda_loki","is_primary":1,"notes":"v0.32 long-story entity.","type_code":"GIANT"}
 {"entity_id":"being.norse.ymir","is_primary":1,"notes":null,"type_code":"GIANT"}
 {"entity_id":"being.norse.ymir","is_primary":0,"notes":null,"type_code":"PRIMORDIAL_DEITY"}
 {"entity_id":"being.zoroastrian.angra_mainyu","is_primary":1,"notes":null,"type_code":"DEITY"}
@@ -114,26 +116,40 @@
 {"entity_id":"creature.akkadian.anzu","is_primary":1,"notes":"v0.20.0 ancient Near East witnesses","type_code":"MONSTER"}
 {"entity_id":"creature.chinese.ao_turtle","is_primary":1,"notes":"Great turtle in the Nüwa passages.","type_code":"DIVINE_BEAST"}
 {"entity_id":"creature.greek.cyclopes_hesiodic","is_primary":1,"notes":null,"type_code":"GIANT"}
+{"entity_id":"creature.greek.hecatoncheires","is_primary":1,"notes":"v0.32 long-story entity.","type_code":"GIANT"}
 {"entity_id":"creature.greek.typhon","is_primary":1,"notes":"Primary classification at research checkpoint 2026-08-11","type_code":"MONSTER"}
 {"entity_id":"creature.hindu.akupara","is_primary":1,"notes":"Mahābhārata critical-edition witness only.","type_code":"DIVINE_BEAST"}
 {"entity_id":"creature.hindu.vasuki","is_primary":1,"notes":"Nāga king.","type_code":"DIVINE_BEAST"}
+{"entity_id":"creature.mesopotamian.bull_of_heaven","is_primary":1,"notes":"v0.32 long-story entity.","type_code":"MONSTER"}
 {"entity_id":"creature.norse.fenrir","is_primary":1,"notes":null,"type_code":"MONSTER"}
 {"entity_id":"creature.norse.gullinbursti","is_primary":1,"notes":"Primary classification at research checkpoint 2026-08-11","type_code":"DIVINE_BEAST"}
 {"entity_id":"creature.norse.gullinbursti","is_primary":0,"notes":"Crafted living being in Skáldskaparmál; retain both classes","type_code":"ARTIFACT"}
 {"entity_id":"creature.norse.jormungandr","is_primary":1,"notes":null,"type_code":"DRAGON"}
+{"entity_id":"creature.norse.sleipnir","is_primary":1,"notes":"v0.32 long-story entity.","type_code":"DIVINE_BEAST"}
 {"entity_id":"creature.vedic.vritra","is_primary":1,"notes":"v0.6.0 thunder and storm comparison checkpoint","type_code":"MONSTER"}
 {"entity_id":"deity.akkadian.ishtar","is_primary":1,"notes":null,"type_code":"DEITY"}
 {"entity_id":"deity.akkadian.ninurta","is_primary":1,"notes":"v0.20.0 ancient Near East witnesses","type_code":"DEITY"}
+{"entity_id":"deity.akkadian.shamash","is_primary":1,"notes":"v0.32 long-story entity.","type_code":"DEITY"}
 {"entity_id":"deity.assyrian.ashur","is_primary":1,"notes":null,"type_code":"DEITY"}
+{"entity_id":"deity.babylonian.apsu","is_primary":1,"notes":"v0.32 long-story entity.","type_code":"PRIMORDIAL_DEITY"}
+{"entity_id":"deity.babylonian.ea","is_primary":1,"notes":"v0.32 long-story entity.","type_code":"DEITY"}
+{"entity_id":"deity.babylonian.kingu","is_primary":1,"notes":"v0.32 long-story entity.","type_code":"DEITY"}
 {"entity_id":"deity.babylonian.marduk","is_primary":1,"notes":null,"type_code":"DEITY"}
 {"entity_id":"deity.babylonian.tiamat","is_primary":1,"notes":null,"type_code":"PRIMORDIAL_DEITY"}
 {"entity_id":"deity.babylonian.tiamat","is_primary":0,"notes":null,"type_code":"DRAGON"}
+{"entity_id":"deity.chinese.ao_guang","is_primary":1,"notes":"v0.32 long-story entity.","type_code":"DEITY"}
+{"entity_id":"deity.chinese.ao_guang","is_primary":0,"notes":"Secondary classification.","type_code":"DRAGON"}
+{"entity_id":"deity.chinese.erlang_shen","is_primary":1,"notes":"v0.32 long-story entity.","type_code":"DEITY"}
 {"entity_id":"deity.chinese.fu_xi","is_primary":1,"notes":null,"type_code":"DEITY"}
 {"entity_id":"deity.chinese.gonggong","is_primary":1,"notes":"Divine/clan/ruler designation varies by witness.","type_code":"DEITY"}
+{"entity_id":"deity.chinese.jade_emperor","is_primary":1,"notes":"v0.32 long-story entity.","type_code":"DEITY"}
 {"entity_id":"deity.chinese.leigong","is_primary":1,"notes":"v0.6.0 thunder and storm comparison checkpoint","type_code":"DEITY"}
 {"entity_id":"deity.chinese.leize_thunder_spirit","is_primary":1,"notes":"v0.6.0 thunder and storm comparison checkpoint","type_code":"DEITY"}
+{"entity_id":"deity.chinese.li_jing","is_primary":1,"notes":"v0.32 long-story entity.","type_code":"DEITY"}
 {"entity_id":"deity.chinese.nezha","is_primary":1,"notes":null,"type_code":"DEITY"}
 {"entity_id":"deity.chinese.nu_wa","is_primary":1,"notes":null,"type_code":"DEITY"}
+{"entity_id":"deity.chinese.rulai_xiyouji","is_primary":1,"notes":"v0.32 long-story entity.","type_code":"DEITY"}
+{"entity_id":"deity.chinese.taishang_laojun","is_primary":1,"notes":"v0.32 long-story entity.","type_code":"DEITY"}
 {"entity_id":"deity.egyptian.amun","is_primary":1,"notes":null,"type_code":"DEITY"}
 {"entity_id":"deity.egyptian.amun_ra","is_primary":1,"notes":"v0.7.0 Egyptian solar-composite checkpoint","type_code":"DEITY"}
 {"entity_id":"deity.egyptian.anubis","is_primary":1,"notes":null,"type_code":"DEITY"}
@@ -209,6 +225,8 @@
 {"entity_id":"deity.greek.perses","is_primary":0,"notes":"Hesiodic divine generation; identity caution applies","type_code":"TITAN"}
 {"entity_id":"deity.greek.perses_helios","is_primary":1,"notes":"v0.9.0 Perses homonym audit checkpoint","type_code":"DEITY"}
 {"entity_id":"deity.greek.poseidon","is_primary":1,"notes":null,"type_code":"DEITY"}
+{"entity_id":"deity.greek.prometheus","is_primary":1,"notes":"v0.32 long-story entity.","type_code":"DEITY"}
+{"entity_id":"deity.greek.prometheus","is_primary":0,"notes":"Secondary classification.","type_code":"TITAN"}
 {"entity_id":"deity.greek.rhea","is_primary":1,"notes":null,"type_code":"DEITY"}
 {"entity_id":"deity.greek.rhea","is_primary":0,"notes":"Greek culture-specific classification","type_code":"TITAN"}
 {"entity_id":"deity.greek.selene","is_primary":1,"notes":"Primary classification from v0.4.0 Greek genealogy checkpoint","type_code":"DEITY"}
@@ -221,15 +239,20 @@
 {"entity_id":"deity.hawaiian.pele","is_primary":1,"notes":null,"type_code":"DEITY"}
 {"entity_id":"deity.hindu.brahma","is_primary":1,"notes":null,"type_code":"DEITY"}
 {"entity_id":"deity.hindu.dhanvantari","is_primary":1,"notes":"Bearer of the amṛta.","type_code":"DEITY"}
+{"entity_id":"deity.hindu.hanuman","is_primary":1,"notes":"v0.32 long-story entity.","type_code":"DEITY"}
 {"entity_id":"deity.hindu.kurma","is_primary":1,"notes":"Viṣṇu tortoise form in the Bhāgavata witness.","type_code":"DEITY"}
 {"entity_id":"deity.hindu.mohini","is_primary":1,"notes":"Viṣṇu female form in the Bhāgavata witness.","type_code":"DEITY"}
+{"entity_id":"deity.hindu.rama","is_primary":1,"notes":"v0.32 long-story entity.","type_code":"DEITY"}
 {"entity_id":"deity.hindu.shiva","is_primary":1,"notes":null,"type_code":"DEITY"}
+{"entity_id":"deity.hindu.sita","is_primary":1,"notes":"v0.32 long-story entity.","type_code":"DEITY"}
 {"entity_id":"deity.hindu.vishnu","is_primary":1,"notes":null,"type_code":"DEITY"}
 {"entity_id":"deity.irish.bridig","is_primary":1,"notes":null,"type_code":"DEITY"}
 {"entity_id":"deity.irish.dagda","is_primary":1,"notes":null,"type_code":"DEITY"}
 {"entity_id":"deity.irish.lugh","is_primary":1,"notes":null,"type_code":"DEITY"}
 {"entity_id":"deity.irish.morrigan","is_primary":1,"notes":null,"type_code":"DEITY"}
 {"entity_id":"deity.japanese.amaterasu","is_primary":1,"notes":null,"type_code":"DEITY"}
+{"entity_id":"deity.japanese.ame_no_tajikarao","is_primary":1,"notes":"v0.32 long-story entity.","type_code":"DEITY"}
+{"entity_id":"deity.japanese.ame_no_uzume","is_primary":1,"notes":"v0.32 long-story entity.","type_code":"DEITY"}
 {"entity_id":"deity.japanese.fujin","is_primary":1,"notes":"v0.10.0 Japanese thunder local-dossier checkpoint","type_code":"DEITY"}
 {"entity_id":"deity.japanese.fusuikazuchi","is_primary":1,"notes":"v0.6.0 thunder and storm comparison checkpoint","type_code":"DEITY"}
 {"entity_id":"deity.japanese.honoikazuchi","is_primary":1,"notes":"v0.6.0 thunder and storm comparison checkpoint","type_code":"DEITY"}
@@ -241,7 +264,10 @@
 {"entity_id":"deity.japanese.kamo_wakeikazuchi","is_primary":1,"notes":"v0.10.0 Japanese thunder local-dossier checkpoint","type_code":"DEITY"}
 {"entity_id":"deity.japanese.karaijin","is_primary":1,"notes":"v0.18.0 Japanese thunder witnesses","type_code":"DEITY"}
 {"entity_id":"deity.japanese.kuroikazuchi","is_primary":1,"notes":"v0.6.0 thunder and storm comparison checkpoint","type_code":"DEITY"}
+{"entity_id":"deity.japanese.kushinadahime","is_primary":1,"notes":"v0.32 long-story entity.","type_code":"DEITY"}
 {"entity_id":"deity.japanese.naruikazuchi","is_primary":1,"notes":"v0.6.0 thunder and storm comparison checkpoint","type_code":"DEITY"}
+{"entity_id":"deity.japanese.ogetsuhime","is_primary":1,"notes":"v0.32 long-story entity.","type_code":"DEITY"}
+{"entity_id":"deity.japanese.omoikane","is_primary":1,"notes":"v0.32 long-story entity.","type_code":"DEITY"}
 {"entity_id":"deity.japanese.ooikazuchi","is_primary":1,"notes":"v0.6.0 thunder and storm comparison checkpoint","type_code":"DEITY"}
 {"entity_id":"deity.japanese.raijin","is_primary":1,"notes":"v0.6.0 thunder and storm comparison checkpoint","type_code":"DEITY"}
 {"entity_id":"deity.japanese.sakuikazuchi","is_primary":1,"notes":"v0.6.0 thunder and storm comparison checkpoint","type_code":"DEITY"}
@@ -271,6 +297,8 @@
 {"entity_id":"deity.norse.heimdall","is_primary":1,"notes":null,"type_code":"DEITY"}
 {"entity_id":"deity.norse.hel","is_primary":1,"notes":null,"type_code":"DEITY"}
 {"entity_id":"deity.norse.hel","is_primary":0,"notes":null,"type_code":"CONCEPT"}
+{"entity_id":"deity.norse.hermod","is_primary":1,"notes":"v0.32 long-story entity.","type_code":"DEITY"}
+{"entity_id":"deity.norse.hodr","is_primary":1,"notes":"v0.32 long-story entity.","type_code":"DEITY"}
 {"entity_id":"deity.norse.hoenir","is_primary":1,"notes":"v0.19.0 Norse witness graph","type_code":"DEITY"}
 {"entity_id":"deity.norse.jord","is_primary":1,"notes":"v0.6.0 thunder and storm comparison checkpoint","type_code":"DEITY"}
 {"entity_id":"deity.norse.lodurr","is_primary":1,"notes":"v0.19.0 Norse witness graph","type_code":"DEITY"}
@@ -278,9 +306,12 @@
 {"entity_id":"deity.norse.magni","is_primary":1,"notes":"v0.6.0 thunder and storm comparison checkpoint","type_code":"DEITY"}
 {"entity_id":"deity.norse.meili","is_primary":1,"notes":"v0.6.0 thunder and storm comparison checkpoint","type_code":"DEITY"}
 {"entity_id":"deity.norse.modi","is_primary":1,"notes":"v0.6.0 thunder and storm comparison checkpoint","type_code":"DEITY"}
+{"entity_id":"deity.norse.nanna_nepsdottir","is_primary":1,"notes":"v0.32 long-story entity.","type_code":"DEITY"}
 {"entity_id":"deity.norse.njord","is_primary":1,"notes":null,"type_code":"DEITY"}
 {"entity_id":"deity.norse.odin","is_primary":1,"notes":null,"type_code":"DEITY"}
 {"entity_id":"deity.norse.sif","is_primary":1,"notes":"v0.6.0 thunder and storm comparison checkpoint","type_code":"DEITY"}
+{"entity_id":"deity.norse.sigyn","is_primary":1,"notes":"v0.32 long-story entity.","type_code":"DEITY"}
+{"entity_id":"deity.norse.skadi","is_primary":1,"notes":"v0.32 long-story entity.","type_code":"DEITY"}
 {"entity_id":"deity.norse.thor","is_primary":1,"notes":null,"type_code":"DEITY"}
 {"entity_id":"deity.norse.thrud","is_primary":1,"notes":"v0.6.0 thunder and storm comparison checkpoint","type_code":"DEITY"}
 {"entity_id":"deity.norse.tyr","is_primary":1,"notes":null,"type_code":"DEITY"}
@@ -293,12 +324,14 @@
 {"entity_id":"deity.slavic.perun","is_primary":1,"notes":null,"type_code":"DEITY"}
 {"entity_id":"deity.slavic.veles","is_primary":1,"notes":null,"type_code":"DEITY"}
 {"entity_id":"deity.sumerian.an","is_primary":1,"notes":null,"type_code":"DEITY"}
+{"entity_id":"deity.sumerian.dumuzi","is_primary":1,"notes":"v0.32 long-story entity.","type_code":"DEITY"}
 {"entity_id":"deity.sumerian.enki","is_primary":1,"notes":null,"type_code":"DEITY"}
 {"entity_id":"deity.sumerian.enlil","is_primary":1,"notes":null,"type_code":"DEITY"}
 {"entity_id":"deity.sumerian.ereshkigal","is_primary":1,"notes":null,"type_code":"DEITY"}
 {"entity_id":"deity.sumerian.inanna","is_primary":1,"notes":null,"type_code":"DEITY"}
 {"entity_id":"deity.sumerian.nanna","is_primary":1,"notes":null,"type_code":"DEITY"}
 {"entity_id":"deity.sumerian.ninhursag","is_primary":1,"notes":null,"type_code":"DEITY"}
+{"entity_id":"deity.sumerian.ninshubur","is_primary":1,"notes":"v0.32 long-story entity.","type_code":"DEITY"}
 {"entity_id":"deity.sumerian.utu","is_primary":1,"notes":null,"type_code":"DEITY"}
 {"entity_id":"deity.ugaritic.anat","is_primary":1,"notes":null,"type_code":"DEITY"}
 {"entity_id":"deity.ugaritic.asherah","is_primary":1,"notes":null,"type_code":"DEITY"}
@@ -320,6 +353,8 @@
 {"entity_id":"deity.zoroastrian.ahura_mazda","is_primary":1,"notes":null,"type_code":"DEITY"}
 {"entity_id":"deity.zoroastrian.mithra","is_primary":1,"notes":null,"type_code":"DEITY"}
 {"entity_id":"demon.hindu.rahu","is_primary":1,"notes":"Dānava beheaded with the discus.","type_code":"DEMON"}
+{"entity_id":"demon.hindu.ravana","is_primary":1,"notes":"v0.32 long-story entity.","type_code":"DEMON"}
+{"entity_id":"dragon.chinese.ao_bing","is_primary":1,"notes":"v0.32 long-story entity.","type_code":"DRAGON"}
 {"entity_id":"dragon.chinese.black_dragon_jizhou","is_primary":1,"notes":"Huainanzi Lan Ming witness only.","type_code":"DRAGON"}
 {"entity_id":"element.chinese.huo","is_primary":1,"notes":null,"type_code":"ELEMENT"}
 {"entity_id":"element.chinese.jin","is_primary":1,"notes":null,"type_code":"ELEMENT"}
@@ -332,11 +367,14 @@
 {"entity_id":"element.indian.prithvi","is_primary":1,"notes":null,"type_code":"ELEMENT"}
 {"entity_id":"element.indian.vayu","is_primary":1,"notes":null,"type_code":"ELEMENT"}
 {"entity_id":"event.archaeology.darius_statue_discovery_1972","is_primary":1,"notes":"v0.14.0 Darius statue provenance checkpoint","type_code":"EVENT"}
+{"entity_id":"event.babylonian.gilgamesh_epic","is_primary":1,"notes":"v0.32 long-story entity.","type_code":"EVENT"}
 {"entity_id":"event.babylonian.marduk_tiamat","is_primary":1,"notes":null,"type_code":"EVENT"}
 {"entity_id":"event.chinese.battle_of_zhuolu","is_primary":1,"notes":"v0.31 story entity.","type_code":"EVENT"}
 {"entity_id":"event.chinese.fuxi_makes_trigrams","is_primary":1,"notes":"v0.31 story entity.","type_code":"EVENT"}
 {"entity_id":"event.chinese.gonggong_strikes_buzhou","is_primary":1,"notes":"Two-witness textual event.","type_code":"EVENT"}
+{"entity_id":"event.chinese.havoc_in_heaven","is_primary":1,"notes":"v0.32 long-story entity.","type_code":"EVENT"}
 {"entity_id":"event.chinese.nezha_fights_wukong","is_primary":1,"notes":"v0.31 story entity.","type_code":"EVENT"}
+{"entity_id":"event.chinese.nezha_sea_uproar","is_primary":1,"notes":"v0.32 long-story entity.","type_code":"EVENT"}
 {"entity_id":"event.chinese.nuwa_repairs_sky","is_primary":1,"notes":"Two-witness textual event.","type_code":"EVENT"}
 {"entity_id":"event.chinese.pangu_heaven_earth","is_primary":1,"notes":"v0.31 story entity.","type_code":"EVENT"}
 {"entity_id":"event.egyptian.heavenly_cow_punishment","is_primary":1,"notes":"v0.31 story entity.","type_code":"EVENT"}
@@ -346,11 +384,14 @@
 {"entity_id":"event.egyptian.weighing_heart_ani","is_primary":1,"notes":"v0.31 story entity.","type_code":"EVENT"}
 {"entity_id":"event.greek.medea_restores_aeetes","is_primary":1,"notes":"v0.9.0 Perses homonym audit checkpoint","type_code":"EVENT"}
 {"entity_id":"event.greek.persephone_abduction","is_primary":1,"notes":"v0.5.0 primary-source profile checkpoint","type_code":"EVENT"}
+{"entity_id":"event.greek.theogony_succession","is_primary":1,"notes":"v0.32 long-story entity.","type_code":"EVENT"}
 {"entity_id":"event.greek.titanomachy","is_primary":1,"notes":null,"type_code":"EVENT"}
 {"entity_id":"event.greek.zeus_typhon_battle","is_primary":1,"notes":"Primary classification at research checkpoint 2026-08-11","type_code":"EVENT"}
 {"entity_id":"event.hawaiian.pele_journey","is_primary":1,"notes":"v0.31 story entity.","type_code":"EVENT"}
 {"entity_id":"event.hindu.samudra_manthana","is_primary":1,"notes":"Two-witness textual event.","type_code":"EVENT"}
+{"entity_id":"event.hindu.sita_abduction_rescue","is_primary":1,"notes":"v0.32 long-story entity.","type_code":"EVENT"}
 {"entity_id":"event.irish.second_battle_mag_tuired","is_primary":1,"notes":"v0.31 story entity.","type_code":"EVENT"}
+{"entity_id":"event.japanese.ame_no_iwato","is_primary":1,"notes":"v0.32 long-story entity.","type_code":"EVENT"}
 {"entity_id":"event.japanese.izanagi_purification","is_primary":1,"notes":"v0.31 story entity.","type_code":"EVENT"}
 {"entity_id":"event.japanese.izanagi_visits_yomi","is_primary":1,"notes":"v0.31 story entity.","type_code":"EVENT"}
 {"entity_id":"event.japanese.kusanagi.atsuta_enshrinement","is_primary":1,"notes":"Official shrine tradition event.","type_code":"EVENT"}
@@ -366,6 +407,7 @@
 {"entity_id":"event.norse.forging_divine_treasures","is_primary":1,"notes":"Primary classification at research checkpoint 2026-08-11","type_code":"EVENT"}
 {"entity_id":"event.norse.ragnarok","is_primary":1,"notes":null,"type_code":"EVENT"}
 {"entity_id":"event.norse.slaying_of_ymir","is_primary":1,"notes":"v0.31 story entity.","type_code":"EVENT"}
+{"entity_id":"event.norse.thor_utgard","is_primary":1,"notes":"v0.32 long-story entity.","type_code":"EVENT"}
 {"entity_id":"event.persia.darius_statue_transfer_egypt_susa","is_primary":1,"notes":"v0.14.0 Darius statue provenance checkpoint","type_code":"EVENT"}
 {"entity_id":"event.slavic.idols_cast_down_988","is_primary":1,"notes":"v0.31 story entity.","type_code":"EVENT"}
 {"entity_id":"event.slavic.kyiv_idols_980","is_primary":1,"notes":"v0.31 story entity.","type_code":"EVENT"}
@@ -384,7 +426,9 @@
 {"entity_id":"group.egyptian.theban_triad","is_primary":1,"notes":"v0.7.0 Egyptian solar-composite checkpoint","type_code":"CONCEPT"}
 {"entity_id":"group.japanese.eight_thunder_kami","is_primary":1,"notes":"v0.6.0 thunder and storm comparison checkpoint","type_code":"CONCEPT"}
 {"entity_id":"hero.chinese.chiyou","is_primary":1,"notes":"v0.31 story entity.","type_code":"HERO"}
+{"entity_id":"hero.chinese.subodhi_patriarch","is_primary":1,"notes":"v0.32 long-story entity.","type_code":"HERO"}
 {"entity_id":"hero.chinese.sun_wukong","is_primary":1,"notes":null,"type_code":"HERO"}
+{"entity_id":"hero.chinese.taiyi_zhenren","is_primary":1,"notes":"v0.32 long-story entity.","type_code":"HERO"}
 {"entity_id":"hero.chinese.yellow_emperor","is_primary":1,"notes":null,"type_code":"HERO"}
 {"entity_id":"hero.chinese.yellow_emperor","is_primary":0,"notes":null,"type_code":"ANCESTOR_DEITY"}
 {"entity_id":"hero.chinese.zhuanxu","is_primary":1,"notes":"Legendary sovereign; no historical-reality claim.","type_code":"HERO"}
@@ -395,11 +439,17 @@
 {"entity_id":"hero.greek.perseus","is_primary":1,"notes":"v0.9.0 Perses homonym audit checkpoint","type_code":"HERO"}
 {"entity_id":"hero.greek.triptolemos","is_primary":1,"notes":"v0.8.0 Eleusis evidence-layer checkpoint","type_code":"HERO"}
 {"entity_id":"hero.indian.arjuna","is_primary":1,"notes":null,"type_code":"HERO"}
+{"entity_id":"hero.indian.bharata","is_primary":1,"notes":"v0.32 long-story entity.","type_code":"HERO"}
+{"entity_id":"hero.indian.dasharatha","is_primary":1,"notes":"v0.32 long-story entity.","type_code":"HERO"}
+{"entity_id":"hero.indian.lakshmana","is_primary":1,"notes":"v0.32 long-story entity.","type_code":"HERO"}
 {"entity_id":"hero.irish.cu_chulainn","is_primary":1,"notes":null,"type_code":"HERO"}
 {"entity_id":"hero.irish.fergus_mac_roich","is_primary":1,"notes":null,"type_code":"HERO"}
 {"entity_id":"hero.japanese.yamato_takeru","is_primary":1,"notes":null,"type_code":"HERO"}
 {"entity_id":"hero.kiche.hunahpu","is_primary":1,"notes":null,"type_code":"HERO"}
 {"entity_id":"hero.kiche.xbalanque","is_primary":1,"notes":null,"type_code":"HERO"}
+{"entity_id":"hero.mesopotamian.enkidu","is_primary":1,"notes":"v0.32 long-story entity.","type_code":"HERO"}
+{"entity_id":"hero.mesopotamian.utnapishtim","is_primary":1,"notes":"v0.32 long-story entity.","type_code":"HERO"}
+{"entity_id":"hero.norse.thjalfi","is_primary":1,"notes":"v0.32 long-story entity.","type_code":"HERO"}
 {"entity_id":"hero.polynesian.maui","is_primary":1,"notes":null,"type_code":"HERO"}
 {"entity_id":"hero.sumerian.gilgamesh","is_primary":1,"notes":"v0.31 story entity.","type_code":"HERO"}
 {"entity_id":"historical.achaemenid.darius_i","is_primary":1,"notes":"v0.12.0 Ra-Atum witness-layer checkpoint","type_code":"HISTORICAL_FIGURE"}
@@ -457,6 +507,8 @@
 {"entity_id":"person.norse.ask","is_primary":1,"notes":"v0.19.0 Norse witness graph","type_code":"PERSON"}
 {"entity_id":"person.norse.embla","is_primary":1,"notes":"v0.19.0 Norse witness graph","type_code":"PERSON"}
 {"entity_id":"place.chinese.buzhou_mountain","is_primary":1,"notes":"No coordinate projection.","type_code":"MYTHICAL_PLACE"}
+{"entity_id":"place.chinese.huaguo_shan","is_primary":1,"notes":"v0.32 long-story entity.","type_code":"MYTHICAL_PLACE"}
+{"entity_id":"place.hindu.lanka","is_primary":1,"notes":"v0.32 long-story entity.","type_code":"MYTHICAL_PLACE"}
 {"entity_id":"place.hindu.mandara","is_primary":1,"notes":"No coordinate projection.","type_code":"MYTHICAL_PLACE"}
 {"entity_id":"place.japanese.onogoro","is_primary":1,"notes":"v0.31 story entity.","type_code":"MYTHICAL_PLACE"}
 {"entity_id":"place.japanese.yomi","is_primary":1,"notes":"v0.31 story entity.","type_code":"REALM"}
@@ -726,6 +778,7 @@
 {"entity_id":"text.zoroastrian.videvdad_fargard1","is_primary":1,"notes":"v0.31 story entity.","type_code":"SCRIPTURE"}
 {"entity_id":"weapon.arthurian.excalibur","is_primary":1,"notes":null,"type_code":"WEAPON"}
 {"entity_id":"weapon.babylonian.marduk_bow","is_primary":1,"notes":null,"type_code":"WEAPON"}
+{"entity_id":"weapon.chinese.qiankun_quan","is_primary":1,"notes":"v0.32 long-story entity.","type_code":"WEAPON"}
 {"entity_id":"weapon.chinese.ruyi_jingu_bang","is_primary":1,"notes":null,"type_code":"WEAPON"}
 {"entity_id":"weapon.chinese.xuanyuan_sword","is_primary":1,"notes":null,"type_code":"WEAPON"}
 {"entity_id":"weapon.greek.apollo_bow","is_primary":1,"notes":null,"type_code":"WEAPON"}

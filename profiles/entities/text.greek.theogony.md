@@ -29,6 +29,7 @@
 
 ## Claims 与证据
 
-尚无 claim；实体仅为发现/索引入口。
+- `claim.v0320.theogony.01` [VERIFIED / TEXT_SAYS / 0.90] Hesiod says the Muses gave him a laurel staff and a divine voice beneath Helicon and asks them to tell how the gods first came to be.
+  - 来源：[Hesiod, Theogony, Evelyn-White English text](https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0130)；定位：lines 1–115
 
 > 本档案只代表当前阶段性基线，不是对该传统的最终或唯一解释。

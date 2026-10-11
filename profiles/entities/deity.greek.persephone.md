@@ -31,6 +31,8 @@
 
 ## Claims 与证据
 
+- `claim.v0320.demeter_long.12` [VERIFIED / TEXT_SAYS / 0.90] Reunited with Demeter, Persephone learns that because she ate below she must spend a third of each year under the earth and return each spring.
+  - 来源：[Homeric Hymn 2 to Demeter, Evelyn-White English text](https://scaife.perseus.org/reader/urn%3Acts%3AgreekLit%3Atlg0013.tlg002.perseus-eng2%3A1-135/)；定位：lines 384–404
 - `claim.v050.h2.persephone_participated` [VERIFIED / TEXT_SAYS / 0.99] Persephone is the abducted figure in Homeric Hymn 2.
   - 来源：[Homeric Hymn 2 to Demeter, Evelyn-White English text](https://scaife.perseus.org/reader/urn%3Acts%3AgreekLit%3Atlg0013.tlg002.perseus-eng2%3A1-135/)；定位：lines 1-87
 - `claim.v050.theogony.persephone_child_demeter` [VERIFIED / TEXT_SAYS / 0.99] Theogony 912-914 presents Persephone as a child of Demeter and Zeus.

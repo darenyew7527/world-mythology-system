@@ -22,8 +22,11 @@ from world_mythology.story_cards import resolve_card
 
 DEFAULT_OUTPUT_DIR = PROJECT_ROOT / "web" / "public" / "offline"
 DEFAULT_MANIFEST = PROJECT_ROOT / "reports" / "offline_archive_manifest.json"
-HTML_NAME = "world-mythology-v0.31-story-archive.html"
-JSON_NAME = "world-mythology-v0.31-story-archive.json"
+HTML_NAME = "world-mythology-v0.32-story-archive.html"
+JSON_NAME = "world-mythology-v0.32-story-archive.json"
+# A deity card whose story has this many sections links to the full story
+# instead of repeating it (v0.32 long-form stories).
+LONG_STORY_SECTIONS = 12
 
 
 def _escape(value: Any) -> str:
@@ -139,10 +142,27 @@ CARD_STATUS_LABELS = {
 }
 
 
+def _is_long_card(card: dict[str, Any]) -> bool:
+    story_beats = [beat for beat in card["beats"] if beat.get("kind") == "STORY_SECTION"]
+    return bool(card.get("primaryStoryId")) and len(story_beats) >= LONG_STORY_SECTIONS
+
+
 def _render_card(card: dict[str, Any]) -> str:
     status_zh, status_en = CARD_STATUS_LABELS.get(card["status"], (card["status"], card["status"]))
     beats = []
-    for index, beat in enumerate(card["beats"], start=1):
+    if _is_long_card(card):
+        # The full text lives once in the story article; the card lists its chapters.
+        chapters = "".join(
+            f'<li><span>{index:02d}</span><div><h4><span class="zh">{_escape(beat.get("headingZh"))}</span>'
+            f'<span class="en">{_escape(beat.get("headingEn"))}</span></h4></div></li>'
+            for index, beat in enumerate(card["beats"], start=1)
+        )
+        beats.append(
+            f'<li class="long-story-link"><span>→</span><div><a href="#{_escape(card["primaryStoryId"])}">'
+            f'<span class="zh">长篇故事 · {len(card["beats"])} 章 · 阅读全文</span>'
+            f'<span class="en">Long story · {len(card["beats"])} chapters · read in full</span></a></div></li>{chapters}'
+        )
+    for index, beat in enumerate([] if beats else card["beats"], start=1):
         heading = (
             f'<h4><span class="zh">{_escape(beat["headingZh"])}</span><span class="en">{_escape(beat["headingEn"])}</span></h4>'
             if beat.get("headingZh") else ""
@@ -190,7 +210,7 @@ def _render_html(archive: dict[str, Any]) -> str:
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width,initial-scale=1">
-  <title>世界神话系统 v0.31 离线故事档案</title>
+  <title>世界神话系统 v0.32 离线故事档案</title>
   <style>
     :root {{ color-scheme: light dark; --ink:#17222a; --muted:#52636e; --paper:#f7f2e8; --line:#c6bda9; --gold:#8b672f; --blue:#315f76; font-family: system-ui,-apple-system,"Noto Sans SC",sans-serif; }}
     * {{ box-sizing:border-box; }}
@@ -222,7 +242,7 @@ def _render_html(archive: dict[str, Any]) -> str:
     .deity-card {{ border:1px solid var(--line); background:var(--paper); padding:16px 18px; break-inside:avoid; }} .deity-card[hidden] {{ display:none; }}
     .deity-card header > span {{ color:var(--gold); font:11px ui-monospace,monospace; }} .deity-card h3 {{ margin:6px 0; font:500 22px Georgia,serif; }} .deity-card .latin {{ color:var(--muted); font-size:15px; }}
     .deity-card header p {{ margin:4px 0; color:var(--muted); line-height:1.6; }}
-    .beats {{ margin:10px 0 0; padding:0; list-style:none; }} .beats li {{ display:grid; grid-template-columns:28px 1fr; gap:8px; padding:9px 0; border-top:1px solid var(--line); }} .beats li > span {{ color:var(--gold); font:11px ui-monospace,monospace; }}
+    .beats {{ margin:10px 0 0; padding:0; list-style:none; }} .beats li {{ display:grid; grid-template-columns:28px 1fr; gap:8px; padding:9px 0; border-top:1px solid var(--line); }} .beats li > span {{ color:var(--gold); font:11px ui-monospace,monospace; }} .beats .long-story-link a {{ color:var(--blue); font-weight:600; }}
     .beats h4 {{ margin:0 0 4px; font:500 16px Georgia,serif; }} .beats p {{ margin:0 0 4px; line-height:1.7; }} .beats .statement {{ color:var(--muted); font-size:13px; }} .beats small {{ display:block; color:var(--muted); font-size:12px; overflow-wrap:anywhere; }} .beats em {{ display:block; color:#6d5838; font-size:12px; }}
     .card-boundary {{ margin-top:10px; padding:9px 11px; border-left:3px solid var(--gold); background:#eee9df; color:var(--muted); font-size:13px; line-height:1.6; }}
     @media(max-width:700px) {{ #deity-cards {{ grid-template-columns:1fr; }} }}
@@ -231,7 +251,7 @@ def _render_html(archive: dict[str, Any]) -> str:
   </style>
 </head>
 <body>
-  <header class="masthead"><span>v0.31 · OFFLINE / PRINT ARCHIVE</span><h1><span class="zh">世界神话故事离线档案</span><span class="en">World Mythology Offline Story Archive</span></h1><p><span class="zh">来源、证据定位与许可边界随故事一起保存；本文件不包含个人阅读记录，也不重建受限传统。</span><span class="en">Sources, evidence locators, and rights boundaries travel with each story. This file contains no personal reading history and does not reconstruct restricted traditions.</span></p></header>
+  <header class="masthead"><span>v0.32 · OFFLINE / PRINT ARCHIVE</span><h1><span class="zh">世界神话故事离线档案</span><span class="en">World Mythology Offline Story Archive</span></h1><p><span class="zh">来源、证据定位与许可边界随故事一起保存；本文件不包含个人阅读记录，也不重建受限传统。</span><span class="en">Sources, evidence locators, and rights boundaries travel with each story. This file contains no personal reading history and does not reconstruct restricted traditions.</span></p></header>
   <nav class="controls" aria-label="Archive filters"><input id="search" type="search" placeholder="搜索 / Search"><select id="civilization"><option value="ALL">全部传统 / All traditions</option>{options}</select><button id="language" type="button">中文 / EN</button><button type="button" onclick="window.print()">打印 / Print</button></nav>
   <aside class="archive-note"><strong>{_escape(archive['projectVersion'])}</strong> · {_escape(archive['generatedAt'])} · {len(stories)} stories · {len(cards)} deity cards<br>{_escape(archive['licenseNote'])}</aside>
   <main id="stories">{story_html}</main>
@@ -283,8 +303,9 @@ def write_deity_story_markdown(cards: list[dict[str, Any]], output_dir: Path) ->
         lines = [
             f"# {first.get('civilizationNameZh') or civ_id} / {first.get('civilizationName') or civ_id} — 神祇故事", "",
             "[← 神祇故事集](index.md)", "",
-            "> 段落来自已发布故事或带证据的 Claim；来源与定位附在每段之后。", "",
+            "> 段落来自已发布故事或带证据的 Claim；来源与定位附在每段之后。长篇故事在本页只完整印一次。", "",
         ]
+        printed: dict[str, str] = {}
         for card in items:
             status_zh, status_en = CARD_STATUS_LABELS.get(card["status"], (card["status"], card["status"]))
             lines.extend([f"## {card['nameZh']} · {card['name']}", "", f"**{status_zh} / {status_en}**", ""])
@@ -294,6 +315,25 @@ def write_deity_story_markdown(cards: list[dict[str, Any]], output_dir: Path) ->
                 lines.extend([f"> {_md_text(card['hookZh'])}", ""])
             if card.get("hookEn"):
                 lines.extend([f"> *{_md_text(card['hookEn'])}*", ""])
+            version_id = card.get("primaryVersionId")
+            if _is_long_card(card) and version_id in printed:
+                # Each long story is printed once per page; later deities get its chapter list.
+                lines.extend([
+                    f"**长篇故事 · {len(card['beats'])} 章**：与本页「{printed[version_id]}」一节是同一个故事，"
+                    f"全文见上方或[故事档案](../{card['primaryStoryId']}.md)。", "",
+                    "目录：" + " · ".join(f"{number:02d} {_md_text(beat.get('headingZh'))}" for number, beat in enumerate(card["beats"], start=1)), "",
+                ])
+                boundary = card.get("boundary")
+                if boundary:
+                    lines.extend([f"> **讲述边界 / Boundary**：{_md_text(boundary['textZh'])}", ">", f"> *{_md_text(boundary['textEn'])}*", ""])
+                lines.extend(["---", ""])
+                continue
+            if _is_long_card(card):
+                printed[version_id] = card["nameZh"]
+                lines.extend([
+                    f"**长篇故事 · {len(card['beats'])} 章**", "",
+                    "目录：" + " · ".join(f"{number:02d} {_md_text(beat.get('headingZh'))}" for number, beat in enumerate(card["beats"], start=1)), "",
+                ])
             for number, beat in enumerate(card["beats"], start=1):
                 heading = beat.get("headingZh")
                 title = f"{heading} / {beat.get('headingEn')}" if heading else "记载 / Record"

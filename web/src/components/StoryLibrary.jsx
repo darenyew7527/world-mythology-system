@@ -2,11 +2,13 @@ import { useDeferredValue, useEffect, useMemo, useState } from 'react'
 import { BookIcon, ExternalIcon, SearchIcon } from './Icons.jsx'
 import { statusLabel } from '../i18n.js'
 import { loadReaderState, saveReaderState } from '../readerStorage.js'
+import { LONG_STORY_SECTIONS, readingMinutes } from '../storyDeck.js'
+import ChapterNav, { chapterAnchor, NextChapter } from './ChapterNav.jsx'
 import StoryReaderTools from './StoryReaderTools.jsx'
 
 const ui = {
   zh: {
-    eyebrow: 'v0.31 · 神祇故事与讲故事模式',
+    eyebrow: 'v0.32 · 长篇故事与章节阅读',
     title: '神话故事阅读库',
     intro: '从永久队列逐项扩张可公开、可回溯的故事见证；活态传统先过权限门禁，单项目受阻不影响其他目标继续。',
     search: '搜索故事、人物、神器或主题…',
@@ -58,9 +60,13 @@ const ui = {
     targetList: '目标清单',
     tell: '▶ 讲故事模式',
     tellHint: '全屏逐段讲述，适合朗读或投屏',
+    longOnly: '只看长篇',
+    longBadge: (n) => `长篇 · ${n} 章`,
+    chapterCount: (n) => `${n} 章`,
+    textLength: (n) => `约 ${Math.round(n / 100) / 10} 千字`,
   },
   en: {
-    eyebrow: 'v0.31 · Deity stories and storyteller mode',
+    eyebrow: 'v0.32 · Long-form stories and chapter reading',
     title: 'Myth Story Library',
     intro: 'Expand public, traceable story witnesses from the permanent queue; living traditions pass permission gates first, and one blocked target never stops the rest.',
     search: 'Search stories, people, artifacts, or themes…',
@@ -112,6 +118,10 @@ const ui = {
     targetList: 'Target list',
     tell: '▶ Storyteller mode',
     tellHint: 'Full screen, one section at a time — for reading aloud or presenting',
+    longOnly: 'Long stories only',
+    longBadge: (n) => `Long · ${n} chapters`,
+    chapterCount: (n) => `${n} chapters`,
+    textLength: (n) => `about ${Math.round(n / 100) * 100} words`,
   },
 }
 
@@ -183,6 +193,8 @@ const storySummary = (story, language) =>
 const versionLabel = (version, language) =>
   language === 'zh' ? version.labelZh : version.labelEn
 
+const longestVersion = (story) => Math.max(0, ...story.versions.map((version) => version.sections.length))
+
 const linkedName = (entity, language) =>
   language === 'zh' ? entity.nameZh || entity.canonicalName : entity.canonicalName
 
@@ -202,6 +214,7 @@ export default function StoryLibrary({
   const [selectedVersionId, setSelectedVersionId] = useState(null)
   const [selectedBatchId, setSelectedBatchId] = useState(null)
   const [readerState, setReaderState] = useState(loadReaderState)
+  const [longOnly, setLongOnly] = useState(false)
   const deferredQuery = useDeferredValue(query)
 
   useEffect(() => saveReaderState(readerState), [readerState])
@@ -224,6 +237,7 @@ export default function StoryLibrary({
     const needle = normalize(deferredQuery.trim())
     return stories.filter((story) => {
       if (civilization !== 'ALL' && story.civilizationId !== civilization) return false
+      if (longOnly && longestVersion(story) < LONG_STORY_SECTIONS) return false
       if (!needle) return true
       const linked = story.versions.flatMap((version) => version.entities)
       return normalize([
@@ -238,7 +252,7 @@ export default function StoryLibrary({
         ...linked.flatMap((entity) => [entity.nameZh, entity.canonicalName]),
       ].join(' ')).includes(needle)
     })
-  }, [civilization, deferredQuery, stories])
+  }, [civilization, deferredQuery, longOnly, stories])
 
   const selected = stories.find((story) => story.id === selectedStoryId)
     || filtered[0]
@@ -290,6 +304,22 @@ export default function StoryLibrary({
     }))
   }
 
+  const chapters = useMemo(() => (selectedVersion?.sections || []).map((section) => ({
+    id: section.id,
+    order: section.order,
+    title: language === 'zh' ? section.headingZh || section.headingEn : section.headingEn || section.headingZh,
+  })), [language, selectedVersion])
+  const versionMinutes = selectedVersion ? readingMinutes(selectedVersion.sections, language, 'bodyZh', 'bodyEn') : 0
+  const versionLength = selectedVersion
+    ? selectedVersion.sections.reduce((sum, section) => sum + (language === 'zh'
+      ? (section.bodyZh || '').length
+      : (section.bodyEn || '').split(/\s+/).filter(Boolean).length), 0)
+    : 0
+
+  const advanceProgress = (sectionOrder) => {
+    if (sectionOrder > progressOrder) markProgress(sectionOrder)
+  }
+
   const markProgress = (sectionOrder) => {
     if (!selected || !selectedVersion) return
     setReaderState((current) => ({
@@ -328,6 +358,9 @@ export default function StoryLibrary({
           <option value="ALL">{copy.all}</option>
           {civilizations.map((item) => <option key={item.id} value={item.id}>{item.label}</option>)}
         </select>
+        <button aria-pressed={longOnly} className="story-long-toggle" type="button" onClick={() => setLongOnly((value) => !value)}>
+          {copy.longOnly}
+        </button>
         <span>{filtered.length} / {stories.length}</span>
       </section>
 
@@ -347,6 +380,9 @@ export default function StoryLibrary({
               {bookmarkIds.has(story.id) && <small className="story-bookmark-label">★ {copy.localBookmark}</small>}
               <p>{storySummary(story, language)}</p>
               <footer>
+                {longestVersion(story) >= LONG_STORY_SECTIONS && (
+                  <small className="story-long-badge">{copy.longBadge(longestVersion(story))}</small>
+                )}
                 <small>{story.readingMinutes} {copy.minutes}</small>
                 <small>{story.versions.length} {copy.versions}</small>
                 <small>{statusLabel(story.evidenceStatus, language)}</small>
@@ -365,6 +401,9 @@ export default function StoryLibrary({
                 <span>{language === 'zh' ? selected.civilizationNameZh || selected.civilizationName : selected.civilizationName}</span>
                 <h2>{storyTitle(selected, language)}</h2>
                 <p>{storySummary(selected, language)}</p>
+                <p className="story-reader-stats">
+                  {copy.chapterCount(selectedVersion.sections.length)} · {copy.textLength(versionLength)} · {versionMinutes} {copy.minutes}
+                </p>
               </div>
               <dl>
                 <div><dt>{copy.sourceBacked}</dt><dd>{statusLabel(selected.evidenceStatus, language)}</dd></div>
@@ -517,6 +556,52 @@ export default function StoryLibrary({
               </section>
             )}
 
+            <ChapterNav
+              chapters={chapters}
+              key={selectedVersion.id}
+              language={language}
+              minutes={versionMinutes}
+              prefix="story-chapter"
+              progressOrder={progressOrder}
+            />
+
+            <div className="story-prose">
+              {selectedVersion.sections.map((section, position) => (
+                <section
+                  className={section.order <= progressOrder ? 'is-read' : ''}
+                  id={chapterAnchor('story-chapter', section.id)}
+                  key={section.id}
+                >
+                  <span>{String(section.order).padStart(2, '0')}</span>
+                  <div>
+                    <h3 data-chapter-heading tabIndex={-1}>{language === 'zh' ? section.headingZh : section.headingEn}</h3>
+                    <p>{language === 'zh' ? section.bodyZh : section.bodyEn}</p>
+                    <aside>
+                      <strong>{copy.evidence}</strong>
+                      <span>{section.evidenceNote}</span>
+                      {section.anchorClaimId && <code>{section.anchorClaimId}</code>}
+                      {section.uncertaintyNote && <em>{copy.unknown}: {section.uncertaintyNote}</em>}
+                    </aside>
+                    <button
+                      aria-pressed={section.order <= progressOrder}
+                      className="story-progress-marker"
+                      type="button"
+                      onClick={() => markProgress(section.order)}
+                    >
+                      {section.order <= progressOrder ? `✓ ${copy.readToHere}` : copy.markHere}
+                    </button>
+                    <NextChapter
+                      chapters={chapters}
+                      language={language}
+                      onAdvance={advanceProgress}
+                      position={position}
+                      prefix="story-chapter"
+                    />
+                  </div>
+                </section>
+              ))}
+            </div>
+
             <section className="story-event-map">
               <header>
                 <div><strong>{copy.eventSequence}</strong><span>{copy.narrativeOrder}</span></div>
@@ -539,32 +624,6 @@ export default function StoryLibrary({
                 ))}
               </ol>
             </section>
-
-            <div className="story-prose">
-              {selectedVersion.sections.map((section) => (
-                <section className={section.order <= progressOrder ? 'is-read' : ''} key={section.id}>
-                  <span>{String(section.order).padStart(2, '0')}</span>
-                  <div>
-                    <h3>{language === 'zh' ? section.headingZh : section.headingEn}</h3>
-                    <p>{language === 'zh' ? section.bodyZh : section.bodyEn}</p>
-                    <aside>
-                      <strong>{copy.evidence}</strong>
-                      <span>{section.evidenceNote}</span>
-                      {section.anchorClaimId && <code>{section.anchorClaimId}</code>}
-                      {section.uncertaintyNote && <em>{copy.unknown}: {section.uncertaintyNote}</em>}
-                    </aside>
-                    <button
-                      aria-pressed={section.order <= progressOrder}
-                      className="story-progress-marker"
-                      type="button"
-                      onClick={() => markProgress(section.order)}
-                    >
-                      {section.order <= progressOrder ? `✓ ${copy.readToHere}` : copy.markHere}
-                    </button>
-                  </div>
-                </section>
-              ))}
-            </div>
 
             <section className="story-linked-entities">
               <h3>{copy.characters}</h3>

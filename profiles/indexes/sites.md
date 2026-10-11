@@ -50,6 +50,7 @@
 | site.indonesia.borobudur | 婆罗浮屠 | Borobudur | TEMPLE | 佛教传统 | REAL_ARCHAEOLOGICAL | World Heritage |
 | site.celtic.hillforts_scope | 凯尔特山堡研究入口 | Celtic hillforts research scope | ARCHAEOLOGICAL_SITE | 凯尔特 | REAL_ARCHAEOLOGICAL | — |
 | site.celtic.groves_scope | 圣林研究入口 | Sacred groves research scope | PLACE | 凯尔特 | MIXED | — |
+| place.chinese.huaguo_shan | 花果山 | Mountain of Flowers and Fruit | MYTHICAL_PLACE | 中国民间信仰 | MYTHICAL | — |
 | site.chinese.mogao_cave_249 | 莫高窟第249窟 | Mogao Cave 249 | ARCHAEOLOGICAL_SITE | 中国传统跨时期总类 | REAL_ARCHAEOLOGICAL | Part of Mogao Caves, World Heritage property 440 |
 | site.ethiopia.aksum | 阿克苏姆 | Aksum | ARCHAEOLOGICAL_SITE | 埃塞俄比亚传统 | REAL_ARCHAEOLOGICAL | World Heritage |
 | site.ethiopia.lalibela | 拉利贝拉岩石教堂 | Rock-Hewn Churches of Lalibela | MONUMENT | 埃塞俄比亚传统 | REAL_SACRED | World Heritage |
@@ -57,6 +58,7 @@
 | site.india.elephanta | 象岛石窟 | Elephanta Caves | TEMPLE | 印度教传统 | REAL_ARCHAEOLOGICAL | World Heritage |
 | site.india.ellora | 埃洛拉石窟 | Ellora Caves | TEMPLE | 印度教传统 | REAL_ARCHAEOLOGICAL | World Heritage |
 | site.india.khajuraho | 克久拉霍古迹群 | Khajuraho Group of Monuments | TEMPLE | 印度教传统 | REAL_ARCHAEOLOGICAL | World Heritage |
+| place.hindu.lanka | 楞伽城（《罗摩衍那》） | Laṅkā (Rāmāyaṇa) | MYTHICAL_PLACE | 印度教传统 | MYTHICAL | — |
 | place.hindu.mandara | 曼陀罗山 | Mount Mandara | MYTHICAL_PLACE | 印度教传统 | MYTHICAL | — |
 | site.indonesia.prambanan | 普兰巴南 | Prambanan | TEMPLE | 印度教传统 | REAL_ARCHAEOLOGICAL | World Heritage |
 | site.india.konark | 科纳克太阳神庙 | Sun Temple at Konark | TEMPLE | 印度教传统 | REAL_ARCHAEOLOGICAL | World Heritage |

@@ -7,6 +7,7 @@
     <node id="artifact.babylonian.marduk_net"><data key="name">Net of Marduk</data><data key="type">ARTIFACT</data></node>
     <node id="artifact.chinese.five_colored_stones"><data key="name">Five-colored stones</data><data key="type">SACRED_OBJECT</data></node>
     <node id="artifact.chinese.huntian_ling"><data key="name">Huntian Ling</data><data key="type">ARTIFACT</data></node>
+    <node id="artifact.chinese.linglong_pagoda"><data key="name">Golden exquisite pagoda</data><data key="type">SACRED_OBJECT</data></node>
     <node id="artifact.chinese.qiankun_quan"><data key="name">Qiankun Quan</data><data key="type">ARTIFACT</data></node>
     <node id="artifact.egyptian.solar_barque"><data key="name">Solar barque</data><data key="type">SHIP</data></node>
     <node id="artifact.greek.aegis"><data key="name">Aegis</data><data key="type">ARTIFACT</data></node>
@@ -28,6 +29,7 @@
     <node id="being.norse.mimir"><data key="name">Mímir</data><data key="type">CREATURE</data></node>
     <node id="being.norse.sindri"><data key="name">Sindri</data><data key="type">DWARF</data></node>
     <node id="being.norse.sons_of_ivaldi"><data key="name">Sons of Ivaldi</data><data key="type">CREATURE</data></node>
+    <node id="being.norse.utgarda_loki"><data key="name">Útgarða-Loki</data><data key="type">GIANT</data></node>
     <node id="being.norse.ymir"><data key="name">Ymir</data><data key="type">GIANT</data></node>
     <node id="being.zoroastrian.angra_mainyu"><data key="name">Angra Mainyu</data><data key="type">DEITY</data></node>
     <node id="concept.chinese.bagua"><data key="name">Eight Trigrams (bagua)</data><data key="type">CONCEPT</data></node>
@@ -113,24 +115,37 @@
     <node id="creature.akkadian.anzu"><data key="name">Anzu of the Akkadian myth</data><data key="type">MONSTER</data></node>
     <node id="creature.chinese.ao_turtle"><data key="name">Ao (great turtle)</data><data key="type">DIVINE_BEAST</data></node>
     <node id="creature.greek.cyclopes_hesiodic"><data key="name">Hesiodic Cyclopes</data><data key="type">GIANT</data></node>
+    <node id="creature.greek.hecatoncheires"><data key="name">Hundred-Handers (Cottus, Briareos and Gyes)</data><data key="type">GIANT</data></node>
     <node id="creature.greek.typhon"><data key="name">Typhon</data><data key="type">MONSTER</data></node>
     <node id="creature.hindu.akupara"><data key="name">Akūpāra, king of tortoises</data><data key="type">DIVINE_BEAST</data></node>
     <node id="creature.hindu.vasuki"><data key="name">Vāsuki</data><data key="type">DIVINE_BEAST</data></node>
+    <node id="creature.mesopotamian.bull_of_heaven"><data key="name">Bull of Heaven</data><data key="type">MONSTER</data></node>
     <node id="creature.norse.fenrir"><data key="name">Fenrir</data><data key="type">MONSTER</data></node>
     <node id="creature.norse.gullinbursti"><data key="name">Gullinbursti</data><data key="type">DIVINE_BEAST</data></node>
     <node id="creature.norse.jormungandr"><data key="name">Jörmungandr</data><data key="type">DRAGON</data></node>
+    <node id="creature.norse.sleipnir"><data key="name">Sleipnir</data><data key="type">DIVINE_BEAST</data></node>
     <node id="creature.vedic.vritra"><data key="name">Vrtra</data><data key="type">MONSTER</data></node>
     <node id="deity.akkadian.ishtar"><data key="name">Ishtar</data><data key="type">DEITY</data></node>
     <node id="deity.akkadian.ninurta"><data key="name">Ninurta in the Akkadian Anzu myth</data><data key="type">DEITY</data></node>
+    <node id="deity.akkadian.shamash"><data key="name">Shamash</data><data key="type">DEITY</data></node>
     <node id="deity.assyrian.ashur"><data key="name">Ashur</data><data key="type">DEITY</data></node>
+    <node id="deity.babylonian.apsu"><data key="name">Apsû</data><data key="type">PRIMORDIAL_DEITY</data></node>
+    <node id="deity.babylonian.ea"><data key="name">Ea (Nudimmud)</data><data key="type">DEITY</data></node>
+    <node id="deity.babylonian.kingu"><data key="name">Qingu</data><data key="type">DEITY</data></node>
     <node id="deity.babylonian.marduk"><data key="name">Marduk</data><data key="type">DEITY</data></node>
     <node id="deity.babylonian.tiamat"><data key="name">Tiamat</data><data key="type">PRIMORDIAL_DEITY</data></node>
+    <node id="deity.chinese.ao_guang"><data key="name">Ao Guang, Dragon King of the Eastern Sea</data><data key="type">DEITY</data></node>
+    <node id="deity.chinese.erlang_shen"><data key="name">Erlang Shen</data><data key="type">DEITY</data></node>
     <node id="deity.chinese.fu_xi"><data key="name">Fuxi</data><data key="type">DEITY</data></node>
     <node id="deity.chinese.gonggong"><data key="name">Gonggong</data><data key="type">DEITY</data></node>
+    <node id="deity.chinese.jade_emperor"><data key="name">Jade Emperor</data><data key="type">DEITY</data></node>
     <node id="deity.chinese.leigong"><data key="name">Leigong</data><data key="type">DEITY</data></node>
     <node id="deity.chinese.leize_thunder_spirit"><data key="name">Thunder Spirit of Leize</data><data key="type">DEITY</data></node>
+    <node id="deity.chinese.li_jing"><data key="name">Li Jing, the Pagoda-Bearing Heavenly King</data><data key="type">DEITY</data></node>
     <node id="deity.chinese.nezha"><data key="name">Nezha</data><data key="type">DEITY</data></node>
     <node id="deity.chinese.nu_wa"><data key="name">Nüwa</data><data key="type">DEITY</data></node>
+    <node id="deity.chinese.rulai_xiyouji"><data key="name">Tathāgata Buddha (Journey to the West)</data><data key="type">DEITY</data></node>
+    <node id="deity.chinese.taishang_laojun"><data key="name">Taishang Laojun</data><data key="type">DEITY</data></node>
     <node id="deity.egyptian.amun"><data key="name">Amun</data><data key="type">DEITY</data></node>
     <node id="deity.egyptian.amun_ra"><data key="name">Amun-Ra</data><data key="type">DEITY</data></node>
     <node id="deity.egyptian.anubis"><data key="name">Anubis</data><data key="type">DEITY</data></node>
@@ -195,6 +210,7 @@
     <node id="deity.greek.perses"><data key="name">Perses (Titan)</data><data key="type">DEITY</data></node>
     <node id="deity.greek.perses_helios"><data key="name">Perses (son of Helios)</data><data key="type">DEITY</data></node>
     <node id="deity.greek.poseidon"><data key="name">Poseidon</data><data key="type">DEITY</data></node>
+    <node id="deity.greek.prometheus"><data key="name">Prometheus</data><data key="type">DEITY</data></node>
     <node id="deity.greek.rhea"><data key="name">Rhea</data><data key="type">DEITY</data></node>
     <node id="deity.greek.selene"><data key="name">Selene</data><data key="type">DEITY</data></node>
     <node id="deity.greek.semele"><data key="name">Semele</data><data key="type">DEITY</data></node>
@@ -205,15 +221,20 @@
     <node id="deity.hawaiian.pele"><data key="name">Pele</data><data key="type">DEITY</data></node>
     <node id="deity.hindu.brahma"><data key="name">Brahma</data><data key="type">DEITY</data></node>
     <node id="deity.hindu.dhanvantari"><data key="name">Dhanvantari</data><data key="type">DEITY</data></node>
+    <node id="deity.hindu.hanuman"><data key="name">Hanumān</data><data key="type">DEITY</data></node>
     <node id="deity.hindu.kurma"><data key="name">Kūrma</data><data key="type">DEITY</data></node>
     <node id="deity.hindu.mohini"><data key="name">Mohinī</data><data key="type">DEITY</data></node>
+    <node id="deity.hindu.rama"><data key="name">Rāma</data><data key="type">DEITY</data></node>
     <node id="deity.hindu.shiva"><data key="name">Shiva</data><data key="type">DEITY</data></node>
+    <node id="deity.hindu.sita"><data key="name">Sītā</data><data key="type">DEITY</data></node>
     <node id="deity.hindu.vishnu"><data key="name">Vishnu</data><data key="type">DEITY</data></node>
     <node id="deity.irish.bridig"><data key="name">Brigid</data><data key="type">DEITY</data></node>
     <node id="deity.irish.dagda"><data key="name">The Dagda</data><data key="type">DEITY</data></node>
     <node id="deity.irish.lugh"><data key="name">Lugh</data><data key="type">DEITY</data></node>
     <node id="deity.irish.morrigan"><data key="name">The Morrígan</data><data key="type">DEITY</data></node>
     <node id="deity.japanese.amaterasu"><data key="name">Amaterasu</data><data key="type">DEITY</data></node>
+    <node id="deity.japanese.ame_no_tajikarao"><data key="name">Ame-no-Tajikarao</data><data key="type">DEITY</data></node>
+    <node id="deity.japanese.ame_no_uzume"><data key="name">Ame-no-Uzume</data><data key="type">DEITY</data></node>
     <node id="deity.japanese.fujin"><data key="name">Fujin</data><data key="type">DEITY</data></node>
     <node id="deity.japanese.fusuikazuchi"><data key="name">Fusuikazuchi</data><data key="type">DEITY</data></node>
     <node id="deity.japanese.honoikazuchi"><data key="name">Honoikazuchi</data><data key="type">DEITY</data></node>
@@ -225,7 +246,10 @@
     <node id="deity.japanese.kamo_wakeikazuchi"><data key="name">Kamo Wakeikazuchi no Okami</data><data key="type">DEITY</data></node>
     <node id="deity.japanese.karaijin"><data key="name">Karaijin</data><data key="type">DEITY</data></node>
     <node id="deity.japanese.kuroikazuchi"><data key="name">Kuroikazuchi</data><data key="type">DEITY</data></node>
+    <node id="deity.japanese.kushinadahime"><data key="name">Kushinadahime</data><data key="type">DEITY</data></node>
     <node id="deity.japanese.naruikazuchi"><data key="name">Naruikazuchi</data><data key="type">DEITY</data></node>
+    <node id="deity.japanese.ogetsuhime"><data key="name">Ōgetsuhime</data><data key="type">DEITY</data></node>
+    <node id="deity.japanese.omoikane"><data key="name">Omoikane</data><data key="type">DEITY</data></node>
     <node id="deity.japanese.ooikazuchi"><data key="name">Ooikazuchi</data><data key="type">DEITY</data></node>
     <node id="deity.japanese.raijin"><data key="name">Raijin</data><data key="type">DEITY</data></node>
     <node id="deity.japanese.sakuikazuchi"><data key="name">Sakuikazuchi</data><data key="type">DEITY</data></node>
@@ -254,6 +278,8 @@
     <node id="deity.norse.frigg"><data key="name">Frigg</data><data key="type">DEITY</data></node>
     <node id="deity.norse.heimdall"><data key="name">Heimdallr</data><data key="type">DEITY</data></node>
     <node id="deity.norse.hel"><data key="name">Hel</data><data key="type">DEITY</data></node>
+    <node id="deity.norse.hermod"><data key="name">Hermóðr</data><data key="type">DEITY</data></node>
+    <node id="deity.norse.hodr"><data key="name">Höðr</data><data key="type">DEITY</data></node>
     <node id="deity.norse.hoenir"><data key="name">Hœnir</data><data key="type">DEITY</data></node>
     <node id="deity.norse.jord"><data key="name">Jord</data><data key="type">DEITY</data></node>
     <node id="deity.norse.lodurr"><data key="name">Lóðurr</data><data key="type">DEITY</data></node>
@@ -261,9 +287,12 @@
     <node id="deity.norse.magni"><data key="name">Magni</data><data key="type">DEITY</data></node>
     <node id="deity.norse.meili"><data key="name">Meili</data><data key="type">DEITY</data></node>
     <node id="deity.norse.modi"><data key="name">Modi</data><data key="type">DEITY</data></node>
+    <node id="deity.norse.nanna_nepsdottir"><data key="name">Nanna (wife of Baldr)</data><data key="type">DEITY</data></node>
     <node id="deity.norse.njord"><data key="name">Njörðr</data><data key="type">DEITY</data></node>
     <node id="deity.norse.odin"><data key="name">Odin</data><data key="type">DEITY</data></node>
     <node id="deity.norse.sif"><data key="name">Sif</data><data key="type">DEITY</data></node>
+    <node id="deity.norse.sigyn"><data key="name">Sigyn</data><data key="type">DEITY</data></node>
+    <node id="deity.norse.skadi"><data key="name">Skaði</data><data key="type">DEITY</data></node>
     <node id="deity.norse.thor"><data key="name">Thor</data><data key="type">DEITY</data></node>
     <node id="deity.norse.thrud"><data key="name">Thrud</data><data key="type">DEITY</data></node>
     <node id="deity.norse.tyr"><data key="name">Týr</data><data key="type">DEITY</data></node>
@@ -276,12 +305,14 @@
     <node id="deity.slavic.perun"><data key="name">Perun</data><data key="type">DEITY</data></node>
     <node id="deity.slavic.veles"><data key="name">Veles</data><data key="type">DEITY</data></node>
     <node id="deity.sumerian.an"><data key="name">An</data><data key="type">DEITY</data></node>
+    <node id="deity.sumerian.dumuzi"><data key="name">Dumuzid</data><data key="type">DEITY</data></node>
     <node id="deity.sumerian.enki"><data key="name">Enki</data><data key="type">DEITY</data></node>
     <node id="deity.sumerian.enlil"><data key="name">Enlil</data><data key="type">DEITY</data></node>
     <node id="deity.sumerian.ereshkigal"><data key="name">Ereshkigal</data><data key="type">DEITY</data></node>
     <node id="deity.sumerian.inanna"><data key="name">Inanna</data><data key="type">DEITY</data></node>
     <node id="deity.sumerian.nanna"><data key="name">Nanna</data><data key="type">DEITY</data></node>
     <node id="deity.sumerian.ninhursag"><data key="name">Ninhursag</data><data key="type">DEITY</data></node>
+    <node id="deity.sumerian.ninshubur"><data key="name">Ninšubur</data><data key="type">DEITY</data></node>
     <node id="deity.sumerian.utu"><data key="name">Utu</data><data key="type">DEITY</data></node>
     <node id="deity.ugaritic.anat"><data key="name">Anat</data><data key="type">DEITY</data></node>
     <node id="deity.ugaritic.asherah"><data key="name">Athirat / Asherah</data><data key="type">DEITY</data></node>
@@ -301,6 +332,8 @@
     <node id="deity.zoroastrian.ahura_mazda"><data key="name">Ahura Mazda</data><data key="type">DEITY</data></node>
     <node id="deity.zoroastrian.mithra"><data key="name">Mithra</data><data key="type">DEITY</data></node>
     <node id="demon.hindu.rahu"><data key="name">Rāhu</data><data key="type">DEMON</data></node>
+    <node id="demon.hindu.ravana"><data key="name">Rāvaṇa</data><data key="type">DEMON</data></node>
+    <node id="dragon.chinese.ao_bing"><data key="name">Ao Bing, third son of the Dragon King</data><data key="type">DRAGON</data></node>
     <node id="dragon.chinese.black_dragon_jizhou"><data key="name">Black dragon of the Nüwa passage</data><data key="type">DRAGON</data></node>
     <node id="element.chinese.huo"><data key="name">Huo (Wuxing)</data><data key="type">ELEMENT</data></node>
     <node id="element.chinese.jin"><data key="name">Jin (Wuxing)</data><data key="type">ELEMENT</data></node>
@@ -313,11 +346,14 @@
     <node id="element.indian.prithvi"><data key="name">Pṛthvī</data><data key="type">ELEMENT</data></node>
     <node id="element.indian.vayu"><data key="name">Vāyu</data><data key="type">ELEMENT</data></node>
     <node id="event.archaeology.darius_statue_discovery_1972"><data key="name">Discovery of the Darius Statue at Susa (1972)</data><data key="type">EVENT</data></node>
+    <node id="event.babylonian.gilgamesh_epic"><data key="name">The Standard Babylonian Epic of Gilgamesh</data><data key="type">EVENT</data></node>
     <node id="event.babylonian.marduk_tiamat"><data key="name">Combat of Marduk and Tiamat</data><data key="type">EVENT</data></node>
     <node id="event.chinese.battle_of_zhuolu"><data key="name">Battle in the wilds of Zhuolu</data><data key="type">EVENT</data></node>
     <node id="event.chinese.fuxi_makes_trigrams"><data key="name">Fuxi makes the eight trigrams</data><data key="type">EVENT</data></node>
     <node id="event.chinese.gonggong_strikes_buzhou"><data key="name">Gonggong strikes Mount Buzhou</data><data key="type">EVENT</data></node>
+    <node id="event.chinese.havoc_in_heaven"><data key="name">Havoc in Heaven (Journey to the West, chapters 1–7)</data><data key="type">EVENT</data></node>
     <node id="event.chinese.nezha_fights_wukong"><data key="name">Nezha fights Sun Wukong (Journey to the West ch. 4)</data><data key="type">EVENT</data></node>
+    <node id="event.chinese.nezha_sea_uproar"><data key="name">Nezha Conquers the Sea (Investiture of the Gods ch. 12–14)</data><data key="type">EVENT</data></node>
     <node id="event.chinese.nuwa_repairs_sky"><data key="name">Nüwa repairs the sky</data><data key="type">EVENT</data></node>
     <node id="event.chinese.pangu_heaven_earth"><data key="name">Pangu between heaven and earth (Sanwu liji)</data><data key="type">EVENT</data></node>
     <node id="event.egyptian.heavenly_cow_punishment"><data key="name">Punishment of humankind in the Tale of the Heavenly Cow</data><data key="type">EVENT</data></node>
@@ -327,11 +363,14 @@
     <node id="event.egyptian.weighing_heart_ani"><data key="name">Weighing of Ani's heart</data><data key="type">EVENT</data></node>
     <node id="event.greek.medea_restores_aeetes"><data key="name">Medea restores Aeetes</data><data key="type">EVENT</data></node>
     <node id="event.greek.persephone_abduction"><data key="name">Abduction of Persephone</data><data key="type">EVENT</data></node>
+    <node id="event.greek.theogony_succession"><data key="name">From Chaos to the reign of Zeus (Theogony)</data><data key="type">EVENT</data></node>
     <node id="event.greek.titanomachy"><data key="name">Titanomachy</data><data key="type">EVENT</data></node>
     <node id="event.greek.zeus_typhon_battle"><data key="name">Battle of Zeus and Typhon</data><data key="type">EVENT</data></node>
     <node id="event.hawaiian.pele_journey"><data key="name">Pele's journey from Kahiki</data><data key="type">EVENT</data></node>
     <node id="event.hindu.samudra_manthana"><data key="name">Churning of the Ocean (textual narrative)</data><data key="type">EVENT</data></node>
+    <node id="event.hindu.sita_abduction_rescue"><data key="name">Abduction and rescue of Sītā (Rāmāyaṇa)</data><data key="type">EVENT</data></node>
     <node id="event.irish.second_battle_mag_tuired"><data key="name">Second Battle of Mag Tuired</data><data key="type">EVENT</data></node>
+    <node id="event.japanese.ame_no_iwato"><data key="name">Amaterasu hides in the Heavenly Rock-Dwelling</data><data key="type">EVENT</data></node>
     <node id="event.japanese.izanagi_purification"><data key="name">Izanagi's purification</data><data key="type">EVENT</data></node>
     <node id="event.japanese.izanagi_visits_yomi"><data key="name">Izanagi follows Izanami to Yomi</data><data key="type">EVENT</data></node>
     <node id="event.japanese.kusanagi.atsuta_enshrinement"><data key="name">Kusanagi enshrinement tradition at Atsuta</data><data key="type">EVENT</data></node>
@@ -347,6 +386,7 @@
     <node id="event.norse.forging_divine_treasures"><data key="name">Forging of the divine treasures</data><data key="type">EVENT</data></node>
     <node id="event.norse.ragnarok"><data key="name">Ragnarök</data><data key="type">EVENT</data></node>
     <node id="event.norse.slaying_of_ymir"><data key="name">Slaying of Ymir and the shaping of the world</data><data key="type">EVENT</data></node>
+    <node id="event.norse.thor_utgard"><data key="name">Thor's journey to Útgarða-Loki</data><data key="type">EVENT</data></node>
     <node id="event.persia.darius_statue_transfer_egypt_susa"><data key="name">Reconstructed Transfer of the Darius Statue to Susa</data><data key="type">EVENT</data></node>
     <node id="event.slavic.idols_cast_down_988"><data key="name">The Kyiv idols are cast down (988)</data><data key="type">EVENT</data></node>
     <node id="event.slavic.kyiv_idols_980"><data key="name">Volodimer's idols on the Kyiv hill (980)</data><data key="type">EVENT</data></node>
@@ -365,7 +405,9 @@
     <node id="group.egyptian.theban_triad"><data key="name">Theban Triad</data><data key="type">CONCEPT</data></node>
     <node id="group.japanese.eight_thunder_kami"><data key="name">Eight Thunder Kami of the Kojiki</data><data key="type">CONCEPT</data></node>
     <node id="hero.chinese.chiyou"><data key="name">Chiyou</data><data key="type">HERO</data></node>
+    <node id="hero.chinese.subodhi_patriarch"><data key="name">Patriarch Subodhi</data><data key="type">HERO</data></node>
     <node id="hero.chinese.sun_wukong"><data key="name">Sun Wukong</data><data key="type">HERO</data></node>
+    <node id="hero.chinese.taiyi_zhenren"><data key="name">Taiyi Zhenren</data><data key="type">HERO</data></node>
     <node id="hero.chinese.yellow_emperor"><data key="name">Yellow Emperor</data><data key="type">HERO</data></node>
     <node id="hero.chinese.zhuanxu"><data key="name">Zhuanxu</data><data key="type">HERO</data></node>
     <node id="hero.greek.aeetes"><data key="name">Aeetes</data><data key="type">HERO</data></node>
@@ -375,11 +417,17 @@
     <node id="hero.greek.perseus"><data key="name">Perseus</data><data key="type">HERO</data></node>
     <node id="hero.greek.triptolemos"><data key="name">Triptolemos</data><data key="type">HERO</data></node>
     <node id="hero.indian.arjuna"><data key="name">Arjuna</data><data key="type">HERO</data></node>
+    <node id="hero.indian.bharata"><data key="name">Bharata</data><data key="type">HERO</data></node>
+    <node id="hero.indian.dasharatha"><data key="name">Daśaratha</data><data key="type">HERO</data></node>
+    <node id="hero.indian.lakshmana"><data key="name">Lakṣmaṇa</data><data key="type">HERO</data></node>
     <node id="hero.irish.cu_chulainn"><data key="name">Cú Chulainn</data><data key="type">HERO</data></node>
     <node id="hero.irish.fergus_mac_roich"><data key="name">Fergus mac Róich</data><data key="type">HERO</data></node>
     <node id="hero.japanese.yamato_takeru"><data key="name">Yamato Takeru</data><data key="type">HERO</data></node>
     <node id="hero.kiche.hunahpu"><data key="name">Hunahpu</data><data key="type">HERO</data></node>
     <node id="hero.kiche.xbalanque"><data key="name">Xbalanque</data><data key="type">HERO</data></node>
+    <node id="hero.mesopotamian.enkidu"><data key="name">Enkidu</data><data key="type">HERO</data></node>
+    <node id="hero.mesopotamian.utnapishtim"><data key="name">Uta-napishti</data><data key="type">HERO</data></node>
+    <node id="hero.norse.thjalfi"><data key="name">Þjálfi</data><data key="type">HERO</data></node>
     <node id="hero.polynesian.maui"><data key="name">Māui</data><data key="type">HERO</data></node>
     <node id="hero.sumerian.gilgamesh"><data key="name">Gilgameš (Sumerian poems)</data><data key="type">HERO</data></node>
     <node id="historical.achaemenid.darius_i"><data key="name">Darius I</data><data key="type">HISTORICAL_FIGURE</data></node>
@@ -435,6 +483,8 @@
     <node id="person.norse.ask"><data key="name">Ask</data><data key="type">PERSON</data></node>
     <node id="person.norse.embla"><data key="name">Embla</data><data key="type">PERSON</data></node>
     <node id="place.chinese.buzhou_mountain"><data key="name">Mount Buzhou</data><data key="type">MYTHICAL_PLACE</data></node>
+    <node id="place.chinese.huaguo_shan"><data key="name">Mountain of Flowers and Fruit</data><data key="type">MYTHICAL_PLACE</data></node>
+    <node id="place.hindu.lanka"><data key="name">Laṅkā (Rāmāyaṇa)</data><data key="type">MYTHICAL_PLACE</data></node>
     <node id="place.hindu.mandara"><data key="name">Mount Mandara</data><data key="type">MYTHICAL_PLACE</data></node>
     <node id="place.japanese.onogoro"><data key="name">Onogoro Island</data><data key="type">MYTHICAL_PLACE</data></node>
     <node id="place.japanese.yomi"><data key="name">Yomi (Land of Hades in Chamberlain)</data><data key="type">REALM</data></node>
@@ -706,6 +756,7 @@
     <node id="text.zoroastrian.videvdad_fargard1"><data key="name">Videvdad, Fargard 1 (the sixteen lands)</data><data key="type">SCRIPTURE</data></node>
     <node id="weapon.arthurian.excalibur"><data key="name">Excalibur</data><data key="type">WEAPON</data></node>
     <node id="weapon.babylonian.marduk_bow"><data key="name">Bow of Marduk</data><data key="type">WEAPON</data></node>
+    <node id="weapon.chinese.qiankun_quan"><data key="name">Universe Ring (Qiankun quan)</data><data key="type">WEAPON</data></node>
     <node id="weapon.chinese.ruyi_jingu_bang"><data key="name">Ruyi Jingu Bang</data><data key="type">WEAPON</data></node>
     <node id="weapon.chinese.xuanyuan_sword"><data key="name">Xuanyuan Sword tradition</data><data key="type">WEAPON</data></node>
     <node id="weapon.greek.apollo_bow"><data key="name">Bow of Apollo</data><data key="type">WEAPON</data></node>
@@ -1107,6 +1158,12 @@
     <edge id="claim.v0310.zoro.angra_opposes" source="being.zoroastrian.angra_mainyu" target="deity.zoroastrian.ahura_mazda"><data key="relation">ENEMY_OF</data></edge>
     <edge id="claim.v0310.zoro.mihr_yasht_witness" source="text.zoroastrian.mihr_yasht" target="text.zoroastrian.avesta"><data key="relation">PART_OF</data></edge>
     <edge id="claim.v0310.zoro.mithra_created" source="deity.zoroastrian.mithra" target="deity.zoroastrian.ahura_mazda"><data key="relation">CREATED_BY</data></edge>
+    <edge id="claim.v0320.baldr_long.04" source="deity.norse.hodr" target="deity.norse.baldr"><data key="relation">KILLED</data></edge>
+    <edge id="claim.v0320.enuma_elish_long.03" source="deity.babylonian.ea" target="deity.babylonian.apsu"><data key="relation">KILLED</data></edge>
+    <edge id="claim.v0320.enuma_elish_long.09" source="deity.babylonian.marduk" target="weapon.babylonian.marduk_bow"><data key="relation">USES</data></edge>
+    <edge id="claim.v0320.enuma_elish_long.10" source="deity.babylonian.marduk" target="deity.babylonian.tiamat"><data key="relation">KILLED</data></edge>
+    <edge id="claim.v0320.fengshen_nezha.05" source="deity.chinese.nezha" target="dragon.chinese.ao_bing"><data key="relation">KILLED</data></edge>
+    <edge id="claim.v0320.gilgamesh_sb.10" source="hero.sumerian.gilgamesh" target="creature.mesopotamian.bull_of_heaven"><data key="relation">KILLED</data></edge>
     <edge id="claim.v040.aether.child_erebus" source="deity.greek.aether" target="deity.greek.erebus"><data key="relation">CHILD_OF</data></edge>
     <edge id="claim.v040.aether.child_nyx" source="deity.greek.aether" target="deity.greek.nyx"><data key="relation">CHILD_OF</data></edge>
     <edge id="claim.v040.asteria.parent_hecate" source="deity.greek.asteria" target="deity.greek.hecate"><data key="relation">PARENT_OF</data></edge>

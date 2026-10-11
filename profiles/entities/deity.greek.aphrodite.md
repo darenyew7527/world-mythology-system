@@ -29,6 +29,8 @@
 
 - `claim.v0170.aphrodite_worship` [VERIFIED / HISTORICAL_REALITY / 0.98] Offerings and inscriptions identify worship of Aphrodite at the Daphne sanctuary.
   - 来源：[Ancient Iera Odos (Sacred Way)](https://www.efada.gr/en-us/Archaeological-Sites-Monuments/-Catalogue-of-Sites-Monuments/ancient-iera-odos-sacred-way-municipalities-of-egaleo-chaidari-aspropyrgos-elefsina)；定位：Official object, site or museum record cited in claim notes
+- `claim.v0320.theogony.05` [VERIFIED / TEXT_SAYS / 0.90] Aphrodite grows from the foam around Heaven's severed members, comes ashore at Cythera and Cyprus, and is attended by Eros and Desire.
+  - 来源：[Hesiod, Theogony, Evelyn-White English text](https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0130)；定位：lines 188–206
 - `claim.v050.h5.aphrodite_domain` [VERIFIED / TEXT_SAYS / 0.98] The opening of Homeric Hymn 5 describes Aphrodite’s influence and explicitly names goddesses outside it.
   - 来源：[Homeric Hymn 5 to Aphrodite, Evelyn-White English text](https://scaife.perseus.org/library/urn%3Acts%3AgreekLit%3Atlg0013.tlg005/)；定位：lines 1-33
 - `claim.v050.iliad14.aphrodite_child_zeus` [VERIFIED / TEXT_SAYS / 0.98] Iliad 14 refers to Aphrodite as a daughter of Zeus.

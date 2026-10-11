@@ -17,6 +17,7 @@
 | Relation | Target | Review / layer | Evidence | Confidence | Direction |
 |---|---|---|---:|---:|---|
 | `CHILD_OF` | 弗丽嘉 (`deity.norse.frigg`) | VERIFIED / TEXT_SAYS / MYTHIC_NARRATIVE | 1 | 0.90 | stored claim; `claim.v0310.norse.frigg_mother_baldr` |
+| `KILLED_BY` | 霍德尔 (`deity.norse.hodr`) | VERIFIED / TEXT_SAYS / MYTHIC_NARRATIVE | 1 | 0.90 | inferred inverse; `claim.v0320.baldr_long.04` |
 | `PARTICIPATED_IN` | 巴德尔之死 (`event.norse.death_of_baldr`) | VERIFIED / TEXT_SAYS / MYTHIC_NARRATIVE | 1 | 0.95 | stored claim; `claim.v0310.norse.baldr_death` |
 | `SIBLING_OF` | 索尔／雷神托尔 (`deity.norse.thor`) | VERIFIED / TEXT_SAYS / TEXTUAL_WITNESS | 1 | 0.98 | inferred inverse; `claim.v060.norse.thor_sibling_baldr` |
 
@@ -25,6 +26,8 @@
 - `claim.v0310.norse.baldr_death` [VERIFIED / TEXT_SAYS / 0.95] Baldr is killed by a shoot of mistletoe despite the oaths.
   - 来源：[Snorri Sturluson, Edda](https://www.vsnrweb-publications.org.uk/Edda-1.pdf)；定位：Gylfaginning 49
 - `claim.v0310.norse.frigg_mother_baldr` [VERIFIED / TEXT_SAYS / 0.90] Gylfaginning presents Frigg as Baldr's mother in the account of his death.
+  - 来源：[Snorri Sturluson, Edda](https://www.vsnrweb-publications.org.uk/Edda-1.pdf)；定位：Gylfaginning 49
+- `claim.v0320.baldr_long.01` [VERIFIED / TEXT_SAYS / 0.90] Baldr dreams ominous dreams threatening his life, and the Æsir resolve to secure protection for him against every danger.
   - 来源：[Snorri Sturluson, Edda](https://www.vsnrweb-publications.org.uk/Edda-1.pdf)；定位：Gylfaginning 49
 
 > 本档案只代表当前阶段性基线，不是对该传统的最终或唯一解释。

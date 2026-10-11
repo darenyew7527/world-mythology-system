@@ -28,6 +28,8 @@
 
 ## Claims 与证据
 
+- `claim.v0320.theogony.03` [VERIFIED / TEXT_SAYS / 0.90] Earth and Heaven produce the twelve Titans, youngest of them Cronus, together with the three Cyclopes and the three Hundred-Handers.
+  - 来源：[Hesiod, Theogony, Evelyn-White English text](https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0130)；定位：lines 133–153
 - `claim.v050.theogony.gaia_parent_cronus` [VERIFIED / TEXT_SAYS / 0.99] Theogony 133-138 includes Cronus among the children of Gaia and Uranus.
   - 来源：[Hesiod, Theogony, Evelyn-White English text](https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0130)；定位：lines 133-138
 - `claim.v050.theogony.gaia_parent_uranus` [VERIFIED / TEXT_SAYS / 0.99] Theogony 126-128 says Gaia bore starry Uranus equal to herself.

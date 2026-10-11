@@ -8,6 +8,10 @@
 - 研究状态: `PARTIAL`
 - 证据状态: `UNVERIFIED`
 
+## 概要
+
+《封神演义》中裹着初生哪吒的红绫；在河里一摆，就震动了龙宫。 / Red silk sash around the newborn Nezha in Investiture of the Gods; swished in the river, it shakes the Dragon King's palace.
+
 ## 分类
 
 `ARTIFACT`

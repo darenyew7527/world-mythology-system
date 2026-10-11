@@ -29,6 +29,8 @@ Night figure in Hesiodic genealogy, born from Chaos and parent of multiple perso
 
 ## Claims 与证据
 
+- `claim.v0320.theogony.06` [VERIFIED / TEXT_SAYS / 0.90] Night, alone, bears Doom, Death, Sleep, Dreams, the Fates, Nemesis and Strife, while the line of Sea produces Nereus, the Gorgons, Echidna and her monstrous brood.
+  - 来源：[Hesiod, Theogony, Evelyn-White English text](https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0130)；定位：lines 207–336
 - `claim.v040.nyx.child_chaos` [VERIFIED / TEXT_SAYS / 0.99] Theogony 123 says Nyx arose from Chaos.
   - 来源：[Hesiod, Theogony, Evelyn-White English text](https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0130)；定位：Theogony 123
 - `claim.v040.nyx.represents_night` [VERIFIED / SCHOLARLY_INTERPRETATION / 0.94] The comparative index connects Nyx with night while retaining the culture-specific deity record.

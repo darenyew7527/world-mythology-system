@@ -46,5 +46,7 @@
   - 来源：[Snorri Sturluson, Edda](https://www.vsnrweb-publications.org.uk/Edda-1.pdf)；定位：Gylfaginning 7
 - `claim.v0310.norse.odin_ymir_event` [VERIFIED / TEXT_SAYS / 0.95] Odin and his brothers shape the world from Ymir's body.
   - 来源：[Snorri Sturluson, Edda](https://www.vsnrweb-publications.org.uk/Edda-1.pdf)；定位：Gylfaginning 7–8
+- `claim.v0320.baldr_long.05` [VERIFIED / TEXT_SAYS / 0.90] Odin bears Baldr's death most heavily of all the gods, understanding best what a loss it is for the Æsir.
+  - 来源：[Snorri Sturluson, Edda](https://www.vsnrweb-publications.org.uk/Edda-1.pdf)；定位：Gylfaginning 49
 
 > 本档案只代表当前阶段性基线，不是对该传统的最终或唯一解释。

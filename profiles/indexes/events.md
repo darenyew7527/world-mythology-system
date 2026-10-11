@@ -14,13 +14,19 @@
 | event.egyptian.weighing_heart_ani | 阿尼的心脏称量 | Weighing of Ani's heart | EVENT | 古埃及 | PARTIAL | SOURCE_BACKED |
 | event.greek.persephone_abduction | 珀耳塞福涅被劫 | Abduction of Persephone | EVENT | 古希腊 | PARTIAL | SOURCE_BACKED |
 | event.greek.zeus_typhon_battle | 宙斯与提丰之战 | Battle of Zeus and Typhon | EVENT | 古希腊 | PARTIAL | PARTIAL |
+| event.greek.theogony_succession | 从卡俄斯到宙斯为王（《神谱》） | From Chaos to the reign of Zeus (Theogony) | EVENT | 古希腊 | PARTIAL | SOURCE_BACKED |
 | event.greek.medea_restores_aeetes | 美狄亚恢复埃厄忒斯王位 | Medea restores Aeetes | EVENT | 古希腊 | PARTIAL | PARTIAL |
 | event.greek.titanomachy | 泰坦战争 | Titanomachy | EVENT | 古希腊 | PARTIAL | SOURCE_BACKED |
 | event.babylonian.marduk_tiamat | 马尔杜克与提亚马特之战 | Combat of Marduk and Tiamat | EVENT | 巴比伦 | PARTIAL | UNVERIFIED |
+| event.babylonian.gilgamesh_epic | 标准巴比伦版吉尔伽美什史诗 | The Standard Babylonian Epic of Gilgamesh | EVENT | 巴比伦 | PARTIAL | SOURCE_BACKED |
+| event.chinese.havoc_in_heaven | 大闹天宫（《西游记》第一至七回） | Havoc in Heaven (Journey to the West, chapters 1–7) | EVENT | 中国民间信仰 | PARTIAL | SOURCE_BACKED |
+| event.chinese.nezha_sea_uproar | 哪吒闹海（《封神演义》第十二至十四回） | Nezha Conquers the Sea (Investiture of the Gods ch. 12–14) | EVENT | 中国民间信仰 | PARTIAL | SOURCE_BACKED |
 | event.chinese.nezha_fights_wukong | 哪吒大战孙悟空（《西游记》第四回） | Nezha fights Sun Wukong (Journey to the West ch. 4) | EVENT | 中国民间信仰 | PARTIAL | SOURCE_BACKED |
 | event.hawaiian.pele_journey | 佩蕾从卡希基出发的旅程 | Pele's journey from Kahiki | EVENT | 夏威夷 | PARTIAL | SOURCE_BACKED |
+| event.hindu.sita_abduction_rescue | 悉多被劫与救回（《罗摩衍那》） | Abduction and rescue of Sītā (Rāmāyaṇa) | EVENT | 印度教传统 | PARTIAL | SOURCE_BACKED |
 | event.hindu.samudra_manthana | 乳海搅拌（文本叙事） | Churning of the Ocean (textual narrative) | EVENT | 印度教传统 | PARTIAL | SOURCE_BACKED |
 | event.irish.second_battle_mag_tuired | 第二次马格图雷德之战 | Second Battle of Mag Tuired | EVENT | 爱尔兰 | PARTIAL | SOURCE_BACKED |
+| event.japanese.ame_no_iwato | 天之岩户：天照大神隐入岩屋 | Amaterasu hides in the Heavenly Rock-Dwelling | EVENT | 日本神道 | PARTIAL | SOURCE_BACKED |
 | event.japanese.kusanagi.discovery | 从八岐大蛇体内发现草薙剑 | Discovery of Kusanagi in Yamata no Orochi | EVENT | 日本神道 | PARTIAL | SOURCE_BACKED |
 | event.japanese.izanagi_visits_yomi | 伊邪那岐追往黄泉 | Izanagi follows Izanami to Yomi | EVENT | 日本神道 | PARTIAL | SOURCE_BACKED |
 | event.japanese.izanagi_purification | 伊邪那岐的禊祓 | Izanagi's purification | EVENT | 日本神道 | PARTIAL | SOURCE_BACKED |
@@ -36,6 +42,7 @@
 | event.norse.forging_divine_treasures | 诸神宝物锻造 | Forging of the divine treasures | EVENT | 北欧 | PARTIAL | PARTIAL |
 | event.norse.ragnarok | 诸神黄昏 | Ragnarök | EVENT | 北欧 | PARTIAL | UNVERIFIED |
 | event.norse.slaying_of_ymir | 尤弥尔被杀与世界成形 | Slaying of Ymir and the shaping of the world | EVENT | 北欧 | PARTIAL | SOURCE_BACKED |
+| event.norse.thor_utgard | 索尔前往乌特加尔洛基之城 | Thor's journey to Útgarða-Loki | EVENT | 北欧 | PARTIAL | SOURCE_BACKED |
 | event.archaeology.darius_statue_discovery_1972 | 1972年苏萨大流士雕像发现事件 | Discovery of the Darius Statue at Susa (1972) | EVENT | 波斯 | PARTIAL | SOURCE_BACKED |
 | event.persia.darius_statue_transfer_egypt_susa | 大流士雕像转运苏萨（学术重建） | Reconstructed Transfer of the Darius Statue to Susa | EVENT | 波斯 | PARTIAL | SOURCE_BACKED |
 | event.slavic.idols_cast_down_988 | 988 年推倒基辅神像 | The Kyiv idols are cast down (988) | EVENT | 斯拉夫 | PARTIAL | SOURCE_BACKED |

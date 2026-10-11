@@ -47,6 +47,14 @@
   - 来源：[Hesiod, Theogony](https://scaife.perseus.org/library/urn:cts:greekLit:tlg0020.tlg001/)；定位：Theogony 139–146 and 501–506
 - `claim.greek.zeus_worshipped_olympia` [VERIFIED / HISTORICAL_REALITY / 0.98] Olympia became a centre for worship of Zeus.
   - 来源：[Archaeological Site of Olympia](https://whc.unesco.org/en/list/517/)；定位：World Heritage property description
+- `claim.v0320.theogony.12` [VERIFIED / TEXT_SAYS / 0.90] After ten years of indecisive war, Zeus follows Earth's advice, brings the Hundred-Handers up to the light and wins their alliance against the Titans.
+  - 来源：[Hesiod, Theogony, Evelyn-White English text](https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0130)；定位：lines 617–663
+- `claim.v0320.theogony.13` [VERIFIED / TEXT_SAYS / 0.90] Zeus unleashes his thunderbolts while the Hundred-Handers hurl three hundred rocks at a time, and the Titans are cast down beneath the earth in chains.
+  - 来源：[Hesiod, Theogony, Evelyn-White English text](https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0130)；定位：lines 664–721
+- `claim.v0320.theogony.15` [VERIFIED / TEXT_SAYS / 0.90] Zeus strikes the hundred-headed Typhoeus with lightning, burns his heads and hurls him into Tartarus.
+  - 来源：[Hesiod, Theogony, Evelyn-White English text](https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0130)；定位：lines 820–880
+- `claim.v0320.theogony.16` [VERIFIED / TEXT_SAYS / 0.90] The gods ask Zeus to reign on Earth's advice; he swallows Metis to forestall a son who would overthrow him, bears Athena from his head and takes his later wives.
+  - 来源：[Hesiod, Theogony, Evelyn-White English text](https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0130)；定位：lines 881–929
 - `claim.v050.theogony.zeus_participated_titanomachy` [VERIFIED / TEXT_SAYS / 0.98] Theogony 617-735 makes Zeus a leading participant in the war against the Titans.
   - 来源：[Hesiod, Theogony, Evelyn-White English text](https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0130)；定位：lines 617-735
 - `claim.v060.greek.zeus_thunder_scope` [VERIFIED / TEXT_SAYS / 0.98] Hesiod’s Theogony places thunder, lightning and the thunderbolt among the powers given to Zeus by the Cyclopes.

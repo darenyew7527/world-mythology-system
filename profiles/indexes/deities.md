@@ -4,6 +4,7 @@
 |---|---|---|---|---|---|---|
 | deity.akkadian.ishtar | 伊什塔尔 | Ishtar | DEITY | 阿卡德 | PARTIAL | UNVERIFIED |
 | deity.akkadian.ninurta | 阿卡德《安祖神话》中的宁努尔塔 | Ninurta in the Akkadian Anzu myth | DEITY | 阿卡德 | PARTIAL | SOURCE_BACKED |
+| deity.akkadian.shamash | 沙玛什 | Shamash | DEITY | 阿卡德 | PARTIAL | SOURCE_BACKED |
 | deity.chinese.fu_xi | 伏羲 | Fuxi | DEITY | 中国上古神话 | PARTIAL | UNVERIFIED |
 | deity.chinese.gonggong | 共工 | Gonggong | DEITY | 中国上古神话 | PARTIAL | SOURCE_BACKED |
 | deity.chinese.nu_wa | 女娲 | Nüwa | DEITY | 中国上古神话 | PARTIAL | SOURCE_BACKED |
@@ -74,6 +75,7 @@
 | deity.greek.perses | 珀耳塞斯（提坦） | Perses (Titan) | DEITY | 古希腊 | PARTIAL | SOURCE_BACKED |
 | deity.greek.perses_helios | 珀耳塞斯（赫利俄斯之子） | Perses (son of Helios) | DEITY | 古希腊 | PARTIAL | SOURCE_BACKED |
 | deity.greek.poseidon | 波塞冬 | Poseidon | DEITY | 古希腊 | PARTIAL | SOURCE_BACKED |
+| deity.greek.prometheus | 普罗米修斯 | Prometheus | DEITY | 古希腊 | PARTIAL | SOURCE_BACKED |
 | deity.greek.rhea | 瑞亚 | Rhea | DEITY | 古希腊 | PARTIAL | SOURCE_BACKED |
 | deity.greek.selene | 塞勒涅 | Selene | DEITY | 古希腊 | PARTIAL | SOURCE_BACKED |
 | deity.greek.semele | 塞墨勒 | Semele | DEITY | 古希腊 | PARTIAL | SOURCE_BACKED |
@@ -82,16 +84,28 @@
 | deity.greek.uranus | 乌拉诺斯 | Uranus | PRIMORDIAL_DEITY | 古希腊 | PARTIAL | SOURCE_BACKED |
 | deity.greek.zeus | 宙斯 | Zeus | DEITY | 古希腊 | PARTIAL | SOURCE_BACKED |
 | deity.assyrian.ashur | 阿舒尔 | Ashur | DEITY | 亚述 | PARTIAL | UNVERIFIED |
+| deity.babylonian.apsu | 阿普苏 | Apsû | PRIMORDIAL_DEITY | 巴比伦 | PARTIAL | SOURCE_BACKED |
+| deity.babylonian.ea | 埃阿（努迪穆德） | Ea (Nudimmud) | DEITY | 巴比伦 | PARTIAL | SOURCE_BACKED |
 | deity.babylonian.marduk | 马尔杜克 | Marduk | DEITY | 巴比伦 | PARTIAL | SOURCE_BACKED |
+| deity.babylonian.kingu | 金古 | Qingu | DEITY | 巴比伦 | PARTIAL | SOURCE_BACKED |
 | deity.babylonian.tiamat | 提亚马特 | Tiamat | PRIMORDIAL_DEITY | 巴比伦 | PARTIAL | SOURCE_BACKED |
+| deity.chinese.taishang_laojun | 太上老君 | Taishang Laojun | DEITY | 中国道教 | PARTIAL | SOURCE_BACKED |
+| deity.chinese.ao_guang | 东海龙王敖广 | Ao Guang, Dragon King of the Eastern Sea | DEITY | 中国民间信仰 | PARTIAL | SOURCE_BACKED |
+| deity.chinese.erlang_shen | 二郎神 | Erlang Shen | DEITY | 中国民间信仰 | PARTIAL | SOURCE_BACKED |
+| deity.chinese.jade_emperor | 玉皇大帝 | Jade Emperor | DEITY | 中国民间信仰 | PARTIAL | SOURCE_BACKED |
 | deity.chinese.leigong | 雷公 | Leigong | DEITY | 中国民间信仰 | CONFLICT | CONFLICTING |
+| deity.chinese.li_jing | 托塔天王李靖 | Li Jing, the Pagoda-Bearing Heavenly King | DEITY | 中国民间信仰 | PARTIAL | SOURCE_BACKED |
 | deity.chinese.nezha | 哪吒 | Nezha | DEITY | 中国民间信仰 | PARTIAL | UNVERIFIED |
+| deity.chinese.rulai_xiyouji | 如来佛祖（《西游记》） | Tathāgata Buddha (Journey to the West) | DEITY | 中国民间信仰 | PARTIAL | SOURCE_BACKED |
 | deity.hawaiian.pele | 佩蕾 | Pele | DEITY | 夏威夷 | PARTIAL | UNVERIFIED |
 | deity.hindu.brahma | 梵天 | Brahma | DEITY | 印度教传统 | PARTIAL | UNVERIFIED |
 | deity.hindu.dhanvantari | 檀文陀利 | Dhanvantari | DEITY | 印度教传统 | PARTIAL | SOURCE_BACKED |
+| deity.hindu.hanuman | 哈奴曼 | Hanumān | DEITY | 印度教传统 | PARTIAL | SOURCE_BACKED |
 | deity.hindu.kurma | 俱利摩（龟形化身） | Kūrma | DEITY | 印度教传统 | PARTIAL | SOURCE_BACKED |
 | deity.hindu.mohini | 摩希尼 | Mohinī | DEITY | 印度教传统 | PARTIAL | SOURCE_BACKED |
+| deity.hindu.rama | 罗摩 | Rāma | DEITY | 印度教传统 | PARTIAL | SOURCE_BACKED |
 | deity.hindu.shiva | 湿婆 | Shiva | DEITY | 印度教传统 | PARTIAL | SOURCE_BACKED |
+| deity.hindu.sita | 悉多 | Sītā | DEITY | 印度教传统 | PARTIAL | SOURCE_BACKED |
 | deity.hindu.vishnu | 毗湿奴 | Vishnu | DEITY | 印度教传统 | PARTIAL | SOURCE_BACKED |
 | deity.yoruba.orunmila | 奥伦米拉 | Orunmila | DEITY | Ifá | PARTIAL | UNVERIFIED |
 | deity.irish.bridig | 布里吉德 | Brigid | DEITY | 爱尔兰 | PARTIAL | UNVERIFIED |
@@ -99,6 +113,8 @@
 | deity.irish.dagda | 达格达 | The Dagda | DEITY | 爱尔兰 | PARTIAL | UNVERIFIED |
 | deity.irish.morrigan | 莫莉甘 | The Morrígan | DEITY | 爱尔兰 | PARTIAL | UNVERIFIED |
 | deity.japanese.amaterasu | 天照大神 | Amaterasu | DEITY | 日本神道 | PARTIAL | SOURCE_BACKED |
+| deity.japanese.ame_no_tajikarao | 天手力男神 | Ame-no-Tajikarao | DEITY | 日本神道 | PARTIAL | SOURCE_BACKED |
+| deity.japanese.ame_no_uzume | 天宇受卖命 | Ame-no-Uzume | DEITY | 日本神道 | PARTIAL | SOURCE_BACKED |
 | deity.japanese.fujin | 风神 | Fujin | DEITY | 日本神道 | PARTIAL | PARTIAL |
 | deity.japanese.fusuikazuchi | 伏雷 | Fusuikazuchi | DEITY | 日本神道 | PARTIAL | SOURCE_BACKED |
 | deity.japanese.honoikazuchi | 火雷 | Honoikazuchi | DEITY | 日本神道 | PARTIAL | SOURCE_BACKED |
@@ -110,7 +126,9 @@
 | deity.japanese.kamo_wakeikazuchi | 贺茂别雷大神 | Kamo Wakeikazuchi no Okami | DEITY | 日本神道 | PARTIAL | SOURCE_BACKED |
 | deity.japanese.karaijin | 加雷神／地方雷神 | Karaijin | DEITY | 日本神道 | PARTIAL | SOURCE_BACKED |
 | deity.japanese.kuroikazuchi | 黑雷 | Kuroikazuchi | DEITY | 日本神道 | PARTIAL | SOURCE_BACKED |
+| deity.japanese.kushinadahime | 栉名田比卖 | Kushinadahime | DEITY | 日本神道 | PARTIAL | SOURCE_BACKED |
 | deity.japanese.naruikazuchi | 鸣雷 | Naruikazuchi | DEITY | 日本神道 | PARTIAL | SOURCE_BACKED |
+| deity.japanese.omoikane | 思金神 | Omoikane | DEITY | 日本神道 | PARTIAL | SOURCE_BACKED |
 | deity.japanese.ooikazuchi | 大雷 | Ooikazuchi | DEITY | 日本神道 | PARTIAL | SOURCE_BACKED |
 | deity.japanese.raijin | 雷神 | Raijin | DEITY | 日本神道 | CONFLICT | PARTIAL |
 | deity.japanese.sakuikazuchi | 析雷 | Sakuikazuchi | DEITY | 日本神道 | PARTIAL | SOURCE_BACKED |
@@ -120,6 +138,7 @@
 | deity.japanese.tsuchiikazuchi | 土雷 | Tsuchiikazuchi | DEITY | 日本神道 | PARTIAL | SOURCE_BACKED |
 | deity.japanese.tsukuyomi | 月读 | Tsukuyomi | DEITY | 日本神道 | PARTIAL | UNVERIFIED |
 | deity.japanese.wakaikazuchi | 若雷 | Wakaikazuchi | DEITY | 日本神道 | PARTIAL | SOURCE_BACKED |
+| deity.japanese.ogetsuhime | 大宜都比卖 | Ōgetsuhime | DEITY | 日本神道 | PARTIAL | SOURCE_BACKED |
 | deity.maya.chaac | 恰克 | Chaac | DEITY | 玛雅 | PARTIAL | UNVERIFIED |
 | deity.maya.itzamna | 伊察姆纳 | Itzamna | DEITY | 玛雅 | PARTIAL | UNVERIFIED |
 | deity.maya.kukulkan | 库库尔坎 | Kukulkan | DEITY | 玛雅 | PARTIAL | UNVERIFIED |
@@ -139,6 +158,8 @@
 | deity.norse.frigg | 弗丽嘉 | Frigg | DEITY | 北欧 | PARTIAL | UNVERIFIED |
 | deity.norse.heimdall | 海姆达尔 | Heimdallr | DEITY | 北欧 | PARTIAL | UNVERIFIED |
 | deity.norse.hel | 赫尔 | Hel | DEITY | 北欧 | PARTIAL | PARTIAL |
+| deity.norse.hermod | 赫尔莫德 | Hermóðr | DEITY | 北欧 | PARTIAL | SOURCE_BACKED |
+| deity.norse.hodr | 霍德尔 | Höðr | DEITY | 北欧 | PARTIAL | SOURCE_BACKED |
 | deity.norse.hoenir | 赫尼尔 | Hœnir | DEITY | 北欧 | PARTIAL | SOURCE_BACKED |
 | deity.norse.jord | 约尔德／大地女神 | Jord | DEITY | 北欧 | PARTIAL | PARTIAL |
 | deity.norse.loki | 洛基 | Loki | DEITY | 北欧 | PARTIAL | SOURCE_BACKED |
@@ -146,9 +167,12 @@
 | deity.norse.magni | 马格尼 | Magni | DEITY | 北欧 | PARTIAL | PARTIAL |
 | deity.norse.meili | 梅利 | Meili | DEITY | 北欧 | PARTIAL | PARTIAL |
 | deity.norse.modi | 莫迪 | Modi | DEITY | 北欧 | PARTIAL | PARTIAL |
+| deity.norse.nanna_nepsdottir | 南娜（巴德尔之妻） | Nanna (wife of Baldr) | DEITY | 北欧 | PARTIAL | SOURCE_BACKED |
 | deity.norse.njord | 尼奥尔德 | Njörðr | DEITY | 北欧 | PARTIAL | UNVERIFIED |
 | deity.norse.odin | 奥丁 | Odin | DEITY | 北欧 | PARTIAL | SOURCE_BACKED |
 | deity.norse.sif | 希芙 | Sif | DEITY | 北欧 | PARTIAL | SOURCE_BACKED |
+| deity.norse.sigyn | 西格恩 | Sigyn | DEITY | 北欧 | PARTIAL | SOURCE_BACKED |
+| deity.norse.skadi | 斯卡蒂 | Skaði | DEITY | 北欧 | PARTIAL | SOURCE_BACKED |
 | deity.norse.thor | 索尔／雷神托尔 | Thor | DEITY | 北欧 | PARTIAL | SOURCE_BACKED |
 | deity.norse.thrud | 斯露德 | Thrud | DEITY | 北欧 | PARTIAL | PARTIAL |
 | deity.norse.tyr | 提尔 | Týr | DEITY | 北欧 | PARTIAL | UNVERIFIED |
@@ -162,12 +186,14 @@
 | deity.slavic.perun | 佩伦 | Perun | DEITY | 斯拉夫 | CONFLICT | CONFLICTING |
 | deity.slavic.veles | 维列斯 | Veles | DEITY | 斯拉夫 | PARTIAL | PARTIAL |
 | deity.sumerian.an | 安 | An | DEITY | 苏美尔 | PARTIAL | UNVERIFIED |
+| deity.sumerian.dumuzi | 杜木兹 | Dumuzid | DEITY | 苏美尔 | PARTIAL | SOURCE_BACKED |
 | deity.sumerian.enki | 恩基 | Enki | DEITY | 苏美尔 | PARTIAL | SOURCE_BACKED |
 | deity.sumerian.enlil | 恩利尔 | Enlil | DEITY | 苏美尔 | PARTIAL | SOURCE_BACKED |
 | deity.sumerian.ereshkigal | 埃列什基伽勒 | Ereshkigal | DEITY | 苏美尔 | PARTIAL | SOURCE_BACKED |
 | deity.sumerian.inanna | 伊南娜 | Inanna | DEITY | 苏美尔 | PARTIAL | SOURCE_BACKED |
 | deity.sumerian.nanna | 南纳 | Nanna | DEITY | 苏美尔 | PARTIAL | UNVERIFIED |
 | deity.sumerian.ninhursag | 宁胡尔萨格 | Ninhursag | DEITY | 苏美尔 | PARTIAL | UNVERIFIED |
+| deity.sumerian.ninshubur | 宁舒布尔 | Ninšubur | DEITY | 苏美尔 | PARTIAL | SOURCE_BACKED |
 | deity.sumerian.utu | 乌图 | Utu | DEITY | 苏美尔 | PARTIAL | UNVERIFIED |
 | deity.ugaritic.anat | 阿娜特 | Anat | DEITY | 乌加里特 | PARTIAL | UNVERIFIED |
 | deity.ugaritic.asherah | 阿西拉特／亚舍拉 | Athirat / Asherah | DEITY | 乌加里特 | PARTIAL | UNVERIFIED |

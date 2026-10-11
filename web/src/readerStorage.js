@@ -60,6 +60,18 @@ export const loadReaderState = () => {
   }
 }
 
+const stamp = (entry) => (entry && typeof entry.updatedAt === 'string' ? entry.updatedAt : '')
+
+// Reading positions can be written from the story library and from a deity
+// card; keep whichever entry for a version was written last.
+const mergeProgress = (stored, next) => {
+  const merged = { ...stored }
+  for (const [versionId, entry] of Object.entries(next)) {
+    if (stamp(entry) >= stamp(merged[versionId])) merged[versionId] = entry
+  }
+  return merged
+}
+
 export const saveReaderState = (state) => {
   if (typeof window === 'undefined') return
   try {
@@ -68,6 +80,7 @@ export const saveReaderState = (state) => {
     const next = normalizeReaderState(state)
     next.settings.tellerScale = stored.settings.tellerScale
     next.settings.tellerNotes = stored.settings.tellerNotes
+    next.progress = mergeProgress(stored.progress, next.progress)
     window.localStorage.setItem(READER_STORAGE_KEY, JSON.stringify(next))
   } catch {
     // Reading remains available if storage is blocked or full.
@@ -82,5 +95,26 @@ export const saveTellerSettings = (partial) => {
     window.localStorage.setItem(READER_STORAGE_KEY, JSON.stringify(next))
   } catch {
     // Preferences simply reset next time if storage is unavailable.
+  }
+}
+
+export const readingPosition = (versionId) => {
+  if (!versionId) return 0
+  const entry = loadReaderState().progress[versionId]
+  return Number(entry?.sectionOrder || 0)
+}
+
+// Remember the last chapter read in a story version (v0.32). Stays on this device.
+export const saveReadingPosition = (versionId, storyId, sectionOrder) => {
+  if (typeof window === 'undefined' || !versionId) return
+  try {
+    const stored = loadReaderState()
+    stored.progress = {
+      ...stored.progress,
+      [versionId]: { storyId, sectionOrder, updatedAt: new Date().toISOString() },
+    }
+    window.localStorage.setItem(READER_STORAGE_KEY, JSON.stringify(normalizeReaderState(stored)))
+  } catch {
+    // The position is simply not remembered if storage is unavailable.
   }
 }

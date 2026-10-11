@@ -30,5 +30,9 @@
   - 来源：[Gods and goddesses: creation](https://www.ucl.ac.uk/museums-static/digitalegypt/religion/deitiescreation.html)；定位：UCL Digital Egypt synthesis
 - `claim.v0310.egypt.osiris_event` [VERIFIED / TEXT_SAYS / 0.92] Osiris is the murdered king at the centre of the cycle.
   - 来源：[Gods and goddesses: creation](https://www.ucl.ac.uk/museums-static/digitalegypt/religion/deitiescreation.html)；定位：Gods and goddesses: creation — the Osiris cycle summary
+- `claim.v0320.plutarch_osiris.02` [VERIFIED / TEXT_SAYS / 0.90] Plutarch lists the births on the five added days: Osiris, Arueris (the elder Horus), Typhon who bursts through his mother's side, Isis and Nephthys.
+  - 来源：[Plutarch, On Isis and Osiris (tr. F. C. Babbitt, Loeb Moralia V, 1936)](https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Plutarch/Moralia/Isis_and_Osiris*/home.html)；定位：ch. 12
+- `claim.v0320.plutarch_osiris.03` [VERIFIED / TEXT_SAYS / 0.90] Plutarch says Osiris as king taught the Egyptians cultivation, laws and worship, then civilised the world by persuasion and music rather than weapons.
+  - 来源：[Plutarch, On Isis and Osiris (tr. F. C. Babbitt, Loeb Moralia V, 1936)](https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Plutarch/Moralia/Isis_and_Osiris*/home.html)；定位：ch. 13
 
 > 本档案只代表当前阶段性基线，不是对该传统的最终或唯一解释。

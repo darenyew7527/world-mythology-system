@@ -17,6 +17,7 @@
 | Relation | Target | Review / layer | Evidence | Confidence | Direction |
 |---|---|---|---:|---:|---|
 | `USED_BY` | 马尔杜克 (`deity.babylonian.marduk`) | VERIFIED / IN_TRADITION / MYTHIC_NARRATIVE | 1 | 0.95 | inferred inverse; `claim.babylonian.marduk_uses_bow` |
+| `USED_BY` | 马尔杜克 (`deity.babylonian.marduk`) | VERIFIED / TEXT_SAYS / MYTHIC_NARRATIVE | 1 | 0.90 | inferred inverse; `claim.v0320.enuma_elish_long.09` |
 
 ## Claims 与证据
 

@@ -11,6 +11,8 @@
 | `cath maige tuired` | 2 | `text.irish.cath_maige_tuired,event.irish.second_battle_mag_tuired` |
 | `chaos` | 2 | `concept.comparative.chaos,deity.greek.chaos` |
 | `mꜣꜥt` | 2 | `deity.egyptian.ma_at,concept.egyptian.ma_at` |
+| `乾坤圈` | 2 | `artifact.chinese.qiankun_quan,weapon.chinese.qiankun_quan` |
+| `吉尔伽美什史诗` | 2 | `text.mesopotamia.gilgamesh,event.babylonian.gilgamesh_epic` |
 | `土` | 2 | `element.chinese.tu,concept.chinese.wuxing.tu` |
 | `尚書` | 2 | `text.chinese.shangshu,text.chinese.shang_shu` |
 | `第二次马格图雷德之战` | 2 | `text.irish.cath_maige_tuired,event.irish.second_battle_mag_tuired` |

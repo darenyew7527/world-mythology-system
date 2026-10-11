@@ -376,6 +376,12 @@ claim.v0310.zoro.angra_event,being.zoroastrian.angra_mainyu,PARTICIPATED_IN,even
 claim.v0310.zoro.angra_opposes,being.zoroastrian.angra_mainyu,ENEMY_OF,deity.zoroastrian.ahura_mazda,claim.v0310.zoro.angra_opposes,v0310.zoro.sixteen_lands,SUPPORTED,0.9,VERIFIED,TEXT_SAYS,MYTHIC_NARRATIVE,SUPPORTED,1
 claim.v0310.zoro.mihr_yasht_witness,text.zoroastrian.mihr_yasht,PART_OF,text.zoroastrian.avesta,claim.v0310.zoro.mihr_yasht_witness,v0310.zoro.mihr_yasht,SUPPORTED,0.95,VERIFIED,HISTORICAL_REALITY,TEXTUAL_WITNESS,SUPPORTED,1
 claim.v0310.zoro.mithra_created,deity.zoroastrian.mithra,CREATED_BY,deity.zoroastrian.ahura_mazda,claim.v0310.zoro.mithra_created,v0310.zoro.mihr_yasht,SUPPORTED,0.9,VERIFIED,TEXT_SAYS,MYTHIC_NARRATIVE,SUPPORTED,1
+claim.v0320.baldr_long.04,deity.norse.hodr,KILLED,deity.norse.baldr,claim.v0320.baldr_long.04,v0320.baldr_long,SUPPORTED,0.9,VERIFIED,TEXT_SAYS,MYTHIC_NARRATIVE,SUPPORTED,1
+claim.v0320.enuma_elish_long.03,deity.babylonian.ea,KILLED,deity.babylonian.apsu,claim.v0320.enuma_elish_long.03,v0320.enuma_elish_long,SUPPORTED,0.9,VERIFIED,TEXT_SAYS,MYTHIC_NARRATIVE,SUPPORTED,1
+claim.v0320.enuma_elish_long.09,deity.babylonian.marduk,USES,weapon.babylonian.marduk_bow,claim.v0320.enuma_elish_long.09,v0320.enuma_elish_long,SUPPORTED,0.9,VERIFIED,TEXT_SAYS,MYTHIC_NARRATIVE,SUPPORTED,1
+claim.v0320.enuma_elish_long.10,deity.babylonian.marduk,KILLED,deity.babylonian.tiamat,claim.v0320.enuma_elish_long.10,v0320.enuma_elish_long,SUPPORTED,0.9,VERIFIED,TEXT_SAYS,MYTHIC_NARRATIVE,SUPPORTED,1
+claim.v0320.fengshen_nezha.05,deity.chinese.nezha,KILLED,dragon.chinese.ao_bing,claim.v0320.fengshen_nezha.05,v0320.fengshen_nezha,SUPPORTED,0.9,VERIFIED,TEXT_SAYS,LATER_RECEPTION,SUPPORTED,1
+claim.v0320.gilgamesh_sb.10,hero.sumerian.gilgamesh,KILLED,creature.mesopotamian.bull_of_heaven,claim.v0320.gilgamesh_sb.10,v0320.gilgamesh_sb,SUPPORTED,0.9,VERIFIED,TEXT_SAYS,MYTHIC_NARRATIVE,SUPPORTED,1
 claim.v040.aether.child_erebus,deity.greek.aether,CHILD_OF,deity.greek.erebus,claim.v040.aether.child_erebus,hesiod.theogony.124-125,SUPPORTED,0.99,VERIFIED,TEXT_SAYS,MYTHIC_NARRATIVE,SUPPORTED,1
 claim.v040.aether.child_nyx,deity.greek.aether,CHILD_OF,deity.greek.nyx,claim.v040.aether.child_nyx,hesiod.theogony.124-125,SUPPORTED,0.99,VERIFIED,TEXT_SAYS,MYTHIC_NARRATIVE,SUPPORTED,1
 claim.v040.asteria.parent_hecate,deity.greek.asteria,PARENT_OF,deity.greek.hecate,claim.v040.asteria.parent_hecate,hesiod.theogony.404-409,SUPPORTED,0.99,VERIFIED,TEXT_SAYS,MYTHIC_NARRATIVE,SUPPORTED,1

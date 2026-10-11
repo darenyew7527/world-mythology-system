@@ -26,5 +26,7 @@
   - 来源：[Enki and the World Order](https://etcsl.orinst.ox.ac.uk/section1/tr113.htm)；定位：Composition 1.1.3
 - `claim.v0310.sumer.enki_plants` [VERIFIED / TEXT_SAYS / 0.86] Enki eats the plants that have grown and falls ill under Ninhursaĝa's curse.
   - 来源：[Enki and Ninhursaĝa](https://etcsl.orinst.ox.ac.uk/section1/tr111.htm)；定位：ETCSL 1.1.1, the plants
+- `claim.v0320.inanna_long.08` [VERIFIED / TEXT_SAYS / 0.90] Enki creates the kur-ĝara and the gala-tura from the dirt under his fingernails and sends them with the plant and water of life to rescue Inana.
+  - 来源：[Inana's Descent to the Netherworld](https://etcsl.orinst.ox.ac.uk/section1/tr141.htm)；定位：ETCSL 1.4.1, lines 225–253
 
 > 本档案只代表当前阶段性基线，不是对该传统的最终或唯一解释。
