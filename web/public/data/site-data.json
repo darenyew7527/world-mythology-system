@@ -1217,10 +1217,10 @@
       {
         "builtAt": "2026-10-11T03:00:00Z",
         "dataVersion": "0.32.0",
-        "databaseSha256": null,
-        "gitCommit": null,
+        "databaseSha256": "98cca7869234f3f82bb2f9f3c5415c1ff6d3ec37f2140c005985439cd67c07cf",
+        "gitCommit": "08cdf97a04139d379df3b85fe1f32f454ecf91e8",
         "id": "release.v0.32.0",
-        "releaseNotes": "Long-form stories: 12 retellings of 12-20 sections that follow one located public witness in order (Journey to the West, Investiture of the Gods, Theogony, Gylfaginning, Standard Babylonian Gilgamesh, Plutarch, Kojiki, Rāmāyaṇa, and long versions of the Hymn to Demeter, Baldr, Enūma eliš and Inana's Descent); deity cards carry every section of a linked story; chapter contents, next-chapter links and an on-device reading position in the web app.",
+        "releaseNotes": "Long-form stories: 12 retellings of 12-20 sections that follow one located public witness in order (Journey to the West, Investiture of the Gods, Theogony, Gylfaginning, Standard Babylonian Gilgamesh, Plutarch, Kojiki, Rāmāyaṇa, and long versions of the Hymn to Demeter, Baldr, Enūma eliš and Inana's Descent); deity cards carry every section of a linked story; chapter contents, next-chapter links and an on-device reading position in the web app. Source commit stamped; database_sha256 is the pre-stamp snapshot digest.",
         "schemaVersion": 46
       }
     ],
@@ -181052,10 +181052,10 @@
     "datasetRelease": {
       "built_at": "2026-10-11T03:00:00Z",
       "data_version": "0.32.0",
-      "database_sha256": null,
-      "git_commit": null,
+      "database_sha256": "98cca7869234f3f82bb2f9f3c5415c1ff6d3ec37f2140c005985439cd67c07cf",
+      "git_commit": "08cdf97a04139d379df3b85fe1f32f454ecf91e8",
       "id": "release.v0.32.0",
-      "release_notes": "Long-form stories: 12 retellings of 12-20 sections that follow one located public witness in order (Journey to the West, Investiture of the Gods, Theogony, Gylfaginning, Standard Babylonian Gilgamesh, Plutarch, Kojiki, Rāmāyaṇa, and long versions of the Hymn to Demeter, Baldr, Enūma eliš and Inana's Descent); deity cards carry every section of a linked story; chapter contents, next-chapter links and an on-device reading position in the web app.",
+      "release_notes": "Long-form stories: 12 retellings of 12-20 sections that follow one located public witness in order (Journey to the West, Investiture of the Gods, Theogony, Gylfaginning, Standard Babylonian Gilgamesh, Plutarch, Kojiki, Rāmāyaṇa, and long versions of the Hymn to Demeter, Baldr, Enūma eliš and Inana's Descent); deity cards carry every section of a linked story; chapter contents, next-chapter links and an on-device reading position in the web app. Source commit stamped; database_sha256 is the pre-stamp snapshot digest.",
       "schema_version": 46
     },
     "deityStoryCardStatusCounts": {

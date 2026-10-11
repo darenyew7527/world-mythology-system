@@ -64,7 +64,7 @@
     "tradition_links": 6
   },
   "database": "world_mythology.sqlite",
-  "database_sha256": "98cca7869234f3f82bb2f9f3c5415c1ff6d3ec37f2140c005985439cd67c07cf",
+  "database_sha256": "30560b6179c97fe3aa485150529a211bd4df15e1958de4868ffd043d76c85f0d",
   "excluded_object_types": [
     "view",
     "sqlite_internal"
@@ -136,9 +136,9 @@
       "sha256": "08df12610aceccea92fb45a1cf702520500c1b1eff876183b65d4f609c689a45"
     },
     {
-      "bytes": 13598,
+      "bytes": 13775,
       "path": "csv/dataset_releases.csv",
-      "sha256": "45e0ad86fac432a232b89ad1d94ad355921f08cd94ab28eec08f0d0f5528d81e"
+      "sha256": "fa28e9732df1d0a34892e796ec80a92aad3204382cf837c744d7adcf3936dc84"
     },
     {
       "bytes": 30840,
@@ -461,9 +461,9 @@
       "sha256": "4ebb06d0d458e2051b7433a09921879aa2f45ceb02bbb2ffebc63a5a864ea1d1"
     },
     {
-      "bytes": 16987,
+      "bytes": 17160,
       "path": "jsonl/dataset_releases.jsonl",
-      "sha256": "d9edf5ca0f45696e70f25fa5d3fb3a2352dc19bf899ed46ecf117f0e716ca4fe"
+      "sha256": "6d285658ae0a8bce95f195772498856a23603b339575c54fdac2d7f1beb23e68"
     },
     {
       "bytes": 74539,
@@ -714,7 +714,7 @@
   "latest_sealed_release": {
     "built_at": "2026-10-11T03:00:00Z",
     "data_version": "0.32.0",
-    "git_commit": null,
+    "git_commit": "08cdf97a04139d379df3b85fe1f32f454ecf91e8",
     "id": "release.v0.32.0",
     "schema_version": 46
   },
@@ -727,7 +727,7 @@
   "release": {
     "built_at": "2026-10-11T03:00:00Z",
     "data_version": "0.32.0",
-    "git_commit": null,
+    "git_commit": "08cdf97a04139d379df3b85fe1f32f454ecf91e8",
     "id": "release.v0.32.0",
     "schema_version": 46
   },

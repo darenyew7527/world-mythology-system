@@ -2,7 +2,7 @@
   "checkpoint": "WORLD_MYTHOLOGY_0_32_0",
   "completion_claim": "Current publicly discoverable material has a staged knowledge baseline; the system remains expandable.",
   "data_version": "0.32.0",
-  "database_sha256": "98cca7869234f3f82bb2f9f3c5415c1ff6d3ec37f2140c005985439cd67c07cf",
+  "database_sha256": "30560b6179c97fe3aa485150529a211bd4df15e1958de4868ffd043d76c85f0d",
   "entity_profiles": 777,
   "generated_at": "2026-10-11T12:48:48Z",
   "latest_sealed_data_version": "0.32.0",
@@ -60,7 +60,9 @@
     "Ra-Atum composite witnesses by period"
   ],
   "release_id": "release.v0.32.0",
+  "release_stamped_at": "2026-10-11T12:49:50Z",
   "snapshot_status": "SEALED_RELEASE",
+  "source_git_commit": "08cdf97a04139d379df3b85fe1f32f454ecf91e8",
   "status": "STAGED_EXPANDABLE_BASELINE",
   "story_profiles": 63
 }
