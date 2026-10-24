@@ -1277,10 +1277,10 @@
       {
         "builtAt": "2026-10-24T23:30:00Z",
         "dataVersion": "0.36.0",
-        "databaseSha256": null,
-        "gitCommit": null,
+        "databaseSha256": "7dcec3c35a72a6a5dcc2830654b71cdad18c2e142bb21ef10b0e3cb264699393",
+        "gitCommit": "55051a3b4c1b878f38a9c08387166122ac166e69",
         "id": "release.v0.36.0",
-        "releaseNotes": "Stories for evidence-card deities: the Homeric Hymns to Apollo, Hermes and Aphrodite join the Hymn to Demeter as a four-part series; the Theogony's families of Night and the Titans, Artemis and Dionysus in Apollodorus and Ares in the Iliad; long versions of the Gylfaginning creation and of Sif's hair, and Thor and Hrungnir; the Bentresh Stela, the Tale of Two Brothers, Hatshepsut's divine birth and the Memphite Theology; Baal's palace; Inana and Ebih; and Wang Chong on Leigong. Thirty-seven deities that had only evidence cards, among them Leto, Artemis, Ares, Dionysus, Hestia, Ptah, Khonsu, Amun, El, Athirat, An and Leigong, now open stories; seven newly registered deities have stories too.",
+        "releaseNotes": "Stories for evidence-card deities: the Homeric Hymns to Apollo, Hermes and Aphrodite join the Hymn to Demeter as a four-part series; the Theogony's families of Night and the Titans, Artemis and Dionysus in Apollodorus and Ares in the Iliad; long versions of the Gylfaginning creation and of Sif's hair, and Thor and Hrungnir; the Bentresh Stela, the Tale of Two Brothers, Hatshepsut's divine birth and the Memphite Theology; Baal's palace; Inana and Ebih; and Wang Chong on Leigong. Thirty-seven deities that had only evidence cards, among them Leto, Artemis, Ares, Dionysus, Hestia, Ptah, Khonsu, Amun, El, Athirat, An and Leigong, now open stories; seven newly registered deities have stories too. Source commit stamped; database_sha256 is the pre-stamp snapshot digest.",
         "schemaVersion": 54
       }
     ],
@@ -277216,10 +277216,10 @@
     "datasetRelease": {
       "built_at": "2026-10-24T23:30:00Z",
       "data_version": "0.36.0",
-      "database_sha256": null,
-      "git_commit": null,
+      "database_sha256": "7dcec3c35a72a6a5dcc2830654b71cdad18c2e142bb21ef10b0e3cb264699393",
+      "git_commit": "55051a3b4c1b878f38a9c08387166122ac166e69",
       "id": "release.v0.36.0",
-      "release_notes": "Stories for evidence-card deities: the Homeric Hymns to Apollo, Hermes and Aphrodite join the Hymn to Demeter as a four-part series; the Theogony's families of Night and the Titans, Artemis and Dionysus in Apollodorus and Ares in the Iliad; long versions of the Gylfaginning creation and of Sif's hair, and Thor and Hrungnir; the Bentresh Stela, the Tale of Two Brothers, Hatshepsut's divine birth and the Memphite Theology; Baal's palace; Inana and Ebih; and Wang Chong on Leigong. Thirty-seven deities that had only evidence cards, among them Leto, Artemis, Ares, Dionysus, Hestia, Ptah, Khonsu, Amun, El, Athirat, An and Leigong, now open stories; seven newly registered deities have stories too.",
+      "release_notes": "Stories for evidence-card deities: the Homeric Hymns to Apollo, Hermes and Aphrodite join the Hymn to Demeter as a four-part series; the Theogony's families of Night and the Titans, Artemis and Dionysus in Apollodorus and Ares in the Iliad; long versions of the Gylfaginning creation and of Sif's hair, and Thor and Hrungnir; the Bentresh Stela, the Tale of Two Brothers, Hatshepsut's divine birth and the Memphite Theology; Baal's palace; Inana and Ebih; and Wang Chong on Leigong. Thirty-seven deities that had only evidence cards, among them Leto, Artemis, Ares, Dionysus, Hestia, Ptah, Khonsu, Amun, El, Athirat, An and Leigong, now open stories; seven newly registered deities have stories too. Source commit stamped; database_sha256 is the pre-stamp snapshot digest.",
       "schema_version": 54
     },
     "deityStoryCardStatusCounts": {
