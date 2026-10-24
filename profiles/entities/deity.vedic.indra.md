@@ -31,6 +31,8 @@
 
 - `claim.v0220.indra_uses` [VERIFIED / TEXT_SAYS / 0.98] In RV 1.32, Indra is associated with wielding the vajra against Vṛtra.
   - 来源：[Rigveda Shakala Samhita, Mandala 1, Sukta 32](https://vedicheritage.gov.in/samhitas/rigveda/shakala-samhita/rigveda-shakala-samhitas-mandal-01-sukta-032/)；定位：Registered text passage or museum catalogue
+- `claim.v0350.mbh_nala.03` [VERIFIED / TEXT_SAYS / 0.90] Mahābhārata, Vana Parva, Section LIV says Indra, Agni, Varuṇa and Yama, going to Damayantī's svayaṃvara, met Nala and bound him by his promise to be their messenger to her.
+  - 来源：[The Mahabharata of Krishna-Dwaipayana Vyasa, tr. Kisari Mohan Ganguli (1883–1896)](https://sacred-texts.com/hin/maha/index.htm)；定位：Vana Parva, Nalopakhyana Parva, Section LIV
 - `claim.v060.vedic.indra_killed_vrtra` [VERIFIED / TEXT_SAYS / 0.99] Rigveda 1.32 narrates Indra killing Vrtra, also designated as a serpent in the hymn.
   - 来源：[Rigveda Shakala Samhita, Mandala 1, Sukta 32](https://vedicheritage.gov.in/samhitas/rigveda/shakala-samhita/rigveda-shakala-samhitas-mandal-01-sukta-032/)；定位：RV 1.32.1-15
 - `claim.v060.vedic.indra_participated_vrtra_event` [VERIFIED / TEXT_SAYS / 0.99] Indra is the principal agent in the witness-specific RV 1.32 event record.

@@ -40,5 +40,7 @@
   - 来源：[The Kojiki: Records of Ancient Matters (tr. Basil Hall Chamberlain)](https://sacred-texts.com/shi/kojiki.htm)；定位：Sect. XVIII, The Eight-Forked Serpent (kj025)
 - `claim.v0320.kojiki_iwato_orochi.15` [VERIFIED / TEXT_SAYS / 0.90] Susanoo builds his palace at Suga in Izumo, saying his heart is refreshed, sings the song of the eightfold fence as clouds rise, and makes Ashinazuchi master of the palace.
   - 来源：[The Kojiki: Records of Ancient Matters (tr. Basil Hall Chamberlain)](https://sacred-texts.com/shi/kojiki.htm)；定位：Sect. XIX, The Palace of Suga (kj026)
+- `claim.v0350.kojiki_okuninushi.09` [VERIFIED / TEXT_SAYS / 0.90] Kojiki Section XXIII says Ōnamuji escaped with Suseri-bime and Susanoo's sword, bow and speaking lute, and Susanoo, pursuing to the Even Pass of Yomi, called on him to drive away his brothers, become Ōkuninushi and make Suseri-bime his chief wife.
+  - 来源：[The Kojiki: Records of Ancient Matters (tr. Basil Hall Chamberlain)](https://sacred-texts.com/shi/kojiki.htm)；定位：Sect. XXIII, The Nether-Distant-Land (kj030)
 
 > 本档案只代表当前阶段性基线，不是对该传统的最终或唯一解释。

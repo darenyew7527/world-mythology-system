@@ -35,9 +35,12 @@
 | demon.chinese.baigujing | 白骨夫人（白骨精） | White Bone Demon (Lady White Bone) | DEMON | 中国民间信仰 | PARTIAL | SOURCE_BACKED |
 | dragon.chinese.white_dragon_horse | 白龙马 | White Dragon Horse | DRAGON | 中国民间信仰 | PARTIAL | SOURCE_BACKED |
 | demon.chinese.huangpao | 黄袍怪（奎木狼） | Yellow Robe Demon (Kui Wolf Star) | DEMON | 中国民间信仰 | PARTIAL | SOURCE_BACKED |
+| creature.finnish.iku_turso | 伊库-图尔索 | Iku-Turso | MONSTER | 芬兰 | PARTIAL | SOURCE_BACKED |
 | creature.hindu.akupara | 龟王阿库帕拉 | Akūpāra, king of tortoises | DIVINE_BEAST | 印度教传统 | PARTIAL | SOURCE_BACKED |
 | demon.hindu.indrajit | 因陀罗耆 | Indrajit (Meghanāda) | DEMON | 印度教传统 | PARTIAL | SOURCE_BACKED |
 | creature.hindu.jatayu | 阇吒优私 | Jaṭāyu | DIVINE_BEAST | 印度教传统 | PARTIAL | SOURCE_BACKED |
+| being.hindu.kali | 迦利（争斗时代的化身） | Kali (personified age) | SPIRIT | 印度教传统 | PARTIAL | SOURCE_BACKED |
+| creature.indian.karkotaka | 迦尔郭吒迦 | Karkoṭaka | DIVINE_BEAST | 印度教传统 | PARTIAL | SOURCE_BACKED |
 | demon.hindu.kumbhakarna | 鸠槃羯叻拿 | Kumbhakarṇa | DEMON | 印度教传统 | PARTIAL | SOURCE_BACKED |
 | demon.hindu.maricha | 摩哩遮 | Mārīca | DEMON | 印度教传统 | PARTIAL | SOURCE_BACKED |
 | demon.hindu.rahu | 罗睺 | Rāhu | DEMON | 印度教传统 | PARTIAL | SOURCE_BACKED |
@@ -46,6 +49,7 @@
 | demon.hindu.shurpanakha | 首哩薄那迦 | Śūrpaṇakhā | DEMON | 印度教传统 | PARTIAL | SOURCE_BACKED |
 | creature.irish.donn_cuailnge | 库利的褐色公牛 | Donn Cúailnge | DIVINE_BEAST | 爱尔兰 | PARTIAL | SOURCE_BACKED |
 | creature.irish.finnbennach | 白角公牛 | Finnbennach | DIVINE_BEAST | 爱尔兰 | PARTIAL | SOURCE_BACKED |
+| creature.japanese.hare_of_inaba | 稻羽之素兔 | White Hare of Inaba | DIVINE_BEAST | 日本神道 | PARTIAL | SOURCE_BACKED |
 | monster.japanese.yamata_no_orochi | 八岐大蛇 | Yamata no Orochi | MONSTER | 日本神道 | PARTIAL | SOURCE_BACKED |
 | monster.kiche.seven_macaw | 七金刚鹦鹉 | Seven Macaw | MONSTER | 玛雅 | PARTIAL | SOURCE_BACKED |
 | being.norse.bestla | 贝斯特拉 | Bestla | GIANT | 北欧 | PARTIAL | SOURCE_BACKED |
@@ -65,5 +69,8 @@
 | creature.norse.surtr | 苏尔特 | Surtr | GIANT | 北欧 | PARTIAL | SOURCE_BACKED |
 | being.norse.ymir | 尤弥尔 | Ymir | GIANT | 北欧 | PARTIAL | UNVERIFIED |
 | being.norse.utgarda_loki | 乌特加尔洛基 | Útgarða-Loki | GIANT | 北欧 | PARTIAL | SOURCE_BACKED |
+| creature.persian.rakhsh | 拉赫什 | Rakhsh | DIVINE_BEAST | 波斯 | PARTIAL | SOURCE_BACKED |
+| creature.persian.simorgh | 西摩格 | Simorgh | DIVINE_BEAST | 波斯 | PARTIAL | SOURCE_BACKED |
+| demon.persian.white_div | 白魔（迪弗·塞皮德） | White Demon | DEMON | 波斯 | PARTIAL | SOURCE_BACKED |
 | monster.sumerian.huwawa | 胡瓦瓦 | Ḫuwawa | MONSTER | 苏美尔 | PARTIAL | SOURCE_BACKED |
 | creature.vedic.vritra | 弗栗多 | Vrtra | MONSTER | 吠陀传统 | PARTIAL | SOURCE_BACKED |

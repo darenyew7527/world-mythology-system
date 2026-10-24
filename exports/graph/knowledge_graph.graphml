@@ -13,6 +13,8 @@
     <node id="artifact.chinese.linglong_pagoda"><data key="name">Golden exquisite pagoda</data><data key="type">SACRED_OBJECT</data></node>
     <node id="artifact.chinese.qiankun_quan"><data key="name">Qiankun Quan</data><data key="type">ARTIFACT</data></node>
     <node id="artifact.egyptian.solar_barque"><data key="name">Solar barque</data><data key="type">SHIP</data></node>
+    <node id="artifact.finnish.kantele"><data key="name">First kantele</data><data key="type">ARTIFACT</data></node>
+    <node id="artifact.finnish.sampo"><data key="name">Sampo</data><data key="type">ARTIFACT</data></node>
     <node id="artifact.greek.aegis"><data key="name">Aegis</data><data key="type">ARTIFACT</data></node>
     <node id="artifact.greek.argo"><data key="name">Argo</data><data key="type">SHIP</data></node>
     <node id="artifact.greek.caduceus"><data key="name">Caduceus</data><data key="type">SCEPTER</data></node>
@@ -20,6 +22,7 @@
     <node id="artifact.greek.helm_hades"><data key="name">Helm of Hades</data><data key="type">ARMOR</data></node>
     <node id="artifact.hindu.amrita"><data key="name">Amṛta</data><data key="type">SACRED_OBJECT</data></node>
     <node id="artifact.irish.dagda_cauldron"><data key="name">The Dagda's cauldron</data><data key="type">SACRED_OBJECT</data></node>
+    <node id="artifact.japanese.tide_jewels"><data key="name">Tide-flowing and tide-ebbing jewels</data><data key="type">SACRED_OBJECT</data></node>
     <node id="artifact.mesopotamian.tablet_destinies"><data key="name">Tablet of Destinies</data><data key="type">ARTIFACT</data></node>
     <node id="artifact.norse.andvaranaut"><data key="name">Andvaranautr</data><data key="type">RING</data></node>
     <node id="artifact.norse.draupnir"><data key="name">Draupnir</data><data key="type">RING</data></node>
@@ -29,6 +32,7 @@
     <node id="artifact.welsh.cauldron_of_rebirth"><data key="name">Cauldron of rebirth</data><data key="type">SACRED_OBJECT</data></node>
     <node id="artifact.yoruba.ose_sango"><data key="name">Ose Sango</data><data key="type">SACRED_OBJECT</data></node>
     <node id="being.chinese.pangu"><data key="name">Pangu</data><data key="type">GIANT</data></node>
+    <node id="being.hindu.kali"><data key="name">Kali (personified age)</data><data key="type">SPIRIT</data></node>
     <node id="being.irish.balor"><data key="name">Balor</data><data key="type">ENTITY</data></node>
     <node id="being.norse.andvari"><data key="name">Andvari</data><data key="type">DWARF</data></node>
     <node id="being.norse.bestla"><data key="name">Bestla</data><data key="type">GIANT</data></node>
@@ -124,6 +128,7 @@
     <node id="concept.zoroastrian.druj"><data key="name">Druj</data><data key="type">CONCEPT</data></node>
     <node id="creature.akkadian.anzu"><data key="name">Anzu of the Akkadian myth</data><data key="type">MONSTER</data></node>
     <node id="creature.chinese.ao_turtle"><data key="name">Ao (great turtle)</data><data key="type">DIVINE_BEAST</data></node>
+    <node id="creature.finnish.iku_turso"><data key="name">Iku-Turso</data><data key="type">MONSTER</data></node>
     <node id="creature.greek.cerberus"><data key="name">Cerberus</data><data key="type">MONSTER</data></node>
     <node id="creature.greek.charybdis"><data key="name">Charybdis</data><data key="type">MONSTER</data></node>
     <node id="creature.greek.cyclopes_hesiodic"><data key="name">Hesiodic Cyclopes</data><data key="type">GIANT</data></node>
@@ -144,8 +149,10 @@
     <node id="creature.hindu.akupara"><data key="name">Akūpāra, king of tortoises</data><data key="type">DIVINE_BEAST</data></node>
     <node id="creature.hindu.jatayu"><data key="name">Jaṭāyu</data><data key="type">DIVINE_BEAST</data></node>
     <node id="creature.hindu.vasuki"><data key="name">Vāsuki</data><data key="type">DIVINE_BEAST</data></node>
+    <node id="creature.indian.karkotaka"><data key="name">Karkoṭaka</data><data key="type">DIVINE_BEAST</data></node>
     <node id="creature.irish.donn_cuailnge"><data key="name">Donn Cúailnge</data><data key="type">DIVINE_BEAST</data></node>
     <node id="creature.irish.finnbennach"><data key="name">Finnbennach</data><data key="type">DIVINE_BEAST</data></node>
+    <node id="creature.japanese.hare_of_inaba"><data key="name">White Hare of Inaba</data><data key="type">DIVINE_BEAST</data></node>
     <node id="creature.mesopotamian.bull_of_heaven"><data key="name">Bull of Heaven</data><data key="type">MONSTER</data></node>
     <node id="creature.norse.fafnir"><data key="name">Fáfnir</data><data key="type">DRAGON</data></node>
     <node id="creature.norse.fenrir"><data key="name">Fenrir</data><data key="type">MONSTER</data></node>
@@ -155,6 +162,8 @@
     <node id="creature.norse.jormungandr"><data key="name">Jörmungandr</data><data key="type">DRAGON</data></node>
     <node id="creature.norse.sleipnir"><data key="name">Sleipnir</data><data key="type">DIVINE_BEAST</data></node>
     <node id="creature.norse.surtr"><data key="name">Surtr</data><data key="type">GIANT</data></node>
+    <node id="creature.persian.rakhsh"><data key="name">Rakhsh</data><data key="type">DIVINE_BEAST</data></node>
+    <node id="creature.persian.simorgh"><data key="name">Simorgh</data><data key="type">DIVINE_BEAST</data></node>
     <node id="creature.vedic.vritra"><data key="name">Vrtra</data><data key="type">MONSTER</data></node>
     <node id="deity.akkadian.ishtar"><data key="name">Ishtar</data><data key="type">DEITY</data></node>
     <node id="deity.akkadian.ninurta"><data key="name">Ninurta in the Akkadian Anzu myth</data><data key="type">DEITY</data></node>
@@ -166,6 +175,7 @@
     <node id="deity.babylonian.marduk"><data key="name">Marduk</data><data key="type">DEITY</data></node>
     <node id="deity.babylonian.tiamat"><data key="name">Tiamat</data><data key="type">PRIMORDIAL_DEITY</data></node>
     <node id="deity.chinese.ao_guang"><data key="name">Ao Guang, Dragon King of the Eastern Sea</data><data key="type">DEITY</data></node>
+    <node id="deity.chinese.change"><data key="name">Chang'e</data><data key="type">DEITY</data></node>
     <node id="deity.chinese.erlang_shen"><data key="name">Erlang Shen</data><data key="type">DEITY</data></node>
     <node id="deity.chinese.fu_xi"><data key="name">Fuxi</data><data key="type">DEITY</data></node>
     <node id="deity.chinese.gonggong"><data key="name">Gonggong</data><data key="type">DEITY</data></node>
@@ -178,6 +188,7 @@
     <node id="deity.chinese.nu_wa"><data key="name">Nüwa</data><data key="type">DEITY</data></node>
     <node id="deity.chinese.rulai_xiyouji"><data key="name">Tathāgata Buddha (Journey to the West)</data><data key="type">DEITY</data></node>
     <node id="deity.chinese.taishang_laojun"><data key="name">Taishang Laojun</data><data key="type">DEITY</data></node>
+    <node id="deity.chinese.zhinu"><data key="name">Weaving Maiden</data><data key="type">DEITY</data></node>
     <node id="deity.egyptian.amun"><data key="name">Amun</data><data key="type">DEITY</data></node>
     <node id="deity.egyptian.amun_ra"><data key="name">Amun-Ra</data><data key="type">DEITY</data></node>
     <node id="deity.egyptian.anubis"><data key="name">Anubis</data><data key="type">DEITY</data></node>
@@ -205,6 +216,8 @@
     <node id="deity.egyptian.sokar"><data key="name">Sokar</data><data key="type">DEITY</data></node>
     <node id="deity.egyptian.tefnut"><data key="name">Tefnut</data><data key="type">DEITY</data></node>
     <node id="deity.egyptian.thoth"><data key="name">Thoth</data><data key="type">DEITY</data></node>
+    <node id="deity.finnish.ilmatar"><data key="name">Ilmatar</data><data key="type">DEITY</data></node>
+    <node id="deity.finnish.ukko"><data key="name">Ukko</data><data key="type">DEITY</data></node>
     <node id="deity.greek.aether"><data key="name">Aether</data><data key="type">PRIMORDIAL_DEITY</data></node>
     <node id="deity.greek.aphrodite"><data key="name">Aphrodite</data><data key="type">DEITY</data></node>
     <node id="deity.greek.apollo"><data key="name">Apollo</data><data key="type">DEITY</data></node>
@@ -261,12 +274,14 @@
     <node id="deity.hindu.dhanvantari"><data key="name">Dhanvantari</data><data key="type">DEITY</data></node>
     <node id="deity.hindu.ganga"><data key="name">Gaṅgā</data><data key="type">DEITY</data></node>
     <node id="deity.hindu.hanuman"><data key="name">Hanumān</data><data key="type">DEITY</data></node>
+    <node id="deity.hindu.krishna"><data key="name">Kṛṣṇa</data><data key="type">DEITY</data></node>
     <node id="deity.hindu.kurma"><data key="name">Kūrma</data><data key="type">DEITY</data></node>
     <node id="deity.hindu.mohini"><data key="name">Mohinī</data><data key="type">DEITY</data></node>
     <node id="deity.hindu.rama"><data key="name">Rāma</data><data key="type">DEITY</data></node>
     <node id="deity.hindu.shiva"><data key="name">Shiva</data><data key="type">DEITY</data></node>
     <node id="deity.hindu.sita"><data key="name">Sītā</data><data key="type">DEITY</data></node>
     <node id="deity.hindu.vishnu"><data key="name">Vishnu</data><data key="type">DEITY</data></node>
+    <node id="deity.hindu.yama"><data key="name">Yama</data><data key="type">DEITY</data></node>
     <node id="deity.irish.bridig"><data key="name">Brigid</data><data key="type">DEITY</data></node>
     <node id="deity.irish.dagda"><data key="name">The Dagda</data><data key="type">DEITY</data></node>
     <node id="deity.irish.lugh"><data key="name">Lugh</data><data key="type">DEITY</data></node>
@@ -274,30 +289,48 @@
     <node id="deity.japanese.amaterasu"><data key="name">Amaterasu</data><data key="type">DEITY</data></node>
     <node id="deity.japanese.ame_no_tajikarao"><data key="name">Ame-no-Tajikarao</data><data key="type">DEITY</data></node>
     <node id="deity.japanese.ame_no_uzume"><data key="name">Ame-no-Uzume</data><data key="type">DEITY</data></node>
+    <node id="deity.japanese.ame_no_wakahiko"><data key="name">Ame-no-Wakahiko</data><data key="type">DEITY</data></node>
     <node id="deity.japanese.fujin"><data key="name">Fujin</data><data key="type">DEITY</data></node>
     <node id="deity.japanese.fusuikazuchi"><data key="name">Fusuikazuchi</data><data key="type">DEITY</data></node>
+    <node id="deity.japanese.hoderi"><data key="name">Hoderi</data><data key="type">DEITY</data></node>
     <node id="deity.japanese.honoikazuchi"><data key="name">Honoikazuchi</data><data key="type">DEITY</data></node>
     <node id="deity.japanese.honoikazuchi_otokuni"><data key="name">Honoikazuchi (Otokuni tradition)</data><data key="type">DEITY</data></node>
+    <node id="deity.japanese.hoori"><data key="name">Hoori</data><data key="type">DEITY</data></node>
+    <node id="deity.japanese.ibuki_deity"><data key="name">Deity of Mount Ibuki</data><data key="type">DEITY</data></node>
+    <node id="deity.japanese.iwanaga_hime"><data key="name">Iwanaga-hime</data><data key="type">DEITY</data></node>
     <node id="deity.japanese.izanagi"><data key="name">Izanagi</data><data key="type">DEITY</data></node>
     <node id="deity.japanese.izanami"><data key="name">Izanami</data><data key="type">DEITY</data></node>
     <node id="deity.japanese.kagutsuchi"><data key="name">Kagutsuchi (Deity of Fire)</data><data key="type">DEITY</data></node>
+    <node id="deity.japanese.kamimusubi"><data key="name">Kami-musubi</data><data key="type">DEITY</data></node>
     <node id="deity.japanese.kamo_taketsunumi"><data key="name">Kamo Taketsunumi no Mikoto</data><data key="type">DEITY</data></node>
     <node id="deity.japanese.kamo_wakeikazuchi"><data key="name">Kamo Wakeikazuchi no Okami</data><data key="type">DEITY</data></node>
     <node id="deity.japanese.karaijin"><data key="name">Karaijin</data><data key="type">DEITY</data></node>
+    <node id="deity.japanese.konohana_sakuya_hime"><data key="name">Konohana-sakuya-hime</data><data key="type">DEITY</data></node>
+    <node id="deity.japanese.kotoshironushi"><data key="name">Kotoshironushi</data><data key="type">DEITY</data></node>
     <node id="deity.japanese.kuroikazuchi"><data key="name">Kuroikazuchi</data><data key="type">DEITY</data></node>
     <node id="deity.japanese.kushinadahime"><data key="name">Kushinadahime</data><data key="type">DEITY</data></node>
     <node id="deity.japanese.naruikazuchi"><data key="name">Naruikazuchi</data><data key="type">DEITY</data></node>
+    <node id="deity.japanese.ninigi"><data key="name">Ninigi</data><data key="type">DEITY</data></node>
     <node id="deity.japanese.ogetsuhime"><data key="name">Ōgetsuhime</data><data key="type">DEITY</data></node>
+    <node id="deity.japanese.okuninushi"><data key="name">Ōkuninushi</data><data key="type">DEITY</data></node>
     <node id="deity.japanese.omoikane"><data key="name">Omoikane</data><data key="type">DEITY</data></node>
     <node id="deity.japanese.ooikazuchi"><data key="name">Ooikazuchi</data><data key="type">DEITY</data></node>
+    <node id="deity.japanese.oyamatsumi"><data key="name">Ōyamatsumi</data><data key="type">DEITY</data></node>
     <node id="deity.japanese.raijin"><data key="name">Raijin</data><data key="type">DEITY</data></node>
     <node id="deity.japanese.sakuikazuchi"><data key="name">Sakuikazuchi</data><data key="type">DEITY</data></node>
+    <node id="deity.japanese.sarutahiko"><data key="name">Sarutahiko</data><data key="type">DEITY</data></node>
+    <node id="deity.japanese.sukunabikona"><data key="name">Sukuna-bikona</data><data key="type">DEITY</data></node>
     <node id="deity.japanese.susanoo"><data key="name">Susanoo</data><data key="type">DEITY</data></node>
+    <node id="deity.japanese.suseribime"><data key="name">Suseri-bime</data><data key="type">DEITY</data></node>
+    <node id="deity.japanese.takamimusubi"><data key="name">Takami-musubi</data><data key="type">DEITY</data></node>
     <node id="deity.japanese.takemikazuchi"><data key="name">Takemikazuchi</data><data key="type">DEITY</data></node>
+    <node id="deity.japanese.takeminakata"><data key="name">Takeminakata</data><data key="type">DEITY</data></node>
     <node id="deity.japanese.tamayorihime_kamo"><data key="name">Tamayorihime (Kamo tradition)</data><data key="type">DEITY</data></node>
+    <node id="deity.japanese.toyotama_hime"><data key="name">Toyotama-bime</data><data key="type">DEITY</data></node>
     <node id="deity.japanese.tsuchiikazuchi"><data key="name">Tsuchiikazuchi</data><data key="type">DEITY</data></node>
     <node id="deity.japanese.tsukuyomi"><data key="name">Tsukuyomi</data><data key="type">DEITY</data></node>
     <node id="deity.japanese.wakaikazuchi"><data key="name">Wakaikazuchi</data><data key="type">DEITY</data></node>
+    <node id="deity.japanese.watatsumi"><data key="name">Watatsumi</data><data key="type">DEITY</data></node>
     <node id="deity.maori.papatuanuku"><data key="name">Papatūānuku</data><data key="type">PRIMORDIAL_DEITY</data></node>
     <node id="deity.maori.ranginui"><data key="name">Ranginui</data><data key="type">PRIMORDIAL_DEITY</data></node>
     <node id="deity.maya.chaac"><data key="name">Chaac</data><data key="type">DEITY</data></node>
@@ -384,6 +417,7 @@
     <node id="demon.hindu.rahu"><data key="name">Rāhu</data><data key="type">DEMON</data></node>
     <node id="demon.hindu.ravana"><data key="name">Rāvaṇa</data><data key="type">DEMON</data></node>
     <node id="demon.hindu.shurpanakha"><data key="name">Śūrpaṇakhā</data><data key="type">DEMON</data></node>
+    <node id="demon.persian.white_div"><data key="name">White Demon</data><data key="type">DEMON</data></node>
     <node id="dragon.chinese.ao_bing"><data key="name">Ao Bing, third son of the Dragon King</data><data key="type">DRAGON</data></node>
     <node id="dragon.chinese.black_dragon_jizhou"><data key="name">Black dragon of the Nüwa passage</data><data key="type">DRAGON</data></node>
     <node id="dragon.chinese.jinghe_dragon_king"><data key="name">Dragon King of the Jing River</data><data key="type">DRAGON</data></node>
@@ -458,7 +492,12 @@
     <node id="festival.yoruba.sango_oyo"><data key="name">Sango Festival, Oyo</data><data key="type">FESTIVAL</data></node>
     <node id="group.egyptian.theban_triad"><data key="name">Theban Triad</data><data key="type">CONCEPT</data></node>
     <node id="group.japanese.eight_thunder_kami"><data key="name">Eight Thunder Kami of the Kojiki</data><data key="type">CONCEPT</data></node>
+    <node id="hero.chinese.chi_bi"><data key="name">Chi Bi</data><data key="type">HERO</data></node>
     <node id="hero.chinese.chiyou"><data key="name">Chiyou</data><data key="type">HERO</data></node>
+    <node id="hero.chinese.dong_yong"><data key="name">Dong Yong</data><data key="type">HERO</data></node>
+    <node id="hero.chinese.gan_jiang"><data key="name">Gan Jiang</data><data key="type">HERO</data></node>
+    <node id="hero.chinese.li_ji"><data key="name">Li Ji</data><data key="type">HERO</data></node>
+    <node id="hero.chinese.mo_ye"><data key="name">Mo Ye</data><data key="type">HERO</data></node>
     <node id="hero.chinese.sha_wujing"><data key="name">Sha Wujing</data><data key="type">HERO</data></node>
     <node id="hero.chinese.subodhi_patriarch"><data key="name">Patriarch Subodhi</data><data key="type">HERO</data></node>
     <node id="hero.chinese.sun_wukong"><data key="name">Sun Wukong</data><data key="type">HERO</data></node>
@@ -467,6 +506,17 @@
     <node id="hero.chinese.yellow_emperor"><data key="name">Yellow Emperor</data><data key="type">HERO</data></node>
     <node id="hero.chinese.zhu_bajie"><data key="name">Zhu Bajie</data><data key="type">HERO</data></node>
     <node id="hero.chinese.zhuanxu"><data key="name">Zhuanxu</data><data key="type">HERO</data></node>
+    <node id="hero.chinese.ziyu"><data key="name">Ziyu</data><data key="type">HERO</data></node>
+    <node id="hero.finnish.aino"><data key="name">Aino</data><data key="type">HERO</data></node>
+    <node id="hero.finnish.ilmarinen"><data key="name">Ilmarinen</data><data key="type">HERO</data></node>
+    <node id="hero.finnish.joukahainen"><data key="name">Joukahainen</data><data key="type">HERO</data></node>
+    <node id="hero.finnish.kullervo"><data key="name">Kullervo</data><data key="type">HERO</data></node>
+    <node id="hero.finnish.kyllikki"><data key="name">Kyllikki</data><data key="type">HERO</data></node>
+    <node id="hero.finnish.lemminkainen"><data key="name">Lemminkäinen</data><data key="type">HERO</data></node>
+    <node id="hero.finnish.lemminkainen_mother"><data key="name">Mother of Lemminkäinen</data><data key="type">HERO</data></node>
+    <node id="hero.finnish.louhi"><data key="name">Louhi</data><data key="type">HERO</data></node>
+    <node id="hero.finnish.maiden_of_pohjola"><data key="name">Maiden of Pohjola</data><data key="type">HERO</data></node>
+    <node id="hero.finnish.vainamoinen"><data key="name">Väinämöinen</data><data key="type">HERO</data></node>
     <node id="hero.greek.acrisius"><data key="name">Acrisius</data><data key="type">HERO</data></node>
     <node id="hero.greek.aeetes"><data key="name">Aeetes</data><data key="type">HERO</data></node>
     <node id="hero.greek.alcmena"><data key="name">Alcmena</data><data key="type">HERO</data></node>
@@ -496,24 +546,40 @@
     <node id="hero.greek.polydeuces"><data key="name">Polydeuces</data><data key="type">HERO</data></node>
     <node id="hero.greek.telemachus"><data key="name">Telemachus</data><data key="type">HERO</data></node>
     <node id="hero.greek.triptolemos"><data key="name">Triptolemos</data><data key="type">HERO</data></node>
+    <node id="hero.indian.abhimanyu"><data key="name">Abhimanyu</data><data key="type">HERO</data></node>
     <node id="hero.indian.ahalya"><data key="name">Ahalyā</data><data key="type">HERO</data></node>
     <node id="hero.indian.arjuna"><data key="name">Arjuna</data><data key="type">HERO</data></node>
+    <node id="hero.indian.ashvatthama"><data key="name">Aśvatthāman</data><data key="type">HERO</data></node>
     <node id="hero.indian.bharata"><data key="name">Bharata</data><data key="type">HERO</data></node>
+    <node id="hero.indian.bhima"><data key="name">Bhīma</data><data key="type">HERO</data></node>
+    <node id="hero.indian.bhishma"><data key="name">Bhīṣma</data><data key="type">HERO</data></node>
+    <node id="hero.indian.damayanti"><data key="name">Damayantī</data><data key="type">HERO</data></node>
     <node id="hero.indian.dasharatha"><data key="name">Daśaratha</data><data key="type">HERO</data></node>
+    <node id="hero.indian.draupadi"><data key="name">Draupadī</data><data key="type">HERO</data></node>
+    <node id="hero.indian.drona"><data key="name">Droṇa</data><data key="type">HERO</data></node>
+    <node id="hero.indian.duryodhana"><data key="name">Duryodhana</data><data key="type">HERO</data></node>
     <node id="hero.indian.janaka"><data key="name">Janaka</data><data key="type">HERO</data></node>
     <node id="hero.indian.kaikeyi"><data key="name">Kaikeyī</data><data key="type">HERO</data></node>
+    <node id="hero.indian.karna"><data key="name">Karṇa</data><data key="type">HERO</data></node>
     <node id="hero.indian.lakshmana"><data key="name">Lakṣmaṇa</data><data key="type">HERO</data></node>
+    <node id="hero.indian.nala"><data key="name">Nala</data><data key="type">HERO</data></node>
     <node id="hero.indian.parashurama"><data key="name">Paraśurāma</data><data key="type">HERO</data></node>
+    <node id="hero.indian.satyavan"><data key="name">Satyavān</data><data key="type">HERO</data></node>
+    <node id="hero.indian.savitri"><data key="name">Sāvitrī</data><data key="type">HERO</data></node>
     <node id="hero.indian.sugriva"><data key="name">Sugrīva</data><data key="type">HERO</data></node>
     <node id="hero.indian.valin"><data key="name">Vālin</data><data key="type">HERO</data></node>
     <node id="hero.indian.vibhishana"><data key="name">Vibhīṣaṇa</data><data key="type">HERO</data></node>
     <node id="hero.indian.vishvamitra"><data key="name">Viśvāmitra</data><data key="type">HERO</data></node>
+    <node id="hero.indian.yudhishthira"><data key="name">Yudhiṣṭhira</data><data key="type">HERO</data></node>
     <node id="hero.irish.ailill"><data key="name">Ailill mac Máta</data><data key="type">HERO</data></node>
     <node id="hero.irish.conchobar"><data key="name">Conchobar mac Nessa</data><data key="type">HERO</data></node>
     <node id="hero.irish.cu_chulainn"><data key="name">Cú Chulainn</data><data key="type">HERO</data></node>
     <node id="hero.irish.ferdiad"><data key="name">Fer Diad</data><data key="type">HERO</data></node>
     <node id="hero.irish.fergus_mac_roich"><data key="name">Fergus mac Róich</data><data key="type">HERO</data></node>
     <node id="hero.irish.medb"><data key="name">Medb</data><data key="type">HERO</data></node>
+    <node id="hero.japanese.miyazu_hime"><data key="name">Miyazu-hime</data><data key="type">HERO</data></node>
+    <node id="hero.japanese.oto_tachibana_hime"><data key="name">Oto-tachibana-hime</data><data key="type">HERO</data></node>
+    <node id="hero.japanese.yamato_hime"><data key="name">Yamato-hime</data><data key="type">HERO</data></node>
     <node id="hero.japanese.yamato_takeru"><data key="name">Yamato Takeru</data><data key="type">HERO</data></node>
     <node id="hero.kiche.hunahpu"><data key="name">Hunahpu</data><data key="type">HERO</data></node>
     <node id="hero.kiche.xbalanque"><data key="name">Xbalanque</data><data key="type">HERO</data></node>
@@ -528,6 +594,13 @@
     <node id="hero.norse.sinfjotli"><data key="name">Sinfjötli</data><data key="type">HERO</data></node>
     <node id="hero.norse.thjalfi"><data key="name">Þjálfi</data><data key="type">HERO</data></node>
     <node id="hero.norse.volsung"><data key="name">Völsungr</data><data key="type">HERO</data></node>
+    <node id="hero.persian.gordafarid"><data key="name">Gordāfarid</data><data key="type">HERO</data></node>
+    <node id="hero.persian.rostam"><data key="name">Rostam</data><data key="type">HERO</data></node>
+    <node id="hero.persian.rudabeh"><data key="name">Rūdābeh</data><data key="type">HERO</data></node>
+    <node id="hero.persian.sam"><data key="name">Sām</data><data key="type">HERO</data></node>
+    <node id="hero.persian.sohrab"><data key="name">Sohrāb</data><data key="type">HERO</data></node>
+    <node id="hero.persian.tahmineh"><data key="name">Tahmineh</data><data key="type">HERO</data></node>
+    <node id="hero.persian.zal"><data key="name">Zāl</data><data key="type">HERO</data></node>
     <node id="hero.polynesian.maui"><data key="name">Māui</data><data key="type">HERO</data></node>
     <node id="hero.sumerian.gilgamesh"><data key="name">Gilgameš (Sumerian poems)</data><data key="type">HERO</data></node>
     <node id="hero.welsh.arianrhod"><data key="name">Arianrhod</data><data key="type">HERO</data></node>
@@ -594,25 +667,48 @@
     <node id="museum.tnm.korin_wind_thunder_a11189_1"><data key="name">Wind God and Thunder God Screens by Ogata Kōrin A-11189-1</data><data key="type">MUSEUM_OBJECT</data></node>
     <node id="museum.ugarit.baal_cycle_ao16643"><data key="name">Baal Cycle tablet AO 16643</data><data key="type">MUSEUM_OBJECT</data></node>
     <node id="museum.ugarit.baal_thunder_ao15775"><data key="name">Baal with Thunderbolt stele AO 15775</data><data key="type">MUSEUM_OBJECT</data></node>
+    <node id="person.chinese.han_ping"><data key="name">Han Ping</data><data key="type">PERSON</data></node>
+    <node id="person.chinese.song_dingbo"><data key="name">Song Dingbo</data><data key="type">PERSON</data></node>
+    <node id="person.finnish.kalervo"><data key="name">Kalervo</data><data key="type">PERSON</data></node>
+    <node id="person.finnish.markahattu"><data key="name">Märkähattu</data><data key="type">PERSON</data></node>
+    <node id="person.finnish.untamo"><data key="name">Untamo</data><data key="type">PERSON</data></node>
     <node id="person.greek.antinous"><data key="name">Antinous</data><data key="type">PERSON</data></node>
     <node id="person.greek.eumaeus"><data key="name">Eumaeus</data><data key="type">PERSON</data></node>
     <node id="person.greek.eurycleia"><data key="name">Eurycleia</data><data key="type">PERSON</data></node>
     <node id="person.greek.polydectes"><data key="name">Polydectes</data><data key="type">PERSON</data></node>
+    <node id="person.indian.ashvapati"><data key="name">Aśvapati</data><data key="type">PERSON</data></node>
+    <node id="person.indian.dyumatsena"><data key="name">Dyumatsena</data><data key="type">PERSON</data></node>
+    <node id="person.indian.pushkara"><data key="name">Pushkara</data><data key="type">PERSON</data></node>
+    <node id="person.indian.rituparna"><data key="name">Ṛtuparṇa</data><data key="type">PERSON</data></node>
+    <node id="person.japanese.izumo_takeru"><data key="name">Izumo Takeru</data><data key="type">PERSON</data></node>
+    <node id="person.japanese.keiko"><data key="name">Keikō</data><data key="type">PERSON</data></node>
+    <node id="person.japanese.kumaso_takeru"><data key="name">Kumaso Takeru</data><data key="type">PERSON</data></node>
     <node id="person.norse.ask"><data key="name">Ask</data><data key="type">PERSON</data></node>
     <node id="person.norse.embla"><data key="name">Embla</data><data key="type">PERSON</data></node>
+    <node id="person.persian.afrasiyab"><data key="name">Afrāsiyāb</data><data key="type">PERSON</data></node>
+    <node id="person.persian.kay_kavus"><data key="name">Kay Kāvus</data><data key="type">PERSON</data></node>
+    <node id="person.persian.manuchehr"><data key="name">Manūchehr</data><data key="type">PERSON</data></node>
+    <node id="person.persian.mehrab"><data key="name">Mehrāb</data><data key="type">PERSON</data></node>
+    <node id="person.persian.olad"><data key="name">Olād</data><data key="type">PERSON</data></node>
+    <node id="person.persian.sindokht"><data key="name">Sindokht</data><data key="type">PERSON</data></node>
     <node id="place.chinese.buzhou_mountain"><data key="name">Mount Buzhou</data><data key="type">MYTHICAL_PLACE</data></node>
     <node id="place.chinese.flaming_mountains_xiyouji"><data key="name">Flaming Mountains (Journey to the West)</data><data key="type">MYTHICAL_PLACE</data></node>
     <node id="place.chinese.huaguo_shan"><data key="name">Mountain of Flowers and Fruit</data><data key="type">MYTHICAL_PLACE</data></node>
+    <node id="place.finnish.pohjola"><data key="name">Pohjola</data><data key="type">MYTHICAL_PLACE</data></node>
+    <node id="place.finnish.tuonela"><data key="name">Tuonela</data><data key="type">REALM</data></node>
     <node id="place.greek.ithaca_homeric"><data key="name">Ithaca (Homeric)</data><data key="type">MYTHICAL_PLACE</data></node>
     <node id="place.hindu.lanka"><data key="name">Laṅkā (Rāmāyaṇa)</data><data key="type">MYTHICAL_PLACE</data></node>
     <node id="place.hindu.mandara"><data key="name">Mount Mandara</data><data key="type">MYTHICAL_PLACE</data></node>
+    <node id="place.japanese.ne_no_katasu_kuni"><data key="name">Ne-no-katasu-kuni</data><data key="type">REALM</data></node>
     <node id="place.japanese.onogoro"><data key="name">Onogoro Island</data><data key="type">MYTHICAL_PLACE</data></node>
+    <node id="place.japanese.watatsumi_palace"><data key="name">Palace of Watatsumi</data><data key="type">MYTHICAL_PLACE</data></node>
     <node id="place.japanese.yomi"><data key="name">Yomi (Land of Hades in Chamberlain)</data><data key="type">REALM</data></node>
     <node id="place.mexica.coatepec"><data key="name">Coatepec (Serpent Mountain)</data><data key="type">MYTHICAL_PLACE</data></node>
     <node id="place.norse.folkvangr"><data key="name">Fólkvangr</data><data key="type">MYTHICAL_PLACE</data></node>
     <node id="place.norse.himinbjorg"><data key="name">Himinbjörg</data><data key="type">MYTHICAL_PLACE</data></node>
     <node id="place.norse.mimisbrunnr"><data key="name">Mímisbrunnr</data><data key="type">MYTHICAL_PLACE</data></node>
     <node id="place.norse.noatun"><data key="name">Nóatún</data><data key="type">MYTHICAL_PLACE</data></node>
+    <node id="place.persian.mazandaran"><data key="name">Māzandarān</data><data key="type">MYTHICAL_PLACE</data></node>
     <node id="place.sumerian.dilmun"><data key="name">Dilmun (in Enki and Ninhursaĝa)</data><data key="type">MYTHICAL_PLACE</data></node>
     <node id="place.welsh.annwn"><data key="name">Annwn</data><data key="type">REALM</data></node>
     <node id="place.zoroastrian.airyana_vaejah"><data key="name">Airyana Vaejah</data><data key="type">MYTHICAL_PLACE</data></node>
@@ -772,6 +868,7 @@
     <node id="text.egypt.sun_hymn_standard_c_prime"><data key="name">Sun Hymn: Assmann Standard Hymn C-prime</data><data key="type">TEXT</data></node>
     <node id="text.egypt.temple_tomb_inscriptions"><data key="name">Egyptian temple and tomb inscriptions</data><data key="type">INSCRIPTION</data></node>
     <node id="text.egyptian.tale_heavenly_cow"><data key="name">Tale of the Heavenly Cow</data><data key="type">TEXT</data></node>
+    <node id="text.finnish.kalevala"><data key="name">Kalevala</data><data key="type">TEXT</data></node>
     <node id="text.greek.apollodorus_library"><data key="name">Pseudo-Apollodorus, Library</data><data key="type">TEXT</data></node>
     <node id="text.greek.argonautica"><data key="name">Argonautica</data><data key="type">EPIC</data></node>
     <node id="text.greek.bibliotheca"><data key="name">Bibliotheca</data><data key="type">TEXT</data></node>

@@ -627,3 +627,23 @@
 {"action":"CREATE","item_id":"series.irish.tain","item_kind":"STORY_SERIES","result":"The Cattle Raid of Cooley (series)","session_id":"session.20261024.v0340_heroic_epics"}
 {"action":"CREATE","item_id":"series.welsh.mabinogi","item_kind":"STORY_SERIES","result":"The Four Branches of the Mabinogi (series)","session_id":"session.20261024.v0340_heroic_epics"}
 {"action":"SEAL","item_id":"release.v0.34.0","item_kind":"RELEASE","result":"Formal staged checkpoint: 16 completed series-part targets in 6 series; no target blocked.","session_id":"session.20261024.v0340_heroic_epics"}
+{"action":"CREATE","item_id":"story.japanese.okuninushi","item_kind":"STORY","result":"Kojiki, Part 3: Ōkuninushi, from the hare of Inaba to the yielding of the land","session_id":"session.20261024.v0350_world_epics"}
+{"action":"CREATE","item_id":"story.japanese.ninigi_sea_palace","item_kind":"STORY","result":"Kojiki, Part 4: the descent of the August Grandchild and the palace of the sea","session_id":"session.20261024.v0350_world_epics"}
+{"action":"CREATE","item_id":"story.japanese.yamato_takeru","item_kind":"STORY","result":"Kojiki, Part 5: Yamato Takeru","session_id":"session.20261024.v0350_world_epics"}
+{"action":"CREATE","item_id":"story.finnish.kalevala_sampo_forging","item_kind":"STORY","result":"Kalevala, Part 1: the making of the world and the Sampo","session_id":"session.20261024.v0350_world_epics"}
+{"action":"CREATE","item_id":"story.finnish.kalevala_lemminkainen","item_kind":"STORY","result":"Kalevala, Part 2: Lemminkäinen","session_id":"session.20261024.v0350_world_epics"}
+{"action":"CREATE","item_id":"story.finnish.kalevala_kullervo","item_kind":"STORY","result":"Kalevala, Part 3: Kullervo","session_id":"session.20261024.v0350_world_epics"}
+{"action":"CREATE","item_id":"story.finnish.kalevala_sampo_theft","item_kind":"STORY","result":"Kalevala, Part 4: the theft of the Sampo","session_id":"session.20261024.v0350_world_epics"}
+{"action":"CREATE","item_id":"story.hindu.nala_damayanti","item_kind":"STORY","result":"Mahābhārata, Part 1: Nala and Damayantī","session_id":"session.20261024.v0350_world_epics"}
+{"action":"CREATE","item_id":"story.hindu.savitri_satyavan","item_kind":"STORY","result":"Mahābhārata, Part 2: Sāvitrī","session_id":"session.20261024.v0350_world_epics"}
+{"action":"CREATE","item_id":"story.hindu.kurukshetra_war","item_kind":"STORY","result":"Mahābhārata, Part 3: the field of the Kurus","session_id":"session.20261024.v0350_world_epics"}
+{"action":"CREATE","item_id":"story.persian.zal_rudabeh_rostam","item_kind":"STORY","result":"Shahnameh, Part 1: Zāl and Rūdābeh","session_id":"session.20261024.v0350_world_epics"}
+{"action":"CREATE","item_id":"story.persian.rostam_seven_labours","item_kind":"STORY","result":"Shahnameh, Part 2: the seven stages of Rostam","session_id":"session.20261024.v0350_world_epics"}
+{"action":"CREATE","item_id":"story.persian.rostam_sohrab","item_kind":"STORY","result":"Shahnameh, Part 3: Rostam and Sohrāb","session_id":"session.20261024.v0350_world_epics"}
+{"action":"CREATE","item_id":"story.chinese.soushenji_tales","item_kind":"STORY","result":"Soushen ji: thirteen tales of the strange","session_id":"session.20261024.v0350_world_epics"}
+{"action":"CREATE","item_id":"storyver.japanese.kojiki_sect1_10","item_kind":"STORY_VERSION","result":"Kojiki, Chamberlain translation, Sections I–X (long retelling)","session_id":"session.20261024.v0350_world_epics"}
+{"action":"CREATE","item_id":"series.japanese.kojiki","item_kind":"STORY_SERIES","result":"The Kojiki (series)","session_id":"session.20261024.v0350_world_epics"}
+{"action":"CREATE","item_id":"series.finnish.kalevala","item_kind":"STORY_SERIES","result":"The Kalevala (series)","session_id":"session.20261024.v0350_world_epics"}
+{"action":"CREATE","item_id":"series.hindu.mahabharata_tales","item_kind":"STORY_SERIES","result":"The Mahābhārata (series)","session_id":"session.20261024.v0350_world_epics"}
+{"action":"CREATE","item_id":"series.persian.shahnameh_rostam","item_kind":"STORY_SERIES","result":"The Shahnameh (series)","session_id":"session.20261024.v0350_world_epics"}
+{"action":"SEAL","item_id":"release.v0.35.0","item_kind":"RELEASE","result":"Formal staged checkpoint: 15 completed targets — 14 series parts in 4 series and 1 standalone reading; no target blocked.","session_id":"session.20261024.v0350_world_epics"}

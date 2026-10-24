@@ -28,5 +28,7 @@
   - 来源：[The Kojiki: Records of Ancient Matters (tr. Basil Hall Chamberlain)](https://sacred-texts.com/shi/kojiki.htm)；定位：Sect. XIII, The August Oath (kj020)
 - `claim.v0320.kojiki_iwato_orochi.07` [VERIFIED / TEXT_SAYS / 0.90] Terrified, Amaterasu shuts herself in the Heavenly Rock-Dwelling, so that Heaven and the Central Land of Reed-Plains fall into continual night and calamities arise.
   - 来源：[The Kojiki: Records of Ancient Matters (tr. Basil Hall Chamberlain)](https://sacred-texts.com/shi/kojiki.htm)；定位：Sect. XVI, The Door of the Heavenly Rock-Dwelling (kj023)
+- `claim.v0350.kojiki_ninigi.03` [VERIFIED / TEXT_SAYS / 0.90] Kojiki Section XXXIII says Amaterasu sent five chiefs of companies with Ninigi and gave him the curved jewels, the mirror and the Kusanagi sword, charging him to reverence the mirror as her own spirit.
+  - 来源：[The Kojiki: Records of Ancient Matters (tr. Basil Hall Chamberlain)](https://sacred-texts.com/shi/kojiki.htm)；定位：Sect. XXXIII, The August Descent from Heaven of His Augustness the August Grandchild (kj040)
 
 > 本档案只代表当前阶段性基线，不是对该传统的最终或唯一解释。

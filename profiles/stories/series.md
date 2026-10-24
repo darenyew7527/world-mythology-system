@@ -98,3 +98,52 @@
 2. [马比诺吉昂四支 · 第二支 布兰雯](story.welsh.mabinogi_branwen.md) — Second Branch，12 章，约 11 分钟
 3. [马比诺吉昂四支 · 第三支 马纳维丹](story.welsh.mabinogi_manawydan.md) — Third Branch，12 章，约 11 分钟
 4. [马比诺吉昂四支 · 第四支 马斯](story.welsh.mabinogi_math.md) — Fourth Branch，12 章，约 12 分钟
+
+## 古事记连载 / The Kojiki (series)
+
+按张伯伦英译《古事记》的节次连读五部：伊邪那岐与伊邪那美、天之岩户与八岐大蛇、大国主、天孙降临与海神之宫、倭建命，共六十五章。
+
+> 选录说明：前四部连续覆盖上卷第一至四十三节；第五部跳到中卷景行天皇纪的倭建命故事，跳过的节次在该部写明。中卷其余部分与下卷暂未收录。
+
+1. [伊邪那岐与伊邪那美：造岛、黄泉与禊祓](story.japanese.izanagi_izanami.md) — Sect. I–X，12 章，约 10 分钟
+2. [天之岩户与八岐大蛇：须佐之男的长篇故事](story.japanese.iwato_orochi.md) — Sect. XI–XIX，15 章，约 8 分钟
+3. [古事记 · 第三部 大国主：从稻羽白兔到让国](story.japanese.okuninushi.md) — Sect. XX–XXXII，14 章，约 12 分钟
+4. [古事记 · 第四部 天孙降临与海神之宫](story.japanese.ninigi_sea_palace.md) — Sect. XXXIII–XLIII，12 章，约 11 分钟
+5. [古事记 · 第五部 倭建命](story.japanese.yamato_takeru.md) — Sect. LXXIX–XC，12 章，约 10 分钟
+   - 跳过：与上一部之间跳过第四十四至七十八节：神武天皇东征以及此后诸代天皇的记事，直到景行天皇纪的前三部分。
+
+## 卡勒瓦拉连载 / The Kalevala (series)
+
+按克劳福德英译《卡勒瓦拉》的诗章连读四部：创世与三宝（第一至十章）、勒明凯宁（第十一至十五章）、库勒沃（第三十一至三十六章）、夺取三宝（第三十九至四十三章），共四十八章。
+
+> 选录说明：四部按诗章顺序排列，中间跳过的诗章在各部写明；第四十四至五十章（第二把康特勒琴、洛希的灾祸、偷走日月与玛利亚塔）暂未收录。
+
+1. [卡勒瓦拉 · 第一部 创世与三宝](story.finnish.kalevala_sampo_forging.md) — Runes I–X，12 章，约 11 分钟
+2. [卡勒瓦拉 · 第二部 勒明凯宁](story.finnish.kalevala_lemminkainen.md) — Runes XI–XV，12 章，约 10 分钟
+3. [卡勒瓦拉 · 第三部 库勒沃](story.finnish.kalevala_kullervo.md) — Runes XXXI–XXXVI，12 章，约 10 分钟
+   - 跳过：与上一部之间跳过第十六至三十章：万奈莫宁造船、访问冥界与巨人维普宁，伊尔马里宁赢得波赫约拉的少女与婚礼，勒明凯宁闯宴与逃亡海岛等。
+4. [卡勒瓦拉 · 第四部 夺取三宝](story.finnish.kalevala_sampo_theft.md) — Runes XXXIX–XLIII，12 章，约 10 分钟
+   - 跳过：与上一部之间跳过第三十七至三十八章：伊尔马里宁打造金女，又到波赫约拉求亲未成。
+
+## 摩诃婆罗多连载 / The Mahābhārata (series)
+
+按甘古利英译《摩诃婆罗多》的篇章顺序连读三部：森林篇中的那罗与达摩衍蒂、莎维德丽，以及从斡旋篇到夜袭篇的俱卢之野大战，共三十九章。
+
+> 选录说明：前两部是般度五子流放森林时听到的插话故事，第三部是全书主线的战争；三部之间跳过的篇章在各部写明。《初篇》《大会篇》中的掷骰与其后的各篇暂未收录。
+
+1. [摩诃婆罗多 · 第一部 那罗与达摩衍蒂](story.hindu.nala_damayanti.md) — Vana Parva LII–LXXIX，14 章，约 12 分钟
+2. [摩诃婆罗多 · 第二部 莎维德丽](story.hindu.savitri_satyavan.md) — Vana Parva CCXCI–CCXCVII，13 章，约 11 分钟
+   - 跳过：与上一部之间跳过森林篇第八十至二百九十节：般度五子的朝圣、阿周那从天界归来、《罗摩故事》的缩写等。
+3. [摩诃婆罗多 · 第三部 俱卢之野](story.hindu.kurukshetra_war.md) — Udyoga to Sauptika Parva，12 章，约 10 分钟
+   - 跳过：与上一部之间跳过森林篇的其余部分、毗罗吒篇（隐姓埋名的第十三年）与斡旋篇的大部分；战争各篇只择取主线。
+
+## 列王纪连载 / The Shahnameh (series)
+
+按齐默恩英文散文转述本《列王纪》的顺序连读三部：扎尔与鲁达贝、鲁斯塔姆的七关、鲁斯塔姆与苏赫拉布，共三十六章。
+
+> 选录说明：三部依据齐默恩转述本中相连的几节，不是菲尔多西原诗的完整译本；转述本开头的上古诸王、佐哈克与法里东，以及苏赫拉布之后的故事暂未收录。
+
+1. [列王纪 · 第一部 扎尔与鲁达贝](story.persian.zal_rudabeh_rostam.md) — “Zal” to “Rustem”，12 章，约 10 分钟
+2. [列王纪 · 第二部 鲁斯塔姆的七关](story.persian.rostam_seven_labours.md) — “The March into Mazinderan”; “Kai Kaous Committeth More Follies”，12 章，约 10 分钟
+   - 跳过：本部只讲“凯·卡乌斯的更多愚行”中的飞天宝座一段，略去哈马瓦兰之战与苏达贝的故事。
+3. [列王纪 · 第三部 鲁斯塔姆与苏赫拉布](story.persian.rostam_sohrab.md) — “Rustem and Sohrab”，12 章，约 10 分钟

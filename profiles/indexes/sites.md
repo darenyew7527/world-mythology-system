@@ -56,6 +56,8 @@
 | site.chinese.mogao_cave_249 | 莫高窟第249窟 | Mogao Cave 249 | ARCHAEOLOGICAL_SITE | 中国传统跨时期总类 | REAL_ARCHAEOLOGICAL | Part of Mogao Caves, World Heritage property 440 |
 | site.ethiopia.aksum | 阿克苏姆 | Aksum | ARCHAEOLOGICAL_SITE | 埃塞俄比亚传统 | REAL_ARCHAEOLOGICAL | World Heritage |
 | site.ethiopia.lalibela | 拉利贝拉岩石教堂 | Rock-Hewn Churches of Lalibela | MONUMENT | 埃塞俄比亚传统 | REAL_SACRED | World Heritage |
+| place.finnish.pohjola | 波赫约拉 | Pohjola | MYTHICAL_PLACE | 芬兰 | MYTHICAL | — |
+| place.finnish.tuonela | 图奥内拉（亡者之地） | Tuonela | REALM | 芬兰 | MYTHICAL | — |
 | site.hawaii.halemaumau | 哈雷茂茂火山口 | Halemaʻumaʻu crater, Kīlauea | PLACE | 夏威夷 | REAL_SACRED | — |
 | site.india.elephanta | 象岛石窟 | Elephanta Caves | TEMPLE | 印度教传统 | REAL_ARCHAEOLOGICAL | World Heritage |
 | site.india.ellora | 埃洛拉石窟 | Ellora Caves | TEMPLE | 印度教传统 | REAL_ARCHAEOLOGICAL | World Heritage |
@@ -70,7 +72,9 @@
 | site.japanese.atsuta_jingu | 热田神宫 | Atsuta Jingu | TEMPLE | 日本神道 | REAL_SACRED | — |
 | site.japan.kamigamo_jinja | 贺茂别雷神社（上贺茂神社） | Kamo Wakeikazuchi Jinja (Kamigamo Jinja) | ARCHAEOLOGICAL_SITE | 日本神道 | REAL_SACRED | WORLD_HERITAGE_COMPONENT_688_001 |
 | site.japan.shrines_scope | 日本主要神社研究入口 | Major Japanese shrines research scope | TEMPLE | 日本神道 | REAL_SACRED | — |
+| place.japanese.ne_no_katasu_kuni | 根之坚洲国 | Ne-no-katasu-kuni | REALM | 日本神道 | MYTHICAL | — |
 | place.japanese.onogoro | 淤能碁吕岛 | Onogoro Island | MYTHICAL_PLACE | 日本神道 | MYTHICAL | — |
+| place.japanese.watatsumi_palace | 绵津见神宫 | Palace of Watatsumi | MYTHICAL_PLACE | 日本神道 | MYTHICAL | — |
 | place.japanese.yomi | 黄泉国 | Yomi (Land of Hades in Chamberlain) | REALM | 日本神道 | MYTHICAL | — |
 | site.cambodia.angkor | 吴哥 | Angkor | ARCHAEOLOGICAL_SITE | 柬埔寨传统 | REAL_ARCHAEOLOGICAL | World Heritage property 668 |
 | site.khmer.angkor_wat | 吴哥寺 | Angkor Wat | ARCHAEOLOGICAL_SITE | 柬埔寨传统 | REAL_ARCHAEOLOGICAL | Part of Angkor World Heritage property 668 |
@@ -97,6 +101,7 @@
 | site.sweden.uppsala | 老乌普萨拉 | Old Uppsala | ARCHAEOLOGICAL_SITE | 北欧 | REAL_ARCHAEOLOGICAL | — |
 | realm.norse.valhalla | 瓦尔哈拉 | Valhalla | REALM | 北欧 | MYTHICAL | — |
 | site.iran.susa_darius_gate | 苏萨大流士门 | Darius Gate at Susa | ARCHAEOLOGICAL_SITE | 波斯 | REAL_ARCHAEOLOGICAL | — |
+| place.persian.mazandaran | 马赞德兰 | Māzandarān | MYTHICAL_PLACE | 波斯 | MYTHICAL | — |
 | site.iran.susa | 苏萨考古遗址 | Susa Archaeological Site | ARCHAEOLOGICAL_SITE | 波斯 | REAL_ARCHAEOLOGICAL | UNESCO 1455, inscribed 2015 under criteria (i)(ii)(iii)(iv); components 1455-001 and 1455-002 |
 | site.chile.rapa_nui | 拉帕努伊／复活节岛 | Rapa Nui | MONUMENT | 波利尼西亚 | REAL_ARCHAEOLOGICAL | World Heritage |
 | site.polynesia.taputapuatea | 塔普塔普阿泰阿 | Taputapuātea | ARCHAEOLOGICAL_SITE | 波利尼西亚 | REAL_SACRED | World Heritage 1529 |

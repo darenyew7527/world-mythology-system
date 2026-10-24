@@ -24,5 +24,7 @@ Kami whose possessed dance before the Heavenly Rock-Dwelling makes the eight hun
 
 - `claim.v0320.kojiki_iwato_orochi.10` [VERIFIED / TEXT_SAYS / 0.90] Ame-no-Uzume stamps on an upturned tub before the Rock-Dwelling, becomes divinely possessed and bares herself, so that the Plain of High Heaven shakes with the laughter of the deities.
   - 来源：[The Kojiki: Records of Ancient Matters (tr. Basil Hall Chamberlain)](https://sacred-texts.com/shi/kojiki.htm)；定位：Sect. XVI, The Door of the Heavenly Rock-Dwelling (kj023)
+- `claim.v0350.kojiki_ninigi.05` [VERIFIED / TEXT_SAYS / 0.90] Kojiki Sections XXXV–XXXVI say Ame-no-Uzume escorted Sarutahiko home and took his name for the Duchesses of Saru, that Sarutahiko drowned when a shell caught his hand at Azaka, and that she slit the mouth of the sea-slug that would not answer.
+  - 来源：[The Kojiki: Records of Ancient Matters (tr. Basil Hall Chamberlain)](https://sacred-texts.com/shi/kojiki.htm)；定位：Sect. XXXV–XXXVI, The Duchess of Saru; The Deity Prince of Saruta at Azaka (kj042–kj043)
 
 > 本档案只代表当前阶段性基线，不是对该传统的最终或唯一解释。

@@ -5,6 +5,8 @@ lang.egy,Egyptian,古埃及语,egy,Hieroglyphic/Hieratic/Demotic,,
 lang.el,Modern Greek,现代希腊语,ell,Greek,Modern,Added for current Greek Ministry and archaeological-project pages; distinct from Ancient Greek lang.grc.
 lang.elx,Elamite,埃兰语,elx,Elamite cuneiform,Achaemenid administrative/royal inscription stage,Language of one DSab version; not merged with Akkadian.
 lang.en,English,英语,eng,Latin,,
+lang.fas,Persian,波斯语,fas,Perso-Arabic,New Persian (Early),"Language of Ferdowsi's Shahnameh (completed c. 1010 CE), written in New Persian in the Perso-Arabic script."
+lang.fin,Finnish,芬兰语,fin,Latin,Modern Finnish (19th-century literary),"Language of Lönnrot's Kalevala (1835; expanded edition 1849), compiled from Finnish and Karelian oral poetry."
 lang.fra,French,法语,fra,Latin,Modern,Added for French archaeological and epigraphic scholarship; not an ancient inscription language.
 lang.gle,Irish,爱尔兰语,gle,Latin/Ogham,,
 lang.grc,Ancient Greek,古希腊语,grc,Greek,,

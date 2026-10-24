@@ -4,41 +4,41 @@
 
 | Type | Registered | Unverified | Without outgoing claim |
 |---|---:|---:|---:|
-| `TEXT` | 92 | 35 | 52 |
+| `TEXT` | 93 | 35 | 52 |
 | `ARCHAEOLOGICAL_SITE` | 57 | 40 | 44 |
 | `CONCEPT` | 52 | 30 | 36 |
 | `EVENT` | 54 | 3 | 31 |
-| `DEITY` | 204 | 55 | 22 |
+| `DEITY` | 228 | 55 | 27 |
 | `ELEMENT` | 32 | 17 | 22 |
 | `WEAPON` | 28 | 20 | 20 |
+| `HERO` | 124 | 6 | 16 |
+| `MYTHICAL_PLACE` | 17 | 0 | 15 |
 | `SCRIPTURE` | 17 | 12 | 14 |
 | `EPIC` | 15 | 13 | 13 |
-| `HERO` | 85 | 6 | 12 |
-| `MYTHICAL_PLACE` | 14 | 0 | 12 |
 | `TEMPLE` | 17 | 10 | 12 |
+| `MONSTER` | 19 | 0 | 10 |
 | `INSTITUTION` | 9 | 2 | 9 |
-| `MONSTER` | 18 | 0 | 9 |
 | `INSCRIPTION` | 18 | 8 | 8 |
 | `ORAL_TRADITION` | 10 | 9 | 8 |
+| `SACRED_OBJECT` | 11 | 0 | 8 |
+| `ARTIFACT` | 9 | 5 | 7 |
 | `MANUSCRIPT` | 9 | 7 | 7 |
 | `PLACE` | 8 | 6 | 7 |
 | `POWER` | 7 | 6 | 7 |
-| `SACRED_OBJECT` | 10 | 0 | 7 |
-| `ARTIFACT` | 7 | 5 | 6 |
-| `DIVINE_BEAST` | 10 | 0 | 5 |
+| `DIVINE_BEAST` | 14 | 0 | 6 |
+| `REALM` | 8 | 3 | 6 |
 | `MONUMENT` | 7 | 5 | 5 |
-| `REALM` | 6 | 3 | 5 |
+| `PERSON` | 24 | 0 | 5 |
 | `DRAGON` | 6 | 1 | 3 |
 | `GIANT` | 11 | 2 | 3 |
 | `HISTORICAL_FIGURE` | 6 | 0 | 3 |
 | `MODERN_WORK` | 4 | 0 | 2 |
-| `PERSON` | 6 | 0 | 2 |
 | `PYRAMID` | 2 | 2 | 2 |
 | `RING` | 2 | 1 | 2 |
 | `ANCESTOR_DEITY` | 1 | 0 | 1 |
 | `ARMOR` | 1 | 1 | 1 |
 | `COSMOLOGY` | 1 | 1 | 1 |
-| `DEMON` | 12 | 0 | 1 |
+| `DEMON` | 13 | 0 | 1 |
 | `DWARF` | 5 | 0 | 1 |
 | `PAPYRUS` | 1 | 0 | 1 |
 | `SCEPTER` | 1 | 1 | 1 |
@@ -51,6 +51,7 @@
 | `MUSEUM_OBJECT` | 27 | 0 | 0 |
 | `PRIMORDIAL_DEITY` | 12 | 2 | 0 |
 | `RITUAL` | 2 | 0 | 0 |
+| `SPIRIT` | 1 | 0 | 0 |
 
 ## 尚未固定来源的 claims
 

@@ -91,6 +91,7 @@
 | text.chinese.local_gazetteers | 地方志总集入口 | Chinese local gazetteers | TEXT | 中国地方神系 | Multiple periods | UNVERIFIED |
 | text.chinese.hanshu.wuxing_omen_passage | 《汉书·五行志》灾异框架见证 | Han Shu Wuxing omen framework witness | TEXT | 中国传统跨时期总类 | Han Shu compilation | SOURCE_BACKED |
 | text.chinese.hongfan.wuxing_passage | 《洪范》五行段落见证 | Hong Fan Wuxing passage witness | TEXT | 中国传统跨时期总类 | Textual layers and received dating debated | SOURCE_BACKED |
+| text.finnish.kalevala | 卡勒瓦拉 | Kalevala | TEXT | 芬兰 | Compiled 1835; expanded edition 1849 | SOURCE_BACKED |
 | text.hawaiian.kumulipo | 库穆利波创世吟唱 | Kumulipo | ORAL_TRADITION | 夏威夷 | Living/historical Hawaiian genealogy chant | UNVERIFIED |
 | text.indian.bhagavad_gita | 薄伽梵歌 | Bhagavad Gītā | SCRIPTURE | 印度教传统 | Part of Mahābhārata | UNVERIFIED |
 | text.hindu.bhagavata_purana | 薄伽梵往世书 | Bhāgavata Purāṇa | SCRIPTURE | 印度教传统 | Scholarly dating varies; commonly placed in the late first millennium CE | SOURCE_BACKED |

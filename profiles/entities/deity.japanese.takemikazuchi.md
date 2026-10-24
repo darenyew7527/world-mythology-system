@@ -25,6 +25,8 @@
 
 ## Claims 与证据
 
+- `claim.v0350.kojiki_okuninushi.14` [VERIFIED / TEXT_SAYS / 0.90] Kojiki Section XXXII says Takemikazuchi, seated on an upturned sword on a wave at Inasa, demanded the land; Kotoshironushi agreed, Takeminakata was overpowered and fled to Suwa, and Ōkuninushi yielded the land on condition that a great palace be built for him.
+  - 来源：[The Kojiki: Records of Ancient Matters (tr. Basil Hall Chamberlain)](https://sacred-texts.com/shi/kojiki.htm)；定位：Sect. XXXII, Abdication of the Deity Master-of-the-Great-Land (kj039)
 - `claim.v060.japanese.takemikazuchi_appears_kojiki` [VERIFIED / TEXT_SAYS / 0.97] Kojiki traditions place Takemikazuchi in divine-generation, land-transfer and imperial-expedition narrative layers.
   - 来源：[Takemikazuchi](https://d-museum.kokugakuin.ac.jp/eos/detail/id%3D9145)；定位：Upper and Middle Scroll locations indexed by Kokugakuin
 - `claim.v060.japanese.takemikazuchi_thunder_scope` [PROVISIONAL / SCHOLARLY_INTERPRETATION / 0.72] Takemikazuchi’s name and reception support a secondary thunder association, while the registered classical actions are primarily martial and emissarial.

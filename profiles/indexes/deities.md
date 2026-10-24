@@ -97,6 +97,7 @@
 | deity.babylonian.tiamat | 提亚马特 | Tiamat | PRIMORDIAL_DEITY | 巴比伦 | PARTIAL | SOURCE_BACKED |
 | deity.chinese.taishang_laojun | 太上老君 | Taishang Laojun | DEITY | 中国道教 | PARTIAL | SOURCE_BACKED |
 | deity.chinese.ao_guang | 东海龙王敖广 | Ao Guang, Dragon King of the Eastern Sea | DEITY | 中国民间信仰 | PARTIAL | SOURCE_BACKED |
+| deity.chinese.change | 嫦娥（姮娥） | Chang'e | DEITY | 中国民间信仰 | PARTIAL | SOURCE_BACKED |
 | deity.chinese.erlang_shen | 二郎神 | Erlang Shen | DEITY | 中国民间信仰 | PARTIAL | SOURCE_BACKED |
 | deity.chinese.guanyin_xiyouji | 观音菩萨（《西游记》） | Guanyin (Journey to the West) | DEITY | 中国民间信仰 | PARTIAL | SOURCE_BACKED |
 | deity.chinese.jade_emperor | 玉皇大帝 | Jade Emperor | DEITY | 中国民间信仰 | PARTIAL | SOURCE_BACKED |
@@ -104,6 +105,9 @@
 | deity.chinese.li_jing | 托塔天王李靖 | Li Jing, the Pagoda-Bearing Heavenly King | DEITY | 中国民间信仰 | PARTIAL | SOURCE_BACKED |
 | deity.chinese.nezha | 哪吒 | Nezha | DEITY | 中国民间信仰 | PARTIAL | UNVERIFIED |
 | deity.chinese.rulai_xiyouji | 如来佛祖（《西游记》） | Tathāgata Buddha (Journey to the West) | DEITY | 中国民间信仰 | PARTIAL | SOURCE_BACKED |
+| deity.chinese.zhinu | 织女 | Weaving Maiden | DEITY | 中国民间信仰 | PARTIAL | SOURCE_BACKED |
+| deity.finnish.ilmatar | 伊尔玛塔尔（大气之女） | Ilmatar | DEITY | 芬兰 | PARTIAL | SOURCE_BACKED |
+| deity.finnish.ukko | 乌戈 | Ukko | DEITY | 芬兰 | PARTIAL | SOURCE_BACKED |
 | deity.hawaiian.pele | 佩蕾 | Pele | DEITY | 夏威夷 | PARTIAL | UNVERIFIED |
 | deity.hindu.agni | 阿耆尼（火神） | Agni | DEITY | 印度教传统 | PARTIAL | SOURCE_BACKED |
 | deity.hindu.brahma | 梵天 | Brahma | DEITY | 印度教传统 | PARTIAL | UNVERIFIED |
@@ -111,11 +115,13 @@
 | deity.hindu.ganga | 恒河女神 | Gaṅgā | DEITY | 印度教传统 | PARTIAL | SOURCE_BACKED |
 | deity.hindu.hanuman | 哈奴曼 | Hanumān | DEITY | 印度教传统 | PARTIAL | SOURCE_BACKED |
 | deity.hindu.kurma | 俱利摩（龟形化身） | Kūrma | DEITY | 印度教传统 | PARTIAL | SOURCE_BACKED |
+| deity.hindu.krishna | 黑天 | Kṛṣṇa | DEITY | 印度教传统 | PARTIAL | SOURCE_BACKED |
 | deity.hindu.mohini | 摩希尼 | Mohinī | DEITY | 印度教传统 | PARTIAL | SOURCE_BACKED |
 | deity.hindu.rama | 罗摩 | Rāma | DEITY | 印度教传统 | PARTIAL | SOURCE_BACKED |
 | deity.hindu.shiva | 湿婆 | Shiva | DEITY | 印度教传统 | PARTIAL | SOURCE_BACKED |
 | deity.hindu.sita | 悉多 | Sītā | DEITY | 印度教传统 | PARTIAL | SOURCE_BACKED |
 | deity.hindu.vishnu | 毗湿奴 | Vishnu | DEITY | 印度教传统 | PARTIAL | SOURCE_BACKED |
+| deity.hindu.yama | 阎摩 | Yama | DEITY | 印度教传统 | PARTIAL | SOURCE_BACKED |
 | deity.yoruba.orunmila | 奥伦米拉 | Orunmila | DEITY | Ifá | PARTIAL | UNVERIFIED |
 | deity.irish.bridig | 布里吉德 | Brigid | DEITY | 爱尔兰 | PARTIAL | UNVERIFIED |
 | deity.irish.lugh | 鲁格 | Lugh | DEITY | 爱尔兰 | PARTIAL | UNVERIFIED |
@@ -124,30 +130,48 @@
 | deity.japanese.amaterasu | 天照大神 | Amaterasu | DEITY | 日本神道 | PARTIAL | SOURCE_BACKED |
 | deity.japanese.ame_no_tajikarao | 天手力男神 | Ame-no-Tajikarao | DEITY | 日本神道 | PARTIAL | SOURCE_BACKED |
 | deity.japanese.ame_no_uzume | 天宇受卖命 | Ame-no-Uzume | DEITY | 日本神道 | PARTIAL | SOURCE_BACKED |
+| deity.japanese.ame_no_wakahiko | 天若日子 | Ame-no-Wakahiko | DEITY | 日本神道 | PARTIAL | SOURCE_BACKED |
+| deity.japanese.ibuki_deity | 伊服岐能山之神 | Deity of Mount Ibuki | DEITY | 日本神道 | PARTIAL | SOURCE_BACKED |
 | deity.japanese.fujin | 风神 | Fujin | DEITY | 日本神道 | PARTIAL | PARTIAL |
 | deity.japanese.fusuikazuchi | 伏雷 | Fusuikazuchi | DEITY | 日本神道 | PARTIAL | SOURCE_BACKED |
+| deity.japanese.hoderi | 火照命 | Hoderi | DEITY | 日本神道 | PARTIAL | SOURCE_BACKED |
 | deity.japanese.honoikazuchi | 火雷 | Honoikazuchi | DEITY | 日本神道 | PARTIAL | SOURCE_BACKED |
 | deity.japanese.honoikazuchi_otokuni | 火雷神（乙训传统） | Honoikazuchi (Otokuni tradition) | DEITY | 日本神道 | PARTIAL | SOURCE_BACKED |
+| deity.japanese.hoori | 火远理命 | Hoori | DEITY | 日本神道 | PARTIAL | SOURCE_BACKED |
+| deity.japanese.iwanaga_hime | 石长比卖 | Iwanaga-hime | DEITY | 日本神道 | PARTIAL | SOURCE_BACKED |
 | deity.japanese.izanagi | 伊邪那岐 | Izanagi | DEITY | 日本神道 | PARTIAL | UNVERIFIED |
 | deity.japanese.izanami | 伊邪那美 | Izanami | DEITY | 日本神道 | PARTIAL | UNVERIFIED |
 | deity.japanese.kagutsuchi | 火之迦具土神 | Kagutsuchi (Deity of Fire) | DEITY | 日本神道 | PARTIAL | SOURCE_BACKED |
+| deity.japanese.kamimusubi | 神产巢日神 | Kami-musubi | DEITY | 日本神道 | PARTIAL | SOURCE_BACKED |
 | deity.japanese.kamo_taketsunumi | 贺茂建角身命 | Kamo Taketsunumi no Mikoto | DEITY | 日本神道 | PARTIAL | SOURCE_BACKED |
 | deity.japanese.kamo_wakeikazuchi | 贺茂别雷大神 | Kamo Wakeikazuchi no Okami | DEITY | 日本神道 | PARTIAL | SOURCE_BACKED |
 | deity.japanese.karaijin | 加雷神／地方雷神 | Karaijin | DEITY | 日本神道 | PARTIAL | SOURCE_BACKED |
+| deity.japanese.konohana_sakuya_hime | 木花之佐久夜毘卖 | Konohana-sakuya-hime | DEITY | 日本神道 | PARTIAL | SOURCE_BACKED |
+| deity.japanese.kotoshironushi | 事代主神 | Kotoshironushi | DEITY | 日本神道 | PARTIAL | SOURCE_BACKED |
 | deity.japanese.kuroikazuchi | 黑雷 | Kuroikazuchi | DEITY | 日本神道 | PARTIAL | SOURCE_BACKED |
 | deity.japanese.kushinadahime | 栉名田比卖 | Kushinadahime | DEITY | 日本神道 | PARTIAL | SOURCE_BACKED |
 | deity.japanese.naruikazuchi | 鸣雷 | Naruikazuchi | DEITY | 日本神道 | PARTIAL | SOURCE_BACKED |
+| deity.japanese.ninigi | 迩迩艺命 | Ninigi | DEITY | 日本神道 | PARTIAL | SOURCE_BACKED |
 | deity.japanese.omoikane | 思金神 | Omoikane | DEITY | 日本神道 | PARTIAL | SOURCE_BACKED |
 | deity.japanese.ooikazuchi | 大雷 | Ooikazuchi | DEITY | 日本神道 | PARTIAL | SOURCE_BACKED |
 | deity.japanese.raijin | 雷神 | Raijin | DEITY | 日本神道 | CONFLICT | PARTIAL |
 | deity.japanese.sakuikazuchi | 析雷 | Sakuikazuchi | DEITY | 日本神道 | PARTIAL | SOURCE_BACKED |
+| deity.japanese.sarutahiko | 猿田毘古神 | Sarutahiko | DEITY | 日本神道 | PARTIAL | SOURCE_BACKED |
+| deity.japanese.sukunabikona | 少名毘古那神 | Sukuna-bikona | DEITY | 日本神道 | PARTIAL | SOURCE_BACKED |
 | deity.japanese.susanoo | 须佐之男 | Susanoo | DEITY | 日本神道 | PARTIAL | SOURCE_BACKED |
+| deity.japanese.suseribime | 须势理毘卖 | Suseri-bime | DEITY | 日本神道 | PARTIAL | SOURCE_BACKED |
+| deity.japanese.takamimusubi | 高御产巢日神 | Takami-musubi | DEITY | 日本神道 | PARTIAL | SOURCE_BACKED |
 | deity.japanese.takemikazuchi | 建御雷 | Takemikazuchi | DEITY | 日本神道 | CONFLICT | CONFLICTING |
+| deity.japanese.takeminakata | 建御名方神 | Takeminakata | DEITY | 日本神道 | PARTIAL | SOURCE_BACKED |
 | deity.japanese.tamayorihime_kamo | 玉依姬（贺茂传统） | Tamayorihime (Kamo tradition) | DEITY | 日本神道 | PARTIAL | SOURCE_BACKED |
+| deity.japanese.toyotama_hime | 丰玉毘卖 | Toyotama-bime | DEITY | 日本神道 | PARTIAL | SOURCE_BACKED |
 | deity.japanese.tsuchiikazuchi | 土雷 | Tsuchiikazuchi | DEITY | 日本神道 | PARTIAL | SOURCE_BACKED |
 | deity.japanese.tsukuyomi | 月读 | Tsukuyomi | DEITY | 日本神道 | PARTIAL | UNVERIFIED |
 | deity.japanese.wakaikazuchi | 若雷 | Wakaikazuchi | DEITY | 日本神道 | PARTIAL | SOURCE_BACKED |
+| deity.japanese.watatsumi | 绵津见神 | Watatsumi | DEITY | 日本神道 | PARTIAL | SOURCE_BACKED |
 | deity.japanese.ogetsuhime | 大宜都比卖 | Ōgetsuhime | DEITY | 日本神道 | PARTIAL | SOURCE_BACKED |
+| deity.japanese.okuninushi | 大国主神 | Ōkuninushi | DEITY | 日本神道 | PARTIAL | SOURCE_BACKED |
+| deity.japanese.oyamatsumi | 大山津见神 | Ōyamatsumi | DEITY | 日本神道 | PARTIAL | SOURCE_BACKED |
 | deity.maya.chaac | 恰克 | Chaac | DEITY | 玛雅 | PARTIAL | UNVERIFIED |
 | deity.maya.itzamna | 伊察姆纳 | Itzamna | DEITY | 玛雅 | PARTIAL | UNVERIFIED |
 | deity.maya.kukulkan | 库库尔坎 | Kukulkan | DEITY | 玛雅 | PARTIAL | UNVERIFIED |

@@ -35,7 +35,7 @@
 | [拉的眼睛化作塞赫麦特：天牛之书](story.egyptian.heavenly_cow.md) | The Eye of Ra becomes Sekhmet — Tale of the Heavenly Cow | 古埃及 | MYTHIC_NARRATIVE | 1 | SOURCE_BACKED | 4 |
 | [称量心脏：阿尼纸草中的阿努比斯与托特](story.egyptian.weighing_heart_ani.md) | Weighing the heart — Anubis and Thoth in the Papyrus of Ani | 古埃及 | RITUAL_ORIGIN | 1 | SOURCE_BACKED | 4 |
 | [两位哀悼的女神：伊西斯与奈芙蒂斯](story.egyptian.mourning_sisters.md) | Two mourning goddesses — Isis and Nephthys | 古埃及 | RITUAL_ORIGIN | 1 | SOURCE_BACKED | 3 |
-| [伊邪那岐与伊邪那美：造岛、黄泉与禊祓](story.japanese.izanagi_izanami.md) | Izanagi and Izanami — making the land, Yomi and purification | 日本神道 | CREATION_ACCOUNT | 1 | SOURCE_BACKED | 7 |
+| [伊邪那岐与伊邪那美：造岛、黄泉与禊祓](story.japanese.izanagi_izanami.md) | Izanagi and Izanami — making the land, Yomi and purification | 日本神道 | CREATION_ACCOUNT | 2 | SOURCE_BACKED | 10 |
 | [华纳神族：尼奥尔德、弗雷与芙蕾雅](story.norse.vanir_family.md) | Njörðr, Freyr and Freyja — the Vanir family | 北欧 | MYTHIC_NARRATIVE | 1 | SOURCE_BACKED | 5 |
 | [提尔的手：束缚芬里尔](story.norse.tyr_fenrir.md) | Týr's hand and the binding of Fenrir | 北欧 | MYTHIC_NARRATIVE | 1 | SOURCE_BACKED | 4 |
 | [海姆达尔：众神的守望者](story.norse.heimdall_watchman.md) | Heimdallr, watchman of the gods | 北欧 | MYTHIC_NARRATIVE | 1 | SOURCE_BACKED | 4 |
@@ -93,6 +93,20 @@
 | [马比诺吉昂四支 · 第二支 布兰雯](story.welsh.mabinogi_branwen.md) | The Four Branches of the Mabinogi, Part 2: Branwen | 威尔士 | MYTHIC_NARRATIVE | 1 | SOURCE_BACKED | 11 |
 | [马比诺吉昂四支 · 第三支 马纳维丹](story.welsh.mabinogi_manawydan.md) | The Four Branches of the Mabinogi, Part 3: Manawydan | 威尔士 | MYTHIC_NARRATIVE | 1 | SOURCE_BACKED | 11 |
 | [马比诺吉昂四支 · 第四支 马斯](story.welsh.mabinogi_math.md) | The Four Branches of the Mabinogi, Part 4: Math | 威尔士 | MYTHIC_NARRATIVE | 1 | SOURCE_BACKED | 12 |
+| [古事记 · 第三部 大国主：从稻羽白兔到让国](story.japanese.okuninushi.md) | Kojiki, Part 3: Ōkuninushi, from the hare of Inaba to the yielding of the land | 日本神道 | MYTHIC_NARRATIVE | 1 | SOURCE_BACKED | 12 |
+| [古事记 · 第四部 天孙降临与海神之宫](story.japanese.ninigi_sea_palace.md) | Kojiki, Part 4: the descent of the August Grandchild and the palace of the sea | 日本神道 | MYTHIC_NARRATIVE | 1 | SOURCE_BACKED | 11 |
+| [古事记 · 第五部 倭建命](story.japanese.yamato_takeru.md) | Kojiki, Part 5: Yamato Takeru | 日本神道 | MYTHIC_NARRATIVE | 1 | SOURCE_BACKED | 10 |
+| [卡勒瓦拉 · 第一部 创世与三宝](story.finnish.kalevala_sampo_forging.md) | Kalevala, Part 1: the making of the world and the Sampo | 芬兰 | MYTHIC_NARRATIVE | 1 | SOURCE_BACKED | 11 |
+| [卡勒瓦拉 · 第二部 勒明凯宁](story.finnish.kalevala_lemminkainen.md) | Kalevala, Part 2: Lemminkäinen | 芬兰 | MYTHIC_NARRATIVE | 1 | SOURCE_BACKED | 10 |
+| [卡勒瓦拉 · 第三部 库勒沃](story.finnish.kalevala_kullervo.md) | Kalevala, Part 3: Kullervo | 芬兰 | MYTHIC_NARRATIVE | 1 | SOURCE_BACKED | 10 |
+| [卡勒瓦拉 · 第四部 夺取三宝](story.finnish.kalevala_sampo_theft.md) | Kalevala, Part 4: the theft of the Sampo | 芬兰 | MYTHIC_NARRATIVE | 1 | SOURCE_BACKED | 10 |
+| [摩诃婆罗多 · 第一部 那罗与达摩衍蒂](story.hindu.nala_damayanti.md) | Mahābhārata, Part 1: Nala and Damayantī | 印度教传统 | MYTHIC_NARRATIVE | 1 | SOURCE_BACKED | 12 |
+| [摩诃婆罗多 · 第二部 莎维德丽](story.hindu.savitri_satyavan.md) | Mahābhārata, Part 2: Sāvitrī | 印度教传统 | MYTHIC_NARRATIVE | 1 | SOURCE_BACKED | 11 |
+| [摩诃婆罗多 · 第三部 俱卢之野](story.hindu.kurukshetra_war.md) | Mahābhārata, Part 3: the field of the Kurus | 印度教传统 | MYTHIC_NARRATIVE | 1 | SOURCE_BACKED | 10 |
+| [列王纪 · 第一部 扎尔与鲁达贝](story.persian.zal_rudabeh_rostam.md) | Shahnameh, Part 1: Zāl and Rūdābeh | 波斯 | MYTHIC_NARRATIVE | 1 | SOURCE_BACKED | 10 |
+| [列王纪 · 第二部 鲁斯塔姆的七关](story.persian.rostam_seven_labours.md) | Shahnameh, Part 2: the seven stages of Rostam | 波斯 | MYTHIC_NARRATIVE | 1 | SOURCE_BACKED | 10 |
+| [列王纪 · 第三部 鲁斯塔姆与苏赫拉布](story.persian.rostam_sohrab.md) | Shahnameh, Part 3: Rostam and Sohrāb | 波斯 | MYTHIC_NARRATIVE | 1 | SOURCE_BACKED | 10 |
+| [搜神记选读：十三个志怪故事](story.chinese.soushenji_tales.md) | Soushen ji: thirteen tales of the strange | 中国民间信仰 | MYTHIC_NARRATIVE | 1 | SOURCE_BACKED | 14 |
 
 另见：[神祇故事集 — 全部神祇的故事，打开即可阅读](deities/index.md)
 

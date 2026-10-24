@@ -628,3 +628,23 @@ session.20261024.v0340_heroic_epics,STORY_SERIES,series.norse.volsunga,CREATE,Th
 session.20261024.v0340_heroic_epics,STORY_SERIES,series.irish.tain,CREATE,The Cattle Raid of Cooley (series)
 session.20261024.v0340_heroic_epics,STORY_SERIES,series.welsh.mabinogi,CREATE,The Four Branches of the Mabinogi (series)
 session.20261024.v0340_heroic_epics,RELEASE,release.v0.34.0,SEAL,Formal staged checkpoint: 16 completed series-part targets in 6 series; no target blocked.
+session.20261024.v0350_world_epics,STORY,story.japanese.okuninushi,CREATE,"Kojiki, Part 3: Ōkuninushi, from the hare of Inaba to the yielding of the land"
+session.20261024.v0350_world_epics,STORY,story.japanese.ninigi_sea_palace,CREATE,"Kojiki, Part 4: the descent of the August Grandchild and the palace of the sea"
+session.20261024.v0350_world_epics,STORY,story.japanese.yamato_takeru,CREATE,"Kojiki, Part 5: Yamato Takeru"
+session.20261024.v0350_world_epics,STORY,story.finnish.kalevala_sampo_forging,CREATE,"Kalevala, Part 1: the making of the world and the Sampo"
+session.20261024.v0350_world_epics,STORY,story.finnish.kalevala_lemminkainen,CREATE,"Kalevala, Part 2: Lemminkäinen"
+session.20261024.v0350_world_epics,STORY,story.finnish.kalevala_kullervo,CREATE,"Kalevala, Part 3: Kullervo"
+session.20261024.v0350_world_epics,STORY,story.finnish.kalevala_sampo_theft,CREATE,"Kalevala, Part 4: the theft of the Sampo"
+session.20261024.v0350_world_epics,STORY,story.hindu.nala_damayanti,CREATE,"Mahābhārata, Part 1: Nala and Damayantī"
+session.20261024.v0350_world_epics,STORY,story.hindu.savitri_satyavan,CREATE,"Mahābhārata, Part 2: Sāvitrī"
+session.20261024.v0350_world_epics,STORY,story.hindu.kurukshetra_war,CREATE,"Mahābhārata, Part 3: the field of the Kurus"
+session.20261024.v0350_world_epics,STORY,story.persian.zal_rudabeh_rostam,CREATE,"Shahnameh, Part 1: Zāl and Rūdābeh"
+session.20261024.v0350_world_epics,STORY,story.persian.rostam_seven_labours,CREATE,"Shahnameh, Part 2: the seven stages of Rostam"
+session.20261024.v0350_world_epics,STORY,story.persian.rostam_sohrab,CREATE,"Shahnameh, Part 3: Rostam and Sohrāb"
+session.20261024.v0350_world_epics,STORY,story.chinese.soushenji_tales,CREATE,Soushen ji: thirteen tales of the strange
+session.20261024.v0350_world_epics,STORY_VERSION,storyver.japanese.kojiki_sect1_10,CREATE,"Kojiki, Chamberlain translation, Sections I–X (long retelling)"
+session.20261024.v0350_world_epics,STORY_SERIES,series.japanese.kojiki,CREATE,The Kojiki (series)
+session.20261024.v0350_world_epics,STORY_SERIES,series.finnish.kalevala,CREATE,The Kalevala (series)
+session.20261024.v0350_world_epics,STORY_SERIES,series.hindu.mahabharata_tales,CREATE,The Mahābhārata (series)
+session.20261024.v0350_world_epics,STORY_SERIES,series.persian.shahnameh_rostam,CREATE,The Shahnameh (series)
+session.20261024.v0350_world_epics,RELEASE,release.v0.35.0,SEAL,Formal staged checkpoint: 15 completed targets — 14 series parts in 4 series and 1 standalone reading; no target blocked.

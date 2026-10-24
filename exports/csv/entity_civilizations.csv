@@ -8,6 +8,8 @@ artifact.chinese.huntian_ling,civ.chinese_folk,ORIGIN_OR_ATTESTATION,SUPPORTED,
 artifact.chinese.linglong_pagoda,civ.chinese_folk,TEXTUAL_ATTESTATION,SUPPORTED,v0.32 source-located entity.
 artifact.chinese.qiankun_quan,civ.chinese_folk,ORIGIN_OR_ATTESTATION,SUPPORTED,
 artifact.egyptian.solar_barque,civ.egyptian,ORIGIN_OR_ATTESTATION,SUPPORTED,
+artifact.finnish.kantele,civ.finnish,TEXTUAL_ATTESTATION,SUPPORTED,v0.35 source-located entity.
+artifact.finnish.sampo,civ.finnish,TEXTUAL_ATTESTATION,SUPPORTED,v0.35 source-located entity.
 artifact.greek.aegis,civ.greek,ORIGIN_OR_ATTESTATION,SUPPORTED,
 artifact.greek.argo,civ.greek,TEXTUAL_ATTESTATION,SUPPORTED,v0.34 source-located entity.
 artifact.greek.caduceus,civ.greek,ORIGIN_OR_ATTESTATION,SUPPORTED,
@@ -15,6 +17,7 @@ artifact.greek.golden_fleece,civ.greek,TEXTUAL_ATTESTATION,SUPPORTED,v0.34 sourc
 artifact.greek.helm_hades,civ.greek,ORIGIN_OR_ATTESTATION,SUPPORTED,
 artifact.hindu.amrita,civ.hindu,TEXTUAL_ATTESTATION,SUPPORTED,Both witnesses.
 artifact.irish.dagda_cauldron,civ.irish,TEXTUAL_ATTESTATION,SUPPORTED,v0.31 source-located entity.
+artifact.japanese.tide_jewels,civ.japanese_shinto,TEXTUAL_ATTESTATION,SUPPORTED,v0.35 source-located entity.
 artifact.mesopotamian.tablet_destinies,civ.akkadian,ORIGIN_OR_ATTESTATION,SUPPORTED,
 artifact.norse.andvaranaut,civ.norse,TEXTUAL_ATTESTATION,SUPPORTED,v0.34 source-located entity.
 artifact.norse.draupnir,civ.norse,ORIGIN_OR_ATTESTATION,SUPPORTED,
@@ -24,6 +27,7 @@ artifact.norse.naglfar,civ.norse,TEXTUAL_ATTESTATION,SUPPORTED,v0.34 source-loca
 artifact.welsh.cauldron_of_rebirth,civ.welsh,TEXTUAL_ATTESTATION,SUPPORTED,v0.34 source-located entity.
 artifact.yoruba.ose_sango,civ.yoruba,ORIGIN,SUPPORTED,v0.6.0 witness-scoped baseline
 being.chinese.pangu,civ.chinese_ancient,ORIGIN_OR_ATTESTATION,SUPPORTED,
+being.hindu.kali,civ.hindu,TEXTUAL_ATTESTATION,SUPPORTED,v0.35 source-located entity.
 being.irish.balor,civ.irish,TEXTUAL_ATTESTATION,SUPPORTED,v0.31 source-located entity.
 being.norse.andvari,civ.norse,TEXTUAL_ATTESTATION,SUPPORTED,v0.34 source-located entity.
 being.norse.bestla,civ.norse,ORIGIN,SUPPORTED,"Text-tradition association, not historical existence"
@@ -71,6 +75,7 @@ concept.zoroastrian.asha,civ.zoroastrian,ORIGIN_OR_ATTESTATION,SUPPORTED,
 concept.zoroastrian.druj,civ.zoroastrian,ORIGIN_OR_ATTESTATION,SUPPORTED,
 creature.akkadian.anzu,civ.akkadian,WITNESS_SCOPED_CONTEXT,SUPPORTED,v0.20 scoped association
 creature.chinese.ao_turtle,civ.chinese_ancient,TEXTUAL_ATTESTATION,SUPPORTED,Huainanzi and Liezi witnesses.
+creature.finnish.iku_turso,civ.finnish,TEXTUAL_ATTESTATION,SUPPORTED,v0.35 source-located entity.
 creature.greek.cerberus,civ.greek,TEXTUAL_ATTESTATION,SUPPORTED,v0.34 source-located entity.
 creature.greek.charybdis,civ.greek,TEXTUAL_ATTESTATION,SUPPORTED,v0.33 source-located entity.
 creature.greek.cyclopes_hesiodic,civ.greek,ORIGIN_OR_ATTESTATION,SUPPORTED,
@@ -91,8 +96,10 @@ creature.greek.typhon,civ.greek,ORIGIN,SUPPORTED,"Text-tradition association, no
 creature.hindu.akupara,civ.hindu,TEXTUAL_ATTESTATION,SUPPORTED,Mahābhārata witness.
 creature.hindu.jatayu,civ.hindu,TEXTUAL_ATTESTATION,SUPPORTED,v0.33 source-located entity.
 creature.hindu.vasuki,civ.hindu,TEXTUAL_ATTESTATION,SUPPORTED,Both witnesses.
+creature.indian.karkotaka,civ.hindu,TEXTUAL_ATTESTATION,SUPPORTED,v0.35 source-located entity.
 creature.irish.donn_cuailnge,civ.irish,TEXTUAL_ATTESTATION,SUPPORTED,v0.34 source-located entity.
 creature.irish.finnbennach,civ.irish,TEXTUAL_ATTESTATION,SUPPORTED,v0.34 source-located entity.
+creature.japanese.hare_of_inaba,civ.japanese_shinto,TEXTUAL_ATTESTATION,SUPPORTED,v0.35 source-located entity.
 creature.mesopotamian.bull_of_heaven,civ.babylonian,TEXTUAL_ATTESTATION,SUPPORTED,v0.32 source-located entity.
 creature.norse.fafnir,civ.norse,TEXTUAL_ATTESTATION,SUPPORTED,v0.34 source-located entity.
 creature.norse.fenrir,civ.norse,ORIGIN_OR_ATTESTATION,SUPPORTED,
@@ -102,6 +109,8 @@ creature.norse.gullinbursti,civ.norse,ORIGIN,SUPPORTED,"Text-tradition associati
 creature.norse.jormungandr,civ.norse,ORIGIN_OR_ATTESTATION,SUPPORTED,
 creature.norse.sleipnir,civ.norse,TEXTUAL_ATTESTATION,SUPPORTED,v0.32 source-located entity.
 creature.norse.surtr,civ.norse,TEXTUAL_ATTESTATION,SUPPORTED,v0.34 source-located entity.
+creature.persian.rakhsh,civ.persian,TEXTUAL_ATTESTATION,SUPPORTED,v0.35 source-located entity.
+creature.persian.simorgh,civ.persian,TEXTUAL_ATTESTATION,SUPPORTED,v0.35 source-located entity.
 creature.vedic.vritra,civ.vedic,ORIGIN,SUPPORTED,v0.6.0 witness-scoped baseline
 deity.akkadian.ishtar,civ.akkadian,ORIGIN_OR_ATTESTATION,SUPPORTED,
 deity.akkadian.ninurta,civ.akkadian,WITNESS_SCOPED_CONTEXT,SUPPORTED,v0.20 scoped association
@@ -113,6 +122,7 @@ deity.babylonian.kingu,civ.babylonian,TEXTUAL_ATTESTATION,SUPPORTED,v0.32 source
 deity.babylonian.marduk,civ.babylonian,ORIGIN_OR_ATTESTATION,SUPPORTED,
 deity.babylonian.tiamat,civ.babylonian,ORIGIN_OR_ATTESTATION,SUPPORTED,
 deity.chinese.ao_guang,civ.chinese_folk,TEXTUAL_ATTESTATION,SUPPORTED,v0.32 source-located entity.
+deity.chinese.change,civ.chinese_folk,TEXTUAL_ATTESTATION,SUPPORTED,v0.35 source-located entity.
 deity.chinese.erlang_shen,civ.chinese_folk,TEXTUAL_ATTESTATION,SUPPORTED,v0.32 source-located entity.
 deity.chinese.fu_xi,civ.chinese_ancient,ORIGIN_OR_ATTESTATION,SUPPORTED,
 deity.chinese.gonggong,civ.chinese_ancient,TEXTUAL_ATTESTATION,SUPPORTED,Huainanzi and Liezi witnesses.
@@ -125,6 +135,7 @@ deity.chinese.nezha,civ.chinese_folk,ORIGIN_OR_ATTESTATION,SUPPORTED,
 deity.chinese.nu_wa,civ.chinese_ancient,ORIGIN_OR_ATTESTATION,SUPPORTED,
 deity.chinese.rulai_xiyouji,civ.chinese_folk,TEXTUAL_ATTESTATION,SUPPORTED,v0.32 source-located entity.
 deity.chinese.taishang_laojun,civ.daoist,TEXTUAL_ATTESTATION,SUPPORTED,v0.32 source-located entity.
+deity.chinese.zhinu,civ.chinese_folk,TEXTUAL_ATTESTATION,SUPPORTED,v0.35 source-located entity.
 deity.egyptian.amun,civ.egyptian,ORIGIN_OR_ATTESTATION,SUPPORTED,
 deity.egyptian.amun_ra,civ.egyptian,ORIGIN,SUPPORTED,v0.7.0 source-located Egyptian baseline
 deity.egyptian.anubis,civ.egyptian,ORIGIN_OR_ATTESTATION,SUPPORTED,
@@ -152,6 +163,8 @@ deity.egyptian.shu,civ.egyptian,ORIGIN_OR_ATTESTATION,SUPPORTED,
 deity.egyptian.sokar,civ.egyptian,ORIGIN,SUPPORTED,v0.11.0 source-scoped Egyptian dossier
 deity.egyptian.tefnut,civ.egyptian,ORIGIN_OR_ATTESTATION,SUPPORTED,
 deity.egyptian.thoth,civ.egyptian,ORIGIN_OR_ATTESTATION,SUPPORTED,
+deity.finnish.ilmatar,civ.finnish,TEXTUAL_ATTESTATION,SUPPORTED,v0.35 source-located entity.
+deity.finnish.ukko,civ.finnish,TEXTUAL_ATTESTATION,SUPPORTED,v0.35 source-located entity.
 deity.greek.aether,civ.greek,ORIGIN,SUPPORTED,Registered from the Greek textual baseline; comparative concepts remain navigation aids only
 deity.greek.aphrodite,civ.greek,ORIGIN_OR_ATTESTATION,SUPPORTED,
 deity.greek.apollo,civ.greek,ORIGIN_OR_ATTESTATION,SUPPORTED,
@@ -208,12 +221,14 @@ deity.hindu.brahma,civ.hindu,ORIGIN_OR_ATTESTATION,SUPPORTED,
 deity.hindu.dhanvantari,civ.hindu,TEXTUAL_ATTESTATION,SUPPORTED,Both witnesses.
 deity.hindu.ganga,civ.hindu,TEXTUAL_ATTESTATION,SUPPORTED,v0.33 source-located entity.
 deity.hindu.hanuman,civ.hindu,TEXTUAL_ATTESTATION,SUPPORTED,v0.32 source-located entity.
+deity.hindu.krishna,civ.hindu,TEXTUAL_ATTESTATION,SUPPORTED,v0.35 source-located entity.
 deity.hindu.kurma,civ.hindu,TEXTUAL_ATTESTATION,SUPPORTED,Bhāgavata witness.
 deity.hindu.mohini,civ.hindu,TEXTUAL_ATTESTATION,SUPPORTED,Bhāgavata witness.
 deity.hindu.rama,civ.hindu,TEXTUAL_ATTESTATION,SUPPORTED,v0.32 source-located entity.
 deity.hindu.shiva,civ.hindu,ORIGIN_OR_ATTESTATION,SUPPORTED,
 deity.hindu.sita,civ.hindu,TEXTUAL_ATTESTATION,SUPPORTED,v0.32 source-located entity.
 deity.hindu.vishnu,civ.hindu,ORIGIN_OR_ATTESTATION,SUPPORTED,
+deity.hindu.yama,civ.hindu,TEXTUAL_ATTESTATION,SUPPORTED,v0.35 source-located entity.
 deity.irish.bridig,civ.irish,ORIGIN_OR_ATTESTATION,SUPPORTED,
 deity.irish.dagda,civ.irish,ORIGIN_OR_ATTESTATION,SUPPORTED,
 deity.irish.lugh,civ.irish,ORIGIN_OR_ATTESTATION,SUPPORTED,
@@ -221,30 +236,48 @@ deity.irish.morrigan,civ.irish,ORIGIN_OR_ATTESTATION,SUPPORTED,
 deity.japanese.amaterasu,civ.japanese_shinto,ORIGIN_OR_ATTESTATION,SUPPORTED,
 deity.japanese.ame_no_tajikarao,civ.japanese_shinto,TEXTUAL_ATTESTATION,SUPPORTED,v0.32 source-located entity.
 deity.japanese.ame_no_uzume,civ.japanese_shinto,TEXTUAL_ATTESTATION,SUPPORTED,v0.32 source-located entity.
+deity.japanese.ame_no_wakahiko,civ.japanese_shinto,TEXTUAL_ATTESTATION,SUPPORTED,v0.35 source-located entity.
 deity.japanese.fujin,civ.japanese_shinto,ORIGIN,SUPPORTED,v0.10.0 source-scoped Japanese dossier
 deity.japanese.fusuikazuchi,civ.japanese_shinto,ORIGIN,SUPPORTED,v0.6.0 witness-scoped baseline
+deity.japanese.hoderi,civ.japanese_shinto,TEXTUAL_ATTESTATION,SUPPORTED,v0.35 source-located entity.
 deity.japanese.honoikazuchi,civ.japanese_shinto,ORIGIN,SUPPORTED,v0.6.0 witness-scoped baseline
 deity.japanese.honoikazuchi_otokuni,civ.japanese_shinto,ORIGIN,SUPPORTED,v0.10.0 source-scoped Japanese dossier
+deity.japanese.hoori,civ.japanese_shinto,TEXTUAL_ATTESTATION,SUPPORTED,v0.35 source-located entity.
+deity.japanese.ibuki_deity,civ.japanese_shinto,TEXTUAL_ATTESTATION,SUPPORTED,v0.35 source-located entity.
+deity.japanese.iwanaga_hime,civ.japanese_shinto,TEXTUAL_ATTESTATION,SUPPORTED,v0.35 source-located entity.
 deity.japanese.izanagi,civ.japanese_shinto,ORIGIN_OR_ATTESTATION,SUPPORTED,
 deity.japanese.izanami,civ.japanese_shinto,ORIGIN_OR_ATTESTATION,SUPPORTED,
 deity.japanese.kagutsuchi,civ.japanese_shinto,TEXTUAL_ATTESTATION,SUPPORTED,v0.31 source-located entity.
+deity.japanese.kamimusubi,civ.japanese_shinto,TEXTUAL_ATTESTATION,SUPPORTED,v0.35 source-located entity.
 deity.japanese.kamo_taketsunumi,civ.japanese_shinto,ORIGIN,SUPPORTED,v0.10.0 source-scoped Japanese dossier
 deity.japanese.kamo_wakeikazuchi,civ.japanese_shinto,ORIGIN,SUPPORTED,v0.10.0 source-scoped Japanese dossier
 deity.japanese.karaijin,civ.japanese_shinto,JAPANESE_TRADITION_CONTEXT,SUPPORTED,v0.18 scoped association
+deity.japanese.konohana_sakuya_hime,civ.japanese_shinto,TEXTUAL_ATTESTATION,SUPPORTED,v0.35 source-located entity.
+deity.japanese.kotoshironushi,civ.japanese_shinto,TEXTUAL_ATTESTATION,SUPPORTED,v0.35 source-located entity.
 deity.japanese.kuroikazuchi,civ.japanese_shinto,ORIGIN,SUPPORTED,v0.6.0 witness-scoped baseline
 deity.japanese.kushinadahime,civ.japanese_shinto,TEXTUAL_ATTESTATION,SUPPORTED,v0.32 source-located entity.
 deity.japanese.naruikazuchi,civ.japanese_shinto,ORIGIN,SUPPORTED,v0.6.0 witness-scoped baseline
+deity.japanese.ninigi,civ.japanese_shinto,TEXTUAL_ATTESTATION,SUPPORTED,v0.35 source-located entity.
 deity.japanese.ogetsuhime,civ.japanese_shinto,TEXTUAL_ATTESTATION,SUPPORTED,v0.32 source-located entity.
+deity.japanese.okuninushi,civ.japanese_shinto,TEXTUAL_ATTESTATION,SUPPORTED,v0.35 source-located entity.
 deity.japanese.omoikane,civ.japanese_shinto,TEXTUAL_ATTESTATION,SUPPORTED,v0.32 source-located entity.
 deity.japanese.ooikazuchi,civ.japanese_shinto,ORIGIN,SUPPORTED,v0.6.0 witness-scoped baseline
+deity.japanese.oyamatsumi,civ.japanese_shinto,TEXTUAL_ATTESTATION,SUPPORTED,v0.35 source-located entity.
 deity.japanese.raijin,civ.japanese_shinto,ORIGIN,SUPPORTED,v0.6.0 witness-scoped baseline
 deity.japanese.sakuikazuchi,civ.japanese_shinto,ORIGIN,SUPPORTED,v0.6.0 witness-scoped baseline
+deity.japanese.sarutahiko,civ.japanese_shinto,TEXTUAL_ATTESTATION,SUPPORTED,v0.35 source-located entity.
+deity.japanese.sukunabikona,civ.japanese_shinto,TEXTUAL_ATTESTATION,SUPPORTED,v0.35 source-located entity.
 deity.japanese.susanoo,civ.japanese_shinto,ORIGIN_OR_ATTESTATION,SUPPORTED,
+deity.japanese.suseribime,civ.japanese_shinto,TEXTUAL_ATTESTATION,SUPPORTED,v0.35 source-located entity.
+deity.japanese.takamimusubi,civ.japanese_shinto,TEXTUAL_ATTESTATION,SUPPORTED,v0.35 source-located entity.
 deity.japanese.takemikazuchi,civ.japanese_shinto,ORIGIN,SUPPORTED,v0.6.0 witness-scoped baseline
+deity.japanese.takeminakata,civ.japanese_shinto,TEXTUAL_ATTESTATION,SUPPORTED,v0.35 source-located entity.
 deity.japanese.tamayorihime_kamo,civ.japanese_shinto,ORIGIN,SUPPORTED,v0.10.0 source-scoped Japanese dossier
+deity.japanese.toyotama_hime,civ.japanese_shinto,TEXTUAL_ATTESTATION,SUPPORTED,v0.35 source-located entity.
 deity.japanese.tsuchiikazuchi,civ.japanese_shinto,ORIGIN,SUPPORTED,v0.6.0 witness-scoped baseline
 deity.japanese.tsukuyomi,civ.japanese_shinto,ORIGIN_OR_ATTESTATION,SUPPORTED,
 deity.japanese.wakaikazuchi,civ.japanese_shinto,ORIGIN,SUPPORTED,v0.6.0 witness-scoped baseline
+deity.japanese.watatsumi,civ.japanese_shinto,TEXTUAL_ATTESTATION,SUPPORTED,v0.35 source-located entity.
 deity.maori.papatuanuku,civ.maori,ORIGIN_OR_ATTESTATION,SUPPORTED,
 deity.maori.ranginui,civ.maori,ORIGIN_OR_ATTESTATION,SUPPORTED,
 deity.maya.chaac,civ.maya,ORIGIN_OR_ATTESTATION,SUPPORTED,
@@ -331,6 +364,7 @@ demon.hindu.maricha,civ.hindu,TEXTUAL_ATTESTATION,SUPPORTED,v0.33 source-located
 demon.hindu.rahu,civ.hindu,TEXTUAL_ATTESTATION,SUPPORTED,Both witnesses.
 demon.hindu.ravana,civ.hindu,TEXTUAL_ATTESTATION,SUPPORTED,v0.32 source-located entity.
 demon.hindu.shurpanakha,civ.hindu,TEXTUAL_ATTESTATION,SUPPORTED,v0.33 source-located entity.
+demon.persian.white_div,civ.persian,TEXTUAL_ATTESTATION,SUPPORTED,v0.35 source-located entity.
 dragon.chinese.ao_bing,civ.chinese_folk,TEXTUAL_ATTESTATION,SUPPORTED,v0.32 source-located entity.
 dragon.chinese.black_dragon_jizhou,civ.chinese_ancient,TEXTUAL_ATTESTATION,SUPPORTED,Huainanzi witness.
 dragon.chinese.jinghe_dragon_king,civ.chinese_folk,TEXTUAL_ATTESTATION,SUPPORTED,v0.33 source-located entity.
@@ -406,7 +440,12 @@ festival.japan.kamo_aoi,civ.japanese_shinto,ORIGIN,SUPPORTED,v0.10.0 source-scop
 festival.yoruba.sango_oyo,civ.yoruba,ORIGIN,SUPPORTED,v0.6.0 witness-scoped baseline
 group.egyptian.theban_triad,civ.egyptian,ORIGIN,SUPPORTED,v0.7.0 source-located Egyptian baseline
 group.japanese.eight_thunder_kami,civ.japanese_shinto,ORIGIN,SUPPORTED,v0.6.0 witness-scoped baseline
+hero.chinese.chi_bi,civ.chinese_folk,TEXTUAL_ATTESTATION,SUPPORTED,v0.35 source-located entity.
 hero.chinese.chiyou,civ.chinese_ancient,TEXTUAL_ATTESTATION,SUPPORTED,v0.31 source-located entity.
+hero.chinese.dong_yong,civ.chinese_folk,TEXTUAL_ATTESTATION,SUPPORTED,v0.35 source-located entity.
+hero.chinese.gan_jiang,civ.chinese_folk,TEXTUAL_ATTESTATION,SUPPORTED,v0.35 source-located entity.
+hero.chinese.li_ji,civ.chinese_folk,TEXTUAL_ATTESTATION,SUPPORTED,v0.35 source-located entity.
+hero.chinese.mo_ye,civ.chinese_folk,TEXTUAL_ATTESTATION,SUPPORTED,v0.35 source-located entity.
 hero.chinese.sha_wujing,civ.chinese_folk,TEXTUAL_ATTESTATION,SUPPORTED,v0.33 source-located entity.
 hero.chinese.subodhi_patriarch,civ.chinese_folk,TEXTUAL_ATTESTATION,SUPPORTED,v0.32 source-located entity.
 hero.chinese.sun_wukong,civ.chinese_folk,ORIGIN_OR_ATTESTATION,SUPPORTED,
@@ -415,6 +454,17 @@ hero.chinese.tang_sanzang,civ.chinese_folk,TEXTUAL_ATTESTATION,SUPPORTED,v0.33 s
 hero.chinese.yellow_emperor,civ.chinese_ancient,ORIGIN_OR_ATTESTATION,SUPPORTED,
 hero.chinese.zhu_bajie,civ.chinese_folk,TEXTUAL_ATTESTATION,SUPPORTED,v0.33 source-located entity.
 hero.chinese.zhuanxu,civ.chinese_ancient,TEXTUAL_ATTESTATION,SUPPORTED,Huainanzi and Liezi witnesses.
+hero.chinese.ziyu,civ.chinese_folk,TEXTUAL_ATTESTATION,SUPPORTED,v0.35 source-located entity.
+hero.finnish.aino,civ.finnish,TEXTUAL_ATTESTATION,SUPPORTED,v0.35 source-located entity.
+hero.finnish.ilmarinen,civ.finnish,TEXTUAL_ATTESTATION,SUPPORTED,v0.35 source-located entity.
+hero.finnish.joukahainen,civ.finnish,TEXTUAL_ATTESTATION,SUPPORTED,v0.35 source-located entity.
+hero.finnish.kullervo,civ.finnish,TEXTUAL_ATTESTATION,SUPPORTED,v0.35 source-located entity.
+hero.finnish.kyllikki,civ.finnish,TEXTUAL_ATTESTATION,SUPPORTED,v0.35 source-located entity.
+hero.finnish.lemminkainen,civ.finnish,TEXTUAL_ATTESTATION,SUPPORTED,v0.35 source-located entity.
+hero.finnish.lemminkainen_mother,civ.finnish,TEXTUAL_ATTESTATION,SUPPORTED,v0.35 source-located entity.
+hero.finnish.louhi,civ.finnish,TEXTUAL_ATTESTATION,SUPPORTED,v0.35 source-located entity.
+hero.finnish.maiden_of_pohjola,civ.finnish,TEXTUAL_ATTESTATION,SUPPORTED,v0.35 source-located entity.
+hero.finnish.vainamoinen,civ.finnish,TEXTUAL_ATTESTATION,SUPPORTED,v0.35 source-located entity.
 hero.greek.acrisius,civ.greek,TEXTUAL_ATTESTATION,SUPPORTED,v0.34 source-located entity.
 hero.greek.aeetes,civ.greek,ORIGIN,SUPPORTED,v0.9.0 source-located Greek baseline
 hero.greek.alcmena,civ.greek,TEXTUAL_ATTESTATION,SUPPORTED,v0.34 source-located entity.
@@ -444,24 +494,40 @@ hero.greek.phineus,civ.greek,TEXTUAL_ATTESTATION,SUPPORTED,v0.34 source-located 
 hero.greek.polydeuces,civ.greek,TEXTUAL_ATTESTATION,SUPPORTED,v0.34 source-located entity.
 hero.greek.telemachus,civ.greek,TEXTUAL_ATTESTATION,SUPPORTED,v0.33 source-located entity.
 hero.greek.triptolemos,civ.greek,ORIGIN,SUPPORTED,v0.8.0 source-located Greek baseline
+hero.indian.abhimanyu,civ.hindu,TEXTUAL_ATTESTATION,SUPPORTED,v0.35 source-located entity.
 hero.indian.ahalya,civ.hindu,TEXTUAL_ATTESTATION,SUPPORTED,v0.33 source-located entity.
 hero.indian.arjuna,civ.hindu,ORIGIN_OR_ATTESTATION,SUPPORTED,
+hero.indian.ashvatthama,civ.hindu,TEXTUAL_ATTESTATION,SUPPORTED,v0.35 source-located entity.
 hero.indian.bharata,civ.hindu,TEXTUAL_ATTESTATION,SUPPORTED,v0.32 source-located entity.
+hero.indian.bhima,civ.hindu,TEXTUAL_ATTESTATION,SUPPORTED,v0.35 source-located entity.
+hero.indian.bhishma,civ.hindu,TEXTUAL_ATTESTATION,SUPPORTED,v0.35 source-located entity.
+hero.indian.damayanti,civ.hindu,TEXTUAL_ATTESTATION,SUPPORTED,v0.35 source-located entity.
 hero.indian.dasharatha,civ.hindu,TEXTUAL_ATTESTATION,SUPPORTED,v0.32 source-located entity.
+hero.indian.draupadi,civ.hindu,TEXTUAL_ATTESTATION,SUPPORTED,v0.35 source-located entity.
+hero.indian.drona,civ.hindu,TEXTUAL_ATTESTATION,SUPPORTED,v0.35 source-located entity.
+hero.indian.duryodhana,civ.hindu,TEXTUAL_ATTESTATION,SUPPORTED,v0.35 source-located entity.
 hero.indian.janaka,civ.hindu,TEXTUAL_ATTESTATION,SUPPORTED,v0.33 source-located entity.
 hero.indian.kaikeyi,civ.hindu,TEXTUAL_ATTESTATION,SUPPORTED,v0.33 source-located entity.
+hero.indian.karna,civ.hindu,TEXTUAL_ATTESTATION,SUPPORTED,v0.35 source-located entity.
 hero.indian.lakshmana,civ.hindu,TEXTUAL_ATTESTATION,SUPPORTED,v0.32 source-located entity.
+hero.indian.nala,civ.hindu,TEXTUAL_ATTESTATION,SUPPORTED,v0.35 source-located entity.
 hero.indian.parashurama,civ.hindu,TEXTUAL_ATTESTATION,SUPPORTED,v0.33 source-located entity.
+hero.indian.satyavan,civ.hindu,TEXTUAL_ATTESTATION,SUPPORTED,v0.35 source-located entity.
+hero.indian.savitri,civ.hindu,TEXTUAL_ATTESTATION,SUPPORTED,v0.35 source-located entity.
 hero.indian.sugriva,civ.hindu,TEXTUAL_ATTESTATION,SUPPORTED,v0.33 source-located entity.
 hero.indian.valin,civ.hindu,TEXTUAL_ATTESTATION,SUPPORTED,v0.33 source-located entity.
 hero.indian.vibhishana,civ.hindu,TEXTUAL_ATTESTATION,SUPPORTED,v0.33 source-located entity.
 hero.indian.vishvamitra,civ.hindu,TEXTUAL_ATTESTATION,SUPPORTED,v0.33 source-located entity.
+hero.indian.yudhishthira,civ.hindu,TEXTUAL_ATTESTATION,SUPPORTED,v0.35 source-located entity.
 hero.irish.ailill,civ.irish,TEXTUAL_ATTESTATION,SUPPORTED,v0.34 source-located entity.
 hero.irish.conchobar,civ.irish,TEXTUAL_ATTESTATION,SUPPORTED,v0.34 source-located entity.
 hero.irish.cu_chulainn,civ.irish,ORIGIN_OR_ATTESTATION,SUPPORTED,
 hero.irish.ferdiad,civ.irish,TEXTUAL_ATTESTATION,SUPPORTED,v0.34 source-located entity.
 hero.irish.fergus_mac_roich,civ.irish,ORIGIN_OR_ATTESTATION,SUPPORTED,
 hero.irish.medb,civ.irish,TEXTUAL_ATTESTATION,SUPPORTED,v0.34 source-located entity.
+hero.japanese.miyazu_hime,civ.japanese_shinto,TEXTUAL_ATTESTATION,SUPPORTED,v0.35 source-located entity.
+hero.japanese.oto_tachibana_hime,civ.japanese_shinto,TEXTUAL_ATTESTATION,SUPPORTED,v0.35 source-located entity.
+hero.japanese.yamato_hime,civ.japanese_shinto,TEXTUAL_ATTESTATION,SUPPORTED,v0.35 source-located entity.
 hero.japanese.yamato_takeru,civ.japanese_shinto,ORIGIN_OR_ATTESTATION,SUPPORTED,
 hero.kiche.hunahpu,civ.maya,ORIGIN_OR_ATTESTATION,SUPPORTED,
 hero.kiche.xbalanque,civ.maya,ORIGIN_OR_ATTESTATION,SUPPORTED,
@@ -476,6 +542,13 @@ hero.norse.sigurd,civ.norse,TEXTUAL_ATTESTATION,SUPPORTED,v0.34 source-located e
 hero.norse.sinfjotli,civ.norse,TEXTUAL_ATTESTATION,SUPPORTED,v0.34 source-located entity.
 hero.norse.thjalfi,civ.norse,TEXTUAL_ATTESTATION,SUPPORTED,v0.32 source-located entity.
 hero.norse.volsung,civ.norse,TEXTUAL_ATTESTATION,SUPPORTED,v0.34 source-located entity.
+hero.persian.gordafarid,civ.persian,TEXTUAL_ATTESTATION,SUPPORTED,v0.35 source-located entity.
+hero.persian.rostam,civ.persian,TEXTUAL_ATTESTATION,SUPPORTED,v0.35 source-located entity.
+hero.persian.rudabeh,civ.persian,TEXTUAL_ATTESTATION,SUPPORTED,v0.35 source-located entity.
+hero.persian.sam,civ.persian,TEXTUAL_ATTESTATION,SUPPORTED,v0.35 source-located entity.
+hero.persian.sohrab,civ.persian,TEXTUAL_ATTESTATION,SUPPORTED,v0.35 source-located entity.
+hero.persian.tahmineh,civ.persian,TEXTUAL_ATTESTATION,SUPPORTED,v0.35 source-located entity.
+hero.persian.zal,civ.persian,TEXTUAL_ATTESTATION,SUPPORTED,v0.35 source-located entity.
 hero.polynesian.maui,civ.polynesian,ORIGIN_OR_ATTESTATION,SUPPORTED,
 hero.sumerian.gilgamesh,civ.sumerian,TEXTUAL_ATTESTATION,SUPPORTED,v0.31 source-located entity.
 hero.welsh.arianrhod,civ.welsh,TEXTUAL_ATTESTATION,SUPPORTED,v0.34 source-located entity.
@@ -536,25 +609,48 @@ museum.rubin.vajra_sc2022_3_2_1,civ.buddhist_himalayan,TEXT_OR_MATERIAL_RECEPTIO
 museum.tnm.korin_wind_thunder_a11189_1,civ.japanese_shinto,JAPANESE_TRADITION_CONTEXT,SUPPORTED,v0.18 scoped association
 museum.ugarit.baal_cycle_ao16643,civ.ugaritic,ORIGIN_OR_ATTESTATION,SUPPORTED,
 museum.ugarit.baal_thunder_ao15775,civ.ugaritic,ORIGIN_OR_ATTESTATION,SUPPORTED,
+person.chinese.han_ping,civ.chinese_folk,TEXTUAL_ATTESTATION,SUPPORTED,v0.35 source-located entity.
+person.chinese.song_dingbo,civ.chinese_folk,TEXTUAL_ATTESTATION,SUPPORTED,v0.35 source-located entity.
+person.finnish.kalervo,civ.finnish,TEXTUAL_ATTESTATION,SUPPORTED,v0.35 source-located entity.
+person.finnish.markahattu,civ.finnish,TEXTUAL_ATTESTATION,SUPPORTED,v0.35 source-located entity.
+person.finnish.untamo,civ.finnish,TEXTUAL_ATTESTATION,SUPPORTED,v0.35 source-located entity.
 person.greek.antinous,civ.greek,TEXTUAL_ATTESTATION,SUPPORTED,v0.33 source-located entity.
 person.greek.eumaeus,civ.greek,TEXTUAL_ATTESTATION,SUPPORTED,v0.33 source-located entity.
 person.greek.eurycleia,civ.greek,TEXTUAL_ATTESTATION,SUPPORTED,v0.33 source-located entity.
 person.greek.polydectes,civ.greek,TEXTUAL_ATTESTATION,SUPPORTED,v0.34 source-located entity.
+person.indian.ashvapati,civ.hindu,TEXTUAL_ATTESTATION,SUPPORTED,v0.35 source-located entity.
+person.indian.dyumatsena,civ.hindu,TEXTUAL_ATTESTATION,SUPPORTED,v0.35 source-located entity.
+person.indian.pushkara,civ.hindu,TEXTUAL_ATTESTATION,SUPPORTED,v0.35 source-located entity.
+person.indian.rituparna,civ.hindu,TEXTUAL_ATTESTATION,SUPPORTED,v0.35 source-located entity.
+person.japanese.izumo_takeru,civ.japanese_shinto,TEXTUAL_ATTESTATION,SUPPORTED,v0.35 source-located entity.
+person.japanese.keiko,civ.japanese_shinto,TEXTUAL_ATTESTATION,SUPPORTED,v0.35 source-located entity.
+person.japanese.kumaso_takeru,civ.japanese_shinto,TEXTUAL_ATTESTATION,SUPPORTED,v0.35 source-located entity.
 person.norse.ask,civ.norse,OLD_NORSE_WITNESS_CONTEXT,SUPPORTED,Witness-scoped association
 person.norse.embla,civ.norse,OLD_NORSE_WITNESS_CONTEXT,SUPPORTED,Witness-scoped association
+person.persian.afrasiyab,civ.persian,TEXTUAL_ATTESTATION,SUPPORTED,v0.35 source-located entity.
+person.persian.kay_kavus,civ.persian,TEXTUAL_ATTESTATION,SUPPORTED,v0.35 source-located entity.
+person.persian.manuchehr,civ.persian,TEXTUAL_ATTESTATION,SUPPORTED,v0.35 source-located entity.
+person.persian.mehrab,civ.persian,TEXTUAL_ATTESTATION,SUPPORTED,v0.35 source-located entity.
+person.persian.olad,civ.persian,TEXTUAL_ATTESTATION,SUPPORTED,v0.35 source-located entity.
+person.persian.sindokht,civ.persian,TEXTUAL_ATTESTATION,SUPPORTED,v0.35 source-located entity.
 place.chinese.buzhou_mountain,civ.chinese_ancient,TEXTUAL_ATTESTATION,SUPPORTED,Mythic place.
 place.chinese.flaming_mountains_xiyouji,civ.chinese_folk,TEXTUAL_ATTESTATION,SUPPORTED,v0.33 source-located entity.
 place.chinese.huaguo_shan,civ.chinese_folk,TEXTUAL_ATTESTATION,SUPPORTED,v0.32 source-located entity.
+place.finnish.pohjola,civ.finnish,TEXTUAL_ATTESTATION,SUPPORTED,v0.35 source-located entity.
+place.finnish.tuonela,civ.finnish,TEXTUAL_ATTESTATION,SUPPORTED,v0.35 source-located entity.
 place.greek.ithaca_homeric,civ.greek,TEXTUAL_ATTESTATION,SUPPORTED,v0.33 source-located entity.
 place.hindu.lanka,civ.hindu,TEXTUAL_ATTESTATION,SUPPORTED,v0.32 source-located entity.
 place.hindu.mandara,civ.hindu,TEXTUAL_ATTESTATION,SUPPORTED,Mythic place.
+place.japanese.ne_no_katasu_kuni,civ.japanese_shinto,TEXTUAL_ATTESTATION,SUPPORTED,v0.35 source-located entity.
 place.japanese.onogoro,civ.japanese_shinto,TEXTUAL_ATTESTATION,SUPPORTED,v0.31 source-located entity.
+place.japanese.watatsumi_palace,civ.japanese_shinto,TEXTUAL_ATTESTATION,SUPPORTED,v0.35 source-located entity.
 place.japanese.yomi,civ.japanese_shinto,TEXTUAL_ATTESTATION,SUPPORTED,v0.31 source-located entity.
 place.mexica.coatepec,civ.mexica,TEXTUAL_ATTESTATION,SUPPORTED,v0.31 source-located entity.
 place.norse.folkvangr,civ.norse,TEXTUAL_ATTESTATION,SUPPORTED,v0.31 source-located entity.
 place.norse.himinbjorg,civ.norse,TEXTUAL_ATTESTATION,SUPPORTED,v0.31 source-located entity.
 place.norse.mimisbrunnr,civ.norse,ORIGIN,SUPPORTED,"Text-tradition association, not historical existence"
 place.norse.noatun,civ.norse,TEXTUAL_ATTESTATION,SUPPORTED,v0.31 source-located entity.
+place.persian.mazandaran,civ.persian,TEXTUAL_ATTESTATION,SUPPORTED,v0.35 source-located entity.
 place.sumerian.dilmun,civ.sumerian,TEXTUAL_ATTESTATION,SUPPORTED,v0.31 source-located entity.
 place.welsh.annwn,civ.welsh,TEXTUAL_ATTESTATION,SUPPORTED,v0.34 source-located entity.
 place.zoroastrian.airyana_vaejah,civ.zoroastrian,TEXTUAL_ATTESTATION,SUPPORTED,v0.31 source-located entity.
@@ -709,6 +805,7 @@ text.egypt.pyramid_texts,civ.egyptian,ORIGIN_OR_ATTESTATION,SUPPORTED,
 text.egypt.sun_hymn_standard_c_prime,civ.egyptian,ORIGIN,SUPPORTED,Egyptian sun-hymn tradition
 text.egypt.temple_tomb_inscriptions,civ.egyptian,ORIGIN_OR_ATTESTATION,SUPPORTED,
 text.egyptian.tale_heavenly_cow,civ.egyptian,TEXTUAL_ATTESTATION,SUPPORTED,v0.31 source-located entity.
+text.finnish.kalevala,civ.finnish,TEXTUAL_ATTESTATION,SUPPORTED,v0.35 source-located entity.
 text.greek.apollodorus_library,civ.greek,ORIGIN,SUPPORTED,v0.9.0 source-located Greek baseline
 text.greek.argonautica,civ.greek,ORIGIN_OR_ATTESTATION,SUPPORTED,
 text.greek.bibliotheca,civ.greek,ORIGIN_OR_ATTESTATION,SUPPORTED,
