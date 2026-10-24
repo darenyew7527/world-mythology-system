@@ -1247,10 +1247,10 @@
       {
         "builtAt": "2026-10-24T15:00:00Z",
         "dataVersion": "0.34.0",
-        "databaseSha256": null,
-        "gitCommit": null,
+        "databaseSha256": "0eca0a86cded9088f125dc613d542230ae56d4bc7613991e6d88b115e14f454f",
+        "gitCommit": "f5820d637b88eb86ff97d120afdcbb62092379f5",
         "id": "release.v0.34.0",
-        "releaseNotes": "Heroic-epic series: Perseus and Heracles in four parts from Apollodorus (Library 2.4.1-2.8.1; 49 chapters), the Argonautica in two parts (Books I-IV; 26 chapters), the death of Baldr and Ragnarök from the end of Gylfaginning (chapters 49-53; 25 chapters), the Völsunga saga in three parts (ch. 1-32; 36 chapters), the Táin in two parts (25 chapters) and the Four Branches of the Mabinogi (48 chapters). Each part follows one located public-domain witness, every section keeps its own evidenced claim, and the series names what it leaves out. Hera, Apollo and six newly registered deities now open stories from their cards.",
+        "releaseNotes": "Heroic-epic series: Perseus and Heracles in four parts from Apollodorus (Library 2.4.1-2.8.1; 49 chapters), the Argonautica in two parts (Books I-IV; 26 chapters), the death of Baldr and Ragnarök from the end of Gylfaginning (chapters 49-53; 25 chapters), the Völsunga saga in three parts (ch. 1-32; 36 chapters), the Táin in two parts (25 chapters) and the Four Branches of the Mabinogi (48 chapters). Each part follows one located public-domain witness, every section keeps its own evidenced claim, and the series names what it leaves out. Hera, Apollo and six newly registered deities now open stories from their cards. Source commit stamped; database_sha256 is the pre-stamp snapshot digest.",
         "schemaVersion": 50
       }
     ],
@@ -224025,10 +224025,10 @@
     "datasetRelease": {
       "built_at": "2026-10-24T15:00:00Z",
       "data_version": "0.34.0",
-      "database_sha256": null,
-      "git_commit": null,
+      "database_sha256": "0eca0a86cded9088f125dc613d542230ae56d4bc7613991e6d88b115e14f454f",
+      "git_commit": "f5820d637b88eb86ff97d120afdcbb62092379f5",
       "id": "release.v0.34.0",
-      "release_notes": "Heroic-epic series: Perseus and Heracles in four parts from Apollodorus (Library 2.4.1-2.8.1; 49 chapters), the Argonautica in two parts (Books I-IV; 26 chapters), the death of Baldr and Ragnarök from the end of Gylfaginning (chapters 49-53; 25 chapters), the Völsunga saga in three parts (ch. 1-32; 36 chapters), the Táin in two parts (25 chapters) and the Four Branches of the Mabinogi (48 chapters). Each part follows one located public-domain witness, every section keeps its own evidenced claim, and the series names what it leaves out. Hera, Apollo and six newly registered deities now open stories from their cards.",
+      "release_notes": "Heroic-epic series: Perseus and Heracles in four parts from Apollodorus (Library 2.4.1-2.8.1; 49 chapters), the Argonautica in two parts (Books I-IV; 26 chapters), the death of Baldr and Ragnarök from the end of Gylfaginning (chapters 49-53; 25 chapters), the Völsunga saga in three parts (ch. 1-32; 36 chapters), the Táin in two parts (25 chapters) and the Four Branches of the Mabinogi (48 chapters). Each part follows one located public-domain witness, every section keeps its own evidenced claim, and the series names what it leaves out. Hera, Apollo and six newly registered deities now open stories from their cards. Source commit stamped; database_sha256 is the pre-stamp snapshot digest.",
       "schema_version": 50
     },
     "deityStoryCardStatusCounts": {
