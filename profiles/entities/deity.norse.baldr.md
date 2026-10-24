@@ -29,5 +29,7 @@
   - 来源：[Snorri Sturluson, Edda](https://www.vsnrweb-publications.org.uk/Edda-1.pdf)；定位：Gylfaginning 49
 - `claim.v0320.baldr_long.01` [VERIFIED / TEXT_SAYS / 0.90] Baldr dreams ominous dreams threatening his life, and the Æsir resolve to secure protection for him against every danger.
   - 来源：[Snorri Sturluson, Edda](https://www.vsnrweb-publications.org.uk/Edda-1.pdf)；定位：Gylfaginning 49
+- `claim.v0340.ragnarok.11` [VERIFIED / TEXT_SAYS / 0.90] In Gylfaginning 53 the earth rises green from the sea; Víðarr, Váli, Móði and Magni survive, Baldr and Höðr return from Hel, the gods find the golden chess pieces, Líf and Lífþrasir repeople the world, and the sun's daughter drives her mother's course.
+  - 来源：[Snorri Sturluson, Edda](https://www.vsnrweb-publications.org.uk/Edda-1.pdf)；定位：Gylfaginning 53
 
 > 本档案只代表当前阶段性基线，不是对该传统的最终或唯一解释。

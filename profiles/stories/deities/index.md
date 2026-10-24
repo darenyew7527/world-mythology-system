@@ -10,13 +10,14 @@
 | [中国道教](daoist.md) | Chinese Daoist | 1 | 1 | 0 | 0 |
 | [乌加里特](ugaritic.md) | Ugaritic | 8 | 5 | 3 | 0 |
 | [亚述](assyrian.md) | Assyrian | 1 | 0 | 1 | 0 |
-| [北欧](norse.md) | Norse | 30 | 21 | 9 | 0 |
+| [北欧](norse.md) | Norse | 31 | 22 | 9 | 0 |
 | [印度教传统](hindu.md) | Hindu | 11 | 11 | 0 | 0 |
 | [古埃及](egyptian.md) | Ancient Egyptian | 27 | 16 | 11 | 0 |
-| [古希腊](greek.md) | Ancient Greek | 47 | 23 | 24 | 0 |
+| [古希腊](greek.md) | Ancient Greek | 51 | 29 | 22 | 0 |
 | [吠陀传统](vedic.md) | Vedic | 2 | 2 | 0 | 0 |
 | [墨西卡](mexica.md) | Mexica | 6 | 6 | 0 | 0 |
 | [夏威夷](hawaiian.md) | Hawaiian | 1 | 1 | 0 | 0 |
+| [威尔士](welsh.md) | Welsh | 1 | 1 | 0 | 0 |
 | [巴比伦](babylonian.md) | Babylonian | 5 | 5 | 0 | 0 |
 | [斯拉夫](slavic.md) | Slavic | 3 | 2 | 1 | 0 |
 | [日本神道](japanese_shinto.md) | Japanese Shinto | 27 | 23 | 4 | 0 |

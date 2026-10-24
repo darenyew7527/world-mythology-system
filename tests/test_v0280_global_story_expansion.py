@@ -173,7 +173,7 @@ class GlobalStoryExpansionTests(unittest.TestCase):
         counts = self.snapshot["meta"]["counts"]
         self.assertEqual(
             self.snapshot["meta"]["datasetRelease"]["id"],
-            "release.v0.33.0",
+            "release.v0.34.0",
         )
         # Later batches only add rows; the v0.28 checkpoint remains a lower bound.
         minimums = {
@@ -205,7 +205,7 @@ class GlobalStoryExpansionTests(unittest.TestCase):
         self.assertIn("storyExpansionBatches={data.storyExpansionBatches || []}", app)
         self.assertIn('className="story-expansion-audit"', library)
         self.assertIn("BLOCKED_PERMISSION", library)
-        self.assertIn("v0.33", library)
+        self.assertIn("v0.34", library)
         self.assertIn(".story-expansion-audit ul { display: flex; overflow-x: auto", tablet)
         self.assertIn(".story-expansion-audit > header { align-items: flex-start; flex-direction: column; }", mobile)
 
@@ -232,7 +232,7 @@ class GlobalStoryExpansionTests(unittest.TestCase):
         self.assertEqual(dict(v028_release), {"schema_version": 38, "data_version": "0.28.0"})
         self.assertEqual(
             dict(latest_release),
-            {"id": "release.v0.33.0", "schema_version": 48, "data_version": "0.33.0"},
+            {"id": "release.v0.34.0", "schema_version": 50, "data_version": "0.34.0"},
         )
         self.assertEqual(
             migration["name"],
@@ -241,18 +241,18 @@ class GlobalStoryExpansionTests(unittest.TestCase):
         self.assertEqual(checkpoint["snapshot_status"], "SEALED_RELEASE")
         self.assertEqual(
             checkpoint["data_version"],
-            "0.33.0",
+            "0.34.0",
         )
-        self.assertEqual(checkpoint["release_id"], "release.v0.33.0")
-        self.assertEqual(checkpoint["latest_sealed_release_id"], "release.v0.33.0")
+        self.assertEqual(checkpoint["release_id"], "release.v0.34.0")
+        self.assertEqual(checkpoint["latest_sealed_release_id"], "release.v0.34.0")
         self.assertEqual(manifest["snapshot_status"], "SEALED_RELEASE")
         self.assertEqual(
             manifest["project"]["data_version"],
-            "0.33.0",
+            "0.34.0",
         )
         self.assertEqual(
             manifest["latest_sealed_release"]["data_version"],
-            "0.33.0",
+            "0.34.0",
         )
         self.assertNotIn("当前为开发快照", coverage)
 

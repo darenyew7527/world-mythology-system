@@ -55,6 +55,8 @@
   - 来源：[Hesiod, Theogony, Evelyn-White English text](https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0130)；定位：lines 820–880
 - `claim.v0320.theogony.16` [VERIFIED / TEXT_SAYS / 0.90] The gods ask Zeus to reign on Earth's advice; he swallows Metis to forestall a son who would overthrow him, bears Athena from his head and takes his later wives.
   - 来源：[Hesiod, Theogony, Evelyn-White English text](https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0130)；定位：lines 881–929
+- `claim.v0340.heracles_1.02` [VERIFIED / TEXT_SAYS / 0.90] On the night before Amphitryon's return from the Taphian war, Zeus in his likeness lies with Alcmena and makes the night threefold; Alcmena bears Heracles to Zeus and Iphicles to Amphitryon.
+  - 来源：[Pseudo-Apollodorus, Library](https://topostext.org/work/150)；定位：Library 2.4.7–2.4.8
 - `claim.v050.theogony.zeus_participated_titanomachy` [VERIFIED / TEXT_SAYS / 0.98] Theogony 617-735 makes Zeus a leading participant in the war against the Titans.
   - 来源：[Hesiod, Theogony, Evelyn-White English text](https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0130)；定位：lines 617-735
 - `claim.v060.greek.zeus_thunder_scope` [VERIFIED / TEXT_SAYS / 0.98] Hesiod’s Theogony places thunder, lightning and the thunderbolt among the powers given to Zeus by the Cyclopes.

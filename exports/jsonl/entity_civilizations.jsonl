@@ -8,22 +8,29 @@
 {"association_role":"ORIGIN_OR_ATTESTATION","certainty":"SUPPORTED","civilization_id":"civ.chinese_folk","entity_id":"artifact.chinese.qiankun_quan","notes":null}
 {"association_role":"ORIGIN_OR_ATTESTATION","certainty":"SUPPORTED","civilization_id":"civ.egyptian","entity_id":"artifact.egyptian.solar_barque","notes":null}
 {"association_role":"ORIGIN_OR_ATTESTATION","certainty":"SUPPORTED","civilization_id":"civ.greek","entity_id":"artifact.greek.aegis","notes":null}
+{"association_role":"TEXTUAL_ATTESTATION","certainty":"SUPPORTED","civilization_id":"civ.greek","entity_id":"artifact.greek.argo","notes":"v0.34 source-located entity."}
 {"association_role":"ORIGIN_OR_ATTESTATION","certainty":"SUPPORTED","civilization_id":"civ.greek","entity_id":"artifact.greek.caduceus","notes":null}
+{"association_role":"TEXTUAL_ATTESTATION","certainty":"SUPPORTED","civilization_id":"civ.greek","entity_id":"artifact.greek.golden_fleece","notes":"v0.34 source-located entity."}
 {"association_role":"ORIGIN_OR_ATTESTATION","certainty":"SUPPORTED","civilization_id":"civ.greek","entity_id":"artifact.greek.helm_hades","notes":null}
 {"association_role":"TEXTUAL_ATTESTATION","certainty":"SUPPORTED","civilization_id":"civ.hindu","entity_id":"artifact.hindu.amrita","notes":"Both witnesses."}
 {"association_role":"TEXTUAL_ATTESTATION","certainty":"SUPPORTED","civilization_id":"civ.irish","entity_id":"artifact.irish.dagda_cauldron","notes":"v0.31 source-located entity."}
 {"association_role":"ORIGIN_OR_ATTESTATION","certainty":"SUPPORTED","civilization_id":"civ.akkadian","entity_id":"artifact.mesopotamian.tablet_destinies","notes":null}
+{"association_role":"TEXTUAL_ATTESTATION","certainty":"SUPPORTED","civilization_id":"civ.norse","entity_id":"artifact.norse.andvaranaut","notes":"v0.34 source-located entity."}
 {"association_role":"ORIGIN_OR_ATTESTATION","certainty":"SUPPORTED","civilization_id":"civ.norse","entity_id":"artifact.norse.draupnir","notes":null}
 {"association_role":"TEXTUAL_ATTESTATION","certainty":"SUPPORTED","civilization_id":"civ.norse","entity_id":"artifact.norse.gjallarhorn","notes":"v0.31 source-located entity."}
 {"association_role":"ORIGIN_OR_ATTESTATION","certainty":"SUPPORTED","civilization_id":"civ.norse","entity_id":"artifact.norse.gleipnir","notes":null}
+{"association_role":"TEXTUAL_ATTESTATION","certainty":"SUPPORTED","civilization_id":"civ.norse","entity_id":"artifact.norse.naglfar","notes":"v0.34 source-located entity."}
+{"association_role":"TEXTUAL_ATTESTATION","certainty":"SUPPORTED","civilization_id":"civ.welsh","entity_id":"artifact.welsh.cauldron_of_rebirth","notes":"v0.34 source-located entity."}
 {"association_role":"ORIGIN","certainty":"SUPPORTED","civilization_id":"civ.yoruba","entity_id":"artifact.yoruba.ose_sango","notes":"v0.6.0 witness-scoped baseline"}
 {"association_role":"ORIGIN_OR_ATTESTATION","certainty":"SUPPORTED","civilization_id":"civ.chinese_ancient","entity_id":"being.chinese.pangu","notes":null}
 {"association_role":"TEXTUAL_ATTESTATION","certainty":"SUPPORTED","civilization_id":"civ.irish","entity_id":"being.irish.balor","notes":"v0.31 source-located entity."}
+{"association_role":"TEXTUAL_ATTESTATION","certainty":"SUPPORTED","civilization_id":"civ.norse","entity_id":"being.norse.andvari","notes":"v0.34 source-located entity."}
 {"association_role":"ORIGIN","certainty":"SUPPORTED","civilization_id":"civ.norse","entity_id":"being.norse.bestla","notes":"Text-tradition association, not historical existence"}
 {"association_role":"ORIGIN","certainty":"SUPPORTED","civilization_id":"civ.norse","entity_id":"being.norse.brokkr","notes":"Text-tradition association, not historical existence"}
 {"association_role":"ORIGIN","certainty":"SUPPORTED","civilization_id":"civ.norse","entity_id":"being.norse.eitri","notes":"Text-tradition association, not historical existence"}
 {"association_role":"ORIGIN","certainty":"SUPPORTED","civilization_id":"civ.norse","entity_id":"being.norse.jarnsaxa","notes":"v0.6.0 witness-scoped baseline"}
 {"association_role":"ORIGIN","certainty":"SUPPORTED","civilization_id":"civ.norse","entity_id":"being.norse.mimir","notes":"Text-tradition association, not historical existence"}
+{"association_role":"TEXTUAL_ATTESTATION","certainty":"SUPPORTED","civilization_id":"civ.norse","entity_id":"being.norse.regin","notes":"v0.34 source-located entity."}
 {"association_role":"ORIGIN","certainty":"SUPPORTED","civilization_id":"civ.norse","entity_id":"being.norse.sindri","notes":"Text-tradition association, not historical existence"}
 {"association_role":"ORIGIN_OR_ATTESTATION","certainty":"SUPPORTED","civilization_id":"civ.norse","entity_id":"being.norse.sons_of_ivaldi","notes":null}
 {"association_role":"TEXTUAL_ATTESTATION","certainty":"SUPPORTED","civilization_id":"civ.norse","entity_id":"being.norse.utgarda_loki","notes":"v0.32 source-located entity."}
@@ -63,21 +70,37 @@
 {"association_role":"ORIGIN_OR_ATTESTATION","certainty":"SUPPORTED","civilization_id":"civ.zoroastrian","entity_id":"concept.zoroastrian.druj","notes":null}
 {"association_role":"WITNESS_SCOPED_CONTEXT","certainty":"SUPPORTED","civilization_id":"civ.akkadian","entity_id":"creature.akkadian.anzu","notes":"v0.20 scoped association"}
 {"association_role":"TEXTUAL_ATTESTATION","certainty":"SUPPORTED","civilization_id":"civ.chinese_ancient","entity_id":"creature.chinese.ao_turtle","notes":"Huainanzi and Liezi witnesses."}
+{"association_role":"TEXTUAL_ATTESTATION","certainty":"SUPPORTED","civilization_id":"civ.greek","entity_id":"creature.greek.cerberus","notes":"v0.34 source-located entity."}
 {"association_role":"TEXTUAL_ATTESTATION","certainty":"SUPPORTED","civilization_id":"civ.greek","entity_id":"creature.greek.charybdis","notes":"v0.33 source-located entity."}
 {"association_role":"ORIGIN_OR_ATTESTATION","certainty":"SUPPORTED","civilization_id":"civ.greek","entity_id":"creature.greek.cyclopes_hesiodic","notes":null}
+{"association_role":"TEXTUAL_ATTESTATION","certainty":"SUPPORTED","civilization_id":"civ.greek","entity_id":"creature.greek.geryon","notes":"v0.34 source-located entity."}
+{"association_role":"TEXTUAL_ATTESTATION","certainty":"SUPPORTED","civilization_id":"civ.greek","entity_id":"creature.greek.graeae","notes":"v0.34 source-located entity."}
+{"association_role":"TEXTUAL_ATTESTATION","certainty":"SUPPORTED","civilization_id":"civ.greek","entity_id":"creature.greek.harpies","notes":"v0.34 source-located entity."}
 {"association_role":"TEXTUAL_ATTESTATION","certainty":"SUPPORTED","civilization_id":"civ.greek","entity_id":"creature.greek.hecatoncheires","notes":"v0.32 source-located entity."}
+{"association_role":"TEXTUAL_ATTESTATION","certainty":"SUPPORTED","civilization_id":"civ.greek","entity_id":"creature.greek.lernaean_hydra","notes":"v0.34 source-located entity."}
+{"association_role":"TEXTUAL_ATTESTATION","certainty":"SUPPORTED","civilization_id":"civ.greek","entity_id":"creature.greek.medusa","notes":"v0.34 source-located entity."}
+{"association_role":"TEXTUAL_ATTESTATION","certainty":"SUPPORTED","civilization_id":"civ.greek","entity_id":"creature.greek.nemean_lion","notes":"v0.34 source-located entity."}
+{"association_role":"TEXTUAL_ATTESTATION","certainty":"SUPPORTED","civilization_id":"civ.greek","entity_id":"creature.greek.nessus","notes":"v0.34 source-located entity."}
+{"association_role":"TEXTUAL_ATTESTATION","certainty":"SUPPORTED","civilization_id":"civ.greek","entity_id":"creature.greek.pegasus","notes":"v0.34 source-located entity."}
 {"association_role":"TEXTUAL_ATTESTATION","certainty":"SUPPORTED","civilization_id":"civ.greek","entity_id":"creature.greek.polyphemus","notes":"v0.33 source-located entity."}
 {"association_role":"TEXTUAL_ATTESTATION","certainty":"SUPPORTED","civilization_id":"civ.greek","entity_id":"creature.greek.scylla","notes":"v0.33 source-located entity."}
 {"association_role":"TEXTUAL_ATTESTATION","certainty":"SUPPORTED","civilization_id":"civ.greek","entity_id":"creature.greek.sirens","notes":"v0.33 source-located entity."}
+{"association_role":"TEXTUAL_ATTESTATION","certainty":"SUPPORTED","civilization_id":"civ.greek","entity_id":"creature.greek.talos","notes":"v0.34 source-located entity."}
 {"association_role":"ORIGIN","certainty":"SUPPORTED","civilization_id":"civ.greek","entity_id":"creature.greek.typhon","notes":"Text-tradition association, not historical existence"}
 {"association_role":"TEXTUAL_ATTESTATION","certainty":"SUPPORTED","civilization_id":"civ.hindu","entity_id":"creature.hindu.akupara","notes":"Mahābhārata witness."}
 {"association_role":"TEXTUAL_ATTESTATION","certainty":"SUPPORTED","civilization_id":"civ.hindu","entity_id":"creature.hindu.jatayu","notes":"v0.33 source-located entity."}
 {"association_role":"TEXTUAL_ATTESTATION","certainty":"SUPPORTED","civilization_id":"civ.hindu","entity_id":"creature.hindu.vasuki","notes":"Both witnesses."}
+{"association_role":"TEXTUAL_ATTESTATION","certainty":"SUPPORTED","civilization_id":"civ.irish","entity_id":"creature.irish.donn_cuailnge","notes":"v0.34 source-located entity."}
+{"association_role":"TEXTUAL_ATTESTATION","certainty":"SUPPORTED","civilization_id":"civ.irish","entity_id":"creature.irish.finnbennach","notes":"v0.34 source-located entity."}
 {"association_role":"TEXTUAL_ATTESTATION","certainty":"SUPPORTED","civilization_id":"civ.babylonian","entity_id":"creature.mesopotamian.bull_of_heaven","notes":"v0.32 source-located entity."}
+{"association_role":"TEXTUAL_ATTESTATION","certainty":"SUPPORTED","civilization_id":"civ.norse","entity_id":"creature.norse.fafnir","notes":"v0.34 source-located entity."}
 {"association_role":"ORIGIN_OR_ATTESTATION","certainty":"SUPPORTED","civilization_id":"civ.norse","entity_id":"creature.norse.fenrir","notes":null}
+{"association_role":"TEXTUAL_ATTESTATION","certainty":"SUPPORTED","civilization_id":"civ.norse","entity_id":"creature.norse.garm","notes":"v0.34 source-located entity."}
+{"association_role":"TEXTUAL_ATTESTATION","certainty":"SUPPORTED","civilization_id":"civ.norse","entity_id":"creature.norse.grani","notes":"v0.34 source-located entity."}
 {"association_role":"ORIGIN","certainty":"SUPPORTED","civilization_id":"civ.norse","entity_id":"creature.norse.gullinbursti","notes":"Text-tradition association, not historical existence"}
 {"association_role":"ORIGIN_OR_ATTESTATION","certainty":"SUPPORTED","civilization_id":"civ.norse","entity_id":"creature.norse.jormungandr","notes":null}
 {"association_role":"TEXTUAL_ATTESTATION","certainty":"SUPPORTED","civilization_id":"civ.norse","entity_id":"creature.norse.sleipnir","notes":"v0.32 source-located entity."}
+{"association_role":"TEXTUAL_ATTESTATION","certainty":"SUPPORTED","civilization_id":"civ.norse","entity_id":"creature.norse.surtr","notes":"v0.34 source-located entity."}
 {"association_role":"ORIGIN","certainty":"SUPPORTED","civilization_id":"civ.vedic","entity_id":"creature.vedic.vritra","notes":"v0.6.0 witness-scoped baseline"}
 {"association_role":"ORIGIN_OR_ATTESTATION","certainty":"SUPPORTED","civilization_id":"civ.akkadian","entity_id":"deity.akkadian.ishtar","notes":null}
 {"association_role":"WITNESS_SCOPED_CONTEXT","certainty":"SUPPORTED","civilization_id":"civ.akkadian","entity_id":"deity.akkadian.ninurta","notes":"v0.20 scoped association"}
@@ -136,6 +159,7 @@
 {"association_role":"ORIGIN","certainty":"SUPPORTED","civilization_id":"civ.greek","entity_id":"deity.greek.asteria","notes":"Registered from the Greek textual baseline; comparative concepts remain navigation aids only"}
 {"association_role":"ORIGIN","certainty":"SUPPORTED","civilization_id":"civ.greek","entity_id":"deity.greek.astraeus","notes":"v0.9.0 source-located Greek baseline"}
 {"association_role":"ORIGIN_OR_ATTESTATION","certainty":"SUPPORTED","civilization_id":"civ.greek","entity_id":"deity.greek.athena","notes":null}
+{"association_role":"TEXTUAL_ATTESTATION","certainty":"SUPPORTED","civilization_id":"civ.greek","entity_id":"deity.greek.atlas","notes":"v0.34 source-located entity."}
 {"association_role":"TEXTUAL_ATTESTATION","certainty":"SUPPORTED","civilization_id":"civ.greek","entity_id":"deity.greek.calypso","notes":"v0.33 source-located entity."}
 {"association_role":"ORIGIN","certainty":"SUPPORTED","civilization_id":"civ.greek","entity_id":"deity.greek.chaos","notes":"Registered from the Greek textual baseline; comparative concepts remain navigation aids only"}
 {"association_role":"TEXTUAL_ATTESTATION","certainty":"SUPPORTED","civilization_id":"civ.greek","entity_id":"deity.greek.circe","notes":"v0.33 source-located entity."}
@@ -146,9 +170,11 @@
 {"association_role":"ORIGIN_OR_ATTESTATION","certainty":"SUPPORTED","civilization_id":"civ.greek","entity_id":"deity.greek.dionysus","notes":null}
 {"association_role":"ORIGIN","certainty":"SUPPORTED","civilization_id":"civ.greek","entity_id":"deity.greek.eos","notes":"Registered from the Greek textual baseline; comparative concepts remain navigation aids only"}
 {"association_role":"ORIGIN","certainty":"SUPPORTED","civilization_id":"civ.greek","entity_id":"deity.greek.erebus","notes":"Registered from the Greek textual baseline; comparative concepts remain navigation aids only"}
+{"association_role":"TEXTUAL_ATTESTATION","certainty":"SUPPORTED","civilization_id":"civ.greek","entity_id":"deity.greek.eros","notes":"v0.34 source-located entity."}
 {"association_role":"ORIGIN","certainty":"SUPPORTED","civilization_id":"civ.greek","entity_id":"deity.greek.eurybia","notes":"v0.9.0 source-located Greek baseline"}
 {"association_role":"ORIGIN_OR_ATTESTATION","certainty":"SUPPORTED","civilization_id":"civ.greek","entity_id":"deity.greek.gaia","notes":null}
 {"association_role":"ORIGIN_OR_ATTESTATION","certainty":"SUPPORTED","civilization_id":"civ.greek","entity_id":"deity.greek.hades","notes":null}
+{"association_role":"TEXTUAL_ATTESTATION","certainty":"SUPPORTED","civilization_id":"civ.greek","entity_id":"deity.greek.hebe","notes":"v0.34 source-located entity."}
 {"association_role":"ORIGIN","certainty":"SUPPORTED","civilization_id":"civ.greek","entity_id":"deity.greek.hecate","notes":"Registered from the Greek textual baseline; comparative concepts remain navigation aids only"}
 {"association_role":"ORIGIN","certainty":"SUPPORTED","civilization_id":"civ.greek","entity_id":"deity.greek.helios","notes":"Registered from the Greek textual baseline; comparative concepts remain navigation aids only"}
 {"association_role":"ORIGIN","certainty":"SUPPORTED","civilization_id":"civ.greek","entity_id":"deity.greek.hemera","notes":"Registered from the Greek textual baseline; comparative concepts remain navigation aids only"}
@@ -257,6 +283,7 @@
 {"association_role":"ORIGIN_OR_ATTESTATION","certainty":"SUPPORTED","civilization_id":"civ.norse","entity_id":"deity.norse.tyr","notes":null}
 {"association_role":"ORIGIN","certainty":"SUPPORTED","civilization_id":"civ.norse","entity_id":"deity.norse.ullr","notes":"v0.6.0 witness-scoped baseline"}
 {"association_role":"ORIGIN","certainty":"SUPPORTED","civilization_id":"civ.norse","entity_id":"deity.norse.ve","notes":"Text-tradition association, not historical existence"}
+{"association_role":"TEXTUAL_ATTESTATION","certainty":"SUPPORTED","civilization_id":"civ.norse","entity_id":"deity.norse.vidar","notes":"v0.34 source-located entity."}
 {"association_role":"ORIGIN","certainty":"SUPPORTED","civilization_id":"civ.norse","entity_id":"deity.norse.vili","notes":"Text-tradition association, not historical existence"}
 {"association_role":"ORIGIN_OR_ATTESTATION","certainty":"SUPPORTED","civilization_id":"civ.polynesian","entity_id":"deity.polynesian.tane","notes":null}
 {"association_role":"ORIGIN_OR_ATTESTATION","certainty":"SUPPORTED","civilization_id":"civ.polynesian","entity_id":"deity.polynesian.tangaroa","notes":null}
@@ -283,6 +310,7 @@
 {"association_role":"ORIGIN_OR_ATTESTATION","certainty":"SUPPORTED","civilization_id":"civ.ugaritic","entity_id":"deity.ugaritic.yam","notes":null}
 {"association_role":"ORIGIN_OR_ATTESTATION","certainty":"SUPPORTED","civilization_id":"civ.vedic","entity_id":"deity.vedic.indra","notes":null}
 {"association_role":"ORIGIN","certainty":"SUPPORTED","civilization_id":"civ.vedic","entity_id":"deity.vedic.tvastr","notes":"v0.6.0 witness-scoped baseline"}
+{"association_role":"TEXTUAL_ATTESTATION","certainty":"SUPPORTED","civilization_id":"civ.welsh","entity_id":"deity.welsh.arawn","notes":"v0.34 source-located entity."}
 {"association_role":"ORIGIN_OR_ATTESTATION","certainty":"SUPPORTED","civilization_id":"civ.yoruba","entity_id":"deity.yoruba.ogun","notes":null}
 {"association_role":"ORIGIN_OR_ATTESTATION","certainty":"SUPPORTED","civilization_id":"civ.yoruba","entity_id":"deity.yoruba.olodumare","notes":null}
 {"association_role":"ORIGIN_OR_ATTESTATION","certainty":"SUPPORTED","civilization_id":"civ.ifa","entity_id":"deity.yoruba.orunmila","notes":null}
@@ -386,14 +414,33 @@
 {"association_role":"ORIGIN_OR_ATTESTATION","certainty":"SUPPORTED","civilization_id":"civ.chinese_ancient","entity_id":"hero.chinese.yellow_emperor","notes":null}
 {"association_role":"TEXTUAL_ATTESTATION","certainty":"SUPPORTED","civilization_id":"civ.chinese_folk","entity_id":"hero.chinese.zhu_bajie","notes":"v0.33 source-located entity."}
 {"association_role":"TEXTUAL_ATTESTATION","certainty":"SUPPORTED","civilization_id":"civ.chinese_ancient","entity_id":"hero.chinese.zhuanxu","notes":"Huainanzi and Liezi witnesses."}
+{"association_role":"TEXTUAL_ATTESTATION","certainty":"SUPPORTED","civilization_id":"civ.greek","entity_id":"hero.greek.acrisius","notes":"v0.34 source-located entity."}
 {"association_role":"ORIGIN","certainty":"SUPPORTED","civilization_id":"civ.greek","entity_id":"hero.greek.aeetes","notes":"v0.9.0 source-located Greek baseline"}
+{"association_role":"TEXTUAL_ATTESTATION","certainty":"SUPPORTED","civilization_id":"civ.greek","entity_id":"hero.greek.alcmena","notes":"v0.34 source-located entity."}
+{"association_role":"TEXTUAL_ATTESTATION","certainty":"SUPPORTED","civilization_id":"civ.greek","entity_id":"hero.greek.amphitryon","notes":"v0.34 source-located entity."}
 {"association_role":"ORIGIN","certainty":"SUPPORTED","civilization_id":"civ.greek","entity_id":"hero.greek.andromeda","notes":"v0.9.0 source-located Greek baseline"}
+{"association_role":"TEXTUAL_ATTESTATION","certainty":"SUPPORTED","civilization_id":"civ.greek","entity_id":"hero.greek.apsyrtus","notes":"v0.34 source-located entity."}
+{"association_role":"TEXTUAL_ATTESTATION","certainty":"SUPPORTED","civilization_id":"civ.greek","entity_id":"hero.greek.danae","notes":"v0.34 source-located entity."}
+{"association_role":"TEXTUAL_ATTESTATION","certainty":"SUPPORTED","civilization_id":"civ.greek","entity_id":"hero.greek.deianira","notes":"v0.34 source-located entity."}
+{"association_role":"TEXTUAL_ATTESTATION","certainty":"SUPPORTED","civilization_id":"civ.greek","entity_id":"hero.greek.eurystheus","notes":"v0.34 source-located entity."}
+{"association_role":"TEXTUAL_ATTESTATION","certainty":"SUPPORTED","civilization_id":"civ.greek","entity_id":"hero.greek.heracles","notes":"v0.34 source-located entity."}
+{"association_role":"TEXTUAL_ATTESTATION","certainty":"SUPPORTED","civilization_id":"civ.greek","entity_id":"hero.greek.hippolyte","notes":"v0.34 source-located entity."}
+{"association_role":"TEXTUAL_ATTESTATION","certainty":"SUPPORTED","civilization_id":"civ.greek","entity_id":"hero.greek.hylas","notes":"v0.34 source-located entity."}
+{"association_role":"TEXTUAL_ATTESTATION","certainty":"SUPPORTED","civilization_id":"civ.greek","entity_id":"hero.greek.hypsipyle","notes":"v0.34 source-located entity."}
+{"association_role":"TEXTUAL_ATTESTATION","certainty":"SUPPORTED","civilization_id":"civ.greek","entity_id":"hero.greek.iolaus","notes":"v0.34 source-located entity."}
+{"association_role":"TEXTUAL_ATTESTATION","certainty":"SUPPORTED","civilization_id":"civ.greek","entity_id":"hero.greek.iole","notes":"v0.34 source-located entity."}
+{"association_role":"TEXTUAL_ATTESTATION","certainty":"SUPPORTED","civilization_id":"civ.greek","entity_id":"hero.greek.jason","notes":"v0.34 source-located entity."}
 {"association_role":"TEXTUAL_ATTESTATION","certainty":"SUPPORTED","civilization_id":"civ.greek","entity_id":"hero.greek.laertes","notes":"v0.33 source-located entity."}
 {"association_role":"ORIGIN","certainty":"SUPPORTED","civilization_id":"civ.greek","entity_id":"hero.greek.medea","notes":"v0.9.0 source-located Greek baseline"}
 {"association_role":"TEXTUAL_ATTESTATION","certainty":"SUPPORTED","civilization_id":"civ.greek","entity_id":"hero.greek.odysseus","notes":"v0.33 source-located entity."}
+{"association_role":"TEXTUAL_ATTESTATION","certainty":"SUPPORTED","civilization_id":"civ.greek","entity_id":"hero.greek.omphale","notes":"v0.34 source-located entity."}
+{"association_role":"TEXTUAL_ATTESTATION","certainty":"SUPPORTED","civilization_id":"civ.greek","entity_id":"hero.greek.orpheus","notes":"v0.34 source-located entity."}
+{"association_role":"TEXTUAL_ATTESTATION","certainty":"SUPPORTED","civilization_id":"civ.greek","entity_id":"hero.greek.pelias","notes":"v0.34 source-located entity."}
 {"association_role":"TEXTUAL_ATTESTATION","certainty":"SUPPORTED","civilization_id":"civ.greek","entity_id":"hero.greek.penelope","notes":"v0.33 source-located entity."}
 {"association_role":"ORIGIN","certainty":"SUPPORTED","civilization_id":"civ.greek","entity_id":"hero.greek.perses_perseus_son","notes":"v0.9.0 source-located Greek baseline"}
 {"association_role":"ORIGIN","certainty":"SUPPORTED","civilization_id":"civ.greek","entity_id":"hero.greek.perseus","notes":"v0.9.0 source-located Greek baseline"}
+{"association_role":"TEXTUAL_ATTESTATION","certainty":"SUPPORTED","civilization_id":"civ.greek","entity_id":"hero.greek.phineus","notes":"v0.34 source-located entity."}
+{"association_role":"TEXTUAL_ATTESTATION","certainty":"SUPPORTED","civilization_id":"civ.greek","entity_id":"hero.greek.polydeuces","notes":"v0.34 source-located entity."}
 {"association_role":"TEXTUAL_ATTESTATION","certainty":"SUPPORTED","civilization_id":"civ.greek","entity_id":"hero.greek.telemachus","notes":"v0.33 source-located entity."}
 {"association_role":"ORIGIN","certainty":"SUPPORTED","civilization_id":"civ.greek","entity_id":"hero.greek.triptolemos","notes":"v0.8.0 source-located Greek baseline"}
 {"association_role":"TEXTUAL_ATTESTATION","certainty":"SUPPORTED","civilization_id":"civ.hindu","entity_id":"hero.indian.ahalya","notes":"v0.33 source-located entity."}
@@ -408,16 +455,41 @@
 {"association_role":"TEXTUAL_ATTESTATION","certainty":"SUPPORTED","civilization_id":"civ.hindu","entity_id":"hero.indian.valin","notes":"v0.33 source-located entity."}
 {"association_role":"TEXTUAL_ATTESTATION","certainty":"SUPPORTED","civilization_id":"civ.hindu","entity_id":"hero.indian.vibhishana","notes":"v0.33 source-located entity."}
 {"association_role":"TEXTUAL_ATTESTATION","certainty":"SUPPORTED","civilization_id":"civ.hindu","entity_id":"hero.indian.vishvamitra","notes":"v0.33 source-located entity."}
+{"association_role":"TEXTUAL_ATTESTATION","certainty":"SUPPORTED","civilization_id":"civ.irish","entity_id":"hero.irish.ailill","notes":"v0.34 source-located entity."}
+{"association_role":"TEXTUAL_ATTESTATION","certainty":"SUPPORTED","civilization_id":"civ.irish","entity_id":"hero.irish.conchobar","notes":"v0.34 source-located entity."}
 {"association_role":"ORIGIN_OR_ATTESTATION","certainty":"SUPPORTED","civilization_id":"civ.irish","entity_id":"hero.irish.cu_chulainn","notes":null}
+{"association_role":"TEXTUAL_ATTESTATION","certainty":"SUPPORTED","civilization_id":"civ.irish","entity_id":"hero.irish.ferdiad","notes":"v0.34 source-located entity."}
 {"association_role":"ORIGIN_OR_ATTESTATION","certainty":"SUPPORTED","civilization_id":"civ.irish","entity_id":"hero.irish.fergus_mac_roich","notes":null}
+{"association_role":"TEXTUAL_ATTESTATION","certainty":"SUPPORTED","civilization_id":"civ.irish","entity_id":"hero.irish.medb","notes":"v0.34 source-located entity."}
 {"association_role":"ORIGIN_OR_ATTESTATION","certainty":"SUPPORTED","civilization_id":"civ.japanese_shinto","entity_id":"hero.japanese.yamato_takeru","notes":null}
 {"association_role":"ORIGIN_OR_ATTESTATION","certainty":"SUPPORTED","civilization_id":"civ.maya","entity_id":"hero.kiche.hunahpu","notes":null}
 {"association_role":"ORIGIN_OR_ATTESTATION","certainty":"SUPPORTED","civilization_id":"civ.maya","entity_id":"hero.kiche.xbalanque","notes":null}
 {"association_role":"TEXTUAL_ATTESTATION","certainty":"SUPPORTED","civilization_id":"civ.babylonian","entity_id":"hero.mesopotamian.enkidu","notes":"v0.32 source-located entity."}
 {"association_role":"TEXTUAL_ATTESTATION","certainty":"SUPPORTED","civilization_id":"civ.babylonian","entity_id":"hero.mesopotamian.utnapishtim","notes":"v0.32 source-located entity."}
+{"association_role":"TEXTUAL_ATTESTATION","certainty":"SUPPORTED","civilization_id":"civ.norse","entity_id":"hero.norse.brynhild","notes":"v0.34 source-located entity."}
+{"association_role":"TEXTUAL_ATTESTATION","certainty":"SUPPORTED","civilization_id":"civ.norse","entity_id":"hero.norse.gudrun","notes":"v0.34 source-located entity."}
+{"association_role":"TEXTUAL_ATTESTATION","certainty":"SUPPORTED","civilization_id":"civ.norse","entity_id":"hero.norse.gunnar","notes":"v0.34 source-located entity."}
+{"association_role":"TEXTUAL_ATTESTATION","certainty":"SUPPORTED","civilization_id":"civ.norse","entity_id":"hero.norse.sigmund","notes":"v0.34 source-located entity."}
+{"association_role":"TEXTUAL_ATTESTATION","certainty":"SUPPORTED","civilization_id":"civ.norse","entity_id":"hero.norse.signy","notes":"v0.34 source-located entity."}
+{"association_role":"TEXTUAL_ATTESTATION","certainty":"SUPPORTED","civilization_id":"civ.norse","entity_id":"hero.norse.sigurd","notes":"v0.34 source-located entity."}
+{"association_role":"TEXTUAL_ATTESTATION","certainty":"SUPPORTED","civilization_id":"civ.norse","entity_id":"hero.norse.sinfjotli","notes":"v0.34 source-located entity."}
 {"association_role":"TEXTUAL_ATTESTATION","certainty":"SUPPORTED","civilization_id":"civ.norse","entity_id":"hero.norse.thjalfi","notes":"v0.32 source-located entity."}
+{"association_role":"TEXTUAL_ATTESTATION","certainty":"SUPPORTED","civilization_id":"civ.norse","entity_id":"hero.norse.volsung","notes":"v0.34 source-located entity."}
 {"association_role":"ORIGIN_OR_ATTESTATION","certainty":"SUPPORTED","civilization_id":"civ.polynesian","entity_id":"hero.polynesian.maui","notes":null}
 {"association_role":"TEXTUAL_ATTESTATION","certainty":"SUPPORTED","civilization_id":"civ.sumerian","entity_id":"hero.sumerian.gilgamesh","notes":"v0.31 source-located entity."}
+{"association_role":"TEXTUAL_ATTESTATION","certainty":"SUPPORTED","civilization_id":"civ.welsh","entity_id":"hero.welsh.arianrhod","notes":"v0.34 source-located entity."}
+{"association_role":"TEXTUAL_ATTESTATION","certainty":"SUPPORTED","civilization_id":"civ.welsh","entity_id":"hero.welsh.bendigeidfran","notes":"v0.34 source-located entity."}
+{"association_role":"TEXTUAL_ATTESTATION","certainty":"SUPPORTED","civilization_id":"civ.welsh","entity_id":"hero.welsh.blodeuedd","notes":"v0.34 source-located entity."}
+{"association_role":"TEXTUAL_ATTESTATION","certainty":"SUPPORTED","civilization_id":"civ.welsh","entity_id":"hero.welsh.branwen","notes":"v0.34 source-located entity."}
+{"association_role":"TEXTUAL_ATTESTATION","certainty":"SUPPORTED","civilization_id":"civ.welsh","entity_id":"hero.welsh.efnysien","notes":"v0.34 source-located entity."}
+{"association_role":"TEXTUAL_ATTESTATION","certainty":"SUPPORTED","civilization_id":"civ.welsh","entity_id":"hero.welsh.gwydion","notes":"v0.34 source-located entity."}
+{"association_role":"TEXTUAL_ATTESTATION","certainty":"SUPPORTED","civilization_id":"civ.welsh","entity_id":"hero.welsh.lleu","notes":"v0.34 source-located entity."}
+{"association_role":"TEXTUAL_ATTESTATION","certainty":"SUPPORTED","civilization_id":"civ.welsh","entity_id":"hero.welsh.manawydan","notes":"v0.34 source-located entity."}
+{"association_role":"TEXTUAL_ATTESTATION","certainty":"SUPPORTED","civilization_id":"civ.welsh","entity_id":"hero.welsh.math","notes":"v0.34 source-located entity."}
+{"association_role":"TEXTUAL_ATTESTATION","certainty":"SUPPORTED","civilization_id":"civ.welsh","entity_id":"hero.welsh.matholwch","notes":"v0.34 source-located entity."}
+{"association_role":"TEXTUAL_ATTESTATION","certainty":"SUPPORTED","civilization_id":"civ.welsh","entity_id":"hero.welsh.pryderi","notes":"v0.34 source-located entity."}
+{"association_role":"TEXTUAL_ATTESTATION","certainty":"SUPPORTED","civilization_id":"civ.welsh","entity_id":"hero.welsh.pwyll","notes":"v0.34 source-located entity."}
+{"association_role":"TEXTUAL_ATTESTATION","certainty":"SUPPORTED","civilization_id":"civ.welsh","entity_id":"hero.welsh.rhiannon","notes":"v0.34 source-located entity."}
 {"association_role":"ORIGIN","certainty":"SUPPORTED","civilization_id":"civ.persian","entity_id":"historical.achaemenid.darius_i","notes":"Achaemenid historical ruler"}
 {"association_role":"HISTORICAL_CONTEXT","certainty":"SUPPORTED","civilization_id":"civ.persian","entity_id":"historical.achaemenid.xerxes_i","notes":"Achaemenid king"}
 {"association_role":"TEXTUAL_ATTESTATION","certainty":"SUPPORTED","civilization_id":"civ.chinese_folk","entity_id":"historical.chinese.tang_taizong","notes":"v0.33 source-located entity."}
@@ -466,6 +538,7 @@
 {"association_role":"TEXTUAL_ATTESTATION","certainty":"SUPPORTED","civilization_id":"civ.greek","entity_id":"person.greek.antinous","notes":"v0.33 source-located entity."}
 {"association_role":"TEXTUAL_ATTESTATION","certainty":"SUPPORTED","civilization_id":"civ.greek","entity_id":"person.greek.eumaeus","notes":"v0.33 source-located entity."}
 {"association_role":"TEXTUAL_ATTESTATION","certainty":"SUPPORTED","civilization_id":"civ.greek","entity_id":"person.greek.eurycleia","notes":"v0.33 source-located entity."}
+{"association_role":"TEXTUAL_ATTESTATION","certainty":"SUPPORTED","civilization_id":"civ.greek","entity_id":"person.greek.polydectes","notes":"v0.34 source-located entity."}
 {"association_role":"OLD_NORSE_WITNESS_CONTEXT","certainty":"SUPPORTED","civilization_id":"civ.norse","entity_id":"person.norse.ask","notes":"Witness-scoped association"}
 {"association_role":"OLD_NORSE_WITNESS_CONTEXT","certainty":"SUPPORTED","civilization_id":"civ.norse","entity_id":"person.norse.embla","notes":"Witness-scoped association"}
 {"association_role":"TEXTUAL_ATTESTATION","certainty":"SUPPORTED","civilization_id":"civ.chinese_ancient","entity_id":"place.chinese.buzhou_mountain","notes":"Mythic place."}
@@ -482,6 +555,7 @@
 {"association_role":"ORIGIN","certainty":"SUPPORTED","civilization_id":"civ.norse","entity_id":"place.norse.mimisbrunnr","notes":"Text-tradition association, not historical existence"}
 {"association_role":"TEXTUAL_ATTESTATION","certainty":"SUPPORTED","civilization_id":"civ.norse","entity_id":"place.norse.noatun","notes":"v0.31 source-located entity."}
 {"association_role":"TEXTUAL_ATTESTATION","certainty":"SUPPORTED","civilization_id":"civ.sumerian","entity_id":"place.sumerian.dilmun","notes":"v0.31 source-located entity."}
+{"association_role":"TEXTUAL_ATTESTATION","certainty":"SUPPORTED","civilization_id":"civ.welsh","entity_id":"place.welsh.annwn","notes":"v0.34 source-located entity."}
 {"association_role":"TEXTUAL_ATTESTATION","certainty":"SUPPORTED","civilization_id":"civ.zoroastrian","entity_id":"place.zoroastrian.airyana_vaejah","notes":"v0.31 source-located entity."}
 {"association_role":"ORIGIN_OR_ATTESTATION","certainty":"SUPPORTED","civilization_id":"civ.egyptian","entity_id":"realm.egypt.duat","notes":null}
 {"association_role":"ORIGIN","certainty":"SUPPORTED","civilization_id":"civ.greek","entity_id":"realm.greek.tartarus","notes":"Text-tradition association, not historical existence"}
@@ -674,6 +748,7 @@
 {"association_role":"ORIGIN_OR_ATTESTATION","certainty":"SUPPORTED","civilization_id":"civ.hindu","entity_id":"text.indian.ramayana","notes":null}
 {"association_role":"ORIGIN_OR_ATTESTATION","certainty":"SUPPORTED","civilization_id":"civ.indian_regional","entity_id":"text.indian.regional_epics","notes":null}
 {"association_role":"TEXTUAL_ATTESTATION","certainty":"SUPPORTED","civilization_id":"civ.irish","entity_id":"text.irish.cath_maige_tuired","notes":"v0.31 source-located entity."}
+{"association_role":"TEXTUAL_ATTESTATION","certainty":"SUPPORTED","civilization_id":"civ.irish","entity_id":"text.irish.tain_bo_cuailnge","notes":"v0.34 source-located entity."}
 {"association_role":"ORIGIN_OR_ATTESTATION","certainty":"SUPPORTED","civilization_id":"civ.jain","entity_id":"text.jain.corpus","notes":null}
 {"association_role":"JAPANESE_TRADITION_CONTEXT","certainty":"SUPPORTED","civilization_id":"civ.japanese_shinto","entity_id":"text.japan.yamashiro_fudoki_kamo_fragment","notes":"v0.18 scoped association"}
 {"association_role":"ORIGIN_OR_ATTESTATION","certainty":"SUPPORTED","civilization_id":"civ.japanese_shinto","entity_id":"text.japanese.fudoki","notes":null}
@@ -704,6 +779,7 @@
 {"association_role":"ORIGIN_OR_ATTESTATION","certainty":"SUPPORTED","civilization_id":"civ.norse","entity_id":"text.norse.skaldskaparmal","notes":null}
 {"association_role":"ORIGIN_OR_ATTESTATION","certainty":"SUPPORTED","civilization_id":"civ.norse","entity_id":"text.norse.thrymskvida","notes":null}
 {"association_role":"ORIGIN_OR_ATTESTATION","certainty":"SUPPORTED","civilization_id":"civ.norse","entity_id":"text.norse.vafthrudnismal","notes":null}
+{"association_role":"TEXTUAL_ATTESTATION","certainty":"SUPPORTED","civilization_id":"civ.norse","entity_id":"text.norse.volsunga_saga","notes":"v0.34 source-located entity."}
 {"association_role":"ORIGIN_OR_ATTESTATION","certainty":"SUPPORTED","civilization_id":"civ.norse","entity_id":"text.norse.voluspa","notes":null}
 {"association_role":"OLD_NORSE_WITNESS_CONTEXT","certainty":"SUPPORTED","civilization_id":"civ.norse","entity_id":"text.norse.voluspa.st17_18","notes":"Witness-scoped association"}
 {"association_role":"ROYAL_INSCRIPTION","certainty":"SUPPORTED","civilization_id":"civ.persian","entity_id":"text.persia.dsab","notes":"Achaemenid royal inscription commissioned by Darius I"}
@@ -732,6 +808,7 @@
 {"association_role":"TEXT_OR_MATERIAL_RECEPTION_CONTEXT","certainty":"SUPPORTED","civilization_id":"civ.vedic","entity_id":"text.vedic.rigveda.1_32","notes":"v0.22 scoped association"}
 {"association_role":"ORIGIN_OR_ATTESTATION","certainty":"SUPPORTED","civilization_id":"civ.vedic","entity_id":"text.vedic.samaveda","notes":null}
 {"association_role":"ORIGIN_OR_ATTESTATION","certainty":"SUPPORTED","civilization_id":"civ.vedic","entity_id":"text.vedic.yajurveda","notes":null}
+{"association_role":"TEXTUAL_ATTESTATION","certainty":"SUPPORTED","civilization_id":"civ.welsh","entity_id":"text.welsh.four_branches","notes":"v0.34 source-located entity."}
 {"association_role":"ORIGIN_OR_ATTESTATION","certainty":"SUPPORTED","civilization_id":"civ.ifa","entity_id":"text.yoruba.ifa_corpus","notes":null}
 {"association_role":"ORIGIN_OR_ATTESTATION","certainty":"SUPPORTED","civilization_id":"civ.zoroastrian","entity_id":"text.zoroastrian.avesta","notes":null}
 {"association_role":"ORIGIN_OR_ATTESTATION","certainty":"SUPPORTED","civilization_id":"civ.zoroastrian","entity_id":"text.zoroastrian.bundahishn","notes":null}

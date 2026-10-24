@@ -52,7 +52,7 @@ class ReaderOfflineArchiveTests(unittest.TestCase):
         )
         self.assertNotIn("wms-reader-v029", json.dumps(self.snapshot, ensure_ascii=False))
 
-    def test_schema_40_seals_v029_release_preserved_after_v033(self):
+    def test_schema_40_seals_v029_release_preserved_after_v034(self):
         with self.connect() as connection:
             migration = connection.execute(
                 "SELECT name FROM schema_migrations WHERE version=40"
@@ -77,9 +77,9 @@ class ReaderOfflineArchiveTests(unittest.TestCase):
         self.assertEqual(dict(release), {"schema_version": 40, "data_version": "0.29.0"})
         self.assertEqual(introduced, {"v0.29.0", "v0.31.0", "v0.32.0", "v0.33.0"})
         self.assertEqual(checkpoint["snapshot_status"], "SEALED_RELEASE")
-        self.assertEqual(checkpoint["release_id"], "release.v0.33.0")
+        self.assertEqual(checkpoint["release_id"], "release.v0.34.0")
         self.assertEqual(manifest["snapshot_status"], "SEALED_RELEASE")
-        self.assertEqual(manifest["latest_sealed_release"]["data_version"], "0.33.0")
+        self.assertEqual(manifest["latest_sealed_release"]["data_version"], "0.34.0")
 
     def test_versioned_local_storage_and_accessible_controls_are_wired(self):
         storage = (ROOT / "web" / "src" / "readerStorage.js").read_text(encoding="utf-8")
@@ -120,7 +120,7 @@ class ReaderOfflineArchiveTests(unittest.TestCase):
             },
         )
         self.assertEqual(len(archive["stories"]), self.snapshot["meta"]["counts"]["stories"])
-        self.assertEqual(archive["artifactVersion"], "0.33.0")
+        self.assertEqual(archive["artifactVersion"], "0.34.0")
         self.assertEqual(archive["privacyModel"], "NO_PERSONAL_READING_STATE; PUBLIC_SNAPSHOT_ONLY")
         self.assertIn("Source and rights", html_text)
         self.assertIn("Evidence / 证据", html_text)

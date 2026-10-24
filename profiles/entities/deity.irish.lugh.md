@@ -31,5 +31,7 @@
   - 来源：[Cath Maige Tuired: The Second Battle of Mag Tuired (English translation)](https://celt.ucc.ie/published/T300010/index.html)；定位：§§133–135 (Lug and Balor)
 - `claim.v0310.irish.lugh_samildanach` [VERIFIED / TEXT_SAYS / 0.90] Arriving at Tara, Lug is admitted as the one who possesses every art at once: the Samildánach.
   - 来源：[Cath Maige Tuired: The Second Battle of Mag Tuired (English translation)](https://celt.ucc.ie/published/T300010/index.html)；定位：§§53–72 (Lug at the door of Tara)
+- `claim.v0340.tain_1.11` [VERIFIED / TEXT_SAYS / 0.90] At Lerga, Lug mac Ethnenn comes from the síd unseen through the host, tells the wounded Cú Chulainn that he is his father, and heals him with herbs of the síd while he sleeps three days and nights.
+  - 来源：[The Ancient Irish Epic Tale Táin Bó Cúalnge, tr. Joseph Dunn (London: David Nutt, 1914)](https://www.gutenberg.org/ebooks/16464)；定位：Táin (Dunn 1914), Lugh at Lerga
 
 > 本档案只代表当前阶段性基线，不是对该传统的最终或唯一解释。

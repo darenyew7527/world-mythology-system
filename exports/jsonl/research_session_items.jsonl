@@ -604,3 +604,26 @@
 {"action":"CREATE","item_id":"series.hindu.ramayana_books","item_kind":"STORY_SERIES","result":"The Rāmāyaṇa in six books (series)","session_id":"session.20261024.v0330_series"}
 {"action":"CREATE","item_id":"series.greek.odyssey","item_kind":"STORY_SERIES","result":"The Odyssey (series)","session_id":"session.20261024.v0330_series"}
 {"action":"SEAL","item_id":"release.v0.33.0","item_kind":"RELEASE","result":"Formal staged checkpoint: 13 completed series-part targets in 3 series; no target blocked.","session_id":"session.20261024.v0330_series"}
+{"action":"CREATE","item_id":"story.greek.perseus_library","item_kind":"STORY","result":"Greek heroes, Part 1: Perseus","session_id":"session.20261024.v0340_heroic_epics"}
+{"action":"CREATE","item_id":"story.greek.heracles_birth_labours","item_kind":"STORY","result":"Greek heroes, Part 2: Heracles — birth and the first six labours","session_id":"session.20261024.v0340_heroic_epics"}
+{"action":"CREATE","item_id":"story.greek.heracles_far_labours","item_kind":"STORY","result":"Greek heroes, Part 3: Heracles — the last six labours","session_id":"session.20261024.v0340_heroic_epics"}
+{"action":"CREATE","item_id":"story.greek.heracles_death_apotheosis","item_kind":"STORY","result":"Greek heroes, Part 4: Heracles — the poisoned robe and the pyre","session_id":"session.20261024.v0340_heroic_epics"}
+{"action":"CREATE","item_id":"story.greek.argonautica_outward","item_kind":"STORY","result":"The Argonauts, Part 1: the outward voyage","session_id":"session.20261024.v0340_heroic_epics"}
+{"action":"CREATE","item_id":"story.greek.argonautica_fleece_return","item_kind":"STORY","result":"The Argonauts, Part 2: the fleece and the return","session_id":"session.20261024.v0340_heroic_epics"}
+{"action":"CREATE","item_id":"story.norse.volsunga_sigmund","item_kind":"STORY","result":"The Saga of the Völsungs, Part 1: Sigmund","session_id":"session.20261024.v0340_heroic_epics"}
+{"action":"CREATE","item_id":"story.norse.volsunga_sigurd_dragon","item_kind":"STORY","result":"The Saga of the Völsungs, Part 2: Sigurd the dragon-slayer","session_id":"session.20261024.v0340_heroic_epics"}
+{"action":"CREATE","item_id":"story.norse.volsunga_sigurd_brynhild","item_kind":"STORY","result":"The Saga of the Völsungs, Part 3: Sigurd and Brynhild","session_id":"session.20261024.v0340_heroic_epics"}
+{"action":"CREATE","item_id":"story.irish.tain_muster_boy_deeds","item_kind":"STORY","result":"The Cattle Raid of Cooley, Part 1: Cú Chulainn at the fords","session_id":"session.20261024.v0340_heroic_epics"}
+{"action":"CREATE","item_id":"story.irish.tain_ferdiad_bulls","item_kind":"STORY","result":"The Cattle Raid of Cooley, Part 2: Fer Diad and the battle of the bulls","session_id":"session.20261024.v0340_heroic_epics"}
+{"action":"CREATE","item_id":"story.welsh.mabinogi_pwyll","item_kind":"STORY","result":"The Four Branches of the Mabinogi, Part 1: Pwyll","session_id":"session.20261024.v0340_heroic_epics"}
+{"action":"CREATE","item_id":"story.welsh.mabinogi_branwen","item_kind":"STORY","result":"The Four Branches of the Mabinogi, Part 2: Branwen","session_id":"session.20261024.v0340_heroic_epics"}
+{"action":"CREATE","item_id":"story.welsh.mabinogi_manawydan","item_kind":"STORY","result":"The Four Branches of the Mabinogi, Part 3: Manawydan","session_id":"session.20261024.v0340_heroic_epics"}
+{"action":"CREATE","item_id":"story.welsh.mabinogi_math","item_kind":"STORY","result":"The Four Branches of the Mabinogi, Part 4: Math","session_id":"session.20261024.v0340_heroic_epics"}
+{"action":"CREATE","item_id":"storyver.norse.ragnarok_gylf_long","item_kind":"STORY_VERSION","result":"Gylfaginning 51–54 (long retelling)","session_id":"session.20261024.v0340_heroic_epics"}
+{"action":"CREATE","item_id":"series.greek.heroes_library","item_kind":"STORY_SERIES","result":"Greek heroes (series)","session_id":"session.20261024.v0340_heroic_epics"}
+{"action":"CREATE","item_id":"series.greek.argonautica","item_kind":"STORY_SERIES","result":"The Argonauts (series)","session_id":"session.20261024.v0340_heroic_epics"}
+{"action":"CREATE","item_id":"series.norse.gylfaginning_end","item_kind":"STORY_SERIES","result":"The twilight of the gods (series)","session_id":"session.20261024.v0340_heroic_epics"}
+{"action":"CREATE","item_id":"series.norse.volsunga","item_kind":"STORY_SERIES","result":"The Saga of the Völsungs (series)","session_id":"session.20261024.v0340_heroic_epics"}
+{"action":"CREATE","item_id":"series.irish.tain","item_kind":"STORY_SERIES","result":"The Cattle Raid of Cooley (series)","session_id":"session.20261024.v0340_heroic_epics"}
+{"action":"CREATE","item_id":"series.welsh.mabinogi","item_kind":"STORY_SERIES","result":"The Four Branches of the Mabinogi (series)","session_id":"session.20261024.v0340_heroic_epics"}
+{"action":"SEAL","item_id":"release.v0.34.0","item_kind":"RELEASE","result":"Formal staged checkpoint: 16 completed series-part targets in 6 series; no target blocked.","session_id":"session.20261024.v0340_heroic_epics"}

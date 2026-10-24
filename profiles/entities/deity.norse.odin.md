@@ -48,5 +48,9 @@
   - 来源：[Snorri Sturluson, Edda](https://www.vsnrweb-publications.org.uk/Edda-1.pdf)；定位：Gylfaginning 7–8
 - `claim.v0320.baldr_long.05` [VERIFIED / TEXT_SAYS / 0.90] Odin bears Baldr's death most heavily of all the gods, understanding best what a loss it is for the Æsir.
   - 来源：[Snorri Sturluson, Edda](https://www.vsnrweb-publications.org.uk/Edda-1.pdf)；定位：Gylfaginning 49
+- `claim.v0340.vol_1.01` [VERIFIED / TEXT_SAYS / 0.90] When his son Sigi kills the thrall Breði in jealousy and is outlawed, Odin leads him out of the land and gives him warships, and Sigi wins the kingdom of Hunland.
+  - 来源：[The Story of the Volsungs (Volsunga Saga), tr. Eiríkr Magnússon and William Morris (1888 ed.)](https://www.gutenberg.org/ebooks/1152)；定位：Völsunga saga ch. 1
+- `claim.v0340.vol_1.11` [VERIFIED / TEXT_SAYS / 0.90] In Sigmundr's last battle against Lyngvi, a one-eyed man in a blue cloak holds up his spear against Sigmundr's stroke and the sword breaks in two, and Sigmundr falls mortally wounded.
+  - 来源：[The Story of the Volsungs (Volsunga Saga), tr. Eiríkr Magnússon and William Morris (1888 ed.)](https://www.gutenberg.org/ebooks/1152)；定位：Völsunga saga ch. 11
 
 > 本档案只代表当前阶段性基线，不是对该传统的最终或唯一解释。

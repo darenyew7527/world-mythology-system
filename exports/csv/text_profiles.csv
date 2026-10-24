@@ -99,6 +99,7 @@ text.indian.mahabharata.adiparvan_churning,CRITICAL_EDITION_PASSAGE,lang.san,Tra
 text.indian.ramayana,EPIC,lang.san,Traditional attribution to Vālmīki,,Layered composition,,,,,,
 text.indian.regional_epics,CORPUS_SCOPE,,Multiple communities,,Living and historical traditions,,,,,,
 text.irish.cath_maige_tuired,SAGA,lang.gle,,,Medieval Irish; composition dates debated,,,,,,The Túatha Dé Danann prepare for and win the battle against the Fomoire; ends with the Morrígan's prophecies.
+text.irish.tain_bo_cuailnge,SAGA,lang.gle,,,"Recension I (Lebor na hUidre) and Recension II (Book of Leinster), 11th–12th century manuscripts","Book of Leinster, Dublin, Trinity College MS 1339 (c. 1160)",Prose saga with verse passages,,,Medieval text in the public domain,"The muster of Medb, Cú Chulainn's defence of the fords, Fer Diad, the rising of Ulster and the fight of the bulls."
 text.jain.corpus,CORPUS_SCOPE,,Multiple,,Multiple periods,,,,,,
 text.japan.yamashiro_fudoki_kamo_fragment,QUOTED_FRAGMENT,lang.ojp,,,Provincial gazetteer tradition; exact original date and transmission require edition audit,Later quotation witnesses,Fragment concerning Kamo genealogy,Quotation-chain repositories pending,Yamashiro no kuni fudoki itsubun,Ancient fragment public domain; modern editions retain rights,"Fragmentary witness for Tamayorihime, the red arrow, Honoikazuchi of Otokuni and Kamo Wakeikazuchi."
 text.japanese.fudoki,GAZETTEER,lang.ojp,Provincial compilers,,Eighth century onward,,,,,,
@@ -129,6 +130,7 @@ text.norse.sagas,COLLECTION_SCOPE,lang.non,Multiple,,Medieval,,,,,,
 text.norse.skaldskaparmal,PROSE_EDDA_SECTION,lang.non,Snorri Sturluson,,Thirteenth century,,,,,,
 text.norse.thrymskvida,EDDIC_POEM,lang.non,Anonymous,,Preserved in medieval manuscripts,,,,,,
 text.norse.vafthrudnismal,EDDIC_POEM,lang.non,Anonymous,,Preserved in medieval manuscripts,,,,,,
+text.norse.volsunga_saga,SAGA,lang.non,,,13th century (Iceland),"Copenhagen, Royal Library, NKS 1824 b 4to (c. 1400)",43 chapters in the Morris and Magnússon numbering,,,Medieval text in the public domain,The Völsung line from Sigi to Sigurðr's death and Guðrún's later fate.
 text.norse.voluspa,EDDIC_POEM,lang.non,Anonymous,,Preserved in medieval manuscripts,,,,,,
 text.norse.voluspa.st17_18,POETIC_PASSAGE_WITNESS,lang.non,,,Composition date debated; medieval manuscript witness,Codex Regius GKS 2365 4to,Stanzas 17–18,Árni Magnússon Institute / electronic edition,GKS 2365 4to,Medieval text public domain; edition terms apply,Three deities encounter Ask and Embla and grant qualities in the poem.
 text.persia.dsab,Royal inscription,,Darius I royal authority,,Reign of Darius I,The statue itself,"Parallel Old Persian, Elamite and Akkadian versions",National Museum of Iran,Current exact inventory verification remains queued,Ancient text public domain; modern editions/translations protected,Trilingual royal inscription conventionally designated DSab.
@@ -156,6 +158,7 @@ text.vedic.rigveda,VEDA,lang.san,Multiple,,Vedic period; layered composition,,,,
 text.vedic.rigveda.1_32,VEDIC_HYMN_WITNESS,lang.san,,,Vedic period; precise dating debated,Śākala Saṃhitā transmission,"Mandala 1, Sukta 32",Vedic Heritage Portal,RV 1.32,Ancient text public domain; portal media terms apply,"Hymn witness for Indra’s acts, Vṛtra and vajra terminology."
 text.vedic.samaveda,VEDA,lang.san,Multiple,,Vedic period,,,,,,
 text.vedic.yajurveda,VEDA,lang.san,Multiple,,Vedic period,,,,,,
+text.welsh.four_branches,PROSE_TALES,lang.wlm,,,Composition c. 11th–12th century; dating debated,"White Book of Rhydderch (NLW Peniarth MSS 4–5, c. 1350) and Red Book of Hergest (Oxford, Jesus College MS 111, c. 1400)",Four branches,,,Medieval text in the public domain,"Pwyll and Rhiannon, Branwen and Bendigeidfran, Manawydan and the enchantment of Dyfed, Math, Gwydion, Lleu and Blodeuedd."
 text.yoruba.ifa_corpus,LIVING_ORAL_CORPUS,lang.yrb,Lineages and practitioners,,Living oral tradition,,,,,,
 text.zoroastrian.avesta,SCRIPTURE_CORPUS,lang.ave,Multiple,,Layered oral and manuscript history,,,,,,
 text.zoroastrian.bundahishn,COSMOGONIC_TEXT,lang.pal,Multiple,,Middle Persian compilation,,,,,,

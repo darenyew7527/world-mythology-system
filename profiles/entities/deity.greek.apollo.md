@@ -33,6 +33,10 @@
   - 来源：[Delos](https://whc.unesco.org/en/list/530/)；定位：World Heritage property description
 - `claim.greek.apollo_worshipped_delphi` [VERIFIED / HISTORICAL_REALITY / 0.98] Delphi was the pan-Hellenic sanctuary where Apollo's oracle spoke.
   - 来源：[Archaeological Site of Delphi](https://whc.unesco.org/en/list/393/)；定位：World Heritage property description
+- `claim.v0340.argo_1.10` [VERIFIED / TEXT_SAYS / 0.90] On the island of Thynias the Argonauts see Apollo pass at dawn on his way from Lycia to the Hyperboreans and build him an altar; in the land of the Mariandyni the seer Idmon is killed by a boar and the helmsman Tiphys dies of sickness.
+  - 来源：[Apollonius Rhodius, The Argonautica (tr. R. C. Seaton, 1912)](https://www.gutenberg.org/ebooks/830)；定位：Book II, Thynias and the Mariandyni
+- `claim.v0340.argo_2.14` [VERIFIED / TEXT_SAYS / 0.90] In the Pall of Darkness after Crete, Apollo answers Jason's prayer and lights the sea with his golden bow, revealing the island the Argonauts name Anaphe; Euphemus's clod becomes Thera, and the heroes reach Pagasae.
+  - 来源：[Apollonius Rhodius, The Argonautica (tr. R. C. Seaton, 1912)](https://www.gutenberg.org/ebooks/830)；定位：Book IV, Anaphe and the return
 - `claim.v050.h3.apollo_uses_bow` [VERIFIED / TEXT_SAYS / 0.99] Homeric Hymn 3 repeatedly characterizes Apollo as bearing or delighting in the bow.
   - 来源：[Homeric Hymn 3 to Apollo, Evelyn-White English text](https://scaife.perseus.org/library/urn%3Acts%3AgreekLit%3Atlg0013.tlg003.perseus-eng2/)；定位：lines 1-20; 115-132
 - `claim.v050.theogony.apollo_child_leto` [VERIFIED / TEXT_SAYS / 0.99] Theogony 918-920 presents Apollo as a child of Leto and Zeus.

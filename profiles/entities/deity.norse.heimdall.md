@@ -34,5 +34,7 @@
   - 来源：[Snorri Sturluson, Edda](https://www.vsnrweb-publications.org.uk/Edda-1.pdf)；定位：Gylfaginning 27
 - `claim.v0310.norse.heimdall_watchman` [VERIFIED / TEXT_SAYS / 0.95] Heimdallr is the watchman of the gods, guarding the bridge against the mountain-giants.
   - 来源：[Snorri Sturluson, Edda](https://www.vsnrweb-publications.org.uk/Edda-1.pdf)；定位：Gylfaginning 27
+- `claim.v0340.ragnarok.05` [VERIFIED / TEXT_SAYS / 0.90] In Gylfaginning 51 Heimdall blows a mighty blast on the Gjallarhorn and wakes the gods, Odin rides to Mímir's well for counsel, Yggdrasil trembles, and the Æsir and einherjar arm for battle.
+  - 来源：[Snorri Sturluson, Edda](https://www.vsnrweb-publications.org.uk/Edda-1.pdf)；定位：Gylfaginning 51
 
 > 本档案只代表当前阶段性基线，不是对该传统的最终或唯一解释。

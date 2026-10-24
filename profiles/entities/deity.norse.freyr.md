@@ -33,5 +33,7 @@
   - 来源：[Snorri Sturluson, Edda](https://www.vsnrweb-publications.org.uk/Edda-1.pdf)；定位：Gylfaginning 24
 - `claim.v0310.norse.freyr_sword` [VERIFIED / TEXT_SAYS / 0.92] To win Gerðr, Freyr gives away his sword.
   - 来源：[Snorri Sturluson, Edda](https://www.vsnrweb-publications.org.uk/Edda-1.pdf)；定位：Gylfaginning 37
+- `claim.v0340.ragnarok.06` [VERIFIED / TEXT_SAYS / 0.90] In Gylfaginning 51 Odin with golden helmet and Gungnir goes against Fenrir, Thor beside him must fight the Midgard serpent, and Freyr falls to Surtr for lack of the sword he gave to Skírnir.
+  - 来源：[Snorri Sturluson, Edda](https://www.vsnrweb-publications.org.uk/Edda-1.pdf)；定位：Gylfaginning 51
 
 > 本档案只代表当前阶段性基线，不是对该传统的最终或唯一解释。

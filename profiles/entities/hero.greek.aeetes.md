@@ -27,6 +27,8 @@
 
 ## Claims 与证据
 
+- `claim.v0340.argo_2.03` [VERIFIED / TEXT_SAYS / 0.90] Aeetes, suspecting a plot against his throne, sets Jason the trial of yoking fire-breathing bronze-footed bulls, ploughing the field of Ares, sowing a serpent's teeth and slaying the armed men who spring from them, all in one day.
+  - 来源：[Apollonius Rhodius, The Argonautica (tr. R. C. Seaton, 1912)](https://www.gutenberg.org/ebooks/830)；定位：Book III, the trial set
 - `claim.v090.aeetes_participated_restoration` [VERIFIED / TEXT_SAYS / 0.98] Aeetes is the restored king in the sequence of Library 1.9.28.
   - 来源：[Pseudo-Apollodorus, Library](https://topostext.org/work/150)；定位：Library 1.9.28
 

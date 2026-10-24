@@ -1,11 +1,11 @@
 key,value,updated_at
 baseline_statement,Current publicly discoverable material has a staged knowledge baseline; the system remains expandable.,2026-08-10T00:00:00Z
 completion_policy,NO_ALL_COMPLETE,2026-08-10T00:00:00Z
-data_version,0.33.0,2026-10-24T03:00:00Z
-generated_at,2026-10-24T03:00:00Z,2026-10-24T03:00:00Z
+data_version,0.34.0,2026-10-24T15:00:00Z
+generated_at,2026-10-24T15:00:00Z,2026-10-24T15:00:00Z
 project_name,世界神话系统 / World Mythology System,2026-08-10T00:00:00Z
-project_status,"v0.33.0 sealed staged checkpoint: story series with part-by-part reading; every section keeps its own evidence, never ALL COMPLETE",2026-10-24T03:00:00Z
-project_version,0.33.0-series,2026-10-24T03:00:00Z
-schema_version,48,2026-10-24T03:00:00Z
+project_status,"v0.34.0 sealed staged checkpoint: heroic-epic series with part-by-part reading; every section keeps its own evidence, never ALL COMPLETE",2026-10-24T15:00:00Z
+project_version,0.34.0-heroic-epics,2026-10-24T15:00:00Z
+schema_version,50,2026-10-24T15:00:00Z
 story_route_policy,"Reading routes are editorial navigation, not common-origin claims; event order is not absolute chronology",2026-08-30T03:30:00Z
 story_witness_policy,Witnesses remain separate; alignments are editorial navigation; NOT_STATED and UNMODELED never become inferred facts,2026-08-31T23:05:00Z

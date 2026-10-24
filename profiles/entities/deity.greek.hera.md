@@ -28,6 +28,8 @@
 
 ## Claims 与证据
 
+- `claim.v0340.heracles_1.01` [VERIFIED / TEXT_SAYS / 0.90] When Zeus declares that the descendant of Perseus born that day will reign over Mycenae, Hera delays Alcmena's delivery and has Eurystheus born first as a seven-month child.
+  - 来源：[Pseudo-Apollodorus, Library](https://topostext.org/work/150)；定位：Library 2.4.5–2.4.6
 - `claim.v050.theogony.hera_child_cronus` [VERIFIED / TEXT_SAYS / 0.99] Theogony 453-458 lists Hera among the children of Rhea and Cronus.
   - 来源：[Hesiod, Theogony, Evelyn-White English text](https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0130)；定位：lines 453-458
 - `claim.v050.theogony.hera_child_rhea` [VERIFIED / TEXT_SAYS / 0.99] Theogony 453-458 lists Hera among the children borne by Rhea to Cronus.

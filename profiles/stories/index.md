@@ -12,7 +12,7 @@
 | [阿斯克与恩布拉：两种北欧见证](story.norse.ask_embla.md) | Ask and Embla in two witnesses | 北欧 | CREATION_ACCOUNT | 2 | CONFLICTING | 7 |
 | [诸神宝物的锻造](story.norse.forging_treasures.md) | Forging the divine treasures | 北欧 | MYTHIC_NARRATIVE | 1 | PARTIAL | 5 |
 | [索尔寻找被夺走的妙尔尼尔](story.norse.hammer_recovery.md) | Thor recovers Mjolnir | 北欧 | MYTHIC_NARRATIVE | 1 | PARTIAL | 4 |
-| [诸神黄昏见证纲要](story.norse.ragnarok.md) | Ragnarok witness outline | 北欧 | MYTHIC_NARRATIVE | 1 | PARTIAL | 3 |
+| [诸神黄昏：世界的毁灭与重生](story.norse.ragnarok.md) | Ragnarök: the destruction and renewal of the world | 北欧 | MYTHIC_NARRATIVE | 2 | SOURCE_BACKED | 10 |
 | [奥丁与密米尔之泉](story.norse.odin_mimir.md) | Odin and Mimirs well | 北欧 | MYTHIC_NARRATIVE | 1 | SOURCE_BACKED | 3 |
 | [伊南娜下冥界](story.sumerian.inanna_descent.md) | Inanas descent to the netherworld | 苏美尔 | UNDERWORLD_JOURNEY | 2 | PARTIAL | 8 |
 | [马尔杜克与提亚马特](story.babylonian.marduk_tiamat.md) | Marduk and Tiamat | 巴比伦 | DIVINE_COMBAT | 2 | PARTIAL | 9 |
@@ -78,6 +78,21 @@
 | [罗摩衍那 · 第六部 战斗篇](story.hindu.ramayana_yuddha.md) | The Rāmāyaṇa, Part 6: the Book of War | 印度教传统 | MYTHIC_NARRATIVE | 1 | SOURCE_BACKED | 24 |
 | [奥德赛 · 上部 漂泊](story.greek.odyssey_wanderings.md) | The Odyssey, Part 1: the wanderings | 古希腊 | MYTHIC_NARRATIVE | 1 | SOURCE_BACKED | 26 |
 | [奥德赛 · 下部 归家](story.greek.odyssey_homecoming.md) | The Odyssey, Part 2: the homecoming | 古希腊 | MYTHIC_NARRATIVE | 1 | SOURCE_BACKED | 22 |
+| [希腊英雄 · 第一部 珀尔修斯](story.greek.perseus_library.md) | Greek heroes, Part 1: Perseus | 古希腊 | MYTHIC_NARRATIVE | 1 | SOURCE_BACKED | 13 |
+| [希腊英雄 · 第二部 赫拉克勒斯（上）诞生与前六项任务](story.greek.heracles_birth_labours.md) | Greek heroes, Part 2: Heracles — birth and the first six labours | 古希腊 | MYTHIC_NARRATIVE | 1 | SOURCE_BACKED | 13 |
+| [希腊英雄 · 第三部 赫拉克勒斯（中）后六项任务](story.greek.heracles_far_labours.md) | Greek heroes, Part 3: Heracles — the last six labours | 古希腊 | MYTHIC_NARRATIVE | 1 | SOURCE_BACKED | 12 |
+| [希腊英雄 · 第四部 赫拉克勒斯（下）毒袍与升天](story.greek.heracles_death_apotheosis.md) | Greek heroes, Part 4: Heracles — the poisoned robe and the pyre | 古希腊 | MYTHIC_NARRATIVE | 1 | SOURCE_BACKED | 11 |
+| [阿尔戈英雄 · 上部 远航](story.greek.argonautica_outward.md) | The Argonauts, Part 1: the outward voyage | 古希腊 | MYTHIC_NARRATIVE | 1 | SOURCE_BACKED | 12 |
+| [阿尔戈英雄 · 下部 金羊毛与归航](story.greek.argonautica_fleece_return.md) | The Argonauts, Part 2: the fleece and the return | 古希腊 | MYTHIC_NARRATIVE | 1 | SOURCE_BACKED | 14 |
+| [沃尔松格萨迦 · 第一部 西格蒙德](story.norse.volsunga_sigmund.md) | The Saga of the Völsungs, Part 1: Sigmund | 北欧 | MYTHIC_NARRATIVE | 1 | SOURCE_BACKED | 13 |
+| [沃尔松格萨迦 · 第二部 屠龙者西古尔德](story.norse.volsunga_sigurd_dragon.md) | The Saga of the Völsungs, Part 2: Sigurd the dragon-slayer | 北欧 | MYTHIC_NARRATIVE | 1 | SOURCE_BACKED | 12 |
+| [沃尔松格萨迦 · 第三部 西古尔德与布伦希尔德](story.norse.volsunga_sigurd_brynhild.md) | The Saga of the Völsungs, Part 3: Sigurd and Brynhild | 北欧 | MYTHIC_NARRATIVE | 1 | SOURCE_BACKED | 11 |
+| [夺牛长征记 · 上部 库丘林守浅滩](story.irish.tain_muster_boy_deeds.md) | The Cattle Raid of Cooley, Part 1: Cú Chulainn at the fords | 爱尔兰 | MYTHIC_NARRATIVE | 1 | SOURCE_BACKED | 13 |
+| [夺牛长征记 · 下部 费迪亚德与公牛之战](story.irish.tain_ferdiad_bulls.md) | The Cattle Raid of Cooley, Part 2: Fer Diad and the battle of the bulls | 爱尔兰 | MYTHIC_NARRATIVE | 1 | SOURCE_BACKED | 12 |
+| [马比诺吉昂四支 · 第一支 皮威尔](story.welsh.mabinogi_pwyll.md) | The Four Branches of the Mabinogi, Part 1: Pwyll | 威尔士 | MYTHIC_NARRATIVE | 1 | SOURCE_BACKED | 12 |
+| [马比诺吉昂四支 · 第二支 布兰雯](story.welsh.mabinogi_branwen.md) | The Four Branches of the Mabinogi, Part 2: Branwen | 威尔士 | MYTHIC_NARRATIVE | 1 | SOURCE_BACKED | 11 |
+| [马比诺吉昂四支 · 第三支 马纳维丹](story.welsh.mabinogi_manawydan.md) | The Four Branches of the Mabinogi, Part 3: Manawydan | 威尔士 | MYTHIC_NARRATIVE | 1 | SOURCE_BACKED | 11 |
+| [马比诺吉昂四支 · 第四支 马斯](story.welsh.mabinogi_math.md) | The Four Branches of the Mabinogi, Part 4: Math | 威尔士 | MYTHIC_NARRATIVE | 1 | SOURCE_BACKED | 12 |
 
 另见：[神祇故事集 — 全部神祇的故事，打开即可阅读](deities/index.md)
 

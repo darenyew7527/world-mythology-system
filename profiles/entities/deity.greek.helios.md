@@ -36,6 +36,8 @@ Solar deity, child of Hyperion and Theia in Hesiod, celebrated with a chariot in
   - 来源：[Homeric Hymn 2 to Demeter, Evelyn-White English text](https://scaife.perseus.org/reader/urn%3Acts%3AgreekLit%3Atlg0013.tlg002.perseus-eng2%3A1-135/)；定位：lines 51–89
 - `claim.v0330.ody_wanderings.18` [VERIFIED / TEXT_SAYS / 0.90] When Odysseus's starving men slaughter the cattle of the Sun on Thrinacia, Helios demands vengeance and Zeus's thunderbolt destroys the ship; Odysseus alone survives, escapes Charybdis and drifts to Calypso's island.
   - 来源：[Homer, The Odyssey, rendered into English prose (tr. Samuel Butler, 1900)](https://www.gutenberg.org/ebooks/1727)；定位：Book XII
+- `claim.v0340.heracles_2.05` [VERIFIED / TEXT_SAYS / 0.90] On his way to Geryon Heracles sets up pillars at the bounds of Europe and Libya and, when he bends his bow at the scorching Sun, Helios in admiration lends him the golden goblet in which he crosses Ocean.
+  - 来源：[Pseudo-Apollodorus, Library](https://topostext.org/work/150)；定位：Library 2.5.10
 - `claim.v040.helios.appears_hymn2` [VERIFIED / TEXT_SAYS / 0.99] Homeric Hymn 2 names Helios as a witness sought by Demeter.
   - 来源：[Homeric Hymn 2 to Demeter, Evelyn-White English text](https://scaife.perseus.org/reader/urn%3Acts%3AgreekLit%3Atlg0013.tlg002.perseus-eng2%3A1-135/)；定位：Hymn 2, lines 25-62
 - `claim.v040.helios.appears_hymn31` [VERIFIED / TEXT_SAYS / 1.00] Helios is the principal subject of Homeric Hymn 31.

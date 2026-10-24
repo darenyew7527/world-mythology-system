@@ -77,11 +77,14 @@ class StorySeriesTests(unittest.TestCase):
         connection.row_factory = sqlite3.Row
         return connection
 
-    def test_schema_47_and_48_seal_v033_as_latest_release(self):
+    def test_schema_47_and_48_seal_v033_preserved_after_v034(self):
         with self.connect() as connection:
             migrations = dict(connection.execute(
                 "SELECT version,name FROM schema_migrations WHERE version IN (47,48)"
             ).fetchall())
+            release = connection.execute(
+                "SELECT schema_version,data_version FROM dataset_releases WHERE id='release.v0.33.0'"
+            ).fetchone()
             latest = connection.execute(
                 "SELECT id,schema_version,data_version FROM dataset_releases ORDER BY built_at DESC,id DESC LIMIT 1"
             ).fetchone()
@@ -92,19 +95,21 @@ class StorySeriesTests(unittest.TestCase):
                 "SELECT status,COUNT(*) FROM story_expansion_targets WHERE batch_id='storybatch.v0330.05' GROUP BY status"
             ).fetchall())
         self.assertEqual(migrations, {47: "20261024_v0330_series", 48: "20261024_v0330_series_release"})
-        self.assertEqual(dict(latest), {"id": "release.v0.33.0", "schema_version": 48, "data_version": "0.33.0"})
+        self.assertEqual(dict(release), {"schema_version": 48, "data_version": "0.33.0"})
+        self.assertEqual(dict(latest), {"id": "release.v0.34.0", "schema_version": 50, "data_version": "0.34.0"})
         self.assertEqual(tuple(batch), ("CHECKPOINT_COMPLETE", "0.33.0"))
         self.assertEqual(targets, {"COMPLETED": 13})
         meta = self.snapshot["meta"]
-        self.assertEqual(meta["projectVersion"], "0.33.0-series")
-        self.assertEqual(meta["counts"]["storySeries"], 3)
-        self.assertEqual(meta["counts"]["storySeriesParts"], 14)
+        self.assertEqual(meta["projectVersion"], "0.34.0-heroic-epics")
+        # Later versions only add series; the v0.33 checkpoint remains a lower bound.
+        self.assertGreaterEqual(meta["counts"]["storySeries"], 3)
+        self.assertGreaterEqual(meta["counts"]["storySeriesParts"], 14)
         schema = (ROOT / "schema" / "schema.sql").read_text(encoding="utf-8")
         self.assertIn("CREATE TABLE IF NOT EXISTS story_series (", schema)
         self.assertIn("CREATE TABLE IF NOT EXISTS story_series_parts (", schema)
 
     def test_series_parts_are_ordered_and_linked(self):
-        self.assertEqual(set(self.series), set(SERIES))
+        self.assertLessEqual(set(SERIES), set(self.series))
         for series_id, story_ids in SERIES.items():
             series = self.series[series_id]
             self.assertEqual([part["storyId"] for part in series["parts"]], story_ids)
@@ -119,10 +124,10 @@ class StorySeriesTests(unittest.TestCase):
                 self.assertEqual(link["partCount"], len(story_ids))
                 self.assertEqual(link["previousStoryId"], story_ids[index - 1] if index else None)
                 self.assertEqual(link["nextStoryId"], story_ids[index + 1] if index + 1 < len(story_ids) else None)
-        in_series = {story_id for ids in SERIES.values() for story_id in ids}
+        in_series = {part["storyId"] for series in self.series.values() for part in series["parts"]}
         self.assertTrue(all(story["series"] is None for story in self.stories.values() if story["id"] not in in_series))
         # Only the Journey to the West parts that follow skipped chapters name a gap.
-        gaps = {part["storyId"] for series in self.series.values() for part in series["parts"] if part["gapNote"]}
+        gaps = {part["storyId"] for series_id in SERIES for part in self.series[series_id]["parts"] if part["gapNote"]}
         self.assertEqual(gaps, {"story.chinese.xiyouji_white_bone", "story.chinese.xiyouji_two_monkey_kings"})
         # The earlier whole-epic Rāmāyaṇa overview stays a separate story.
         self.assertIsNone(self.stories["story.hindu.ramayana"]["series"])
@@ -220,7 +225,7 @@ class StorySeriesTests(unittest.TestCase):
         ):
             self.assertEqual(self.cards[entity_id]["primaryVersionId"], version_id, entity_id)
             self.assertEqual(len(self.cards[entity_id]["beats"]), len(self.versions[version_id]["sections"]))
-        self.assertEqual(self.snapshot["meta"]["deityStoryCardStatusCounts"]["STORY_LINKED"], 155)
+        self.assertGreaterEqual(self.snapshot["meta"]["deityStoryCardStatusCounts"]["STORY_LINKED"], 155)
 
     def test_feature_registries_record_series_without_new_storage(self):
         with self.connect() as connection:
@@ -247,7 +252,7 @@ class StorySeriesTests(unittest.TestCase):
         self.assertNotIn("localStorage", series)
         for tag in ("<SeriesShelf", "<SeriesBar", "<SeriesNext"):
             self.assertIn(tag, library)
-        self.assertIn("v0.33", library)
+        self.assertIn("v0.34", library)
         self.assertIn("storySeries={data.storySeries || []}", app)
         self.assertIn("deity-series-part", reader)
         self.assertIn("wms-reader-v029", storage)
@@ -262,9 +267,9 @@ class StorySeriesTests(unittest.TestCase):
             manifest = generate(DB, root / "offline", root / "manifest.json")
             html_text = (root / "offline" / HTML_NAME).read_text(encoding="utf-8")
             archive = json.loads((root / "offline" / JSON_NAME).read_text(encoding="utf-8"))
-        self.assertEqual(HTML_NAME, "world-mythology-v0.33-story-archive.html")
-        self.assertEqual(manifest["counts"]["storySeries"], 3)
-        self.assertEqual([series["id"] for series in archive["storySeries"]], list(SERIES))
+        self.assertEqual(HTML_NAME, "world-mythology-v0.34-story-archive.html")
+        self.assertGreaterEqual(manifest["counts"]["storySeries"], 3)
+        self.assertEqual([series["id"] for series in archive["storySeries"]][:len(SERIES)], list(SERIES))
         self.assertIn('id="series.chinese.xiyouji"', html_text)
         self.assertIn('class="series-nav"', html_text)
         self.assertIn("继续读下一部", html_text)
@@ -273,7 +278,7 @@ class StorySeriesTests(unittest.TestCase):
         self.assertIn("(story.hindu.ramayana_yuddha.md)", index)
         part = (ROOT / "profiles" / "stories" / "story.chinese.xiyouji_white_bone.md").read_text(encoding="utf-8")
         self.assertIn("> 系列连载：[西游记连载](series.md)", part)
-        self.assertIn("跳过的回目", part)
+        self.assertIn("跳过的章节", part)
         self.assertIn("继续读下一部：[", part)
         last = (ROOT / "profiles" / "stories" / "story.greek.odyssey_homecoming.md").read_text(encoding="utf-8")
         self.assertIn("到此读完", last)

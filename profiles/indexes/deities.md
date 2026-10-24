@@ -46,6 +46,7 @@
 | deity.greek.asteria | 阿斯忒里亚 | Asteria | DEITY | 古希腊 | PARTIAL | PARTIAL |
 | deity.greek.astraeus | 阿斯特赖俄斯 | Astraeus | DEITY | 古希腊 | PARTIAL | PARTIAL |
 | deity.greek.athena | 雅典娜 | Athena | DEITY | 古希腊 | PARTIAL | SOURCE_BACKED |
+| deity.greek.atlas | 阿特拉斯 | Atlas | DEITY | 古希腊 | PARTIAL | SOURCE_BACKED |
 | deity.greek.calypso | 卡吕普索 | Calypso | DEITY | 古希腊 | PARTIAL | SOURCE_BACKED |
 | deity.greek.chaos | 卡俄斯 | Chaos | PRIMORDIAL_DEITY | 古希腊 | PARTIAL | SOURCE_BACKED |
 | deity.greek.circe | 喀耳刻 | Circe | DEITY | 古希腊 | PARTIAL | SOURCE_BACKED |
@@ -56,14 +57,17 @@
 | deity.greek.dionysus | 狄俄倪索斯 | Dionysus | DEITY | 古希腊 | PARTIAL | SOURCE_BACKED |
 | deity.greek.eos | 厄俄斯 | Eos | DEITY | 古希腊 | PARTIAL | SOURCE_BACKED |
 | deity.greek.erebus | 厄瑞玻斯 | Erebus | PRIMORDIAL_DEITY | 古希腊 | PARTIAL | SOURCE_BACKED |
+| deity.greek.eros | 厄洛斯 | Eros | DEITY | 古希腊 | PARTIAL | SOURCE_BACKED |
 | deity.greek.eurybia | 欧律比亚 | Eurybia | DEITY | 古希腊 | PARTIAL | SOURCE_BACKED |
 | deity.greek.gaia | 盖亚 | Gaia | PRIMORDIAL_DEITY | 古希腊 | PARTIAL | SOURCE_BACKED |
 | deity.greek.hades | 哈得斯 | Hades | DEITY | 古希腊 | PARTIAL | SOURCE_BACKED |
+| deity.greek.hebe | 赫柏 | Hebe | DEITY | 古希腊 | PARTIAL | SOURCE_BACKED |
 | deity.greek.hecate | 赫卡忒 | Hecate | DEITY | 古希腊 | PARTIAL | SOURCE_BACKED |
 | deity.greek.helios | 赫利俄斯 | Helios | DEITY | 古希腊 | PARTIAL | SOURCE_BACKED |
 | deity.greek.hemera | 赫墨拉 | Hemera | PRIMORDIAL_DEITY | 古希腊 | PARTIAL | SOURCE_BACKED |
 | deity.greek.hephaestus | 赫淮斯托斯 | Hephaestus | DEITY | 古希腊 | PARTIAL | SOURCE_BACKED |
 | deity.greek.hera | 赫拉 | Hera | DEITY | 古希腊 | PARTIAL | SOURCE_BACKED |
+| hero.greek.heracles | 赫拉克勒斯 | Heracles | HERO | 古希腊 | PARTIAL | SOURCE_BACKED |
 | deity.greek.hermes | 赫尔墨斯 | Hermes | DEITY | 古希腊 | PARTIAL | SOURCE_BACKED |
 | deity.greek.hestia | 赫斯提亚 | Hestia | DEITY | 古希腊 | PARTIAL | SOURCE_BACKED |
 | deity.greek.hyperion | 许珀里翁 | Hyperion | DEITY | 古希腊 | PARTIAL | SOURCE_BACKED |
@@ -184,6 +188,7 @@
 | deity.norse.ullr | 乌勒尔 | Ullr | DEITY | 北欧 | PARTIAL | PARTIAL |
 | deity.norse.vili | 维利 | Vili | DEITY | 北欧 | PARTIAL | SOURCE_BACKED |
 | deity.norse.ve | 维 | Vé | DEITY | 北欧 | PARTIAL | SOURCE_BACKED |
+| deity.norse.vidar | 维达 | Víðarr | DEITY | 北欧 | PARTIAL | SOURCE_BACKED |
 | being.norse.ymir | 尤弥尔 | Ymir | GIANT | 北欧 | PARTIAL | UNVERIFIED |
 | deity.polynesian.tangaroa | 塔加罗阿 | Tangaroa | DEITY | 波利尼西亚 | PARTIAL | UNVERIFIED |
 | deity.polynesian.tane | 塔内 | Tāne | DEITY | 波利尼西亚 | PARTIAL | UNVERIFIED |
@@ -210,6 +215,7 @@
 | deity.ugaritic.yam | 雅姆 | Yam | DEITY | 乌加里特 | PARTIAL | SOURCE_BACKED |
 | deity.vedic.indra | 因陀罗 | Indra | DEITY | 吠陀传统 | PARTIAL | SOURCE_BACKED |
 | deity.vedic.tvastr | 陀湿多 | Tvastr | DEITY | 吠陀传统 | PARTIAL | SOURCE_BACKED |
+| deity.welsh.arawn | 阿拉文 | Arawn | DEITY | 威尔士 | PARTIAL | SOURCE_BACKED |
 | deity.yoruba.ogun | 奥贡 | Ogun | DEITY | 约鲁巴 | PARTIAL | UNVERIFIED |
 | deity.yoruba.olodumare | 奥洛杜马雷 | Olodumare | DEITY | 约鲁巴 | PARTIAL | UNVERIFIED |
 | deity.yoruba.oshun | 奥舒恩 | Oshun | DEITY | 约鲁巴 | PARTIAL | UNVERIFIED |

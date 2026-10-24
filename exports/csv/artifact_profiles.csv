@@ -9,14 +9,19 @@ artifact.chinese.linglong_pagoda,PAGODA,[],{},"[""traps and burns Nezha until he
 artifact.chinese.qiankun_quan,ARTIFACT,[],{},[],[],[],,
 artifact.egyptian.solar_barque,SHIP,[],{},[],[],[],,
 artifact.greek.aegis,DIVINE_ARMOR,[],"{""iliad_5"":""Athena wears the tasselled aegis / 雅典娜披挂流苏埃癸斯""}",[],"[""术语含义与物件形态需按文本和图像分别研究 / form and terminology remain witness-specific""]",[],,
+artifact.greek.argo,SHIP,"[""pine"", ""Dodonian oak""]",{},"[""a beam that speaks with a human voice""]",[],[],Built by Argus with Athena's guidance at Pagasae.,Returns to Pagasae with the fleece.
 artifact.greek.caduceus,SCEPTER,[],{},[],[],[],,
+artifact.greek.golden_fleece,FLEECE,"[""gold""]",{},"[""shines like lightning""]",[],[],"Fleece of the ram that carried Phrixus, sacrificed to Zeus and hung on an oak in the grove of Ares.",Carried off by Jason with Medea's help.
 artifact.greek.helm_hades,ARMOR,[],{},[],[],[],,
 artifact.hindu.amrita,DIVINE_ELIXIR,"[""nectar""]",{},"[""immortality""]",[],[],Produced by churning the ocean in both registered textual witnesses.,Seized by the asuras and recovered for the gods through Viṣṇu's female form in both witnesses.
 artifact.irish.dagda_cauldron,CAULDRON,[],{},"[""no company ever went away from it unsatisfied""]",[],[],Brought from the city of Murias (§6).,
 artifact.mesopotamian.tablet_destinies,ARTIFACT,[],{},[],[],[],,
+artifact.norse.andvaranaut,RING,"[""gold""]",{},"[""multiplies wealth (in Snorri)"", ""carries Andvari's curse""]",[],[],Kept back by Andvari from his hoard until Loki took it.,"Given by Sigurðr to Brynhildr, taken back in Gunnarr's shape and given to Guðrún."
 artifact.norse.draupnir,RING,[],{},[],[],[],,
 artifact.norse.gjallarhorn,HORN,[],{},"[""its blast is heard in all worlds""]",[],[],,Associated with Heimdallr in Gylfaginning 27.
 artifact.norse.gleipnir,ARTIFACT,[],{},[],[],[],,
+artifact.norse.naglfar,SHIP,"[""the untrimmed nails of the dead""]",{},"[""floats loose in the flood of Ragnarök""]",[],[],"Built from the nails of dead men; hence, says Snorri, no one should die with untrimmed nails.",Steered by Hrymr to the battle at Vígríðr.
+artifact.welsh.cauldron_of_rebirth,CAULDRON,"[""metal""]",{},"[""a slain man cast into it rises alive but cannot speak""]",[],[],Brought out of a lake in Ireland by Llassar Llaes Gyfnewid and his wife.,Burst into four pieces by Efnysien.
 artifact.yoruba.ose_sango,SACRED_OBJECT,"[""木（博物馆见证）""]","{""public_museum_witness"":""double-axe-topped staff""}",[],"[""不可写成古代实战武器"",""不得推断受限仪式步骤""]","[""活态传统权限与具体语境优先""]",由具体约鲁巴艺术家与传统语境制作；不同物件不是一件唯一神器。 / Made in specific Yoruba artistic and devotional contexts; not one globally unique artifact.,
 creature.norse.gullinbursti,CRAFTED_DIVINE_BEAST,"[""golden bristles""]","{""form"":""boar"",""bristles"":""golden""}","[""shines in darkness""]",[],[],Produced during the treasure-forging contest in Skáldskaparmál,
 weapon.arthurian.excalibur,WEAPON,[],{},[],[],[],,

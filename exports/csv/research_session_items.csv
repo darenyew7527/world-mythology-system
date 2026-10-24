@@ -605,3 +605,26 @@ session.20261024.v0330_series,STORY_SERIES,series.chinese.xiyouji,CREATE,Journey
 session.20261024.v0330_series,STORY_SERIES,series.hindu.ramayana_books,CREATE,The Rāmāyaṇa in six books (series)
 session.20261024.v0330_series,STORY_SERIES,series.greek.odyssey,CREATE,The Odyssey (series)
 session.20261024.v0330_series,RELEASE,release.v0.33.0,SEAL,Formal staged checkpoint: 13 completed series-part targets in 3 series; no target blocked.
+session.20261024.v0340_heroic_epics,STORY,story.greek.perseus_library,CREATE,"Greek heroes, Part 1: Perseus"
+session.20261024.v0340_heroic_epics,STORY,story.greek.heracles_birth_labours,CREATE,"Greek heroes, Part 2: Heracles — birth and the first six labours"
+session.20261024.v0340_heroic_epics,STORY,story.greek.heracles_far_labours,CREATE,"Greek heroes, Part 3: Heracles — the last six labours"
+session.20261024.v0340_heroic_epics,STORY,story.greek.heracles_death_apotheosis,CREATE,"Greek heroes, Part 4: Heracles — the poisoned robe and the pyre"
+session.20261024.v0340_heroic_epics,STORY,story.greek.argonautica_outward,CREATE,"The Argonauts, Part 1: the outward voyage"
+session.20261024.v0340_heroic_epics,STORY,story.greek.argonautica_fleece_return,CREATE,"The Argonauts, Part 2: the fleece and the return"
+session.20261024.v0340_heroic_epics,STORY,story.norse.volsunga_sigmund,CREATE,"The Saga of the Völsungs, Part 1: Sigmund"
+session.20261024.v0340_heroic_epics,STORY,story.norse.volsunga_sigurd_dragon,CREATE,"The Saga of the Völsungs, Part 2: Sigurd the dragon-slayer"
+session.20261024.v0340_heroic_epics,STORY,story.norse.volsunga_sigurd_brynhild,CREATE,"The Saga of the Völsungs, Part 3: Sigurd and Brynhild"
+session.20261024.v0340_heroic_epics,STORY,story.irish.tain_muster_boy_deeds,CREATE,"The Cattle Raid of Cooley, Part 1: Cú Chulainn at the fords"
+session.20261024.v0340_heroic_epics,STORY,story.irish.tain_ferdiad_bulls,CREATE,"The Cattle Raid of Cooley, Part 2: Fer Diad and the battle of the bulls"
+session.20261024.v0340_heroic_epics,STORY,story.welsh.mabinogi_pwyll,CREATE,"The Four Branches of the Mabinogi, Part 1: Pwyll"
+session.20261024.v0340_heroic_epics,STORY,story.welsh.mabinogi_branwen,CREATE,"The Four Branches of the Mabinogi, Part 2: Branwen"
+session.20261024.v0340_heroic_epics,STORY,story.welsh.mabinogi_manawydan,CREATE,"The Four Branches of the Mabinogi, Part 3: Manawydan"
+session.20261024.v0340_heroic_epics,STORY,story.welsh.mabinogi_math,CREATE,"The Four Branches of the Mabinogi, Part 4: Math"
+session.20261024.v0340_heroic_epics,STORY_VERSION,storyver.norse.ragnarok_gylf_long,CREATE,Gylfaginning 51–54 (long retelling)
+session.20261024.v0340_heroic_epics,STORY_SERIES,series.greek.heroes_library,CREATE,Greek heroes (series)
+session.20261024.v0340_heroic_epics,STORY_SERIES,series.greek.argonautica,CREATE,The Argonauts (series)
+session.20261024.v0340_heroic_epics,STORY_SERIES,series.norse.gylfaginning_end,CREATE,The twilight of the gods (series)
+session.20261024.v0340_heroic_epics,STORY_SERIES,series.norse.volsunga,CREATE,The Saga of the Völsungs (series)
+session.20261024.v0340_heroic_epics,STORY_SERIES,series.irish.tain,CREATE,The Cattle Raid of Cooley (series)
+session.20261024.v0340_heroic_epics,STORY_SERIES,series.welsh.mabinogi,CREATE,The Four Branches of the Mabinogi (series)
+session.20261024.v0340_heroic_epics,RELEASE,release.v0.34.0,SEAL,Formal staged checkpoint: 16 completed series-part targets in 6 series; no target blocked.

@@ -11,21 +11,37 @@ being.norse.utgarda_loki,GIANT_KING,{},"[""sight-deception (illusions)""]",[],,R
 being.norse.ymir,GIANT,{},[],[],,,
 creature.akkadian.anzu,MYTHIC_MONSTROUS_BIRD,"{""form"":""lion-eagle in later scholarly description""}","[""control associated with stolen Tablet of Destinies""]",[],,Akkadian Anzu myth witness.,Defeated by Ninurta in the registered synopsis.
 creature.chinese.ao_turtle,GREAT_TURTLE,{},[],[],,Named in the Huainanzi Lan Ming and Liezi Tang Wen Nüwa passages.,Its legs are cut off and used to set up the four poles in both witnesses.
+creature.greek.cerberus,HELLHOUND,"{""heads"": 3, ""tail"": ""serpent""}","[""guards the house of Hades""]",[],The gates of Hades,Offspring of Typhon and Echidna.,Shown to Eurystheus and carried back to Hades.
 creature.greek.charybdis,WHIRLPOOL_MONSTER,{},"[""swallows the sea three times a day""]",[],Beneath a fig tree opposite Scylla,Divine whirlpool of the strait.,Remains in the strait.
 creature.greek.cyclopes_hesiodic,GIANT,{},[],[],,,
+creature.greek.geryon,TRIPLE_BODIED_GIANT,"{""bodies"": 3, ""heads"": 3}","[""three bodies joined at the waist""]",[],The island Erytheia near Ocean,"Son of Chrysaor and Callirrhoe, daughter of Ocean.",Shot by Heracles beside the river Anthemus.
+creature.greek.graeae,CRONE_SISTERS,"{""eyes"": 1, ""teeth"": 1}","[""share a single eye and tooth""]",[],"Near the Gorgons, at the edge of the world","Daughters of Phorcus and Ceto, sisters of the Gorgons.",Their eye and tooth are returned after they show Perseus the way.
+creature.greek.harpies,WINGED_SNATCHERS,{},"[""swoop down to snatch food""]",[],Thrace; afterwards a cave in Crete,Called 'the hounds of great Zeus' by Iris.,Spared at Iris's word and never to return to Phineus.
 creature.greek.hecatoncheires,HUNDRED_HANDED_GIANTS,{},"[""hurl three hundred rocks at once""]",[],,"Sons of Gaia and Ouranos, bound beneath the earth by their father.",Guard the Titans in Tartarus after the war.
+creature.greek.lernaean_hydra,WATER_SERPENT,"{""heads"": 9}","[""two heads grow when one is cut off"", ""poisonous gall""]",[],The swamp of Lerna by the spring Amymone,Bred in the swamp of Lerna.,Killed by Heracles; its immortal head buried under a rock and its gall used to poison his arrows.
+creature.greek.medusa,GORGON,"{""hair"": ""scales of dragons"", ""wings"": ""golden"", ""tusks"": ""like swine""}","[""turns those who look at her to stone""]",[],"By the stream of Ocean, with her sisters Stheno and Euryale",Daughter of Phorcus and Ceto.,Beheaded by Perseus; her head set in Athena's aegis.
+creature.greek.nemean_lion,LION,{},"[""invulnerable to weapons""]",[],A cave with two mouths near Nemea,Offspring of Typhon.,"Strangled by Heracles, who wore its skin."
+creature.greek.nessus,CENTAUR,{},"[""ferries travellers across the Evenus""]",[],The river Evenus in Aetolia,"One of the centaurs, said to have received the ferry from the gods for his righteousness.",Shot through the heart by Heracles.
+creature.greek.pegasus,WINGED_HORSE,{},"[""flight""]",[],Born at the stream of Ocean,Offspring of Poseidon and Medusa.,Later tamed by Bellerophon (Library 2.3.2).
 creature.greek.polyphemus,CYCLOPS,"{""eyes"": 1}","[""enormous strength""]",[],A cave on the island of the Cyclopes,Son of Poseidon and the nymph Thoosa.,Blinded by Odysseus; his curse brings Poseidon's anger.
 creature.greek.scylla,SEA_MONSTER,"{""heads"": 6, ""feet"": 12}","[""snatches sailors from passing ships""]",[],A cave high in a sea cliff,"Immortal monster, as Circe describes her.",Remains in her cliff.
 creature.greek.sirens,ENCHANTING_SINGERS,{},"[""a song that lures sailors to death""]",[],A flowery meadow heaped with bones,Described by Circe; their number and form are not fixed in the Odyssey.,Unchanged; Odysseus passes them.
+creature.greek.talos,BRONZE_GIANT,"{""body"": ""bronze""}","[""hurls rocks"", ""invulnerable save at the ankle""]",[],Crete,"Last of the bronze race, given by Zeus to Europa as guardian of Crete.",Grazes his ankle on a rock and bleeds to death under Medea's evil eye.
 creature.greek.typhon,MONSTER,"{""heads"":""one hundred serpent heads in Hesiod 824-835"",""features"":[""flashing fire"",""many voices""]}","[""immense strength"",""fire"",""terrifying voices""]",[],,Child of Gaia and Tartarus in Hesiod,Defeated by Zeus and cast into Tartarus in Hesiod
 creature.hindu.akupara,TORTOISE_KING,"{""form"":""tortoise""}","[""bears Mount Mandara""]",[],,Named as king of tortoises in the Mahābhārata critical-edition churning witness.,Supports the mountain during the churning in that witness.
 creature.hindu.jatayu,VULTURE_KING,{},"[""speech"", ""flight""]",[],Pañcavaṭī forest,"Son of Aruṇa, brother of Sampāti.",Mortally wounded by Rāvaṇa; cremated by Rāma.
 creature.hindu.vasuki,NAGA_KING,"{""form"":""serpent""}",[],[],,Nāga king in the epic and Purāṇic churning witnesses.,Serves as the churning rope in both registered witnesses.
+creature.irish.donn_cuailnge,BULL,{},"[""fifty boys could play on his back"", ""his bellowing heard across the province""]",[],Cúailnge in Ulster,Counted among the great bulls of Ireland; in other tales a reborn swineherd.,Kills Finnbennach and dies at Druim Tairb when his heart breaks.
+creature.irish.finnbennach,BULL,{},"[""the greatest bull of Connacht""]",[],Ailill's herds at Cruachan,Calved among Medb's cows.,"Torn apart by the Brown Bull, its pieces scattered across Ireland."
 creature.mesopotamian.bull_of_heaven,DIVINE_BULL,{},"[""its snorting opens pits that swallow hundreds of men""]",[],,Given by Anu at Ishtar's demand.,Killed by Gilgamesh and Enkidu.
+creature.norse.fafnir,DRAGON,{},"[""breathes venom"", ""wears the helm of terror""]",[],"Gnitaheiðr, lying on the hoard","A man, son of Hreiðmarr, who took the shape of a serpent out of greed for the gold.",Stabbed from below by Sigurðr with Gram.
 creature.norse.fenrir,MONSTER,{},[],[],,,
+creature.norse.garm,HELLHOUND,{},"[""the worst of monsters""]",[],Gnipahellir,Bound before the cave Gnipahellir.,Kills and is killed by Týr.
+creature.norse.grani,HORSE,{},"[""swims back to no shore but his master's"", ""carries the hoard""]",[],The meadows of King Hjálprekr,"Of the kin of Sleipnir, Odin's horse.",Carries Sigurðr through Brynhildr's fire.
 creature.norse.gullinbursti,DIVINE_BEAST,"{""bristles"":""golden""}","[""shines in darkness""]",[],,Forged in the treasure contest,Given to Freyr in the narrative
 creature.norse.jormungandr,DRAGON,{},[],[],,,
 creature.norse.sleipnir,EIGHT_LEGGED_HORSE,{},"[""carries his rider over the bridge to Hel and across Hel's gate""]",[],,Odin's horse.,
+creature.norse.surtr,FIRE_GIANT,{},"[""a sword brighter than the sun"", ""flings fire over the world""]",[],"Muspell, the realm of fire",Guardian of Muspell's border since the beginning.,Burns the world at Ragnarök.
 creature.vedic.vritra,RIGVEDIC SERPENT OPPONENT,"{""witness_designation"":""ahi / serpent""}","[""阻水语境（RV 1.32）""]","[""在 RV 1.32 中被因陀罗以金刚杵击杀""]",,Witness-specific opponent in Rigveda 1.32.,Killed by Indra in the registered hymn narrative.
 deity.babylonian.tiamat,DRAGON,{},[],[],,,
 deity.chinese.ao_guang,DRAGON_KING,{},"[""rules the Eastern Sea from the Crystal Palace""]",[],Crystal Palace of the Eastern Sea,Dragon king of popular religion as portrayed in Ming novels.,

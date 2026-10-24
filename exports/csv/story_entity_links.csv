@@ -195,6 +195,39 @@ story.greek.aphrodite_origins,storyver.greek.aphrodite_iliad,deity.greek.aphrodi
 story.greek.aphrodite_origins,storyver.greek.aphrodite_iliad,deity.greek.dione,CHARACTER,10,Derived from an explicitly linked story claim subject.
 story.greek.aphrodite_origins,storyver.greek.aphrodite_iliad,deity.greek.zeus,CHARACTER,20,Derived from an explicitly linked story claim object.
 story.greek.aphrodite_origins,storyver.greek.aphrodite_iliad,text.greek.iliad,RELATED,20,Derived from an explicitly linked story claim object.
+story.greek.argonautica_fleece_return,storyver.greek.argonautica_seaton_3_4,hero.greek.jason,CHARACTER,10,Leader
+story.greek.argonautica_fleece_return,storyver.greek.argonautica_seaton_3_4,artifact.greek.argo,ARTIFACT,20,Ship
+story.greek.argonautica_fleece_return,storyver.greek.argonautica_seaton_3_4,artifact.greek.golden_fleece,ARTIFACT,30,Quest
+story.greek.argonautica_fleece_return,storyver.greek.argonautica_seaton_3_4,hero.greek.medea,CHARACTER,40,Helper
+story.greek.argonautica_fleece_return,storyver.greek.argonautica_seaton_3_4,hero.greek.aeetes,CHARACTER,50,King of Colchis
+story.greek.argonautica_fleece_return,storyver.greek.argonautica_seaton_3_4,deity.greek.hera,CHARACTER,60,Protector
+story.greek.argonautica_fleece_return,storyver.greek.argonautica_seaton_3_4,deity.greek.athena,CHARACTER,70,Protector
+story.greek.argonautica_fleece_return,storyver.greek.argonautica_seaton_3_4,text.greek.argonautica,TEXT,80,Epic
+story.greek.argonautica_fleece_return,storyver.greek.argonautica_seaton_3_4,deity.greek.aphrodite,CHARACTER,90,Persuaded
+story.greek.argonautica_fleece_return,storyver.greek.argonautica_seaton_3_4,deity.greek.eros,CHARACTER,100,Archer
+story.greek.argonautica_fleece_return,storyver.greek.argonautica_seaton_3_4,deity.greek.hecate,CHARACTER,110,Goddess of Medea
+story.greek.argonautica_fleece_return,storyver.greek.argonautica_seaton_3_4,hero.greek.apsyrtus,CHARACTER,120,Brother
+story.greek.argonautica_fleece_return,storyver.greek.argonautica_seaton_3_4,deity.greek.circe,CHARACTER,130,Purifier
+story.greek.argonautica_fleece_return,storyver.greek.argonautica_seaton_3_4,creature.greek.sirens,CHARACTER,140,Singers
+story.greek.argonautica_fleece_return,storyver.greek.argonautica_seaton_3_4,hero.greek.orpheus,CHARACTER,150,Singer
+story.greek.argonautica_fleece_return,storyver.greek.argonautica_seaton_3_4,creature.greek.talos,CHARACTER,160,Bronze giant
+story.greek.argonautica_outward,storyver.greek.argonautica_seaton_1_2,hero.greek.jason,CHARACTER,10,Leader
+story.greek.argonautica_outward,storyver.greek.argonautica_seaton_1_2,artifact.greek.argo,ARTIFACT,20,Ship
+story.greek.argonautica_outward,storyver.greek.argonautica_seaton_1_2,artifact.greek.golden_fleece,ARTIFACT,30,Quest
+story.greek.argonautica_outward,storyver.greek.argonautica_seaton_1_2,hero.greek.medea,CHARACTER,40,Helper
+story.greek.argonautica_outward,storyver.greek.argonautica_seaton_1_2,hero.greek.aeetes,CHARACTER,50,King of Colchis
+story.greek.argonautica_outward,storyver.greek.argonautica_seaton_1_2,deity.greek.hera,CHARACTER,60,Protector
+story.greek.argonautica_outward,storyver.greek.argonautica_seaton_1_2,deity.greek.athena,CHARACTER,70,Protector
+story.greek.argonautica_outward,storyver.greek.argonautica_seaton_1_2,text.greek.argonautica,TEXT,80,Epic
+story.greek.argonautica_outward,storyver.greek.argonautica_seaton_1_2,hero.greek.pelias,CHARACTER,90,King
+story.greek.argonautica_outward,storyver.greek.argonautica_seaton_1_2,hero.greek.heracles,CHARACTER,100,Argonaut
+story.greek.argonautica_outward,storyver.greek.argonautica_seaton_1_2,hero.greek.orpheus,CHARACTER,110,Singer
+story.greek.argonautica_outward,storyver.greek.argonautica_seaton_1_2,hero.greek.hylas,CHARACTER,120,Lost companion
+story.greek.argonautica_outward,storyver.greek.argonautica_seaton_1_2,hero.greek.polydeuces,CHARACTER,130,Boxer
+story.greek.argonautica_outward,storyver.greek.argonautica_seaton_1_2,hero.greek.hypsipyle,CHARACTER,140,Queen of Lemnos
+story.greek.argonautica_outward,storyver.greek.argonautica_seaton_1_2,hero.greek.phineus,CHARACTER,150,Seer
+story.greek.argonautica_outward,storyver.greek.argonautica_seaton_1_2,creature.greek.harpies,CHARACTER,160,Tormentors
+story.greek.argonautica_outward,storyver.greek.argonautica_seaton_1_2,deity.greek.apollo,CHARACTER,170,Epiphany
 story.greek.demeter_persephone,storyver.greek.demeter_hymn2,deity.greek.demeter,CHARACTER,10,Derived from an explicitly linked story claim subject.
 story.greek.demeter_persephone,storyver.greek.demeter_hymn2,hero.greek.triptolemos,CHARACTER,10,Derived from an explicitly linked story claim subject.
 story.greek.demeter_persephone,storyver.greek.demeter_hymn2,deity.greek.hecate,CHARACTER,10,Derived from an explicitly linked story claim subject.
@@ -221,6 +254,42 @@ story.greek.eleusinia_procession,storyver.greek.eleusinia_acropolis,site.greece.
 story.greek.eleusinia_procession,storyver.greek.eleusinia_acropolis,site.greece.sacred_way_aphrodite_daphne,PLACE,12,Archaeological monument beside the road.
 story.greek.eleusinia_procession,storyver.greek.eleusinia_acropolis,site.greece.eleusis,PLACE,13,Destination sanctuary/site.
 story.greek.eleusinia_procession,storyver.greek.eleusinia_acropolis,site.greece.eleusis_telesterion,PLACE,14,Publicly documented route culmination.
+story.greek.heracles_birth_labours,storyver.greek.library_2_4_2_5_heracles_1,hero.greek.heracles,CHARACTER,10,Hero
+story.greek.heracles_birth_labours,storyver.greek.library_2_4_2_5_heracles_1,hero.greek.alcmena,CHARACTER,20,Mother
+story.greek.heracles_birth_labours,storyver.greek.library_2_4_2_5_heracles_1,hero.greek.amphitryon,CHARACTER,30,Foster-father
+story.greek.heracles_birth_labours,storyver.greek.library_2_4_2_5_heracles_1,hero.greek.eurystheus,CHARACTER,40,Taskmaster
+story.greek.heracles_birth_labours,storyver.greek.library_2_4_2_5_heracles_1,deity.greek.hera,CHARACTER,50,Enemy
+story.greek.heracles_birth_labours,storyver.greek.library_2_4_2_5_heracles_1,deity.greek.zeus,CHARACTER,60,Father
+story.greek.heracles_birth_labours,storyver.greek.library_2_4_2_5_heracles_1,deity.greek.athena,CHARACTER,70,Helper
+story.greek.heracles_birth_labours,storyver.greek.library_2_4_2_5_heracles_1,hero.greek.iolaus,CHARACTER,80,Charioteer
+story.greek.heracles_birth_labours,storyver.greek.library_2_4_2_5_heracles_1,creature.greek.nemean_lion,CHARACTER,90,First labour
+story.greek.heracles_birth_labours,storyver.greek.library_2_4_2_5_heracles_1,creature.greek.lernaean_hydra,CHARACTER,100,Second labour
+story.greek.heracles_death_apotheosis,storyver.greek.library_2_6_2_8_heracles_3,hero.greek.heracles,CHARACTER,10,Hero
+story.greek.heracles_death_apotheosis,storyver.greek.library_2_6_2_8_heracles_3,hero.greek.alcmena,CHARACTER,20,Mother
+story.greek.heracles_death_apotheosis,storyver.greek.library_2_6_2_8_heracles_3,hero.greek.amphitryon,CHARACTER,30,Foster-father
+story.greek.heracles_death_apotheosis,storyver.greek.library_2_6_2_8_heracles_3,hero.greek.eurystheus,CHARACTER,40,Taskmaster
+story.greek.heracles_death_apotheosis,storyver.greek.library_2_6_2_8_heracles_3,deity.greek.hera,CHARACTER,50,Enemy
+story.greek.heracles_death_apotheosis,storyver.greek.library_2_6_2_8_heracles_3,deity.greek.zeus,CHARACTER,60,Father
+story.greek.heracles_death_apotheosis,storyver.greek.library_2_6_2_8_heracles_3,deity.greek.athena,CHARACTER,70,Helper
+story.greek.heracles_death_apotheosis,storyver.greek.library_2_6_2_8_heracles_3,hero.greek.iole,CHARACTER,80,Captive
+story.greek.heracles_death_apotheosis,storyver.greek.library_2_6_2_8_heracles_3,hero.greek.omphale,CHARACTER,90,Mistress
+story.greek.heracles_death_apotheosis,storyver.greek.library_2_6_2_8_heracles_3,hero.greek.deianira,CHARACTER,100,Wife
+story.greek.heracles_death_apotheosis,storyver.greek.library_2_6_2_8_heracles_3,creature.greek.nessus,CHARACTER,110,Centaur
+story.greek.heracles_death_apotheosis,storyver.greek.library_2_6_2_8_heracles_3,deity.greek.hebe,CHARACTER,120,Wife in heaven
+story.greek.heracles_death_apotheosis,storyver.greek.library_2_6_2_8_heracles_3,deity.greek.apollo,CHARACTER,130,Opponent at Delphi
+story.greek.heracles_far_labours,storyver.greek.library_2_5_heracles_2,hero.greek.heracles,CHARACTER,10,Hero
+story.greek.heracles_far_labours,storyver.greek.library_2_5_heracles_2,hero.greek.alcmena,CHARACTER,20,Mother
+story.greek.heracles_far_labours,storyver.greek.library_2_5_heracles_2,hero.greek.amphitryon,CHARACTER,30,Foster-father
+story.greek.heracles_far_labours,storyver.greek.library_2_5_heracles_2,hero.greek.eurystheus,CHARACTER,40,Taskmaster
+story.greek.heracles_far_labours,storyver.greek.library_2_5_heracles_2,deity.greek.hera,CHARACTER,50,Enemy
+story.greek.heracles_far_labours,storyver.greek.library_2_5_heracles_2,deity.greek.zeus,CHARACTER,60,Father
+story.greek.heracles_far_labours,storyver.greek.library_2_5_heracles_2,deity.greek.athena,CHARACTER,70,Helper
+story.greek.heracles_far_labours,storyver.greek.library_2_5_heracles_2,hero.greek.hippolyte,CHARACTER,80,Amazon queen
+story.greek.heracles_far_labours,storyver.greek.library_2_5_heracles_2,creature.greek.geryon,CHARACTER,90,Tenth labour
+story.greek.heracles_far_labours,storyver.greek.library_2_5_heracles_2,deity.greek.atlas,CHARACTER,100,Titan
+story.greek.heracles_far_labours,storyver.greek.library_2_5_heracles_2,deity.greek.prometheus,CHARACTER,110,Freed
+story.greek.heracles_far_labours,storyver.greek.library_2_5_heracles_2,creature.greek.cerberus,CHARACTER,120,Twelfth labour
+story.greek.heracles_far_labours,storyver.greek.library_2_5_heracles_2,deity.greek.helios,CHARACTER,130,Lends his goblet
 story.greek.medea_restoration,storyver.greek.medea_library,deity.greek.perses_helios,CHARACTER,10,Derived from an explicitly linked story claim subject.
 story.greek.medea_restoration,storyver.greek.medea_library,hero.greek.medea,CHARACTER,10,Derived from an explicitly linked story claim subject.
 story.greek.medea_restoration,storyver.greek.medea_library,hero.greek.aeetes,CHARACTER,10,Derived from an explicitly linked story claim subject.
@@ -257,6 +326,17 @@ story.greek.odyssey_wanderings,storyver.greek.odyssey_butler_1_12,creature.greek
 story.greek.odyssey_wanderings,storyver.greek.odyssey_butler_1_12,creature.greek.scylla,CHARACTER,150,Six-headed monster
 story.greek.odyssey_wanderings,storyver.greek.odyssey_butler_1_12,creature.greek.charybdis,CHARACTER,160,Whirlpool
 story.greek.odyssey_wanderings,storyver.greek.odyssey_butler_1_12,deity.greek.helios,CHARACTER,170,Sun god
+story.greek.perseus_library,storyver.greek.library_2_4_perseus,hero.greek.perseus,CHARACTER,10,Hero
+story.greek.perseus_library,storyver.greek.library_2_4_perseus,hero.greek.danae,CHARACTER,20,Mother
+story.greek.perseus_library,storyver.greek.library_2_4_perseus,hero.greek.acrisius,CHARACTER,30,Grandfather
+story.greek.perseus_library,storyver.greek.library_2_4_perseus,person.greek.polydectes,CHARACTER,40,Enemy
+story.greek.perseus_library,storyver.greek.library_2_4_perseus,creature.greek.graeae,CHARACTER,50,Grey sisters
+story.greek.perseus_library,storyver.greek.library_2_4_perseus,creature.greek.medusa,CHARACTER,60,Gorgon
+story.greek.perseus_library,storyver.greek.library_2_4_perseus,creature.greek.pegasus,CHARACTER,70,Winged horse
+story.greek.perseus_library,storyver.greek.library_2_4_perseus,hero.greek.andromeda,CHARACTER,80,Wife
+story.greek.perseus_library,storyver.greek.library_2_4_perseus,deity.greek.athena,CHARACTER,90,Guide
+story.greek.perseus_library,storyver.greek.library_2_4_perseus,deity.greek.hermes,CHARACTER,100,Guide
+story.greek.perseus_library,storyver.greek.library_2_4_perseus,deity.greek.zeus,CHARACTER,110,Father
 story.greek.theogony_cosmos,storyver.greek.theogony_long,text.greek.theogony,TEXT,10,Poem
 story.greek.theogony_cosmos,storyver.greek.theogony_long,deity.greek.chaos,CHARACTER,20,First
 story.greek.theogony_cosmos,storyver.greek.theogony_long,deity.greek.gaia,CHARACTER,30,Earth
@@ -398,6 +478,25 @@ story.irish.second_battle_mag_tuired,storyver.irish.mag_tuired_gray,being.irish.
 story.irish.second_battle_mag_tuired,storyver.irish.mag_tuired_gray,artifact.irish.dagda_cauldron,ARTIFACT,60,Treasure
 story.irish.second_battle_mag_tuired,storyver.irish.mag_tuired_gray,event.irish.second_battle_mag_tuired,EVENT,70,Battle
 story.irish.second_battle_mag_tuired,storyver.irish.mag_tuired_gray,text.irish.cath_maige_tuired,TEXT,80,Saga
+story.irish.tain_ferdiad_bulls,storyver.irish.tain_dunn_2,hero.irish.cu_chulainn,CHARACTER,10,Hero
+story.irish.tain_ferdiad_bulls,storyver.irish.tain_dunn_2,hero.irish.medb,CHARACTER,20,Queen of Connacht
+story.irish.tain_ferdiad_bulls,storyver.irish.tain_dunn_2,hero.irish.ailill,CHARACTER,30,King of Connacht
+story.irish.tain_ferdiad_bulls,storyver.irish.tain_dunn_2,hero.irish.fergus_mac_roich,CHARACTER,40,Exiled Ulsterman
+story.irish.tain_ferdiad_bulls,storyver.irish.tain_dunn_2,creature.irish.donn_cuailnge,CHARACTER,50,Brown Bull
+story.irish.tain_ferdiad_bulls,storyver.irish.tain_dunn_2,hero.irish.conchobar,CHARACTER,60,King of Ulster
+story.irish.tain_ferdiad_bulls,storyver.irish.tain_dunn_2,hero.irish.ferdiad,CHARACTER,70,Foster-brother
+story.irish.tain_ferdiad_bulls,storyver.irish.tain_dunn_2,weapon.irish.gae_bulg,ARTIFACT,80,Spear
+story.irish.tain_ferdiad_bulls,storyver.irish.tain_dunn_2,weapon.irish.caladbolg,ARTIFACT,90,Fergus's sword
+story.irish.tain_ferdiad_bulls,storyver.irish.tain_dunn_2,creature.irish.finnbennach,CHARACTER,100,White-horned Bull
+story.irish.tain_muster_boy_deeds,storyver.irish.tain_dunn_1,hero.irish.cu_chulainn,CHARACTER,10,Hero
+story.irish.tain_muster_boy_deeds,storyver.irish.tain_dunn_1,hero.irish.medb,CHARACTER,20,Queen of Connacht
+story.irish.tain_muster_boy_deeds,storyver.irish.tain_dunn_1,hero.irish.ailill,CHARACTER,30,King of Connacht
+story.irish.tain_muster_boy_deeds,storyver.irish.tain_dunn_1,hero.irish.fergus_mac_roich,CHARACTER,40,Exiled Ulsterman
+story.irish.tain_muster_boy_deeds,storyver.irish.tain_dunn_1,creature.irish.donn_cuailnge,CHARACTER,50,Brown Bull
+story.irish.tain_muster_boy_deeds,storyver.irish.tain_dunn_1,hero.irish.conchobar,CHARACTER,60,King of Ulster
+story.irish.tain_muster_boy_deeds,storyver.irish.tain_dunn_1,creature.irish.finnbennach,CHARACTER,70,White-horned Bull
+story.irish.tain_muster_boy_deeds,storyver.irish.tain_dunn_1,deity.irish.morrigan,CHARACTER,80,Goddess
+story.irish.tain_muster_boy_deeds,storyver.irish.tain_dunn_1,deity.irish.lugh,CHARACTER,90,Father
 story.japanese.eight_thunder_yomi,storyver.japanese.eight_thunder_kojiki,group.japanese.eight_thunder_kami,RELATED,10,Derived from an explicitly linked story claim subject.
 story.japanese.eight_thunder_yomi,storyver.japanese.eight_thunder_kojiki,deity.japanese.ooikazuchi,CHARACTER,10,Derived from an explicitly linked story claim subject.
 story.japanese.eight_thunder_yomi,storyver.japanese.eight_thunder_kojiki,deity.japanese.honoikazuchi,CHARACTER,10,Derived from an explicitly linked story claim subject.
@@ -533,6 +632,22 @@ story.norse.odin_mimir,storyver.norse.odin_mimir_gylf,place.norse.mimisbrunnr,PL
 story.norse.ragnarok,storyver.norse.ragnarok_gylf,creature.norse.fenrir,CHARACTER,10,Derived from an explicitly linked story claim subject.
 story.norse.ragnarok,storyver.norse.ragnarok_gylf,deity.norse.odin,CHARACTER,10,Derived from an explicitly linked story claim subject.
 story.norse.ragnarok,storyver.norse.ragnarok_gylf,event.norse.ragnarok,EVENT,20,Derived from an explicitly linked story claim object.
+story.norse.ragnarok,storyver.norse.ragnarok_gylf_long,event.norse.ragnarok,EVENT,10,End of the world
+story.norse.ragnarok,storyver.norse.ragnarok_gylf_long,deity.norse.odin,CHARACTER,20,Falls to Fenrir
+story.norse.ragnarok,storyver.norse.ragnarok_gylf_long,deity.norse.thor,CHARACTER,30,Fights the serpent
+story.norse.ragnarok,storyver.norse.ragnarok_gylf_long,deity.norse.loki,CHARACTER,40,Leads Hel's host
+story.norse.ragnarok,storyver.norse.ragnarok_gylf_long,creature.norse.fenrir,CHARACTER,50,Wolf
+story.norse.ragnarok,storyver.norse.ragnarok_gylf_long,creature.norse.jormungandr,CHARACTER,60,Midgard serpent
+story.norse.ragnarok,storyver.norse.ragnarok_gylf_long,deity.norse.freyr,CHARACTER,70,Falls to Surtr
+story.norse.ragnarok,storyver.norse.ragnarok_gylf_long,deity.norse.heimdall,CHARACTER,80,Sounds the horn
+story.norse.ragnarok,storyver.norse.ragnarok_gylf_long,deity.norse.tyr,CHARACTER,90,Fights Garmr
+story.norse.ragnarok,storyver.norse.ragnarok_gylf_long,deity.norse.vidar,CHARACTER,100,Avenger
+story.norse.ragnarok,storyver.norse.ragnarok_gylf_long,creature.norse.surtr,CHARACTER,110,Fire giant
+story.norse.ragnarok,storyver.norse.ragnarok_gylf_long,creature.norse.garm,CHARACTER,120,Hound
+story.norse.ragnarok,storyver.norse.ragnarok_gylf_long,artifact.norse.naglfar,ARTIFACT,130,Ship of the dead
+story.norse.ragnarok,storyver.norse.ragnarok_gylf_long,deity.norse.baldr,CHARACTER,140,Returns
+story.norse.ragnarok,storyver.norse.ragnarok_gylf_long,deity.norse.hodr,CHARACTER,150,Returns
+story.norse.ragnarok,storyver.norse.ragnarok_gylf_long,artifact.norse.gjallarhorn,ARTIFACT,160,Horn
 story.norse.thor_utgarda_loki,storyver.norse.utgard_gylf,deity.norse.thor,CHARACTER,10,Hero
 story.norse.thor_utgarda_loki,storyver.norse.utgard_gylf,deity.norse.loki,CHARACTER,20,Companion
 story.norse.thor_utgarda_loki,storyver.norse.utgard_gylf,hero.norse.thjalfi,CHARACTER,30,Servant
@@ -550,6 +665,32 @@ story.norse.vanir_family,storyver.norse.vanir_gylf,deity.norse.freyja,CHARACTER,
 story.norse.vanir_family,storyver.norse.vanir_gylf,place.norse.noatun,PLACE,40,Njörðr's home
 story.norse.vanir_family,storyver.norse.vanir_gylf,place.norse.folkvangr,PLACE,50,Freyja's home
 story.norse.vanir_family,storyver.norse.vanir_gylf,text.norse.gylfaginning,TEXT,60,Gylfaginning
+story.norse.volsunga_sigmund,storyver.norse.volsunga_morris_1_12,deity.norse.odin,CHARACTER,10,Ancestor
+story.norse.volsunga_sigmund,storyver.norse.volsunga_morris_1_12,hero.norse.volsung,CHARACTER,20,King
+story.norse.volsunga_sigmund,storyver.norse.volsunga_morris_1_12,hero.norse.signy,CHARACTER,30,Daughter
+story.norse.volsunga_sigmund,storyver.norse.volsunga_morris_1_12,hero.norse.sigmund,CHARACTER,40,Hero
+story.norse.volsunga_sigmund,storyver.norse.volsunga_morris_1_12,hero.norse.sinfjotli,CHARACTER,50,Son
+story.norse.volsunga_sigmund,storyver.norse.volsunga_morris_1_12,weapon.norse.gram,ARTIFACT,60,Sword
+story.norse.volsunga_sigurd_brynhild,storyver.norse.volsunga_morris_25_32,hero.norse.sigurd,CHARACTER,10,Hero
+story.norse.volsunga_sigurd_brynhild,storyver.norse.volsunga_morris_25_32,weapon.norse.gram,ARTIFACT,20,Sword
+story.norse.volsunga_sigurd_brynhild,storyver.norse.volsunga_morris_25_32,deity.norse.odin,CHARACTER,30,Old man
+story.norse.volsunga_sigurd_brynhild,storyver.norse.volsunga_morris_25_32,being.norse.regin,CHARACTER,40,Foster-father
+story.norse.volsunga_sigurd_brynhild,storyver.norse.volsunga_morris_25_32,creature.norse.fafnir,CHARACTER,50,Dragon
+story.norse.volsunga_sigurd_brynhild,storyver.norse.volsunga_morris_25_32,artifact.norse.andvaranaut,ARTIFACT,60,Cursed ring
+story.norse.volsunga_sigurd_brynhild,storyver.norse.volsunga_morris_25_32,hero.norse.brynhild,CHARACTER,70,Shield-maiden
+story.norse.volsunga_sigurd_brynhild,storyver.norse.volsunga_morris_25_32,creature.norse.grani,CHARACTER,80,Horse
+story.norse.volsunga_sigurd_brynhild,storyver.norse.volsunga_morris_25_32,hero.norse.gudrun,CHARACTER,90,Wife
+story.norse.volsunga_sigurd_brynhild,storyver.norse.volsunga_morris_25_32,hero.norse.gunnar,CHARACTER,100,Sworn brother
+story.norse.volsunga_sigurd_dragon,storyver.norse.volsunga_morris_13_24,hero.norse.sigurd,CHARACTER,10,Hero
+story.norse.volsunga_sigurd_dragon,storyver.norse.volsunga_morris_13_24,weapon.norse.gram,ARTIFACT,20,Sword
+story.norse.volsunga_sigurd_dragon,storyver.norse.volsunga_morris_13_24,deity.norse.odin,CHARACTER,30,Old man
+story.norse.volsunga_sigurd_dragon,storyver.norse.volsunga_morris_13_24,being.norse.regin,CHARACTER,40,Foster-father
+story.norse.volsunga_sigurd_dragon,storyver.norse.volsunga_morris_13_24,creature.norse.fafnir,CHARACTER,50,Dragon
+story.norse.volsunga_sigurd_dragon,storyver.norse.volsunga_morris_13_24,artifact.norse.andvaranaut,ARTIFACT,60,Cursed ring
+story.norse.volsunga_sigurd_dragon,storyver.norse.volsunga_morris_13_24,hero.norse.brynhild,CHARACTER,70,Shield-maiden
+story.norse.volsunga_sigurd_dragon,storyver.norse.volsunga_morris_13_24,creature.norse.grani,CHARACTER,80,Horse
+story.norse.volsunga_sigurd_dragon,storyver.norse.volsunga_morris_13_24,deity.norse.loki,CHARACTER,90,Killer of Otr
+story.norse.volsunga_sigurd_dragon,storyver.norse.volsunga_morris_13_24,being.norse.andvari,CHARACTER,100,Dwarf
 story.norse.ymir_world,storyver.norse.ymir_gylf,being.norse.ymir,CHARACTER,10,Primordial giant
 story.norse.ymir_world,storyver.norse.ymir_gylf,deity.norse.odin,CHARACTER,20,Slayer
 story.norse.ymir_world,storyver.norse.ymir_gylf,event.norse.slaying_of_ymir,EVENT,30,World-making
@@ -600,6 +741,28 @@ story.vedic.indra_vritra,storyver.vedic.indra_vritra_rv132,event.vedic.indra_vri
 story.vedic.indra_vritra,storyver.vedic.indra_vritra_rv132,deity.vedic.tvastr,CHARACTER,10,Derived from an explicitly linked story claim subject.
 story.vedic.indra_vritra,storyver.vedic.indra_vritra_rv132,weapon.vedic.vajra,ARTIFACT,10,Derived from an explicitly linked story claim subject.
 story.vedic.indra_vritra,storyver.vedic.indra_vritra_rv132,text.vedic.rigveda,RELATED,20,Derived from an explicitly linked story claim object.
+story.welsh.mabinogi_branwen,storyver.welsh.mabinogi_guest_branch2,hero.welsh.bendigeidfran,CHARACTER,10,King
+story.welsh.mabinogi_branwen,storyver.welsh.mabinogi_guest_branch2,hero.welsh.branwen,CHARACTER,20,Sister
+story.welsh.mabinogi_branwen,storyver.welsh.mabinogi_guest_branch2,hero.welsh.manawydan,CHARACTER,30,Brother
+story.welsh.mabinogi_branwen,storyver.welsh.mabinogi_guest_branch2,hero.welsh.matholwch,CHARACTER,40,King of Ireland
+story.welsh.mabinogi_branwen,storyver.welsh.mabinogi_guest_branch2,hero.welsh.efnysien,CHARACTER,50,Half-brother
+story.welsh.mabinogi_branwen,storyver.welsh.mabinogi_guest_branch2,artifact.welsh.cauldron_of_rebirth,ARTIFACT,60,Cauldron
+story.welsh.mabinogi_branwen,storyver.welsh.mabinogi_guest_branch2,hero.welsh.pryderi,CHARACTER,70,Survivor
+story.welsh.mabinogi_manawydan,storyver.welsh.mabinogi_guest_branch3,hero.welsh.manawydan,CHARACTER,10,Hero
+story.welsh.mabinogi_manawydan,storyver.welsh.mabinogi_guest_branch3,hero.welsh.rhiannon,CHARACTER,20,Wife
+story.welsh.mabinogi_manawydan,storyver.welsh.mabinogi_guest_branch3,hero.welsh.pryderi,CHARACTER,30,Companion
+story.welsh.mabinogi_manawydan,storyver.welsh.mabinogi_guest_branch3,hero.welsh.pwyll,CHARACTER,40,Remembered
+story.welsh.mabinogi_math,storyver.welsh.mabinogi_guest_branch4,hero.welsh.math,CHARACTER,10,King
+story.welsh.mabinogi_math,storyver.welsh.mabinogi_guest_branch4,hero.welsh.gwydion,CHARACTER,20,Magician
+story.welsh.mabinogi_math,storyver.welsh.mabinogi_guest_branch4,hero.welsh.arianrhod,CHARACTER,30,Mother
+story.welsh.mabinogi_math,storyver.welsh.mabinogi_guest_branch4,hero.welsh.lleu,CHARACTER,40,Hero
+story.welsh.mabinogi_math,storyver.welsh.mabinogi_guest_branch4,hero.welsh.blodeuedd,CHARACTER,50,Flower-wife
+story.welsh.mabinogi_math,storyver.welsh.mabinogi_guest_branch4,hero.welsh.pryderi,CHARACTER,60,Slain
+story.welsh.mabinogi_pwyll,storyver.welsh.mabinogi_guest_branch1,hero.welsh.pwyll,CHARACTER,10,Prince of Dyfed
+story.welsh.mabinogi_pwyll,storyver.welsh.mabinogi_guest_branch1,deity.welsh.arawn,CHARACTER,20,King of Annwn
+story.welsh.mabinogi_pwyll,storyver.welsh.mabinogi_guest_branch1,place.welsh.annwn,PLACE,30,Otherworld
+story.welsh.mabinogi_pwyll,storyver.welsh.mabinogi_guest_branch1,hero.welsh.rhiannon,CHARACTER,40,Wife
+story.welsh.mabinogi_pwyll,storyver.welsh.mabinogi_guest_branch1,hero.welsh.pryderi,CHARACTER,50,Son
 story.zoroastrian.mihr_yasht,storyver.zoroastrian.mihr_yasht_darmesteter,deity.zoroastrian.mithra,CHARACTER,10,Lord of wide pastures
 story.zoroastrian.mihr_yasht,storyver.zoroastrian.mihr_yasht_darmesteter,deity.zoroastrian.ahura_mazda,CHARACTER,20,Creator
 story.zoroastrian.mihr_yasht,storyver.zoroastrian.mihr_yasht_darmesteter,text.zoroastrian.mihr_yasht,TEXT,30,Hymn

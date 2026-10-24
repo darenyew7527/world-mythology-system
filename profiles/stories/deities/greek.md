@@ -466,6 +466,132 @@
 
 ---
 
+## 厄洛斯 · Eros
+
+**有完整故事 / Full story**
+
+完整故事档案：[story.greek.argonautica_fleece_return](../story.greek.argonautica_fleece_return.md)
+
+> *Child of Aphrodite whose arrow, shot at Hera's request, makes Medea fall in love with Jason (Argonautica 3).*
+
+**长篇故事 · 14 章**
+
+目录：01 三位女神 · 02 厄洛斯的箭 · 03 国王的考验 · 04 美狄亚的不眠之夜 · 05 赫卡忒神庙的相会 · 06 喷火的公牛 · 07 盗取金羊毛 · 08 阿布绪耳托斯之死 · 09 会说话的船梁 · 10 塞壬与漂浮岩 · 11 山洞里的婚礼 · 12 扛着船穿越沙漠 · 13 铜人塔罗斯 · 14 黑夜里的光明与归来
+
+### 1. 三位女神 / Three goddesses
+
+英雄们躲在法细斯河边的芦苇丛里，天上的赫拉和雅典娜却在为他们发愁：埃厄忒斯强大而残暴，单凭英雄们的勇气，是取不回金羊毛的。赫拉想出了一个主意：去请爱神阿佛洛狄忒帮忙，让她的儿子厄洛斯用箭射中埃厄忒斯的女儿美狄亚，让公主爱上伊阿宋。美狄亚是魔法女神赫卡忒的女祭司，精通各种草药和咒语，只有她能帮助伊阿宋。两位女神来到阿佛洛狄忒的宫殿，女神正坐在镜前梳理她的长发。阿佛洛狄忒有些惊讶，因为这两位女神平时很少来看她。赫拉说明来意，阿佛洛狄忒答应了，可是她说：我那个孩子顽皮得很，根本不听我的话。她在宙斯的果园里找到了厄洛斯，他正和美少年伽倪墨得斯玩羊踝骨，赢得满心欢喜。阿佛洛狄忒抚摸着他的脸说：如果你去射中美狄亚，让她爱上伊阿宋，我就把宙斯小时候玩过的那只金球送给你，它的光芒像一颗星。厄洛斯一听，扔下羊踝骨，背起箭袋，从奥林匹斯山上飞了下去，飞向科尔基斯。
+
+*While the heroes lay hidden in the reeds, Hera and Athena took counsel: Aeetes was too strong and cruel for courage alone to win the fleece. Hera proposed to ask Aphrodite to have her son Eros shoot Medea, Aeetes's daughter — a priestess of Hecate, skilled in herbs and spells, the one person who could help Jason — so that she would love him. They found Aphrodite combing her long hair, surprised at their rare visit; she agreed, though she said her boy would not obey her. She found Eros in Zeus's orchard playing knucklebones with Ganymede, gleeful at his winnings, and stroking his cheek promised him the golden ball that Zeus had played with as a child, gleaming like a star, if he would shoot Medea. Eros threw down his knucklebones, took up his quiver and flew down from Olympus to Colchis.*
+
+<sub>来源 / Source：Apollonius Rhodius, The Argonautica (tr. R. C. Seaton, 1912) · Books III–IV · 《阿尔戈英雄纪》第三卷·三位女神。</sub>
+
+### 2. 厄洛斯的箭 / The arrow of Eros
+
+伊阿宋带着佛里克索斯的儿子们和两位同伴，走进了埃厄忒斯的王宫。赫拉为了让他们不被科尔基斯人发现，在城里降下了一层浓雾，直到他们走进宫殿才散去。宫殿雄伟壮丽，庭院里有四眼泉水，分别流出牛奶、美酒、香油和冬暖夏凉的清水，都是火神赫淮斯托斯为太阳神的儿子造的。佛里克索斯的遗孀、埃厄忒斯的大女儿卡尔喀俄珀看见自己的儿子们回来了，惊喜地扑上去拥抱他们。就在这一片喧闹中，美狄亚从房间里走了出来。厄洛斯悄悄地躲在门廊下，搭上一支箭，拉满了弓，蹲在伊阿宋的脚边，一箭射进了美狄亚的心里，然后大笑着飞走了。那支箭在美狄亚的心底像火焰一样燃烧起来。她的目光不由自主地投向伊阿宋，心跳加快，脸色一阵苍白一阵通红，像一个贫穷的纺织女工把一点火种埋在柴堆下，深夜里那火悄悄地燃起，把整堆柴都烧成了灰烬。从这一刻起，美狄亚的心已经不再属于她自己了。
+
+*Jason went into Aeetes's palace with the sons of Phrixus and two comrades, Hera veiling them in mist through the city until they arrived. In the courtyard four fountains made by Hephaestus for the son of the Sun ran with milk, wine, fragrant oil and water warm in winter and cool in summer. Chalciope, Aeetes's elder daughter and widow of Phrixus, ran to embrace her returning sons, and in the commotion Medea came out of her chamber. Eros, hidden in the porch, strung his bow, crouched at Jason's feet and shot an arrow into Medea's heart, then flew away laughing. The shaft burned in her like flame; she could not keep her eyes from Jason, her face going pale and red by turns, as when a poor spinning-woman heaps twigs on a brand in the night and the little flame rises and consumes them all. From that moment her heart was no longer her own.*
+
+<sub>来源 / Source：Apollonius Rhodius, The Argonautica (tr. R. C. Seaton, 1912) · Books III–IV · 《阿尔戈英雄纪》第三卷·埃厄忒斯的王宫。</sub>
+
+### 3. 国王的考验 / The king's trial
+
+宴席过后，埃厄忒斯问外乡人的来意。阿耳戈斯替伊阿宋说明：他们是奉珀利阿斯之命来取金羊毛的，愿意为国王出力，帮他打败邻近的敌人作为回报。埃厄忒斯勃然大怒。他以为这些人是来夺取他的王位的，佛里克索斯的儿子们则是内应。他强压怒火，对伊阿宋说：我不和勇敢的人争吵。你可以拿走金羊毛，但你必须先完成一件我自己也做过的事。在阿瑞斯的平原上，有两头铜蹄的公牛，它们的嘴里喷着火焰。我把它们套上犁，耕种阿瑞斯的四亩田地，然后在犁沟里种下的不是谷物的种子，而是一条巨蛇的牙齿。从地里长出的是全副武装的武士，我用长矛把他们全部杀死。我从清晨开始，到黄昏就能收工。如果你能在一天之内做到这一切，金羊毛就归你。伊阿宋默默地坐着，不知道怎样回答，这是一个不可能完成的任务。最后他说：国王，我接受这个考验，即使我会因此而死，因为没有什么比命运更可怕。回到船上，英雄们听说了这件事，都沉默了。
+
+*After the feast Aeetes asked why they had come, and Argus explained that they sought the fleece at Pelias's command and would serve the king against his enemies in return. Aeetes was enraged, suspecting they had come for his throne with Phrixus's sons as accomplices. Mastering his anger, he told Jason he did not quarrel with brave men: he could have the fleece if he first did what Aeetes himself had done. On the plain of Ares were two bronze-footed bulls breathing fire; Aeetes yoked them, ploughed the four-acre field of Ares, and sowed in the furrows not grain but the teeth of a dread serpent, from which armed men sprang up, and these he slew with his spear — all from dawn to dusk. If Jason could do the same in a day, the fleece was his. Jason sat speechless, then said he would accept the trial even if he died, for nothing was more dreadful than necessity. Back at the ship the heroes heard it in silence.*
+
+<sub>来源 / Source：Apollonius Rhodius, The Argonautica (tr. R. C. Seaton, 1912) · Books III–IV · 《阿尔戈英雄纪》第三卷·国王的考验。</sub>
+
+### 4. 美狄亚的不眠之夜 / Medea's sleepless night
+
+那天夜里，美狄亚躺在床上，怎么也睡不着。她想着伊阿宋，想着他的面容、他的衣着、他说话的声音，想着他明天就要去面对喷火的公牛，必死无疑。她的心像阳光照在水面上反射到墙上的光斑一样，跳动不停。一会儿，她决定把魔药给他；一会儿，她又觉得不应该背叛父亲；一会儿，她想不如自己去死，什么也不管了。她起身走到门边，又转身回来，来来回回，反复了好几次，最后伏在床上痛哭起来。这时，她的姐姐卡尔喀俄珀来了。卡尔喀俄珀害怕父亲会杀死她的儿子们，求妹妹帮助伊阿宋，这样也就救了她的儿子们。美狄亚心里暗暗高兴，有了帮助伊阿宋的理由，就答应了姐姐：明天一早，我就到赫卡忒的神庙去，把能让他抵挡公牛火焰的魔药交给他。姐姐走了以后，美狄亚又陷入了羞愧和恐惧：一个少女为了一个异乡人背叛父亲，人们会怎样议论她？她拿出装满毒药的匣子，想要一死了之，可是一想到阳光下的种种美好，又害怕起死亡来，把匣子放下了。天终于亮了。
+
+*That night Medea lay sleepless, thinking of Jason's face, his clothes, his voice, and of the fire-breathing bulls that would kill him tomorrow. Her heart quivered like a sunbeam thrown on a wall from water in a pail. Now she would give him the charm, now she would not betray her father, now she would rather die; she went to the door and turned back again and again, then threw herself on the bed weeping. Then Chalciope came, fearing their father would kill her sons, and begged Medea to help the stranger and so save them. Medea, glad of the excuse, promised to go at dawn to the temple of Hecate and give him a charm against the bulls' fire. Alone again, she was overcome with shame — what would people say of a maiden who betrayed her father for a stranger? — and took out her casket of poisons to die; but thinking of the pleasant things of life under the sun, she feared death and put the casket away. At last the dawn came.*
+
+<sub>来源 / Source：Apollonius Rhodius, The Argonautica (tr. R. C. Seaton, 1912) · Books III–IV · 《阿尔戈英雄纪》第三卷·美狄亚的夜。</sub>
+
+### 5. 赫卡忒神庙的相会 / Meeting at Hecate's temple
+
+清晨，美狄亚梳妆打扮，带着侍女们乘马车来到了赫卡忒的神庙。她随身带着一种魔药，这种魔药提炼自一种奇异的花，那花生长在高加索山上，是从被鹰啄食的普罗米修斯滴下的血里长出来的。伊阿宋在预言家摩普索斯和阿耳戈斯的陪同下来到神庙，赫拉让他显得格外英俊。他像从大洋河里升起的天狼星一样，出现在美狄亚面前。两人面对面站着，很久都说不出话来。伊阿宋先开口，恳求她帮助，并对她说：当年克里特的公主阿里阿德涅也曾帮助过忒修斯，后来众神把她的花冠放在天上，变成了星座；你如果帮助我们，全希腊都会传颂你的名字。美狄亚低着头，微笑着，把魔药从怀里取出来，交到了他的手里。她告诉他：半夜里，你要独自到河边去沐浴，挖一个坑，向赫卡忒献上一只母羊，倒上蜂蜜，然后离开，不要回头。明天早晨，把这药涂遍全身和你的盾牌、长矛和剑，一整天里，火焰和刀枪都伤不了你。龙牙种下、武士长出来时，你就向他们中间扔一块大石头。临别时，她含着泪说：你回到家乡以后，请记住美狄亚的名字。
+
+*At dawn Medea went in her chariot with her maidens to the temple of Hecate, bringing a charm made from a flower that grew on the Caucasus from the ichor of Prometheus, dripping as the eagle tore him. Jason came with Mopsus and Argus, made beautiful by Hera, and appeared to her like Sirius rising from Ocean. They stood face to face long in silence. Jason spoke first, begging her help and reminding her how Ariadne had helped Theseus and her crown was set among the stars by the gods; all Greece would praise Medea's name. Smiling with downcast eyes, she drew the charm from her bosom and gave it into his hands. At midnight, she told him, he must bathe alone in the river, dig a pit, sacrifice a ewe to Hecate with honey, and leave without looking back; in the morning he should anoint his body, shield, spear and sword, and for a whole day neither fire nor bronze could harm him; when the earthborn men sprang up he should throw a great stone among them. Parting, she asked him in tears to remember Medea when he was home.*
+
+<sub>来源 / Source：Apollonius Rhodius, The Argonautica (tr. R. C. Seaton, 1912) · Books III–IV · 《阿尔戈英雄纪》第三卷·神庙相会。</sub>
+
+### 6. 喷火的公牛 / The fire-breathing bulls
+
+半夜，伊阿宋按照美狄亚的嘱咐，独自在河边沐浴，挖坑献祭。赫卡忒从深处升起来，头上缠绕着毒蛇，四周是冥府的猎犬的嚎叫和火把的光亮，沼泽里的仙女们都尖叫起来。伊阿宋没有回头，一直走回了同伴们身边。天亮了，他把魔药涂遍全身和兵器，觉得浑身充满了无穷的力量。埃厄忒斯穿上战神送给他的铠甲，带着科尔基斯人来到阿瑞斯的平原上观看。两头公牛从地下的牛棚里冲了出来，鼻孔里喷着火焰，咆哮声震动大地。伊阿宋稳稳地站着，用盾牌挡住冲来的公牛，火焰像风暴一样包围了他，却丝毫伤不了他。他抓住一头牛的角，把它拖到轭边，又一脚踢倒另一头牛，把两头牛都套上了犁。他用长矛赶着公牛犁地，从清晨犁到午后，把龙牙撒进了犁沟里。到了傍晚，从犁沟里长出了一个个全副武装的武士，大地上闪烁着盾牌和长矛的寒光。伊阿宋想起了美狄亚的话，举起一块四个壮汉也搬不动的大石头，扔进了武士们中间。武士们像猎犬一样扑向石头，互相厮杀起来，伊阿宋趁机冲上去，把他们一个个砍倒。太阳落山时，考验完成了。埃厄忒斯一言不发地回到城里，盘算着怎样对付这些外乡人。
+
+*At midnight Jason bathed and sacrificed as Medea had told him, and Hecate rose from the depths wreathed with serpents amid the barking of hellhounds and the glare of torches, while the marsh nymphs shrieked; he did not look back. At dawn he anointed himself and his arms and felt boundless strength. Aeetes, in the armour Ares had given him, came with the Colchians to the plain of Ares. The bulls rushed from their underground stall breathing fire; Jason stood firm behind his shield, the flame swirling round him harmlessly, dragged one bull by the horn to the yoke, felled the other with a kick, and yoked them both. Goading them with his spear he ploughed from dawn into the afternoon and sowed the teeth; at evening armed men sprang from the furrows and the earth bristled with shields and spears. Remembering Medea's words, he hurled among them a great stone that four strong men could not lift; they fell on one another like hounds, and he cut them down. At sunset the trial was done, and Aeetes went silently back to the city, plotting against the strangers.*
+
+<sub>来源 / Source：Apollonius Rhodius, The Argonautica (tr. R. C. Seaton, 1912) · Books III–IV · 《阿尔戈英雄纪》第三卷·考验。</sub>
+
+### 7. 盗取金羊毛 / Taking the fleece
+
+当天夜里，美狄亚知道父亲已经起了疑心，要对她和英雄们下毒手。她心中充满恐惧，带着魔药匣子，赤着脚从宫中逃出，穿过夜色跑到河边，在英雄们的营火旁高声呼喊佛里克索斯最小的儿子的名字。伊阿宋跳上岸来，美狄亚抱住他的膝盖说：快救救我，也救救你们自己，我们得在我父亲动手之前取走金羊毛；我会让看守的巨蛇睡着。伊阿宋扶她起来，在众神面前发誓，要娶她为妻，带她回希腊。他们来到阿瑞斯的圣林，金羊毛挂在一棵高大的橡树上，像被朝阳照亮的云彩一样闪闪发光。那条巨蛇从不睡觉，它看见了来人，伸长脖子，发出可怕的嘶嘶声，整片树林都在回响。美狄亚走到巨蛇面前，用甜美的声音呼唤睡神和夜里的女王赫卡忒，唱起了催眠的歌。巨蛇巨大的身躯渐渐松弛下来，可是它仍然昂着可怕的头。美狄亚用一根新鲜的刺柏枝蘸了魔药，一边念着咒语，一边洒在巨蛇的眼睛上，浓烈的药味让它沉沉睡去。伊阿宋取下金羊毛，像一个少女用薄纱接住满月的光一样欢喜。两人飞奔回到船上，天还没有亮，英雄们立刻划桨出发了。
+
+*That night, knowing her father suspected her and plotted harm, Medea fled the palace barefoot with her casket of drugs and ran through the dark to the river, calling to the youngest son of Phrixus by the heroes' fire. Jason leapt ashore; clasping his knees she begged him to save her and themselves: they must take the fleece before her father struck, and she would put the serpent to sleep. Jason raised her and swore before the gods to make her his wedded wife in Greece. In the grove of Ares the fleece hung on a tall oak, glowing like a cloud reddened by the rising sun. The sleepless serpent saw them and hissed so that the whole grove rang; Medea called sweetly on Sleep and on Hecate, queen of the night, and sang her spell until its coils relaxed, then sprinkled its eyes with drugs from a fresh sprig of juniper, chanting, and the strong scent cast it into sleep. Jason took down the fleece, rejoicing like a maiden catching the light of the full moon on her fine robe, and they ran back to the ship and rowed away before dawn.*
+
+<sub>来源 / Source：Apollonius Rhodius, The Argonautica (tr. R. C. Seaton, 1912) · Books III–IV · 《阿尔戈英雄纪》第四卷·金羊毛。</sub>
+
+### 8. 阿布绪耳托斯之死 / The death of Apsyrtus
+
+埃厄忒斯得知女儿和金羊毛都被带走了，怒不可遏，派出了大批船只追赶，领兵的是美狄亚的弟弟阿布绪耳托斯。按照菲纽斯的指点，英雄们没有从原路返回，而是驶进了伊斯特河，想从另一条路回到希腊。可是阿布绪耳托斯抄近路赶在了他们前面，封锁了河口和附近的岛屿。英雄们寡不敌众，只好与科尔基斯人谈判：金羊毛归伊阿宋，因为那是他凭考验赢来的；美狄亚则暂时留在阿耳忒弥斯神庙所在的岛上，由当地的国王裁决她应该回到父亲身边，还是跟着英雄们走。美狄亚害怕被交出去，责骂伊阿宋背弃誓言，伊阿宋发誓不会抛弃她。于是两人定下了一个阴谋：美狄亚派人带着礼物去见阿布绪耳托斯，假装要把金羊毛偷来交给他，约他夜里在神庙边单独见面。阿布绪耳托斯信以为真，独自前来。伊阿宋埋伏在一旁，冲出来一剑杀死了他，美狄亚转过脸去，不忍看见弟弟被杀。阿布绪耳托斯临死时，把鲜血溅在了姐姐的银纱和长袍上。伊阿宋按照杀人者的习俗，割下死者的手脚末端，舔了三次血又吐了三次，把尸体埋在了地下。失去了首领的科尔基斯人被英雄们打散了，可是宙斯看见了这桩用诡计犯下的血罪，大为震怒。
+
+*Aeetes, enraged, sent a great fleet after them under Medea's brother Apsyrtus. On Phineus's advice the heroes did not return the way they came but entered the river Ister; Apsyrtus went by a shorter way, got ahead of them and blocked the river mouths and islands. Outnumbered, the heroes agreed with the Colchians that the fleece should be Jason's, won by his trial, while Medea should wait on the island of Artemis's temple for a neighbouring king to judge whether she returned to her father. Medea, fearing betrayal, reproached Jason, and together they laid a plot: she sent gifts to Apsyrtus pretending she would steal the fleece for him, and he came alone by night to the temple. Jason sprang from ambush and struck him down while Medea turned her eyes away; dying, he stained her silvery veil and robe with his blood. Jason cut off the extremities of the dead man, thrice licked up the blood and thrice spat it out, as slayers do to atone, and buried him. The leaderless Colchians were routed, but Zeus saw the treacherous murder and was wroth.*
+
+<sub>来源 / Source：Apollonius Rhodius, The Argonautica (tr. R. C. Seaton, 1912) · Books III–IV · 《阿尔戈英雄纪》第四卷·阿布绪耳托斯。</sub>
+
+### 9. 会说话的船梁 / The speaking beam
+
+阿尔戈号继续航行，可是风暴一次又一次把它吹回原处。忽然，船头那块来自多多那的神圣橡木开口说话了，用人的声音宣告：宙斯因为阿布绪耳托斯之死而发怒了；除非你们去找喀耳刻为你们洗清这桩血罪，否则你们永远也回不了家。英雄们听了，又惊又怕。他们驶进了厄里达诺斯河——当年太阳神的儿子法厄同驾车坠落的地方，河水至今还冒着腐臭的热气，赫利阿得斯姐妹们化成了河边的白杨，她们的眼泪化成了琥珀。他们又从厄里达诺斯驶进了罗达诺斯河，在赫拉的指引下，穿过了凯尔特人和利古里亚人的土地，来到了第勒尼安海，找到了喀耳刻居住的埃埃亚岛。喀耳刻是埃厄忒斯的妹妹，美狄亚的姑姑。伊阿宋和美狄亚默默地走进她的宫殿，坐在炉火边，伊阿宋把杀死阿布绪耳托斯的剑插在地上，两人低着头，不说一句话——这是求人洗罪的人的规矩。喀耳刻明白了，她杀了一头小猪，用猪血为他们洗手，又向宙斯献上祭品，求他平息怒气。然后她问美狄亚是谁，美狄亚用科尔基斯的语言讲述了一切。喀耳刻知道了真相，严厉地责备她背叛父亲、逃离家乡，把她赶出了宫殿。
+
+*The Argo sailed on, but storms drove her back again and again, until the Dodonian beam in her prow spoke with a human voice: Zeus was angry at the death of Apsyrtus, and they would never reach home unless Circe cleansed them of the blood. They entered the Eridanus, where Phaethon fell blazing from the Sun's chariot, where the stream still steams and the Heliades, turned to poplars, weep tears of amber; from there into the Rhodanus, and by Hera's guidance through the lands of the Celts and Ligurians to the Tyrrhenian sea and Circe's island of Aeaea. Circe was sister of Aeetes. Jason and Medea entered her house in silence and sat at the hearth as suppliants do, Jason fixing in the ground the sword that killed Apsyrtus, their eyes cast down. Circe understood; she purified their hands with the blood of a suckling pig and offered sacrifice to appease Zeus. Then she asked Medea who she was, and Medea told everything in the Colchian tongue; Circe rebuked her for betraying her father and fleeing her home, and drove her from the hall.*
+
+<sub>来源 / Source：Apollonius Rhodius, The Argonautica (tr. R. C. Seaton, 1912) · Books III–IV · 《阿尔戈英雄纪》第四卷·喀耳刻。</sub>
+
+### 10. 塞壬与漂浮岩 / The Sirens and the Wandering Rocks
+
+赫拉派彩虹女神伊里斯去请海中女神忒提斯——她是英雄珀琉斯的妻子——带着她的姐妹们来护送阿尔戈号。英雄们驶过了塞壬的海岛。塞壬们站在岩石上，用甜美的歌声引诱路过的水手，让他们忘记了回家，在岛上憔悴而死。英雄们听见歌声，正要把船驶向岸边，俄耳甫斯拿起竖琴，弹起了一支轻快响亮的歌，琴声压过了塞壬的歌声，西风也把船推向前方。可是英雄布忒斯还是被塞壬的歌声迷住了，他跳进海里，向岛上游去，眼看就要送命，爱神阿佛洛狄忒怜悯他，把他从漩涡里救起，带到了西西里的利吕拜翁海角。接着，阿尔戈号来到了斯库拉和卡律布狄斯之间的海峡，前面还有漂浮岩——那里的岩石在海中漂动，岩石下喷出烈火和浓烟。忒提斯和海中仙女们赶来了，她们撩起长袍，像在沙滩上玩球的少女一样，把阿尔戈号从一个仙女手里抛给另一个仙女，在浪尖上把船托过了岩石。火神赫淮斯托斯放下锤子在山顶上观看，天后赫拉在天上紧张地抱住了雅典娜。阿尔戈号终于平安地穿过了漂浮岩。
+
+*Hera sent Iris to bid Thetis, wife of Peleus, bring her sister Nereids to escort the Argo. They passed the island of the Sirens, who lured sailors with sweet song until they wasted away; as the heroes were about to steer to the shore, Orpheus struck up a quick, ringing melody on his lyre that drowned the Sirens' voices, and the west wind bore the ship on. Only Butes, enchanted, leapt into the sea and swam for the shore; Aphrodite took pity, snatched him from the eddies and set him down on the headland of Lilybaeum in Sicily. Then, between Scylla and Charybdis, they came to the Wandering Rocks, where fire and smoke rose from the sea. Thetis and the Nereids came and, girding up their robes, tossed the Argo from hand to hand over the waves like girls playing ball on the sand, lifting her over the rocks, while Hephaestus watched from a mountain top leaning on his hammer, and Hera in heaven threw her arms round Athena in fear. So the Argo passed the Wandering Rocks.*
+
+<sub>来源 / Source：Apollonius Rhodius, The Argonautica (tr. R. C. Seaton, 1912) · Books III–IV · 《阿尔戈英雄纪》第四卷·塞壬与漂浮岩。</sub>
+
+### 11. 山洞里的婚礼 / A wedding in the cave
+
+阿尔戈号来到了费埃克斯人的岛屿德瑞帕涅，国王阿尔喀诺俄斯热情地款待了英雄们。可是不久，一大批科尔基斯人追来了，他们要求费埃克斯人交出美狄亚，否则就要开战。美狄亚害怕极了，她抱住王后阿瑞忒的膝盖，哀求她不要把自己交给父亲的人，又一个个地去恳求英雄们保护她。当天夜里，国王对王后说出了自己的裁决：如果美狄亚还是一个未出嫁的少女，就把她交还给她的父亲；如果她已经成了伊阿宋的妻子，我就不会把她从丈夫身边夺走。阿瑞忒同情美狄亚，连夜派人去告诉伊阿宋。英雄们立刻在一个神圣的山洞里为伊阿宋和美狄亚举行了婚礼。他们把金羊毛铺在婚床上，金羊毛的光芒照亮了整个山洞，仙女们采来鲜花，为新人们唱起了婚礼的歌，俄耳甫斯弹琴伴奏。可是这场婚礼没有在伊阿宋的故乡举行，而是在异乡的山洞里，在恐惧中仓促完成的，诗人说，人类的欢乐从来不会是完整的。第二天，国王宣布了裁决，科尔基斯人知道已无法带走美狄亚，又害怕埃厄忒斯的怒火，就留在了费埃克斯人的国土上。
+
+*The Argo came to Drepane, island of the Phaeacians, where King Alcinous welcomed the heroes; but a great host of Colchians followed, demanding Medea on pain of war. Terrified, she clasped Queen Arete's knees and begged each of the heroes in turn to protect her. That night the king told the queen his judgment: if Medea was still a maiden she must go back to her father, but if she was Jason's wife he would not part her from her husband. Arete, pitying Medea, sent word to Jason at once, and that night the heroes celebrated the marriage of Jason and Medea in a sacred cave, spreading the golden fleece on the bridal bed so that it lit up the cave, while nymphs brought flowers and sang the wedding song and Orpheus played. Yet the wedding was not held at home in Iolcus but in a strange land, hastily and in fear, for, the poet says, mortals never find joy complete. Next day the king gave his judgment, and the Colchians, unable to take Medea and fearing Aeetes's wrath, settled among the Phaeacians.*
+
+<sub>来源 / Source：Apollonius Rhodius, The Argonautica (tr. R. C. Seaton, 1912) · Books III–IV · 《阿尔戈英雄纪》第四卷·费埃克斯人。</sub>
+
+### 12. 扛着船穿越沙漠 / Carrying the ship across the desert
+
+阿尔戈号离开费埃克斯人，眼看希腊就在眼前，可是一场持续了九天九夜的北风，把他们吹到了利比亚的叙尔提斯海湾。那里的海水很浅，到处是淤泥和海草，船一旦驶进去，就再也出不来了。英雄们望着无边无际的沙漠，绝望地躺在沙滩上，用斗篷蒙住头，等待死亡。正午时分，三位守护利比亚的女神出现在伊阿宋面前，她们身披山羊皮，告诉他：当海神波塞冬的马从车上解下来的时候，你们要报答那位怀了你们这么久的母亲。伊阿宋把这句谜语告诉了同伴，珀琉斯解开了它：母亲就是阿尔戈号，她一直把我们怀在肚子里；我们现在要报答她，把她扛在肩上。这时，一匹巨大的马从海里跃出，奔向远方。英雄们扛起了阿尔戈号，在沙漠里走了整整十二天十二夜，终于来到了特里托尼斯湖。他们渴得要命，找到了赫斯珀里得斯的花园，金苹果的守护龙已经被前一天路过的赫拉克勒斯射死了。赫斯珀里得斯告诉他们，赫拉克勒斯在岩石上踢出了一眼泉水，英雄们这才喝上了水。在利比亚，英雄卡恩托斯被牧人杀死，预言家摩普索斯被毒蛇咬死，他们永远留在了这片沙漠里。
+
+*Leaving the Phaeacians, with Greece almost in sight, the Argo was driven by a north wind for nine days and nights into the Syrtis of Libya, shallow and choked with mud and weed, from which no ship returns. The heroes lay on the sand with their cloaks over their heads, waiting to die, until at noon three heroines, guardians of Libya, clad in goatskins, appeared to Jason and told him that when Poseidon's horse was unyoked from his chariot, they must repay their mother for carrying them so long in her womb. Peleus read the riddle: their mother was the Argo, and they must carry her on their shoulders — and a huge horse leapt from the sea and galloped away. For twelve days and nights they carried the ship across the desert to Lake Tritonis. Parched, they came to the garden of the Hesperides, whose dragon had been shot the day before by Heracles, and the Hesperides showed them the spring he had struck from the rock. In Libya the hero Canthus was killed by a shepherd and the seer Mopsus died of a snake's bite, and both stayed in that desert for ever.*
+
+<sub>来源 / Source：Apollonius Rhodius, The Argonautica (tr. R. C. Seaton, 1912) · Books III–IV · 《阿尔戈英雄纪》第四卷·利比亚。</sub>
+
+### 13. 铜人塔罗斯 / Talos the bronze man
+
+在特里同神的指引下，阿尔戈号终于从特里托尼斯湖找到了通向大海的出口。他们驶向克里特岛，想要在那里上岸，取水休息。可是克里特有一个守护者：铜人塔罗斯。他是青铜时代最后一个活着的人，宙斯把他送给欧罗巴，让他守护克里特。他每天绕着岛走三圈，看见船只靠近，就从悬崖上掰下巨大的岩石扔过去。他的全身都是青铜，刀枪不入，只有脚踝处有一根血管，上面覆盖着一层薄薄的皮膜，那是他生死的关键。英雄们看见岩石飞来，惊恐地把船划离了海岸，又饥又渴，不知道该怎么办。这时美狄亚说：听我的，我能打倒他，无论他的身体是不是青铜做的，只要他的生命不是不朽的。她走上船头，用咒语召唤冥府里吞噬生命的死亡精灵，用她充满仇恨的魔眼紧紧盯着塔罗斯，向他投去致命的幻影。塔罗斯举起岩石要扔过来，脚踝却在一块尖石上擦破了，神圣的血液像熔化的铅一样流了出来。他摇晃着站了一会儿，像一棵被樵夫砍了一半的松树，终于轰然倒在了海边。那天夜里，英雄们在克里特上了岸。
+
+*Guided by the god Triton, the Argo found her way from Lake Tritonis to the sea and made for Crete to take water. But Crete had a guardian, Talos the bronze man, last of the bronze race, whom Zeus had given to Europa to guard the island; he strode round it three times a day and hurled rocks broken from the cliffs at approaching ships. His body was bronze and invulnerable except for a vein at the ankle covered by a thin membrane, which held his life or death. The heroes backed away in terror, hungry and thirsty, until Medea said she could overcome him, whatever his body, if his life was not immortal. Standing on the deck she invoked with spells the death-spirits of Hades, fixed Talos with her baleful eye and sent deadly phantoms against him; as he lifted a rock he grazed his ankle on a sharp stone, and the ichor ran out like molten lead. He swayed like a pine half-hewn by woodcutters and fell crashing on the shore, and that night the heroes landed in Crete.*
+
+<sub>来源 / Source：Apollonius Rhodius, The Argonautica (tr. R. C. Seaton, 1912) · Books III–IV · 《阿尔戈英雄纪》第四卷·塔罗斯。</sub>
+
+### 14. 黑夜里的光明与归来 / Light in the darkness, and home
+
+离开克里特后，阿尔戈号在大海上遇到了一种可怕的黑暗，那黑暗被人们称作“裹尸布之夜”，没有星光，也没有月光，仿佛冥府的黑暗从地下涌了上来，英雄们不知道自己是在海上还是在冥河上漂流。伊阿宋举起双手，大声向阿波罗祈祷。阿波罗从天上降临，站在一块岩石上，高高举起他的金弓，金弓发出耀眼的光芒，照亮了四周的大海。英雄们看见了一座小岛，就在岛上靠岸，为阿波罗建了祭坛，把这座岛命名为阿那斐，意思是“显现之岛”。在那里，英雄欧斐摩斯想起了一个梦：他梦见自己把特里同神送给他的一块泥土抱在怀里，泥土变成了一个少女。伊阿宋解释说，那块泥土会变成一座岛屿，由欧斐摩斯的后代居住。欧斐摩斯把泥土扔进海里，一座岛屿从海中升起，那就是卡利斯忒岛，后来叫作忒拉。英雄们又经过了埃癸那，在那里比赛谁最快把水打回船上。最后，他们平安地驶进了帕伽塞海港。诗人在结尾向英雄们告别：愿你们的故事年复一年在人们的歌声中更加动听。
+
+*After Crete a terrible darkness fell on the sea — men call it the Pall of Darkness — with no star or moon, as if the black of Hades had risen from below, so that they knew not whether they drifted on the sea or the rivers of the dead. Jason lifted his hands and cried aloud to Apollo, who came down and stood on a rock holding high his golden bow, which flashed a dazzling light all round. They saw a small island, landed, built an altar to Apollo and named the island Anaphe, 'the island of appearing'. There Euphemus remembered a dream in which the clod of earth Triton had given him became a maiden in his arms; Jason interpreted it, and Euphemus threw the clod into the sea, where it rose as the island of Calliste, later called Thera, to be settled by his descendants. Passing Aegina, where they raced to draw water, they sailed safely into the harbour of Pagasae. In his last lines the poet bids the heroes farewell: may their story grow sweeter in men's songs from year to year.*
+
+<sub>来源 / Source：Apollonius Rhodius, The Argonautica (tr. R. C. Seaton, 1912) · Books III–IV · 《阿尔戈英雄纪》第四卷·阿那斐与归航。</sub>
+
+---
+
 ## 厄瑞玻斯 · Erebus
 
 **证据卡 / Evidence card**
@@ -1350,51 +1476,135 @@
 
 ## 赫拉 · Hera
 
-**证据卡 / Evidence card**
+**有完整故事 / Full story**
+
+完整故事档案：[story.greek.heracles_birth_labours](../story.greek.heracles_birth_labours.md)
 
 > 《神谱》所见克洛诺斯与瑞亚之女，并在该见证中成为宙斯的配偶与阿瑞斯、赫淮斯托斯谱系的一环。
 
 > *Hera in the registered Hesiodic genealogy.*
 
-### 1. 记载 / Record
+**长篇故事 · 13 章**
 
-阿瑞斯是赫拉的孩子。
+目录：01 宙斯的誓言 · 02 加长的夜晚 · 03 摇篮里的蛇 · 04 少年和他的老师 · 05 喀泰戎山的狮子 · 06 割掉耳朵的使者 · 07 疯狂与神谕 · 08 涅墨亚的狮子 · 09 九头蛇许德拉 · 10 金角牝鹿 · 11 马人与野猪 · 12 一天清扫牛圈 · 13 铜响板与怪鸟
 
-*Theogony 921-923 presents Ares among the children of Hera and Zeus.*
+### 1. 宙斯的誓言 / The oath of Zeus
 
-<sub>来源 / Source：Hesiod, Theogony, Evelyn-White English text · lines 921-923</sub>
+珀尔修斯的孙子安菲特律翁娶了厄勒克特律翁的女儿阿尔克墨涅。他在一次争执中失手打死了岳父厄勒克特律翁——他把木棒扔向一头奔逃的牛，木棒从牛角上弹回来，正打中了老国王的头。为此，他被叔叔斯忒涅罗斯赶出了阿尔戈斯一带，带着阿尔克墨涅逃到了忒拜，在那里由国王克瑞翁为他洗去了杀人的罪。阿尔克墨涅的几个哥哥曾被塔福斯岛上的人杀死，她发誓说：除非安菲特律翁为她的哥哥们报了仇，否则她不和他同床。于是安菲特律翁召集了盟友，出征塔福斯人。就在他远征在外的时候，宙斯爱上了阿尔克墨涅。到了赫拉克勒斯快要出生的那一天，宙斯在众神面前宣布：今天将要出生的珀尔修斯的后代，将统治迈锡尼。天后赫拉嫉妒阿尔克墨涅，就说服了掌管分娩的女神们，让阿尔克墨涅迟迟生不下孩子，同时让斯忒涅罗斯的妻子提前分娩，生下了一个七个月的早产儿，他就是欧律斯透斯。欧律斯透斯也是珀尔修斯的后代，他比赫拉克勒斯先出生，宙斯的誓言就落到了他的头上。就这样，本该属于赫拉克勒斯的王位，被一个懦弱的人夺走了，而赫拉克勒斯一生的苦难，从他出生之前就开始了。
 
-### 2. 记载 / Record
+*Amphitryon, grandson of Perseus, married Alcmena, daughter of Electryon. He killed Electryon by mischance — a club he threw at a runaway cow rebounded from its horns and struck the old king's head — and was banished by his uncle Sthenelus. He went with Alcmena to Thebes, where King Creon purified him. Alcmena's brothers had been killed by the Taphians, and she would not lie with Amphitryon until he avenged them, so he gathered allies and marched against them. While he was away, Zeus loved Alcmena. When Heracles was about to be born, Zeus declared among the gods that the descendant of Perseus born that day would reign over Mycenae. Hera, jealous, persuaded the goddesses of childbirth to delay Alcmena's delivery and contrived that Eurystheus, son of Sthenelus and also a descendant of Perseus, should be born first, a seven-month child. So Zeus's promise fell to Eurystheus, and the throne meant for Heracles went to a weaker man; Heracles's troubles began before he was born.*
 
-赫淮斯托斯是赫拉的孩子。
+<sub>来源 / Source：Pseudo-Apollodorus, Library · Library 2.4.5–2.5.6 · 《书库》2.4.5–2.4.6。</sub>
 
-*Theogony 927-929 says Hera bore Hephaestus without union in this witness.*
+### 2. 加长的夜晚 / The lengthened night
 
-<sub>来源 / Source：Hesiod, Theogony, Evelyn-White English text · lines 927-929</sub>
+安菲特律翁在塔福斯人那里打了胜仗。塔福斯国王普忒瑞拉俄斯头上有一根金发，只要金发还在，他就不会死；他的女儿科迈托爱上了安菲特律翁的盟友，就拔掉了父亲的金发，国王因此而死，安菲特律翁攻下了塔福斯人的岛屿。可是就在他凯旋归来的前一夜，宙斯化作安菲特律翁的模样来到了忒拜，走进阿尔克墨涅的卧室。他还给阿尔克墨涅讲述了塔福斯战争的经过，好让她相信，回来的真是她的丈夫。为了这一夜，宙斯把一个夜晚延长到了三倍那么长。第二天，真正的安菲特律翁回来了，兴冲冲地向妻子讲述自己的战功，阿尔克墨涅却说：你昨夜不是已经回来了，已经讲过了吗？安菲特律翁大吃一惊，去请教盲眼先知忒瑞西阿斯。先知告诉他：昨夜来的是宙斯。不久，阿尔克墨涅生下了一对双胞胎：哥哥是宙斯的儿子赫拉克勒斯，他比弟弟早出生一夜；弟弟是安菲特律翁的儿子伊菲克勒斯。这一对兄弟虽然一同出生，命运却截然不同：一个是神的儿子，注定要成为英雄；一个是凡人的儿子，终其一生只是英雄身边的人。
 
-### 3. 记载 / Record
+*Amphitryon conquered the Taphians. Their king Pterelaus had a golden hair on his head that kept him from death; his daughter Comaetho, in love with one of Amphitryon's allies, pulled it out, the king died, and Amphitryon took the islands. But the night before he came home, Zeus took Amphitryon's likeness, went to Thebes and lay with Alcmena, telling her all about the Taphian war so that she would believe her husband had returned; and he made that one night three times as long. When the real Amphitryon arrived and began to tell his wife of his victories, she said he had already told her the night before. Astonished, he consulted the blind seer Tiresias, who revealed that Zeus had come. Alcmena bore twins: Heracles, son of Zeus and elder by a night, and Iphicles, son of Amphitryon. Born together, the brothers had very different fates: one a son of the god, destined to be a hero; the other a mortal's son, always at the hero's side.*
 
-赫拉是克洛诺斯的孩子。
+<sub>来源 / Source：Pseudo-Apollodorus, Library · Library 2.4.5–2.5.6 · 《书库》2.4.7–2.4.8。</sub>
 
-*Theogony 453-458 lists Hera among the children of Rhea and Cronus.*
+### 3. 摇篮里的蛇 / Serpents in the cradle
 
-<sub>来源 / Source：Hesiod, Theogony, Evelyn-White English text · lines 453-458</sub>
+赫拉的嫉妒并没有因为夺走了王位而平息。当孩子们八个月大的时候，一天夜里，赫拉派了两条巨大的蛇，悄悄爬进了双胞胎睡觉的地方，想要杀死赫拉克勒斯。两条蛇吐着信子，向摇篮游去。小伊菲克勒斯醒过来，看见了大蛇，吓得大哭大叫。赫拉克勒斯却一点也不害怕，他从摇篮里站起来，一手抓住一条蛇，用两只小手紧紧地掐住它们的脖子，把两条大蛇活活掐死了。安菲特律翁听到哭声，提着剑冲进来，只见小赫拉克勒斯正握着两条死蛇，笑嘻嘻地看着他。《书库》在这里还记下了一个不同的说法：斐瑞库得斯说，那两条蛇是安菲特律翁自己放进摇篮的，因为他想知道两个孩子中哪一个是自己的儿子；伊菲克勒斯一看见蛇就逃开了，赫拉克勒斯却迎上去和蛇搏斗，安菲特律翁由此知道，伊菲克勒斯才是他的亲生儿子。无论哪一种说法，这都是赫拉克勒斯的第一次壮举：他还在吃奶，就已经显出了神的儿子才有的力量和勇气。
 
-### 4. 记载 / Record
+*Hera's jealousy was not satisfied. When the children were eight months old, she sent two enormous serpents one night to the bed where the twins slept, to destroy Heracles. Iphicles woke and screamed, but Heracles stood up and seized a serpent in each hand and strangled them both. Amphitryon rushed in with his sword to find the baby holding two dead snakes. The Library also records another version: Pherecydes says that Amphitryon himself put the serpents in the bed, wishing to know which of the two boys was his; when Iphicles fled and Heracles stood his ground, he knew Iphicles was his own son. Either way it was Heracles's first great deed: still at the breast, he showed a strength and courage that only a son of the god could have.*
 
-赫拉是瑞亚的孩子。
+<sub>来源 / Source：Pseudo-Apollodorus, Library · Library 2.4.5–2.5.6 · 《书库》2.4.8。</sub>
 
-*Theogony 453-458 lists Hera among the children borne by Rhea to Cronus.*
+### 4. 少年和他的老师 / The boy and his teachers
 
-<sub>来源 / Source：Hesiod, Theogony, Evelyn-White English text · lines 453-458</sub>
+赫拉克勒斯渐渐长大，安菲特律翁为他请来了全希腊最好的老师。安菲特律翁亲自教他驾驶马车，奥托吕科斯教他摔跤，欧律托斯教他射箭，卡斯托耳教他使用兵器，而奥耳甫斯的兄弟利诺斯教他弹奏竖琴。赫拉克勒斯力大无比，学什么都很快，唯独对竖琴没有耐心。有一次，利诺斯因为他弹得不好打了他，赫拉克勒斯一怒之下举起竖琴砸了过去，竟把老师打死了。他被带上法庭，受到审判。赫拉克勒斯引用了正义的判官拉达曼堤斯定下的法律：一个人如果在别人先动手时自卫，就没有罪。他因此被宣告无罪。可是安菲特律翁担心他再惹出这样的事来，就把他送到乡下的牧场去放牛。在牧场上，赫拉克勒斯一天天长高长壮，身高四肘尺，眼睛里闪着火一样的光芒，射箭和投枪从来不会落空。《书库》说，他十八岁时已经是希腊最强壮的人，人们看他一眼，就知道他是宙斯的儿子。
 
-### 5. 记载 / Record
+*As Heracles grew, Amphitryon found him the best teachers in Greece: Amphitryon himself taught him to drive a chariot, Autolycus to wrestle, Eurytus to shoot with the bow, Castor to fight in arms, and Linus, brother of Orpheus, to play the lyre. Heracles learned everything quickly except the lyre. When Linus struck him for playing badly, Heracles in a rage killed him with the lyre. Tried for murder, he quoted the law of the just judge Rhadamanthys, that whoever defends himself against one who strikes first is guiltless, and was acquitted. Fearing more such trouble, Amphitryon sent him to the cattle farm. There he grew to four cubits in height, with a flash of fire in his eyes, and he never missed with bow or javelin; by eighteen, says the Library, anyone could see he was a son of Zeus.*
 
-赫斯提亚与赫拉是兄弟姐妹。
+<sub>来源 / Source：Pseudo-Apollodorus, Library · Library 2.4.5–2.5.6 · 《书库》2.4.9。</sub>
 
-*Hestia and Hera occur among the children of Rhea and Cronus in Theogony 453-458.*
+### 5. 喀泰戎山的狮子 / The lion of Cithaeron
 
-<sub>来源 / Source：Hesiod, Theogony, Evelyn-White English text · Theogony 453-458</sub>
+赫拉克勒斯十八岁的时候，喀泰戎山上出了一头凶猛的狮子，常常下山咬死安菲特律翁和邻国国王忒斯庇俄斯的牛羊。赫拉克勒斯决定去杀死这头狮子。他去了忒斯庇俄斯的王宫，国王热情地款待了他，让他住了五十天。每天他出门去猎狮子，晚上回来，国王都让自己的一个女儿陪他过夜——忒斯庇俄斯有五十个女儿，他希望她们都能生下这位英雄的孩子。《书库》说，赫拉克勒斯以为每天陪他的都是同一个姑娘。五十天后，赫拉克勒斯终于在山中找到了那头狮子，把它杀死了。从此以后，他就披着这头狮子的皮，把狮子张开的大嘴当作头盔戴在头上。这身装束成了赫拉克勒斯最著名的标志，后来他又换上了更有名的涅墨亚狮子的皮。从喀泰戎山回来的路上，他遇到了明叶人国王厄耳癸诺斯派去忒拜收取贡赋的使者，一场新的战争就要开始了。
+
+*When Heracles was eighteen, a lion on Mount Cithaeron was destroying the cattle of Amphitryon and of King Thespius, and Heracles set out to kill it. Thespius entertained him for fifty days; each night, as Heracles returned from the hunt, the king gave him one of his fifty daughters, for he wished them all to have children by the hero — and, says the Library, Heracles thought it was always the same one. At last he found the lion and killed it. From then on he wore its skin, with its gaping jaws for a helmet, a dress that became his famous mark. On his way back from Cithaeron he met the heralds whom Erginus, king of the Minyans, had sent to collect tribute from Thebes, and a new war was about to begin.*
+
+<sub>来源 / Source：Pseudo-Apollodorus, Library · Library 2.4.5–2.5.6 · 《书库》2.4.9–2.4.10。</sub>
+
+### 6. 割掉耳朵的使者 / The heralds without ears
+
+明叶人的国王厄耳癸诺斯每年都向忒拜索取一百头牛作为贡赋，因为他的父亲曾被忒拜人杀死。赫拉克勒斯在路上碰见那些前来收贡的使者，他怒不可遏，割掉了他们的耳朵和鼻子，把他们的手绑在脖子上，对他们说：这就是你们要的贡赋，带回去给你们的国王吧！厄耳癸诺斯大怒，发兵攻打忒拜。赫拉克勒斯从雅典娜那里得到了武器，率领忒拜人迎战，杀死了厄耳癸诺斯，打败了明叶人，反过来让他们向忒拜交纳双倍的贡赋。可是在这场战争中，养父安菲特律翁英勇地战死了。忒拜国王克瑞翁为了感谢赫拉克勒斯，把女儿墨伽拉嫁给了他，他们生了三个儿子。众神也送给他礼物：赫尔墨斯送给他一把剑，阿波罗送给他弓和箭，赫淮斯托斯送给他一副金色的胸甲，雅典娜送给他一件长袍。而他最有名的武器——那根大木棒——是他自己在涅墨亚砍下来的。这时的赫拉克勒斯，有了家，有了妻子和孩子，在忒拜受人尊敬，似乎可以过上幸福的日子了。
+
+*Erginus, king of the Minyans, exacted a yearly tribute of a hundred cattle from Thebes because the Thebans had killed his father. Meeting his heralds on the road, Heracles cut off their ears and noses, tied their hands to their necks and told them to take that tribute to their king. Erginus marched on Thebes; Heracles, armed by Athena, led the Thebans, killed Erginus, routed the Minyans and made them pay double tribute to Thebes. Amphitryon fell fighting bravely in that war. In gratitude King Creon gave Heracles his daughter Megara, who bore him three sons. The gods gave him gifts: a sword from Hermes, a bow and arrows from Apollo, a golden breastplate from Hephaestus and a robe from Athena; his famous club he cut for himself at Nemea. With a home, a wife and children and the honour of Thebes, he seemed about to live in happiness.*
+
+<sub>来源 / Source：Pseudo-Apollodorus, Library · Library 2.4.5–2.5.6 · 《书库》2.4.11。</sub>
+
+### 7. 疯狂与神谕 / Madness and the oracle
+
+可是赫拉不会让他得到幸福。在打败明叶人之后，赫拉让赫拉克勒斯发了疯。在疯狂中，他把自己和墨伽拉生的孩子，还有弟弟伊菲克勒斯的两个孩子，都扔进了火里。等他清醒过来，看到自己亲手犯下的罪行，痛不欲生。他判决自己流放，离开了忒拜，先请忒斯庇俄斯为他洗去罪孽，然后来到德尔斐，向阿波罗求问：他应该到哪里去安身？德尔斐的女祭司皮提亚在这时第一次称他为“赫拉克勒斯”——在此之前，人们按他祖父的名字叫他阿尔喀得斯。神谕告诉他：到提任斯去，侍奉国王欧律斯透斯十二年，完成他交给你的十项任务；完成之后，你将获得永生。这是一个残酷的判决：赫拉克勒斯是全希腊最强大的英雄，却要去给那个夺走了他王位的懦弱国王当仆人。可是为了赎罪，他接受了。他来到提任斯，在欧律斯透斯面前低下了头，等待着第一项任务。
+
+*But Hera would not let him be happy. After the war with the Minyans she drove him mad, and in his madness he threw his own children by Megara, and two children of his brother Iphicles, into the fire. Coming to himself and seeing what he had done, he condemned himself to exile, was purified by Thespius, and went to Delphi to ask the god where he should dwell. There the Pythian priestess first called him Heracles; until then he had been called Alcides, after his grandfather. She told him to live at Tiryns serving Eurystheus for twelve years and to perform the ten labours imposed on him; when they were done, he would be immortal. It was a cruel sentence: the strongest hero in Greece was to serve the weak king who had taken his throne. But to atone he accepted, went to Tiryns and bowed his head before Eurystheus, waiting for his first task.*
+
+<sub>来源 / Source：Pseudo-Apollodorus, Library · Library 2.4.5–2.5.6 · 《书库》2.4.12。</sub>
+
+### 8. 涅墨亚的狮子 / The Nemean lion
+
+欧律斯透斯交给他的第一项任务，是取回涅墨亚狮子的皮。这头狮子是怪物提丰的后代，任何刀枪都伤不了它。赫拉克勒斯在去涅墨亚的路上，经过克勒俄奈，住在一个名叫摩罗耳科斯的穷苦雇工家里。摩罗耳科斯要宰一头牲畜献祭，赫拉克勒斯请他等三十天：如果三十天后自己平安回来，就献给救主宙斯；如果自己死了，就把它献给死去的英雄赫拉克勒斯。到了涅墨亚，他找到了那头狮子，先用箭射它，箭从狮子身上弹了回来，他才知道这头狮子刀枪不入。他举起木棒追赶，狮子逃进了一个有两个出口的山洞。赫拉克勒斯堵住了一个洞口，从另一个洞口走进去，用胳膊箍住狮子的脖子，一直勒到它断了气。他把狮子扛在肩上，回到克勒俄奈，正好是第三十天，摩罗耳科斯正准备把他当作死人祭奠。两人一起向救主宙斯献了祭。赫拉克勒斯把狮子带到迈锡尼，欧律斯透斯看到他的力量，吓得魂飞魄散，从此不准他进城，只让他在城门外展示任务的成果；还在地下埋了一口青铜大缸，一有危险就躲进去，只派传令官向他传达命令。
+
+*The first labour Eurystheus imposed was to bring the skin of the Nemean lion, an invulnerable beast born of Typhon. On his way Heracles lodged at Cleonae with a poor day-labourer, Molorchus, who wished to offer a victim; Heracles told him to wait thirty days — if he returned safe, to sacrifice to Zeus the Saviour, if he died, to offer to him as a dead hero. At Nemea he shot at the lion, found it could not be wounded, pursued it with his club into a cave with two mouths, blocked one entrance, came in by the other, and holding its neck in his arms choked it to death. He carried it to Cleonae on the thirtieth day, as Molorchus was about to offer to him as dead, and they sacrificed to Zeus the Saviour together. When he brought the lion to Mycenae, Eurystheus was so terrified of his strength that he forbade him to enter the city and ordered him to show his labours before the gates; he even had a bronze jar sunk in the earth to hide in, and sent his commands through a herald.*
+
+<sub>来源 / Source：Pseudo-Apollodorus, Library · Library 2.4.5–2.5.6 · 《书库》2.5.1。</sub>
+
+### 9. 九头蛇许德拉 / The hydra of Lerna
+
+第二项任务是杀死勒耳那沼泽里的水蛇许德拉。这条蛇常常爬出沼泽，吞吃平原上的牲畜，毁坏庄稼。它有一个巨大的身体和九个头，其中八个会死，中间的一个却是不死的。赫拉克勒斯带着侄子伊俄拉俄斯，驾着马车来到勒耳那，在阿密摩涅泉边找到了许德拉的巢穴。他向洞里射出燃烧的箭，逼它出来，然后一把抓住它。许德拉缠住了他的一只脚。赫拉克勒斯用木棒砸它的头，可是砸碎一个，就长出两个来。这时又有一只巨大的螃蟹爬出来帮许德拉，咬住了他的脚；赫拉克勒斯杀死了螃蟹，向伊俄拉俄斯求援。伊俄拉俄斯放火点燃了附近的树林，用燃烧的木头去烧灼每一个砍断的脖子，使新的头再也长不出来。最后，赫拉克勒斯砍下了那颗不死的头，把它埋在路边，上面压了一块沉重的大石头。他剖开许德拉的身体，把箭头蘸进它的毒胆汁里，从此他的箭射中谁，谁就无药可救。可是欧律斯透斯说，这项任务不算数，因为赫拉克勒斯是在伊俄拉俄斯的帮助下才杀死许德拉的。
+
+*The second labour was to kill the Lernaean hydra, which came out of the swamp to devour cattle and ravage the land. It had a huge body and nine heads, eight mortal and the middle one immortal. Heracles drove to Lerna with his nephew Iolaus as charioteer, found the hydra's lair by the spring Amymone, forced it out with burning arrows and grappled with it while it coiled round one of his feet. Every time he smashed a head with his club, two grew in its place; and a huge crab came to help the hydra and bit his foot. He killed the crab and called on Iolaus, who set fire to a nearby wood and with burning brands seared the stumps so that no heads could grow again. Then Heracles cut off the immortal head, buried it beside the road and put a heavy rock on it, slit open the body and dipped his arrows in its gall, so that whatever they struck could not be healed. But Eurystheus said this labour did not count, because Heracles had had Iolaus's help.*
+
+<sub>来源 / Source：Pseudo-Apollodorus, Library · Library 2.4.5–2.5.6 · 《书库》2.5.2。</sub>
+
+### 10. 金角牝鹿 / The golden-horned hind
+
+第三项任务，是把刻律涅亚的牝鹿活着带回迈锡尼。这头鹿住在俄诺厄，长着一对金色的角，是献给女神阿耳忒弥斯的圣物，谁也不能伤害它。赫拉克勒斯不想杀它，也不想伤害它，只好一直追赶。他追了整整一年，从一座山追到另一座山，从一片树林追到另一片树林。最后，那头鹿累得跑不动了，逃到了一座名叫阿耳忒弥西翁的山上，又跑向拉冬河。正当它要渡河的时候，赫拉克勒斯射了一箭，射中了它，把它捉住，扛在肩上，穿过阿耳卡狄亚往回走。半路上，他遇到了阿耳忒弥斯和她的哥哥阿波罗。女神看见自己的圣鹿被捉住了，非常生气，要从他手里夺回去，责备他伤害了属于她的鹿。赫拉克勒斯恭敬地向女神解释：这不是他自己的意思，是欧律斯透斯命令他这样做的，罪过应该归于欧律斯透斯。女神的怒气平息了，允许他把鹿带走。赫拉克勒斯把这头活着的金角牝鹿带到了迈锡尼，完成了第三项任务。
+
+*The third labour was to bring the Cerynitian hind alive to Mycenae. It lived at Oenoe, had golden horns and was sacred to Artemis, so Heracles did not wish to kill or wound it; he hunted it for a whole year. At last, exhausted, the hind fled to the mountain called Artemisius and then toward the river Ladon, and as it was about to cross, Heracles shot it, caught it, put it on his shoulders and hastened through Arcadia. Artemis and Apollo met him; the goddess would have taken the hind from him and rebuked him for trying to kill her sacred animal. Heracles pleaded necessity and laid the blame on Eurystheus, and so appeased the goddess, who let him go. He brought the hind alive to Mycenae.*
+
+<sub>来源 / Source：Pseudo-Apollodorus, Library · Library 2.4.5–2.5.6 · 《书库》2.5.3。</sub>
+
+### 11. 马人与野猪 / The centaurs and the boar
+
+第四项任务，是活捉厄律曼托斯山的野猪。在去厄律曼托斯的路上，赫拉克勒斯在福罗厄山受到了马人福罗斯的款待。福罗斯给他吃烤肉，自己却吃生肉。赫拉克勒斯想喝酒，福罗斯说，酒缸是全体马人共有的，他不敢打开。赫拉克勒斯叫他不要担心，自己打开了酒缸。酒香飘了出去，其他的马人闻到了，手里拿着石头和松树，冲向福罗斯的山洞。赫拉克勒斯用燃烧的木头打退了最先冲进来的几个，又用箭追赶其余的马人，一直追到了马勒亚，那里住着马人中最智慧的喀戎。马人们逃到喀戎身边，赫拉克勒斯一箭射去，箭穿过一个马人的胳膊，竟射中了喀戎的膝盖。赫拉克勒斯悲痛万分，跑过去拔出箭，敷上喀戎给他的药，可是箭上有许德拉的毒，伤口无法愈合。喀戎是不死的，只能永远忍受痛苦，最后他把自己的不死之身让给了普罗米修斯，自己才得以死去。善良的福罗斯从尸体上拔出一支箭，好奇这么小的东西怎么能杀死那么大的马人，箭却从他手中滑落，扎进了他的脚，他也死了。赫拉克勒斯埋葬了他，然后去追那头野猪，把它从灌木丛里赶出来，一直追进深深的积雪里，用绳网套住它，活捉回了迈锡尼。
+
+*The fourth labour was to bring the Erymanthian boar alive. On the way Heracles was entertained on Mount Pholoe by the centaur Pholus, who served him roast meat while eating his own raw. When Heracles asked for wine, Pholus said he feared to open the jar that belonged to all the centaurs; Heracles opened it himself. Smelling the wine, the other centaurs came armed with rocks and pines; Heracles drove off the first with firebrands and chased the rest with arrows as far as Malea, where they fled to the wise Chiron. An arrow passed through one centaur's arm and struck Chiron in the knee. Distressed, Heracles ran to him, drew out the arrow and applied Chiron's own medicine, but the wound, poisoned with the hydra's gall, would not heal; immortal Chiron could find release only by giving his immortality to Prometheus so that he might die. Pholus, drawing an arrow from a corpse and wondering that so small a thing could kill so large a creature, let it slip onto his foot and died. Heracles buried him, then drove the boar from its thicket into deep snow, snared it and brought it to Mycenae.*
+
+<sub>来源 / Source：Pseudo-Apollodorus, Library · Library 2.4.5–2.5.6 · 《书库》2.5.4。</sub>
+
+### 12. 一天清扫牛圈 / The cattle-yard cleansed in a day
+
+第五项任务听起来最不像英雄的事业：欧律斯透斯命令他在一天之内，把厄利斯国王奥革阿斯的牛粪清扫干净。奥革阿斯是太阳神的儿子，拥有成千上万头牛，牛圈里的粪堆积了多年，从来没有清扫过。欧律斯透斯想用这件又脏又累的差事羞辱他。赫拉克勒斯来到奥革阿斯面前，没有说是欧律斯透斯命令的，只说：如果我在一天之内把你的牛圈清扫干净，你愿意把十分之一的牛给我吗？奥革阿斯根本不相信有人能做到，就答应了。赫拉克勒斯请奥革阿斯的儿子费琉斯作证，然后在牛圈的墙上开了一个缺口，把附近的阿尔斐俄斯河和珀纽斯河的河水引了过来，让河水冲进牛圈，再从另一个缺口流出去。滚滚的河水只用了一天，就把多年的污秽冲得干干净净。可是奥革阿斯听说这是欧律斯透斯交给他的任务，就拒绝付给他报酬，甚至否认自己许过诺言。费琉斯站出来为赫拉克勒斯作证，奥革阿斯大怒，把儿子和赫拉克勒斯都赶出了厄利斯。而欧律斯透斯也不承认这项任务，说他是为了报酬才干的。
+
+*The fifth labour sounded least heroic: to carry out the dung of the cattle of Augeas, king of Elis, in a single day. Augeas, a son of the Sun, had a great many herds whose dung had never been cleared, and Eurystheus meant to humiliate Heracles. Heracles, not mentioning Eurystheus's command, asked Augeas for a tenth of the cattle if he cleaned the yard in one day; Augeas, not believing it possible, agreed. Taking Augeas's son Phyleus as witness, Heracles broke through the foundations of the cattle-yard and turned the rivers Alpheus and Peneus into it, letting the water flow out by another opening, and in one day the filth of years was washed away. But when Augeas learned that the labour had been ordered by Eurystheus, he refused payment and even denied his promise; when Phyleus testified for Heracles, the enraged king drove both his son and Heracles out of Elis. Eurystheus, for his part, would not count the labour, because it had been done for hire.*
+
+<sub>来源 / Source：Pseudo-Apollodorus, Library · Library 2.4.5–2.5.6 · 《书库》2.5.5。</sub>
+
+### 13. 铜响板与怪鸟 / Bronze castanets and the birds
+
+第六项任务，是赶走斯廷法利斯湖的怪鸟。在阿耳卡狄亚的斯廷法罗斯城附近，有一片被浓密树林环绕的湖泊，湖边栖息着无数的鸟。它们害怕狼群，躲在密林深处，数量多得遮天蔽日，祸害着周围的乡村。赫拉克勒斯来到湖边，却束手无策：树林太密，鸟儿藏在里面，他看不见，也射不着；湖边是沼泽，人走不进去，船也划不进去。这时，雅典娜来帮助他了。她送给赫拉克勒斯一对青铜的响板，是火神赫淮斯托斯亲手打造的。赫拉克勒斯登上湖边的一座小山，用力敲击响板，发出震耳欲聋的声音。湖边的鸟群受到惊吓，再也待不住了，纷纷从树林里飞了起来，黑压压地布满了天空。赫拉克勒斯放下响板，拿起弓箭，一箭接一箭地射去，把鸟群射落了下来。剩下的鸟惊恐地飞走了，再也没有回来。至此，赫拉克勒斯完成了前六项任务，可是欧律斯透斯只承认了其中的四项。等待着他的，还有更远、更危险的路程：克里特、色雷斯、亚马逊人的国度，以及大地的尽头。
+
+*The sixth labour was to chase away the Stymphalian birds. At the city of Stymphalus in Arcadia was a lake shut in by a deep wood, where countless birds had taken refuge in fear of wolves and plagued the countryside. Heracles could not drive them out of the wood, until Athena gave him bronze castanets made by Hephaestus. Standing on a mountain by the lake, he clashed them; the birds, unable to bear the din, flew up in fright, and he shot them down. So Heracles finished the first six labours — though Eurystheus acknowledged only four of them — and still before him lay longer and more dangerous roads: Crete, Thrace, the land of the Amazons and the ends of the earth.*
+
+<sub>来源 / Source：Pseudo-Apollodorus, Library · Library 2.4.5–2.5.6 · 《书库》2.5.6。</sub>
+
+---
+
+## 赫拉克勒斯 · Heracles
+
+**有完整故事 / Full story**
+
+完整故事档案：[story.greek.heracles_birth_labours](../story.greek.heracles_birth_labours.md)
+
+> *Son of Zeus and Alcmena, the greatest of Greek heroes, who performed the twelve labours for Eurystheus and after death on Mount Oeta was received among the gods (Library 2.4.8–2.7.7).*
+
+**长篇故事 · 13 章**：与本页「赫拉」一节是同一个故事，全文见上方或[故事档案](../story.greek.heracles_birth_labours.md)。
+
+目录：01 宙斯的誓言 · 02 加长的夜晚 · 03 摇篮里的蛇 · 04 少年和他的老师 · 05 喀泰戎山的狮子 · 06 割掉耳朵的使者 · 07 疯狂与神谕 · 08 涅墨亚的狮子 · 09 九头蛇许德拉 · 10 金角牝鹿 · 11 马人与野猪 · 12 一天清扫牛圈 · 13 铜响板与怪鸟
 
 ---
 
@@ -1451,6 +1661,116 @@
 *Hestia and Hera occur among the children of Rhea and Cronus in Theogony 453-458.*
 
 <sub>来源 / Source：Hesiod, Theogony, Evelyn-White English text · Theogony 453-458</sub>
+
+---
+
+## 赫柏 · Hebe
+
+**有完整故事 / Full story**
+
+完整故事档案：[story.greek.heracles_death_apotheosis](../story.greek.heracles_death_apotheosis.md)
+
+> *Goddess of youth, daughter of Zeus and Hera, given in marriage to Heracles after his apotheosis (Library 2.7.7).*
+
+**长篇故事 · 12 章**
+
+目录：01 射箭比赛 · 02 城墙上的推落 · 03 争夺三足鼎 · 04 女王的奴仆 · 05 攻陷特洛伊 · 06 巨人之战与奥林匹亚 · 07 与河神摔跤 · 08 涅索斯的血 · 09 攻陷俄卡利亚 · 10 致命的长袍 · 11 俄塔山上的火 · 12 天上的婚礼与人间的子孙
+
+### 1. 射箭比赛 / The archery contest
+
+十二项任务完成以后，赫拉克勒斯回到了忒拜。他把妻子墨伽拉嫁给了侄子伊俄拉俄斯，自己想要重新成家。这时他听说，俄卡利亚的国王欧律托斯——就是当年教他射箭的那位老师——宣布要把女儿伊俄勒许配给能在射箭比赛中赢过他和他的儿子们的人。赫拉克勒斯来到俄卡利亚参加比赛。比赛开始了，国王和他的儿子们都是出名的神射手，可是赫拉克勒斯的箭射得比他们所有人都准，他赢得了比赛。然而欧律托斯却不肯把女儿嫁给他。只有欧律托斯的长子伊菲托斯说，应该把伊俄勒交给赫拉克勒斯，因为他是公平地赢来的；可是欧律托斯和其他的儿子们都反对，他们说：我们害怕，如果他有了孩子，会再一次发疯，把孩子们也杀死。赫拉克勒斯受到了侮辱，愤怒地离开了俄卡利亚。这次被拒绝在他心里埋下了怨恨，也埋下了日后一连串灾难的种子。
+
+*After the labours Heracles returned to Thebes and gave Megara to his nephew Iolaus; he wished to marry again. Hearing that Eurytus, prince of Oechalia — who had once taught him archery — offered his daughter Iole as a prize to whoever should beat him and his sons at archery, he went to Oechalia and outshot them all. Yet Eurytus would not give him the bride. Only his eldest son Iphitus said Iole should be given to Heracles, who had won her fairly; Eurytus and the other sons refused, saying they feared that if he had children he would kill them again. Insulted, Heracles left Oechalia in anger, and the refusal sowed the seed of later disasters.*
+
+<sub>来源 / Source：Pseudo-Apollodorus, Library · Library 2.6.1–2.8.1 · 《书库》2.6.1。</sub>
+
+### 2. 城墙上的推落 / The fall from the walls
+
+不久以后，有人从优卑亚岛偷走了欧律托斯的牛——偷牛的其实是有名的盗贼奥托吕科斯。欧律托斯却认定是赫拉克勒斯干的，因为他在比赛后愤怒地离开了。只有伊菲托斯不相信朋友会做这种事，他独自出发去找赫拉克勒斯。他在路上遇到了刚从斐赖回来的赫拉克勒斯——赫拉克勒斯刚刚在那里为国王阿德墨托斯从死神手里救回了死去的王后阿尔刻斯提斯。伊菲托斯邀请赫拉克勒斯和他一起去寻找丢失的牛群，赫拉克勒斯答应了，并在提任斯热情地款待了他。可是，疯狂又一次降临到了赫拉克勒斯身上。在疯狂中，他把伊菲托斯从提任斯的城墙上扔了下去，杀死了这个唯一相信他、为他说话的朋友。清醒之后，赫拉克勒斯想要洗去这桩血罪。他先去找皮洛斯的国王涅琉斯，涅琉斯是欧律托斯的朋友，拒绝为他净罪；后来他到了阿米克莱，由希波吕托斯的儿子得伊福玻斯为他净了罪。可是杀害客人的罪太重了，他还是患上了一种可怕的疾病，久治不愈。
+
+*Not long after, cattle were stolen from Euboea by the thief Autolycus, and Eurytus supposed Heracles had done it. Iphitus did not believe it and went to find Heracles, meeting him as he came from Pherae, where he had just saved the dead Alcestis for Admetus. Iphitus invited him to help seek the cattle; Heracles promised and entertained him at Tiryns. But madness came on him again, and he threw Iphitus from the walls of Tiryns — the one friend who had believed in him. Seeking purification, he went to Neleus at Pylos, who as a friend of Eurytus refused him; at Amyclae Deiphobus, son of Hippolytus, purified him. But for the murder of his guest he was afflicted with a dire disease.*
+
+<sub>来源 / Source：Pseudo-Apollodorus, Library · Library 2.6.1–2.8.1 · 《书库》2.6.2。</sub>
+
+### 3. 争夺三足鼎 / The struggle for the tripod
+
+为了治好这场病，赫拉克勒斯来到德尔斐，向阿波罗求问。可是德尔斐的女祭司皮提亚拒绝回答一个杀害客人的罪人。赫拉克勒斯怒火中烧，要抢劫神庙，把女祭司坐着说神谕的三足鼎扛走，自己另立一个神谕所。阿波罗大怒，亲自下来与他搏斗。神与英雄在神庙里扭打在一起，一个是宙斯最心爱的神子，一个是宙斯最强壮的凡人儿子。众神之父宙斯不愿看见两个儿子互相残杀，就在他们中间掷下一道雷电，把他们分开了。三足鼎终于回到了原处，皮提亚这才给了赫拉克勒斯一个神谕：如果你想摆脱疾病，就必须被卖为奴隶，服役三年，并把卖身的钱作为赎罪金交给伊菲托斯的家人欧律托斯。赫拉克勒斯接受了这个判决。神的使者赫尔墨斯把他带到亚细亚，像卖一个普通的奴隶一样把他卖掉了。买下他的，是吕底亚的女王翁法勒，她是伊阿耳达涅斯的女儿，丈夫特摩罗斯死后，她独自统治着吕底亚。而欧律托斯拒绝接受这笔赎罪金。
+
+*Seeking a cure, Heracles went to Delphi, but the Pythian priestess would not answer him. In anger he tried to plunder the temple, carry off the tripod and institute an oracle of his own. Apollo fought him, and Zeus threw a thunderbolt between them to part his sons. Then Heracles received the oracle: his disease would be cured if he were sold, served three years, and paid the price as compensation to Eurytus for the murder. Hermes sold him, and he was bought by Omphale, daughter of Iardanes, queen of Lydia, who had ruled since her husband Tmolus died. Eurytus would not accept the compensation.*
+
+<sub>来源 / Source：Pseudo-Apollodorus, Library · Library 2.6.1–2.8.1 · 《书库》2.6.2–2.6.3。</sub>
+
+### 4. 女王的奴仆 / Servant of the queen
+
+赫拉克勒斯成了吕底亚女王翁法勒的奴仆，替她清除国中的恶人。在以弗所附近，他抓住了刻耳科珀斯——一伙专在路上捉弄、抢劫行人的家伙，把他们捆了起来。在奥利斯，有一个名叫绪琉斯的人，强迫过路的陌生人为他翻挖葡萄园。赫拉克勒斯连根拔起了他的葡萄藤，把它们烧掉，杀死了绪琉斯和他的女儿克塞诺多刻。他还在多利刻岛上看见了伊卡洛斯的尸体，那个少年因为飞得离太阳太近，翅膀融化，坠海而死，赫拉克勒斯把他埋葬了。《书库》说，正是在赫拉克勒斯为翁法勒服役的这几年里，希腊发生了许多大事：伊阿宋率领阿尔戈英雄们远航科尔基斯去取金羊毛，英雄们在卡吕冬猎杀野猪，年轻的忒修斯从特罗曾出发，沿途清除了地峡上的强盗。后世作家喜欢讲赫拉克勒斯在翁法勒身边穿上女装、纺纱织布的故事，可是《书库》并没有这样写，这里也不补进去。三年期满，赫拉克勒斯的病痊愈了，他又成了一个自由的人。
+
+*As Omphale's servant Heracles rid her land of wrongdoers. Near Ephesus he caught and bound the Cercopes, who robbed travellers; at Aulis he dealt with Syleus, who forced passing strangers to dig his vineyard, burning the vines root and all and killing Syleus with his daughter Xenodoce. On the island of Doliche he found the body of Icarus washed ashore and buried it. It was during these years of servitude, says the Library, that the voyage of the Argo to Colchis and the hunt of the Calydonian boar took place, and that Theseus came from Troezen and cleared the Isthmus of malefactors. Later writers tell of Heracles dressed as a woman and spinning wool for Omphale, but the Library does not, and it is not added here. When the three years were over, Heracles was rid of his disease and free.*
+
+<sub>来源 / Source：Pseudo-Apollodorus, Library · Library 2.6.1–2.8.1 · 《书库》2.6.3。</sub>
+
+### 5. 攻陷特洛伊 / The sack of Troy
+
+服役期满，赫拉克勒斯没有忘记当年对特洛伊国王拉俄墨冬发下的誓言。他召集了一支军队，乘着十八条五十桨的长船，驶向伊利昂。拉俄墨冬带兵袭击了留守船只的人，杀死了俄伊克勒斯，可是被赶了回去，特洛伊城被团团围住。攻城的时候，赫拉克勒斯的战友忒拉蒙第一个打破城墙冲进了城里，赫拉克勒斯紧随其后。看见有人比自己先进城，赫拉克勒斯拔出剑冲向忒拉蒙，他不能容忍有人被认为比他更勇敢。忒拉蒙看见了，急中生智，开始搬起地上的石头堆垒。赫拉克勒斯问他在做什么，忒拉蒙说：我在为光荣的胜利者赫拉克勒斯建一座祭坛。赫拉克勒斯的怒气顿时消了。他攻下了城市，射死了拉俄墨冬和他的儿子们，只留下了波达耳刻斯。他把公主赫西俄涅作为奖赏交给忒拉蒙，允许她从俘虏中带走一个人。赫西俄涅选择了弟弟波达耳刻斯。赫拉克勒斯说：他必须先成为奴隶，你得拿出一样东西来赎他。赫西俄涅取下头上的面纱交给了他。从此，波达耳刻斯被叫作普里阿摩斯，意思是“被赎买的人”——他就是后来特洛伊战争时的特洛伊国王。
+
+*His servitude over, Heracles sailed against Ilium with eighteen fifty-oared ships. Laomedon attacked the ships and slew Oicles but was driven back, and the city was besieged. Telamon was the first to breach the wall and enter, with Heracles after him; seeing Telamon first, Heracles drew his sword on him, unwilling that anyone be reckoned braver. Telamon, seeing it, began to collect stones, and when Heracles asked what he was doing, said he was building an altar to Heracles the Glorious Victor. Heracles was appeased. He took the city, shot Laomedon and his sons except Podarces, and gave Hesione to Telamon as a prize, allowing her to take any captive she chose. She chose her brother Podarces; Heracles said he must first become a slave and she must give something for him, and she gave the veil from her head. So Podarces was called Priam, 'the bought one' — the Priam who would be king of Troy in the great war.*
+
+<sub>来源 / Source：Pseudo-Apollodorus, Library · Library 2.6.1–2.8.1 · 《书库》2.6.4。</sub>
+
+### 6. 巨人之战与奥林匹亚 / The giants and Olympia
+
+赫拉克勒斯从特洛伊返航时，赫拉又一次和他作对，向大海降下了猛烈的风暴。宙斯为此大怒，把赫拉吊在了奥林匹斯山上。赫拉克勒斯的船被吹到了科斯岛，岛上的人以为他们是海盗，向他们扔石头。赫拉克勒斯在夜里攻上岸，占领了科斯岛。随后，雅典娜把他带到了佛勒格拉，那里正在进行众神与巨人之间的大战。原来众神得到神谕：没有一个凡人的帮助，众神就杀不死巨人。于是赫拉克勒斯站在众神一边，用他的毒箭射倒了一个又一个巨人。回到希腊后，他没有忘记奥革阿斯当年赖掉工钱的事。他召集了阿耳卡狄亚的军队，出征厄利斯，起初中了摩利俄涅双子的埋伏，后来在克勒俄奈杀死了他们，攻下厄利斯，杀死了奥革阿斯，让当年为他作证的费琉斯做了国王。据《书库》记载，他在那里举行了奥林匹克竞技会，为珀罗普斯建了祭坛，又为十二位神建起了六座祭坛。此后，他还攻下了皮洛斯，杀死了能变化形状的珀里克吕墨诺斯和国王涅琉斯的儿子们，只放过了年轻的涅斯托耳。
+
+*As Heracles sailed from Troy, Hera sent grievous storms, at which Zeus in anger hung her from Olympus. Heracles was driven to Cos, where the people pelted his ships with stones, taking them for pirates; he took the island by night. Then, through Athena, he came to Phlegra and fought with the gods against the giants, for the gods had an oracle that they could not kill the giants without a mortal's help. Back in Greece he marched an Arcadian army against Augeas, who had cheated him; at first ambushed by the Molionides, he later killed them at Cleonae, took Elis, slew Augeas and made Phyleus king. There, says the Library, he celebrated the Olympian games, founded an altar of Pelops and built six altars of the twelve gods. He also took Pylos, killing the shape-shifting Periclymenus and the sons of Neleus, all except young Nestor.*
+
+<sub>来源 / Source：Pseudo-Apollodorus, Library · Library 2.6.1–2.8.1 · 《书库》2.7.1–2.7.3。</sub>
+
+### 7. 与河神摔跤 / Wrestling the river
+
+赫拉克勒斯来到卡吕冬，向国王俄纽斯的女儿得伊阿尼拉求婚。得伊阿尼拉是英雄墨勒阿革洛斯的妹妹，赫拉克勒斯在冥府里曾见过那位英雄的亡魂。可是得伊阿尼拉已经有一个可怕的求婚者：河神阿刻罗俄斯。为了得到她，赫拉克勒斯必须与河神摔跤。阿刻罗俄斯能变化形状，在搏斗中变成了一头公牛，低着头向赫拉克勒斯冲来。赫拉克勒斯抓住了公牛的角，用尽全力一拧，竟把一只角折断了下来。阿刻罗俄斯认输了。为了要回自己的角，他把另一只角——阿玛尔忒亚之角——交给了赫拉克勒斯。阿玛尔忒亚是海摩尼俄斯的女儿，她有一只公牛的角，据斐瑞库得斯说，这只角能让人想要什么吃的喝的，就源源不断地流出什么来。赫拉克勒斯把这只神奇的角还给了河神，赢得了得伊阿尼拉。他们在卡吕冬住了一段时间，生下了儿子许罗斯。可是不久，在俄纽斯家的一次宴会上，少年侍者欧诺摩斯为赫拉克勒斯倒水洗手，赫拉克勒斯随手用指节敲了他一下，竟把少年打死了。虽然少年的父亲原谅了他，赫拉克勒斯还是按照法律，带着妻子和孩子离开卡吕冬，开始了又一次流放。
+
+*Heracles went to Calydon to woo Deianira, daughter of Oeneus. To win her he wrestled her other suitor, the river god Achelous, who turned himself into a bull; Heracles seized a horn and broke it off. Achelous, to get it back, gave him the horn of Amalthea — daughter of Haemonius, who had a bull's horn which, says Pherecydes, could supply meat or drink in abundance, whatever one wished — and so Heracles won Deianira, and their son Hyllus was born. But at a feast, when the boy Eunomus poured water on his hands, Heracles struck him with his knuckles and killed him. Though the boy's father pardoned him, Heracles, as the law required, went into exile with his wife and child.*
+
+<sub>来源 / Source：Pseudo-Apollodorus, Library · Library 2.6.1–2.8.1 · 《书库》2.7.5–2.7.6。</sub>
+
+### 8. 涅索斯的血 / The blood of Nessus
+
+赫拉克勒斯带着得伊阿尼拉，向特剌喀斯去投奔国王刻宇克斯，途中来到欧厄诺斯河边。马人涅索斯住在河边，据说他因为为人正直，从众神那里得到了摆渡的差事，专门背着过路人渡河。赫拉克勒斯自己蹚水过了河，让涅索斯把得伊阿尼拉背过去。可是到了河中央，涅索斯起了歹念，要侮辱得伊阿尼拉。得伊阿尼拉大声呼救，赫拉克勒斯听见了，等涅索斯一爬上岸，就一箭射穿了他的心脏。涅索斯知道自己活不成了，临死前却设下了一个恶毒的圈套。他把得伊阿尼拉叫到身边，悄声对她说：如果你想要一种能让赫拉克勒斯永远爱你的灵药，就把我流在地上的精液和从箭伤里流出的血混在一起，好好收藏起来。得伊阿尼拉信以为真，照他说的做了，把这些血收集起来，秘密地保存着。她不知道，赫拉克勒斯的箭头上浸着九头蛇许德拉的剧毒，涅索斯的血早已变成了致命的毒药。这个秘密将在多年后，以最可怕的方式揭开。
+
+*Going with Deianira to Ceyx at Trachis, Heracles came to the river Evenus, where the centaur Nessus — who, they say, had received the post from the gods for his righteousness — ferried passengers across for hire. Heracles crossed by himself and entrusted Deianira to Nessus, who tried to violate her as he carried her over. She cried out; Heracles heard and, when Nessus came out of the river, shot him to the heart. Dying, Nessus called Deianira and told her that if she would have a love charm to use on Heracles, she should mix the seed he had dropped on the ground with the blood that flowed from the wound of the barb. She did so and kept it by her, not knowing that the arrow had been dipped in the hydra's poison, and that the charm was deadly.*
+
+<sub>来源 / Source：Pseudo-Apollodorus, Library · Library 2.6.1–2.8.1 · 《书库》2.7.6。</sub>
+
+### 9. 攻陷俄卡利亚 / The fall of Oechalia
+
+在特剌喀斯，国王刻宇克斯接纳了赫拉克勒斯一家。此后的几年里，赫拉克勒斯打败了德律俄珀斯人，帮助多里斯人的国王埃癸弥俄斯打败了拉庇泰人，又在伊托诺斯与战神阿瑞斯的儿子库克诺斯单打独斗，杀死了他。可是他心里一直没有忘记俄卡利亚的那场射箭比赛和欧律托斯的侮辱。回到特剌喀斯后，他召集了一支军队，向俄卡利亚进发，要惩罚欧律托斯。他和盟友们攻下了俄卡利亚城，杀死了欧律托斯和他的儿子们，把公主伊俄勒作为俘虏带走了。在归途中，他在优卑亚岛的刻奈翁海角停下，要为刻奈翁的宙斯建一座祭坛，举行隆重的献祭，感谢神赐给他的胜利。为了献祭，他需要一件华美的祭服，就派传令官利卡斯回特剌喀斯，向得伊阿尼拉去取。利卡斯回到家里，得伊阿尼拉向他打听丈夫的消息，从他口中得知了伊俄勒的事。她害怕丈夫爱这个年轻美丽的姑娘胜过爱自己，心里充满了恐惧和忧伤。
+
+*At Trachis Ceyx received Heracles and his family. In the years that followed he subdued the Dryopes, helped Aegimius, king of the Dorians, against the Lapiths, and killed Cycnus, son of Ares, in single combat at Itonus. But he had not forgotten Eurytus's insult. Returning to Trachis, he mustered an army against Oechalia, took the city with his allies, killed Eurytus and his sons, and led Iole away captive. On the way back he put in at Cenaeum in Euboea to build an altar of Cenaean Zeus and offer a great sacrifice, and sent his herald Lichas to Trachis to fetch fine raiment from Deianira. From Lichas she learned about Iole, and she feared that Heracles would love the young woman more than her.*
+
+<sub>来源 / Source：Pseudo-Apollodorus, Library · Library 2.6.1–2.8.1 · 《书库》2.7.7。</sub>
+
+### 10. 致命的长袍 / The deadly robe
+
+得伊阿尼拉想起了涅索斯临死前的话。她以为那真是一种爱情的灵药，能让丈夫的心回到自己身边，就把保存多年的血涂在了一件长袍上，交给利卡斯带去。赫拉克勒斯穿上了长袍，开始献祭。随着祭坛上的火越烧越旺，长袍也被烤热了，浸在血里的许德拉的毒性发作起来，开始腐蚀他的皮肤。剧烈的疼痛让他发狂。他抓住送来长袍的利卡斯的双脚，把他从海角上扔进了大海。他想把长袍从身上撕下来，可是长袍紧紧地粘在他的身上，撕下来的时候，连他的皮肉也一起被撕了下来。赫拉克勒斯在这样悲惨的境况中被抬上了船，送回特剌喀斯。得伊阿尼拉得知了发生的一切，明白自己被涅索斯骗了，亲手害死了自己的丈夫，悲痛绝望地上吊自尽了。一个打败了狮子、九头蛇和冥府恶犬的英雄，最终却死于一个早已死去的马人的诡计，和一个深爱他的妻子的误会。
+
+*Remembering Nessus's words, Deianira supposed the blood was truly a love charm and smeared a tunic with it. Heracles put it on and began to sacrifice. As the tunic grew warm, the hydra's poison began to eat his skin. He lifted Lichas by the feet and hurled him from the headland into the sea, and tore off the tunic, which clung to his body so that his flesh was torn away with it. In this sad plight he was carried on shipboard to Trachis, and Deianira, learning what had happened, hanged herself. The hero who had overcome the lion, the hydra and the hound of Hades was destroyed at last by the trick of a long-dead centaur and the mistake of a loving wife.*
+
+<sub>来源 / Source：Pseudo-Apollodorus, Library · Library 2.6.1–2.8.1 · 《书库》2.7.7。</sub>
+
+### 11. 俄塔山上的火 / The fire on Oeta
+
+赫拉克勒斯知道自己的生命快要走到尽头了。他把和得伊阿尼拉生的长子许罗斯叫到身边，嘱咐他：等你长大成人，就娶伊俄勒为妻。然后，他让人抬着自己来到特剌喀斯境内的俄塔山上，在山顶上堆起了一座高高的火葬堆。他自己爬上火葬堆，躺了下来，命令周围的人点火。可是没有一个人敢动手，谁也不愿亲手烧死这位伟大的英雄。这时，波亚斯——后来的英雄菲罗克忒忒斯的父亲——正好路过，他是出来寻找走失的羊群的。赫拉克勒斯请他点火，波亚斯点燃了火葬堆。为了报答他，赫拉克勒斯把自己那张从不落空的弓送给了他。火焰冲天而起。就在火葬堆熊熊燃烧的时候，一片云从赫拉克勒斯的身下飘过，随着一声响雷，把他托起，送上了天空。凡人的身体在火中消失了，而宙斯的儿子升上了奥林匹斯山。
+
+*Knowing his end was near, Heracles charged Hyllus, his elder son by Deianira, to marry Iole when he came of age. Then he had himself carried to Mount Oeta in the territory of Trachis, built a pyre there, mounted it and ordered it to be kindled. No one would do it, until Poeas — father of the hero Philoctetes — passing by in search of his flocks, set it alight; and Heracles gave him his bow. While the pyre was burning, a cloud passed under Heracles and with a peal of thunder bore him up to heaven. The mortal body vanished in the fire, and the son of Zeus rose to Olympus.*
+
+<sub>来源 / Source：Pseudo-Apollodorus, Library · Library 2.6.1–2.8.1 · 《书库》2.7.7。</sub>
+
+### 12. 天上的婚礼与人间的子孙 / A wedding in heaven, heirs on earth
+
+赫拉克勒斯在天上获得了永生。那个从他出生前就迫害他的天后赫拉，终于与他和解了，还把自己的女儿、青春女神赫柏嫁给了他。他和赫柏生了两个儿子，阿勒克夏瑞斯和阿尼刻托斯。可是在人间，他的子孙们还在受苦。赫拉克勒斯升天之后，他的儿子们为了躲避欧律斯透斯，逃到了特剌喀斯的刻宇克斯那里。欧律斯透斯要求刻宇克斯交出他们，并威胁要发动战争，赫拉克勒斯的子孙们害怕连累刻宇克斯，离开特剌喀斯，流浪到了雅典。他们坐在雅典广场上的“慈悲祭坛”前，请求庇护。雅典人拒绝交出他们，与欧律斯透斯开战。在战斗中，欧律斯透斯的儿子们都被杀死了，欧律斯透斯自己乘着马车逃跑，许罗斯一直追赶他，在斯喀戎悬崖附近杀死了他，砍下了他的头，交给了祖母阿尔克墨涅。阿尔克墨涅用织布的梭子挖出了这个害了她儿子一生的人的眼睛。就这样，从宙斯那句誓言开始的恩怨，在赫拉克勒斯的儿子手中结束了。
+
+*In heaven Heracles obtained immortality; reconciled at last with Hera, who had persecuted him from before his birth, he married her daughter Hebe, goddess of youth, and had by her two sons, Alexiares and Anicetus. But on earth his sons fled from Eurystheus to Ceyx at Trachis, and when Eurystheus demanded them and threatened war, they left for Athens and sat down at the altar of Mercy, claiming protection. The Athenians refused to surrender them and went to war with Eurystheus. His sons were slain, and as he fled in his chariot, Hyllus pursued and killed him near the Scironian cliffs, cut off his head and gave it to Alcmena, who gouged out its eyes with weaving pins. So the feud that began with Zeus's oath ended at the hands of Heracles's son.*
+
+<sub>来源 / Source：Pseudo-Apollodorus, Library · Library 2.6.1–2.8.1 · 《书库》2.7.7–2.8.1。</sub>
 
 ---
 
@@ -1598,59 +1918,127 @@
 
 ## 阿波罗 · Apollo
 
-**证据卡 / Evidence card**
+**有完整故事 / Full story**
+
+完整故事档案：[story.greek.heracles_death_apotheosis](../story.greek.heracles_death_apotheosis.md)
 
 > 勒托与宙斯之子；第3首《荷马颂歌》连接提洛岛诞生、弓、琴与神谕。
 
 > *Son of Leto and Zeus; Hymn 3 connects his Delian birth, bow, lyre and oracle.*
 
-### 1. 记载 / Record
+**长篇故事 · 12 章**：与本页「赫柏」一节是同一个故事，全文见上方或[故事档案](../story.greek.heracles_death_apotheosis.md)。
 
-阿波罗诞生于提洛岛。
+目录：01 射箭比赛 · 02 城墙上的推落 · 03 争夺三足鼎 · 04 女王的奴仆 · 05 攻陷特洛伊 · 06 巨人之战与奥林匹亚 · 07 与河神摔跤 · 08 涅索斯的血 · 09 攻陷俄卡利亚 · 10 致命的长袍 · 11 俄塔山上的火 · 12 天上的婚礼与人间的子孙
 
-*Greek myth locates Apollo's birth on Delos.*
+---
 
-<sub>来源 / Source：Delos · World Heritage property description</sub>
+## 阿特拉斯 · Atlas
 
-### 2. 记载 / Record
+**有完整故事 / Full story**
 
-阿波罗是勒托的孩子。
+完整故事档案：[story.greek.heracles_far_labours](../story.greek.heracles_far_labours.md)
 
-*Theogony 918-920 presents Apollo as a child of Leto and Zeus.*
+> *Titan who holds up the sky near the Hesperides; he fetches their golden apples for Heracles and is tricked into taking back the sky (Library 2.5.11).*
 
-<sub>来源 / Source：Hesiod, Theogony, Evelyn-White English text · lines 918-920</sub>
+**长篇故事 · 12 章**
 
-### 3. 记载 / Record
+目录：01 克里特的公牛 · 02 吃人的牝马 · 03 亚马逊女王的腰带 · 04 特洛伊的公主 · 05 太阳神的金杯 · 06 三身巨人 · 07 赶牛回希腊 · 08 海中老人与大地之子 · 09 被解放的普罗米修斯 · 10 扛起天空 · 11 走向冥府 · 12 冥府的看门狗
 
-阿波罗是宙斯的孩子。
+### 1. 克里特的公牛 / The Cretan bull
 
-*Theogony 918-920 presents Apollo as a child of Leto and Zeus.*
+第七项任务，是把克里特的公牛带回来。《书库》记下了关于这头公牛的两种说法：阿库西拉俄斯说，它就是当年驮着欧罗巴渡海的那头牛；另一些人说，它是海神波塞冬从海里送给克里特国王弥诺斯的。弥诺斯曾经向波塞冬许愿，海里出现什么，他就把什么献给海神。可是当波塞冬送来这头美丽的公牛时，弥诺斯舍不得献祭，把它放进了自己的牛群，另用一头普通的牛顶替。波塞冬大怒，让这头公牛发了狂，在克里特岛上横冲直撞。赫拉克勒斯来到克里特，请弥诺斯帮忙捉牛，弥诺斯说：你自己去捉吧，捉到了就归你。赫拉克勒斯独自制服了这头狂暴的公牛，把它带回了希腊，展示给欧律斯透斯看。欧律斯透斯看过之后，却把它放走了。这头公牛在斯巴达和整个阿耳卡狄亚一带游荡，后来越过伊斯特摩斯地峡，来到了阿提卡的马拉松，在那里继续祸害当地的人们。这头公牛的故事还没有结束——许多年后，雅典的英雄忒修斯将在马拉松再一次面对它。
 
-<sub>来源 / Source：Hesiod, Theogony, Evelyn-White English text · lines 918-920</sub>
+*The seventh labour was to bring the Cretan bull. The Library gives two accounts: Acusilaus says it was the bull that carried Europa over the sea; others say Poseidon sent it up from the sea for Minos, who had vowed to sacrifice whatever appeared, but who kept the beautiful bull among his herds and sacrificed another, so that Poseidon in anger made the bull savage. When Heracles came to Crete and asked for help, Minos told him to catch it himself. He caught it, brought it to Eurystheus and showed it to him, but Eurystheus let it go. It roamed to Sparta and all Arcadia, crossed the Isthmus to Marathon in Attica, and harried the people there — where, years later, the Athenian hero Theseus would face it again.*
 
-### 4. 记载 / Record
+<sub>来源 / Source：Pseudo-Apollodorus, Library · Library 2.5.7–2.5.12 · 《书库》2.5.7。</sub>
 
-阿波罗使用阿波罗之弓。
+### 2. 吃人的牝马 / The man-eating mares
 
-*Homeric Hymn 3 repeatedly characterizes Apollo as bearing or delighting in the bow.*
+第八项任务，是把色雷斯国王狄俄墨得斯的牝马带到迈锡尼。狄俄墨得斯是战神阿瑞斯的儿子，统治着好战的比斯托涅斯人。他养着一群凶猛的牝马，不喂它们草料，却用人肉喂养它们。赫拉克勒斯带着一些自愿跟随他的同伴，乘船来到色雷斯，制服了看守马厩的马夫，把牝马赶到了海边。比斯托涅斯人拿起武器追来，赫拉克勒斯把牝马交给一个名叫阿布得罗斯的年轻人看守，自己转身迎战。阿布得罗斯是赫尔墨斯的儿子，来自俄浦斯地方的洛克里斯，是赫拉克勒斯宠爱的年轻人。可是那些牝马太凶猛了，竟把阿布得罗斯拖倒，撕成碎片吃掉了。赫拉克勒斯打败了比斯托涅斯人，杀死了狄俄墨得斯，迫使其余的人逃走。他悲痛地在阿布得罗斯的坟墓旁建起了一座城市，用这个年轻人的名字命名，叫作阿布得拉。然后他把牝马带回迈锡尼，交给了欧律斯透斯。欧律斯透斯又一次把它们放走了。这些牝马跑到了一座名叫奥林波斯的山上，最后被那里的野兽咬死了。
 
-<sub>来源 / Source：Homeric Hymn 3 to Apollo, Evelyn-White English text · lines 1-20; 115-132</sub>
+*The eighth labour was to bring the mares of Diomedes the Thracian to Mycenae. Diomedes, a son of Ares and king of the warlike Bistones, fed his mares on human flesh. Sailing with a band of volunteers, Heracles overpowered the grooms and drove the mares to the sea. When the Bistones came up in arms, he left the mares in the charge of Abderus, a son of Hermes from Opus in Locris whom he loved, and turned to fight. The mares dragged Abderus down and killed him. Heracles defeated the Bistones, slew Diomedes, put the rest to flight, and founded the city of Abdera beside the grave of Abderus. He brought the mares to Eurystheus, who let them go again; they wandered to the mountain called Olympus and were destroyed there by wild beasts.*
 
-### 5. 记载 / Record
+<sub>来源 / Source：Pseudo-Apollodorus, Library · Library 2.5.7–2.5.12 · 《书库》2.5.8。</sub>
 
-阿波罗在德尔斐受到崇拜。
+### 3. 亚马逊女王的腰带 / The Amazon queen's belt
 
-*Delphi was the pan-Hellenic sanctuary where Apollo's oracle spoke.*
+第九项任务，是取回亚马逊女王希波吕忒的腰带。亚马逊人住在忒耳摩冬河畔，是一个尚武的民族，女子从小学习打仗，长大后骑马射箭，无人能敌。女王希波吕忒的腰带是战神阿瑞斯送给她的，象征她在所有亚马逊人中的地位。欧律斯透斯的女儿阿德墨忒想要这条腰带，于是父亲命令赫拉克勒斯去取。赫拉克勒斯召集了一批志愿者，乘一条船出发了。一路上，他在帕罗斯岛上与弥诺斯的儿子们发生了冲突，又在密西亚帮助国王吕科斯打仗。到了亚马逊人的港口，希波吕忒亲自来见他，问他为什么而来，听说是为了腰带，竟然答应把它送给他。可是天后赫拉不愿意事情这样顺利。她变成一个亚马逊女战士，在人群中奔走呼喊：这些外乡人要把女王抢走了！亚马逊人立刻拿起武器，骑上马，冲向赫拉克勒斯的船。赫拉克勒斯看见她们全副武装地冲过来，以为希波吕忒设下了圈套，就杀死了她，取下了腰带，然后与其余的亚马逊人交战，打退了她们，扬帆离去。
 
-<sub>来源 / Source：Archaeological Site of Delphi · World Heritage property description</sub>
+*The ninth labour was to bring the belt of Hippolyte, queen of the Amazons, a warlike nation by the river Thermodon whose women practised the arts of war. Hippolyte wore the belt of Ares as a sign of her pre-eminence, and Eurystheus's daughter Admete longed for it. Heracles sailed with a ship of volunteers, clashing on the way with the sons of Minos at Paros and helping King Lycus in Mysia. When he put in at the Amazons' harbour, Hippolyte came to him, asked why he had come and promised to give him the belt. But Hera, taking the form of an Amazon, went among the multitude crying that the strangers were carrying off the queen. The Amazons rode down on the ship in arms, and Heracles, thinking it treachery, killed Hippolyte, took the belt, fought off the rest and sailed away.*
 
-### 6. 记载 / Record
+<sub>来源 / Source：Pseudo-Apollodorus, Library · Library 2.5.7–2.5.12 · 《书库》2.5.9。</sub>
 
-《荷马颂歌·致阿波罗》（第3首）提到阿波罗。
+### 4. 特洛伊的公主 / The princess of Troy
 
-*Homeric Hymn 3 is addressed to Apollo and narrates major Delian and Pythian episodes.*
+从亚马逊人那里回来的路上，赫拉克勒斯在特洛伊靠岸。那时特洛伊正遭受着一场灾难。原来，阿波罗和波塞冬曾经变成凡人，为特洛伊国王拉俄墨冬修筑城墙，城墙修好了，拉俄墨冬却赖掉了工钱。阿波罗就降下瘟疫，波塞冬则派来一头海怪，海怪随着潮水涌上平原，把平原上的人一个个抓走。神谕说：只有把国王的女儿赫西俄涅献给海怪吃掉，灾难才会解除。拉俄墨冬只好把女儿绑在海边的岩石上。赫拉克勒斯看见了被绑着的公主，就对拉俄墨冬说：如果你把宙斯当年为了交换美少年伽倪墨得斯送给你父亲的那几匹神马给我，我就救出你的女儿。拉俄墨冬一口答应。赫拉克勒斯杀死了海怪，救下了赫西俄涅。可是拉俄墨冬又一次食言，不肯把神马交给他。赫拉克勒斯临走时发誓，总有一天要回来攻打特洛伊。他把腰带带回迈锡尼，交给了欧律斯透斯。这次的誓言，后来真的应验了。
 
-<sub>来源 / Source：Homeric Hymn 3 to Apollo, Evelyn-White English text · lines 1-20; 115-132</sub>
+*On his way back from the Amazons Heracles put in at Troy, which was in distress. Apollo and Poseidon, in the likeness of men, had built the walls of Troy for King Laomedon, who then refused them their wages; Apollo sent a pestilence and Poseidon a sea monster that came up with the tide and snatched people from the plain. Oracles declared that Laomedon must expose his daughter Hesione to the monster, and he bound her to rocks by the sea. Heracles offered to save her if Laomedon would give him the mares Zeus had given in exchange for Ganymede. Laomedon agreed; Heracles killed the monster and saved Hesione; but again Laomedon would not pay. Heracles sailed away threatening to make war on Troy one day — a threat he would fulfil — and brought the belt to Eurystheus.*
+
+<sub>来源 / Source：Pseudo-Apollodorus, Library · Library 2.5.7–2.5.12 · 《书库》2.5.9。</sub>
+
+### 5. 太阳神的金杯 / The golden goblet of the Sun
+
+第十项任务，是赶回革律翁的牛群。革律翁住在大洋河边一座名叫厄律提亚的岛上，那里靠近大地的西方尽头。他是克律萨俄耳的儿子——也就是美杜莎被砍头时跳出来的那个克律萨俄耳——生着三个人的身体，在腰部连在一起，从腰部往下又分成三个。他有一群红色的牛，由牧人欧律提翁和一条双头的猎犬俄耳托斯看守。赫拉克勒斯向西走，穿过欧罗巴，杀死了许多野兽，来到了利比亚。走到大地尽头的塔耳忒索斯，他在欧罗巴和利比亚两岸的山口上竖起了两根柱子，作为他这次旅程的纪念，这就是后来人们所说的“赫拉克勒斯之柱”。在路上，赫利俄斯的太阳烤得他酷热难耐，他竟然拉开弓，要用箭射太阳。太阳神欣赏他的勇气，就把一只金杯借给了他。这只金杯是太阳神每天晚上横渡大洋、从西方回到东方时乘坐的船。赫拉克勒斯坐上金杯，渡过了大洋河，来到了厄律提亚岛。
+
+*The tenth labour was to fetch the cattle of Geryon from Erytheia, an island near Ocean in the far west. Geryon, son of Chrysaor — who had sprung from Medusa's neck — had the bodies of three men grown together at the waist and parted into three below it. His red cattle were kept by the herdsman Eurytion and the two-headed dog Orthus. Heracles went through Europe, destroying many wild beasts, and into Libya; at Tartessus he set up two pillars facing each other at the boundaries of Europe and Libya as memorials of his journey. Scorched by the Sun on the way, he bent his bow at the god, who admired his daring and gave him the golden goblet in which he himself crosses Ocean each night. In it Heracles crossed Ocean to Erytheia.*
+
+<sub>来源 / Source：Pseudo-Apollodorus, Library · Library 2.5.7–2.5.12 · 《书库》2.5.10。</sub>
+
+### 6. 三身巨人 / The triple-bodied giant
+
+赫拉克勒斯在厄律提亚岛上的阿巴斯山过夜。看守牛群的双头猎犬俄耳托斯闻到了陌生人的气味，扑了过来，赫拉克勒斯一棒就把它打死了。牧人欧律提翁赶来救狗，也被他打死了。在附近放牧冥王哈得斯的牛群的牧人墨诺忒斯看见了这一切，赶紧跑去报告革律翁。三身巨人革律翁全副武装地赶来，在安特摩斯河边追上了正要把牛群赶走的赫拉克勒斯。革律翁有三个身体、六只手，可以同时挥舞三面盾牌、三支长矛，是一个极其可怕的对手。两人在河边展开了激战。赫拉克勒斯拉开弓，搭上浸过许德拉毒液的箭，射死了革律翁。然后，他把这群红色的牛赶进太阳神的金杯里，一起渡过大洋河，航行到塔耳忒索斯上岸，再把金杯还给了太阳神。从这里开始，他要赶着这一大群牛，徒步穿越整个欧罗巴，一路走回希腊。这将是一段漫长而艰难的旅程，因为赫拉不会让他顺顺利利地回去。
+
+*Heracles lodged on Mount Abas in Erytheia. The dog Orthus scented him and rushed at him, but he killed it with his club, and when the herdsman Eurytion came to help the dog, he killed him too. Menoetes, who was pasturing the cattle of Hades nearby, reported it to Geryon, who came up with Heracles beside the river Anthemus as he was driving off the cattle. Geryon, with his three bodies, fought him there, and Heracles shot him dead. He put the cattle into the goblet, sailed across to Tartessus and gave the goblet back to the Sun. From there he had to drive the great herd on foot through all of Europe back to Greece — a long and hard journey, for Hera would not let it be easy.*
+
+<sub>来源 / Source：Pseudo-Apollodorus, Library · Library 2.5.7–2.5.12 · 《书库》2.5.10。</sub>
+
+### 7. 赶牛回希腊 / Driving the cattle home
+
+赫拉克勒斯赶着牛群，穿过伊比利亚，走过高卢，来到了利古里亚。在那里，波塞冬的两个儿子伊阿勒比翁和得耳库诺斯想要抢走他的牛，赫拉克勒斯杀死了他们。他继续穿过第勒尼亚，来到意大利南端的瑞癸翁。一头公牛从牛群里跑了出来，跳进海里，游到了西西里岛。在西西里，统治厄吕摩人的国王厄律克斯——波塞冬的儿子——把这头牛混进了自己的牛群。赫拉克勒斯把其余的牛交给火神赫淮斯托斯看管，自己追到西西里去找。厄律克斯说，除非赫拉克勒斯在摔跤中赢了他，否则不还牛。赫拉克勒斯和他摔了三次，三次都赢了，在最后一次把他摔死了，带回了公牛。他赶着牛群来到伊奥尼亚海的入口，赫拉又出手了：她派来一只牛虻，叮咬牛群，牛群发了狂，四散奔逃到色雷斯的山脚下。赫拉克勒斯好不容易追回了一部分牛，把它们带到迈锡尼，交给了欧律斯透斯。欧律斯透斯把这些牛献祭给了赫拉。这时，八年零一个月过去了。因为欧律斯透斯不承认许德拉和奥革阿斯牛圈两项任务，他又给赫拉克勒斯加了两项，任务从十项变成了十二项。
+
+*Heracles drove the cattle through Iberia and Gaul into Liguria, where Ialebion and Dercynus, sons of Poseidon, tried to rob him and were killed, and through Tyrrhenia to Rhegium. There a bull broke away, plunged into the sea and swam to Sicily, where Eryx, a son of Poseidon who ruled the Elymi, put it among his own herds. Leaving the cattle with Hephaestus, Heracles hurried after it; Eryx would not give it up unless Heracles beat him at wrestling, and Heracles beat him three times and killed him. At the entrance of the Ionian Sea Hera sent a gadfly that scattered the herd among the foothills of Thrace; Heracles gathered some of them, brought them to Eurystheus, and Eurystheus sacrificed them to Hera. Eight years and a month had passed. Because Eurystheus would not admit the labours of the hydra and of Augeas's cattle, he imposed two more, making twelve.*
+
+<sub>来源 / Source：Pseudo-Apollodorus, Library · Library 2.5.7–2.5.12 · 《书库》2.5.10–2.5.11。</sub>
+
+### 8. 海中老人与大地之子 / The old man of the sea and the son of Earth
+
+第十一项任务，是取回赫斯珀里得斯的金苹果。这些金苹果是大地女神送给宙斯和赫拉的结婚礼物，长在世界尽头阿特拉斯身边的一座花园里，由一条不死的、长着一百个头的巨龙看守，还有黄昏的仙女赫斯珀里得斯们守护。可是谁也不知道那座花园在哪里。赫拉克勒斯先来到厄里达诺斯河边，河边的仙女们告诉他：去问海中老人涅柔斯吧，他什么都知道。赫拉克勒斯趁涅柔斯熟睡时抓住了他。老人变成各种各样的形状想要逃脱，变成水、变成火、变成野兽，可是赫拉克勒斯始终紧紧抓住不放，直到他恢复原形，说出了金苹果和赫斯珀里得斯的所在。赫拉克勒斯穿过利比亚，那里的国王是波塞冬的儿子安泰俄斯，他强迫过往的陌生人和他摔跤，把他们全都摔死。赫拉克勒斯和他摔跤，发现每当安泰俄斯被摔倒，碰到大地，他的母亲大地就会给他新的力量，使他更加强壮。赫拉克勒斯明白了这个秘密，就把安泰俄斯高高举起，让他离开地面，在半空中把他紧紧箍住，直到他断了气。
+
+*The eleventh labour was to fetch the golden apples of the Hesperides — a wedding gift of Earth to Zeus — which grew by Atlas at the end of the world, guarded by an immortal dragon with a hundred heads and by the Hesperides. No one knew where they were. At the river Eridanus the nymphs told Heracles to ask Nereus. He seized the old man of the sea while he slept, and though Nereus turned into all kinds of shapes, held him fast until he told where the apples and the Hesperides were. Crossing Libya, he met its king Antaeus, son of Poseidon, who forced strangers to wrestle and killed them. Each time Antaeus touched the earth, his mother Earth renewed his strength; Heracles lifted him clear of the ground and crushed him to death in the air.*
+
+<sub>来源 / Source：Pseudo-Apollodorus, Library · Library 2.5.7–2.5.12 · 《书库》2.5.11。</sub>
+
+### 9. 被解放的普罗米修斯 / Prometheus set free
+
+离开利比亚，赫拉克勒斯来到埃及。埃及国王布西里斯是波塞冬的儿子，因为一个神谕，他每年都把一个外乡人杀死献给宙斯。原来，埃及曾经连续九年颗粒无收，一位从塞浦路斯来的预言家说，只要每年杀一个外乡人献给宙斯，饥荒就会结束；布西里斯就先杀了这位预言家，从此年年杀外乡人献祭。赫拉克勒斯也被抓住，押到祭坛前，他挣断绳索，杀死了布西里斯和他的儿子。他继续穿过亚细亚，来到了高加索山。在那里，他看见了被宙斯锁在悬崖上的普罗米修斯。因为普罗米修斯从天上偷了火种送给人类，宙斯把他钉在高加索山上，每天派一只鹰来啄食他的肝脏，肝脏夜里又重新长出来，痛苦永无止境。赫拉克勒斯拉开弓，一箭射死了那只鹰——《书库》说，它是厄喀德那和提丰的后代——解开了普罗米修斯身上的锁链。作为回报，普罗米修斯给了赫拉克勒斯一个忠告：不要自己去摘金苹果，派阿特拉斯去摘，你替他扛起天空。
+
+*From Libya Heracles went to Egypt, ruled by Busiris, a son of Poseidon, who sacrificed strangers on an altar of Zeus because of an oracle: after nine years of dearth, a seer from Cyprus had said the dearth would end if a stranger were sacrificed to Zeus every year, and Busiris began with the seer himself. Heracles too was seized and dragged to the altar, but he burst his bonds and slew Busiris and his son. Passing through Asia, he came to the Caucasus, where Prometheus was nailed to the rock for stealing fire for mankind, and an eagle — offspring of Echidna and Typhon, says the Library — devoured his liver every day while it grew again each night. Heracles shot the eagle and released Prometheus, who advised him not to go for the apples himself but to send Atlas and hold up the sky in his place.*
+
+<sub>来源 / Source：Pseudo-Apollodorus, Library · Library 2.5.7–2.5.12 · 《书库》2.5.11。</sub>
+
+### 10. 扛起天空 / Holding up the sky
+
+赫拉克勒斯来到了世界的尽头，提坦神阿特拉斯就站在那里，用双肩扛着整个天空。赫拉克勒斯按照普罗米修斯的建议，请阿特拉斯去替他摘金苹果，自己替他扛起天空。阿特拉斯答应了。赫拉克勒斯接过天空，沉重的苍穹压在他的肩上，他咬紧牙关，一动不动地撑着。阿特拉斯从赫斯珀里得斯那里摘来了三个金苹果，可是他尝到了卸下重担的轻松，不想再回去扛天了。他对赫拉克勒斯说：我替你把苹果送到欧律斯透斯那里去，你就在这里继续扛着吧。赫拉克勒斯知道自己上当了，但他不动声色，假装答应，说：好吧，可是请你先帮我扛一会儿，让我在头上垫一个软垫，不然肩膀受不了。阿特拉斯信以为真，放下苹果，重新扛起了天空。赫拉克勒斯拾起地上的金苹果，转身就走了。《书库》也记下了另一种说法：有人说，赫拉克勒斯没有请阿特拉斯帮忙，而是自己杀死了看守金苹果的巨龙，亲手摘下了苹果。赫拉克勒斯把金苹果交给欧律斯透斯，欧律斯透斯却又把苹果赏给了他；他转献给雅典娜，雅典娜又把苹果送回了原处，因为把它们放在别处是不合神律的。
+
+*At the end of the world stood the Titan Atlas, holding up the sky on his shoulders. Following Prometheus's advice, Heracles asked him to fetch the apples while he held the sky in his place. Atlas agreed, picked three apples from the Hesperides, and, having tasted his freedom, told Heracles he would carry the apples to Eurystheus himself while Heracles went on holding the sky. Heracles pretended to agree and asked Atlas only to take the sky for a moment while he put a pad on his head. Atlas laid the apples down and took back the sky, and Heracles picked them up and departed. The Library also notes that some say Heracles did not ask Atlas but plucked the apples himself after killing the guardian dragon. Heracles gave the apples to Eurystheus, who bestowed them on him; he gave them to Athena, and Athena carried them back, for it was not lawful that they should be laid down anywhere.*
+
+<sub>来源 / Source：Pseudo-Apollodorus, Library · Library 2.5.7–2.5.12 · 《书库》2.5.11。</sub>
+
+### 11. 走向冥府 / The road to Hades
+
+最后一项任务，也是最可怕的一项：把冥府的看门狗刻耳柏洛斯带到人间来。刻耳柏洛斯有三个狗头，尾巴是一条龙，背上长着各种各样的蛇头。下冥府之前，赫拉克勒斯先去厄琉息斯，请欧摩尔波斯为他举行秘仪入会，因为他杀死过马人，要先洗去流血的罪过。然后，他从拉科尼亚的泰那戎海角的洞口下到了冥府。冥府里的亡魂一看见他，都吓得四散奔逃，只有英雄墨勒阿革洛斯和戈耳工美杜莎的亡魂没有逃走。赫拉克勒斯拔剑向美杜莎砍去，赫尔墨斯告诉他：那只是一个空虚的幽影，伤不了人。走到冥府的大门前，他看见雅典的英雄忒修斯和他的朋友庇里托俄斯——他们想劫走冥后珀耳塞福涅，被冥王用计粘在了“遗忘之椅”上，动弹不得。两人向赫拉克勒斯伸出手来求救。赫拉克勒斯抓住忒修斯的手，把他拉了起来；可是当他去拉庇里托俄斯的时候，大地剧烈地震动起来，他只好松开了手。他又搬开了压在阿斯卡拉福斯身上的石头，为了给亡魂们一点血喝，他宰杀了冥王的一头牛，牧人墨诺忒斯向他挑战摔跤，被他拦腰抱住，折断了肋骨，冥后珀耳塞福涅出面求情，他才放开了手。
+
+*The last labour, and the most terrible, was to bring Cerberus up from Hades — a hound with three dogs' heads, a dragon's tail and the heads of all sorts of snakes on its back. First Heracles went to Eumolpus at Eleusis to be initiated, having been purified of the slaughter of the centaurs; then he descended through the mouth of the underworld at Taenarum in Laconia. The souls fled at the sight of him, except Meleager and the Gorgon Medusa; he drew his sword on Medusa, but Hermes told him she was an empty phantom. Near the gates of Hades he found Theseus and Pirithous, who had come to woo Persephone and were held fast in the seat of forgetfulness. They stretched out their hands; he raised Theseus by the hand, but when he tried to raise Pirithous the earth quaked and he let go. He rolled away the stone from Ascalaphus, and when he slaughtered one of the kine of Hades to give the souls blood, the herdsman Menoetes challenged him to wrestle; Heracles broke his ribs and let him go only at Persephone's request.*
+
+<sub>来源 / Source：Pseudo-Apollodorus, Library · Library 2.5.7–2.5.12 · 《书库》2.5.12。</sub>
+
+### 12. 冥府的看门狗 / The hound of Hades
+
+赫拉克勒斯来到冥王普路同面前，请求把刻耳柏洛斯带到人间去。冥王答应了，但有一个条件：他必须不用任何武器，徒手制服这条狗。赫拉克勒斯在阿刻戎河的大门边找到了刻耳柏洛斯。他身穿胸甲，披着狮子皮，用双臂紧紧箍住了狗的脖子。刻耳柏洛斯尾巴上的那条龙不停地咬他，可是他始终没有松手，一直勒到那条狗屈服为止。他牵着刻耳柏洛斯，从特罗曾附近的地面上回到了人间，把它带到迈锡尼，给欧律斯透斯看。欧律斯透斯看过了这只从冥府来的三头怪物，再也找不到理由不承认这项任务。赫拉克勒斯展示完毕，又把刻耳柏洛斯送回了冥府。就这样，十二项任务全部完成了。从一个在疯狂中失去孩子的罪人，到一个走遍大地四方、甚至从冥府归来的英雄，赫拉克勒斯赎清了他的罪过。可是他的苦难还没有结束：服役期满之后，等待他的将是新的过错、新的流放，以及一件致命的长袍。
+
+*Heracles asked Pluto for Cerberus, and Pluto told him he might take it if he mastered it without the weapons he carried. He found it at the gates of Acheron and, cased in his breastplate and covered by the lion's skin, flung his arms round its head and did not let go until it yielded, though the dragon in its tail bit him. He carried it up through Troezen and showed it to Eurystheus, and then took it back to Hades. So the twelve labours were done. From a man who had killed his children in madness he had become a hero who had travelled the ends of the earth and returned from the dead, and he had atoned for his crime. But his sufferings were not over: after his servitude would come new wrongs, a new exile, and a deadly robe.*
+
+<sub>来源 / Source：Pseudo-Apollodorus, Library · Library 2.5.7–2.5.12 · 《书库》2.5.12。</sub>
 
 ---
 

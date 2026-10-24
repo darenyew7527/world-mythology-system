@@ -5,6 +5,12 @@ series.chinese.xiyouji,3,story.chinese.xiyouji_pilgrims_gather,第三部 · 师�
 series.chinese.xiyouji,4,story.chinese.xiyouji_white_bone,第四部 · 三打白骨精,Part 4: the White Bone Demon,ch. 27–31,与上一部之间跳过第二十三至二十六回：四圣试禅心、五庄观偷吃人参果、观音救活果树。
 series.chinese.xiyouji,5,story.chinese.xiyouji_two_monkey_kings,第五部 · 真假美猴王,Part 5: the two Monkey Kings,ch. 56–58,与上一部之间跳过第三十二至五十五回：平顶山金角银角、乌鸡国、红孩儿、车迟国斗法、通天河、金兜洞、女儿国与琵琶洞等。
 series.chinese.xiyouji,6,story.chinese.xiyouji_flaming_mountains,第六部 · 三调芭蕉扇,Part 6: the plantain fan,ch. 59–61,
+series.greek.argonautica,1,story.greek.argonautica_outward,上部 · 远航,Part 1: the outward voyage,Books I–II,
+series.greek.argonautica,2,story.greek.argonautica_fleece_return,下部 · 金羊毛与归航,Part 2: the fleece and the return,Books III–IV,
+series.greek.heroes_library,1,story.greek.perseus_library,第一部 · 珀尔修斯,Part 1: Perseus,Library 2.4.1–2.4.5,
+series.greek.heroes_library,2,story.greek.heracles_birth_labours,第二部 · 赫拉克勒斯（上）,Part 2: Heracles I,Library 2.4.5–2.5.6,
+series.greek.heroes_library,3,story.greek.heracles_far_labours,第三部 · 赫拉克勒斯（中）,Part 3: Heracles II,Library 2.5.7–2.5.12,
+series.greek.heroes_library,4,story.greek.heracles_death_apotheosis,第四部 · 赫拉克勒斯（下）,Part 4: Heracles III,Library 2.6.1–2.8.1,本部略去《书库》2.7.4：攻打斯巴达、杀死希波科翁诸子，以及奥格在忒革亚生下忒勒福斯。
 series.greek.odyssey,1,story.greek.odyssey_wanderings,上部 · 漂泊,Part 1: the wanderings,Books I–XII,
 series.greek.odyssey,2,story.greek.odyssey_homecoming,下部 · 归家,Part 2: the homecoming,Books XIII–XXIV,
 series.hindu.ramayana_books,1,story.hindu.ramayana_bala,第一部 · 童年篇,Part 1: Childhood,Book I (Bāla Kāṇḍa),
@@ -13,3 +19,14 @@ series.hindu.ramayana_books,3,story.hindu.ramayana_aranya,第三部 · 森林篇
 series.hindu.ramayana_books,4,story.hindu.ramayana_kishkindha,第四部 · 猴国篇,Part 4: Kiṣkindhā,Book IV (Kiṣkindhā Kāṇḍa),
 series.hindu.ramayana_books,5,story.hindu.ramayana_sundara,第五部 · 美妙篇,Part 5: the Beautiful Book,Book V (Sundara Kāṇḍa),
 series.hindu.ramayana_books,6,story.hindu.ramayana_yuddha,第六部 · 战斗篇,Part 6: War,Book VI (Yuddha Kāṇḍa),
+series.irish.tain,1,story.irish.tain_muster_boy_deeds,上部 · 库丘林守浅滩,Part 1: Cú Chulainn at the fords,Pillow-talk to the Great Rout,
+series.irish.tain,2,story.irish.tain_ferdiad_bulls,下部 · 费迪亚德与公牛之战,Part 2: Fer Diad and the bulls,Fer Diad to the end,
+series.norse.gylfaginning_end,1,story.norse.frigg_baldr,上部 · 巴德尔之死,Part 1: the death of Baldr,Gylfaginning 49–50,
+series.norse.gylfaginning_end,2,story.norse.ragnarok,下部 · 诸神黄昏,Part 2: Ragnarök,Gylfaginning 51–54,
+series.norse.volsunga,1,story.norse.volsunga_sigmund,第一部 · 西格蒙德,Part 1: Sigmund,ch. 1–13,
+series.norse.volsunga,2,story.norse.volsunga_sigurd_dragon,第二部 · 屠龙者西古尔德,Part 2: Sigurd the dragon-slayer,ch. 13–24,
+series.norse.volsunga,3,story.norse.volsunga_sigurd_brynhild,第三部 · 西古尔德与布伦希尔德,Part 3: Sigurd and Brynhild,ch. 25–32,
+series.welsh.mabinogi,1,story.welsh.mabinogi_pwyll,第一支 · 皮威尔,First Branch: Pwyll,First Branch,
+series.welsh.mabinogi,2,story.welsh.mabinogi_branwen,第二支 · 布兰雯,Second Branch: Branwen,Second Branch,
+series.welsh.mabinogi,3,story.welsh.mabinogi_manawydan,第三支 · 马纳维丹,Third Branch: Manawydan,Third Branch,
+series.welsh.mabinogi,4,story.welsh.mabinogi_math,第四支 · 马斯,Fourth Branch: Math,Fourth Branch,

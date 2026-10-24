@@ -103,6 +103,7 @@
 | text.yoruba.ifa_corpus | Ifá 语料传统 | Ifá corpus | ORAL_TRADITION | Ifá | Living oral tradition | SOURCE_BACKED |
 | text.indian.regional_epics | 印度地方史诗与口述传统入口 | Indian regional epics and oral traditions | ORAL_TRADITION | 印度地方传统 | Living and historical traditions | UNVERIFIED |
 | text.irish.cath_maige_tuired | 《第二次马格图雷德之战》 | Cath Maige Tuired (The Second Battle of Mag Tuired) | TEXT | 爱尔兰 | Medieval Irish; composition dates debated | SOURCE_BACKED |
+| text.irish.tain_bo_cuailnge | 夺牛长征记 | Táin Bó Cúailnge | TEXT | 爱尔兰 | Recension I (Lebor na hUidre) and Recension II (Book of Leinster), 11th–12th century manuscripts | SOURCE_BACKED |
 | text.jain.corpus | 耆那教文献总集入口 | Jain textual traditions | SCRIPTURE | 耆那教传统 | Multiple periods | UNVERIFIED |
 | text.japanese.fudoki | 风土记 | Fudoki | TEXT | 日本神道 | Eighth century onward | UNVERIFIED |
 | text.japanese.local_legends | 日本地方传说资料入口 | Japanese local legends | ORAL_TRADITION | 日本神道 | Living and historical traditions | UNVERIFIED |
@@ -132,6 +133,7 @@
 | text.norse.prose_edda | 散文埃达 | Prose Edda | TEXT | 北欧 | Thirteenth century | UNVERIFIED |
 | text.norse.skaldskaparmal | 诗语法 | Skáldskaparmál | TEXT | 北欧 | Thirteenth century | UNVERIFIED |
 | text.norse.vafthrudnismal | 瓦夫苏鲁德尼尔之歌 | Vafþrúðnismál | TEXT | 北欧 | Preserved in medieval manuscripts | UNVERIFIED |
+| text.norse.volsunga_saga | 沃尔松格萨迦 | Völsunga saga | TEXT | 北欧 | 13th century (Iceland) | SOURCE_BACKED |
 | text.norse.voluspa | 女巫的预言 | Völuspá | TEXT | 北欧 | Preserved in medieval manuscripts | UNVERIFIED |
 | text.norse.voluspa.st17_18 | 《女巫的预言》第17–18节见证 | Völuspá stanzas 17–18 witness | TEXT | 北欧 | Composition date debated; medieval manuscript witness | SOURCE_BACKED |
 | text.norse.thrymskvida | 索列姆之歌 | Þrymskviða | TEXT | 北欧 | Preserved in medieval manuscripts | PARTIAL |
@@ -159,6 +161,7 @@
 | text.vedic.rigveda.1_32 | 《梨俱吠陀》1.32见证 | Rigveda 1.32 witness | TEXT | 吠陀传统 | Vedic period; precise dating debated | SOURCE_BACKED |
 | text.vedic.samaveda | 娑摩吠陀 | Samaveda | SCRIPTURE | 吠陀传统 | Vedic period | UNVERIFIED |
 | text.vedic.yajurveda | 夜柔吠陀 | Yajurveda | SCRIPTURE | 吠陀传统 | Vedic period | UNVERIFIED |
+| text.welsh.four_branches | 马比诺吉昂四支 | Four Branches of the Mabinogi | TEXT | 威尔士 | Composition c. 11th–12th century; dating debated | SOURCE_BACKED |
 | text.africa.epics | 非洲史诗总集入口 | African epic traditions | ORAL_TRADITION | 西非传统 | Living and historical traditions | UNVERIFIED |
 | text.zoroastrian.avesta | 阿维斯陀 | Avesta | SCRIPTURE | 琐罗亚斯德传统 | Layered oral and manuscript history | UNVERIFIED |
 | text.zoroastrian.bundahishn | 创世原本 | Bundahišn | TEXT | 琐罗亚斯德传统 | Middle Persian compilation | UNVERIFIED |
