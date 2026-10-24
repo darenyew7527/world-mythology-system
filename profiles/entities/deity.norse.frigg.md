@@ -30,5 +30,9 @@
   - 来源：[Snorri Sturluson, Edda](https://www.vsnrweb-publications.org.uk/Edda-1.pdf)；定位：Gylfaginning 49
 - `claim.v0310.norse.frigg_wife` [VERIFIED / TEXT_SAYS / 0.95] Frigg is Odin's wife and knows all fates, though she does not prophesy.
   - 来源：[Snorri Sturluson, Edda](https://www.vsnrweb-publications.org.uk/Edda-1.pdf)；定位：Gylfaginning 20
+- `claim.v0320.baldr_long.02` [VERIFIED / TEXT_SAYS / 0.90] Frigg takes oaths from fire, water, metals, stones, earth, trees, sicknesses, beasts, birds, poisons and snakes not to harm Baldr.
+  - 来源：[Snorri Sturluson, Edda](https://www.vsnrweb-publications.org.uk/Edda-1.pdf)；定位：Gylfaginning 49
+- `claim.v0320.baldr_long.10` [VERIFIED / TEXT_SAYS / 0.90] The Æsir send messengers through the world, and men, beasts, earth, stones, trees and metals all weep for Baldr.
+  - 来源：[Snorri Sturluson, Edda](https://www.vsnrweb-publications.org.uk/Edda-1.pdf)；定位：Gylfaginning 49
 
 > 本档案只代表当前阶段性基线，不是对该传统的最终或唯一解释。

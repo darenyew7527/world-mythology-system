@@ -38,5 +38,7 @@
   - 来源：[The Kojiki: Records of Ancient Matters (tr. Basil Hall Chamberlain)](https://sacred-texts.com/shi/kojiki.htm)；定位：Sect. X, Purification of the August Person (kj017)
 - `claim.v0310.japan.izanagi_yomi` [VERIFIED / TEXT_SAYS / 0.95] Wishing to see her again, Izanagi follows Izanami to Yomi and asks her to return because the lands they made are unfinished.
   - 来源：[The Kojiki: Records of Ancient Matters (tr. Basil Hall Chamberlain)](https://sacred-texts.com/shi/kojiki.htm)；定位：Sect. IX, The Land of Hades (kj016)
+- `claim.v0320.kojiki_iwato_orochi.01` [VERIFIED / TEXT_SAYS / 0.90] Izanagi gives Amaterasu his jewel necklace and the Plain of High Heaven, Tsukuyomi the dominion of night and Susanoo the plain of the sea.
+  - 来源：[The Kojiki: Records of Ancient Matters (tr. Basil Hall Chamberlain)](https://sacred-texts.com/shi/kojiki.htm)；定位：Sect. XI, Investiture of the Three Deities (kj018)
 
 > 本档案只代表当前阶段性基线，不是对该传统的最终或唯一解释。

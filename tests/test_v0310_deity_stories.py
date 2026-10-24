@@ -63,7 +63,7 @@ class DeityStoriesTests(unittest.TestCase):
         connection.row_factory = sqlite3.Row
         return connection
 
-    def test_schema_43_and_44_seal_v031_as_latest_release(self):
+    def test_schema_43_and_44_seal_v031_preserved_after_v032(self):
         with self.connect() as connection:
             migrations = dict(connection.execute(
                 "SELECT version,name FROM schema_migrations WHERE version IN (43,44)"
@@ -74,6 +74,9 @@ class DeityStoriesTests(unittest.TestCase):
             v030 = connection.execute(
                 "SELECT schema_version FROM dataset_releases WHERE id='release.v0.30.0'"
             ).fetchone()
+            v031 = connection.execute(
+                "SELECT schema_version,data_version FROM dataset_releases WHERE id='release.v0.31.0'"
+            ).fetchone()
             batch = connection.execute(
                 "SELECT status,version_label FROM story_expansion_batches WHERE id='storybatch.v0310.03'"
             ).fetchone()
@@ -81,13 +84,14 @@ class DeityStoriesTests(unittest.TestCase):
                 "SELECT status,COUNT(*) FROM story_expansion_targets WHERE batch_id='storybatch.v0310.03' GROUP BY status"
             ).fetchall())
         self.assertEqual(migrations, {43: "20261009_v0310_deity_stories", 44: "20261009_v0310_deity_stories_release"})
-        self.assertEqual(dict(latest), {"id": "release.v0.31.0", "schema_version": 44, "data_version": "0.31.0"})
+        self.assertEqual(dict(latest), {"id": "release.v0.32.0", "schema_version": 46, "data_version": "0.32.0"})
+        self.assertEqual(dict(v031), {"schema_version": 44, "data_version": "0.31.0"})
         self.assertEqual(v030["schema_version"], 42)
         self.assertEqual(tuple(batch), ("CHECKPOINT_COMPLETE", "0.31.0"))
         self.assertEqual(targets, {"COMPLETED": 27, "BLOCKED_PERMISSION": 1})
         meta = self.snapshot["meta"]
-        self.assertEqual(meta["projectVersion"], "0.31.0-deity-stories")
-        self.assertEqual(meta["dataVersion"], "0.31.0")
+        self.assertEqual(meta["projectVersion"], "0.32.0-long-stories")
+        self.assertEqual(meta["dataVersion"], "0.32.0")
 
     def test_every_deity_has_a_story_card(self):
         with self.connect() as connection:
@@ -172,7 +176,8 @@ class DeityStoriesTests(unittest.TestCase):
                 V031_STORIES,
             ).fetchone()[0]
         self.assertEqual(stories, len(V031_STORIES))
-        self.assertEqual(len(rows), 28)
+        # 28 versions in v0.31; later releases may add long versions to these stories.
+        self.assertGreaterEqual(len(rows), 28)
         for row in rows:
             self.assertGreaterEqual(row["sections"], 3, row["id"])
             self.assertEqual(row["sections"], row["nodes"], row["id"])
@@ -228,7 +233,7 @@ class DeityStoriesTests(unittest.TestCase):
             manifest = generate(DB, root / "offline", root / "manifest.json")
             html_text = (root / "offline" / HTML_NAME).read_text(encoding="utf-8")
             archive = json.loads((root / "offline" / JSON_NAME).read_text(encoding="utf-8"))
-        self.assertEqual(HTML_NAME, "world-mythology-v0.31-story-archive.html")
+        self.assertEqual(HTML_NAME, "world-mythology-v0.32-story-archive.html")
         self.assertEqual(manifest["counts"]["deityStoryCards"], len(self.cards))
         self.assertEqual(len(archive["deityStoryCards"]), len(self.cards))
         tyr = next(card for card in archive["deityStoryCards"] if card["entityId"] == "deity.norse.tyr")

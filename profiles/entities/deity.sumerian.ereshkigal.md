@@ -22,5 +22,9 @@
 
 - `claim.sumerian.ereshkigal_appears_descent` [VERIFIED / IN_TRADITION / 0.95] Ereshkigal appears in Inanna's Descent as a netherworld authority.
   - 来源：[Inana's Descent to the Netherworld](https://etcsl.orinst.ox.ac.uk/section1/tr141.htm)；定位：Composition 1.4.1
+- `claim.v0320.inanna_long.04` [VERIFIED / TEXT_SAYS / 0.90] Told that Inana has come for her husband's funeral rites, Ereškigala orders the seven gates bolted and Inana stripped of her regalia as she enters.
+  - 来源：[Inana's Descent to the Netherworld](https://etcsl.orinst.ox.ac.uk/section1/tr141.htm)；定位：ETCSL 1.4.1, lines 73–127
+- `claim.v0320.inanna_long.06` [VERIFIED / TEXT_SAYS / 0.90] When Inana sits on her throne, Ereškigala fixes her with the look of death, and the Anuna judges condemn her; Inana becomes a corpse hung on a hook.
+  - 来源：[Inana's Descent to the Netherworld](https://etcsl.orinst.ox.ac.uk/section1/tr141.htm)；定位：ETCSL 1.4.1, lines 164–172
 
 > 本档案只代表当前阶段性基线，不是对该传统的最终或唯一解释。

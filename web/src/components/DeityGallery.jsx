@@ -1,11 +1,11 @@
 import { useDeferredValue, useMemo, useRef, useState } from 'react'
 import { BookIcon, SearchIcon } from './Icons.jsx'
-import { deckFromCard } from '../storyDeck.js'
+import { LONG_STORY_SECTIONS, deckFromCard } from '../storyDeck.js'
 import DeityStoryReader from './DeityStoryReader.jsx'
 
 const ui = {
   zh: {
-    eyebrow: 'v0.31 · 神祇故事',
+    eyebrow: 'v0.32 · 神祇故事 · 长篇',
     title: '每一位神祇都有故事',
     intro: '有完整故事的神祇，直接按原典段落讲述；只有零散记载的，用带出处的要点讲；活态传统尚未获得社区授权的，只说明边界，不替社区讲故事。',
     search: '搜索神祇、文明或别名…',
@@ -19,6 +19,8 @@ const ui = {
     fullStory: '完整故事',
     profile: '档案',
     beats: '段',
+    chapters: '章',
+    long: '长篇故事',
     shown: '位',
     none: '没有符合筛选的神祇。',
     status: {
@@ -34,7 +36,7 @@ const ui = {
     },
   },
   en: {
-    eyebrow: 'v0.31 · Deity stories',
+    eyebrow: 'v0.32 · Deity stories · long form',
     title: 'Every deity has a story',
     intro: 'Deities with full stories are told section by section from their witnesses; those with scattered evidence are told through cited points; living traditions without community permission show their boundary instead of a story.',
     search: 'Search deities, traditions or names…',
@@ -48,6 +50,8 @@ const ui = {
     fullStory: 'Full story',
     profile: 'Profile',
     beats: 'beats',
+    chapters: 'chapters',
+    long: 'Long stories',
     shown: 'shown',
     none: 'No deities match these filters.',
     status: {
@@ -68,11 +72,13 @@ const STATUS_ORDER = ['STORY_LINKED', 'CLAIM_CARD', 'PERMISSION_LIMITED']
 const normalize = (value) => (value || '').normalize('NFKD').toLocaleLowerCase()
 
 // A different full story greets the reader each day, so the page opens on something to read.
+// Since v0.32 the rotation favours long-form stories.
 const FEATURED_STORIES = [
-  'deity.irish.morrigan', 'deity.norse.tyr', 'deity.egyptian.sekhmet', 'deity.japanese.izanagi', 'deity.chinese.fu_xi',
-  'being.chinese.pangu', 'deity.mexica.huitzilopochtli', 'deity.sumerian.ninhursag', 'deity.egyptian.anubis',
-  'deity.norse.heimdall', 'deity.zoroastrian.mithra', 'deity.hawaiian.pele', 'deity.egyptian.isis', 'deity.norse.frigg',
+  'deity.hindu.rama', 'deity.japanese.amaterasu', 'deity.greek.demeter', 'deity.babylonian.marduk', 'deity.egyptian.isis',
+  'deity.norse.baldr', 'deity.sumerian.inanna', 'deity.greek.zeus', 'deity.chinese.nezha', 'deity.norse.thor',
+  'deity.akkadian.ishtar', 'deity.chinese.jade_emperor', 'deity.irish.morrigan', 'deity.egyptian.sekhmet',
 ]
+const isLong = (card) => card.status === 'STORY_LINKED' && card.beats.length >= LONG_STORY_SECTIONS
 
 const storyOfTheDay = (cards) => {
   const linked = cards.filter((card) => card.status === 'STORY_LINKED')
@@ -104,6 +110,7 @@ export default function DeityGallery({ cards, entityById, index, language, onOpe
   const statusCounts = useMemo(() => {
     const counts = {}
     for (const card of cards) counts[card.status] = (counts[card.status] || 0) + 1
+    counts.LONG = cards.filter(isLong).length
     return counts
   }, [cards])
 
@@ -120,7 +127,7 @@ export default function DeityGallery({ cards, entityById, index, language, onOpe
     const needle = normalize(deferredQuery.trim())
     return cards.filter((card) => {
       if (civilization !== 'ALL' && card.civilizationId !== civilization) return false
-      if (status !== 'ALL' && card.status !== status) return false
+      if (status === 'LONG' ? !isLong(card) : status !== 'ALL' && card.status !== status) return false
       if (!needle) return true
       const aliases = entityById.get(card.entityId)?.aliases || []
       return normalize([card.entityId, card.nameZh, card.name, card.originalName, card.civilizationNameZh,
@@ -195,9 +202,9 @@ export default function DeityGallery({ cards, entityById, index, language, onOpe
           {civilizations.map(([id, label]) => <option key={id} value={id}>{label}</option>)}
         </select>
         <div className="deity-status-filter" role="group" aria-label={copy.all}>
-          {['ALL', ...STATUS_ORDER].map((key) => (
-            <button aria-pressed={status === key} key={key} type="button" onClick={() => setStatus(key)}>
-              {key === 'ALL' ? copy.all : copy.status[key]}
+          {['ALL', 'LONG', ...STATUS_ORDER].map((key) => (
+            <button aria-pressed={status === key} data-filter={key} key={key} type="button" onClick={() => setStatus(key)}>
+              {key === 'ALL' ? copy.all : key === 'LONG' ? `${copy.long} · ${statusCounts.LONG}` : copy.status[key]}
             </button>
           ))}
         </div>
@@ -223,7 +230,9 @@ export default function DeityGallery({ cards, entityById, index, language, onOpe
                 >
                   <header>
                     <span className="deity-badge" data-status={card.status}>{copy.status[card.status] || card.status}</span>
-                    {card.beats.length > 0 && <small>{card.beats.length} {copy.beats}</small>}
+                    {isLong(card)
+                      ? <small className="deity-long-badge">{copy.long} · {card.beats.length} {copy.chapters}</small>
+                      : card.beats.length > 0 && <small>{card.beats.length} {copy.beats}</small>}
                   </header>
                   <h3>
                     <button className="deity-card-title" type="button" onClick={() => read(card)}>

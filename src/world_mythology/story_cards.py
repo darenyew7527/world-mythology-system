@@ -11,6 +11,8 @@ from __future__ import annotations
 from typing import Any, Iterable
 
 DEITY_TYPES = {"DEITY", "PRIMORDIAL_DEITY", "ANCESTOR_DEITY"}
+# Claim cards stay short; a card linked to a story carries every section so
+# long-form stories (v0.32) can be read in full from the deity card.
 MAX_BEATS = 6
 MAX_FACTS = 6
 MAX_RELATED = 8
@@ -218,7 +220,7 @@ def build_deity_story_cards(entities: list[dict[str, Any]], stories: list[dict[s
         used_claims: set[str] = set()
         if primary:
             story, version = primary
-            for section in version["sections"][:MAX_BEATS]:
+            for section in version["sections"]:
                 # Section text lives once in the snapshot's stories; beats only reference it.
                 beats.append({"kind": "STORY_SECTION", "sectionId": section["id"], "claimId": section.get("anchorClaimId")})
                 if section.get("anchorClaimId"):

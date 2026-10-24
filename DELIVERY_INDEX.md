@@ -9,37 +9,38 @@
 | 文明／传统 | 99 |
 | 文化语境 | 18 |
 | 语言 | 27 |
-| 统一实体 | 726 |
+| 统一实体 | 777 |
 | 实体重定向／去重审计 | 5 |
-| 多类型分类 | 752 |
-| 名称与译名 | 1592 |
-| 来源 | 233 |
-| Claims | 892 |
-| Evidence | 916 |
-| 关系边（直接） | 639 |
+| 多类型分类 | 805 |
+| 名称与译名 | 1732 |
+| 来源 | 237 |
+| Claims | 1065 |
+| Evidence | 1089 |
+| 关系边（直接） | 645 |
 | 显式冲突 | 35 |
 | 永久研究队列 | 125 |
-| 可阅读故事 | 55 |
-| 故事文本版本 | 64 |
-| 故事阅读分段 | 212 |
-| 故事事件节点 | 212 |
-| 全球故事扩张批次 | 3 |
-| 全球故事扩张目标 | 43 |
+| 可阅读故事 | 63 |
+| 故事文本版本 | 76 |
+| 故事阅读分段 | 385 |
+| 故事事件节点 | 385 |
+| 全球故事扩张批次 | 4 |
+| 全球故事扩张目标 | 55 |
 | 原典见证档案 | 10 |
 | 原典对读主题 | 20 |
 | 原典对读成员 | 40 |
 | 主题阅读路线 | 7 |
 | 阅读路线步骤 | 30 |
-| 阅读器与离线功能 | 6 |
+| 阅读器与离线功能 | 7 |
 
-来源登记状态：`URL_SYNTAX_VALID` 233。
+来源登记状态：`URL_SYNTAX_VALID` 237。
 
 ## 直接打开这些文件
 
 - `database/world_mythology.sqlite`：事实核心数据库。
+- `RELEASE_NOTES_v0.32.0.md`：v0.32 长篇故事：12 个按原典顺序逐段讲述的长篇故事（每篇 12–20 章）与章节阅读。
 - `RELEASE_NOTES_v0.31.0.md`：v0.31 神祇故事：26 个新故事、全部神祇故事卡、讲故事模式与神祇故事画廊。
 - `RELEASE_NOTES_v0.30.0.md`：v0.30 全球故事扩张第二批：女娲、共工与乳海搅拌的分见证故事。
-- `docs/ROADMAP_v0.30-v0.33.md`：v0.30–v0.31 正式状态与后续候选方向。
+- `docs/ROADMAP_v0.30-v0.33.md`：v0.30–v0.32 正式状态与后续候选方向。
 - `RELEASE_NOTES_v0.29.0.md`：v0.29 本机阅读器、离线打印档案与隐私边界。
 - `RELEASE_NOTES_v0.28.0.md`：v0.28 全球故事扩张、独立目标审计与权限边界。
 - `docs/ROADMAP_v0.26-v0.29.md`：v0.26–v0.29 故事阅读路线图与正式状态。
@@ -69,8 +70,8 @@
 - `visualization/index.html`：静态关系网络基础。
 - `web/`：中文优先、可切换英文的 React/Vite 公开探索器。
 - `web/public/data/site-data.json`：不含证据短引文的浏览器安全数据快照。
-- `web/public/offline/world-mythology-v0.31-story-archive.html`：可断网打开和打印的单文件双语故事档案（含全部神祇故事卡）。
-- `web/public/offline/world-mythology-v0.31-story-archive.json`：与离线档案对应的可检查公开数据。
+- `web/public/offline/world-mythology-v0.32-story-archive.html`：可断网打开和打印的单文件双语故事档案（含全部长篇故事与神祇故事卡）。
+- `web/public/offline/world-mythology-v0.32-story-archive.json`：与离线档案对应的可检查公开数据。
 - `docs/design/public-explorer-desktop.png`：公开探索器桌面截图。
 - `api/openapi.yaml`：只读 API 契约。
 - `assets/world_mythology_system_reference.jpeg`：用户提供的视觉架构参考，不作为事实来源。

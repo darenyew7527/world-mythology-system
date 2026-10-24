@@ -19,6 +19,19 @@ export const buildStoryIndex = (data) => {
 
 const sourceLine = (title, location) => [title, location].filter(Boolean).join(' · ')
 
+// A story version with this many sections is shown as a long-form story (v0.32).
+export const LONG_STORY_SECTIONS = 12
+
+// Reading time from the text itself: about 400 Chinese characters or 200 English words a minute.
+export const readingMinutes = (items, language, zhKey = 'textZh', enKey = 'textEn') => {
+  if (language === 'zh') {
+    const chars = items.reduce((sum, item) => sum + (item[zhKey] || item[enKey] || '').length, 0)
+    return Math.max(1, Math.round(chars / 400))
+  }
+  const words = items.reduce((sum, item) => sum + (item[enKey] || item[zhKey] || '').split(/\s+/).filter(Boolean).length, 0)
+  return Math.max(1, Math.round(words / 200))
+}
+
 const sectionBeat = (story, version, section) => ({
   id: section.id,
   headingZh: section.headingZh,
@@ -86,6 +99,7 @@ export const deckFromCard = (card, index) => {
     civilizationEn: card.civilizationName,
     accessLevel: card.accessLevel,
     storyId: card.primaryStoryId,
+    versionId: card.primaryVersionId,
     hookZh: card.hookZh,
     hookEn: card.hookEn,
     beats,

@@ -20,6 +20,7 @@
 
 ## Claims 与证据
 
-尚无 claim；实体仅为发现/索引入口。
+- `claim.v0320.baldr_long.09` [VERIFIED / TEXT_SAYS / 0.90] Hel agrees to release Baldr only if all things in the world, living and dead, weep for him; if any refuses, he stays.
+  - 来源：[Snorri Sturluson, Edda](https://www.vsnrweb-publications.org.uk/Edda-1.pdf)；定位：Gylfaginning 49
 
 > 本档案只代表当前阶段性基线，不是对该传统的最终或唯一解释。

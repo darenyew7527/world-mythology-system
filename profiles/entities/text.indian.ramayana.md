@@ -18,6 +18,7 @@
 
 ## Claims 与证据
 
-尚无 claim；实体仅为发现/索引入口。
+- `claim.v0320.ramayana_griffith.01` [VERIFIED / TEXT_SAYS / 0.90] The opening cantos tell how Vālmīki's grief at a hunter killing a curlew became the first śloka and how Brahmā commanded him to sing the story of Rāma in that metre.
+  - 来源：[The Rámáyan of Válmíki, translated into English verse (R. T. H. Griffith, 1870–1874)](https://www.gutenberg.org/ebooks/24869)；定位：Book I (Bāla Kāṇḍa), opening cantos (Nárad; Brahmá's visit)
 
 > 本档案只代表当前阶段性基线，不是对该传统的最终或唯一解释。

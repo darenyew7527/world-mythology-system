@@ -35,6 +35,22 @@
 
 ## Claims 与证据
 
+- `claim.v0320.demeter_long.03` [VERIFIED / TEXT_SAYS / 0.90] Demeter tears off her headband, puts on a dark cloak and searches the earth for nine days with torches, refusing ambrosia, nectar and bathing.
+  - 来源：[Homeric Hymn 2 to Demeter, Evelyn-White English text](https://scaife.perseus.org/reader/urn%3Acts%3AgreekLit%3Atlg0013.tlg002.perseus-eng2%3A1-135/)；定位：lines 40–50
+- `claim.v0320.demeter_long.05` [VERIFIED / TEXT_SAYS / 0.90] Angry with Zeus, Demeter leaves Olympus, sits disguised as an old woman named Doso at the Maiden Well in Eleusis, and is taken into King Celeus's house as a nurse.
+  - 来源：[Homeric Hymn 2 to Demeter, Evelyn-White English text](https://scaife.perseus.org/reader/urn%3Acts%3AgreekLit%3Atlg0013.tlg002.perseus-eng2%3A1-135/)；定位：lines 90–183
+- `claim.v0320.demeter_long.06` [VERIFIED / TEXT_SAYS / 0.90] Silent with grief in Celeus's house, Demeter is brought to laugh by Iambe's jests and asks for a drink of barley, water and pennyroyal instead of wine.
+  - 来源：[Homeric Hymn 2 to Demeter, Evelyn-White English text](https://scaife.perseus.org/reader/urn%3Acts%3AgreekLit%3Atlg0013.tlg002.perseus-eng2%3A1-135/)；定位：lines 184–211
+- `claim.v0320.demeter_long.07` [VERIFIED / TEXT_SAYS / 0.90] Demeter nurses Demophoon with ambrosia and secretly lays him in the fire at night to make him immortal, until Metaneira sees and cries out.
+  - 来源：[Homeric Hymn 2 to Demeter, Evelyn-White English text](https://scaife.perseus.org/reader/urn%3Acts%3AgreekLit%3Atlg0013.tlg002.perseus-eng2%3A1-135/)；定位：lines 212–255
+- `claim.v0320.demeter_long.08` [VERIFIED / TEXT_SAYS / 0.90] Demeter takes Demophoon from the fire, reveals her divinity, and demands a temple and altar above the Callichorus well where she will teach her rites.
+  - 来源：[Homeric Hymn 2 to Demeter, Evelyn-White English text](https://scaife.perseus.org/reader/urn%3Acts%3AgreekLit%3Atlg0013.tlg002.perseus-eng2%3A1-135/)；定位：lines 256–280
+- `claim.v0320.demeter_long.09` [VERIFIED / TEXT_SAYS / 0.90] Sitting apart in her new Eleusinian temple, Demeter hides the seed so that nothing grows, bringing a famine that threatens humankind and the gods' offerings.
+  - 来源：[Homeric Hymn 2 to Demeter, Evelyn-White English text](https://scaife.perseus.org/reader/urn%3Acts%3AgreekLit%3Atlg0013.tlg002.perseus-eng2%3A1-135/)；定位：lines 281–313
+- `claim.v0320.demeter_long.10` [VERIFIED / TEXT_SAYS / 0.90] Demeter rejects Iris and then all the gods sent by Zeus, vowing not to return to Olympus or let the earth bear fruit until she sees her daughter.
+  - 来源：[Homeric Hymn 2 to Demeter, Evelyn-White English text](https://scaife.perseus.org/reader/urn%3Acts%3AgreekLit%3Atlg0013.tlg002.perseus-eng2%3A1-135/)；定位：lines 314–333
+- `claim.v0320.demeter_long.14` [VERIFIED / TEXT_SAYS / 0.90] Demeter makes the fields bear again and teaches her rites and mysteries to Triptolemus, Diocles, Eumolpus and Celeus before returning to Olympus.
+  - 来源：[Homeric Hymn 2 to Demeter, Evelyn-White English text](https://scaife.perseus.org/reader/urn%3Acts%3AgreekLit%3Atlg0013.tlg002.perseus-eng2%3A1-135/)；定位：lines 470–495
 - `claim.v050.h2.demeter_associated_eleusis` [VERIFIED / TEXT_SAYS / 0.98] Homeric Hymn 2 places Demeter’s arrival and the establishment of rites at Eleusis.
   - 来源：[Homeric Hymn 2 to Demeter, Evelyn-White English text](https://scaife.perseus.org/reader/urn%3Acts%3AgreekLit%3Atlg0013.tlg002.perseus-eng2%3A1-135/)；定位：lines 90-304; 470-480
 - `claim.v050.h2.demeter_participated` [VERIFIED / TEXT_SAYS / 0.99] Demeter searches for Persephone after the abduction in Homeric Hymn 2.

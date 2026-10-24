@@ -28,5 +28,17 @@
   - 来源：[Inana's Descent to the Netherworld](https://etcsl.orinst.ox.ac.uk/section1/tr141.htm)；定位：Composition 1.4.1
 - `claim.v0200.identification_historical` [VERIFIED / SCHOLARLY_INTERPRETATION / 0.98] Modern Assyriological reference treats Inana/Ištar together while preserving the language-specific names.
   - 来源：[Inana/Ištar (goddess)](https://oracc.museum.upenn.edu/amgg/listofdeities/inanaitar/)；定位：Inana/Ištar specialist overview
+- `claim.v0320.inanna_long.01` [VERIFIED / TEXT_SAYS / 0.90] Inana sets her mind on the great below and abandons heaven, earth, her priestly offices and seven temples in seven cities.
+  - 来源：[Inana's Descent to the Netherworld](https://etcsl.orinst.ox.ac.uk/section1/tr141.htm)；定位：ETCSL 1.4.1, lines 1–13
+- `claim.v0320.inanna_long.02` [VERIFIED / TEXT_SAYS / 0.90] Inana takes up the seven divine powers as regalia: crown, wig, lapis beads, egg-shaped beads, pala dress, eye-paint and pectoral, gold ring and measuring rod and line.
+  - 来源：[Inana's Descent to the Netherworld](https://etcsl.orinst.ox.ac.uk/section1/tr141.htm)；定位：ETCSL 1.4.1, lines 14–25
+- `claim.v0320.inanna_long.05` [VERIFIED / TEXT_SAYS / 0.90] At each of the seven gates one of Inana's regalia is removed, and each time she is told to be satisfied, for a divine power of the netherworld has been fulfilled.
+  - 来源：[Inana's Descent to the Netherworld](https://etcsl.orinst.ox.ac.uk/section1/tr141.htm)；定位：ETCSL 1.4.1, lines 128–163
+- `claim.v0320.inanna_long.09` [VERIFIED / TEXT_SAYS / 0.90] Enki's creatures win Ereškigala's gratitude, refuse her gifts, take Inana's corpse from the hook and revive her with the plant and water of life.
+  - 来源：[Inana's Descent to the Netherworld](https://etcsl.orinst.ox.ac.uk/section1/tr141.htm)；定位：ETCSL 1.4.1, lines 254–281
+- `claim.v0320.inanna_long.10` [VERIFIED / TEXT_SAYS / 0.90] The Anuna let Inana ascend only if she provides a substitute, and the galla demons who know no food, drink or gifts go up with her.
+  - 来源：[Inana's Descent to the Netherworld](https://etcsl.orinst.ox.ac.uk/section1/tr141.htm)；定位：ETCSL 1.4.1, lines 282–310
+- `claim.v0320.inanna_long.11` [VERIFIED / TEXT_SAYS / 0.90] Inana refuses to hand Ninšubur, Šara or Lulal to the demons because each mourned for her in dirty garments.
+  - 来源：[Inana's Descent to the Netherworld](https://etcsl.orinst.ox.ac.uk/section1/tr141.htm)；定位：ETCSL 1.4.1, lines 311–347
 
 > 本档案只代表当前阶段性基线，不是对该传统的最终或唯一解释。

@@ -32,5 +32,9 @@
   - 来源：[Gods and goddesses: creation](https://www.ucl.ac.uk/museums-static/digitalegypt/religion/deitiescreation.html)；定位：Gods and goddesses: creation — the Osiris cycle summary
 - `claim.v0310.egypt.seth_kills_osiris` [VERIFIED / TEXT_SAYS / 0.92] In the UCL summary Seth murders and dismembers Osiris and takes his place as king of the world.
   - 来源：[Gods and goddesses: creation](https://www.ucl.ac.uk/museums-static/digitalegypt/religion/deitiescreation.html)；定位：Gods and goddesses: creation — the Osiris cycle summary
+- `claim.v0320.plutarch_osiris.04` [VERIFIED / TEXT_SAYS / 0.90] In Plutarch's account Typhon (Seth) and seventy-two conspirators trap Osiris in a chest made to his measure, seal it with nails and molten lead and send it to the sea by the Tanitic mouth.
+  - 来源：[Plutarch, On Isis and Osiris (tr. F. C. Babbitt, Loeb Moralia V, 1936)](https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Plutarch/Moralia/Isis_and_Osiris*/home.html)；定位：ch. 13
+- `claim.v0320.plutarch_osiris.10` [VERIFIED / TEXT_SAYS / 0.90] In Plutarch's account Typhon (Seth), hunting by moonlight, finds the body of Osiris, tears it into fourteen parts and scatters them; Isis recovers them in a papyrus boat.
+  - 来源：[Plutarch, On Isis and Osiris (tr. F. C. Babbitt, Loeb Moralia V, 1936)](https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Plutarch/Moralia/Isis_and_Osiris*/home.html)；定位：ch. 18
 
 > 本档案只代表当前阶段性基线，不是对该传统的最终或唯一解释。

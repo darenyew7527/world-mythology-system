@@ -27,6 +27,10 @@
 
 ## Claims 与证据
 
+- `claim.v0320.demeter_long.01` [VERIFIED / TEXT_SAYS / 0.90] As Persephone reaches for a narcissus that Earth grew by Zeus's will, the ground opens on the Nysian plain and Hades carries her off in his golden chariot.
+  - 来源：[Homeric Hymn 2 to Demeter, Evelyn-White English text](https://scaife.perseus.org/reader/urn%3Acts%3AgreekLit%3Atlg0013.tlg002.perseus-eng2%3A1-135/)；定位：lines 1–21
+- `claim.v0320.demeter_long.11` [VERIFIED / TEXT_SAYS / 0.90] Obeying Zeus's message brought by Hermes, Hades releases Persephone but secretly gives her a pomegranate seed so that she cannot stay forever with her mother.
+  - 来源：[Homeric Hymn 2 to Demeter, Evelyn-White English text](https://scaife.perseus.org/reader/urn%3Acts%3AgreekLit%3Atlg0013.tlg002.perseus-eng2%3A1-135/)；定位：lines 334–383
 - `claim.v050.h2.hades_participated` [VERIFIED / TEXT_SAYS / 0.99] Hades takes Persephone in Homeric Hymn 2, with Zeus’s consent in this witness.
   - 来源：[Homeric Hymn 2 to Demeter, Evelyn-White English text](https://scaife.perseus.org/reader/urn%3Acts%3AgreekLit%3Atlg0013.tlg002.perseus-eng2%3A1-135/)；定位：lines 1-32
 - `claim.v050.theogony.hades_child_cronus` [VERIFIED / TEXT_SAYS / 0.99] Theogony 453-458 lists Hades among the children of Rhea and Cronus.

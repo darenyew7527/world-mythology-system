@@ -2,7 +2,7 @@
 
 | 中文 | English | 文明／传统 | Type | Versions | Evidence | Minutes |
 |---|---|---|---|---|---|---|
-| [得墨忒耳寻找珀耳塞福涅](story.greek.demeter_persephone.md) | Demeter and Persephone | 古希腊 | UNDERWORLD_JOURNEY | 1 | SOURCE_BACKED | 6 |
+| [得墨忒耳寻找珀耳塞福涅](story.greek.demeter_persephone.md) | Demeter and Persephone | 古希腊 | UNDERWORLD_JOURNEY | 2 | SOURCE_BACKED | 9 |
 | [奥佩特节的公开仪仗路线](story.egyptian.opet_procession.md) | Public route of the Opet procession | 古埃及 | TRADITION_OVERVIEW | 1 | SOURCE_BACKED | 4 |
 | [厄琉息斯大祭的公开进程](story.greek.eleusinia_procession.md) | Public route of the Eleusinian procession | 古希腊 | TRADITION_OVERVIEW | 1 | SOURCE_BACKED | 5 |
 | [赫西俄德笔下的泰坦战争](story.greek.titanomachy.md) | Titanomachy in Hesiod | 古希腊 | DIVINE_COMBAT | 1 | SOURCE_BACKED | 5 |
@@ -14,8 +14,8 @@
 | [索尔寻找被夺走的妙尔尼尔](story.norse.hammer_recovery.md) | Thor recovers Mjolnir | 北欧 | MYTHIC_NARRATIVE | 1 | PARTIAL | 4 |
 | [诸神黄昏见证纲要](story.norse.ragnarok.md) | Ragnarok witness outline | 北欧 | MYTHIC_NARRATIVE | 1 | PARTIAL | 3 |
 | [奥丁与密米尔之泉](story.norse.odin_mimir.md) | Odin and Mimirs well | 北欧 | MYTHIC_NARRATIVE | 1 | SOURCE_BACKED | 3 |
-| [伊南娜下冥界](story.sumerian.inanna_descent.md) | Inanas descent to the netherworld | 苏美尔 | UNDERWORLD_JOURNEY | 1 | PARTIAL | 5 |
-| [马尔杜克与提亚马特](story.babylonian.marduk_tiamat.md) | Marduk and Tiamat | 巴比伦 | DIVINE_COMBAT | 1 | PARTIAL | 3 |
+| [伊南娜下冥界](story.sumerian.inanna_descent.md) | Inanas descent to the netherworld | 苏美尔 | UNDERWORLD_JOURNEY | 2 | PARTIAL | 8 |
+| [马尔杜克与提亚马特](story.babylonian.marduk_tiamat.md) | Marduk and Tiamat | 巴比伦 | DIVINE_COMBAT | 2 | PARTIAL | 9 |
 | [安祖与命运泥板](story.akkadian.anzu_tablet.md) | Anzu and the Tablet of Destinies | 阿卡德 | MYTHIC_NARRATIVE | 1 | SOURCE_BACKED | 4 |
 | [巴力与雅姆之战](story.ugaritic.baal_yamm.md) | Baal and Yamm in KTU 1.2 IV | 乌加里特 | DIVINE_COMBAT | 1 | PARTIAL | 4 |
 | [巴力与穆特的残缺事件序列](story.ugaritic.baal_mot.md) | Baal and Mot in KTU 1.5-1.6 | 乌加里特 | MYTHIC_NARRATIVE | 1 | PARTIAL | 4 |
@@ -40,7 +40,7 @@
 | [提尔的手：束缚芬里尔](story.norse.tyr_fenrir.md) | Týr's hand and the binding of Fenrir | 北欧 | MYTHIC_NARRATIVE | 1 | SOURCE_BACKED | 4 |
 | [海姆达尔：众神的守望者](story.norse.heimdall_watchman.md) | Heimdallr, watchman of the gods | 北欧 | MYTHIC_NARRATIVE | 1 | SOURCE_BACKED | 4 |
 | [尤弥尔与世界的形成](story.norse.ymir_world.md) | Ymir and the shaping of the world | 北欧 | MYTHIC_NARRATIVE | 1 | SOURCE_BACKED | 4 |
-| [弗丽嘉的誓言与巴德尔之死](story.norse.frigg_baldr.md) | Frigg's oaths and the death of Baldr | 北欧 | MYTHIC_NARRATIVE | 1 | SOURCE_BACKED | 4 |
+| [弗丽嘉的誓言与巴德尔之死](story.norse.frigg_baldr.md) | Frigg's oaths and the death of Baldr | 北欧 | MYTHIC_NARRATIVE | 2 | SOURCE_BACKED | 7 |
 | [蛇山上的诞生：维齐洛波奇特利](story.mexica.birth_huitzilopochtli.md) | The birth of Huitzilopochtli on Serpent Mountain | 墨西卡 | DIVINE_COMBAT | 1 | SOURCE_BACKED | 5 |
 | [图拉的羽蛇神与蒂特拉卡瓦](story.mexica.quetzalcoatl_tollan.md) | Quetzalcoatl and Titlacauan at Tollan | 墨西卡 | MYTHIC_NARRATIVE | 1 | SOURCE_BACKED | 4 |
 | [一座金字塔上的两位神：大神庙](story.mexica.templo_mayor_twin_shrines.md) | Two gods on one pyramid — the Templo Mayor | 墨西卡 | TRADITION_OVERVIEW | 1 | SOURCE_BACKED | 3 |
@@ -57,5 +57,13 @@
 | [广阔牧场之主密特拉：《密赫尔颂》](story.zoroastrian.mihr_yasht.md) | Mithra of the wide pastures — the Mihr Yasht | 琐罗亚斯德传统 | TEXT_FRAGMENT | 1 | SOURCE_BACKED | 4 |
 | [十六片良地与它们的灾祸：《万迪达德》第一章](story.zoroastrian.sixteen_lands.md) | Sixteen good lands and their plagues — Videvdad 1 | 琐罗亚斯德传统 | CREATION_ACCOUNT | 1 | SOURCE_BACKED | 4 |
 | [佩蕾的旅程：从卡希基到哈雷茂茂](story.hawaiian.pele_journey.md) | Pele's journey to Halemaʻumaʻu | 夏威夷 | MYTHIC_NARRATIVE | 1 | SOURCE_BACKED | 4 |
+| [美猴王：从石猴出世到大闹天宫](story.chinese.xiyouji_havoc_in_heaven.md) | The Monkey King: from the stone egg to Havoc in Heaven | 中国民间信仰 | DIVINE_COMBAT | 1 | SOURCE_BACKED | 11 |
+| [哪吒闹海：《封神演义》里的莲花化身](story.chinese.fengshen_nezha.md) | Nezha conquers the sea — the lotus rebirth in Investiture of the Gods | 中国民间信仰 | MYTHIC_NARRATIVE | 1 | SOURCE_BACKED | 7 |
+| [神谱：从混沌到宙斯为王](story.greek.theogony_cosmos.md) | The Theogony: from Chaos to the reign of Zeus | 古希腊 | CREATION_ACCOUNT | 1 | SOURCE_BACKED | 12 |
+| [索尔在乌特加尔洛基的城堡](story.norse.thor_utgarda_loki.md) | Thor in the castle of Útgarða-Loki | 北欧 | MYTHIC_NARRATIVE | 1 | SOURCE_BACKED | 8 |
+| [吉尔伽美什史诗：寻找永生的国王](story.babylonian.gilgamesh_epic.md) | The Epic of Gilgamesh: the king who sought eternal life | 巴比伦 | MYTHIC_NARRATIVE | 1 | SOURCE_BACKED | 12 |
+| [奥西里斯与伊西斯：普鲁塔克讲的长篇故事](story.egyptian.osiris_plutarch.md) | Osiris and Isis: the long story as Plutarch told it | 古埃及 | MYTHIC_NARRATIVE | 1 | SOURCE_BACKED | 7 |
+| [天之岩户与八岐大蛇：须佐之男的长篇故事](story.japanese.iwato_orochi.md) | The Rock-Cave Door and the Eight-Forked Serpent: the long story of Susanoo | 日本神道 | MYTHIC_NARRATIVE | 1 | SOURCE_BACKED | 8 |
+| [罗摩衍那：罗摩与悉多的长篇故事](story.hindu.ramayana.md) | The Rāmāyaṇa: the long story of Rāma and Sītā | 印度教传统 | MYTHIC_NARRATIVE | 1 | SOURCE_BACKED | 15 |
 
 另见：[神祇故事集 — 全部神祇的故事，打开即可阅读](deities/index.md)

@@ -8,11 +8,13 @@ The repository contains a reproducible staged knowledge baseline, not a claim of
 
 ## Public preview
 
-> 📖 **Read now**: [Deity story collection (all 184 deities)](profiles/stories/deities/index.md) · [Story dossiers (55 stories)](profiles/stories/index.md) · [Live explorer](https://darenyew7527.github.io/world-mythology-system/?view=deities)
+> 📖 **Read now**: [Deity story collection (all 210 deities)](profiles/stories/deities/index.md) · [Story dossiers (63 stories, 12 long-form)](profiles/stories/index.md) · Long reads: [Rāmāyaṇa](profiles/stories/story.hindu.ramayana.md) · [Gilgamesh](profiles/stories/story.babylonian.gilgamesh_epic.md) · [Havoc in Heaven](profiles/stories/story.chinese.xiyouji_havoc_in_heaven.md) · [Theogony](profiles/stories/story.greek.theogony_cosmos.md) · [Rock-Cave and Serpent](profiles/stories/story.japanese.iwato_orochi.md) · [Live explorer](https://darenyew7527.github.io/world-mythology-system/?view=stories)
 
 The bilingual React explorer provides searchable entities, filters, relationship graphs, claims, evidence locators, sources, coverage, and the permanent research queue. Chinese is the default interface; English can be selected from the header.
 
-Current sealed release: `v0.31.0-deity-stories`.
+Current sealed release: `v0.32.0-long-stories`.
+
+v0.32 makes the stories long. Twelve long-form retellings of 12–20 chapters each follow one located public witness from beginning to end: Vālmīki's Rāmāyaṇa (Books I–VI, 20 chapters), Journey to the West chapters 1–7, Hesiod's Theogony, the Standard Babylonian Gilgamesh (Tablets I–XI), the Kojiki's rock-cave and eight-forked serpent, Nezha in Investiture of the Gods, Thor at Útgarða-Loki's hall, Plutarch on Isis and Osiris, and long versions of the Hymn to Demeter, the death of Baldr, Enūma eliš and Inana's Descent (the short versions stay). Every chapter has its own anchor claim and evidence; the Ming novels and Plutarch stay in the later-reception layer, and Gilgamesh Tablet XII, Rāmāyaṇa Book VII and the passages Plutarch omits are not filled in. Deity cards now carry every chapter of their story, and the reader adds a contents list, next-chapter links, an on-device “continue reading” position and a long-stories filter. See [the v0.32 release notes](RELEASE_NOTES_v0.32.0.md).
 
 v0.31 gives every deity a story to tell. The 54 deities that had no claims now have 26 new source-located stories or evidence cards — from the Heliopolitan family, the Tale of the Heavenly Cow and the weighing of Ani's heart to Izanagi and Izanami, the Vanir, Týr and Fenrir, Huitzilopochtli's birth at Coatepec, Enki and Ninhursaĝa, Fuxi's trigrams, the Yellow Emperor and Chiyou, Pangu in the Sanwu liji, the Second Battle of Mag Tuired, the Kyiv idols, the Mihr Yasht and Videvdad 1, an attributed account of Pele's journey and Te Ara's common threads of Māori creation. Journey to the West stays in the later-reception layer, and Ogun and Olodumare remain permission-limited. The explorer adds a deity-story gallery (184 cards: 111 full stories, 71 evidence cards, 2 permission-limited), a full-screen storyteller mode with keyboard and swipe navigation, a story card in each deity profile, and a readable minimum type size. See [the v0.31 release notes](RELEASE_NOTES_v0.31.0.md).
 
@@ -38,14 +40,14 @@ v0.15 decomposes the statue programme into four editorially numbered hieroglyphi
 
 v0.14 adds Xerxes I, Susa, the Darius Gate, a qualified ancient-transfer reconstruction, the 1972 discovery event and the National Museum of Iran custody layer. Manufacture, transfer interpretation, find context, installation and modern custody remain distinct.
 
-- 726 registered entities / 721 browsable canonical entities
+- 777 registered entities / 772 browsable canonical entities
 - 99 civilizations and traditions
-- 233 source records
-- 892 structured claims and 916 evidence records
-- 639 direct relationship assertions and 35 explicit conflicts
-- 55 readable stories / 64 witness versions / 212 bilingual sections and event nodes / 7 reading routes
-- 184 deity story cards (111 full stories, 71 evidence cards, 2 permission-limited)
-- 3 global-expansion batches / 43 independently audited targets
+- 237 source records
+- 1,065 structured claims and 1,089 evidence records
+- 645 direct relationship assertions and 35 explicit conflicts
+- 63 readable stories (12 long-form, 12–20 chapters each) / 76 witness versions / 385 bilingual sections and event nodes / 7 reading routes
+- 210 deity story cards (149 full stories — 60 of them long-form — 59 evidence cards, 2 permission-limited)
+- 4 global-expansion batches / 55 independently audited targets
 - 10 original-witness profiles / 20 comparison topics / 40 comparison members
 - A bilingual genealogy mode for parents, children, siblings, consorts, and their evidence
 - An evidence-led comparison of Thor, Zeus, Indra, Raijin, Takemikazuchi, Leigong, the Leize thunder spirit, Perun, Ṣàngó, and Ugaritic Baʿlu/Haddu

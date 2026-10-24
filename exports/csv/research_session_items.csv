@@ -575,3 +575,16 @@ session.20261009.v0310_deity_stories,ACCESS_POLICY,policy.v0310.oshun.living_pra
 session.20261009.v0310_deity_stories,ACCESS_POLICY,policy.v0310.ogun.permission,CREATE,PERMISSION_REQUIRED
 session.20261009.v0310_deity_stories,ACCESS_POLICY,policy.v0310.olodumare.permission,CREATE,PERMISSION_REQUIRED
 session.20261009.v0310_deity_stories,RELEASE,release.v0.31.0,SEAL,Formal staged checkpoint: 27 completed story targets and one permission-blocked Yorùbá review.
+session.20261011.v0320_long_stories,STORY,story.chinese.xiyouji_havoc_in_heaven,CREATE,The Monkey King: from the stone egg to Havoc in Heaven
+session.20261011.v0320_long_stories,STORY,story.chinese.fengshen_nezha,CREATE,Nezha conquers the sea — the lotus rebirth in Investiture of the Gods
+session.20261011.v0320_long_stories,STORY,story.greek.theogony_cosmos,CREATE,The Theogony: from Chaos to the reign of Zeus
+session.20261011.v0320_long_stories,STORY,story.norse.thor_utgarda_loki,CREATE,Thor in the castle of Útgarða-Loki
+session.20261011.v0320_long_stories,STORY,story.babylonian.gilgamesh_epic,CREATE,The Epic of Gilgamesh: the king who sought eternal life
+session.20261011.v0320_long_stories,STORY,story.egyptian.osiris_plutarch,CREATE,Osiris and Isis: the long story as Plutarch told it
+session.20261011.v0320_long_stories,STORY,story.japanese.iwato_orochi,CREATE,The Rock-Cave Door and the Eight-Forked Serpent: the long story of Susanoo
+session.20261011.v0320_long_stories,STORY,story.hindu.ramayana,CREATE,The Rāmāyaṇa: the long story of Rāma and Sītā
+session.20261011.v0320_long_stories,STORY_VERSION,storyver.greek.demeter_hymn2_long,CREATE,"Homeric Hymn to Demeter, complete (long retelling)"
+session.20261011.v0320_long_stories,STORY_VERSION,storyver.norse.baldr_gylf_long,CREATE,Gylfaginning 49–50 (long retelling)
+session.20261011.v0320_long_stories,STORY_VERSION,storyver.babylonian.enuma_elish_long,CREATE,"Enūma eliš, Tablets I–VII (long retelling)"
+session.20261011.v0320_long_stories,STORY_VERSION,storyver.sumerian.inanna_etcsl_long,CREATE,"ETCSL 1.4.1, complete (long retelling)"
+session.20261011.v0320_long_stories,RELEASE,release.v0.32.0,SEAL,Formal staged checkpoint: 12 completed long-story targets; no target blocked.

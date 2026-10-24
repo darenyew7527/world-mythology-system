@@ -15,9 +15,11 @@
 | weapon.babylonian.marduk_bow | 马尔杜克之弓 | Bow of Marduk | WEAPON | 巴比伦 | PARTIAL | UNVERIFIED |
 | artifact.babylonian.marduk_net | 马尔杜克之网 | Net of Marduk | ARTIFACT | 巴比伦 | PARTIAL | UNVERIFIED |
 | weapon.arthurian.excalibur | 王者之剑／誓约胜利之剑 | Excalibur | WEAPON | 凯尔特 | PARTIAL | UNVERIFIED |
+| artifact.chinese.linglong_pagoda | 玲珑宝塔 | Golden exquisite pagoda | SACRED_OBJECT | 中国民间信仰 | PARTIAL | SOURCE_BACKED |
 | artifact.chinese.huntian_ling | 混天绫 | Huntian Ling | ARTIFACT | 中国民间信仰 | PARTIAL | UNVERIFIED |
 | artifact.chinese.qiankun_quan | 乾坤圈 | Qiankun Quan | ARTIFACT | 中国民间信仰 | PARTIAL | UNVERIFIED |
 | weapon.chinese.ruyi_jingu_bang | 如意金箍棒 | Ruyi Jingu Bang | WEAPON | 中国民间信仰 | PARTIAL | UNVERIFIED |
+| weapon.chinese.qiankun_quan | 乾坤圈 | Universe Ring (Qiankun quan) | WEAPON | 中国民间信仰 | PARTIAL | SOURCE_BACKED |
 | weapon.chinese.xuanyuan_sword | 轩辕剑相关传统 | Xuanyuan Sword tradition | WEAPON | 中国民间信仰 | NEEDS_REVIEW | UNVERIFIED |
 | artifact.hindu.amrita | 甘露（阿姆利塔） | Amṛta | SACRED_OBJECT | 印度教传统 | PARTIAL | SOURCE_BACKED |
 | weapon.indian.brahmastra | 梵天武器 | Brahmastra | WEAPON | 印度教传统 | PARTIAL | UNVERIFIED |

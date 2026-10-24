@@ -30,5 +30,17 @@
   - 来源：[Mourning Isis](https://www.metmuseum.org/art/collection/search/566487)；定位：Catalogue description
 - `claim.v0310.egypt.isis_restores` [VERIFIED / TEXT_SAYS / 0.92] Isis collects the limbs of Osiris and revives the body enough to conceive a child, Horus.
   - 来源：[Gods and goddesses: creation](https://www.ucl.ac.uk/museums-static/digitalegypt/religion/deitiescreation.html)；定位：Gods and goddesses: creation — the Osiris cycle summary
+- `claim.v0320.plutarch_osiris.05` [VERIFIED / TEXT_SAYS / 0.90] Plutarch says that on hearing of the murder Isis cut a lock of her hair at Coptos, put on mourning and searched everywhere, learning the river mouth from children at play.
+  - 来源：[Plutarch, On Isis and Osiris (tr. F. C. Babbitt, Loeb Moralia V, 1936)](https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Plutarch/Moralia/Isis_and_Osiris*/home.html)；定位：ch. 14
+- `claim.v0320.plutarch_osiris.06` [VERIFIED / TEXT_SAYS / 0.90] In Plutarch's account Isis, guided by dogs, finds and rears the child Nephthys abandoned for fear of Typhon; he becomes her guardian Anubis.
+  - 来源：[Plutarch, On Isis and Osiris (tr. F. C. Babbitt, Loeb Moralia V, 1936)](https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Plutarch/Moralia/Isis_and_Osiris*/home.html)；定位：ch. 14
+- `claim.v0320.plutarch_osiris.07` [VERIFIED / TEXT_SAYS / 0.90] Plutarch tells that the chest lodged in a heather tree at Byblos, which grew around it; the king made the trunk a pillar of his palace, and Isis came to Byblos and sat weeping by a spring.
+  - 来源：[Plutarch, On Isis and Osiris (tr. F. C. Babbitt, Loeb Moralia V, 1936)](https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Plutarch/Moralia/Isis_and_Osiris*/home.html)；定位：ch. 15
+- `claim.v0320.plutarch_osiris.08` [VERIFIED / TEXT_SAYS / 0.90] Plutarch says Isis, as nurse to the Byblian prince, burned away his mortality by night until the queen's cry broke the rite; then she revealed herself and took the coffin from the pillar.
+  - 来源：[Plutarch, On Isis and Osiris (tr. F. C. Babbitt, Loeb Moralia V, 1936)](https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Plutarch/Moralia/Isis_and_Osiris*/home.html)；定位：ch. 16
+- `claim.v0320.plutarch_osiris.09` [VERIFIED / TEXT_SAYS / 0.90] Plutarch describes Isis opening the chest in a solitary place, laying her face on Osiris's face and weeping; the Byblian boy who sees her dies at her look.
+  - 来源：[Plutarch, On Isis and Osiris (tr. F. C. Babbitt, Loeb Moralia V, 1936)](https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Plutarch/Moralia/Isis_and_Osiris*/home.html)；定位：ch. 17
+- `claim.v0320.plutarch_osiris.12` [VERIFIED / TEXT_SAYS / 0.90] Plutarch says Isis released the captured Typhon, Horus tore the diadem from her head, the gods with Hermes' help judged Horus legitimate, and the tomb of Osiris is placed on an inaccessible island near Philae.
+  - 来源：[Plutarch, On Isis and Osiris (tr. F. C. Babbitt, Loeb Moralia V, 1936)](https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Plutarch/Moralia/Isis_and_Osiris*/home.html)；定位：ch. 19–20
 
 > 本档案只代表当前阶段性基线，不是对该传统的最终或唯一解释。

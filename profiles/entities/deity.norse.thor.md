@@ -42,6 +42,24 @@
   - 来源：[Snorri Sturluson, Edda](https://www.vsnrweb-publications.org.uk/Edda-1.pdf)；定位：Skáldskaparmál, tale of the dwarfs' treasures
 - `claim.norse.thor_uses_mjolnir` [VERIFIED / IN_TRADITION / 0.90] Thor uses Mjölnir in the medieval Norse textual tradition.
   - 来源：[Snorri Sturluson, Edda](https://www.vsnrweb-publications.org.uk/Edda-1.pdf)；定位：Skáldskaparmál and Gylfaginning
+- `claim.v0320.baldr_long.12` [VERIFIED / TEXT_SAYS / 0.90] When Loki, as a salmon, tries to leap over the gods' net in the Fránangr falls, Thor catches him by the tail.
+  - 来源：[Snorri Sturluson, Edda](https://www.vsnrweb-publications.org.uk/Edda-1.pdf)；定位：Gylfaginning 50
+- `claim.v0320.thor_utgard.01` [VERIFIED / TEXT_SAYS / 0.90] Thor raises his slaughtered goats with Mjöllnir; finding one lame because Þjálfi split its bone, he takes Þjálfi and Röskva as servants.
+  - 来源：[Snorri Sturluson, Edda](https://www.vsnrweb-publications.org.uk/Edda-1.pdf)；定位：Gylfaginning 44
+- `claim.v0320.thor_utgard.02` [VERIFIED / TEXT_SAYS / 0.90] Travelling into Jötunheimr, Thor and his companions spend a night in what proves to be the glove of the giant Skrýmir.
+  - 来源：[Snorri Sturluson, Edda](https://www.vsnrweb-publications.org.uk/Edda-1.pdf)；定位：Gylfaginning 45
+- `claim.v0320.thor_utgard.03` [VERIFIED / TEXT_SAYS / 0.90] Thor cannot untie Skrýmir's provision bag and strikes the sleeping giant three times with his hammer, but the giant only asks whether a leaf, an acorn or bird droppings fell on him.
+  - 来源：[Snorri Sturluson, Edda](https://www.vsnrweb-publications.org.uk/Edda-1.pdf)；定位：Gylfaginning 45
+- `claim.v0320.thor_utgard.07` [VERIFIED / TEXT_SAYS / 0.90] Thor drinks three mighty draughts from Útgarða-Loki's penalty horn but cannot empty it.
+  - 来源：[Snorri Sturluson, Edda](https://www.vsnrweb-publications.org.uk/Edda-1.pdf)；定位：Gylfaginning 46
+- `claim.v0320.thor_utgard.08` [VERIFIED / TEXT_SAYS / 0.90] Straining his utmost, Thor manages to lift only one paw of Útgarða-Loki's grey cat from the floor.
+  - 来源：[Snorri Sturluson, Edda](https://www.vsnrweb-publications.org.uk/Edda-1.pdf)；定位：Gylfaginning 46
+- `claim.v0320.thor_utgard.09` [VERIFIED / TEXT_SAYS / 0.90] Thor wrestles Útgarða-Loki's old nurse Elli and is forced down onto one knee.
+  - 来源：[Snorri Sturluson, Edda](https://www.vsnrweb-publications.org.uk/Edda-1.pdf)；定位：Gylfaginning 46
+- `claim.v0320.thor_utgard.11` [VERIFIED / TEXT_SAYS / 0.90] When Thor raises his hammer, Útgarða-Loki and his stronghold vanish, leaving only open plains; Thor resolves to meet the Midgard Serpent again.
+  - 来源：[Snorri Sturluson, Edda](https://www.vsnrweb-publications.org.uk/Edda-1.pdf)；定位：Gylfaginning 47
+- `claim.v0320.thor_utgard.12` [VERIFIED / TEXT_SAYS / 0.90] Fishing with the giant Hymir using an ox head for bait, Thor hooks the Midgard Serpent and hauls it to the boat before Hymir cuts the line.
+  - 来源：[Snorri Sturluson, Edda](https://www.vsnrweb-publications.org.uk/Edda-1.pdf)；定位：Gylfaginning 48
 - `claim.v060.norse.thor_appears_thrymskvida` [VERIFIED / TEXT_SAYS / 0.99] Thor is the central hammer-seeking figure in Thrymskvida.
   - 来源：[Codex Regius electronic edition](https://eae.ku.dk/q?p=eae/vols/text/1)；定位：stanzas 1-32
 - `claim.v060.norse.thor_child_jord` [VERIFIED / TEXT_SAYS / 0.99] Skaldskaparmal names Thor as a son of Jord.

@@ -574,3 +574,16 @@
 {"action":"CREATE","item_id":"policy.v0310.ogun.permission","item_kind":"ACCESS_POLICY","result":"PERMISSION_REQUIRED","session_id":"session.20261009.v0310_deity_stories"}
 {"action":"CREATE","item_id":"policy.v0310.olodumare.permission","item_kind":"ACCESS_POLICY","result":"PERMISSION_REQUIRED","session_id":"session.20261009.v0310_deity_stories"}
 {"action":"SEAL","item_id":"release.v0.31.0","item_kind":"RELEASE","result":"Formal staged checkpoint: 27 completed story targets and one permission-blocked Yorùbá review.","session_id":"session.20261009.v0310_deity_stories"}
+{"action":"CREATE","item_id":"story.chinese.xiyouji_havoc_in_heaven","item_kind":"STORY","result":"The Monkey King: from the stone egg to Havoc in Heaven","session_id":"session.20261011.v0320_long_stories"}
+{"action":"CREATE","item_id":"story.chinese.fengshen_nezha","item_kind":"STORY","result":"Nezha conquers the sea — the lotus rebirth in Investiture of the Gods","session_id":"session.20261011.v0320_long_stories"}
+{"action":"CREATE","item_id":"story.greek.theogony_cosmos","item_kind":"STORY","result":"The Theogony: from Chaos to the reign of Zeus","session_id":"session.20261011.v0320_long_stories"}
+{"action":"CREATE","item_id":"story.norse.thor_utgarda_loki","item_kind":"STORY","result":"Thor in the castle of Útgarða-Loki","session_id":"session.20261011.v0320_long_stories"}
+{"action":"CREATE","item_id":"story.babylonian.gilgamesh_epic","item_kind":"STORY","result":"The Epic of Gilgamesh: the king who sought eternal life","session_id":"session.20261011.v0320_long_stories"}
+{"action":"CREATE","item_id":"story.egyptian.osiris_plutarch","item_kind":"STORY","result":"Osiris and Isis: the long story as Plutarch told it","session_id":"session.20261011.v0320_long_stories"}
+{"action":"CREATE","item_id":"story.japanese.iwato_orochi","item_kind":"STORY","result":"The Rock-Cave Door and the Eight-Forked Serpent: the long story of Susanoo","session_id":"session.20261011.v0320_long_stories"}
+{"action":"CREATE","item_id":"story.hindu.ramayana","item_kind":"STORY","result":"The Rāmāyaṇa: the long story of Rāma and Sītā","session_id":"session.20261011.v0320_long_stories"}
+{"action":"CREATE","item_id":"storyver.greek.demeter_hymn2_long","item_kind":"STORY_VERSION","result":"Homeric Hymn to Demeter, complete (long retelling)","session_id":"session.20261011.v0320_long_stories"}
+{"action":"CREATE","item_id":"storyver.norse.baldr_gylf_long","item_kind":"STORY_VERSION","result":"Gylfaginning 49–50 (long retelling)","session_id":"session.20261011.v0320_long_stories"}
+{"action":"CREATE","item_id":"storyver.babylonian.enuma_elish_long","item_kind":"STORY_VERSION","result":"Enūma eliš, Tablets I–VII (long retelling)","session_id":"session.20261011.v0320_long_stories"}
+{"action":"CREATE","item_id":"storyver.sumerian.inanna_etcsl_long","item_kind":"STORY_VERSION","result":"ETCSL 1.4.1, complete (long retelling)","session_id":"session.20261011.v0320_long_stories"}
+{"action":"SEAL","item_id":"release.v0.32.0","item_kind":"RELEASE","result":"Formal staged checkpoint: 12 completed long-story targets; no target blocked.","session_id":"session.20261011.v0320_long_stories"}

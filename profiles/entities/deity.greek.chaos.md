@@ -26,6 +26,8 @@ The first named cosmogonic condition or being in Hesiod’s Theogony; its ontolo
 
 ## Claims 与证据
 
+- `claim.v0320.theogony.02` [VERIFIED / TEXT_SAYS / 0.90] In the Theogony Chaos comes to be first, followed by Earth, Tartarus and Eros; Earth then bears starry Heaven, the hills and the sea.
+  - 来源：[Hesiod, Theogony, Evelyn-White English text](https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0130)；定位：lines 116–132
 - `claim.v040.chaos.mentioned_theogony` [VERIFIED / TEXT_SAYS / 0.99] Theogony names Chaos first and later names Nyx and Erebus as arising from it.
   - 来源：[Hesiod, Theogony, Evelyn-White English text](https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0130)；定位：Theogony 116-125
 

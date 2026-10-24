@@ -24,6 +24,7 @@ Mythic underworld depth and personified progenitor in some Greek genealogical pa
 
 ## Claims 与证据
 
-尚无 claim；实体仅为发现/索引入口。
+- `claim.v0320.theogony.14` [VERIFIED / TEXT_SAYS / 0.90] Hesiod places Tartarus as far below the earth as heaven is above, a bronze anvil falling nine days to reach it, with the houses of Night, Sleep, Death, Hades and Styx nearby.
+  - 来源：[Hesiod, Theogony, Evelyn-White English text](https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0130)；定位：lines 722–819
 
 > 本档案只代表当前阶段性基线，不是对该传统的最终或唯一解释。
