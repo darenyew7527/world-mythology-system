@@ -27,6 +27,7 @@
 | `CHILD_OF` | 约尔德／大地女神 (`deity.norse.jord`) | VERIFIED / TEXT_SAYS / TEXTUAL_WITNESS | 1 | 0.99 | stored claim; `claim.v060.norse.thor_child_jord` |
 | `CHILD_OF` | 奥丁 (`deity.norse.odin`) | VERIFIED / TEXT_SAYS / TEXTUAL_WITNESS | 1 | 0.99 | stored claim; `claim.v060.norse.thor_child_odin` |
 | `CONSORT_OF` | 希芙 (`deity.norse.sif`) | VERIFIED / TEXT_SAYS / TEXTUAL_WITNESS | 1 | 0.99 | stored claim; `claim.v060.norse.thor_consort_sif` |
+| `KILLED` | 赫朗格尼尔 (`giant.norse.hrungnir`) | VERIFIED / TEXT_SAYS / MYTHIC_NARRATIVE | 1 | 0.90 | stored claim; `claim.v0360.skald_hrungnir.08` |
 | `OWNS` | 妙尔尼尔 (`weapon.norse.mjolnir`) | VERIFIED / IN_TRADITION / MYTHIC_NARRATIVE | 1 | 0.90 | stored claim; `claim.norse.thor_owns_mjolnir` |
 | `PARENT_OF` | 马格尼 (`deity.norse.magni`) | VERIFIED / TEXT_SAYS / TEXTUAL_WITNESS | 1 | 0.99 | stored claim; `claim.v060.norse.thor_parent_magni` |
 | `PARENT_OF` | 莫迪 (`deity.norse.modi`) | VERIFIED / TEXT_SAYS / TEXTUAL_WITNESS | 1 | 0.99 | stored claim; `claim.v060.norse.thor_parent_modi` |
@@ -62,6 +63,16 @@
   - 来源：[Snorri Sturluson, Edda](https://www.vsnrweb-publications.org.uk/Edda-1.pdf)；定位：Gylfaginning 48
 - `claim.v0340.ragnarok.07` [VERIFIED / TEXT_SAYS / 0.90] In Gylfaginning 51 Garmr and Týr kill each other, and Thor kills the Midgard serpent but steps away only nine paces before falling dead from its poison.
   - 来源：[Snorri Sturluson, Edda](https://www.vsnrweb-publications.org.uk/Edda-1.pdf)；定位：Gylfaginning 51
+- `claim.v0360.skald_hrungnir.04` [VERIFIED / TEXT_SAYS / 0.90] Snorri's Edda, Skáldskaparmál 17, says that when the gods called on Thor he came into the hall with his hammer raised, and that Hrungnir, unarmed and under Óðinn's protection, challenged him to single combat at Grjótúnagarðar, the first challenge Thor had ever received.
+  - 来源：[Snorri Sturluson: Edda. Skáldskaparmál](https://vsnr.org/editions/snorri-sturluson-edda-skaldskaparmal/)；定位：Skáldskaparmál 17
+- `claim.v0360.skald_hrungnir.08` [VERIFIED / TEXT_SAYS / 0.90] Snorri's Edda, Skáldskaparmál 17, says that Thor's hammer and Hrungnir's whetstone met in the air, that one piece of the whetstone, from which whetstone rocks come, fell to earth and the other struck Thor's head, and that Mjölnir shattered Hrungnir's skull so that he fell with his leg across Thor's neck.
+  - 来源：[Snorri Sturluson: Edda. Skáldskaparmál](https://vsnr.org/editions/snorri-sturluson-edda-skaldskaparmal/)；定位：Skáldskaparmál 17
+- `claim.v0360.skald_hrungnir.11` [VERIFIED / TEXT_SAYS / 0.90] Snorri's Edda, Skáldskaparmál 17, says that Thor went home to Þrúðvangar with the whetstone in his head, and that the seeress Gróa, wife of Aurvandill the Bold, chanted spells over him until it began to work loose.
+  - 来源：[Snorri Sturluson: Edda. Skáldskaparmál](https://vsnr.org/editions/snorri-sturluson-edda-skaldskaparmal/)；定位：Skáldskaparmál 17
+- `claim.v0360.skald_hrungnir.12` [VERIFIED / TEXT_SAYS / 0.90] Snorri's Edda, Skáldskaparmál 17, says that Thor told Gróa he had carried Aurvandill out of Jötunheimr in a basket and made his frozen toe into a star, that Gróa in her joy forgot her spells, and that the whetstone stayed in Thor's head, so that whetstones must not be thrown across the floor.
+  - 来源：[Snorri Sturluson: Edda. Skáldskaparmál](https://vsnr.org/editions/snorri-sturluson-edda-skaldskaparmal/)；定位：Skáldskaparmál 17
+- `claim.v0360.skald_sif.03` [VERIFIED / TEXT_SAYS / 0.90] Snorri's Edda, Skáldskaparmál 35, says that when Thor caught Loki he would have broken every bone in him, until Loki swore to get the black elves to make Sif hair of gold that would grow like other hair.
+  - 来源：[Snorri Sturluson: Edda. Skáldskaparmál](https://vsnr.org/editions/snorri-sturluson-edda-skaldskaparmal/)；定位：Skáldskaparmál 35
 - `claim.v060.norse.thor_appears_thrymskvida` [VERIFIED / TEXT_SAYS / 0.99] Thor is the central hammer-seeking figure in Thrymskvida.
   - 来源：[Codex Regius electronic edition](https://eae.ku.dk/q?p=eae/vols/text/1)；定位：stanzas 1-32
 - `claim.v060.norse.thor_child_jord` [VERIFIED / TEXT_SAYS / 0.99] Skaldskaparmal names Thor as a son of Jord.

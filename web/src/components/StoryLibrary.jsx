@@ -9,7 +9,7 @@ import SeriesShelf, { READER_TOP_ID, SeriesBar, SeriesNext } from './StorySeries
 
 const ui = {
   zh: {
-    eyebrow: 'v0.35 · 世界史诗连载与长篇阅读',
+    eyebrow: 'v0.36 · 神祇故事与长篇阅读',
     title: '神话故事阅读库',
     intro: '从永久队列逐项扩张可公开、可回溯的故事见证；活态传统先过权限门禁，单项目受阻不影响其他目标继续。',
     search: '搜索故事、人物、神器或主题…',
@@ -68,7 +68,7 @@ const ui = {
     textLength: (n) => `约 ${Math.round(n / 100) / 10} 千字`,
   },
   en: {
-    eyebrow: 'v0.35 · World-epic series and long-form reading',
+    eyebrow: 'v0.36 · Deity stories and long-form reading',
     title: 'Myth Story Library',
     intro: 'Expand public, traceable story witnesses from the permanent queue; living traditions pass permission gates first, and one blocked target never stops the rest.',
     search: 'Search stories, people, artifacts, or themes…',

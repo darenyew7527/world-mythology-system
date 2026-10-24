@@ -28,6 +28,14 @@
 
 ## Claims 与证据
 
+- `claim.v0360.hatshepsut_birth.01` [VERIFIED / TEXT_SAYS / 0.90] The divine birth cycle of Hatshepsut at Deir el-Bahari opens with Amun-Re enthroned before the assembled gods, announcing his intention to beget a future ruler of the Two Lands.
+  - 来源：[Divine birth cycle of Hatshepsut, Deir el-Bahari: Thesaurus Linguae Aegyptiae scene texts (after Brunner's numbering)](https://thesaurus-linguae-aegyptiae.de/text/HT6VX6MTDFA23BCFLNEKOTHO2I)；定位：Deir el-Bahari, middle colonnade (north), birth cycle: the council of the gods
+- `claim.v0360.hatshepsut_birth.04` [VERIFIED / TEXT_SAYS / 0.90] The divine birth cycle at Deir el-Bahari shows Amun, in the form of Thutmose I, coming to Queen Ahmose, who wakes at his fragrance and sees him in his divine form, and Amun naming the daughter he has placed in her body Khenemet-Amun Hatshepsut.
+  - 来源：[Divine birth cycle of Hatshepsut, Deir el-Bahari: Thesaurus Linguae Aegyptiae scene texts (after Brunner's numbering)](https://thesaurus-linguae-aegyptiae.de/text/HT6VX6MTDFA23BCFLNEKOTHO2I)；定位：Deir el-Bahari, middle colonnade (north), birth cycle: the union of Amun and Ahmose
+- `claim.v0360.hatshepsut_birth.10` [VERIFIED / TEXT_SAYS / 0.90] The divine birth cycle at Deir el-Bahari shows Hathor presenting the newborn to Amun, who greets her as his daughter, beloved Maatkare, the king who takes possession of the Two Lands on the throne of Horus for ever.
+  - 来源：[Divine birth cycle of Hatshepsut, Deir el-Bahari: Thesaurus Linguae Aegyptiae scene texts (after Brunner's numbering)](https://thesaurus-linguae-aegyptiae.de/text/HT6VX6MTDFA23BCFLNEKOTHO2I)；定位：Deir el-Bahari, middle colonnade (north), birth cycle: Hathor presents the child to Amun
+- `claim.v0360.hatshepsut_birth.12` [VERIFIED / TEXT_SAYS / 0.90] The divine birth cycle at Deir el-Bahari shows Thoth presenting Hatshepsut and her ka to Amun (Brunner's scene 14) and the gods fixing the child's lifetime (scene 15).
+  - 来源：[Divine birth cycle of Hatshepsut, Deir el-Bahari: Thesaurus Linguae Aegyptiae scene texts (after Brunner's numbering)](https://thesaurus-linguae-aegyptiae.de/text/HT6VX6MTDFA23BCFLNEKOTHO2I)；定位：Deir el-Bahari, middle colonnade (north), birth cycle: Thoth presents the child and her ka to Amun (scene 14); the gods fix her lifetime (scene 15)
 - `claim.v070.egypt.amun_ra_abu_simbel` [VERIFIED / HISTORICAL_REALITY / 0.99] The official Abu Simbel record identifies Amun-Ra among the four seated sanctuary figures.
   - 来源：[Abu Simbel](https://egymonuments.gov.eg/archaeological-sites/abu-simbel/)；定位：Sanctuary
 - `claim.v070.egypt.amun_ra_component_amun` [VERIFIED / SCHOLARLY_INTERPRETATION / 0.97] Amun-Ra is registered as a syncretized expression involving Amun; the Amun entity remains independent.

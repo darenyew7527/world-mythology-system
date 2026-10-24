@@ -56,6 +56,8 @@ story.chinese.huangdi_chiyou,storyver.chinese.zhuolu_shiji,hero.chinese.yellow_e
 story.chinese.huangdi_chiyou,storyver.chinese.zhuolu_shiji,hero.chinese.chiyou,CHARACTER,20,Rebel
 story.chinese.huangdi_chiyou,storyver.chinese.zhuolu_shiji,event.chinese.battle_of_zhuolu,EVENT,30,Battle
 story.chinese.huangdi_chiyou,storyver.chinese.zhuolu_shiji,text.chinese.shiji_ancient,TEXT,40,Witness
+story.chinese.leigong_leixu,storyver.chinese.lunheng_leixu,deity.chinese.leigong,CHARACTER,10,The thunder god of Han belief and painting
+story.chinese.leigong_leixu,storyver.chinese.lunheng_leixu,text.chinese.lunheng,TEXT,20,Lunheng
 story.chinese.leize_thunder,storyver.chinese.leize_shanhaijing,deity.chinese.leize_thunder_spirit,CHARACTER,10,Derived from an explicitly linked story claim subject.
 story.chinese.leize_thunder,storyver.chinese.leize_shanhaijing,concept.comparative.thunder,RELATED,20,Derived from an explicitly linked story claim object.
 story.chinese.leize_thunder,storyver.chinese.leize_shanhaijing,text.chinese.shanhaijing,TEXT,20,Derived from an explicitly linked story claim object.
@@ -155,6 +157,23 @@ story.chinese.xiyouji_white_bone,storyver.chinese.xiyouji_ch27_31,demon.chinese.
 story.chinese.xiyouji_white_bone,storyver.chinese.xiyouji_ch27_31,artifact.chinese.golden_fillet,ARTIFACT,80,Fillet
 story.chinese.xiyouji_white_bone,storyver.chinese.xiyouji_ch27_31,place.chinese.huaguo_shan,PLACE,90,Wukong's home
 story.chinese.xiyouji_white_bone,storyver.chinese.xiyouji_ch27_31,text.chinese.xiyouji,TEXT,100,Novel
+story.egyptian.bentresh_khonsu,storyver.egyptian.bentresh_stela_louvre_c284,deity.egyptian.khonsu,CHARACTER,10,Khonsu-in-Thebes-Neferhotep and Khonsu-the-Provider
+story.egyptian.bentresh_khonsu,storyver.egyptian.bentresh_stela_louvre_c284,historical.egyptian.ramesses_ii,CHARACTER,20,The king of the tale
+story.egyptian.bentresh_khonsu,storyver.egyptian.bentresh_stela_louvre_c284,person.egyptian.bentresh,CHARACTER,30,The possessed princess
+story.egyptian.bentresh_khonsu,storyver.egyptian.bentresh_stela_louvre_c284,deity.egyptian.amun_ra,CHARACTER,40,Lord of Thebes
+story.egyptian.bentresh_khonsu,storyver.egyptian.bentresh_stela_louvre_c284,festival.egyptian.opet,EVENT,50,Feast of Southern Ipet
+story.egyptian.bentresh_khonsu,storyver.egyptian.bentresh_stela_louvre_c284,site.egypt.karnak,PLACE,60,Thebes
+story.egyptian.bentresh_khonsu,storyver.egyptian.bentresh_stela_louvre_c284,text.egypt.bentresh_stela,TEXT,70,Bentresh Stela
+story.egyptian.hatshepsut_divine_birth,storyver.egyptian.deir_el_bahari_birth_cycle,deity.egyptian.amun_ra,CHARACTER,10,Divine father
+story.egyptian.hatshepsut_divine_birth,storyver.egyptian.deir_el_bahari_birth_cycle,deity.egyptian.amun,CHARACTER,20,Amun
+story.egyptian.hatshepsut_divine_birth,storyver.egyptian.deir_el_bahari_birth_cycle,deity.egyptian.thoth,CHARACTER,30,Messenger and scribe
+story.egyptian.hatshepsut_divine_birth,storyver.egyptian.deir_el_bahari_birth_cycle,historical.egyptian.ahmose_queen,CHARACTER,40,Mother
+story.egyptian.hatshepsut_divine_birth,storyver.egyptian.deir_el_bahari_birth_cycle,historical.egyptian.thutmose_i,CHARACTER,50,Form taken by the god
+story.egyptian.hatshepsut_divine_birth,storyver.egyptian.deir_el_bahari_birth_cycle,deity.egyptian.khnum,CHARACTER,60,Potter of the child
+story.egyptian.hatshepsut_divine_birth,storyver.egyptian.deir_el_bahari_birth_cycle,deity.egyptian.heqet,CHARACTER,70,Birth goddess
+story.egyptian.hatshepsut_divine_birth,storyver.egyptian.deir_el_bahari_birth_cycle,deity.egyptian.hathor,CHARACTER,80,Presents and nurses the child
+story.egyptian.hatshepsut_divine_birth,storyver.egyptian.deir_el_bahari_birth_cycle,historical.egyptian.hatshepsut,CHARACTER,90,The divine child
+story.egyptian.hatshepsut_divine_birth,storyver.egyptian.deir_el_bahari_birth_cycle,text.egypt.hatshepsut_birth_cycle,TEXT,100,Birth cycle
 story.egyptian.heavenly_cow,storyver.egyptian.heavenly_cow_ucl,deity.egyptian.ra,CHARACTER,10,Sun-god
 story.egyptian.heavenly_cow,storyver.egyptian.heavenly_cow_ucl,deity.egyptian.sekhmet,CHARACTER,20,Eye of Ra
 story.egyptian.heavenly_cow,storyver.egyptian.heavenly_cow_ucl,deity.egyptian.hathor,CHARACTER,30,Gentle form
@@ -171,6 +190,17 @@ story.egyptian.heliopolitan_family,storyver.egyptian.heliopolis_ucl,deity.egypti
 story.egyptian.heliopolitan_family,storyver.egyptian.heliopolis_ucl,deity.egyptian.horus,CHARACTER,90,Child
 story.egyptian.heliopolitan_family,storyver.egyptian.heliopolis_ucl,event.egyptian.separation_geb_nut,EVENT,100,Separation
 story.egyptian.heliopolitan_family,storyver.egyptian.heliopolis_ucl,event.egyptian.osiris_murder_restoration,EVENT,110,Osiris cycle
+story.egyptian.memphite_theology,storyver.egyptian.shabaka_stone_memphite,deity.egyptian.ptah,CHARACTER,10,Creator by heart and tongue
+story.egyptian.memphite_theology,storyver.egyptian.shabaka_stone_memphite,deity.egyptian.atum,CHARACTER,20,Created by Ptah
+story.egyptian.memphite_theology,storyver.egyptian.shabaka_stone_memphite,deity.egyptian.geb,CHARACTER,30,Judge of Horus and Seth
+story.egyptian.memphite_theology,storyver.egyptian.shabaka_stone_memphite,deity.egyptian.horus,CHARACTER,40,King of the united land
+story.egyptian.memphite_theology,storyver.egyptian.shabaka_stone_memphite,deity.egyptian.seth,CHARACTER,50,Rival of Horus
+story.egyptian.memphite_theology,storyver.egyptian.shabaka_stone_memphite,deity.egyptian.osiris,CHARACTER,60,The drowned god
+story.egyptian.memphite_theology,storyver.egyptian.shabaka_stone_memphite,deity.egyptian.isis,CHARACTER,70,Rescues Osiris
+story.egyptian.memphite_theology,storyver.egyptian.shabaka_stone_memphite,deity.egyptian.nephthys,CHARACTER,80,Rescues Osiris
+story.egyptian.memphite_theology,storyver.egyptian.shabaka_stone_memphite,deity.egyptian.thoth,CHARACTER,90,Takes shape as Ptah's tongue
+story.egyptian.memphite_theology,storyver.egyptian.shabaka_stone_memphite,historical.egyptian.shabaka,CHARACTER,100,Copyist king
+story.egyptian.memphite_theology,storyver.egyptian.shabaka_stone_memphite,text.egypt.memphite_theology,TEXT,110,Memphite Theology
 story.egyptian.mourning_sisters,storyver.egyptian.mourning_sisters_met,deity.egyptian.nephthys,CHARACTER,10,Mourner
 story.egyptian.mourning_sisters,storyver.egyptian.mourning_sisters_met,deity.egyptian.isis,CHARACTER,20,Mourner
 story.egyptian.mourning_sisters,storyver.egyptian.mourning_sisters_met,deity.egyptian.osiris,CHARACTER,30,Mourned
@@ -196,6 +226,12 @@ story.egyptian.solar_night,storyver.egyptian.solar_met,event.egyptian.nocturnal_
 story.egyptian.solar_night,storyver.egyptian.solar_met,deity.egyptian.ra,CHARACTER,10,Derived from an explicitly linked story claim subject.
 story.egyptian.solar_night,storyver.egyptian.solar_met,text.egypt.amduat,TEXT,20,Derived from an explicitly linked story claim object.
 story.egyptian.solar_night,storyver.egyptian.solar_met,artifact.egyptian.solar_barque,RELATED,20,Derived from an explicitly linked story claim object.
+story.egyptian.two_brothers,storyver.egyptian.dorbiney_two_brothers,hero.egyptian.anpu,CHARACTER,10,Elder brother
+story.egyptian.two_brothers,storyver.egyptian.dorbiney_two_brothers,hero.egyptian.bata,CHARACTER,20,Younger brother
+story.egyptian.two_brothers,storyver.egyptian.dorbiney_two_brothers,deity.egyptian.ra_horakhty,CHARACTER,30,"Pre-Harakhti, judge of the just"
+story.egyptian.two_brothers,storyver.egyptian.dorbiney_two_brothers,deity.egyptian.khnum,CHARACTER,40,Fashions Bata's wife
+story.egyptian.two_brothers,storyver.egyptian.dorbiney_two_brothers,deity.egyptian.hathor,CHARACTER,50,The Seven Hathors
+story.egyptian.two_brothers,storyver.egyptian.dorbiney_two_brothers,text.egypt.two_brothers,TEXT,60,Tale of Two Brothers
 story.egyptian.weighing_heart_ani,storyver.egyptian.weighing_ani_bm,museum.egypt.papyrus_ani_frame3,ARTIFACT,10,Papyrus frame
 story.egyptian.weighing_heart_ani,storyver.egyptian.weighing_ani_bm,deity.egyptian.anubis,CHARACTER,20,Tends the balance
 story.egyptian.weighing_heart_ani,storyver.egyptian.weighing_ani_bm,deity.egyptian.thoth,CHARACTER,30,Scribe
@@ -245,6 +281,16 @@ story.greek.aphrodite_origins,storyver.greek.aphrodite_iliad,deity.greek.aphrodi
 story.greek.aphrodite_origins,storyver.greek.aphrodite_iliad,deity.greek.dione,CHARACTER,10,Derived from an explicitly linked story claim subject.
 story.greek.aphrodite_origins,storyver.greek.aphrodite_iliad,deity.greek.zeus,CHARACTER,20,Derived from an explicitly linked story claim object.
 story.greek.aphrodite_origins,storyver.greek.aphrodite_iliad,text.greek.iliad,RELATED,20,Derived from an explicitly linked story claim object.
+story.greek.ares_iliad,storyver.greek.iliad_butler_ares,deity.greek.ares,CHARACTER,10,God of war
+story.greek.ares_iliad,storyver.greek.iliad_butler_ares,deity.greek.athena,CHARACTER,20,Adversary
+story.greek.ares_iliad,storyver.greek.iliad_butler_ares,deity.greek.aphrodite,CHARACTER,30,Ally
+story.greek.ares_iliad,storyver.greek.iliad_butler_ares,deity.greek.apollo,CHARACTER,40,Rouses Ares
+story.greek.ares_iliad,storyver.greek.iliad_butler_ares,deity.greek.hera,CHARACTER,50,Mother
+story.greek.ares_iliad,storyver.greek.iliad_butler_ares,deity.greek.zeus,CHARACTER,60,Father
+story.greek.ares_iliad,storyver.greek.iliad_butler_ares,deity.greek.hermes,CHARACTER,70,Rescuer from the jar
+story.greek.ares_iliad,storyver.greek.iliad_butler_ares,deity.greek.dione,CHARACTER,80,Tells of the jar
+story.greek.ares_iliad,storyver.greek.iliad_butler_ares,hero.greek.diomedes,CHARACTER,90,Wounds Ares
+story.greek.ares_iliad,storyver.greek.iliad_butler_ares,text.greek.iliad,TEXT,100,Iliad
 story.greek.argonautica_fleece_return,storyver.greek.argonautica_seaton_3_4,hero.greek.jason,CHARACTER,10,Leader
 story.greek.argonautica_fleece_return,storyver.greek.argonautica_seaton_3_4,artifact.greek.argo,ARTIFACT,20,Ship
 story.greek.argonautica_fleece_return,storyver.greek.argonautica_seaton_3_4,artifact.greek.golden_fleece,ARTIFACT,30,Quest
@@ -278,6 +324,19 @@ story.greek.argonautica_outward,storyver.greek.argonautica_seaton_1_2,hero.greek
 story.greek.argonautica_outward,storyver.greek.argonautica_seaton_1_2,hero.greek.phineus,CHARACTER,150,Seer
 story.greek.argonautica_outward,storyver.greek.argonautica_seaton_1_2,creature.greek.harpies,CHARACTER,160,Tormentors
 story.greek.argonautica_outward,storyver.greek.argonautica_seaton_1_2,deity.greek.apollo,CHARACTER,170,Epiphany
+story.greek.artemis_library,storyver.greek.library_artemis,deity.greek.artemis,CHARACTER,10,Huntress
+story.greek.artemis_library,storyver.greek.library_artemis,deity.greek.leto,CHARACTER,20,Mother
+story.greek.artemis_library,storyver.greek.library_artemis,deity.greek.apollo,CHARACTER,30,Twin brother
+story.greek.artemis_library,storyver.greek.library_artemis,deity.greek.eos,CHARACTER,40,Lover of Orion
+story.greek.artemis_library,storyver.greek.library_artemis,hero.greek.orion,CHARACTER,50,Hunter
+story.greek.artemis_library,storyver.greek.library_artemis,hero.greek.heracles,CHARACTER,60,Hunter of the hind
+story.greek.artemis_library,storyver.greek.library_artemis,hero.greek.actaeon,CHARACTER,70,Hunter
+story.greek.artemis_library,storyver.greek.library_artemis,hero.greek.niobe,CHARACTER,80,Boastful mother
+story.greek.artemis_library,storyver.greek.library_artemis,hero.greek.callisto,CHARACTER,90,Companion
+story.greek.artemis_library,storyver.greek.library_artemis,deity.greek.maia,CHARACTER,100,Fosters Arcas
+story.greek.artemis_library,storyver.greek.library_artemis,hero.greek.iphigenia,CHARACTER,110,Daughter of Agamemnon
+story.greek.artemis_library,storyver.greek.library_artemis,deity.greek.zeus,CHARACTER,120,Father
+story.greek.artemis_library,storyver.greek.library_artemis,text.greek.apollodorus_library,TEXT,130,Library
 story.greek.demeter_persephone,storyver.greek.demeter_hymn2,deity.greek.demeter,CHARACTER,10,Derived from an explicitly linked story claim subject.
 story.greek.demeter_persephone,storyver.greek.demeter_hymn2,hero.greek.triptolemos,CHARACTER,10,Derived from an explicitly linked story claim subject.
 story.greek.demeter_persephone,storyver.greek.demeter_hymn2,deity.greek.hecate,CHARACTER,10,Derived from an explicitly linked story claim subject.
@@ -297,6 +356,16 @@ story.greek.demeter_persephone,storyver.greek.demeter_hymn2_long,deity.greek.rhe
 story.greek.demeter_persephone,storyver.greek.demeter_hymn2_long,hero.greek.triptolemos,CHARACTER,90,Taught the rites
 story.greek.demeter_persephone,storyver.greek.demeter_hymn2_long,event.greek.persephone_abduction,EVENT,100,Abduction
 story.greek.demeter_persephone,storyver.greek.demeter_hymn2_long,text.greek.homeric_hymn_demeter,TEXT,110,Hymn
+story.greek.dionysus_library,storyver.greek.library_3_4_3_5_dionysus,deity.greek.semele,CHARACTER,10,Mother
+story.greek.dionysus_library,storyver.greek.library_3_4_3_5_dionysus,deity.greek.dionysus,CHARACTER,20,God of wine
+story.greek.dionysus_library,storyver.greek.library_3_4_3_5_dionysus,deity.greek.zeus,CHARACTER,30,Father
+story.greek.dionysus_library,storyver.greek.library_3_4_3_5_dionysus,deity.greek.hera,CHARACTER,40,Jealous queen
+story.greek.dionysus_library,storyver.greek.library_3_4_3_5_dionysus,deity.greek.hermes,CHARACTER,50,Carries the child
+story.greek.dionysus_library,storyver.greek.library_3_4_3_5_dionysus,deity.greek.rhea,CHARACTER,60,Purifies Dionysus
+story.greek.dionysus_library,storyver.greek.library_3_4_3_5_dionysus,person.greek.lycurgus_edonian,CHARACTER,70,Thracian king
+story.greek.dionysus_library,storyver.greek.library_3_4_3_5_dionysus,hero.greek.pentheus,CHARACTER,80,Theban king
+story.greek.dionysus_library,storyver.greek.library_3_4_3_5_dionysus,person.greek.icarius_attica,CHARACTER,90,Athenian host
+story.greek.dionysus_library,storyver.greek.library_3_4_3_5_dionysus,text.greek.apollodorus_library,TEXT,100,Library
 story.greek.eleusinia_procession,storyver.greek.eleusinia_acropolis,festival.greek.great_eleusinia,EVENT,1,Public festival/procession layer.
 story.greek.eleusinia_procession,storyver.greek.eleusinia_acropolis,ritual.greek.eleusinian_mysteries,CONTEXT,2,Boundary marker; secret contents excluded.
 story.greek.eleusinia_procession,storyver.greek.eleusinia_acropolis,site.greece.eleusinion_athens,PLACE,10,Public Athens setting.
@@ -340,6 +409,34 @@ story.greek.heracles_far_labours,storyver.greek.library_2_5_heracles_2,deity.gre
 story.greek.heracles_far_labours,storyver.greek.library_2_5_heracles_2,deity.greek.prometheus,CHARACTER,110,Freed
 story.greek.heracles_far_labours,storyver.greek.library_2_5_heracles_2,creature.greek.cerberus,CHARACTER,120,Twelfth labour
 story.greek.heracles_far_labours,storyver.greek.library_2_5_heracles_2,deity.greek.helios,CHARACTER,130,Lends his goblet
+story.greek.hymn_aphrodite,storyver.greek.hymn5_aphrodite_evelyn_white,deity.greek.aphrodite,CHARACTER,10,Goddess of the hymn
+story.greek.hymn_aphrodite,storyver.greek.hymn5_aphrodite_evelyn_white,deity.greek.athena,CHARACTER,20,Unbent by Aphrodite
+story.greek.hymn_aphrodite,storyver.greek.hymn5_aphrodite_evelyn_white,deity.greek.artemis,CHARACTER,30,Unbent by Aphrodite
+story.greek.hymn_aphrodite,storyver.greek.hymn5_aphrodite_evelyn_white,deity.greek.hestia,CHARACTER,40,Unbent by Aphrodite
+story.greek.hymn_aphrodite,storyver.greek.hymn5_aphrodite_evelyn_white,deity.greek.zeus,CHARACTER,50,Father of gods
+story.greek.hymn_aphrodite,storyver.greek.hymn5_aphrodite_evelyn_white,hero.greek.anchises,CHARACTER,60,Trojan herdsman
+story.greek.hymn_aphrodite,storyver.greek.hymn5_aphrodite_evelyn_white,hero.greek.aeneas,CHARACTER,70,Son foretold
+story.greek.hymn_aphrodite,storyver.greek.hymn5_aphrodite_evelyn_white,hero.greek.ganymede,CHARACTER,80,Example of Zeus's favour
+story.greek.hymn_aphrodite,storyver.greek.hymn5_aphrodite_evelyn_white,deity.greek.eos,CHARACTER,90,Dawn
+story.greek.hymn_aphrodite,storyver.greek.hymn5_aphrodite_evelyn_white,hero.greek.tithonus,CHARACTER,100,Eos's beloved
+story.greek.hymn_aphrodite,storyver.greek.hymn5_aphrodite_evelyn_white,text.greek.homeric_hymn_aphrodite_5,TEXT,110,Hymn to Aphrodite
+story.greek.hymn_apollo,storyver.greek.hymn3_apollo_evelyn_white,deity.greek.leto,CHARACTER,10,Mother
+story.greek.hymn_apollo,storyver.greek.hymn3_apollo_evelyn_white,deity.greek.apollo,CHARACTER,20,Hero of the hymn
+story.greek.hymn_apollo,storyver.greek.hymn3_apollo_evelyn_white,deity.greek.artemis,CHARACTER,30,Sister
+story.greek.hymn_apollo,storyver.greek.hymn3_apollo_evelyn_white,deity.greek.zeus,CHARACTER,40,Father
+story.greek.hymn_apollo,storyver.greek.hymn3_apollo_evelyn_white,deity.greek.hera,CHARACTER,50,Jealous queen
+story.greek.hymn_apollo,storyver.greek.hymn3_apollo_evelyn_white,deity.greek.eileithyia,CHARACTER,60,Birth goddess
+story.greek.hymn_apollo,storyver.greek.hymn3_apollo_evelyn_white,deity.greek.iris,CHARACTER,70,Messenger
+story.greek.hymn_apollo,storyver.greek.hymn3_apollo_evelyn_white,creature.greek.delphic_drakaina,CHARACTER,80,She-dragon
+story.greek.hymn_apollo,storyver.greek.hymn3_apollo_evelyn_white,creature.greek.typhon,CHARACTER,90,Typhaon
+story.greek.hymn_apollo,storyver.greek.hymn3_apollo_evelyn_white,site.greece.delos,PLACE,100,Birthplace
+story.greek.hymn_apollo,storyver.greek.hymn3_apollo_evelyn_white,site.greece.delphi,PLACE,110,Pytho
+story.greek.hymn_apollo,storyver.greek.hymn3_apollo_evelyn_white,text.greek.homeric_hymn_apollo_3,TEXT,120,Hymn to Apollo
+story.greek.hymn_hermes,storyver.greek.hymn4_hermes_evelyn_white,deity.greek.maia,CHARACTER,10,Mother
+story.greek.hymn_hermes,storyver.greek.hymn4_hermes_evelyn_white,deity.greek.hermes,CHARACTER,20,Hero of the hymn
+story.greek.hymn_hermes,storyver.greek.hymn4_hermes_evelyn_white,deity.greek.apollo,CHARACTER,30,Brother
+story.greek.hymn_hermes,storyver.greek.hymn4_hermes_evelyn_white,deity.greek.zeus,CHARACTER,40,Father
+story.greek.hymn_hermes,storyver.greek.hymn4_hermes_evelyn_white,text.greek.homeric_hymn_hermes_4,TEXT,50,Hymn to Hermes
 story.greek.medea_restoration,storyver.greek.medea_library,deity.greek.perses_helios,CHARACTER,10,Derived from an explicitly linked story claim subject.
 story.greek.medea_restoration,storyver.greek.medea_library,hero.greek.medea,CHARACTER,10,Derived from an explicitly linked story claim subject.
 story.greek.medea_restoration,storyver.greek.medea_library,hero.greek.aeetes,CHARACTER,10,Derived from an explicitly linked story claim subject.
@@ -410,6 +507,34 @@ story.greek.titanomachy,storyver.greek.titanomachy_theogony,event.greek.titanoma
 story.greek.titanomachy,storyver.greek.titanomachy_theogony,deity.greek.zeus,CHARACTER,10,Derived from an explicitly linked story claim subject.
 story.greek.titanomachy,storyver.greek.titanomachy_theogony,deity.greek.cronus,CHARACTER,10,Derived from an explicitly linked story claim subject.
 story.greek.titanomachy,storyver.greek.titanomachy_theogony,text.greek.theogony,RELATED,20,Derived from an explicitly linked story claim object.
+story.greek.titans_children,storyver.greek.theogony_titans_children,deity.greek.chaos,CHARACTER,10,First of all
+story.greek.titans_children,storyver.greek.theogony_titans_children,deity.greek.erebus,CHARACTER,20,Darkness
+story.greek.titans_children,storyver.greek.theogony_titans_children,deity.greek.nyx,CHARACTER,30,Night
+story.greek.titans_children,storyver.greek.theogony_titans_children,deity.greek.aether,CHARACTER,40,Upper air
+story.greek.titans_children,storyver.greek.theogony_titans_children,deity.greek.hemera,CHARACTER,50,Day
+story.greek.titans_children,storyver.greek.theogony_titans_children,deity.greek.uranus,CHARACTER,60,Heaven
+story.greek.titans_children,storyver.greek.theogony_titans_children,deity.greek.gaia,CHARACTER,70,Earth
+story.greek.titans_children,storyver.greek.theogony_titans_children,deity.greek.crius,CHARACTER,80,Titan
+story.greek.titans_children,storyver.greek.theogony_titans_children,deity.greek.theia,CHARACTER,90,Titaness
+story.greek.titans_children,storyver.greek.theogony_titans_children,deity.greek.hyperion,CHARACTER,100,Titan
+story.greek.titans_children,storyver.greek.theogony_titans_children,deity.greek.hypnos,CHARACTER,110,Sleep
+story.greek.titans_children,storyver.greek.theogony_titans_children,deity.greek.thanatos,CHARACTER,120,Death
+story.greek.titans_children,storyver.greek.theogony_titans_children,deity.greek.pontus,CHARACTER,130,Sea
+story.greek.titans_children,storyver.greek.theogony_titans_children,deity.greek.eurybia,CHARACTER,140,Daughter of Sea and Earth
+story.greek.titans_children,storyver.greek.theogony_titans_children,deity.greek.helios,CHARACTER,150,Sun
+story.greek.titans_children,storyver.greek.theogony_titans_children,deity.greek.selene,CHARACTER,160,Moon
+story.greek.titans_children,storyver.greek.theogony_titans_children,deity.greek.eos,CHARACTER,170,Dawn
+story.greek.titans_children,storyver.greek.theogony_titans_children,deity.greek.astraeus,CHARACTER,180,Father of winds and stars
+story.greek.titans_children,storyver.greek.theogony_titans_children,deity.greek.pallas_titan,CHARACTER,190,Titan
+story.greek.titans_children,storyver.greek.theogony_titans_children,deity.greek.styx,CHARACTER,200,Oath of the gods
+story.greek.titans_children,storyver.greek.theogony_titans_children,deity.greek.zeus,CHARACTER,210,King of the gods
+story.greek.titans_children,storyver.greek.theogony_titans_children,deity.greek.phoebe,CHARACTER,220,Titaness
+story.greek.titans_children,storyver.greek.theogony_titans_children,deity.greek.leto,CHARACTER,230,Daughter of Phoebe
+story.greek.titans_children,storyver.greek.theogony_titans_children,deity.greek.asteria,CHARACTER,240,Daughter of Phoebe
+story.greek.titans_children,storyver.greek.theogony_titans_children,deity.greek.perses,CHARACTER,250,Son of Crius
+story.greek.titans_children,storyver.greek.theogony_titans_children,deity.greek.hecate,CHARACTER,260,Daughter of Asteria and Perses
+story.greek.titans_children,storyver.greek.theogony_titans_children,hero.greek.tithonus,CHARACTER,270,Husband of Eos
+story.greek.titans_children,storyver.greek.theogony_titans_children,text.greek.theogony,TEXT,280,Theogony
 story.greek.zeus_typhon,storyver.greek.typhon_theogony,creature.greek.typhon,CHARACTER,10,Derived from an explicitly linked story claim subject.
 story.greek.zeus_typhon,storyver.greek.typhon_theogony,deity.greek.zeus,CHARACTER,10,Derived from an explicitly linked story claim subject.
 story.greek.zeus_typhon,storyver.greek.typhon_theogony,deity.greek.gaia,CHARACTER,20,Derived from an explicitly linked story claim object.
@@ -739,6 +864,22 @@ story.norse.forging_treasures,storyver.norse.forging_skald,weapon.norse.mjolnir,
 story.norse.forging_treasures,storyver.norse.forging_skald,artifact.norse.draupnir,RELATED,20,Derived from an explicitly linked story claim object.
 story.norse.forging_treasures,storyver.norse.forging_skald,creature.norse.gullinbursti,RELATED,20,Derived from an explicitly linked story claim object.
 story.norse.forging_treasures,storyver.norse.forging_skald,event.norse.forging_divine_treasures,EVENT,20,Derived from an explicitly linked story claim object.
+story.norse.forging_treasures,storyver.norse.skald_35_sif_long,deity.norse.sif,CHARACTER,10,Wife of Thor
+story.norse.forging_treasures,storyver.norse.skald_35_sif_long,deity.norse.ullr,CHARACTER,20,Son of Sif
+story.norse.forging_treasures,storyver.norse.skald_35_sif_long,deity.norse.thor,CHARACTER,30,Husband of Sif
+story.norse.forging_treasures,storyver.norse.skald_35_sif_long,deity.norse.loki,CHARACTER,40,Cuts Sif's hair
+story.norse.forging_treasures,storyver.norse.skald_35_sif_long,being.norse.sons_of_ivaldi,CHARACTER,50,Dwarf smiths
+story.norse.forging_treasures,storyver.norse.skald_35_sif_long,being.norse.brokkr,CHARACTER,60,Dwarf
+story.norse.forging_treasures,storyver.norse.skald_35_sif_long,being.norse.eitri,CHARACTER,70,Dwarf smith
+story.norse.forging_treasures,storyver.norse.skald_35_sif_long,deity.norse.odin,CHARACTER,80,Judge
+story.norse.forging_treasures,storyver.norse.skald_35_sif_long,deity.norse.freyr,CHARACTER,90,Judge
+story.norse.forging_treasures,storyver.norse.skald_35_sif_long,artifact.norse.skidbladnir,ARTIFACT,100,Ship
+story.norse.forging_treasures,storyver.norse.skald_35_sif_long,weapon.norse.gungnir,ARTIFACT,110,Spear
+story.norse.forging_treasures,storyver.norse.skald_35_sif_long,creature.norse.gullinbursti,ARTIFACT,120,Golden boar
+story.norse.forging_treasures,storyver.norse.skald_35_sif_long,artifact.norse.draupnir,ARTIFACT,130,Ring
+story.norse.forging_treasures,storyver.norse.skald_35_sif_long,weapon.norse.mjolnir,ARTIFACT,140,Hammer
+story.norse.forging_treasures,storyver.norse.skald_35_sif_long,event.norse.forging_divine_treasures,EVENT,150,Forging of the treasures
+story.norse.forging_treasures,storyver.norse.skald_35_sif_long,text.norse.skaldskaparmal,TEXT,160,Skáldskaparmál
 story.norse.frigg_baldr,storyver.norse.frigg_gylf,deity.norse.frigg,CHARACTER,10,Mother
 story.norse.frigg_baldr,storyver.norse.frigg_gylf,deity.norse.baldr,CHARACTER,20,Son
 story.norse.frigg_baldr,storyver.norse.frigg_gylf,deity.norse.odin,CHARACTER,30,Husband
@@ -785,6 +926,18 @@ story.norse.ragnarok,storyver.norse.ragnarok_gylf_long,artifact.norse.naglfar,AR
 story.norse.ragnarok,storyver.norse.ragnarok_gylf_long,deity.norse.baldr,CHARACTER,140,Returns
 story.norse.ragnarok,storyver.norse.ragnarok_gylf_long,deity.norse.hodr,CHARACTER,150,Returns
 story.norse.ragnarok,storyver.norse.ragnarok_gylf_long,artifact.norse.gjallarhorn,ARTIFACT,160,Horn
+story.norse.thor_hrungnir,storyver.norse.skald_17_hrungnir,deity.norse.thor,CHARACTER,10,Thunder god
+story.norse.thor_hrungnir,storyver.norse.skald_17_hrungnir,giant.norse.hrungnir,CHARACTER,20,Stone-hearted giant
+story.norse.thor_hrungnir,storyver.norse.skald_17_hrungnir,deity.norse.odin,CHARACTER,30,Rider of Sleipnir
+story.norse.thor_hrungnir,storyver.norse.skald_17_hrungnir,creature.norse.sleipnir,CHARACTER,40,Odin's horse
+story.norse.thor_hrungnir,storyver.norse.skald_17_hrungnir,deity.norse.freyja,CHARACTER,50,Serves the giant
+story.norse.thor_hrungnir,storyver.norse.skald_17_hrungnir,deity.norse.sif,CHARACTER,60,Threatened by the giant
+story.norse.thor_hrungnir,storyver.norse.skald_17_hrungnir,hero.norse.thjalfi,CHARACTER,70,Thor's servant
+story.norse.thor_hrungnir,storyver.norse.skald_17_hrungnir,giant.norse.mokkurkalfi,CHARACTER,80,Clay giant
+story.norse.thor_hrungnir,storyver.norse.skald_17_hrungnir,deity.norse.magni,CHARACTER,90,Son of Thor
+story.norse.thor_hrungnir,storyver.norse.skald_17_hrungnir,being.norse.jarnsaxa,CHARACTER,100,Mother of Magni
+story.norse.thor_hrungnir,storyver.norse.skald_17_hrungnir,weapon.norse.mjolnir,ARTIFACT,110,Hammer
+story.norse.thor_hrungnir,storyver.norse.skald_17_hrungnir,text.norse.skaldskaparmal,TEXT,120,Skáldskaparmál
 story.norse.thor_utgarda_loki,storyver.norse.utgard_gylf,deity.norse.thor,CHARACTER,10,Hero
 story.norse.thor_utgarda_loki,storyver.norse.utgard_gylf,deity.norse.loki,CHARACTER,20,Companion
 story.norse.thor_utgarda_loki,storyver.norse.utgard_gylf,hero.norse.thjalfi,CHARACTER,30,Servant
@@ -831,6 +984,22 @@ story.norse.volsunga_sigurd_dragon,storyver.norse.volsunga_morris_13_24,being.no
 story.norse.ymir_world,storyver.norse.ymir_gylf,being.norse.ymir,CHARACTER,10,Primordial giant
 story.norse.ymir_world,storyver.norse.ymir_gylf,deity.norse.odin,CHARACTER,20,Slayer
 story.norse.ymir_world,storyver.norse.ymir_gylf,event.norse.slaying_of_ymir,EVENT,30,World-making
+story.norse.ymir_world,storyver.norse.gylf_4_12_creation_long,concept.norse.fire_ice_cosmogony,RELATED,10,Fire and ice
+story.norse.ymir_world,storyver.norse.gylf_4_12_creation_long,creature.norse.surtr,CHARACTER,20,Guardian of Muspell
+story.norse.ymir_world,storyver.norse.gylf_4_12_creation_long,being.norse.ymir,CHARACTER,30,First giant
+story.norse.ymir_world,storyver.norse.gylf_4_12_creation_long,creature.norse.audhumla,CHARACTER,40,Primeval cow
+story.norse.ymir_world,storyver.norse.gylf_4_12_creation_long,deity.norse.buri,CHARACTER,50,Licked from the ice
+story.norse.ymir_world,storyver.norse.gylf_4_12_creation_long,deity.norse.borr,CHARACTER,60,Son of Búri
+story.norse.ymir_world,storyver.norse.gylf_4_12_creation_long,being.norse.bestla,CHARACTER,70,Wife of Borr
+story.norse.ymir_world,storyver.norse.gylf_4_12_creation_long,deity.norse.odin,CHARACTER,80,Son of Borr
+story.norse.ymir_world,storyver.norse.gylf_4_12_creation_long,deity.norse.vili,CHARACTER,90,Son of Borr
+story.norse.ymir_world,storyver.norse.gylf_4_12_creation_long,deity.norse.ve,CHARACTER,100,Son of Borr
+story.norse.ymir_world,storyver.norse.gylf_4_12_creation_long,person.norse.ask,CHARACTER,110,First man
+story.norse.ymir_world,storyver.norse.gylf_4_12_creation_long,person.norse.embla,CHARACTER,120,First woman
+story.norse.ymir_world,storyver.norse.gylf_4_12_creation_long,deity.norse.jord,CHARACTER,130,"Earth, mother of Thor"
+story.norse.ymir_world,storyver.norse.gylf_4_12_creation_long,deity.norse.thor,CHARACTER,140,Son of Jörð
+story.norse.ymir_world,storyver.norse.gylf_4_12_creation_long,event.norse.slaying_of_ymir,EVENT,150,Slaying of Ymir
+story.norse.ymir_world,storyver.norse.gylf_4_12_creation_long,text.norse.gylfaginning,TEXT,160,Gylfaginning
 story.persian.rostam_seven_labours,storyver.persian.zimmern_mazinderan,person.persian.kay_kavus,CHARACTER,10,Shah
 story.persian.rostam_seven_labours,storyver.persian.zimmern_mazinderan,hero.persian.zal,CHARACTER,20,Counsellor
 story.persian.rostam_seven_labours,storyver.persian.zimmern_mazinderan,hero.persian.rostam,CHARACTER,30,Hero
@@ -871,6 +1040,10 @@ story.sumerian.gilgamesh_huwawa_utu,storyver.sumerian.gilgamesh_huwawa_etcsl,dei
 story.sumerian.gilgamesh_huwawa_utu,storyver.sumerian.gilgamesh_huwawa_etcsl,monster.sumerian.huwawa,CHARACTER,30,Guardian
 story.sumerian.gilgamesh_huwawa_utu,storyver.sumerian.gilgamesh_huwawa_etcsl,event.sumerian.gilgamesh_huwawa,EVENT,40,Expedition
 story.sumerian.gilgamesh_huwawa_utu,storyver.sumerian.gilgamesh_huwawa_etcsl,text.mesopotamia.gilgamesh,RELATED,50,"Later epic, kept separate"
+story.sumerian.inana_ebih,storyver.sumerian.inana_ebih_etcsl,deity.sumerian.inanna,CHARACTER,10,Goddess of battle
+story.sumerian.inana_ebih,storyver.sumerian.inana_ebih_etcsl,deity.sumerian.an,CHARACTER,20,Father in heaven
+story.sumerian.inana_ebih,storyver.sumerian.inana_ebih_etcsl,place.sumerian.ebih,PLACE,30,The defiant mountain
+story.sumerian.inana_ebih,storyver.sumerian.inana_ebih_etcsl,text.sumerian.inana_ebih,TEXT,40,Inana and Ebiḫ
 story.sumerian.inanna_descent,storyver.sumerian.inanna_etcsl,deity.sumerian.inanna,CHARACTER,10,Derived from an explicitly linked story claim subject.
 story.sumerian.inanna_descent,storyver.sumerian.inanna_etcsl,event.sumerian.inanna_descent,EVENT,20,Derived from an explicitly linked story claim object.
 story.sumerian.inanna_descent,storyver.sumerian.inanna_etcsl_long,deity.sumerian.inanna,CHARACTER,10,Queen of heaven
@@ -891,6 +1064,14 @@ story.ugaritic.baal_mot,storyver.ugaritic.baal_mot_ktu15_16,deity.ugaritic.baal,
 story.ugaritic.baal_mot,storyver.ugaritic.baal_mot_ktu15_16,deity.ugaritic.mot,CHARACTER,10,Derived from an explicitly linked story claim subject.
 story.ugaritic.baal_mot,storyver.ugaritic.baal_mot_ktu15_16,deity.ugaritic.anat,CHARACTER,10,Derived from an explicitly linked story claim subject.
 story.ugaritic.baal_mot,storyver.ugaritic.baal_mot_ktu15_16,event.ugaritic.baal_mot_ktu15_16,EVENT,10,Derived from an explicitly linked story claim subject.
+story.ugaritic.baal_palace,storyver.ugaritic.ktu_1_3_1_4_palace,deity.ugaritic.baal,CHARACTER,10,Storm god
+story.ugaritic.baal_palace,storyver.ugaritic.ktu_1_3_1_4_palace,deity.ugaritic.anat,CHARACTER,20,Warrior goddess
+story.ugaritic.baal_palace,storyver.ugaritic.ktu_1_3_1_4_palace,deity.ugaritic.el,CHARACTER,30,Father of the gods
+story.ugaritic.baal_palace,storyver.ugaritic.ktu_1_3_1_4_palace,deity.ugaritic.asherah,CHARACTER,40,"Athirat, mother of the gods"
+story.ugaritic.baal_palace,storyver.ugaritic.ktu_1_3_1_4_palace,deity.ugaritic.kothar_wa_khasis,CHARACTER,50,Craftsman god
+story.ugaritic.baal_palace,storyver.ugaritic.ktu_1_3_1_4_palace,deity.ugaritic.yam,CHARACTER,60,Sea
+story.ugaritic.baal_palace,storyver.ugaritic.ktu_1_3_1_4_palace,deity.ugaritic.mot,CHARACTER,70,Death
+story.ugaritic.baal_palace,storyver.ugaritic.ktu_1_3_1_4_palace,text.ugaritic.baal_cycle.ktu1_3_1_4,TEXT,80,KTU 1.3–1.4
 story.ugaritic.baal_yamm,storyver.ugaritic.baal_yamm_ktu12,deity.ugaritic.baal,CHARACTER,10,Derived from an explicitly linked story claim subject.
 story.ugaritic.baal_yamm,storyver.ugaritic.baal_yamm_ktu12,deity.ugaritic.yam,CHARACTER,10,Derived from an explicitly linked story claim subject.
 story.ugaritic.baal_yamm,storyver.ugaritic.baal_yamm_ktu12,event.ugaritic.baal_yamm_ktu12,EVENT,10,Derived from an explicitly linked story claim subject.

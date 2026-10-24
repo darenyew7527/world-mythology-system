@@ -25,6 +25,7 @@ artifact.norse.draupnir,RING,1,
 artifact.norse.gjallarhorn,ARTIFACT,1,v0.31 story entity.
 artifact.norse.gleipnir,ARTIFACT,1,
 artifact.norse.naglfar,SHIP,1,v0.34 heroic-epic entity.
+artifact.norse.skidbladnir,SHIP,1,v0.36 deity-story entity.
 artifact.welsh.cauldron_of_rebirth,SACRED_OBJECT,1,v0.34 heroic-epic entity.
 artifact.yoruba.ose_sango,SACRED_OBJECT,1,v0.6.0 thunder and storm comparison checkpoint
 being.chinese.pangu,GIANT,1,
@@ -134,6 +135,7 @@ creature.finnish.iku_turso,MONSTER,1,v0.35 epic-series entity.
 creature.greek.cerberus,MONSTER,1,v0.34 heroic-epic entity.
 creature.greek.charybdis,MONSTER,1,v0.33 series entity.
 creature.greek.cyclopes_hesiodic,GIANT,1,
+creature.greek.delphic_drakaina,MONSTER,1,v0.36 deity-story entity.
 creature.greek.geryon,GIANT,1,v0.34 heroic-epic entity.
 creature.greek.graeae,MONSTER,1,v0.34 heroic-epic entity.
 creature.greek.harpies,MONSTER,1,v0.34 heroic-epic entity.
@@ -156,6 +158,7 @@ creature.irish.donn_cuailnge,DIVINE_BEAST,1,v0.34 heroic-epic entity.
 creature.irish.finnbennach,DIVINE_BEAST,1,v0.34 heroic-epic entity.
 creature.japanese.hare_of_inaba,DIVINE_BEAST,1,v0.35 epic-series entity.
 creature.mesopotamian.bull_of_heaven,MONSTER,1,v0.32 long-story entity.
+creature.norse.audhumla,DIVINE_BEAST,1,v0.36 deity-story entity.
 creature.norse.fafnir,DRAGON,1,v0.34 heroic-epic entity.
 creature.norse.fenrir,MONSTER,1,
 creature.norse.garm,MONSTER,1,v0.34 heroic-epic entity.
@@ -202,9 +205,11 @@ deity.egyptian.atum_horakhty,DEITY,1,v0.12.0 Ra-Atum witness-layer checkpoint
 deity.egyptian.atum_ra,DEITY,1,v0.12.0 Ra-Atum witness-layer checkpoint
 deity.egyptian.geb,DEITY,1,
 deity.egyptian.hathor,DEITY,1,
+deity.egyptian.heqet,DEITY,1,v0.36 deity-story entity.
 deity.egyptian.horus,DEITY,1,
 deity.egyptian.isis,DEITY,1,
 deity.egyptian.khepri,DEITY,1,v0.7.0 Egyptian solar-composite checkpoint
+deity.egyptian.khnum,DEITY,1,v0.36 deity-story entity.
 deity.egyptian.khonsu,DEITY,1,v0.7.0 Egyptian solar-composite checkpoint
 deity.egyptian.ma_at,DEITY,1,
 deity.egyptian.ma_at,CONCEPT,0,
@@ -245,6 +250,7 @@ deity.greek.cronus,TITAN,0,Greek culture-specific classification
 deity.greek.demeter,DEITY,1,
 deity.greek.dione,DEITY,1,v0.5.0 primary-source profile checkpoint
 deity.greek.dionysus,DEITY,1,
+deity.greek.eileithyia,DEITY,1,v0.36 deity-story entity.
 deity.greek.eos,DEITY,1,Primary classification from v0.4.0 Greek genealogy checkpoint
 deity.greek.erebus,PRIMORDIAL_DEITY,1,Primary classification from v0.4.0 Greek genealogy checkpoint
 deity.greek.erebus,DEITY,0,Queryable through the deity collection
@@ -265,6 +271,7 @@ deity.greek.hestia,DEITY,1,Primary classification from v0.4.0 Greek genealogy ch
 deity.greek.hyperion,DEITY,1,Primary classification from v0.4.0 Greek genealogy checkpoint
 deity.greek.hyperion,TITAN,0,Hesiodic divine generation
 deity.greek.hypnos,DEITY,1,Primary classification from v0.4.0 Greek genealogy checkpoint
+deity.greek.iris,DEITY,1,v0.36 deity-story entity.
 deity.greek.leto,DEITY,1,v0.5.0 primary-source profile checkpoint
 deity.greek.maia,DEITY,1,v0.5.0 primary-source profile checkpoint
 deity.greek.metis,DEITY,1,Primary classification at research checkpoint 2026-08-11
@@ -275,6 +282,8 @@ deity.greek.persephone,DEITY,1,v0.5.0 primary-source profile checkpoint
 deity.greek.perses,DEITY,1,Primary classification from v0.4.0 Greek genealogy checkpoint
 deity.greek.perses,TITAN,0,Hesiodic divine generation; identity caution applies
 deity.greek.perses_helios,DEITY,1,v0.9.0 Perses homonym audit checkpoint
+deity.greek.phoebe,DEITY,1,v0.36 deity-story entity.
+deity.greek.pontus,PRIMORDIAL_DEITY,1,v0.36 deity-story entity.
 deity.greek.poseidon,DEITY,1,
 deity.greek.prometheus,DEITY,1,v0.32 long-story entity.
 deity.greek.prometheus,TITAN,0,Secondary classification.
@@ -282,6 +291,7 @@ deity.greek.rhea,DEITY,1,
 deity.greek.rhea,TITAN,0,Greek culture-specific classification
 deity.greek.selene,DEITY,1,Primary classification from v0.4.0 Greek genealogy checkpoint
 deity.greek.semele,DEITY,1,v0.5.0 primary-source profile checkpoint
+deity.greek.styx,DEITY,1,v0.36 deity-story entity.
 deity.greek.thanatos,DEITY,1,Primary classification from v0.4.0 Greek genealogy checkpoint
 deity.greek.theia,DEITY,1,Primary classification from v0.4.0 Greek genealogy checkpoint
 deity.greek.theia,TITAN,0,Hesiodic divine generation
@@ -512,6 +522,8 @@ festival.egyptian.opet,FESTIVAL,1,v0.7.0 Egyptian solar-composite checkpoint
 festival.greek.great_eleusinia,FESTIVAL,1,v0.8.0 Eleusis evidence-layer checkpoint
 festival.japan.kamo_aoi,FESTIVAL,1,v0.10.0 Japanese thunder local-dossier checkpoint
 festival.yoruba.sango_oyo,FESTIVAL,1,v0.6.0 thunder and storm comparison checkpoint
+giant.norse.hrungnir,GIANT,1,v0.36 deity-story entity.
+giant.norse.mokkurkalfi,GIANT,1,v0.36 deity-story entity.
 group.egyptian.theban_triad,CONCEPT,1,v0.7.0 Egyptian solar-composite checkpoint
 group.japanese.eight_thunder_kami,CONCEPT,1,v0.6.0 thunder and storm comparison checkpoint
 hero.chinese.chi_bi,HERO,1,v0.35 epic-series entity.
@@ -530,6 +542,8 @@ hero.chinese.yellow_emperor,ANCESTOR_DEITY,0,
 hero.chinese.zhu_bajie,HERO,1,v0.33 series entity.
 hero.chinese.zhuanxu,HERO,1,Legendary sovereign; no historical-reality claim.
 hero.chinese.ziyu,HERO,1,v0.35 epic-series entity.
+hero.egyptian.anpu,HERO,1,v0.36 deity-story entity.
+hero.egyptian.bata,HERO,1,v0.36 deity-story entity.
 hero.finnish.aino,HERO,1,v0.35 epic-series entity.
 hero.finnish.ilmarinen,HERO,1,v0.35 epic-series entity.
 hero.finnish.joukahainen,HERO,1,v0.35 epic-series entity.
@@ -541,14 +555,20 @@ hero.finnish.louhi,HERO,1,v0.35 epic-series entity.
 hero.finnish.maiden_of_pohjola,HERO,1,v0.35 epic-series entity.
 hero.finnish.vainamoinen,HERO,1,v0.35 epic-series entity.
 hero.greek.acrisius,HERO,1,v0.34 heroic-epic entity.
+hero.greek.actaeon,HERO,1,v0.36 deity-story entity.
 hero.greek.aeetes,HERO,1,v0.9.0 Perses homonym audit checkpoint
+hero.greek.aeneas,HERO,1,v0.36 deity-story entity.
 hero.greek.alcmena,HERO,1,v0.34 heroic-epic entity.
 hero.greek.amphitryon,HERO,1,v0.34 heroic-epic entity.
+hero.greek.anchises,HERO,1,v0.36 deity-story entity.
 hero.greek.andromeda,HERO,1,v0.9.0 Perses homonym audit checkpoint
 hero.greek.apsyrtus,HERO,1,v0.34 heroic-epic entity.
+hero.greek.callisto,HERO,1,v0.36 deity-story entity.
 hero.greek.danae,HERO,1,v0.34 heroic-epic entity.
 hero.greek.deianira,HERO,1,v0.34 heroic-epic entity.
+hero.greek.diomedes,HERO,1,v0.36 deity-story entity.
 hero.greek.eurystheus,HERO,1,v0.34 heroic-epic entity.
+hero.greek.ganymede,HERO,1,v0.36 deity-story entity.
 hero.greek.heracles,HERO,1,v0.34 heroic-epic entity.
 hero.greek.heracles,DEITY,0,Secondary classification.
 hero.greek.hippolyte,HERO,1,v0.34 heroic-epic entity.
@@ -556,19 +576,24 @@ hero.greek.hylas,HERO,1,v0.34 heroic-epic entity.
 hero.greek.hypsipyle,HERO,1,v0.34 heroic-epic entity.
 hero.greek.iolaus,HERO,1,v0.34 heroic-epic entity.
 hero.greek.iole,HERO,1,v0.34 heroic-epic entity.
+hero.greek.iphigenia,HERO,1,v0.36 deity-story entity.
 hero.greek.jason,HERO,1,v0.34 heroic-epic entity.
 hero.greek.laertes,HERO,1,v0.33 series entity.
 hero.greek.medea,HERO,1,v0.9.0 Perses homonym audit checkpoint
+hero.greek.niobe,HERO,1,v0.36 deity-story entity.
 hero.greek.odysseus,HERO,1,v0.33 series entity.
 hero.greek.omphale,HERO,1,v0.34 heroic-epic entity.
+hero.greek.orion,HERO,1,v0.36 deity-story entity.
 hero.greek.orpheus,HERO,1,v0.34 heroic-epic entity.
 hero.greek.pelias,HERO,1,v0.34 heroic-epic entity.
 hero.greek.penelope,HERO,1,v0.33 series entity.
+hero.greek.pentheus,HERO,1,v0.36 deity-story entity.
 hero.greek.perses_perseus_son,HERO,1,v0.9.0 Perses homonym audit checkpoint
 hero.greek.perseus,HERO,1,v0.9.0 Perses homonym audit checkpoint
 hero.greek.phineus,HERO,1,v0.34 heroic-epic entity.
 hero.greek.polydeuces,HERO,1,v0.34 heroic-epic entity.
 hero.greek.telemachus,HERO,1,v0.33 series entity.
+hero.greek.tithonus,HERO,1,v0.36 deity-story entity.
 hero.greek.triptolemos,HERO,1,v0.8.0 Eleusis evidence-layer checkpoint
 hero.indian.abhimanyu,HERO,1,v0.35 epic-series entity.
 hero.indian.ahalya,HERO,1,v0.33 series entity.
@@ -643,6 +668,11 @@ hero.welsh.rhiannon,HERO,1,v0.34 heroic-epic entity.
 historical.achaemenid.darius_i,HISTORICAL_FIGURE,1,v0.12.0 Ra-Atum witness-layer checkpoint
 historical.achaemenid.xerxes_i,HISTORICAL_FIGURE,1,v0.14.0 Darius statue provenance checkpoint
 historical.chinese.tang_taizong,HISTORICAL_FIGURE,1,v0.33 series entity.
+historical.egyptian.ahmose_queen,HISTORICAL_FIGURE,1,v0.36 deity-story entity.
+historical.egyptian.hatshepsut,HISTORICAL_FIGURE,1,v0.36 deity-story entity.
+historical.egyptian.ramesses_ii,HISTORICAL_FIGURE,1,v0.36 deity-story entity.
+historical.egyptian.shabaka,HISTORICAL_FIGURE,1,v0.36 deity-story entity.
+historical.egyptian.thutmose_i,HISTORICAL_FIGURE,1,v0.36 deity-story entity.
 historical.japan.ogata_korin,HISTORICAL_FIGURE,1,v0.18.0 Japanese thunder witnesses
 historical.japan.sakai_hoitsu,HISTORICAL_FIGURE,1,v0.18.0 Japanese thunder witnesses
 historical.japan.tawaraya_sotatsu,HISTORICAL_FIGURE,1,v0.10.0 Japanese thunder local-dossier checkpoint
@@ -695,12 +725,15 @@ museum.ugarit.baal_thunder_ao15775,MUSEUM_OBJECT,1,
 museum.ugarit.baal_thunder_ao15775,MONUMENT,0,
 person.chinese.han_ping,PERSON,1,v0.35 epic-series entity.
 person.chinese.song_dingbo,PERSON,1,v0.35 epic-series entity.
+person.egyptian.bentresh,PERSON,1,v0.36 deity-story entity.
 person.finnish.kalervo,PERSON,1,v0.35 epic-series entity.
 person.finnish.markahattu,PERSON,1,v0.35 epic-series entity.
 person.finnish.untamo,PERSON,1,v0.35 epic-series entity.
 person.greek.antinous,PERSON,1,v0.33 series entity.
 person.greek.eumaeus,PERSON,1,v0.33 series entity.
 person.greek.eurycleia,PERSON,1,v0.33 series entity.
+person.greek.icarius_attica,PERSON,1,v0.36 deity-story entity.
+person.greek.lycurgus_edonian,PERSON,1,v0.36 deity-story entity.
 person.greek.polydectes,PERSON,1,v0.34 heroic-epic entity.
 person.indian.ashvapati,PERSON,1,v0.35 epic-series entity.
 person.indian.dyumatsena,PERSON,1,v0.35 epic-series entity.
@@ -736,6 +769,7 @@ place.norse.mimisbrunnr,MYTHICAL_PLACE,1,Primary classification at research chec
 place.norse.noatun,MYTHICAL_PLACE,1,v0.31 story entity.
 place.persian.mazandaran,MYTHICAL_PLACE,1,v0.35 epic-series entity.
 place.sumerian.dilmun,MYTHICAL_PLACE,1,v0.31 story entity.
+place.sumerian.ebih,MYTHICAL_PLACE,1,v0.36 deity-story entity.
 place.welsh.annwn,REALM,1,v0.34 heroic-epic entity.
 place.zoroastrian.airyana_vaejah,MYTHICAL_PLACE,1,v0.31 story entity.
 realm.egypt.duat,REALM,1,
@@ -872,6 +906,7 @@ text.chinese.tianwen,TEXT,1,
 text.chinese.xiyouji,TEXT,1,
 text.chinese.zhouyi_xici,TEXT,1,v0.31 story entity.
 text.egypt.amduat,TEXT,1,
+text.egypt.bentresh_stela,INSCRIPTION,1,v0.36 deity-story entity.
 text.egypt.book_caverns,TEXT,1,
 text.egypt.book_dead,PAPYRUS,1,
 text.egypt.book_dead_chapter15,TEXT,1,v0.12.0 Ra-Atum witness-layer checkpoint
@@ -886,11 +921,13 @@ text.egypt.darius_susa.subject_list.left_twelve,INSCRIPTION,1,v0.15.0 Darius ins
 text.egypt.darius_susa.subject_list.right_twelve,INSCRIPTION,1,v0.15.0 Darius inscription witness decomposition
 text.egypt.darius_susa_hieroglyphic_program,TEXT,1,v0.13.0 Darius statue inscription checkpoint
 text.egypt.darius_susa_hieroglyphic_province_list,TEXT,1,v0.13.0 Darius statue inscription checkpoint
+text.egypt.hatshepsut_birth_cycle,INSCRIPTION,1,v0.36 deity-story entity.
 text.egypt.litany_re,TEXT,1,
 text.egypt.memphite_theology,INSCRIPTION,1,
 text.egypt.pyramid_texts,INSCRIPTION,1,
 text.egypt.sun_hymn_standard_c_prime,TEXT,1,v0.12.0 Ra-Atum witness-layer checkpoint
 text.egypt.temple_tomb_inscriptions,INSCRIPTION,1,
+text.egypt.two_brothers,TEXT,1,v0.36 deity-story entity.
 text.egyptian.tale_heavenly_cow,TEXT,1,v0.31 story entity.
 text.finnish.kalevala,TEXT,1,v0.35 epic-series entity.
 text.greek.apollodorus_library,TEXT,1,v0.9.0 Perses homonym audit checkpoint
@@ -979,10 +1016,12 @@ text.roman.metamorphoses,EPIC,1,
 text.slavic.primary_chronicle,TEXT,1,v0.6.0 thunder and storm comparison checkpoint
 text.sumerian.enki_ninhursag,TEXT,1,
 text.sumerian.enki_world_order,TEXT,1,
+text.sumerian.inana_ebih,TEXT,1,v0.36 deity-story entity.
 text.sumerian.inanna_descent,TEXT,1,
 text.sumerian.king_list,TEXT,1,
 text.turkic.inscriptions,INSCRIPTION,1,
 text.ugaritic.baal_cycle,TABLET,1,
+text.ugaritic.baal_cycle.ktu1_3_1_4,TABLET,1,v0.36 deity-story entity.
 text.ugaritic.baal_cycle.ktu1_5,TABLET,1,v0.20.0 ancient Near East witnesses
 text.ugaritic.baal_cycle.ktu1_6,TABLET,1,v0.20.0 ancient Near East witnesses
 text.vedic.aranyakas,SCRIPTURE,1,

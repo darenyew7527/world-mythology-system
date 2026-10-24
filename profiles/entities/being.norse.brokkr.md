@@ -39,5 +39,9 @@ Dwarf smith who works the bellows in the treasure-forging episode.
   - 来源：[Snorri Sturluson: Edda. Skáldskaparmál](https://vsnr.org/editions/snorri-sturluson-edda-skaldskaparmal/)；定位：Skáldskaparmál 35
 - `claim.brokkr.sibling_eitri` [PROVISIONAL / TEXT_SAYS / 0.85] The common Eitri naming tradition presents Brokkr and Eitri as brothers.
   - 来源：[Snorri Sturluson: Edda. Skáldskaparmál](https://vsnr.org/editions/snorri-sturluson-edda-skaldskaparmal/)；定位：Skáldskaparmál 35
+- `claim.v0360.skald_sif.08` [VERIFIED / TEXT_SAYS / 0.90] Snorri's Edda, Skáldskaparmál 35, says that when Eitri forged iron the fly stung Brokkr between the eyes so that he paused to brush it away, and that the hammer Eitri took out came near to being spoiled, its handle being rather short.
+  - 来源：[Snorri Sturluson: Edda. Skáldskaparmál](https://vsnr.org/editions/snorri-sturluson-edda-skaldskaparmal/)；定位：Skáldskaparmál 35
+- `claim.v0360.skald_sif.12` [VERIFIED / TEXT_SAYS / 0.90] Snorri's Edda, Skáldskaparmál 35, says that when Loki argued that the dwarf had won his head but not his neck, Brokkr pierced Loki's lips with his brother's awl and sewed them with the thong Vartari, and that this is why gold is called Sif's hair.
+  - 来源：[Snorri Sturluson: Edda. Skáldskaparmál](https://vsnr.org/editions/snorri-sturluson-edda-skaldskaparmal/)；定位：Skáldskaparmál 35
 
 > 本档案只代表当前阶段性基线，不是对该传统的最终或唯一解释。

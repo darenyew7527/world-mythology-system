@@ -16,6 +16,7 @@ creature.finnish.iku_turso,SEA_MONSTER,{},"[""rises from the deep against ships"
 creature.greek.cerberus,HELLHOUND,"{""heads"": 3, ""tail"": ""serpent""}","[""guards the house of Hades""]",[],The gates of Hades,Offspring of Typhon and Echidna.,Shown to Eurystheus and carried back to Hades.
 creature.greek.charybdis,WHIRLPOOL_MONSTER,{},"[""swallows the sea three times a day""]",[],Beneath a fig tree opposite Scylla,Divine whirlpool of the strait.,Remains in the strait.
 creature.greek.cyclopes_hesiodic,GIANT,{},[],[],,,
+creature.greek.delphic_drakaina,She-dragon,{},[],[],A spring below Parnassus at Crisa,Unnamed in the hymn,"Shot by Apollo; her body rots in the sun, which gives Pytho its name"
 creature.greek.geryon,TRIPLE_BODIED_GIANT,"{""bodies"": 3, ""heads"": 3}","[""three bodies joined at the waist""]",[],The island Erytheia near Ocean,"Son of Chrysaor and Callirrhoe, daughter of Ocean.",Shot by Heracles beside the river Anthemus.
 creature.greek.graeae,CRONE_SISTERS,"{""eyes"": 1, ""teeth"": 1}","[""share a single eye and tooth""]",[],"Near the Gorgons, at the edge of the world","Daughters of Phorcus and Ceto, sisters of the Gorgons.",Their eye and tooth are returned after they show Perseus the way.
 creature.greek.harpies,WINGED_SNATCHERS,{},"[""swoop down to snatch food""]",[],Thrace; afterwards a cave in Crete,Called 'the hounds of great Zeus' by Iris.,Spared at Iris's word and never to return to Phineus.
@@ -38,6 +39,7 @@ creature.irish.donn_cuailnge,BULL,{},"[""fifty boys could play on his back"", ""
 creature.irish.finnbennach,BULL,{},"[""the greatest bull of Connacht""]",[],Ailill's herds at Cruachan,Calved among Medb's cows.,"Torn apart by the Brown Bull, its pieces scattered across Ireland."
 creature.japanese.hare_of_inaba,TALKING_HARE,"{""body"": ""hare stripped of its fur""}","[""speaks"", ""foretells Ōkuninushi's marriage""]",[],Cape Keta in Inaba,Crossed from the island of Oki on the backs of the wani,Called the Hare Deity
 creature.mesopotamian.bull_of_heaven,DIVINE_BULL,{},"[""its snorting opens pits that swallow hundreds of men""]",[],,Given by Anu at Ishtar's demand.,Killed by Gilgamesh and Enkidu.
+creature.norse.audhumla,Primeval cow,{},"[""four rivers of milk"", ""licks Búri out of the ice""]",[],,Formed from the dripping rime in Ginnungagap,
 creature.norse.fafnir,DRAGON,{},"[""breathes venom"", ""wears the helm of terror""]",[],"Gnitaheiðr, lying on the hoard","A man, son of Hreiðmarr, who took the shape of a serpent out of greed for the gold.",Stabbed from below by Sigurðr with Gram.
 creature.norse.fenrir,MONSTER,{},[],[],,,
 creature.norse.garm,HELLHOUND,{},"[""the worst of monsters""]",[],Gnipahellir,Bound before the cave Gnipahellir.,Kills and is killed by Týr.
@@ -68,6 +70,8 @@ dragon.chinese.ao_bing,DRAGON_PRINCE,{},[],[],,Third son of the Dragon King of t
 dragon.chinese.black_dragon_jizhou,DRAGON,"{""color"":""black""}",[],[],,Named only in the Huainanzi Lan Ming Nüwa passage.,Killed by Nüwa to relieve Jizhou in that witness.
 dragon.chinese.jinghe_dragon_king,DRAGON_KING,{},"[""brings rain at heaven's command""]",[],The Jing River near Chang'an,River dragon king in the novel.,Beheaded in Wei Zheng's dream for disobeying heaven's decree.
 dragon.chinese.white_dragon_horse,DRAGON_PRINCE,{},"[""takes the form of a white horse""]",[],Eagle Grief Gorge until the pilgrimage,"Third son of the Dragon King of the Western Sea, condemned for burning a pearl.",Carries Tang Sanzang to the West.
+giant.norse.hrungnir,GIANT,{},"[""stone head, heart and shield"", ""whetstone weapon"", ""the horse Gullfaxi""]",[],Jötunheimr; the duel at Grjótúnagarðar,"Strongest of the giants, with a three-cornered heart of stone",His skull shattered by Thor's hammer at Grjótúnagarðar
+giant.norse.mokkurkalfi,GIANT,{},[],[],Grjótúnagarðar,"Made of clay by the giants, nine leagues tall, with a mare's heart",Felled by Thjálfi with little glory
 monster.japanese.yamata_no_orochi,MYTHIC_SERPENT,{},[],[],,Registered from the Kokugakuin academic summary of Kojiki and Nihongi narrative layers.,Defeated by Susanoo in the source-scoped narrative; Kusanagi is then found in the serpent's tail.
 monster.kiche.seven_macaw,NAMED_MYTHIC_OPPONENT,{},[],[],,Registered only from the public Smithsonian K'iche'-attributed Hero Twins overview.,The public overview says the Hero Twins defeat Seven Macaw; no larger cycle is inferred here.
 monster.sumerian.huwawa,MOUNTAIN_GUARDIAN,{},[],[],,Named opponent in Gilgameš and Ḫuwawa (Version A).,Confronted by Gilgameš and Enkidu.

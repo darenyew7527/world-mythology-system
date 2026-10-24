@@ -40,5 +40,15 @@
   - 来源：[Inana's Descent to the Netherworld](https://etcsl.orinst.ox.ac.uk/section1/tr141.htm)；定位：ETCSL 1.4.1, lines 282–310
 - `claim.v0320.inanna_long.11` [VERIFIED / TEXT_SAYS / 0.90] Inana refuses to hand Ninšubur, Šara or Lulal to the demons because each mourned for her in dirty garments.
   - 来源：[Inana's Descent to the Netherworld](https://etcsl.orinst.ox.ac.uk/section1/tr141.htm)；定位：ETCSL 1.4.1, lines 311–347
+- `claim.v0360.inana_ebih.04` [VERIFIED / TEXT_SAYS / 0.90] In the Sumerian composition Inana and Ebiḫ (ETCSL 1.3.2), Inana vows to fill the mountain range with terror, to bring battering rams, axes and arrows against it, to burn its forests, and to make it like a city cursed by An that is never restored.
+  - 来源：[Inana and Ebiḫ](https://etcsl.orinst.ox.ac.uk/section1/tr132.htm)；定位：ETCSL 1.3.2, Inana's vow
+- `claim.v0360.inana_ebih.05` [VERIFIED / TEXT_SAYS / 0.90] In the Sumerian composition Inana and Ebiḫ (ETCSL 1.3.2), Inana, daughter of Suen, puts on the garments of queenship, terror and radiance and carnelian rosettes, grasps the seven-headed mace and sets out at dawn.
+  - 来源：[Inana and Ebiḫ](https://etcsl.orinst.ox.ac.uk/section1/tr132.htm)；定位：ETCSL 1.3.2, Inana arrays herself
+- `claim.v0360.inana_ebih.06` [VERIFIED / TEXT_SAYS / 0.90] In the Sumerian composition Inana and Ebiḫ (ETCSL 1.3.2), Inana prostrates herself before An, greets him as her father, recalls that he made her terrifying in heaven and on earth, and asks leave to bring Ebiḫ low for showing her no respect.
+  - 来源：[Inana and Ebiḫ](https://etcsl.orinst.ox.ac.uk/section1/tr132.htm)；定位：ETCSL 1.3.2, Inana's plea to An
+- `claim.v0360.inana_ebih.08` [VERIFIED / TEXT_SAYS / 0.90] In the Sumerian composition Inana and Ebiḫ (ETCSL 1.3.2), Inana, in rage after An's answer, opens the gate of the house of battle and the lapis lazuli door and brings out battle, flood and an evil storm against Ebiḫ.
+  - 来源：[Inana and Ebiḫ](https://etcsl.orinst.ox.ac.uk/section1/tr132.htm)；定位：ETCSL 1.3.2, the attack on Ebiḫ
+- `claim.v0360.inana_ebih.10` [VERIFIED / TEXT_SAYS / 0.90] In the Sumerian composition Inana and Ebiḫ (ETCSL 1.3.2), Inana declares that she has killed the mountain range because of its height and beauty and because it did not bow to her, builds a temple there, and the poem closes in praise of Inana for destroying Ebiḫ.
+  - 来源：[Inana and Ebiḫ](https://etcsl.orinst.ox.ac.uk/section1/tr132.htm)；定位：ETCSL 1.3.2, Inana's victory speech and closing praise
 
 > 本档案只代表当前阶段性基线，不是对该传统的最终或唯一解释。

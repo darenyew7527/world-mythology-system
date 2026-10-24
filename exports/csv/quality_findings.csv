@@ -1,1 +1,2 @@
 id,quality_run_id,severity,rule_code,entity_id,claim_id,message,status
+finding.quality.20260810.baseline.001,quality.20260810.baseline,MEDIUM,PHYSICAL_INVERSE_DUPLICATE,,,5 physical inverse pairs should be reviewed,OPEN

@@ -1,26 +1,26 @@
 {
-  "artifactVersion": "0.35.0",
-  "projectVersion": "0.35.0-world-epics",
-  "dataVersion": "0.35.0",
-  "generatedAt": "2026-10-24T21:00:00Z",
-  "databaseSha256": "fe24dcaa321424ac4c3c26bb5d806953585f856718a86a005222a6a04a758b0f",
+  "artifactVersion": "0.36.0",
+  "projectVersion": "0.36.0-deity-story-upgrade",
+  "dataVersion": "0.36.0",
+  "generatedAt": "2026-10-24T23:30:00Z",
+  "databaseSha256": "7dcec3c35a72a6a5dcc2830654b71cdad18c2e142bb21ef10b0e3cb264699393",
   "counts": {
-    "stories": 105,
-    "storyVersions": 120,
-    "storySections": 961,
+    "stories": 120,
+    "storyVersions": 137,
+    "storySections": 1172,
     "readingRoutes": 7,
-    "storySeries": 13,
-    "deityStoryCards": 245
+    "storySeries": 14,
+    "deityStoryCards": 252
   },
   "privacyModel": "NO_PERSONAL_READING_STATE; PUBLIC_SNAPSHOT_ONLY",
   "artifacts": {
-    "world-mythology-v0.35-story-archive.html": {
-      "sha256": "7e626528a67378f729f697d2d3dd95168efa86f6dda42a50270322096dde9b63",
-      "bytes": 3322932
+    "world-mythology-v0.36-story-archive.html": {
+      "sha256": "7c7c1194d325ee44653bdf58c063349b25b810496767768f56aae64bff1b07e3",
+      "bytes": 4108125
     },
-    "world-mythology-v0.35-story-archive.json": {
-      "sha256": "4b55d8f7f62f615a5a9739aeb391a4fe1048dab0db5ee84f7ee4dcc13d422437",
-      "bytes": 8686948
+    "world-mythology-v0.36-story-archive.json": {
+      "sha256": "de5e33f96446c7b8e572a71fa064415d3024acea49e3501e4a75cf86968219c2",
+      "bytes": 11632778
     }
   }
 }

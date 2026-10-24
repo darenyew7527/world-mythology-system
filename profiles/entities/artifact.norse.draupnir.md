@@ -18,6 +18,7 @@
 |---|---|---|---:|---:|---|
 | `CREATED_BY` | 布洛克 (`being.norse.brokkr`) | PROVISIONAL / TEXT_SAYS / MYTHIC_NARRATIVE | 1 | 0.96 | inferred inverse; `claim.brokkr.creator_draupnir` |
 | `CREATED_BY` | 艾特里 (`being.norse.eitri`) | PROVISIONAL / TEXT_SAYS / MYTHIC_NARRATIVE | 1 | 0.88 | inferred inverse; `claim.eitri.creator_draupnir` |
+| `CREATED_BY` | 艾特里 (`being.norse.eitri`) | VERIFIED / TEXT_SAYS / MYTHIC_NARRATIVE | 1 | 0.90 | inferred inverse; `claim.v0360.skald_sif.07` |
 
 ## Claims 与证据
 

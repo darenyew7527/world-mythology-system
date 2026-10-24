@@ -26,6 +26,18 @@
 
 ## Claims 与证据
 
+- `claim.v0360.hym_hermes.02` [VERIFIED / TEXT_SAYS / 0.90] Homeric Hymn 4, lines 20–61, says that the newborn Hermes found a tortoise at the mouth of Maia's cave, made a seven-stringed lyre from its shell and sang of Zeus and Maia.
+  - 来源：[Hesiod, the Homeric Hymns, and Homerica, tr. Hugh G. Evelyn-White (1914)](https://www.gutenberg.org/ebooks/348)；定位：Homeric Hymn 4, lines 20–61
+- `claim.v0360.hym_hermes.03` [VERIFIED / TEXT_SAYS / 0.90] Homeric Hymn 4, lines 62–86, says that at sunset Hermes went to Pieria, took fifty of the gods' cattle, drove them backwards to confuse their tracks and wove sandals of tamarisk and myrtle twigs to hide his own.
+  - 来源：[Hesiod, the Homeric Hymns, and Homerica, tr. Hugh G. Evelyn-White (1914)](https://www.gutenberg.org/ebooks/348)；定位：Homeric Hymn 4, lines 62–86
+- `claim.v0360.hym_hermes.04` [VERIFIED / TEXT_SAYS / 0.90] Homeric Hymn 4, lines 87–104, says that Hermes told an old man working his vineyard at Onchestus to keep silent about what he had seen, and drove Apollo's cattle through the night to a byre by the river Alpheus.
+  - 来源：[Hesiod, the Homeric Hymns, and Homerica, tr. Hugh G. Evelyn-White (1914)](https://www.gutenberg.org/ebooks/348)；定位：Homeric Hymn 4, lines 87–104
+- `claim.v0360.hym_hermes.05` [VERIFIED / TEXT_SAYS / 0.90] Homeric Hymn 4, lines 105–141, says that Hermes, the first to make fire with fire-sticks, slaughtered two of the cows by the Alpheus, divided the roasted meat into twelve portions without eating it, and destroyed the traces of the feast.
+  - 来源：[Hesiod, the Homeric Hymns, and Homerica, tr. Hugh G. Evelyn-White (1914)](https://www.gutenberg.org/ebooks/348)；定位：Homeric Hymn 4, lines 105–141
+- `claim.v0360.hym_hermes.09` [VERIFIED / TEXT_SAYS / 0.90] Homeric Hymn 4, lines 278–322, says that Apollo laughed at Hermes and named him prince of robbers, that Hermes, when lifted, sent forth an omen and sneezed, and that the two agreed to take their quarrel to Zeus.
+  - 来源：[Hesiod, the Homeric Hymns, and Homerica, tr. Hugh G. Evelyn-White (1914)](https://www.gutenberg.org/ebooks/348)；定位：Homeric Hymn 4, lines 278–322
+- `claim.v0360.hym_hermes.11` [VERIFIED / TEXT_SAYS / 0.90] Homeric Hymn 4, lines 397–502, says that when Apollo tried to bind Hermes the withies took root around the cattle, and that Hermes enchanted Apollo with the lyre and gave it to him in exchange for the cattle and the herdsman's whip.
+  - 来源：[Hesiod, the Homeric Hymns, and Homerica, tr. Hugh G. Evelyn-White (1914)](https://www.gutenberg.org/ebooks/348)；定位：Homeric Hymn 4, lines 397–502
 - `claim.v050.h4.hermes_lyre` [VERIFIED / TEXT_SAYS / 0.99] Homeric Hymn 4 narrates Hermes constructing and playing a lyre.
   - 来源：[Homeric Hymn 4 to Hermes, Evelyn-White English text](https://scaife.perseus.org/reader/urn%3Acts%3AgreekLit%3Atlg0013.tlg004.perseus-eng2%3A1-140/)；定位：lines 24-55
 - `claim.v050.h4.hermes_messenger` [VERIFIED / TEXT_SAYS / 0.99] The opening of Homeric Hymn 4 calls Hermes a messenger of the gods.

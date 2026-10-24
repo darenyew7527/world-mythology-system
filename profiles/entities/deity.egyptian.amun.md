@@ -24,6 +24,10 @@
 
 - `claim.egypt.amun_worshipped_karnak` [VERIFIED / HISTORICAL_REALITY / 0.95] Thebes and its Karnak complex are materially connected with the cult of Amun.
   - 来源：[Ancient Thebes with its Necropolis](https://whc.unesco.org/en/list/87/)；定位：World Heritage property description
+- `claim.v0360.hatshepsut_birth.02` [VERIFIED / TEXT_SAYS / 0.90] The divine birth cycle at Deir el-Bahari shows Amun conferring with Thoth, who tells him of Ahmose, queen of Thutmose I, as the woman to bear his child.
+  - 来源：[Divine birth cycle of Hatshepsut, Deir el-Bahari: Thesaurus Linguae Aegyptiae scene texts (after Brunner's numbering)](https://thesaurus-linguae-aegyptiae.de/text/HT6VX6MTDFA23BCFLNEKOTHO2I)；定位：Deir el-Bahari, middle colonnade (north), birth cycle: Amun and Thoth
+- `claim.v0360.hatshepsut_birth.05` [VERIFIED / TEXT_SAYS / 0.90] The divine birth cycle at Deir el-Bahari shows Amun commanding Khnum to fashion his daughter and her ka, to be greater than all the gods and king of the Two Lands.
+  - 来源：[Divine birth cycle of Hatshepsut, Deir el-Bahari: Thesaurus Linguae Aegyptiae scene texts (after Brunner's numbering)](https://thesaurus-linguae-aegyptiae.de/text/HT6VX6MTDFA23BCFLNEKOTHO2I)；定位：Deir el-Bahari, middle colonnade (north), birth cycle: Amun commands Khnum
 - `claim.v070.egypt.amun_member_theban_triad` [VERIFIED / SCHOLARLY_INTERPRETATION / 0.98] Amun is the father member of the Theban triad in the registered scholarly synthesis.
   - 来源：[Anthropomorphic Deities](https://escholarship.org/uc/item/5s54w4tc)；定位：UEE 2008 p.6
 

@@ -15,6 +15,10 @@ series.greek.heroes_library,1,story.greek.perseus_library,第一部 · 珀尔修
 series.greek.heroes_library,2,story.greek.heracles_birth_labours,第二部 · 赫拉克勒斯（上）,Part 2: Heracles I,Library 2.4.5–2.5.6,
 series.greek.heroes_library,3,story.greek.heracles_far_labours,第三部 · 赫拉克勒斯（中）,Part 3: Heracles II,Library 2.5.7–2.5.12,
 series.greek.heroes_library,4,story.greek.heracles_death_apotheosis,第四部 · 赫拉克勒斯（下）,Part 4: Heracles III,Library 2.6.1–2.8.1,本部略去《书库》2.7.4：攻打斯巴达、杀死希波科翁诸子，以及奥格在忒革亚生下忒勒福斯。
+series.greek.homeric_hymns,1,story.greek.demeter_persephone,第一部 · 致得墨忒耳,Part 1: to Demeter,"Hymn 2, lines 1–495",
+series.greek.homeric_hymns,2,story.greek.hymn_apollo,第二部 · 致阿波罗,Part 2: to Apollo,"Hymn 3, lines 1–546",
+series.greek.homeric_hymns,3,story.greek.hymn_hermes,第三部 · 致赫尔墨斯,Part 3: to Hermes,"Hymn 4, lines 1–580",
+series.greek.homeric_hymns,4,story.greek.hymn_aphrodite,第四部 · 致阿佛洛狄忒,Part 4: to Aphrodite,"Hymn 5, lines 1–293",
 series.greek.odyssey,1,story.greek.odyssey_wanderings,上部 · 漂泊,Part 1: the wanderings,Books I–XII,
 series.greek.odyssey,2,story.greek.odyssey_homecoming,下部 · 归家,Part 2: the homecoming,Books XIII–XXIV,
 series.hindu.mahabharata_tales,1,story.hindu.nala_damayanti,第一部 · 那罗与达摩衍蒂,Part 1: Nala and Damayantī,Vana Parva LII–LXXIX,

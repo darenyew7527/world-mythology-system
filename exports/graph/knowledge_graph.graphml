@@ -29,6 +29,7 @@
     <node id="artifact.norse.gjallarhorn"><data key="name">Gjallarhorn</data><data key="type">ARTIFACT</data></node>
     <node id="artifact.norse.gleipnir"><data key="name">Gleipnir</data><data key="type">ARTIFACT</data></node>
     <node id="artifact.norse.naglfar"><data key="name">Naglfar</data><data key="type">SHIP</data></node>
+    <node id="artifact.norse.skidbladnir"><data key="name">Skíðblaðnir</data><data key="type">SHIP</data></node>
     <node id="artifact.welsh.cauldron_of_rebirth"><data key="name">Cauldron of rebirth</data><data key="type">SACRED_OBJECT</data></node>
     <node id="artifact.yoruba.ose_sango"><data key="name">Ose Sango</data><data key="type">SACRED_OBJECT</data></node>
     <node id="being.chinese.pangu"><data key="name">Pangu</data><data key="type">GIANT</data></node>
@@ -132,6 +133,7 @@
     <node id="creature.greek.cerberus"><data key="name">Cerberus</data><data key="type">MONSTER</data></node>
     <node id="creature.greek.charybdis"><data key="name">Charybdis</data><data key="type">MONSTER</data></node>
     <node id="creature.greek.cyclopes_hesiodic"><data key="name">Hesiodic Cyclopes</data><data key="type">GIANT</data></node>
+    <node id="creature.greek.delphic_drakaina"><data key="name">Delphic she-dragon</data><data key="type">MONSTER</data></node>
     <node id="creature.greek.geryon"><data key="name">Geryon</data><data key="type">GIANT</data></node>
     <node id="creature.greek.graeae"><data key="name">Graeae (Phorcides)</data><data key="type">MONSTER</data></node>
     <node id="creature.greek.harpies"><data key="name">Harpies</data><data key="type">MONSTER</data></node>
@@ -154,6 +156,7 @@
     <node id="creature.irish.finnbennach"><data key="name">Finnbennach</data><data key="type">DIVINE_BEAST</data></node>
     <node id="creature.japanese.hare_of_inaba"><data key="name">White Hare of Inaba</data><data key="type">DIVINE_BEAST</data></node>
     <node id="creature.mesopotamian.bull_of_heaven"><data key="name">Bull of Heaven</data><data key="type">MONSTER</data></node>
+    <node id="creature.norse.audhumla"><data key="name">Auðumbla</data><data key="type">DIVINE_BEAST</data></node>
     <node id="creature.norse.fafnir"><data key="name">Fáfnir</data><data key="type">DRAGON</data></node>
     <node id="creature.norse.fenrir"><data key="name">Fenrir</data><data key="type">MONSTER</data></node>
     <node id="creature.norse.garm"><data key="name">Garmr</data><data key="type">MONSTER</data></node>
@@ -197,9 +200,11 @@
     <node id="deity.egyptian.atum_ra"><data key="name">Atum-Ra</data><data key="type">DEITY</data></node>
     <node id="deity.egyptian.geb"><data key="name">Geb</data><data key="type">DEITY</data></node>
     <node id="deity.egyptian.hathor"><data key="name">Hathor</data><data key="type">DEITY</data></node>
+    <node id="deity.egyptian.heqet"><data key="name">Heqet</data><data key="type">DEITY</data></node>
     <node id="deity.egyptian.horus"><data key="name">Horus</data><data key="type">DEITY</data></node>
     <node id="deity.egyptian.isis"><data key="name">Isis</data><data key="type">DEITY</data></node>
     <node id="deity.egyptian.khepri"><data key="name">Khepri</data><data key="type">DEITY</data></node>
+    <node id="deity.egyptian.khnum"><data key="name">Khnum</data><data key="type">DEITY</data></node>
     <node id="deity.egyptian.khonsu"><data key="name">Khonsu</data><data key="type">DEITY</data></node>
     <node id="deity.egyptian.ma_at"><data key="name">Ma'at</data><data key="type">DEITY</data></node>
     <node id="deity.egyptian.mut"><data key="name">Mut</data><data key="type">DEITY</data></node>
@@ -235,6 +240,7 @@
     <node id="deity.greek.demeter"><data key="name">Demeter</data><data key="type">DEITY</data></node>
     <node id="deity.greek.dione"><data key="name">Dione</data><data key="type">DEITY</data></node>
     <node id="deity.greek.dionysus"><data key="name">Dionysus</data><data key="type">DEITY</data></node>
+    <node id="deity.greek.eileithyia"><data key="name">Eileithyia</data><data key="type">DEITY</data></node>
     <node id="deity.greek.eos"><data key="name">Eos</data><data key="type">DEITY</data></node>
     <node id="deity.greek.erebus"><data key="name">Erebus</data><data key="type">PRIMORDIAL_DEITY</data></node>
     <node id="deity.greek.eros"><data key="name">Eros</data><data key="type">DEITY</data></node>
@@ -251,6 +257,7 @@
     <node id="deity.greek.hestia"><data key="name">Hestia</data><data key="type">DEITY</data></node>
     <node id="deity.greek.hyperion"><data key="name">Hyperion</data><data key="type">DEITY</data></node>
     <node id="deity.greek.hypnos"><data key="name">Hypnos</data><data key="type">DEITY</data></node>
+    <node id="deity.greek.iris"><data key="name">Iris</data><data key="type">DEITY</data></node>
     <node id="deity.greek.leto"><data key="name">Leto</data><data key="type">DEITY</data></node>
     <node id="deity.greek.maia"><data key="name">Maia</data><data key="type">DEITY</data></node>
     <node id="deity.greek.metis"><data key="name">Metis</data><data key="type">DEITY</data></node>
@@ -259,11 +266,14 @@
     <node id="deity.greek.persephone"><data key="name">Persephone</data><data key="type">DEITY</data></node>
     <node id="deity.greek.perses"><data key="name">Perses (Titan)</data><data key="type">DEITY</data></node>
     <node id="deity.greek.perses_helios"><data key="name">Perses (son of Helios)</data><data key="type">DEITY</data></node>
+    <node id="deity.greek.phoebe"><data key="name">Phoebe</data><data key="type">DEITY</data></node>
+    <node id="deity.greek.pontus"><data key="name">Pontus</data><data key="type">PRIMORDIAL_DEITY</data></node>
     <node id="deity.greek.poseidon"><data key="name">Poseidon</data><data key="type">DEITY</data></node>
     <node id="deity.greek.prometheus"><data key="name">Prometheus</data><data key="type">DEITY</data></node>
     <node id="deity.greek.rhea"><data key="name">Rhea</data><data key="type">DEITY</data></node>
     <node id="deity.greek.selene"><data key="name">Selene</data><data key="type">DEITY</data></node>
     <node id="deity.greek.semele"><data key="name">Semele</data><data key="type">DEITY</data></node>
+    <node id="deity.greek.styx"><data key="name">Styx</data><data key="type">DEITY</data></node>
     <node id="deity.greek.thanatos"><data key="name">Thanatos</data><data key="type">DEITY</data></node>
     <node id="deity.greek.theia"><data key="name">Theia</data><data key="type">DEITY</data></node>
     <node id="deity.greek.uranus"><data key="name">Uranus</data><data key="type">PRIMORDIAL_DEITY</data></node>
@@ -490,6 +500,8 @@
     <node id="festival.greek.great_eleusinia"><data key="name">Great Eleusinia</data><data key="type">FESTIVAL</data></node>
     <node id="festival.japan.kamo_aoi"><data key="name">Kamo Festival (Aoi Matsuri)</data><data key="type">FESTIVAL</data></node>
     <node id="festival.yoruba.sango_oyo"><data key="name">Sango Festival, Oyo</data><data key="type">FESTIVAL</data></node>
+    <node id="giant.norse.hrungnir"><data key="name">Hrungnir</data><data key="type">GIANT</data></node>
+    <node id="giant.norse.mokkurkalfi"><data key="name">Mökkurkálfi</data><data key="type">GIANT</data></node>
     <node id="group.egyptian.theban_triad"><data key="name">Theban Triad</data><data key="type">CONCEPT</data></node>
     <node id="group.japanese.eight_thunder_kami"><data key="name">Eight Thunder Kami of the Kojiki</data><data key="type">CONCEPT</data></node>
     <node id="hero.chinese.chi_bi"><data key="name">Chi Bi</data><data key="type">HERO</data></node>
@@ -507,6 +519,8 @@
     <node id="hero.chinese.zhu_bajie"><data key="name">Zhu Bajie</data><data key="type">HERO</data></node>
     <node id="hero.chinese.zhuanxu"><data key="name">Zhuanxu</data><data key="type">HERO</data></node>
     <node id="hero.chinese.ziyu"><data key="name">Ziyu</data><data key="type">HERO</data></node>
+    <node id="hero.egyptian.anpu"><data key="name">Anubis (elder brother in the Tale of Two Brothers)</data><data key="type">HERO</data></node>
+    <node id="hero.egyptian.bata"><data key="name">Bata</data><data key="type">HERO</data></node>
     <node id="hero.finnish.aino"><data key="name">Aino</data><data key="type">HERO</data></node>
     <node id="hero.finnish.ilmarinen"><data key="name">Ilmarinen</data><data key="type">HERO</data></node>
     <node id="hero.finnish.joukahainen"><data key="name">Joukahainen</data><data key="type">HERO</data></node>
@@ -518,33 +532,44 @@
     <node id="hero.finnish.maiden_of_pohjola"><data key="name">Maiden of Pohjola</data><data key="type">HERO</data></node>
     <node id="hero.finnish.vainamoinen"><data key="name">Väinämöinen</data><data key="type">HERO</data></node>
     <node id="hero.greek.acrisius"><data key="name">Acrisius</data><data key="type">HERO</data></node>
+    <node id="hero.greek.actaeon"><data key="name">Actaeon</data><data key="type">HERO</data></node>
     <node id="hero.greek.aeetes"><data key="name">Aeetes</data><data key="type">HERO</data></node>
+    <node id="hero.greek.aeneas"><data key="name">Aeneas</data><data key="type">HERO</data></node>
     <node id="hero.greek.alcmena"><data key="name">Alcmena</data><data key="type">HERO</data></node>
     <node id="hero.greek.amphitryon"><data key="name">Amphitryon</data><data key="type">HERO</data></node>
+    <node id="hero.greek.anchises"><data key="name">Anchises</data><data key="type">HERO</data></node>
     <node id="hero.greek.andromeda"><data key="name">Andromeda</data><data key="type">HERO</data></node>
     <node id="hero.greek.apsyrtus"><data key="name">Apsyrtus</data><data key="type">HERO</data></node>
+    <node id="hero.greek.callisto"><data key="name">Callisto</data><data key="type">HERO</data></node>
     <node id="hero.greek.danae"><data key="name">Danaë</data><data key="type">HERO</data></node>
     <node id="hero.greek.deianira"><data key="name">Deianira</data><data key="type">HERO</data></node>
+    <node id="hero.greek.diomedes"><data key="name">Diomedes</data><data key="type">HERO</data></node>
     <node id="hero.greek.eurystheus"><data key="name">Eurystheus</data><data key="type">HERO</data></node>
+    <node id="hero.greek.ganymede"><data key="name">Ganymede</data><data key="type">HERO</data></node>
     <node id="hero.greek.heracles"><data key="name">Heracles</data><data key="type">HERO</data></node>
     <node id="hero.greek.hippolyte"><data key="name">Hippolyte</data><data key="type">HERO</data></node>
     <node id="hero.greek.hylas"><data key="name">Hylas</data><data key="type">HERO</data></node>
     <node id="hero.greek.hypsipyle"><data key="name">Hypsipyle</data><data key="type">HERO</data></node>
     <node id="hero.greek.iolaus"><data key="name">Iolaus</data><data key="type">HERO</data></node>
     <node id="hero.greek.iole"><data key="name">Iole</data><data key="type">HERO</data></node>
+    <node id="hero.greek.iphigenia"><data key="name">Iphigenia</data><data key="type">HERO</data></node>
     <node id="hero.greek.jason"><data key="name">Jason</data><data key="type">HERO</data></node>
     <node id="hero.greek.laertes"><data key="name">Laertes</data><data key="type">HERO</data></node>
     <node id="hero.greek.medea"><data key="name">Medea</data><data key="type">HERO</data></node>
+    <node id="hero.greek.niobe"><data key="name">Niobe</data><data key="type">HERO</data></node>
     <node id="hero.greek.odysseus"><data key="name">Odysseus</data><data key="type">HERO</data></node>
     <node id="hero.greek.omphale"><data key="name">Omphale</data><data key="type">HERO</data></node>
+    <node id="hero.greek.orion"><data key="name">Orion</data><data key="type">HERO</data></node>
     <node id="hero.greek.orpheus"><data key="name">Orpheus</data><data key="type">HERO</data></node>
     <node id="hero.greek.pelias"><data key="name">Pelias</data><data key="type">HERO</data></node>
     <node id="hero.greek.penelope"><data key="name">Penelope</data><data key="type">HERO</data></node>
+    <node id="hero.greek.pentheus"><data key="name">Pentheus</data><data key="type">HERO</data></node>
     <node id="hero.greek.perses_perseus_son"><data key="name">Perses (son of Perseus)</data><data key="type">HERO</data></node>
     <node id="hero.greek.perseus"><data key="name">Perseus</data><data key="type">HERO</data></node>
     <node id="hero.greek.phineus"><data key="name">Phineus</data><data key="type">HERO</data></node>
     <node id="hero.greek.polydeuces"><data key="name">Polydeuces</data><data key="type">HERO</data></node>
     <node id="hero.greek.telemachus"><data key="name">Telemachus</data><data key="type">HERO</data></node>
+    <node id="hero.greek.tithonus"><data key="name">Tithonus</data><data key="type">HERO</data></node>
     <node id="hero.greek.triptolemos"><data key="name">Triptolemos</data><data key="type">HERO</data></node>
     <node id="hero.indian.abhimanyu"><data key="name">Abhimanyu</data><data key="type">HERO</data></node>
     <node id="hero.indian.ahalya"><data key="name">Ahalyā</data><data key="type">HERO</data></node>
@@ -619,6 +644,11 @@
     <node id="historical.achaemenid.darius_i"><data key="name">Darius I</data><data key="type">HISTORICAL_FIGURE</data></node>
     <node id="historical.achaemenid.xerxes_i"><data key="name">Xerxes I</data><data key="type">HISTORICAL_FIGURE</data></node>
     <node id="historical.chinese.tang_taizong"><data key="name">Emperor Taizong of Tang</data><data key="type">HISTORICAL_FIGURE</data></node>
+    <node id="historical.egyptian.ahmose_queen"><data key="name">Ahmose (queen of Thutmose I)</data><data key="type">HISTORICAL_FIGURE</data></node>
+    <node id="historical.egyptian.hatshepsut"><data key="name">Hatshepsut</data><data key="type">HISTORICAL_FIGURE</data></node>
+    <node id="historical.egyptian.ramesses_ii"><data key="name">Ramesses II</data><data key="type">HISTORICAL_FIGURE</data></node>
+    <node id="historical.egyptian.shabaka"><data key="name">Shabaka</data><data key="type">HISTORICAL_FIGURE</data></node>
+    <node id="historical.egyptian.thutmose_i"><data key="name">Thutmose I</data><data key="type">HISTORICAL_FIGURE</data></node>
     <node id="historical.japan.ogata_korin"><data key="name">Ogata Kōrin</data><data key="type">HISTORICAL_FIGURE</data></node>
     <node id="historical.japan.sakai_hoitsu"><data key="name">Sakai Hōitsu</data><data key="type">HISTORICAL_FIGURE</data></node>
     <node id="historical.japan.tawaraya_sotatsu"><data key="name">Tawaraya Sotatsu</data><data key="type">HISTORICAL_FIGURE</data></node>
@@ -669,12 +699,15 @@
     <node id="museum.ugarit.baal_thunder_ao15775"><data key="name">Baal with Thunderbolt stele AO 15775</data><data key="type">MUSEUM_OBJECT</data></node>
     <node id="person.chinese.han_ping"><data key="name">Han Ping</data><data key="type">PERSON</data></node>
     <node id="person.chinese.song_dingbo"><data key="name">Song Dingbo</data><data key="type">PERSON</data></node>
+    <node id="person.egyptian.bentresh"><data key="name">Bentresh</data><data key="type">PERSON</data></node>
     <node id="person.finnish.kalervo"><data key="name">Kalervo</data><data key="type">PERSON</data></node>
     <node id="person.finnish.markahattu"><data key="name">Märkähattu</data><data key="type">PERSON</data></node>
     <node id="person.finnish.untamo"><data key="name">Untamo</data><data key="type">PERSON</data></node>
     <node id="person.greek.antinous"><data key="name">Antinous</data><data key="type">PERSON</data></node>
     <node id="person.greek.eumaeus"><data key="name">Eumaeus</data><data key="type">PERSON</data></node>
     <node id="person.greek.eurycleia"><data key="name">Eurycleia</data><data key="type">PERSON</data></node>
+    <node id="person.greek.icarius_attica"><data key="name">Icarius (of Attica)</data><data key="type">PERSON</data></node>
+    <node id="person.greek.lycurgus_edonian"><data key="name">Lycurgus (king of the Edonians)</data><data key="type">PERSON</data></node>
     <node id="person.greek.polydectes"><data key="name">Polydectes</data><data key="type">PERSON</data></node>
     <node id="person.indian.ashvapati"><data key="name">Aśvapati</data><data key="type">PERSON</data></node>
     <node id="person.indian.dyumatsena"><data key="name">Dyumatsena</data><data key="type">PERSON</data></node>
@@ -710,6 +743,7 @@
     <node id="place.norse.noatun"><data key="name">Nóatún</data><data key="type">MYTHICAL_PLACE</data></node>
     <node id="place.persian.mazandaran"><data key="name">Māzandarān</data><data key="type">MYTHICAL_PLACE</data></node>
     <node id="place.sumerian.dilmun"><data key="name">Dilmun (in Enki and Ninhursaĝa)</data><data key="type">MYTHICAL_PLACE</data></node>
+    <node id="place.sumerian.ebih"><data key="name">Ebiḫ</data><data key="type">MYTHICAL_PLACE</data></node>
     <node id="place.welsh.annwn"><data key="name">Annwn</data><data key="type">REALM</data></node>
     <node id="place.zoroastrian.airyana_vaejah"><data key="name">Airyana Vaejah</data><data key="type">MYTHICAL_PLACE</data></node>
     <node id="realm.egypt.duat"><data key="name">Duat</data><data key="type">REALM</data></node>
@@ -848,6 +882,7 @@
     <node id="text.chinese.xiyouji"><data key="name">Journey to the West</data><data key="type">TEXT</data></node>
     <node id="text.chinese.zhouyi_xici"><data key="name">Xi Ci commentary of the Zhouyi</data><data key="type">TEXT</data></node>
     <node id="text.egypt.amduat"><data key="name">Amduat</data><data key="type">TEXT</data></node>
+    <node id="text.egypt.bentresh_stela"><data key="name">Bentresh Stela</data><data key="type">INSCRIPTION</data></node>
     <node id="text.egypt.book_caverns"><data key="name">Book of Caverns</data><data key="type">TEXT</data></node>
     <node id="text.egypt.book_dead"><data key="name">Book of the Dead</data><data key="type">PAPYRUS</data></node>
     <node id="text.egypt.book_dead_chapter15"><data key="name">Book of the Dead Chapter 15</data><data key="type">TEXT</data></node>
@@ -862,11 +897,13 @@
     <node id="text.egypt.darius_susa.subject_list.right_twelve"><data key="name">Darius Statue Subject List — Right-side Twelve</data><data key="type">INSCRIPTION</data></node>
     <node id="text.egypt.darius_susa_hieroglyphic_program"><data key="name">Darius Susa Statue Hieroglyphic Program</data><data key="type">TEXT</data></node>
     <node id="text.egypt.darius_susa_hieroglyphic_province_list"><data key="name">Darius Statue Hieroglyphic Subject-Peoples List</data><data key="type">TEXT</data></node>
+    <node id="text.egypt.hatshepsut_birth_cycle"><data key="name">Divine birth cycle of Hatshepsut</data><data key="type">INSCRIPTION</data></node>
     <node id="text.egypt.litany_re"><data key="name">Litany of Re</data><data key="type">TEXT</data></node>
     <node id="text.egypt.memphite_theology"><data key="name">Memphite Theology</data><data key="type">INSCRIPTION</data></node>
     <node id="text.egypt.pyramid_texts"><data key="name">Pyramid Texts</data><data key="type">INSCRIPTION</data></node>
     <node id="text.egypt.sun_hymn_standard_c_prime"><data key="name">Sun Hymn: Assmann Standard Hymn C-prime</data><data key="type">TEXT</data></node>
     <node id="text.egypt.temple_tomb_inscriptions"><data key="name">Egyptian temple and tomb inscriptions</data><data key="type">INSCRIPTION</data></node>
+    <node id="text.egypt.two_brothers"><data key="name">Tale of Two Brothers</data><data key="type">TEXT</data></node>
     <node id="text.egyptian.tale_heavenly_cow"><data key="name">Tale of the Heavenly Cow</data><data key="type">TEXT</data></node>
     <node id="text.finnish.kalevala"><data key="name">Kalevala</data><data key="type">TEXT</data></node>
     <node id="text.greek.apollodorus_library"><data key="name">Pseudo-Apollodorus, Library</data><data key="type">TEXT</data></node>
@@ -955,10 +992,12 @@
     <node id="text.slavic.primary_chronicle"><data key="name">Tale of Bygone Years</data><data key="type">TEXT</data></node>
     <node id="text.sumerian.enki_ninhursag"><data key="name">Enki and Ninhursag</data><data key="type">TEXT</data></node>
     <node id="text.sumerian.enki_world_order"><data key="name">Enki and the World Order</data><data key="type">TEXT</data></node>
+    <node id="text.sumerian.inana_ebih"><data key="name">Inana and Ebiḫ</data><data key="type">TEXT</data></node>
     <node id="text.sumerian.inanna_descent"><data key="name">Inanna's Descent</data><data key="type">TEXT</data></node>
     <node id="text.sumerian.king_list"><data key="name">Sumerian King List</data><data key="type">TEXT</data></node>
     <node id="text.turkic.inscriptions"><data key="name">Old Turkic inscriptions</data><data key="type">INSCRIPTION</data></node>
     <node id="text.ugaritic.baal_cycle"><data key="name">Baal Cycle</data><data key="type">TABLET</data></node>
+    <node id="text.ugaritic.baal_cycle.ktu1_3_1_4"><data key="name">Baal Cycle, tablets KTU 1.3–1.4 (the palace of Baal)</data><data key="type">TABLET</data></node>
     <node id="text.ugaritic.baal_cycle.ktu1_5"><data key="name">Baal Cycle tablet KTU 1.5</data><data key="type">TABLET</data></node>
     <node id="text.ugaritic.baal_cycle.ktu1_6"><data key="name">Baal Cycle tablet KTU 1.6</data><data key="type">TABLET</data></node>
     <node id="text.vedic.aranyakas"><data key="name">Aranyakas</data><data key="type">SCRIPTURE</data></node>
@@ -1386,6 +1425,33 @@
     <edge id="claim.v0320.enuma_elish_long.10" source="deity.babylonian.marduk" target="deity.babylonian.tiamat"><data key="relation">KILLED</data></edge>
     <edge id="claim.v0320.fengshen_nezha.05" source="deity.chinese.nezha" target="dragon.chinese.ao_bing"><data key="relation">KILLED</data></edge>
     <edge id="claim.v0320.gilgamesh_sb.10" source="hero.sumerian.gilgamesh" target="creature.mesopotamian.bull_of_heaven"><data key="relation">KILLED</data></edge>
+    <edge id="claim.v0360.baal_palace.07" source="deity.ugaritic.kothar_wa_khasis" target="deity.ugaritic.asherah"><data key="relation">CREATOR_OF</data></edge>
+    <edge id="claim.v0360.gylf_creation.06" source="deity.norse.borr" target="being.norse.bestla"><data key="relation">CONSORT_OF</data></edge>
+    <edge id="claim.v0360.hatshepsut_birth.06" source="deity.egyptian.khnum" target="historical.egyptian.hatshepsut"><data key="relation">CREATOR_OF</data></edge>
+    <edge id="claim.v0360.hym_apollo.12" source="deity.greek.apollo" target="creature.greek.delphic_drakaina"><data key="relation">KILLED</data></edge>
+    <edge id="claim.v0360.lib_artemis.01" source="deity.greek.artemis" target="deity.greek.leto"><data key="relation">CHILD_OF</data></edge>
+    <edge id="claim.v0360.lib_artemis.03" source="deity.greek.artemis" target="hero.greek.orion"><data key="relation">KILLED</data></edge>
+    <edge id="claim.v0360.lib_artemis.10" source="deity.greek.artemis" target="hero.greek.callisto"><data key="relation">KILLED</data></edge>
+    <edge id="claim.v0360.lib_dionysus.03" source="deity.greek.dionysus" target="deity.greek.zeus"><data key="relation">CHILD_OF</data></edge>
+    <edge id="claim.v0360.skald_hrungnir.08" source="deity.norse.thor" target="giant.norse.hrungnir"><data key="relation">KILLED</data></edge>
+    <edge id="claim.v0360.skald_hrungnir.09" source="hero.norse.thjalfi" target="giant.norse.mokkurkalfi"><data key="relation">DEFEATED</data></edge>
+    <edge id="claim.v0360.skald_sif.01" source="deity.norse.ullr" target="deity.norse.sif"><data key="relation">CHILD_OF</data></edge>
+    <edge id="claim.v0360.skald_sif.04" source="being.norse.sons_of_ivaldi" target="artifact.norse.skidbladnir"><data key="relation">CREATOR_OF</data></edge>
+    <edge id="claim.v0360.skald_sif.06" source="being.norse.eitri" target="creature.norse.gullinbursti"><data key="relation">CREATOR_OF</data></edge>
+    <edge id="claim.v0360.skald_sif.07" source="being.norse.eitri" target="artifact.norse.draupnir"><data key="relation">CREATOR_OF</data></edge>
+    <edge id="claim.v0360.theog_titans.01" source="deity.greek.erebus" target="deity.greek.chaos"><data key="relation">CHILD_OF</data></edge>
+    <edge id="claim.v0360.theog_titans.02" source="deity.greek.aether" target="deity.greek.hemera"><data key="relation">SIBLING_OF</data></edge>
+    <edge id="claim.v0360.theog_titans.03" source="deity.greek.crius" target="deity.greek.theia"><data key="relation">SIBLING_OF</data></edge>
+    <edge id="claim.v0360.theog_titans.04" source="deity.greek.hypnos" target="deity.greek.thanatos"><data key="relation">SIBLING_OF</data></edge>
+    <edge id="claim.v0360.theog_titans.05" source="deity.greek.eurybia" target="deity.greek.pontus"><data key="relation">CHILD_OF</data></edge>
+    <edge id="claim.v0360.theog_titans.06" source="deity.greek.selene" target="deity.greek.hyperion"><data key="relation">CHILD_OF</data></edge>
+    <edge id="claim.v0360.theog_titans.07" source="deity.greek.astraeus" target="deity.greek.crius"><data key="relation">CHILD_OF</data></edge>
+    <edge id="claim.v0360.theog_titans.08" source="deity.greek.eos" target="deity.greek.astraeus"><data key="relation">CONSORT_OF</data></edge>
+    <edge id="claim.v0360.theog_titans.09" source="deity.greek.pallas_titan" target="deity.greek.styx"><data key="relation">CONSORT_OF</data></edge>
+    <edge id="claim.v0360.theog_titans.11" source="deity.greek.asteria" target="deity.greek.perses"><data key="relation">CONSORT_OF</data></edge>
+    <edge id="claim.v0360.theog_titans.12" source="deity.greek.hecate" target="deity.greek.perses"><data key="relation">CHILD_OF</data></edge>
+    <edge id="claim.v0360.theog_titans.15" source="deity.greek.eos" target="hero.greek.tithonus"><data key="relation">CONSORT_OF</data></edge>
+    <edge id="claim.v0360.two_brothers.01" source="hero.egyptian.bata" target="hero.egyptian.anpu"><data key="relation">SIBLING_OF</data></edge>
     <edge id="claim.v040.aether.child_erebus" source="deity.greek.aether" target="deity.greek.erebus"><data key="relation">CHILD_OF</data></edge>
     <edge id="claim.v040.aether.child_nyx" source="deity.greek.aether" target="deity.greek.nyx"><data key="relation">CHILD_OF</data></edge>
     <edge id="claim.v040.asteria.parent_hecate" source="deity.greek.asteria" target="deity.greek.hecate"><data key="relation">PARENT_OF</data></edge>

@@ -22,8 +22,8 @@ from world_mythology.story_cards import resolve_card
 
 DEFAULT_OUTPUT_DIR = PROJECT_ROOT / "web" / "public" / "offline"
 DEFAULT_MANIFEST = PROJECT_ROOT / "reports" / "offline_archive_manifest.json"
-HTML_NAME = "world-mythology-v0.35-story-archive.html"
-JSON_NAME = "world-mythology-v0.35-story-archive.json"
+HTML_NAME = "world-mythology-v0.36-story-archive.html"
+JSON_NAME = "world-mythology-v0.36-story-archive.json"
 # A deity card whose story has this many sections links to the full story
 # instead of repeating it (v0.32 long-form stories).
 LONG_STORY_SECTIONS = 12
@@ -270,7 +270,7 @@ def _render_html(archive: dict[str, Any]) -> str:
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width,initial-scale=1">
-  <title>世界神话系统 v0.35 离线故事档案</title>
+  <title>世界神话系统 v0.36 离线故事档案</title>
   <style>
     :root {{ color-scheme: light dark; --ink:#17222a; --muted:#52636e; --paper:#f7f2e8; --line:#c6bda9; --gold:#8b672f; --blue:#315f76; font-family: system-ui,-apple-system,"Noto Sans SC",sans-serif; }}
     * {{ box-sizing:border-box; }}
@@ -314,7 +314,7 @@ def _render_html(archive: dict[str, Any]) -> str:
   </style>
 </head>
 <body>
-  <header class="masthead"><span>v0.35 · OFFLINE / PRINT ARCHIVE</span><h1><span class="zh">世界神话故事离线档案</span><span class="en">World Mythology Offline Story Archive</span></h1><p><span class="zh">来源、证据定位与许可边界随故事一起保存；本文件不包含个人阅读记录，也不重建受限传统。</span><span class="en">Sources, evidence locators, and rights boundaries travel with each story. This file contains no personal reading history and does not reconstruct restricted traditions.</span></p></header>
+  <header class="masthead"><span>v0.36 · OFFLINE / PRINT ARCHIVE</span><h1><span class="zh">世界神话故事离线档案</span><span class="en">World Mythology Offline Story Archive</span></h1><p><span class="zh">来源、证据定位与许可边界随故事一起保存；本文件不包含个人阅读记录，也不重建受限传统。</span><span class="en">Sources, evidence locators, and rights boundaries travel with each story. This file contains no personal reading history and does not reconstruct restricted traditions.</span></p></header>
   <nav class="controls" aria-label="Archive filters"><input id="search" type="search" placeholder="搜索 / Search"><select id="civilization"><option value="ALL">全部传统 / All traditions</option>{options}</select><button id="language" type="button">中文 / EN</button><button type="button" onclick="window.print()">打印 / Print</button></nav>
   <aside class="archive-note"><strong>{_escape(archive['projectVersion'])}</strong> · {_escape(archive['generatedAt'])} · {len(stories)} stories · {len(archive.get('storySeries', []))} series · {len(cards)} deity cards<br>{_escape(archive['licenseNote'])}</aside>
   {series_html}

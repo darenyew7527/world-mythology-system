@@ -40,5 +40,7 @@ Serpentine multi-voiced opponent of Zeus in Hesiod; later variants must remain s
   - 来源：[Hesiod, Theogony, Evelyn-White English text](https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0130)；定位：Theogony 820-885
 - `claim.typhon.participated_battle` [VERIFIED / TEXT_SAYS / 0.99] Typhon is the defeated opponent in the Hesiodic combat.
   - 来源：[Hesiod, Theogony, Evelyn-White English text](https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0130)；定位：Theogony 820-885
+- `claim.v0360.hym_apollo.11` [VERIFIED / TEXT_SAYS / 0.90] Homeric Hymn 3, lines 305–355, says that Hera, angered that Zeus had borne Athena alone, prayed to Earth, Heaven and the Titans, kept away from Zeus for a year, bore Typhaon without him and gave him to the she-dragon to rear.
+  - 来源：[Hesiod, the Homeric Hymns, and Homerica, tr. Hugh G. Evelyn-White (1914)](https://www.gutenberg.org/ebooks/348)；定位：Homeric Hymn 3, lines 305–355
 
 > 本档案只代表当前阶段性基线，不是对该传统的最终或唯一解释。

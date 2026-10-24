@@ -77,7 +77,7 @@ class StorySeriesTests(unittest.TestCase):
         connection.row_factory = sqlite3.Row
         return connection
 
-    def test_schema_47_and_48_seal_v033_preserved_after_v035(self):
+    def test_schema_47_and_48_seal_v033_preserved_after_v036(self):
         with self.connect() as connection:
             migrations = dict(connection.execute(
                 "SELECT version,name FROM schema_migrations WHERE version IN (47,48)"
@@ -96,11 +96,11 @@ class StorySeriesTests(unittest.TestCase):
             ).fetchall())
         self.assertEqual(migrations, {47: "20261024_v0330_series", 48: "20261024_v0330_series_release"})
         self.assertEqual(dict(release), {"schema_version": 48, "data_version": "0.33.0"})
-        self.assertEqual(dict(latest), {"id": "release.v0.35.0", "schema_version": 52, "data_version": "0.35.0"})
+        self.assertEqual(dict(latest), {"id": "release.v0.36.0", "schema_version": 54, "data_version": "0.36.0"})
         self.assertEqual(tuple(batch), ("CHECKPOINT_COMPLETE", "0.33.0"))
         self.assertEqual(targets, {"COMPLETED": 13})
         meta = self.snapshot["meta"]
-        self.assertEqual(meta["projectVersion"], "0.35.0-world-epics")
+        self.assertEqual(meta["projectVersion"], "0.36.0-deity-story-upgrade")
         # Later versions only add series; the v0.33 checkpoint remains a lower bound.
         self.assertGreaterEqual(meta["counts"]["storySeries"], 3)
         self.assertGreaterEqual(meta["counts"]["storySeriesParts"], 14)
@@ -252,7 +252,7 @@ class StorySeriesTests(unittest.TestCase):
         self.assertNotIn("localStorage", series)
         for tag in ("<SeriesShelf", "<SeriesBar", "<SeriesNext"):
             self.assertIn(tag, library)
-        self.assertIn("v0.35", library)
+        self.assertIn("v0.36", library)
         self.assertIn("storySeries={data.storySeries || []}", app)
         self.assertIn("deity-series-part", reader)
         self.assertIn("wms-reader-v029", storage)
@@ -267,7 +267,7 @@ class StorySeriesTests(unittest.TestCase):
             manifest = generate(DB, root / "offline", root / "manifest.json")
             html_text = (root / "offline" / HTML_NAME).read_text(encoding="utf-8")
             archive = json.loads((root / "offline" / JSON_NAME).read_text(encoding="utf-8"))
-        self.assertEqual(HTML_NAME, "world-mythology-v0.35-story-archive.html")
+        self.assertEqual(HTML_NAME, "world-mythology-v0.36-story-archive.html")
         self.assertGreaterEqual(manifest["counts"]["storySeries"], 3)
         self.assertEqual([series["id"] for series in archive["storySeries"]][:len(SERIES)], list(SERIES))
         self.assertIn('id="series.chinese.xiyouji"', html_text)

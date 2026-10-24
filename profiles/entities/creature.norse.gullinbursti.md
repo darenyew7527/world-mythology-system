@@ -22,6 +22,7 @@ Golden-bristled boar produced in the smithing contest and given to Freyr.
 |---|---|---|---:|---:|---|
 | `CREATED_BY` | 布洛克 (`being.norse.brokkr`) | PROVISIONAL / TEXT_SAYS / MYTHIC_NARRATIVE | 1 | 0.96 | inferred inverse; `claim.brokkr.creator_gullinbursti` |
 | `CREATED_BY` | 艾特里 (`being.norse.eitri`) | PROVISIONAL / TEXT_SAYS / MYTHIC_NARRATIVE | 1 | 0.88 | inferred inverse; `claim.eitri.creator_gullinbursti` |
+| `CREATED_BY` | 艾特里 (`being.norse.eitri`) | VERIFIED / TEXT_SAYS / MYTHIC_NARRATIVE | 1 | 0.90 | inferred inverse; `claim.v0360.skald_sif.06` |
 
 ## Claims 与证据
 

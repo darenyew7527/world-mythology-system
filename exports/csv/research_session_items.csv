@@ -648,3 +648,22 @@ session.20261024.v0350_world_epics,STORY_SERIES,series.finnish.kalevala,CREATE,T
 session.20261024.v0350_world_epics,STORY_SERIES,series.hindu.mahabharata_tales,CREATE,The Mahābhārata (series)
 session.20261024.v0350_world_epics,STORY_SERIES,series.persian.shahnameh_rostam,CREATE,The Shahnameh (series)
 session.20261024.v0350_world_epics,RELEASE,release.v0.35.0,SEAL,Formal staged checkpoint: 15 completed targets — 14 series parts in 4 series and 1 standalone reading; no target blocked.
+session.20261024.v0360_deity_story_upgrade,STORY,story.greek.hymn_apollo,CREATE,"Homeric Hymns, Part 2: Apollo — Leto's wandering and Delphi"
+session.20261024.v0360_deity_story_upgrade,STORY,story.greek.hymn_hermes,CREATE,"Homeric Hymns, Part 3: Hermes — Maia's child"
+session.20261024.v0360_deity_story_upgrade,STORY,story.greek.hymn_aphrodite,CREATE,"Homeric Hymns, Part 4: Aphrodite — the goddess and the herdsman"
+session.20261024.v0360_deity_story_upgrade,STORY,story.greek.titans_children,CREATE,"The children of the Titans: light, wind, sleep and death (after Hesiod's Theogony)"
+session.20261024.v0360_deity_story_upgrade,STORY,story.greek.artemis_library,CREATE,Artemis: twelve tales of the huntress (after the Library)
+session.20261024.v0360_deity_story_upgrade,STORY,story.greek.dionysus_library,CREATE,Dionysus: the twice-born god (after the Library)
+session.20261024.v0360_deity_story_upgrade,STORY,story.greek.ares_iliad,CREATE,Ares: the war god before Troy (after the Iliad)
+session.20261024.v0360_deity_story_upgrade,STORY,story.norse.thor_hrungnir,CREATE,Thor and Hrungnir: the stone-hearted giant and three-year-old Magni
+session.20261024.v0360_deity_story_upgrade,STORY,story.egyptian.bentresh_khonsu,CREATE,Khonsu's journey: the tale of the Bentresh Stela
+session.20261024.v0360_deity_story_upgrade,STORY,story.egyptian.two_brothers,CREATE,"The Tale of Two Brothers: Bata, the Valley of the Pine and Pre-Harakhti"
+session.20261024.v0360_deity_story_upgrade,STORY,story.egyptian.hatshepsut_divine_birth,CREATE,Daughter of Amun: the divine birth of Hatshepsut
+session.20261024.v0360_deity_story_upgrade,STORY,story.egyptian.memphite_theology,CREATE,Ptah creates by heart and tongue: the Memphite Theology
+session.20261024.v0360_deity_story_upgrade,STORY,story.ugaritic.baal_palace,CREATE,"The palace of Baal: El, Athirat and the house of silver and gold"
+session.20261024.v0360_deity_story_upgrade,STORY,story.sumerian.inana_ebih,CREATE,Inana and Ebiḫ: the mountain that would not bow
+session.20261024.v0360_deity_story_upgrade,STORY,story.chinese.leigong_leixu,CREATE,Leigong: the Han image of the thunder god and Wang Chong's rebuttal
+session.20261024.v0360_deity_story_upgrade,STORY_VERSION,storyver.norse.gylf_4_12_creation_long,CREATE,"Snorri's Edda, Gylfaginning 4–12 (long retelling)"
+session.20261024.v0360_deity_story_upgrade,STORY_VERSION,storyver.norse.skald_35_sif_long,CREATE,"Snorri's Edda, Skáldskaparmál 35: Sif's hair (long retelling, opening from Gylfaginning 31)"
+session.20261024.v0360_deity_story_upgrade,STORY_SERIES,series.greek.homeric_hymns,CREATE,The Homeric Hymns (series)
+session.20261024.v0360_deity_story_upgrade,RELEASE,release.v0.36.0,SEAL,Formal staged checkpoint: 17 completed targets — 15 new long stories (3 in a new series) and 2 long versions; no target blocked. 18 deities keep evidence cards because no located public narrative was found or a living-tradition policy applies.

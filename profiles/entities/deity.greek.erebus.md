@@ -21,11 +21,14 @@ Erebus is born from Chaos in Theogony 123 and joins Nyx in the genealogy of Aeth
 | Relation | Target | Review / layer | Evidence | Confidence | Direction |
 |---|---|---|---:|---:|---|
 | `CHILD_OF` | 卡俄斯 (`deity.greek.chaos`) | VERIFIED / TEXT_SAYS / MYTHIC_NARRATIVE | 1 | 0.99 | stored claim; `claim.v040.erebus.child_chaos` |
+| `CHILD_OF` | 卡俄斯 (`deity.greek.chaos`) | VERIFIED / TEXT_SAYS / MYTHIC_NARRATIVE | 1 | 0.90 | stored claim; `claim.v0360.theog_titans.01` |
 | `PARENT_OF` | 埃忒耳 (`deity.greek.aether`) | VERIFIED / TEXT_SAYS / MYTHIC_NARRATIVE | 1 | 0.99 | inferred inverse; `claim.v040.aether.child_erebus` |
 | `PARENT_OF` | 赫墨拉 (`deity.greek.hemera`) | VERIFIED / TEXT_SAYS / MYTHIC_NARRATIVE | 1 | 0.99 | inferred inverse; `claim.v040.hemera.child_erebus` |
 
 ## Claims 与证据
 
+- `claim.v0360.theog_titans.01` [VERIFIED / TEXT_SAYS / 0.90] Hesiod, Theogony 116–123, says that after Chaos, Earth, Tartarus and Eros came to be, Erebus and black Night came forth from Chaos.
+  - 来源：[Hesiod, Theogony, Evelyn-White English text](https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0130)；定位：Theogony 116–123
 - `claim.v040.erebus.child_chaos` [VERIFIED / TEXT_SAYS / 0.99] Theogony 123 says Erebus arose from Chaos.
   - 来源：[Hesiod, Theogony, Evelyn-White English text](https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0130)；定位：Theogony 123
 

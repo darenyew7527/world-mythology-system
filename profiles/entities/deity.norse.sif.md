@@ -23,9 +23,12 @@
 | `CONSORT_OF` | 索尔／雷神托尔 (`deity.norse.thor`) | VERIFIED / TEXT_SAYS / TEXTUAL_WITNESS | 1 | 0.99 | inferred inverse; `claim.v060.norse.thor_consort_sif` |
 | `PARENT_OF` | 斯露德 (`deity.norse.thrud`) | VERIFIED / TEXT_SAYS / TEXTUAL_WITNESS | 1 | 0.96 | stored claim; `claim.v060.norse.sif_parent_thrud` |
 | `PARENT_OF` | 乌勒尔 (`deity.norse.ullr`) | VERIFIED / TEXT_SAYS / TEXTUAL_WITNESS | 1 | 0.99 | stored claim; `claim.v060.norse.sif_parent_ullr` |
+| `PARENT_OF` | 乌勒尔 (`deity.norse.ullr`) | VERIFIED / TEXT_SAYS / MYTHIC_NARRATIVE | 1 | 0.90 | inferred inverse; `claim.v0360.skald_sif.01` |
 
 ## Claims 与证据
 
+- `claim.v0360.skald_sif.10` [VERIFIED / TEXT_SAYS / 0.90] Snorri's Edda, Skáldskaparmál 35, says that Loki gave Óðinn the spear Gungnir, Freyr the ship Skíðblaðnir and Thor the golden hair for Sif, which as soon as it was placed on her head would grow like natural hair.
+  - 来源：[Snorri Sturluson: Edda. Skáldskaparmál](https://vsnr.org/editions/snorri-sturluson-edda-skaldskaparmal/)；定位：Skáldskaparmál 35
 - `claim.v060.norse.sif_parent_thrud` [VERIFIED / TEXT_SAYS / 0.96] Skaldskaparmal identifies Thrud through Sif in its kinship terminology.
   - 来源：[Snorri Sturluson: Edda. Skáldskaparmál](https://vsnr.org/editions/snorri-sturluson-edda-skaldskaparmal/)；定位：Kinship and kenning lists
 - `claim.v060.norse.sif_parent_ullr` [VERIFIED / TEXT_SAYS / 0.99] Skaldskaparmal names Ullr as Sif’s son.

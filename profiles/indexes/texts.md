@@ -24,6 +24,7 @@
 | text.chinese.mutianzizhuan | 穆天子传 | Tale of King Mu, Son of Heaven | TEXT | 中国上古神话 | Ancient text with complex transmission | UNVERIFIED |
 | text.chinese.zhouyi_xici | 《周易·系辞》 | Xi Ci commentary of the Zhouyi | TEXT | 中国上古神话 | Received Warring States–Han layer; dating debated | SOURCE_BACKED |
 | text.egypt.amduat | 冥府书 | Amduat | TEXT | 古埃及 | New Kingdom | PARTIAL |
+| text.egypt.bentresh_stela | 本特蕾什石碑 | Bentresh Stela | INSCRIPTION | 古埃及 | Late Period or Ptolemaic (disputed) | SOURCE_BACKED |
 | text.egypt.book_caverns | 洞穴之书 | Book of Caverns | TEXT | 古埃及 | New Kingdom | UNVERIFIED |
 | text.egypt.book_gates | 门之书 | Book of Gates | TEXT | 古埃及 | New Kingdom | UNVERIFIED |
 | text.egypt.book_dead | 亡灵书 | Book of the Dead | PAPYRUS | 古埃及 | New Kingdom onward | PARTIAL |
@@ -38,11 +39,13 @@
 | text.egypt.darius_susa.subject_list.left_twelve | 大流士雕像属民名单左侧十二组 | Darius Statue Subject List — Left-side Twelve | INSCRIPTION | 古埃及 | Reign of Darius I | SOURCE_BACKED |
 | text.egypt.darius_susa.subject_list.right_twelve | 大流士雕像属民名单右侧十二组 | Darius Statue Subject List — Right-side Twelve | INSCRIPTION | 古埃及 | Reign of Darius I | SOURCE_BACKED |
 | text.egypt.darius_susa_hieroglyphic_program | 苏萨大流士雕像象形文字铭文组 | Darius Susa Statue Hieroglyphic Program | TEXT | 古埃及 | Egyptian Dynasty 27 | SOURCE_BACKED |
+| text.egypt.hatshepsut_birth_cycle | 哈特谢普苏特的神圣诞生浮雕 | Divine birth cycle of Hatshepsut | INSCRIPTION | 古埃及 | Reign of Hatshepsut | SOURCE_BACKED |
 | text.egypt.temple_tomb_inscriptions | 埃及神庙与墓葬铭文总集入口 | Egyptian temple and tomb inscriptions | INSCRIPTION | 古埃及 | Multiple periods | UNVERIFIED |
 | text.egypt.litany_re | 拉神连祷文 | Litany of Re | TEXT | 古埃及 | New Kingdom | UNVERIFIED |
 | text.egypt.memphite_theology | 孟斐斯神学 | Memphite Theology | INSCRIPTION | 古埃及 | Known through later inscriptional witness | UNVERIFIED |
 | text.egypt.pyramid_texts | 金字塔铭文 | Pyramid Texts | INSCRIPTION | 古埃及 | Old Kingdom onward | UNVERIFIED |
 | text.egypt.sun_hymn_standard_c_prime | 太阳赞歌：Assmann 标准赞歌 C′ | Sun Hymn: Assmann Standard Hymn C-prime | TEXT | 古埃及 | New Kingdom hymn tradition | SOURCE_BACKED |
+| text.egypt.two_brothers | 两兄弟的故事 | Tale of Two Brothers | TEXT | 古埃及 | Nineteenth Dynasty | SOURCE_BACKED |
 | text.egyptian.tale_heavenly_cow | 天牛之书 | Tale of the Heavenly Cow | TEXT | 古埃及 | New Kingdom | SOURCE_BACKED |
 | text.greek.inscriptions | 古希腊宗教铭文总集入口 | Ancient Greek religious inscriptions | INSCRIPTION | 古希腊 | Multiple periods | UNVERIFIED |
 | text.greek.tragedies | 古希腊悲剧总集入口 | Ancient Greek tragedies | TEXT | 古希腊 | Classical Greece | UNVERIFIED |
@@ -148,6 +151,7 @@
 | text.slavic.primary_chronicle | 往年纪事 | Tale of Bygone Years | TEXT | 斯拉夫 | Early 12th-century compilation layers | PARTIAL |
 | text.sumerian.enki_ninhursag | 恩基与宁胡尔萨格 | Enki and Ninhursag | TEXT | 苏美尔 | Old Babylonian witnesses | UNVERIFIED |
 | text.sumerian.enki_world_order | 恩基与世界秩序 | Enki and the World Order | TEXT | 苏美尔 | Old Babylonian witnesses | UNVERIFIED |
+| text.sumerian.inana_ebih | 伊南娜与埃比赫 | Inana and Ebiḫ | TEXT | 苏美尔 | Composed in the late third or early second millennium BCE; Old Babylonian copies | SOURCE_BACKED |
 | text.sumerian.inanna_descent | 伊南娜下冥界 | Inanna's Descent | TEXT | 苏美尔 | Old Babylonian witnesses | UNVERIFIED |
 | text.sumerian.king_list | 苏美尔王表 | Sumerian King List | TEXT | 苏美尔 | Multiple witnesses | UNVERIFIED |
 | text.turkic.inscriptions | 突厥碑铭总集入口 | Old Turkic inscriptions | INSCRIPTION | 突厥 | Early medieval | UNVERIFIED |
@@ -155,6 +159,7 @@
 | museum.ugarit.baal_cycle_ao16643 | 巴力神话泥板 AO 16643 | Baal Cycle tablet AO 16643 | MUSEUM_OBJECT | 乌加里特 | — | SOURCE_BACKED |
 | text.ugaritic.baal_cycle.ktu1_5 | 巴力组诗泥板 KTU 1.5 | Baal Cycle tablet KTU 1.5 | TABLET | 乌加里特 | Late Bronze Age | SOURCE_BACKED |
 | text.ugaritic.baal_cycle.ktu1_6 | 巴力组诗泥板 KTU 1.6 | Baal Cycle tablet KTU 1.6 | TABLET | 乌加里特 | Late Bronze Age | SOURCE_BACKED |
+| text.ugaritic.baal_cycle.ktu1_3_1_4 | 巴力史诗 KTU 1.3–1.4（巴力的宫殿） | Baal Cycle, tablets KTU 1.3–1.4 (the palace of Baal) | TABLET | 乌加里特 | Late Bronze Age, Ugarit | SOURCE_BACKED |
 | text.vedic.aranyakas | 森林书 | Aranyakas | SCRIPTURE | 吠陀传统 | Vedic period | UNVERIFIED |
 | text.vedic.atharvaveda | 阿闼婆吠陀 | Atharvaveda | SCRIPTURE | 吠陀传统 | Vedic period | UNVERIFIED |
 | text.vedic.brahmanas | 梵书 | Brahmanas | SCRIPTURE | 吠陀传统 | Vedic period | UNVERIFIED |

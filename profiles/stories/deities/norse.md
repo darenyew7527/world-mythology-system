@@ -6,27 +6,113 @@
 
 ## 乌勒尔 · Ullr
 
-**证据卡 / Evidence card**
+**有完整故事 / Full story**
+
+完整故事档案：[story.norse.forging_treasures](../story.norse.forging_treasures.md)
 
 > 希芙之子；《诗语法》据此称索尔为其继父。
 
 > *Son of Sif; Skaldskaparmal consequently calls Thor his stepfather.*
 
-### 1. 记载 / Record
+**长篇故事 · 12 章**
 
-希芙是乌勒尔的父母。
+目录：01 希芙与乌勒尔 · 02 被剪掉的金发 · 03 索尔的愤怒 · 04 伊瓦尔迪的儿子们 · 05 洛基的赌注 · 06 金鬃野猪 · 07 指环德劳普尼尔 · 08 锤子与苍蝇 · 09 三位裁判 · 10 洛基的礼物 · 11 勃洛克的礼物与判决 · 12 缝上的嘴
 
-*Skaldskaparmal names Ullr as Sif’s son.*
+### 1. 希芙与乌勒尔 / Sif and Ullr
 
-<sub>来源 / Source：Snorri Sturluson: Edda. Skáldskaparmál · Thor kennings section</sub>
+在斯诺里的《欺骗古鲁菲》里，至高者向古鲁菲一一介绍阿萨神族的众神。说到乌勒尔时，他说：乌勒尔是希芙的儿子，索尔的继子。他是一个出色的弓箭手，又是一个滑雪好手，没有人能和他相比；他相貌英俊，具备战士的种种品质，在一对一的决斗中，向他祈求是很好的。这短短几句话告诉我们：雷神索尔的妻子希芙，在嫁给索尔之前已经有一个儿子，乌勒尔的父亲是谁，斯诺里没有说。在《诗语法》里，乌勒尔被称为“希芙之子”“索尔的继子”“滑雪之神”“弓箭之神”“狩猎之神”和“盾牌之神”，诗人们常用“乌勒尔的船”来指盾牌。至于希芙自己，她在北欧神话里最著名的，就是她那一头金色的头发。在斯诺里的书中，希芙几乎没有开口说话的场面，她出现的地方，总是和她的家人联系在一起：索尔的妻子，乌勒尔的母亲。下面的故事，就从她失去头发的那个早晨开始。
 
-### 2. 记载 / Record
+*In Snorri's Gylfaginning, High tells Gylfi about each of the Æsir. Of Ullr he says: Ullr is Sif's son and Thor's stepson. He is such a good archer and skier that no one can rival him; he is beautiful in appearance and has a warrior's qualities, and it is good to pray to him in single combat. These few words tell us that Sif, wife of the thunder god Thor, already had a son before she married Thor; who Ullr's father was, Snorri does not say. In Skáldskaparmál Ullr is called son of Sif, stepson of Thor, ski-god, bow-god, hunting-god and shield-god, and poets call a shield 'Ullr's ship'. As for Sif herself, she is most famous in Norse myth for her golden hair. In Snorri's book she hardly ever speaks; she appears always in relation to her family — Thor's wife, Ullr's mother. The story that follows begins on the morning she lost her hair.*
 
-索尔／雷神托尔是乌勒尔的继父母。
+<sub>来源 / Source：Snorri Sturluson: Edda. Skáldskaparmál · Gylfaginning 31; Skáldskaparmál 35 (sequential retelling) · 斯诺里《埃达·欺骗古鲁菲》第31章。</sub>
 
-*Skaldskaparmal calls Thor the stepfather of Ullr.*
+### 2. 被剪掉的金发 / The shorn hair
 
-<sub>来源 / Source：Snorri Sturluson: Edda. Skáldskaparmál · Thor kennings section</sub>
+《诗语法》第35章从一个问题开始：为什么金子被称为“希芙的头发”？斯诺里回答说：狡猾的洛基出于恶作剧，把希芙的头发全部剪掉了。斯诺里没有说洛基为什么要这样做，只说是出于“恶意的玩笑”。在北欧古代的社会里，头发对一个女子来说是美丽和尊严的象征，把一位女神的头发剪光，是极大的侮辱。希芙的头发据说是金色的，这也是后来诗人们用“希芙的头发”来比喻黄金的原因之一。这种用神话典故代替普通名词的说法，叫做“肯宁”，是北欧古诗最重要的修辞手法，《诗语法》这本书就是斯诺里为了教年轻诗人理解这些肯宁而写的。所以，这个故事的讲述方式很特别：它不是为了讲故事而讲故事，而是为了解释一个诗歌用语的来历。可是正是这一次恶作剧，引出了一连串的事件，最后让众神得到了他们最珍贵的几件宝物，包括索尔的锤子妙尔尼尔。
+
+*Skáldskaparmál 35 begins with a question: why is gold called Sif's hair? Snorri answers: Loki Laufeyjarson, for the sake of mischief, cut off all Sif's hair. He gives no reason beyond malicious fun. In old Norse society a woman's hair was a sign of beauty and honour, and to shear a goddess's hair was a grave insult. Sif's hair is said to have been golden, one reason poets later used 'Sif's hair' for gold. This way of replacing an ordinary word with a mythological allusion is called a kenning, the chief ornament of Old Norse verse, and Snorri wrote Skáldskaparmál to teach young poets to understand such kennings. So the tale is told in an unusual way: not for its own sake but to explain where a poetic phrase comes from. Yet this one piece of mischief set off a chain of events that ended with the gods receiving their most precious treasures, among them Thor's hammer Mjölnir.*
+
+<sub>来源 / Source：Snorri Sturluson: Edda. Skáldskaparmál · Gylfaginning 31; Skáldskaparmál 35 (sequential retelling) · 斯诺里《埃达·诗语法》第35章。</sub>
+
+### 3. 索尔的愤怒 / Thor's anger
+
+索尔发现妻子的头发被剪光后，立刻抓住了洛基。他气得要把洛基身上的每一根骨头都打断。洛基吓坏了，连忙发誓说，他会去请黑精灵——也就是矮人——用金子为希芙做一头新头发，而且这头发要像真的头发一样，能在她头上生长。索尔这才放过了他。在北欧神话里，洛基常常这样：先闯下大祸，然后再想办法弥补，而他想出的办法，往往比原来的局面更好，也更危险。索尔和洛基的关系也很有意思：他们常常一起旅行，比如去乌特加尔洛基的城堡、去寻找被偷走的锤子，可是只要洛基闯了祸，索尔总是第一个抓住他的人。斯诺里在这里对希芙本人的反应只字未提，我们不知道她是哭了还是生气了；故事的焦点很快就从受害的女神转到了两位男神之间的争执，又从争执转到了矮人的铁匠铺。这种叙述方式本身也说明了希芙在神话中的位置：她是故事的起因，却很少是故事的主角。
+
+*When Thor found his wife's hair shorn, he seized Loki and would have broken every bone in his body. Terrified, Loki swore that he would get the black elves — the dwarves — to make Sif a head of hair from gold that would grow like any other hair. Only then did Thor let him go. Loki is often like this in Norse myth: first he causes great trouble, then he finds a way to make it good, and his remedy is often better — and more dangerous — than what came before. Thor and Loki's relationship is interesting too: they often travel together, to Útgarða-Loki's castle or in search of the stolen hammer, yet whenever Loki causes mischief, Thor is the first to lay hands on him. Snorri says nothing here about Sif's own reaction; we do not know whether she wept or raged. The story quickly turns from the wronged goddess to the quarrel between two gods, and from the quarrel to the dwarves' smithy. That itself shows Sif's place in the myths: she is the cause of the story, seldom its hero.*
+
+<sub>来源 / Source：Snorri Sturluson: Edda. Skáldskaparmál · Gylfaginning 31; Skáldskaparmál 35 (sequential retelling) · 斯诺里《埃达·诗语法》第35章。</sub>
+
+### 4. 伊瓦尔迪的儿子们 / The sons of Ívaldi
+
+洛基于是去找那些被称为伊瓦尔迪之子的矮人。他们为希芙打造了一头金发，同时还造了一艘名叫斯基德布拉德尼尔的船，以及一支名叫贡尼尔的长矛——后来它成了奥丁的矛。这三件宝物都非常出色。斯诺里没有描写矮人们是怎样工作的，也没有说洛基许给了他们什么报酬；也许洛基只是用花言巧语说服了他们。在北欧神话里，矮人是最好的工匠，他们住在山里和地下，掌握着神也不具备的锻造技艺。众神手中的许多宝物都出自矮人之手：除了这里的三件，还有束缚芬里尔狼的绳索格莱普尼尔、芙蕾雅的项链布里欣加曼等等。伊瓦尔迪的儿子们只在这个故事里出现，他们的名字也没有被记下来。洛基带着这三件宝物，本可以直接回到阿斯加尔德，平息索尔的怒气；可他偏偏又在矮人中间惹出了另一件事。这一次，他押上的赌注不是别的，而是他自己的头。
+
+*So Loki went to the dwarves called the sons of Ívaldi. They made the hair for Sif, and also the ship Skíðblaðnir and the spear called Gungnir, which became Óðinn's. All three treasures were excellent. Snorri does not describe how the dwarves worked, nor what Loki promised them; perhaps he simply talked them round. In Norse myth dwarves are the finest craftsmen, living in mountains and underground, masters of a smithcraft even the gods lack. Many of the gods' treasures come from dwarves: besides these three there are Gleipnir, the fetter that binds the wolf Fenrir, and Freyja's necklace Brísingamen. The sons of Ívaldi appear only in this tale, and their own names are not recorded. With these three treasures Loki could have gone straight back to Ásgarðr and calmed Thor's anger; but he went and started something else among the dwarves. This time the stake was nothing less than his own head.*
+
+<sub>来源 / Source：Snorri Sturluson: Edda. Skáldskaparmál · Gylfaginning 31; Skáldskaparmál 35 (sequential retelling) · 斯诺里《埃达·诗语法》第35章。</sub>
+
+### 5. 洛基的赌注 / Loki's wager
+
+洛基拿着宝物，找到一个名叫勃洛克的矮人，跟他打赌，把自己的头押上：他说勃洛克的兄弟埃特里——有些抄本和后人叫他辛德里——不可能打造出三件和这三件一样好的宝物。勃洛克接受了赌注。斯诺里没有说洛基为什么要冒这个险，也许是为了炫耀，也许只是因为他天生喜欢挑起争端。可这个赌注却成了众神的幸运：正因为洛基想证明伊瓦尔迪之子的宝物无人能比，另一对矮人兄弟才拼尽全力，打造出了更加了不起的东西。北欧神话里常常有这样的赌局：奥丁和巨人瓦夫斯鲁德尼尔以头为注比智慧，索尔和乌特加尔洛基的手下比力气。在这些故事里，“以头为注”是一种极端的赌法，输了的一方就要付出生命。洛基押上自己的头，看起来很勇敢，其实他早已为自己留好了退路，这一点要到故事的最后才会揭晓。勃洛克和埃特里兄弟俩则一起走进了铁匠铺，一个负责打铁，一个负责拉风箱。
+
+*Loki took the treasures and wagered his head with a dwarf called Brokkr that his brother Eitri — called Sindri in some manuscripts and later writers — could not make three treasures as good as these. Brokkr took the wager. Snorri does not say why Loki took the risk — to show off, perhaps, or simply because he loved to stir up trouble. Yet the wager turned out to be the gods' good fortune: because Loki wanted to prove the sons of Ívaldi unmatched, another pair of dwarf brothers strained every nerve to make still more wonderful things. Norse myth is full of such contests: Óðinn wagers his head against the giant Vafþrúðnir in a contest of wisdom, and Thor matches strength with Útgarða-Loki's people. In these tales a wager of one's head is the most extreme stake: the loser pays with his life. Loki's bet looks brave, but he has already prepared his escape, as the end of the story will show. Brokkr and Eitri went into the smithy together, one to work the metal and one to blow the bellows.*
+
+<sub>来源 / Source：Snorri Sturluson: Edda. Skáldskaparmál · Gylfaginning 31; Skáldskaparmál 35 (sequential retelling) · 斯诺里《埃达·诗语法》第35章。</sub>
+
+### 6. 金鬃野猪 / The golden-bristled boar
+
+埃特里把一张猪皮放进炉子里，吩咐勃洛克拉风箱，在他把东西从炉子里取出来以前，一刻也不许停下。埃特里一离开铁匠铺，就有一只苍蝇落在勃洛克的手上，狠狠地叮他。可是勃洛克照样拉着风箱，一直等到铁匠回来，从炉子里取出东西——那是一头长着金色鬃毛的野猪。这头野猪后来被称为古林博斯帝，意思是“金鬃”。斯诺里在后面会讲到它的本领。这只苍蝇是谁？斯诺里在这里没有明说，可是读者很容易猜到：会变化形体、又最希望勃洛克失败的，只有洛基。在其他故事里，洛基曾变成母马、鲑鱼、海豹和老妇人，变成一只苍蝇对他来说毫不困难。勃洛克忍着疼痛，没有让风箱停下，这是兄弟俩的第一次胜利。在古代北欧的铁匠铺里，拉风箱是一件非常要紧的活，火候稍有差池，整件作品就会毁掉，所以埃特里才一再叮嘱，无论发生什么都不能停。
+
+*Eitri laid a pigskin in the forge and told Brokkr to blow the bellows and not stop until he took out what he had put in. As soon as Eitri had gone out of the smithy, a fly settled on Brokkr's hand and stung him hard. But Brokkr kept blowing until the smith came back and took the thing out of the forge — a boar with bristles of gold. It is called Gullinbursti, Golden-bristle, and Snorri will tell its powers later. Who was the fly? Snorri does not say here, but the reader can easily guess: the shape-changer who most wanted Brokkr to fail could only be Loki. In other tales Loki becomes a mare, a salmon, a seal and an old woman; a fly is no trouble to him. Brokkr bore the pain and kept the bellows going — the brothers' first victory. In an old Norse smithy working the bellows was vital work; a moment's lapse in the heat could ruin the whole piece, which is why Eitri warned him again and again not to stop, whatever happened.*
+
+<sub>来源 / Source：Snorri Sturluson: Edda. Skáldskaparmál · Gylfaginning 31; Skáldskaparmál 35 (sequential retelling) · 斯诺里《埃达·诗语法》第35章。</sub>
+
+### 7. 指环德劳普尼尔 / The ring Draupnir
+
+接着，埃特里把金子放进炉子里，又吩咐勃洛克拉风箱，在他回来以前不许停下。他走了出去，那只苍蝇又来了，这一次落在勃洛克的脖子上，叮得比上一次厉害一倍。可勃洛克还是不停地拉着风箱，直到铁匠回来，从炉子里取出了一枚金指环，名叫德劳普尼尔，意思是“滴落者”。这枚指环的本领，斯诺里也要到后面才说。在北欧神话里，德劳普尼尔还有另一个故事：在巴德尔的葬礼上，奥丁把这枚指环放在儿子的火葬堆上；后来赫尔莫德到冥界去求赫尔放回巴德尔，巴德尔又把指环交给他带回给奥丁。这说明德劳普尼尔是奥丁最珍爱的宝物之一。在这一次锻造中，苍蝇的攻击比上一次更凶，可勃洛克依然没有动摇。兄弟俩已经做成了两件宝物，离赢得赌局只差最后一件。而洛基——如果那只苍蝇真的是他——也只剩下最后一次机会了。
+
+*Next Eitri laid gold in the forge and bade Brokkr blow and not stop until he came back. He went out, and the fly came again, settling on Brokkr's neck and stinging twice as hard as before. Still Brokkr kept blowing until the smith came back and took out of the forge a gold ring called Draupnir, the Dripper. Its powers, too, Snorri tells later. Draupnir has another story in Norse myth: at Baldr's funeral Óðinn laid the ring on his son's pyre, and when Hermóðr rode to Hel to beg for Baldr's return, Baldr sent the ring back to Óðinn with him. Clearly Draupnir was among Óðinn's most treasured possessions. In this second forging the fly's attack was fiercer than before, yet Brokkr did not waver. The brothers had made two treasures and needed only one more to win the wager. And Loki — if the fly was indeed Loki — had only one chance left.*
+
+<sub>来源 / Source：Snorri Sturluson: Edda. Skáldskaparmál · Gylfaginning 31; Skáldskaparmál 35 (sequential retelling) · 斯诺里《埃达·诗语法》第35章。</sub>
+
+### 8. 锤子与苍蝇 / The hammer and the fly
+
+最后，埃特里把铁放进炉子里，对勃洛克说，必须一直拉风箱，否则一切都会毁掉。这一次，苍蝇落在勃洛克两眼之间，叮他的眼皮，血流进了他的眼睛，他什么也看不见了。勃洛克只好用手去赶苍蝇，就在这一瞬间，风箱停了下来，炉火也弱了下去。这时铁匠回来了，说炉子里的东西差一点就全毁了。他从炉子里取出的是一把锤子。这就是后来索尔的锤子妙尔尼尔。因为那一瞬间的停顿，锤子的柄做得短了一些——这是它唯一的缺陷。斯诺里把这个细节讲得很清楚：众神最强大的武器，是在一只苍蝇的干扰下诞生的，它的小小缺陷，正是那场恶作剧留下的痕迹。勃洛克把三件宝物收好，带着它们和洛基一起前往阿斯加尔德，去请众神裁决这场赌局。在路上，洛基大概已经在盘算，怎样才能保住自己的脑袋了。
+
+*Last, Eitri laid iron in the forge and told Brokkr he must keep blowing or everything would be spoiled. This time the fly settled between Brokkr's eyes and stung his eyelids, so that blood ran into his eyes and he could not see. He let go of the bellows just long enough to brush the fly away with his hand — and in that moment the bellows stopped and the fire sank. Then the smith came back and said that what was in the forge had come close to being spoiled entirely. He took out a hammer — the hammer that became Thor's, Mjölnir. Because of that moment's pause its handle was rather short; that was its only flaw. Snorri makes the detail plain: the mightiest weapon of the gods was born under the attack of a fly, and its small defect is the mark left by that mischief. Brokkr gathered the three treasures and set off with Loki to Ásgarðr to have the gods judge the wager. On the way, no doubt, Loki was already planning how to keep his head.*
+
+<sub>来源 / Source：Snorri Sturluson: Edda. Skáldskaparmál · Gylfaginning 31; Skáldskaparmál 35 (sequential retelling) · 斯诺里《埃达·诗语法》第35章。</sub>
+
+### 9. 三位裁判 / The three judges
+
+勃洛克带着他的宝物来到阿斯加尔德，洛基也带来了伊瓦尔迪之子的宝物。众神坐上审判的座位，决定由奥丁、索尔和弗雷三位神来裁决，他们说的话就是最后的判决。双方各自把宝物献给这三位神：洛基献给他们伊瓦尔迪之子的作品，勃洛克献给他们埃特里的作品。这是北欧神话里少有的一场“工艺比赛”，评判的标准不是谁的出身更高贵，也不是谁的力气更大，而是哪一件宝物对众神更有用。选出奥丁、索尔和弗雷三位来做裁判，也许是因为每一方的宝物都正好有三件，而每一件都分别送给这三位神中的一位：奥丁得到一件，索尔得到一件，弗雷得到一件。在古代北欧的法律中，重大的争端常常交给公认的裁判或在“庭”上公开裁决，斯诺里的叙述也带着这种色彩：众神像冰岛人在法庭上一样，坐下来听取双方的陈述，然后作出判决。接下来，两边轮流展示宝物。
+
+*Brokkr came to Ásgarðr with his treasures, and Loki brought the treasures of the sons of Ívaldi. The gods took their seats in judgement, and it was agreed that the verdict of Óðinn, Thor and Freyr should stand. Each side presented its treasures to these three: Loki the work of the sons of Ívaldi, Brokkr the work of Eitri. It is a rare 'craft contest' in Norse myth, judged not by birth or strength but by which treasures are more useful to the gods. Óðinn, Thor and Freyr may have been chosen because each side had exactly three treasures, and each treasure went to one of the three — one to Óðinn, one to Thor, one to Freyr. In old Norse law great disputes were often given to acknowledged judges or settled openly at an assembly, and Snorri's account carries that colour: the gods sit down like Icelanders at the Thing, hear both sides and give judgement. Then the two sides present their treasures in turn.*
+
+<sub>来源 / Source：Snorri Sturluson: Edda. Skáldskaparmál · Gylfaginning 31; Skáldskaparmál 35 (sequential retelling) · 斯诺里《埃达·诗语法》第35章。</sub>
+
+### 10. 洛基的礼物 / Loki's gifts
+
+洛基先献上他的宝物。他把长矛贡尼尔给了奥丁，把头发给了索尔，让他送给希芙，又把船斯基德布拉德尼尔给了弗雷。他一一说明了这些宝物的好处：这支长矛刺出去，无论刺向什么，都不会停下；这头头发，只要一放到希芙的头上，就会像天生的头发一样生长；这艘船，只要升起船帆，就总有顺风，无论要去哪里都能到达，不用的时候，还能像一块布一样折叠起来，放进口袋里。希芙就这样得回了她的头发，而且是一头真正的金发，从此“希芙的头发”成了黄金的代称。这里，被剪掉的头发终于有了一个完美的结局：失去的东西不但被找了回来，而且变得比原来更加珍贵。至于斯基德布拉德尼尔，斯诺里在《欺骗古鲁菲》里还说，它是所有船中最好的，是由伊瓦尔迪的儿子们造的，而纳吉尔法号是最大的船。贡尼尔则成了奥丁的标志，在诸神黄昏的最后一战中，奥丁也将手持贡尼尔与芬里尔狼作战。
+
+*Loki presented his treasures first. He gave Óðinn the spear Gungnir, Thor the hair for Sif, and Freyr the ship Skíðblaðnir, and he explained the virtues of each: the spear never stops in its thrust; the hair, as soon as it is placed on Sif's head, will grow to her like natural hair; and the ship has a fair wind as soon as the sail is hoisted, wherever it is going, and when not in use it can be folded up like a cloth and put in a pocket. So Sif got back her hair, and real golden hair at that, and ever after 'Sif's hair' meant gold. The shorn hair has its perfect ending: what was lost is not only restored but made more precious than before. Of Skíðblaðnir Snorri says in Gylfaginning that it is the best of all ships, made by the sons of Ívaldi, while Naglfar is the biggest. Gungnir became Óðinn's emblem, and in the last battle at Ragnarök Óðinn will carry Gungnir against the wolf Fenrir.*
+
+<sub>来源 / Source：Snorri Sturluson: Edda. Skáldskaparmál · Gylfaginning 31; Skáldskaparmál 35 (sequential retelling) · 斯诺里《埃达·诗语法》第35章。</sub>
+
+### 11. 勃洛克的礼物与判决 / Brokkr's gifts and the verdict
+
+接着，勃洛克献上他的宝物。他把指环德劳普尼尔给了奥丁，说每到第九个夜晚，就会从这枚指环上滴落下八枚同样重的金指环。他把金鬃野猪给了弗雷，说它能在空中和海上奔跑，日夜不停，比任何马都快，无论夜晚多么黑暗，无论在什么阴暗的地方，只要它在，它的金鬃就会发出足够的光亮。他把锤子给了索尔，说索尔可以用它随意猛击任何东西，锤子永远不会失手；如果他把锤子扔出去，它永远不会扔偏，也不会飞得太远而回不到他手里；而且只要他愿意，锤子还能变得很小，可以藏在衬衣里。只是它有一个缺陷：锤柄有点短。众神的判决是：这把锤子是所有宝物中最好的，因为有了它，众神就能抵御霜巨人的侵犯。于是他们判定，矮人赢得了这场赌局。斯诺里在这里点出了妙尔尼尔真正的意义：它不只是一件武器，更是整个阿斯加尔德的守护。正因为如此，后来锤子被巨人偷走时，众神才会那样惊慌。
+
+*Then Brokkr presented his treasures. He gave Óðinn the ring, saying that every ninth night eight rings of equal weight would drip from it. He gave Freyr the boar, saying it could run through air and over sea, night and day, faster than any horse, and that it would never be so dark at night or in the worlds of darkness that there would not be light enough wherever it went, so bright did its bristles shine. He gave Thor the hammer, saying that Thor could strike as hard as he liked at whatever he wished and the hammer would never fail; if he threw it, it would never miss and never fly so far that it would not return to his hand; and when he wished, it would be so small that he could carry it inside his tunic. Its one flaw was that the handle was rather short. The gods' verdict was that the hammer was the best of all the treasures, for it was a defence against the frost-giants; and they judged that the dwarf had won the wager. Snorri makes Mjölnir's real meaning clear: not only a weapon but the guard of all Ásgarðr. That is why the gods panic when, in another tale, a giant steals it.*
+
+<sub>来源 / Source：Snorri Sturluson: Edda. Skáldskaparmál · Gylfaginning 31; Skáldskaparmál 35 (sequential retelling) · 斯诺里《埃达·诗语法》第35章。</sub>
+
+### 12. 缝上的嘴 / The sewn lips
+
+洛基提出要用钱赎回自己的头，可矮人说没有这回事。洛基说：那你就来抓我吧！勃洛克去抓他时，洛基已经跑远了——他有一双鞋，穿上它能在空中和海上奔跑。矮人请索尔去抓他，索尔把洛基抓了回来。矮人要砍下洛基的头，洛基却说，头是你的，可脖子不是。于是矮人拿来一根皮绳和一把刀，想在洛基的嘴唇上钻孔，把他的嘴缝起来，可是刀扎不进去。矮人说：要是我兄弟的锥子在这里就好了。他话音刚落，锥子就出现在那里，扎穿了洛基的嘴唇。他用一根叫做瓦塔里的皮绳把洛基的嘴唇缝在一起，洛基后来把皮绳从嘴唇上扯了下来。斯诺里在这一章的最后说：这就是为什么金子被称为希芙的头发。从一次剪发开始，到一张被缝上的嘴结束，这个故事让众神得到了贡尼尔、斯基德布拉德尼尔、德劳普尼尔、古林博斯帝、妙尔尼尔，还有希芙那一头会生长的金发；而那个惹出一切麻烦的洛基，最后也为他的恶作剧付出了代价。
+
+*Loki offered to redeem his head, but the dwarf said there was no hope of that. 'Catch me, then,' said Loki, and when Brokkr tried to catch him he was far away, for Loki had shoes in which he could run through air and over sea. The dwarf asked Thor to catch him, and Thor did. The dwarf was going to cut off his head, but Loki said the head was his, but not the neck. So the dwarf took a thong and a knife and tried to bore holes in Loki's lips to stitch his mouth up, but the knife would not cut. Then he said it would be better if his brother's awl were there — and as soon as he spoke the awl was there, and it pierced the lips. He stitched the lips together with a thong called Vartari, and Loki tore the thong out of his lips. At the end of the chapter Snorri says: that is why gold is called Sif's hair. Beginning with a shearing and ending with a sewn mouth, the tale gives the gods Gungnir, Skíðblaðnir, Draupnir, Gullinbursti, Mjölnir and Sif's growing golden hair — and Loki, who caused all the trouble, pays at last for his mischief.*
+
+<sub>来源 / Source：Snorri Sturluson: Edda. Skáldskaparmál · Gylfaginning 31; Skáldskaparmál 35 (sequential retelling) · 斯诺里《埃达·诗语法》第35章。</sub>
 
 ---
 
@@ -152,49 +238,129 @@
 
 ## 博尔 · Borr
 
-**证据卡 / Evidence card**
+**有完整故事 / Full story**
+
+完整故事档案：[story.norse.ymir_world](../story.norse.ymir_world.md)
 
 > *Son of Búri and father of Odin, Vili and Vé in Gylfaginning.*
 
-### 1. 记载 / Record
+**长篇故事 · 14 章**
 
-博尔是布里的孩子。
+目录：01 尼夫尔海姆 · 02 穆斯佩尔与苏尔特 · 03 金伦加鸿沟 · 04 尤弥尔 · 05 母牛与布里 · 06 博尔与贝斯特拉 · 07 杀死尤弥尔 · 08 大地与海 · 09 天空与群星 · 10 米德加尔德 · 11 最初的人与奥丁的家 · 12 夜与昼 · 13 太阳与月亮 · 14 追逐日月的狼
 
-*Gylfaginning presents Borr as Búri’s son.*
+### 1. 尼夫尔海姆 / Niflheim
 
-<sub>来源 / Source：Snorri Sturluson, Edda · Gylfaginning 6</sub>
+瑞典国王古鲁菲来到阿斯加尔德，向坐在三个高座上的“至高者”“同样高者”和“第三者”提问。他问：万物最初是怎样开始的？至高者先引了《女巫的预言》中的诗句：太古之时，尤弥尔还活着，那时没有沙，没有海，也没有冰冷的波浪，没有大地，也没有上面的天空，只有一道张开的鸿沟，哪里都没有青草。同样高者接着说：在大地被造出以前许多个时代，就已经有了尼夫尔海姆，那是一个寒冷、雾气弥漫的世界。在它的中央有一眼泉水，叫做赫瓦格尔米尔，从泉中流出许多条河，它们的名字是斯沃尔、贡斯拉、菲约尔姆、芬布尔图尔、斯利德、赫里德、叙尔格、于尔格、维德和雷普特；还有一条叫约尔，就流在冥界的大门旁边。斯诺里在这里把古诗和散文解说交织在一起，这是整部《欺骗古鲁菲》的写法：三位神秘的人物一问一答，把北欧神话的宇宙从头到尾讲给一个凡间的国王听。读者要记住，这是十三世纪冰岛人斯诺里的编排，而不是一部古老的经典。
 
-### 2. 记载 / Record
+*King Gylfi of Sweden came to Ásgarðr and put his questions to the three seated on high thrones — High, Just-as-high and Third. He asked: what was the beginning, and how did things start? High first quoted the Völuspá: in the morning of time, when Ymir lived, there was no sand nor sea nor cool waves, no earth nor heaven above, only a yawning gap, and grass nowhere. Just-as-high went on: many ages before the earth was made, Niflheimr was made, a cold and misty world. In its middle lies a spring called Hvergelmir, and from it flow the rivers named Svöl, Gunnþrá, Fjörm, Fimbulþul, Slíðr, Hríð, Sylgr, Ylgr, Víð and Leiptr; and Gjöll, which runs next to the gates of Hel. Snorri weaves old verse and prose explanation together here, as throughout Gylfaginning: three mysterious figures answer question by question, laying out the whole Norse cosmos for a mortal king. Readers should remember that this is the arrangement of Snorri, a thirteenth-century Icelander, not an ancient scripture.*
 
-博尔是奥丁的父母。
+<sub>来源 / Source：Snorri Sturluson, Edda · Gylfaginning 4–12 (sequential retelling) · 斯诺里《埃达·欺骗古鲁菲》第4章。</sub>
 
-*Borr is father of Odin in Gylfaginning.*
+### 2. 穆斯佩尔与苏尔特 / Muspell and Surtr
 
-<sub>来源 / Source：Snorri Sturluson, Edda · Gylfaginning 6</sub>
+第三者接着说：最先存在的，是南方的一个世界，叫做穆斯佩尔。它明亮而炽热，熊熊燃烧，凡是不属于那里、不在那里出生的人，都无法在那里停留。在它的边界上坐着一个名叫苏尔特的巨人，守卫着这片土地。他手里握着一把燃烧的剑。到了世界末日，他将出发去劫掠，打败所有的神，用火焚烧整个世界。斯诺里在这里又引了《女巫的预言》：苏尔特从南方带着枝条的毁灭者而来，他的剑上闪耀着众神之日的光芒。这样，世界的开端就已经预示了它的结局：在宇宙形成之前，那个要在诸神黄昏中焚烧一切的巨人，就已经坐在火焰之国的边界上等待了。北方是寒冷的尼夫尔海姆，南方是炽热的穆斯佩尔，两者之间，便是下一章要讲的那道鸿沟。苏尔特在这一部分只出现了短短几句，可是读过诸神黄昏的读者会知道，他手中那把燃烧的剑，最后会把整个世界投入火海。
 
-### 3. 记载 / Record
+*Third went on: first of all there was a world in the southern region called Muspell. It is bright and hot, flaming and burning, and impassable for those who are foreign to it and not native there. At its border sits one called Surtr, guarding the land. He has a flaming sword, and at the end of the world he will go and wage war, defeat all the gods and burn the whole world with fire. Snorri quotes the Völuspá again: Surtr comes from the south with the bane of branches; the sun of the slaughter-gods shines from his sword. So the beginning of the world already foretells its end: before the cosmos was shaped, the giant who will burn everything at Ragnarök was already sitting at the border of the land of fire, waiting. In the north lies cold Niflheimr, in the south burning Muspell, and between them the gap that the next chapter describes. Surtr appears here in only a few sentences, but readers who know the twilight of the gods know that his flaming sword will at last cast the whole world into fire.*
 
-博尔是维的父母。
+<sub>来源 / Source：Snorri Sturluson, Edda · Gylfaginning 4–12 (sequential retelling) · 斯诺里《埃达·欺骗古鲁菲》第4章。</sub>
 
-*Borr is father of Vé in Gylfaginning.*
+### 3. 金伦加鸿沟 / Ginnungagap
 
-<sub>来源 / Source：Snorri Sturluson, Edda · Gylfaginning 6</sub>
+古鲁菲问：在人类出现以前，世界是什么样子？至高者说：那些叫做埃利伐加尔的河流，离源头越来越远，河里带着的毒液就像熔炉里流出的熔渣一样变硬，凝成了冰。冰停住不再流动时，冰上的毒液蒸腾成雾气，又冻成白霜，一层又一层地堆满了金伦加鸿沟。同样高者说：金伦加鸿沟朝北的那一边，充满了沉重的冰和白霜，里面是阴冷的雾气和狂风；而朝南的那一边，有从穆斯佩尔飞来的火星和火花，明亮温暖。第三者说：正如从尼夫尔海姆来的一切都是寒冷和严酷的，靠近穆斯佩尔的一切都是炽热和明亮的；而金伦加鸿沟的中间，就像无风的空气一样温和。当热风吹到白霜上，白霜开始融化、滴落。这一段被学者们称为北欧神话的“冰与火的宇宙起源论”：世界不是被某位神从无中造出来的，而是在寒冷与炎热相遇的地方，从融化的霜中生长出来的。
 
-### 4. 记载 / Record
+*Gylfi asked how things were before generations of men came to be. High said: the rivers called Élivágar, when they had come so far from their source that the poison in them hardened like the slag that runs from a furnace, turned to ice. When the ice stopped flowing, the poison drizzling from it rose as vapour and froze into rime, layer upon layer, until it filled Ginnungagap. Just-as-high said: the part of Ginnungagap facing north filled with heavy ice and rime, with mist and gusts within; but the southern part was lit by the sparks and glowing embers flying out of Muspell. Third said: just as cold and all things harsh came from Niflheimr, so everything near Muspell was hot and bright; but Ginnungagap was as mild as windless air. When the hot breath met the rime, it melted and dripped. Scholars call this the Norse cosmogony of fire and ice: the world is not made from nothing by a god, but grows out of melting rime where cold and heat meet.*
 
-博尔是维利的父母。
+<sub>来源 / Source：Snorri Sturluson, Edda · Gylfaginning 4–12 (sequential retelling) · 斯诺里《埃达·欺骗古鲁菲》第5章。</sub>
 
-*Borr is father of Vili in Gylfaginning.*
+### 4. 尤弥尔 / Ymir
 
-<sub>来源 / Source：Snorri Sturluson, Edda · Gylfaginning 6</sub>
+至高者接着说：融化的霜滴在热力的作用下有了生命，变成了一个人的形状，他名叫尤弥尔，霜巨人们叫他奥尔格尔米尔，所有的霜巨人都是他的后代。斯诺里引了《短女巫的预言》和《瓦夫斯鲁德尼尔之歌》的诗句来证明这一点：所有的女巫都来自维德尔夫，所有的巫师来自维尔梅迪，所有的巨人来自尤弥尔；从埃利伐加尔溅出的毒滴长成了巨人。古鲁菲问：那些后代是怎样生出来的？尤弥尔是神吗？至高者说：我们绝不承认他是神。他是邪恶的，他的后代也都是邪恶的，我们称他们为霜巨人。据说，尤弥尔睡着的时候出了汗，从他的左臂下长出了一男一女，他的一只脚又和另一只脚生下了一个儿子。巨人的种族就是这样开始的。在这个世界上最早出现的生命是一个巨人，而不是一位神。斯诺里让至高者特别强调，尤弥尔不是神，这样的区分贯穿了整个北欧神话：众神与巨人既是亲戚，又是永远的敌人。
 
-### 5. 记载 / Record
+*High went on: when the drops of melting rime were quickened by the power of the heat, they took the shape of a man, who is called Ymir; the frost-giants call him Aurgelmir, and from him are descended all the families of frost-giants. Snorri quotes the Shorter Völuspá and Vafþrúðnismál to bear this out: all seeresses are from Viðólfr, all wizards from Vilmeiðr, all giants from Ymir; drops of poison spurted from Élivágar and grew into a giant. Gylfi asked how the generations came from him, and whether he was a god. High said: we by no means acknowledge him as a god. He was evil, and all his descendants; we call them frost-giants. It is said that as he slept he sweated, and under his left arm grew a male and a female, and one of his legs begot a son with the other. So the race of giants began. The first living being in this world is a giant, not a god. Snorri has High insist that Ymir is no god, a distinction that runs through all of Norse myth: gods and giants are kin, and yet eternal enemies.*
 
-博尔与贝斯特拉是配偶。
+<sub>来源 / Source：Snorri Sturluson, Edda · Gylfaginning 4–12 (sequential retelling) · 斯诺里《埃达·欺骗古鲁菲》第5章。</sub>
 
-*Gylfaginning presents Borr and Bestla as parents together.*
+### 5. 母牛与布里 / The cow and Búri
 
-<sub>来源 / Source：Snorri Sturluson, Edda · Gylfaginning 6</sub>
+古鲁菲问：尤弥尔住在哪里，靠什么活着？至高者说：接下来，融化的霜滴又变成了一头母牛，名叫欧德姆布拉，从她的乳房里流出四条奶河，尤弥尔就靠这些奶活着。古鲁菲又问：那母牛靠什么活着？至高者说：她去舔那些带着盐味的冰块。第一天，她舔到傍晚，冰块里露出了一个人的头发；第二天，露出了一个人的头；第三天，整个人都露出来了。这个人名叫布里，他长得英俊，身材高大，力量强大。布里是众神的始祖，可是《欺骗古鲁菲》除了这几句之外，再也没有讲他做过什么。他不是从霜巨人的身体里生出来的，而是被一头母牛从冰里舔出来的；这一点很重要，因为它让众神的祖先有了与巨人不同的起源。一边是从融霜中自然生长出来、带着恶意的巨人尤弥尔，一边是被母牛的舌头一天天唤醒的、英俊而强大的布里——冰与火之间的世界里，第一次出现了两种不同的生命。
+
+*Gylfi asked where Ymir lived and what he lived on. High said: next, as the rime dripped, there came into being a cow called Auðumbla, and four rivers of milk flowed from her teats, and she fed Ymir. Gylfi asked what the cow lived on. High said: she licked the ice-blocks, which were salty. On the first day she licked them, by evening there came out of the blocks a man's hair; on the second day a man's head; on the third day the whole man was there. He was called Búri; he was beautiful in appearance, big and powerful. Búri is the forefather of the gods, yet apart from these lines Gylfaginning tells nothing of his deeds. He is not born from the body of the frost-giant but licked out of the ice by a cow — and this matters, for it gives the ancestors of the gods a different origin from the giants. On one side is Ymir, grown of himself from the melting rime and full of evil; on the other, Búri, beautiful and strong, awakened day by day by a cow's tongue. In the world between ice and fire, two kinds of life appear for the first time.*
+
+<sub>来源 / Source：Snorri Sturluson, Edda · Gylfaginning 4–12 (sequential retelling) · 斯诺里《埃达·欺骗古鲁菲》第6章。</sub>
+
+### 6. 博尔与贝斯特拉 / Borr and Bestla
+
+至高者接着说：布里有了一个儿子，名叫博尔。博尔娶了一个名叫贝斯特拉的女子，她是巨人博尔索恩的女儿。他们生了三个儿子：第一个叫奥丁，第二个叫维利，第三个叫维。至高者说：我们相信，奥丁和他的兄弟们一定是天地的统治者；我们认为这就是他的名字，这是我们所知道的最伟大、最光荣的人的名字，你们也可以这样称呼他。这几句话透露了一个重要的事实：众神之父奥丁的母亲是一位巨人的女儿。也就是说，从一开始，众神的血统里就混着巨人的血。博尔本人和他的父亲布里一样，除了作为奥丁的父亲之外，几乎没有自己的故事；北欧的诗人常常用“博尔之子”来称呼奥丁和他的兄弟们。在下一章里，这三兄弟将做出一件决定整个宇宙面貌的事：他们要杀死尤弥尔——他们母亲那一族的始祖——用他的身体来建造世界。
+
+*High went on: Búri begot a son called Borr. Borr married a woman called Bestla, daughter of the giant Bölþorn, and they had three sons: the first Óðinn, the second Vili, the third Vé. High said: it is our belief that Óðinn and his brothers must be the rulers of heaven and earth; we think that this is his name — it is the name of the greatest and most glorious man we know, and you may well call him so. These sentences reveal something important: the mother of Óðinn, father of the gods, was a giant's daughter. From the very beginning, giants' blood is mixed into the line of the gods. Borr himself, like his father Búri, has almost no story apart from being Óðinn's father; Norse poets often call Óðinn and his brothers 'the sons of Borr'. In the next chapter the three brothers will do the deed that shapes the whole cosmos: they will kill Ymir — forefather of their mother's own people — and build the world from his body.*
+
+<sub>来源 / Source：Snorri Sturluson, Edda · Gylfaginning 4–12 (sequential retelling) · 斯诺里《埃达·欺骗古鲁菲》第6章。</sub>
+
+### 7. 杀死尤弥尔 / The slaying of Ymir
+
+古鲁菲问：他们之间是和睦相处，还是互相敌对？至高者说：博尔的儿子们杀死了巨人尤弥尔。当他倒下的时候，从他的伤口里流出了大量的血，所有的霜巨人都淹死在血里，只有一个逃了出来，霜巨人们叫他贝尔格尔米尔。他和他的妻子爬上了他的“卢德”——这个词的意思不太确定，可能是一种箱子、磨盘的木架或者小船——在那里活了下来，所有霜巨人的后代都是从他们传下来的。斯诺里又引了《瓦夫斯鲁德尼尔之歌》：在大地被造出以前无数个冬天，贝尔格尔米尔就出生了；我最早记得的，是那位智慧的巨人被放在卢德上的情景。这一章短得出奇，斯诺里没有讲博尔的儿子们为什么要杀尤弥尔，也没有描写这场杀戮的过程。可是它的后果是巨大的：第一位巨人的死，既造成了一场淹没巨人的血洪水，又为众神提供了建造世界的材料。巨人一族并没有灭绝，贝尔格尔米尔一家幸存下来，众神与巨人之间的世仇就这样开始了。
+
+*Gylfi asked whether there was peace between them or not. High said: the sons of Borr killed the giant Ymir. When he fell, so much blood flowed from his wounds that with it they drowned all the race of frost-giants, except that one escaped with his household; the giants call him Bergelmir. He climbed up on to his lúðr with his wife and was saved there — the word is uncertain, perhaps a box, the frame of a mill or a boat — and from them are descended the families of frost-giants. Snorri quotes Vafþrúðnismál: countless winters before the earth was shaped, Bergelmir was born; the first thing I remember is when that wise giant was laid on a lúðr. The chapter is strikingly short: Snorri gives no reason why the sons of Borr killed Ymir and does not describe the killing. Yet its results are vast: the first giant's death causes a flood of blood that drowns the giants and gives the gods the material to build the world. The giants are not wiped out — Bergelmir's household survives — and so the feud between gods and giants begins.*
+
+<sub>来源 / Source：Snorri Sturluson, Edda · Gylfaginning 4–12 (sequential retelling) · 斯诺里《埃达·欺骗古鲁菲》第7章。</sub>
+
+### 8. 大地与海 / Earth and sea
+
+古鲁菲问：如果你们认为博尔的儿子们是神，那他们后来做了什么？至高者说：这可不是一件小事。他们把尤弥尔抬到金伦加鸿沟的正中央，用他造出了大地：用他的肉造成大地，用他的血造成海洋和湖泊；大地用他的骨头造成，岩石用他的牙齿和碎骨造成。同样高者说：从伤口里流出来的血，他们用来造成了海洋，把大地放在海中间，让海环绕着大地，大多数人都会觉得渡过这片海是不可能的。斯诺里在这里描写的世界，是一个圆形的大地被浩瀚的海洋环绕的样子，这与中世纪北欧人对世界的想象相符：人们居住在中间的陆地上，四周是无边的大海，海的边缘住着巨人。这个造世界的方法令人印象深刻：世界不是从虚无中创造出来的，而是从一个被杀死的巨人身上一块一块地改造出来的。这种以原始巨人的身体造世界的神话，在其他文化中也能看到，比如中国的盘古传说，可是北欧的版本带着一种独特的严酷：世界诞生于一场杀戮。
+
+*Gylfi asked what the sons of Borr did then, if they are to be believed gods. High said: there is no little to tell. They took Ymir and carried him to the middle of Ginnungagap, and from him made the earth: from his flesh the earth, from his blood the sea and the lakes; the rocks were made of his bones, and stones and scree from his teeth and broken bones. Just-as-high said: from the blood that flowed from his wounds they made the sea, setting the earth in its midst and placing the sea round it in a ring, so that most men would think it impossible to cross. The world Snorri describes is a round earth ringed by a vast ocean, matching the medieval Norse picture: people live on the land in the middle, the endless sea lies all around, and on its edges dwell the giants. The way the world is made is striking: not from nothing, but piece by piece from the body of a slain giant. Myths of a world made from a primordial being's body appear in other cultures too, such as the Chinese tale of Pangu, but the Norse version has its own harshness: the world is born of a killing.*
+
+<sub>来源 / Source：Snorri Sturluson, Edda · Gylfaginning 4–12 (sequential retelling) · 斯诺里《埃达·欺骗古鲁菲》第8章。</sub>
+
+### 9. 天空与群星 / Sky and stars
+
+第三者说：他们又拿起尤弥尔的头骨，用它造成天空，把它架在大地的上方，四个角各让一个矮人撑着，这四个矮人的名字是奥斯特里、韦斯特里、诺尔德里和苏德里——东、西、北、南。接着，他们从穆斯佩尔飞来、四处飘散的火星和火花中取来一些，把它们放在金伦加鸿沟的中间，高高地挂在天空上，从上面和下面照亮天空和大地。他们给所有的火光都定了位置：有些固定在天空中，有些在天空下游走，他们为它们安排了位置，规定了运行的路线。古诗里说，从那以后，人们才能计算日子和年份。斯诺里引《女巫的预言》说：那时太阳不知道它的居所在哪里，月亮不知道它的力量有多大，星辰不知道它们的位置在何处。这一章把天上的秩序归功于博尔的儿子们：天空是巨人的头骨，四方由矮人支撑，群星是南方火焰之国的火星。世界的每一部分，都来自冰与火之间那场最初的相遇。
+
+*Third said: they also took his skull and made the sky from it, set it up over the earth with four points, and under each corner put a dwarf, named Austri, Vestri, Norðri and Suðri — East, West, North and South. Then they took molten particles and sparks that were flying about uncontrolled, shot out of Muspell, and set them in the middle of Ginnungagap, high in the sky, to give light above and below. They fixed all the lights, some in the sky, while others moved in a wandering course beneath the sky, and they appointed their positions and ordained their paths. So, old poems say, from then on days and years were reckoned. Snorri quotes the Völuspá: the sun did not know where her dwelling was, the moon did not know what power he had, the stars did not know where their places were. This chapter credits the order of the heavens to the sons of Borr: the sky is a giant's skull, its corners held by dwarves, and the stars are sparks from the southern land of fire. Every part of the world comes from that first meeting of ice and fire.*
+
+<sub>来源 / Source：Snorri Sturluson, Edda · Gylfaginning 4–12 (sequential retelling) · 斯诺里《埃达·欺骗古鲁菲》第8章。</sub>
+
+### 10. 米德加尔德 / Miðgarðr
+
+至高者说：大地是圆的，四周环绕着深深的海洋。他们把沿海的土地给巨人的族类居住；在大地的内部，他们用尤弥尔的眉毛（原文 brár，也可理解为睫毛）筑起一道围墙，抵御巨人，保护整个世界。他们把这座要塞叫做米德加尔德，意思是“中间的围场”。他们还把尤弥尔的脑子抛向空中，造成了云。斯诺里又引了《格里姆尼尔之歌》的诗句：用尤弥尔的肉造成了大地，用他的血造成了海洋，用骨头造成了山岭，用头发造成了树木，用头骨造成了天空；用他的眉毛，仁慈的神灵为人类的儿子们造了米德加尔德；用他的脑子造成了所有那些阴沉的云。这段诗与散文的叙述稍有不同，比如散文里没有提到用头发造树木，斯诺里把它们并列在一起，两者都保留了下来。米德加尔德后来成了人类世界的名字：一个被围墙保护着、夹在巨人的海岸和众神的天空之间的地方。在北欧人的想象里，人类的家园从一开始就是一座需要防守的城堡。
+
+*High said: the earth is circular, and around it lies the deep sea. Along the shore they gave lands to the giants to settle; but inland on the earth they built a fortification round the world against the hostility of giants, using Ymir's eyelashes, and they called this fortress Miðgarðr, the middle enclosure. They also took his brains and threw them into the sky and made the clouds from them. Snorri quotes Grímnismál: from Ymir's flesh the earth was shaped, from his blood the sea, from his bones the hills, from his hair the trees, from his skull the sky; from his eyelashes the kindly powers made Miðgarðr for the sons of men; and from his brains were made all the gloomy clouds. The verse differs slightly from the prose — the prose does not mention trees from his hair — and Snorri sets them side by side, keeping both. Miðgarðr became the name of the human world: a place protected by a wall, lying between the giants' shores and the gods' sky. In the Norse imagination the home of mankind was from the start a fortress to be defended.*
+
+<sub>来源 / Source：Snorri Sturluson, Edda · Gylfaginning 4–12 (sequential retelling) · 斯诺里《埃达·欺骗古鲁菲》第8章。</sub>
+
+### 11. 最初的人与奥丁的家 / The first people and Odin's household
+
+同样高者说：博尔的儿子们沿着海岸走，发现了两根树干，就拿起它们，用它们造出了人。第一个给了他们气息和生命，第二个给了他们智慧和行动，第三个给了他们面容、语言、听觉和视觉。他们给这两个人衣服和名字：男人叫阿斯克，女人叫恩布拉，从他们传下了人类，人们被给予了米德加尔德居住。接着，他们在世界的中央为自己建了一座城，叫做阿斯加尔德——斯诺里说，我们称之为特洛伊——众神和他们的家族住在那里。那里有一个叫希利德斯克亚尔夫的地方，奥丁坐在那里的高座上，能看到整个世界。他的妻子叫弗丽嘉，他们的家族被称为阿萨神族。至高者还说：大地约尔德是奥丁的女儿，也是他的妻子；他从她那里得到了第一个儿子，那就是阿萨·索尔，他力大无穷，能战胜一切活物。在这里，约尔德——大地——第一次以人格化的女神出现，她是雷神索尔的母亲。斯诺里把阿斯加尔德说成特洛伊，反映了中世纪学者把北欧众神解释为古代人间君王的做法。
+
+*Just-as-high said: as the sons of Borr walked along the shore they found two logs and picked them up and made people of them. The first gave breath and life, the second consciousness and movement, the third a face, speech, hearing and sight. They gave them clothes and names: the man was called Askr and the woman Embla, and from them were descended mankind, who were given Miðgarðr to dwell in. Next they built themselves a city in the middle of the world, called Ásgarðr — which, Snorri says, we call Troy — where the gods and their descendants lived. There is a place called Hliðskjálf, and when Óðinn sat in the high seat there he could see over the whole world. His wife was called Frigg, and their family is called the Æsir. High also said: Jörð, the Earth, was his daughter and his wife; from her he had his first son, Ása-Þórr, who has strength and might that overcome all living things. Here Jörð, the Earth, appears for the first time as a goddess in person, mother of the thunder god Thor. Snorri's identifying Ásgarðr with Troy reflects the medieval habit of explaining the Norse gods as ancient human kings.*
+
+<sub>来源 / Source：Snorri Sturluson, Edda · Gylfaginning 4–12 (sequential retelling) · 斯诺里《埃达·欺骗古鲁菲》第9章。</sub>
+
+### 12. 夜与昼 / Night and Day
+
+同样高者接着说：住在巨人国的一个巨人名叫纳尔菲，他有一个女儿叫夜，诺特。她像她的家族一样，皮肤黝黑。她先嫁给一个叫纳格尔法里的人，生了一个儿子叫奥德；然后她嫁给一个叫安纳尔的人，他们的女儿叫约尔德，大地；最后她嫁给属于阿萨神族的德林，他们的儿子叫昼，达格，他像父亲一家一样明亮而美丽。众神之父把夜和她的儿子昼带到天上，给了他们两匹马和两辆车，让他们每二十四小时环绕大地一周。夜先骑着名叫赫里姆法克西的马，每天早晨，马嘴里的泡沫滴在大地上，就是露水；昼的马叫斯金法克西，它的鬃毛照亮了整个天空和大地。这里出现了一个值得注意的细节：前一章说约尔德是奥丁的女儿，这一章又说她是夜和安纳尔的女儿。斯诺里的书中把这两种说法都写了进去，并没有加以调和；本篇照样保留，不替他统一。无论如何，大地和昼、夜一样，都被安排进了天上的秩序之中。
+
+*Just-as-high went on: there was a giant living in Jötunheimr called Nörfi or Narfi. He had a daughter called Nótt, Night, who was black and dark like her family. She was married to a man called Naglfari, and their son was Auðr; next she married one called Annarr, and their daughter was called Jörð, Earth; last she married Dellingr, who was of the race of the Æsir, and their son was Dagr, Day, bright and beautiful like his father's people. Allfather took Night and her son Day and gave them two horses and two chariots and set them up in the sky to ride around the earth every twenty-four hours. Night rides first on the horse called Hrímfaxi, and every morning he bedews the earth with the foam from his bit; Day's horse is Skinfaxi, and the whole sky and earth are lit by his mane. A detail stands out: the previous chapter called Jörð Óðinn's daughter, while this one makes her the daughter of Night and Annarr. Snorri's book contains both statements without reconciling them, and this retelling keeps both. Either way, Earth, like Day and Night, is set into the order of the heavens.*
+
+<sub>来源 / Source：Snorri Sturluson, Edda · Gylfaginning 4–12 (sequential retelling) · 斯诺里《埃达·欺骗古鲁菲》第10章。</sub>
+
+<sub>尚不确定 / Uncertain：《欺骗古鲁菲》第9章称约尔德为奥丁之女，第10章称她为夜与安纳尔之女，两说并存。</sub>
+
+### 13. 太阳与月亮 / Sun and Moon
+
+古鲁菲问：太阳和月亮是怎样运行的？至高者说：有一个人名叫蒙迪尔法利，他有两个孩子，长得非常美丽，他就给儿子取名叫月亮，玛尼，给女儿取名叫太阳，索尔，并把女儿嫁给了一个叫格伦的人。众神对他的傲慢很生气，就把这两个孩子带到天上，让索尔驾着拉太阳的马车——那太阳是众神用穆斯佩尔飞出的火星造成、用来照亮世界的。拉车的马叫阿尔瓦克和阿尔斯维德，众神在马的肩胛下放了两个风箱来给它们降温，有些古诗称之为“铁的凉气”。玛尼驾驭月亮的行程，掌管月亮的盈亏。他从大地上带走了两个孩子，比尔和赫尤基，当时他们正从比尔吉尔泉打水回来，肩上用一根叫西穆尔的扁担挑着一只叫赛格尔的水桶；他们的父亲叫维兹芬。这两个孩子跟随着玛尼，人们从大地上就能看见他们。学者们常把这两个孩子与月亮上的阴影联系起来。在这一章里，天上的日月也有了人的面孔：它们原本是一个骄傲父亲的美丽孩子，被众神带去天上，永远驾车奔跑。
+
+*Gylfi asked how the sun and moon are steered. High said: there was a man called Mundilfari who had two children so fair and beautiful that he called his son Máni, Moon, and his daughter Sól, Sun, and married her to a man called Glenr. The gods were angry at this arrogance and took the brother and sister and set them up in the sky; they made Sól drive the horses that drew the chariot of the sun, which the gods had made to light the worlds from the sparks that flew from Muspell. The horses are called Árvakr and Alsviðr, and under their shoulders the gods put two bellows to cool them, which some sources call iron-coolness. Máni steers the course of the moon and governs its waxing and waning. He took from the earth two children, Bil and Hjúki, as they were coming from the spring called Byrgir carrying on their shoulders the pail called Sægr on the pole Simul; their father was Viðfinnr. These children go with Máni, as can be seen from the earth. Scholars often link the two children with the shadows on the moon. In this chapter sun and moon take on human faces: once the lovely children of a proud father, taken up by the gods to drive across the sky for ever.*
+
+<sub>来源 / Source：Snorri Sturluson, Edda · Gylfaginning 4–12 (sequential retelling) · 斯诺里《埃达·欺骗古鲁菲》第11章。</sub>
+
+### 14. 追逐日月的狼 / The wolves that chase sun and moon
+
+古鲁菲说：太阳跑得飞快，好像害怕什么，就算她怕死，也不会跑得更快了。至高者说：难怪她跑得这样快，因为追她的那个东西已经很近了，她除了逃跑没有别的办法。古鲁菲问：是谁这样折磨她？至高者说：是两只狼。追太阳的那只叫斯科尔，它一直追赶太阳，总有一天会追上她；另一只叫哈提，是赫罗德维特尼尔的儿子，它跑在太阳前面，想要抓住月亮，这件事也终将发生。古鲁菲问：这些狼是从哪里来的？至高者说：在米德加尔德的东边，有一个老巨妇住在一片叫做铁树林的森林里，那里住着一些被称为铁树林女巫的女巨人。这个老巨妇生了许多巨人儿子，个个都是狼的模样，这两只狼就是从她那里来的。据说，这一族里最强大的一个叫做玛纳加尔姆，“月亮之犬”，他会吞食所有死者的血肉，吞掉月亮，把血溅满天空和天上，于是太阳失去光芒，狂风四起。创世的故事讲到这里，又一次指向了终结：诸神黄昏时，太阳和月亮终将被狼吞噬。
+
+*Gylfi said: the sun moves fast, almost as if she were afraid; she could not go faster if she feared for her life. High said: it is not surprising she goes so fast — her pursuer is close, and she has no way of escape but to run. Gylfi asked who torments her so. High said: two wolves. The one pursuing her is called Sköll; he frightens her, and he will catch her. The other, called Hati Hróðvitnisson, runs ahead of her and wants to catch the moon, and so it will happen. Gylfi asked where the wolves come from. High said: a giantess lives east of Miðgarðr in a forest called Járnviðr, Ironwood, where live the troll-wives called Járnviðjur. The old giantess bore many giants as sons, all in wolf shape, and these wolves come from her. It is said that the mightiest of this race will be the one called Mánagarmr, Moon-dog, who will be filled with the life-blood of all who die; he will swallow the moon and spatter heaven and sky with blood, so that the sun loses its light and the winds roar. The story of creation turns once more toward the end: at Ragnarök sun and moon will be devoured by wolves.*
+
+<sub>来源 / Source：Snorri Sturluson, Edda · Gylfaginning 4–12 (sequential retelling) · 斯诺里《埃达·欺骗古鲁菲》第12章。</sub>
 
 ---
 
@@ -220,31 +386,9 @@
 
 > *Primordial giant formed in Ginnungagap; killed by Odin and his brothers, who make the world from his body (Gylfaginning 5–8).*
 
-### 1. 冰与火之间 / Between ice and fire
+**长篇故事 · 14 章**：与本页「博尔」一节是同一个故事，全文见上方或[故事档案](../story.norse.ymir_world.md)。
 
-世界还不存在时，只有一道叫金伦加的深渊。北方的寒霜与南方的热气在这里相遇，融化的水滴里生出了巨人尤弥尔。
-
-*Before the world exists there is only the void of Ginnungagap. Where rime from the north meets heat from the south, the thawing drops bring forth the giant Ymir.*
-
-<sub>来源 / Source：Snorri Sturluson, Edda · Gylfaginning 5–8 · 《欺骗古鲁菲》第5章。</sub>
-
-### 2. 奥丁兄弟杀死尤弥尔 / Odin and his brothers kill Ymir
-
-布尔的儿子们——奥丁、维利和维——杀死了巨人尤弥尔。
-
-*The sons of Borr — Odin, Vili and Vé — kill the giant Ymir.*
-
-<sub>来源 / Source：Snorri Sturluson, Edda · Gylfaginning 5–8 · 《欺骗古鲁菲》第7章。</sub>
-
-### 3. 用身体造世界 / A world made from a body
-
-他们用尤弥尔的身体造出世界：肉变成大地，血变成海洋和湖泊，骨头变成山岩，头骨被举起来成为天空。
-
-*From Ymir's body they make the world: his flesh becomes the earth, his blood the sea and lakes, his bones the rocks, and his skull is raised up as the sky.*
-
-<sub>来源 / Source：Snorri Sturluson, Edda · Gylfaginning 5–8 · 《欺骗古鲁菲》第8章。</sub>
-
-<sub>尚不确定 / Uncertain：斯诺里的散文综述与诗歌见证可能有细节差异。</sub>
+目录：01 尼夫尔海姆 · 02 穆斯佩尔与苏尔特 · 03 金伦加鸿沟 · 04 尤弥尔 · 05 母牛与布里 · 06 博尔与贝斯特拉 · 07 杀死尤弥尔 · 08 大地与海 · 09 天空与群星 · 10 米德加尔德 · 11 最初的人与奥丁的家 · 12 夜与昼 · 13 太阳与月亮 · 14 追逐日月的狼
 
 ---
 
@@ -300,51 +444,31 @@
 
 ## 布里 · Búri
 
-**证据卡 / Evidence card**
+**有完整故事 / Full story**
+
+完整故事档案：[story.norse.ymir_world](../story.norse.ymir_world.md)
 
 > *Ancestor licked free from rime by Auðhumla in Gylfaginning.*
 
-### 1. 记载 / Record
+**长篇故事 · 14 章**：与本页「博尔」一节是同一个故事，全文见上方或[故事档案](../story.norse.ymir_world.md)。
 
-博尔是布里的孩子。
-
-*Gylfaginning presents Borr as Búri’s son.*
-
-<sub>来源 / Source：Snorri Sturluson, Edda · Gylfaginning 6</sub>
+目录：01 尼夫尔海姆 · 02 穆斯佩尔与苏尔特 · 03 金伦加鸿沟 · 04 尤弥尔 · 05 母牛与布里 · 06 博尔与贝斯特拉 · 07 杀死尤弥尔 · 08 大地与海 · 09 天空与群星 · 10 米德加尔德 · 11 最初的人与奥丁的家 · 12 夜与昼 · 13 太阳与月亮 · 14 追逐日月的狼
 
 ---
 
 ## 希芙 · Sif
 
-**证据卡 / Evidence card**
+**有完整故事 / Full story**
+
+完整故事档案：[story.norse.forging_treasures](../story.norse.forging_treasures.md)
 
 > 《诗语法》所见索尔之妻、乌勒尔之母与斯露德母系见证。
 
 > *Wife of Thor, mother of Ullr and mother of Thrud in registered medieval witnesses.*
 
-### 1. 记载 / Record
+**长篇故事 · 12 章**：与本页「乌勒尔」一节是同一个故事，全文见上方或[故事档案](../story.norse.forging_treasures.md)。
 
-希芙是斯露德的父母。
-
-*Skaldskaparmal identifies Thrud through Sif in its kinship terminology.*
-
-<sub>来源 / Source：Snorri Sturluson: Edda. Skáldskaparmál · Kinship and kenning lists</sub>
-
-### 2. 记载 / Record
-
-希芙是乌勒尔的父母。
-
-*Skaldskaparmal names Ullr as Sif’s son.*
-
-<sub>来源 / Source：Snorri Sturluson: Edda. Skáldskaparmál · Thor kennings section</sub>
-
-### 3. 记载 / Record
-
-索尔／雷神托尔与希芙是配偶。
-
-*Skaldskaparmal calls Thor the husband of Sif.*
-
-<sub>来源 / Source：Snorri Sturluson: Edda. Skáldskaparmál · Thor kennings section</sub>
+目录：01 希芙与乌勒尔 · 02 被剪掉的金发 · 03 索尔的愤怒 · 04 伊瓦尔迪的儿子们 · 05 洛基的赌注 · 06 金鬃野猪 · 07 指环德劳普尼尔 · 08 锤子与苍蝇 · 09 三位裁判 · 10 洛基的礼物 · 11 勃洛克的礼物与判决 · 12 缝上的嘴
 
 ---
 
@@ -584,41 +708,15 @@
 
 **有完整故事 / Full story**
 
-完整故事档案：[story.norse.hammer_recovery](../story.norse.hammer_recovery.md)
+完整故事档案：[story.norse.forging_treasures](../story.norse.forging_treasures.md)
 
 > 古诺斯文本中的洛基；与索尔在多则叙事中互动，但兄弟关系只登记在现代改编层。古诺斯赫尔为洛基与安格尔波达之女。
 
 > *Loki in Old Norse witnesses, interacting with Thor without an ancient sibling claim; Hel is Loki and Angrboda’s daughter in Snorri’s witness.*
 
-### 1. 索尔寻找锤子 / Thor seeks the hammer
+**长篇故事 · 12 章**：与本页「乌勒尔」一节是同一个故事，全文见上方或[故事档案](../story.norse.forging_treasures.md)。
 
-《索列姆之歌》把索尔置于寻找妙尔尼尔的中心位置。
-
-*Thrymskvida places Thor at the center of the search for Mjolnir.*
-
-<sub>来源 / Source：Codex Regius electronic edition · Þrymskviða stanzas 1–32 · 《索列姆之歌》1–32节。</sub>
-
-<sub>尚不确定 / Uncertain：当前版不扩写尚未逐节入库的情节。</sub>
-
-### 2. 洛基同行 / Loki accompanies him
-
-洛基在诗中同行并提供建议；这项同伴关系不表示索尔与洛基是兄弟。
-
-*Loki accompanies and advises him in the poem; this companionship does not make Thor and Loki brothers.*
-
-<sub>来源 / Source：Codex Regius electronic edition · Þrymskviða stanzas 1–32 · 《索列姆之歌》1–32节与关系纠错Claim。</sub>
-
-<sub>尚不确定 / Uncertain：保持亲属关系与故事同伴关系分离。</sub>
-
-### 3. 寻回框架 / Recovery frame
-
-当前证据层确认两者共同处于妙尔尼尔寻回故事，但婚礼伪装与逐节行动尚未在本版本拆成独立Claims。
-
-*The current evidence layer confirms both figures in the recovery story, while the wedding disguise and stanza-by-stanza actions have not yet been modeled as separate claims.*
-
-<sub>来源 / Source：Codex Regius electronic edition · Þrymskviða stanzas 1–32 · 诗歌整体定位1–32节。</sub>
-
-<sub>尚不确定 / Uncertain：详情将在后续逐节版本扩充。</sub>
+目录：01 希芙与乌勒尔 · 02 被剪掉的金发 · 03 索尔的愤怒 · 04 伊瓦尔迪的儿子们 · 05 洛基的赌注 · 06 金鬃野猪 · 07 指环德劳普尼尔 · 08 锤子与苍蝇 · 09 三位裁判 · 10 洛基的礼物 · 11 勃洛克的礼物与判决 · 12 缝上的嘴
 
 ---
 
@@ -818,19 +916,17 @@
 
 ## 约尔德／大地女神 · Jord
 
-**证据卡 / Evidence card**
+**有完整故事 / Full story**
+
+完整故事档案：[story.norse.ymir_world](../story.norse.ymir_world.md)
 
 > 《散文埃达》所见索尔之母；大地人格层与具体文本见证分开保存。
 
 > *Mother of Thor in the registered Prose Edda witness; earth-personification scope remains witness-specific.*
 
-### 1. 记载 / Record
+**长篇故事 · 14 章**：与本页「博尔」一节是同一个故事，全文见上方或[故事档案](../story.norse.ymir_world.md)。
 
-索尔／雷神托尔是约尔德／大地女神的孩子。
-
-*Skaldskaparmal names Thor as a son of Jord.*
-
-<sub>来源 / Source：Snorri Sturluson: Edda. Skáldskaparmál · Thor kennings section</sub>
+目录：01 尼夫尔海姆 · 02 穆斯佩尔与苏尔特 · 03 金伦加鸿沟 · 04 尤弥尔 · 05 母牛与布里 · 06 博尔与贝斯特拉 · 07 杀死尤弥尔 · 08 大地与海 · 09 天空与群星 · 10 米德加尔德 · 11 最初的人与奥丁的家 · 12 夜与昼 · 13 太阳与月亮 · 14 追逐日月的狼
 
 ---
 
@@ -1082,26 +1178,112 @@
 
 ## 马格尼 · Magni
 
-**证据卡 / Evidence card**
+**有完整故事 / Full story**
+
+完整故事档案：[story.norse.thor_hrungnir](../story.norse.thor_hrungnir.md)
 
 > 索尔之子；《诗语法》另称其母为雅恩莎撒。
 
 > *Son of Thor; Skaldskaparmal also names Jarnsaxa as his mother.*
 
-### 1. 记载 / Record
+**长篇故事 · 12 章**
 
-雅恩莎撒是马格尼的父母。
+目录：01 赛马 · 02 闯进阿斯加尔德 · 03 醉后的狂言 · 04 索尔回来 · 05 黏土巨人 · 06 石头的心 · 07 提亚尔菲的诡计 · 08 锤与磨石 · 09 泥人倒下 · 10 三岁的马格尼 · 11 格罗亚的咒语 · 12 奥尔万迪尔的脚趾
 
-*Skaldskaparmal identifies Jarnsaxa as Magni’s mother.*
+### 1. 赛马 / The horse race
 
-<sub>来源 / Source：Snorri Sturluson: Edda. Skáldskaparmál · Hrungnir episode</sub>
+《诗语法》第17章讲道：索尔到东方去打巨怪了，奥丁骑着他的八足马斯莱普尼尔来到巨人国，去拜访一个名叫赫朗格尼尔的巨人。赫朗格尼尔问：这个戴着金盔、骑着马在天空和海上奔驰的人是谁？他说，这匹马真是好马。奥丁说，他愿意拿自己的头打赌，在巨人国里找不到一匹能和它相比的马。赫朗格尼尔说，这确实是一匹好马，可他有一匹步子大得多的马，名叫古尔法克西，意思是“金鬃”。赫朗格尼尔生了气，跳上自己的马，去追赶奥丁，想为他的狂言报复他。奥丁全速奔驰，始终跑在前面，翻过了一座小山；赫朗格尼尔怒气冲天，一心追赶，等他回过神来，已经冲进了阿斯加尔德的大门。斯诺里讲这个故事，原本是为了解释诗人们给索尔、给巨人、给磨石起的种种别称，可他把它讲成了北欧神话中最生动的故事之一。故事的开头是一场赛马和一次赌头，这与第35章洛基的赌注遥相呼应：在斯诺里的世界里，众神和巨人的冲突，常常从一句夸口开始。
 
-### 2. 记载 / Record
+*Skáldskaparmál 17 tells: Thor had gone east to fight trolls, and Óðinn rode Sleipnir into Jötunheimr and came to a giant called Hrungnir. Hrungnir asked who this was with the golden helmet, riding through air and sea — a fine horse he had. Óðinn said he would wager his head that there was no horse as good in Jötunheimr. Hrungnir said it was a good horse, but he had one with a much longer stride, called Gullfaxi, Gold-mane. Hrungnir grew angry, leapt on his horse and galloped after Óðinn, meaning to pay him back for his boasting. Óðinn galloped so hard that he kept ahead over the next hill; and Hrungnir was in such a giant rage that before he knew it he had come in through the gates of Ásgarðr. Snorri tells the story to explain the many poetic names for Thor, for giants and for whetstones, yet he makes it one of the liveliest tales in Norse myth. It opens with a horse race and a wager of a head, echoing Loki's wager in chapter 35: in Snorri's world, conflicts between gods and giants often begin with a boast.*
 
-索尔／雷神托尔是马格尼的父母。
+<sub>来源 / Source：Snorri Sturluson: Edda. Skáldskaparmál · Skáldskaparmál 17 (sequential retelling) · 斯诺里《埃达·诗语法》第17章。</sub>
 
-*Skaldskaparmal names Magni as a child of Thor.*
+### 2. 闯进阿斯加尔德 / Into Ásgarðr
 
-<sub>来源 / Source：Snorri Sturluson: Edda. Skáldskaparmál · Thor kennings section</sub>
+赫朗格尼尔骑马冲进了众神的城门，他来到大殿门口时，阿萨神族的众神邀请他进去喝酒。这也许是北欧人待客的规矩：即使来者是巨人，只要他进了门，主人就要以礼相待。赫朗格尼尔走进大殿，要人给他拿酒。众神端来了索尔平常用来喝酒的那两只大碗，赫朗格尼尔把两碗酒都喝得一干二净。在北欧神话里，索尔是出了名的海量，在乌特加尔洛基的城堡里，他曾一口气想要喝干连着大海的角杯；用索尔的酒碗招待巨人，就像是把雷神的座位让给了他。斯诺里没有说众神为什么这样慷慨，也许是因为奥丁觉得这场赛马是自己引起的，也许是因为众神知道赫朗格尼尔是巨人中最强壮的一个，不想在索尔不在的时候和他起冲突。可是好客的主人很快就要后悔了：酒喝得越多，巨人的话就越狂妄，阿斯加尔德的大殿里，一场危机正在酝酿。
+
+*Hrungnir rode in through the gods' gate, and when he came to the hall doors the Æsir invited him in to drink. Perhaps this was the custom of Norse hospitality: even a giant, once he was inside the door, must be treated as a guest. Hrungnir went into the hall and demanded drink. The gods brought the bowls that Thor usually drank from, and Hrungnir drained both. In Norse myth Thor is famous for his thirst — in Útgarða-Loki's castle he tried to drain a horn whose end lay in the sea — and to serve the giant from Thor's bowls is almost to give him the thunder god's seat. Snorri does not say why the gods were so generous; perhaps Óðinn felt the race was his doing, perhaps the gods knew Hrungnir was the strongest of the giants and wanted no fight while Thor was away. But the hospitable hosts were soon to regret it: the more the giant drank, the wilder his words, and a crisis was brewing in the hall of Ásgarðr.*
+
+<sub>来源 / Source：Snorri Sturluson: Edda. Skáldskaparmál · Skáldskaparmál 17 (sequential retelling) · 斯诺里《埃达·诗语法》第17章。</sub>
+
+### 3. 醉后的狂言 / The drunken boasts
+
+赫朗格尼尔喝醉了，说起了大话。他说，他要把瓦尔哈拉整个搬起来，带回巨人国去；他要把阿斯加尔德沉入地下，杀死所有的神，只留下芙蕾雅和希芙，把她们带回自己家里。众神中只有芙蕾雅敢给他倒酒。赫朗格尼尔又说，他要把众神所有的麦酒都喝光。众神被他的狂妄激怒了，可是谁也不敢和他动手。在这一幕里，希芙再次以索尔妻子的身份出现在故事中：巨人点名要带走的两位女神，一位是众神中最美的芙蕾雅，一位是索尔的妻子希芙。对巨人来说，夺走雷神的妻子，就是对索尔最大的侮辱。北欧神话里，巨人觊觎女神是一个反复出现的主题：建造城墙的巨人要芙蕾雅、太阳和月亮作报酬，偷走锤子的巨人特里姆要芙蕾雅做新娘。而这一次，巨人的狂言最终让他付出了生命。芙蕾雅为他倒酒的细节也很耐人寻味：在众神都畏缩的时候，只有她敢走到这个醉醺醺的巨人面前。
+
+*Hrungnir got drunk and began to boast. He said he would lift up Valhalla and carry it to Jötunheimr, sink Ásgarðr and kill all the gods except Freyja and Sif, whom he would take home with him. Freyja was the only one who dared pour for him. He said he would drink up all the Æsir's ale. The gods grew weary of his arrogance, yet none dared lay hands on him. In this scene Sif appears again as Thor's wife: the two goddesses the giant names to carry off are Freyja, fairest of the goddesses, and Sif, wife of Thor. For a giant, to take the thunder god's wife would be the greatest insult to Thor. The giant's lust for the goddesses is a recurring theme in Norse myth: the giant builder of the wall demands Freyja, the sun and the moon as his wage, and the giant Þrymr who steals the hammer demands Freyja as his bride. This time the giant's boasting will cost him his life. The detail of Freyja pouring for him is telling: when all the gods shrink back, she alone dares approach the drunken giant.*
+
+<sub>来源 / Source：Snorri Sturluson: Edda. Skáldskaparmál · Skáldskaparmál 17 (sequential retelling) · 斯诺里《埃达·诗语法》第17章。</sub>
+
+### 4. 索尔回来 / Thor returns
+
+众神听够了他的狂言，就喊出了索尔的名字。索尔立刻出现在大殿里，高高举起锤子，怒不可遏。他问：是谁让这个狡猾的巨人坐在这里喝酒？是谁允许赫朗格尼尔待在阿斯加尔德？为什么芙蕾雅像在众神的宴会上一样给他倒酒？赫朗格尼尔用不友善的眼光看着索尔，说是奥丁请他进来喝酒的，他受到奥丁的保护。索尔说，赫朗格尼尔会在离开以前后悔接受这个邀请。赫朗格尼尔说：杀死一个手无寸铁的人，对阿萨·索尔来说没有什么光彩；你若敢在边界的格约特纳加尔德与我决斗，那才算是勇敢。我真是太傻了，把盾牌和磨石留在了家里，要是我带着武器，我们现在就可以较量。你要是杀了一个没有武器的人，就是一个卑鄙的人。他向索尔提出了决斗。斯诺里说，索尔无论如何也不愿意错过这次决斗，因为从来没有人向他挑战过。这是索尔一生中第一次被正式邀请决斗，他的荣誉不允许他拒绝。
+
+*When the gods had had enough of his boasting they called on the name of Thor. At once Thor was in the hall, his hammer raised high, in a towering rage. He asked who had let this cunning giant sit drinking there, who had allowed Hrungnir to be in Ásgarðr, and why Freyja was serving him as at a feast of the Æsir. Hrungnir looked at Thor with no friendly eyes and said Óðinn had invited him to drink and he was under Óðinn's protection. Thor said Hrungnir would regret that invitation before he left. Hrungnir said there was little glory for Ása-Þórr in killing an unarmed man; it would be braver to fight him on the border at Grjótúnagarðar. 'I was a fool to leave my shield and whetstone at home; if I had my weapons we could try it now. You will be a coward if you kill an unarmed man.' So he challenged Thor to single combat. Snorri says Thor would not miss the duel for anything, for no one had ever challenged him before. It was the first time in Thor's life he had been formally challenged, and his honour would not let him refuse.*
+
+<sub>来源 / Source：Snorri Sturluson: Edda. Skáldskaparmál · Skáldskaparmál 17 (sequential retelling) · 斯诺里《埃达·诗语法》第17章。</sub>
+
+### 5. 黏土巨人 / The clay giant
+
+赫朗格尼尔骑马飞奔回巨人国。他和索尔的决斗在巨人中间传开了，巨人们都觉得这件事关系重大：如果赫朗格尼尔死了，他们就要从索尔那里吃苦头了，因为赫朗格尼尔是他们中间最强壮的一个。于是巨人们在格约特纳加尔德用黏土造了一个巨人，他有九里高，腋下有三里宽。他们找不到一颗大得能配得上他的心，就取来一匹母马的心装了进去，可是这颗心在索尔到来的时候并不坚定。这个泥巨人名叫默库尔卡尔菲。巨人们的这个计划，透露出他们心里的恐惧：他们不敢完全依靠赫朗格尼尔一个人，就想用一个巨大的帮手来吓住索尔。可是一个用黏土造的巨人，配上一颗母马的心，外表再庞大，内心也是怯懦的。斯诺里用这个细节暗示了接下来的结果：决斗还没开始，巨人一方就已经露出了弱点。这也是北欧神话里难得一见的“造人”情节：巨人们也会像众神用树干造人那样，用泥土造出一个有生命的帮手。
+
+*Hrungnir galloped back to Jötunheimr. His duel with Thor was much talked of among the giants; they thought a great deal hung on it, for if Hrungnir died they would have trouble from Thor, Hrungnir being the strongest of them. So the giants made a man of clay at Grjótúnagarðar, nine leagues tall and three leagues broad under the arms. They could find no heart big enough for him until they took one from a mare, and it was not steady when Thor came. The clay giant was called Mökkurkálfi. The plan betrays the giants' fear: not daring to rely on Hrungnir alone, they hoped a vast helper would daunt Thor. But a giant of clay with a mare's heart, however huge outside, is timid within. Snorri uses the detail to hint at what follows: before the duel has begun, the giants' side already shows its weakness. It is also a rare 'making of a man' in Norse myth: the giants, like the gods who made people from logs, shape a living helper from earth.*
+
+<sub>来源 / Source：Snorri Sturluson: Edda. Skáldskaparmál · Skáldskaparmál 17 (sequential retelling) · 斯诺里《埃达·诗语法》第17章。</sub>
+
+### 6. 石头的心 / The heart of stone
+
+赫朗格尼尔自己的心则是出了名的：它是用坚硬的石头做的，有棱有角，是三角形的，后来人们刻的一种叫做“赫朗格尼尔之心”的符号，就是照着它的样子画的。他的头也是石头做的。他的盾牌也是石头做的，又宽又厚，他在格约特纳加尔德等索尔的时候，就把这面盾牌举在身前；他的武器是一块磨石，他把它扛在肩上，样子十分可怕。在他身边站着那个泥巨人默库尔卡尔菲，泥巨人非常害怕，据说他一看见索尔，就吓得尿了出来。斯诺里在这里把两个巨人对比得非常鲜明：一个是石心石头的强敌，一个是黏土马心的胆小鬼。赫朗格尼尔的石头之身，正好说明了他的力量：他是巨人中最坚硬、最难对付的一个。北欧的吟唱诗人常用“赫朗格尼尔的头骨”“赫朗格尼尔的脚下”等说法来指盾牌和石头，这些肯宁都是从这个故事来的。决斗的场地已经准备好，双方都在等待：一边是石头的巨人和泥巨人，一边即将到来的是雷神和他的仆人。
+
+*Hrungnir himself had a famous heart: it was made of hard stone, spiky and three-cornered, like the carved symbol that has since been called Hrungnir's heart. His head too was of stone. His shield was of stone, broad and thick, and he held it before him as he stood at Grjótúnagarðar waiting for Thor; his weapon was a whetstone, which he carried on his shoulder, and he looked a fearsome sight. Beside him stood the clay giant Mökkurkálfi, who was terrified; they say he wet himself when he saw Thor. Snorri sets the two giants in sharp contrast: one a formidable foe with a stone heart and stone head, the other a coward of clay with a mare's heart. Hrungnir's body of stone shows his might: he is the hardest and most dangerous of the giants. Norse court poets use phrases like 'Hrungnir's skull' and 'the soles of Hrungnir's feet' for shields and stones, kennings that come from this tale. The field is ready and both sides wait: on one, the stone giant and the clay giant; coming toward them, the thunder god and his servant.*
+
+<sub>来源 / Source：Snorri Sturluson: Edda. Skáldskaparmál · Skáldskaparmál 17 (sequential retelling) · 斯诺里《埃达·诗语法》第17章。</sub>
+
+### 7. 提亚尔菲的诡计 / Thjálfi's trick
+
+索尔带着他的仆人提亚尔菲前去决斗。提亚尔菲先跑到赫朗格尼尔站的地方，对他说：巨人，你站在这里，把盾牌举在前面，太不小心了。索尔已经看见你了，他会从地底下钻出来，从下面攻击你。赫朗格尼尔听了，就把盾牌放到脚下，站在盾牌上，双手握住磨石。提亚尔菲是索尔在旅途中收下的仆人，在乌特加尔洛基的城堡里，他曾和思想赛跑；在这里，他用一句谎话就让巨人放下了防御。这个诡计说明，北欧神话里的众神一方，并不只靠蛮力取胜。索尔从来不会从地下钻出来——他是雷神，他的到来总是伴着天上的闪电与雷鸣；巨人却信以为真，把唯一能保护自己的盾牌踩在了脚下。斯诺里用这一幕为接下来的决斗做了铺垫：当雷神真的从天上降临时，赫朗格尼尔已经无法用盾牌抵挡了。提亚尔菲的谎话也许不太光彩，可在北欧人看来，用智谋打败强敌，正是一个好仆人的本事。
+
+*Thor went to the duel with his servant Thjálfi. Thjálfi ran ahead to where Hrungnir stood and said: 'Giant, you are standing carelessly with your shield in front of you. Thor has seen you; he will come at you from below, under the ground.' Hrungnir pushed the shield under his feet and stood on it, holding the whetstone in both hands. Thjálfi was the servant Thor took on during his travels; in Útgarða-Loki's castle he raced against Thought. Here, with a single lie, he makes the giant drop his guard. The trick shows that the gods' side in Norse myth does not win by brute force alone. Thor never comes from under the ground — he is the thunder god, and his coming is always with lightning and thunder in the sky — yet the giant believed it and set his only protection under his feet. Snorri thus prepares the duel: when the thunder god truly comes down from the sky, Hrungnir can no longer shield himself. Thjálfi's lie may not be noble, but to the Norse, beating a strong foe by wit was just what a good servant should do.*
+
+<sub>来源 / Source：Snorri Sturluson: Edda. Skáldskaparmál · Skáldskaparmál 17 (sequential retelling) · 斯诺里《埃达·诗语法》第17章。</sub>
+
+### 8. 锤与磨石 / Hammer and whetstone
+
+接着，赫朗格尼尔看见了闪电，听见了巨大的雷声，然后他看见了索尔带着神的愤怒而来。索尔飞快地冲过来，挥起锤子，从很远的地方就把它掷向赫朗格尼尔。赫朗格尼尔双手举起磨石，也把它掷了出去。锤子和磨石在空中相撞，磨石碎成了两半：一半落在地上，世上所有的磨石山都是从那一半来的；另一半击中了索尔的头，他向前扑倒在地上。而锤子妙尔尼尔正中赫朗格尼尔的头，把他的头颅砸成了碎片。赫朗格尼尔向前倒下，压在索尔身上，一条腿正好横在索尔的脖子上。这一幕是整个故事的高潮，也是斯诺里最精彩的描写之一。锤子和磨石的相撞，不仅决定了胜负，还解释了自然界的一种现象：人们开采磨石的那些岩层，原来是巨人武器的碎片。索尔赢了决斗，却也付出了代价：一块磨石的碎片嵌进了他的头里，而他自己又被死去的巨人压在了地上，动弹不得。胜利的雷神，此刻需要有人来救他。
+
+*Then Hrungnir saw lightning and heard great thunderclaps, and he saw Thor in his godly wrath. Thor came on at tremendous speed, swung up the hammer and threw it from a great distance at Hrungnir. Hrungnir raised the whetstone in both hands and threw it back. Hammer and whetstone met in the air, and the whetstone broke in two: one part fell to the ground, and from it come all whetstone rocks; the other struck Thor's head, so that he fell forward to the ground. But the hammer Mjölnir struck Hrungnir in the middle of the head and smashed his skull into small fragments, and he fell forward over Thor, so that his leg lay across Thor's neck. This is the climax of the tale and one of Snorri's finest descriptions. The clash of hammer and whetstone decides the fight and also explains a natural feature: the rocks from which whetstones are quarried are fragments of a giant's weapon. Thor wins the duel but pays a price: a piece of whetstone is lodged in his head, and he lies pinned under the dead giant. The victorious thunder god now needs someone to rescue him.*
+
+<sub>来源 / Source：Snorri Sturluson: Edda. Skáldskaparmál · Skáldskaparmál 17 (sequential retelling) · 斯诺里《埃达·诗语法》第17章。</sub>
+
+### 9. 泥人倒下 / The clay giant falls
+
+就在索尔和赫朗格尼尔交手的同时，提亚尔菲向泥巨人默库尔卡尔菲发起了攻击。斯诺里只用了一句话来描写这场战斗：泥巨人倒下了，倒得很不光彩。这个九里高、三里宽的庞然大物，本该是巨人们用来吓倒索尔的秘密武器，却被索尔的一个仆人轻易地打倒了。一颗母马的心，终究撑不起一个巨人的身体。北欧的吟唱诗人在描写这场战斗时，常把重点放在索尔和赫朗格尼尔身上，泥巨人只是一个可笑的陪衬。可是这一句话也有它的意义：它说明巨人们的计谋全都落空了，他们以为造一个更大的身体就能战胜雷神，却忘了真正决定胜负的是勇气。提亚尔菲在这个故事里两次立功：一次用谎话让赫朗格尼尔放下盾牌，一次亲手打倒了泥巨人。这个凡间出身的少年，在众神的冒险中一点也不逊色。可是接下来，他就会发现，有一件事是他做不到的。
+
+*While Thor fought Hrungnir, Thjálfi attacked the clay giant Mökkurkálfi. Snorri gives the fight a single sentence: the clay giant fell with little glory. This monster nine leagues tall and three broad, meant to be the giants' secret weapon to terrify Thor, was easily felled by Thor's servant. A mare's heart could not hold up a giant's body. Norse court poets describing the battle usually focus on Thor and Hrungnir, the clay giant being only a comic foil. Yet the sentence matters: it shows that all the giants' schemes came to nothing. They thought a bigger body could beat the thunder god and forgot that courage decides a fight. Thjálfi wins glory twice in this tale — once with the lie that made Hrungnir put down his shield, once by felling the clay giant himself. This boy of mortal birth holds his own in the adventures of the gods. But next he will find there is one thing he cannot do.*
+
+<sub>来源 / Source：Snorri Sturluson: Edda. Skáldskaparmál · Skáldskaparmál 17 (sequential retelling) · 斯诺里《埃达·诗语法》第17章。</sub>
+
+### 10. 三岁的马格尼 / Three-year-old Magni
+
+提亚尔菲走到索尔身边，想把赫朗格尼尔的腿从他身上搬开，可是怎么也搬不动。所有的阿萨神听说索尔倒下了，都赶了过来，想把那条腿抬开，可是谁也抬不动。这时，马格尼来了，他是索尔和女巨人雅恩萨克萨的儿子，当时才三岁。他一把就把赫朗格尼尔的腿从索尔身上推开，说：父亲，我来晚了，这真是太可惜了，要是我早一点遇见这个巨人，我想我只用拳头就能把他打死，送他去冥界。索尔站起来，欢迎他的儿子，说他长大以后一定会非常强壮。索尔说：我要把赫朗格尼尔的马古尔法克西送给你。奥丁却说，索尔把这样一匹好马送给一个女巨人的儿子，而不是送给他的父亲，是不对的。这一章是马格尼在北欧神话中最重要的出场：一个三岁的孩子，做到了所有神都做不到的事。在《欺骗古鲁菲》里，斯诺里还说，诸神黄昏之后，马格尼和他的兄弟莫迪将继承索尔的锤子妙尔尼尔。这个刚刚学会走路就能举起巨人之腿的孩子，正是未来世界里雷神力量的继承者。
+
+*Thjálfi went to Thor and tried to lift Hrungnir's leg off him, but could not. All the Æsir came when they heard Thor had fallen and tried to lift the leg, and none of them could move it. Then Magni came, son of Thor and the giantess Járnsaxa; he was three years old. He threw Hrungnir's leg off Thor and said: 'What a shame, father, that I came so late; I think I would have sent this giant to Hel with my fist if I had met him.' Thor stood up, welcomed his son and said he would surely grow up strong. 'And I will give you the horse Gullfaxi,' said Thor. But Óðinn said Thor did wrong to give so fine a horse to the son of a giantess and not to his father. This chapter is Magni's most important appearance in Norse myth: a three-year-old does what all the gods could not. In Gylfaginning Snorri also says that after Ragnarök Magni and his brother Móði will inherit Thor's hammer Mjölnir. The child who could lift a giant's leg when scarcely able to walk is the heir of the thunder god's strength in the world to come.*
+
+<sub>来源 / Source：Snorri Sturluson: Edda. Skáldskaparmál · Skáldskaparmál 17 (sequential retelling) · 斯诺里《埃达·诗语法》第17章。</sub>
+
+### 11. 格罗亚的咒语 / Gróa's spells
+
+索尔回到了他的家斯鲁德万加尔，可是那块磨石还嵌在他的头里。于是来了一位女巫，她叫格罗亚，是勇敢的奥尔万迪尔的妻子。她对着索尔唱起咒语，一直唱到磨石开始松动。在北欧人的世界里，像格罗亚这样的女巫，通过唱诵咒语来治病、预言和施法，是一种受人敬畏的本领；《女巫的预言》本身就是一位女巫对奥丁唱出的诗。格罗亚的咒语眼看就要成功了，索尔感觉到磨石正在松动，心里很高兴，想要报答她，让她也高兴高兴。斯诺里在这里写出了索尔性格中温和的一面：这位在战场上毫不留情的雷神，对一个为他治伤的女子满怀感激，想用一个好消息来回报她。可正是这份好意，让事情出了差错。在北欧神话里，好心办坏事并不少见，而这一次的后果，将永远留在雷神的头上。斯诺里为这个小插曲安排了一个出人意料的结局，也借此解释了一条古老的禁忌。
+
+*Thor went home to Þrúðvangar, and the whetstone remained stuck in his head. Then came a seeress called Gróa, wife of Aurvandill the Bold. She chanted her spells over Thor until the whetstone began to work loose. In the Norse world a seeress like Gróa, who healed, prophesied and worked magic by chanting spells, was held in awe; the Völuspá itself is a seeress's song to Óðinn. Gróa's spell was on the point of success; Thor felt the stone loosening and was glad, and wished to reward her and make her glad in turn. Snorri shows a gentle side of Thor here: the thunder god, merciless in battle, is full of gratitude to a woman healing his wound and wants to repay her with good news. Yet it is just that kindness that makes things go wrong. In Norse myth good intentions often lead to bad results, and this time the consequence will stay in the thunder god's head for ever. Snorri gives this small episode an unexpected ending, and uses it to explain an old taboo.*
+
+<sub>来源 / Source：Snorri Sturluson: Edda. Skáldskaparmál · Skáldskaparmál 17 (sequential retelling) · 斯诺里《埃达·诗语法》第17章。</sub>
+
+### 12. 奥尔万迪尔的脚趾 / Aurvandill's toe
+
+索尔想让格罗亚高兴，就告诉她一个消息。他说，他曾经从北方涉水渡过埃利伐加尔河，把奥尔万迪尔装在一个篮子里，背在背上，从巨人国一路背了回来。为了证明这件事，他说，奥尔万迪尔有一根脚趾从篮子里伸了出来，被冻僵了，索尔就把它折断，扔到天上，把它变成了一颗星星，叫做“奥尔万迪尔的脚趾”。索尔说，奥尔万迪尔用不了多久就会回到家里。格罗亚听了这个消息，高兴得不得了，竟然忘了她的咒语，磨石也就不再松动，一直留在了索尔的头里。斯诺里在最后说：所以，人们不可以把磨石扔过地板，因为那样的话，索尔头里的那块石头就会动起来。这个故事从一次赛马开始，经过一场决斗，最后落在一条日常的禁忌上。马格尼的力量、提亚尔菲的机智、格罗亚的咒语，都围绕着雷神展开；而那块永远嵌在索尔头里的磨石，成了这场胜利留下的永久的伤痕。
+
+*Thor wanted to make Gróa glad, so he told her some news. He said he had waded from the north across the river Élivágar carrying Aurvandill in a basket on his back out of Jötunheimr. As proof, he said that one of Aurvandill's toes had stuck out of the basket and frozen, so Thor broke it off and threw it up into the sky and made it into a star called Aurvandill's Toe. Thor said it would not be long before Aurvandill came home. Gróa was so delighted at the news that she forgot her spells, and the whetstone stopped coming loose and stayed in Thor's head. Snorri ends: and so it is forbidden to throw a whetstone across the floor, for then the stone in Thor's head stirs. The tale begins with a horse race, passes through a duel, and comes to rest on an everyday taboo. Magni's strength, Thjálfi's wit and Gróa's spells all turn around the thunder god, and the whetstone lodged for ever in Thor's head becomes the lasting scar of his victory.*
+
+<sub>来源 / Source：Snorri Sturluson: Edda. Skáldskaparmál · Skáldskaparmál 17 (sequential retelling) · 斯诺里《埃达·诗语法》第17章。</sub>
 
 ---

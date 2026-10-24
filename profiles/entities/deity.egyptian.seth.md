@@ -36,5 +36,7 @@
   - 来源：[Plutarch, On Isis and Osiris (tr. F. C. Babbitt, Loeb Moralia V, 1936)](https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Plutarch/Moralia/Isis_and_Osiris*/home.html)；定位：ch. 13
 - `claim.v0320.plutarch_osiris.10` [VERIFIED / TEXT_SAYS / 0.90] In Plutarch's account Typhon (Seth), hunting by moonlight, finds the body of Osiris, tears it into fourteen parts and scatters them; Isis recovers them in a papyrus boat.
   - 来源：[Plutarch, On Isis and Osiris (tr. F. C. Babbitt, Loeb Moralia V, 1936)](https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Plutarch/Moralia/Isis_and_Osiris*/home.html)；定位：ch. 18
+- `claim.v0360.memphite.05` [VERIFIED / TEXT_SAYS / 0.90] The Shabaka Stone (BM EA 498) says that reed and papyrus were placed on the double door of the house of Ptah, meaning that Horus and Seth were pacified and united in the house of Ptah, the Balance of the Two Lands; a long section after this is worn away.
+  - 来源：[The Shabaka Stone (Memphite Theology), British Museum EA 498](https://www.britishmuseum.org/collection/object/Y_EA498)；定位：Shabaka Stone (BM EA 498), reed and papyrus at the door of Ptah
 
 > 本档案只代表当前阶段性基线，不是对该传统的最终或唯一解释。

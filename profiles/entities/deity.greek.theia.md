@@ -25,6 +25,7 @@ Titan child of Gaia and Uranus and parent, with Hyperion, of Helios, Selene and 
 | `PARENT_OF` | 厄俄斯 (`deity.greek.eos`) | VERIFIED / TEXT_SAYS / MYTHIC_NARRATIVE | 1 | 0.99 | stored claim; `claim.v040.theia.parent_eos` |
 | `PARENT_OF` | 赫利俄斯 (`deity.greek.helios`) | VERIFIED / TEXT_SAYS / MYTHIC_NARRATIVE | 1 | 0.99 | stored claim; `claim.v040.theia.parent_helios` |
 | `PARENT_OF` | 塞勒涅 (`deity.greek.selene`) | VERIFIED / TEXT_SAYS / MYTHIC_NARRATIVE | 1 | 0.99 | stored claim; `claim.v040.theia.parent_selene` |
+| `SIBLING_OF` | 克利俄斯 (`deity.greek.crius`) | VERIFIED / TEXT_SAYS / MYTHIC_NARRATIVE | 1 | 0.90 | inferred inverse; `claim.v0360.theog_titans.03` |
 
 ## Claims 与证据
 

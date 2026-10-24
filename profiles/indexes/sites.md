@@ -107,6 +107,7 @@
 | site.polynesia.taputapuatea | 塔普塔普阿泰阿 | Taputapuātea | ARCHAEOLOGICAL_SITE | 波利尼西亚 | REAL_SACRED | World Heritage 1529 |
 | site.zimbabwe.great_zimbabwe | 大津巴布韦 | Great Zimbabwe | ARCHAEOLOGICAL_SITE | 南非传统 | REAL_ARCHAEOLOGICAL | World Heritage |
 | place.sumerian.dilmun | 迪尔蒙（《恩基与宁胡尔萨格》） | Dilmun (in Enki and Ninhursaĝa) | MYTHICAL_PLACE | 苏美尔 | MIXED | — |
+| place.sumerian.ebih | 埃比赫山 | Ebiḫ | MYTHICAL_PLACE | 苏美尔 | MIXED | — |
 | site.iraq.eridu | 埃里都 | Eridu | ARCHAEOLOGICAL_SITE | 苏美尔 | REAL_ARCHAEOLOGICAL | Ahwar World Heritage component |
 | site.iraq.nippur | 尼普尔 | Nippur | ARCHAEOLOGICAL_SITE | 苏美尔 | REAL_ARCHAEOLOGICAL | — |
 | realm.sumerian.kur | 苏美尔冥界 | Sumerian netherworld | REALM | 苏美尔 | MYTHICAL | — |

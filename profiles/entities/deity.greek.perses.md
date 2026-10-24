@@ -23,10 +23,12 @@
 | `CHILD_OF` | 克利俄斯 (`deity.greek.crius`) | VERIFIED / TEXT_SAYS / MYTHIC_NARRATIVE | 1 | 0.99 | inferred inverse; `claim.v090.crius_parent_perses` |
 | `CHILD_OF` | 欧律比亚 (`deity.greek.eurybia`) | VERIFIED / TEXT_SAYS / MYTHIC_NARRATIVE | 1 | 0.99 | inferred inverse; `claim.v090.eurybia_parent_perses` |
 | `CONSORT_OF` | 阿斯忒里亚 (`deity.greek.asteria`) | VERIFIED / TEXT_SAYS / MYTHIC_NARRATIVE | 1 | 0.99 | stored claim; `claim.v090.perses_consort_asteria` |
+| `CONSORT_OF` | 阿斯忒里亚 (`deity.greek.asteria`) | VERIFIED / TEXT_SAYS / MYTHIC_NARRATIVE | 1 | 0.90 | inferred inverse; `claim.v0360.theog_titans.11` |
 | `MENTIONED_IN` | 伪阿波罗多洛斯《书库》 (`text.greek.apollodorus_library`) | VERIFIED / TEXT_SAYS / TEXTUAL_WITNESS | 1 | 0.99 | stored claim; `claim.v090.perses_apollodorus` |
 | `MENTIONED_IN` | 神谱 (`text.greek.theogony`) | VERIFIED / TEXT_SAYS / TEXTUAL_WITNESS | 1 | 0.99 | stored claim; `claim.v090.perses_theogony` |
 | `PARENT_OF` | 赫卡忒 (`deity.greek.hecate`) | VERIFIED / TEXT_SAYS / MYTHIC_NARRATIVE | 1 | 0.99 | stored claim; `claim.v040.perses.parent_hecate` |
 | `PARENT_OF` | 赫卡忒 (`deity.greek.hecate`) | VERIFIED / TEXT_SAYS / MYTHIC_NARRATIVE | 1 | 0.99 | stored claim; `claim.v090.perses_parent_hecate_apollodorus` |
+| `PARENT_OF` | 赫卡忒 (`deity.greek.hecate`) | VERIFIED / TEXT_SAYS / MYTHIC_NARRATIVE | 1 | 0.90 | inferred inverse; `claim.v0360.theog_titans.12` |
 | `SIBLING_OF` | 阿斯特赖俄斯 (`deity.greek.astraeus`) | VERIFIED / TEXT_SAYS / MYTHIC_NARRATIVE | 1 | 0.99 | stored claim; `claim.v090.perses_sibling_astraeus` |
 | `SIBLING_OF` | 帕拉斯（提坦） (`deity.greek.pallas_titan`) | VERIFIED / TEXT_SAYS / MYTHIC_NARRATIVE | 1 | 0.99 | stored claim; `claim.v090.perses_sibling_pallas` |
 

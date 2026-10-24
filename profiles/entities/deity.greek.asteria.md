@@ -20,11 +20,14 @@ Parent of Hecate with Perses in Hesiod’s Theogony.
 
 | Relation | Target | Review / layer | Evidence | Confidence | Direction |
 |---|---|---|---:|---:|---|
+| `CONSORT_OF` | 珀耳塞斯（提坦） (`deity.greek.perses`) | VERIFIED / TEXT_SAYS / MYTHIC_NARRATIVE | 1 | 0.90 | stored claim; `claim.v0360.theog_titans.11` |
 | `CONSORT_OF` | 珀耳塞斯（提坦） (`deity.greek.perses`) | VERIFIED / TEXT_SAYS / MYTHIC_NARRATIVE | 1 | 0.99 | inferred inverse; `claim.v090.perses_consort_asteria` |
 | `PARENT_OF` | 赫卡忒 (`deity.greek.hecate`) | VERIFIED / TEXT_SAYS / MYTHIC_NARRATIVE | 1 | 0.99 | stored claim; `claim.v040.asteria.parent_hecate` |
 
 ## Claims 与证据
 
+- `claim.v0360.theog_titans.11` [VERIFIED / TEXT_SAYS / 0.90] Hesiod, Theogony 404–411, says that Phoebe bore to Coeus gentle Leto and Asteria of happy name, whom Perses led to his great house to be his dear wife.
+  - 来源：[Hesiod, Theogony, Evelyn-White English text](https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0130)；定位：Theogony 404–411
 - `claim.v040.asteria.parent_hecate` [VERIFIED / TEXT_SAYS / 0.99] Theogony 404-409 presents Asteria and Perses as parents of Hecate.
   - 来源：[Hesiod, Theogony, Evelyn-White English text](https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0130)；定位：Theogony 404-409
 

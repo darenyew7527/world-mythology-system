@@ -28,5 +28,7 @@
   - 来源：[Enki and the World Order](https://etcsl.orinst.ox.ac.uk/section1/tr113.htm)；定位：ETCSL 1.1.3, opening hymn
 - `claim.v0310.sumer.an_sky` [VERIFIED / TEXT_SAYS / 0.78] An is the senior god of heaven to whom Enki's standing is referred in Enki and the World Order.
   - 来源：[Enki and the World Order](https://etcsl.orinst.ox.ac.uk/section1/tr113.htm)；定位：ETCSL 1.1.3, opening hymn
+- `claim.v0360.inana_ebih.07` [VERIFIED / TEXT_SAYS / 0.90] In the Sumerian composition Inana and Ebiḫ (ETCSL 1.3.2), An answers Inana by asking what his little one is taking on in demanding the mountain's destruction, warning that Ebiḫ has spread terror over the dwellings of the gods and is rich in fruit, lions and wild bulls, so that she cannot go against it.
+  - 来源：[Inana and Ebiḫ](https://etcsl.orinst.ox.ac.uk/section1/tr132.htm)；定位：ETCSL 1.3.2, An's reply
 
 > 本档案只代表当前阶段性基线，不是对该传统的最终或唯一解释。
