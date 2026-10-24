@@ -2,7 +2,7 @@
 
 数据库：`world_mythology.sqlite`。本页由 `scripts/generate_schema_catalog.py` 从实际数据库反射生成。
 
-- 持久表：62
+- 持久表：64
 - 只读视图：32
 
 ## 对象索引
@@ -10,61 +10,63 @@
 | 对象 | 类型 | 当前行数 |
 |---|---:|---:|
 | `aliases` | table | 14 |
-| `artifact_profiles` | table | 44 |
+| `artifact_profiles` | table | 48 |
 | `civilization_languages` | table | 23 |
 | `civilizations` | table | 99 |
-| `claims` | table | 1065 |
+| `claims` | table | 1259 |
 | `collection_queue` | table | 125 |
 | `comparison_set_members` | table | 16 |
 | `comparison_sets` | table | 2 |
 | `conflicts` | table | 35 |
-| `coverage_metrics` | table | 1171 |
-| `coverage_reports` | table | 35 |
-| `creature_profiles` | table | 32 |
+| `coverage_metrics` | table | 1216 |
+| `coverage_reports` | table | 36 |
+| `creature_profiles` | table | 49 |
 | `cultures` | table | 18 |
-| `dataset_releases` | table | 32 |
-| `deity_profiles` | table | 210 |
-| `entities` | table | 777 |
+| `dataset_releases` | table | 33 |
+| `deity_profiles` | table | 215 |
+| `entities` | table | 825 |
 | `entity_attributes` | table | 0 |
-| `entity_civilizations` | table | 720 |
-| `entity_classifications` | table | 805 |
+| `entity_civilizations` | table | 768 |
+| `entity_classifications` | table | 853 |
 | `entity_redirects` | table | 5 |
 | `entity_types` | table | 55 |
 | `event_participants` | table | 99 |
-| `evidence` | table | 1089 |
-| `explorer_feature_registry` | table | 19 |
+| `evidence` | table | 1283 |
+| `explorer_feature_registry` | table | 20 |
 | `identity_candidates` | table | 21 |
 | `import_errors` | table | 0 |
 | `import_runs` | table | 0 |
 | `languages` | table | 27 |
 | `modern_adaptations` | table | 3 |
 | `museum_object_profiles` | table | 27 |
-| `myth_event_profiles` | table | 55 |
-| `names` | table | 1732 |
-| `place_profiles` | table | 112 |
+| `myth_event_profiles` | table | 56 |
+| `names` | table | 1884 |
+| `place_profiles` | table | 114 |
 | `project_metadata` | table | 10 |
 | `quality_findings` | table | 0 |
 | `quality_runs` | table | 1 |
 | `queue_discoveries` | table | 115 |
 | `queue_status_history` | table | 83 |
-| `reader_feature_registry` | table | 7 |
+| `reader_feature_registry` | table | 8 |
 | `reading_route_steps` | table | 30 |
 | `reading_routes` | table | 7 |
 | `regions` | table | 22 |
 | `relationship_types` | table | 80 |
-| `research_session_items` | table | 589 |
-| `research_sessions` | table | 30 |
-| `schema_migrations` | table | 46 |
-| `sources` | table | 237 |
-| `stories` | table | 63 |
-| `story_claim_links` | table | 585 |
+| `research_session_items` | table | 606 |
+| `research_sessions` | table | 31 |
+| `schema_migrations` | table | 48 |
+| `sources` | table | 238 |
+| `stories` | table | 76 |
+| `story_claim_links` | table | 779 |
 | `story_conflict_links` | table | 5 |
-| `story_entity_links` | table | 461 |
-| `story_event_nodes` | table | 385 |
-| `story_expansion_batches` | table | 4 |
-| `story_expansion_targets` | table | 55 |
-| `story_sections` | table | 385 |
-| `story_versions` | table | 76 |
+| `story_entity_links` | table | 609 |
+| `story_event_nodes` | table | 579 |
+| `story_expansion_batches` | table | 5 |
+| `story_expansion_targets` | table | 68 |
+| `story_sections` | table | 579 |
+| `story_series` | table | 3 |
+| `story_series_parts` | table | 14 |
+| `story_versions` | table | 89 |
 | `story_witness_comparison_members` | table | 40 |
 | `story_witness_comparisons` | table | 20 |
 | `story_witness_profiles` | table | 10 |
@@ -72,22 +74,22 @@
 | `tradition_access_policies` | table | 17 |
 | `tradition_links` | table | 6 |
 | `archaeological_sites` | view | 84 |
-| `artifacts` | view | 44 |
-| `claim_evidence_summary` | view | 1065 |
+| `artifacts` | view | 48 |
+| `claim_evidence_summary` | view | 1259 |
 | `concepts` | view | 58 |
 | `cosmologies` | view | 1 |
-| `creatures` | view | 32 |
-| `deities` | view | 210 |
+| `creatures` | view | 49 |
+| `deities` | view | 215 |
 | `elements` | view | 32 |
-| `events` | view | 53 |
+| `events` | view | 54 |
 | `festivals` | view | 4 |
-| `heroes` | view | 26 |
-| `historical_figures` | view | 5 |
+| `heroes` | view | 41 |
+| `historical_figures` | view | 6 |
 | `inscriptions` | view | 18 |
 | `manuscripts` | view | 9 |
 | `monuments` | view | 8 |
 | `museum_objects` | view | 27 |
-| `mythical_places` | view | 12 |
+| `mythical_places` | view | 14 |
 | `myths` | view | 0 |
 | `oral_traditions` | view | 10 |
 | `papyri` | view | 1 |
@@ -97,12 +99,12 @@
 | `relationship_edges_bidirectional` | view | 1290 |
 | `relationships` | view | 645 |
 | `rituals` | view | 6 |
-| `sacred_objects` | view | 5 |
+| `sacred_objects` | view | 8 |
 | `tablets` | view | 4 |
 | `temples` | view | 17 |
 | `texts` | view | 163 |
 | `tombs` | view | 2 |
-| `weapons` | view | 27 |
+| `weapons` | view | 28 |
 
 ## `aliases` (table)
 
@@ -2090,6 +2092,86 @@ CREATE TABLE story_sections (
     evidence_note TEXT NOT NULL,
     uncertainty_note TEXT,
     UNIQUE(story_version_id, section_order)
+)
+```
+
+## `story_series` (table)
+
+| 序号 | 字段 | SQLite 类型 | NOT NULL | 默认值 | PK 序位 |
+|---:|---|---|---:|---|---:|
+| 0 | `id` | TEXT | 0 |  | 1 |
+| 1 | `title_zh` | TEXT | 1 |  | 0 |
+| 2 | `title_en` | TEXT | 1 |  | 0 |
+| 3 | `work_entity_id` | TEXT | 0 |  | 0 |
+| 4 | `primary_source_id` | TEXT | 1 |  | 0 |
+| 5 | `primary_civilization_id` | TEXT | 0 |  | 0 |
+| 6 | `description_zh` | TEXT | 1 |  | 0 |
+| 7 | `description_en` | TEXT | 1 |  | 0 |
+| 8 | `selection_note` | TEXT | 1 |  | 0 |
+| 9 | `featured_order` | INTEGER | 1 | 0 | 0 |
+| 10 | `created_at` | TEXT | 1 |  | 0 |
+| 11 | `updated_at` | TEXT | 1 |  | 0 |
+
+外键：
+
+| 字段 | 目标 | ON UPDATE | ON DELETE |
+|---|---|---|---|
+| `primary_civilization_id` | `civilizations.id` | NO ACTION | NO ACTION |
+| `primary_source_id` | `sources.id` | NO ACTION | NO ACTION |
+| `work_entity_id` | `entities.id` | NO ACTION | NO ACTION |
+
+定义：
+
+```sql
+CREATE TABLE story_series (
+    id TEXT PRIMARY KEY,
+    title_zh TEXT NOT NULL,
+    title_en TEXT NOT NULL,
+    work_entity_id TEXT REFERENCES entities(id),
+    primary_source_id TEXT NOT NULL REFERENCES sources(id),
+    primary_civilization_id TEXT REFERENCES civilizations(id),
+    description_zh TEXT NOT NULL,
+    description_en TEXT NOT NULL,
+    selection_note TEXT NOT NULL,
+    featured_order INTEGER NOT NULL DEFAULT 0,
+    created_at TEXT NOT NULL,
+    updated_at TEXT NOT NULL
+)
+```
+
+## `story_series_parts` (table)
+
+| 序号 | 字段 | SQLite 类型 | NOT NULL | 默认值 | PK 序位 |
+|---:|---|---|---:|---|---:|
+| 0 | `series_id` | TEXT | 1 |  | 1 |
+| 1 | `part_order` | INTEGER | 1 |  | 2 |
+| 2 | `story_id` | TEXT | 1 |  | 0 |
+| 3 | `part_label_zh` | TEXT | 1 |  | 0 |
+| 4 | `part_label_en` | TEXT | 1 |  | 0 |
+| 5 | `source_span` | TEXT | 1 |  | 0 |
+| 6 | `gap_note` | TEXT | 0 |  | 0 |
+
+外键：
+
+| 字段 | 目标 | ON UPDATE | ON DELETE |
+|---|---|---|---|
+| `story_id` | `stories.id` | NO ACTION | CASCADE |
+| `series_id` | `story_series.id` | NO ACTION | CASCADE |
+
+定义：
+
+```sql
+CREATE TABLE story_series_parts (
+    series_id TEXT NOT NULL REFERENCES story_series(id) ON DELETE CASCADE,
+    part_order INTEGER NOT NULL CHECK(part_order >= 1),
+    story_id TEXT NOT NULL REFERENCES stories(id) ON DELETE CASCADE,
+    part_label_zh TEXT NOT NULL,
+    part_label_en TEXT NOT NULL,
+    source_span TEXT NOT NULL,
+    gap_note TEXT,
+    PRIMARY KEY(series_id, part_order),
+    UNIQUE(series_id, story_id),
+    UNIQUE(story_id)
 )
 ```
 

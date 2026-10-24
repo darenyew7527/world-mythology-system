@@ -794,6 +794,39 @@ CREATE TABLE IF NOT EXISTS reader_feature_registry (
 CREATE INDEX IF NOT EXISTS idx_reader_feature_scope
     ON reader_feature_registry(storage_scope, feature_code);
 
+-- v0.33 story series: multi-part readings of one long work. Each part is a
+-- complete story; the series records its source span and names skipped chapters.
+CREATE TABLE IF NOT EXISTS story_series (
+    id TEXT PRIMARY KEY,
+    title_zh TEXT NOT NULL,
+    title_en TEXT NOT NULL,
+    work_entity_id TEXT REFERENCES entities(id),
+    primary_source_id TEXT NOT NULL REFERENCES sources(id),
+    primary_civilization_id TEXT REFERENCES civilizations(id),
+    description_zh TEXT NOT NULL,
+    description_en TEXT NOT NULL,
+    selection_note TEXT NOT NULL,
+    featured_order INTEGER NOT NULL DEFAULT 0,
+    created_at TEXT NOT NULL,
+    updated_at TEXT NOT NULL
+);
+
+CREATE TABLE IF NOT EXISTS story_series_parts (
+    series_id TEXT NOT NULL REFERENCES story_series(id) ON DELETE CASCADE,
+    part_order INTEGER NOT NULL CHECK(part_order >= 1),
+    story_id TEXT NOT NULL REFERENCES stories(id) ON DELETE CASCADE,
+    part_label_zh TEXT NOT NULL,
+    part_label_en TEXT NOT NULL,
+    source_span TEXT NOT NULL,
+    gap_note TEXT,
+    PRIMARY KEY(series_id, part_order),
+    UNIQUE(series_id, story_id),
+    UNIQUE(story_id)
+);
+
+CREATE INDEX IF NOT EXISTS idx_story_series_parts_story
+    ON story_series_parts(story_id, series_id);
+
 CREATE VIEW IF NOT EXISTS claim_evidence_summary AS
 SELECT c.id AS claim_id,
        c.subject_id,

@@ -5,10 +5,11 @@ import { loadReaderState, saveReaderState } from '../readerStorage.js'
 import { LONG_STORY_SECTIONS, readingMinutes } from '../storyDeck.js'
 import ChapterNav, { chapterAnchor, NextChapter } from './ChapterNav.jsx'
 import StoryReaderTools from './StoryReaderTools.jsx'
+import SeriesShelf, { READER_TOP_ID, SeriesBar, SeriesNext } from './StorySeries.jsx'
 
 const ui = {
   zh: {
-    eyebrow: 'v0.32 · 长篇故事与章节阅读',
+    eyebrow: 'v0.33 · 系列连载与长篇阅读',
     title: '神话故事阅读库',
     intro: '从永久队列逐项扩张可公开、可回溯的故事见证；活态传统先过权限门禁，单项目受阻不影响其他目标继续。',
     search: '搜索故事、人物、神器或主题…',
@@ -62,11 +63,12 @@ const ui = {
     tellHint: '全屏逐段讲述，适合朗读或投屏',
     longOnly: '只看长篇',
     longBadge: (n) => `长篇 · ${n} 章`,
+    seriesBadge: (n, total) => `连载 ${n}/${total}`,
     chapterCount: (n) => `${n} 章`,
     textLength: (n) => `约 ${Math.round(n / 100) / 10} 千字`,
   },
   en: {
-    eyebrow: 'v0.32 · Long-form stories and chapter reading',
+    eyebrow: 'v0.33 · Story series and long-form reading',
     title: 'Myth Story Library',
     intro: 'Expand public, traceable story witnesses from the permanent queue; living traditions pass permission gates first, and one blocked target never stops the rest.',
     search: 'Search stories, people, artifacts, or themes…',
@@ -120,6 +122,7 @@ const ui = {
     tellHint: 'Full screen, one section at a time — for reading aloud or presenting',
     longOnly: 'Long stories only',
     longBadge: (n) => `Long · ${n} chapters`,
+    seriesBadge: (n, total) => `Series ${n}/${total}`,
     chapterCount: (n) => `${n} chapters`,
     textLength: (n) => `about ${Math.round(n / 100) * 100} words`,
   },
@@ -206,6 +209,7 @@ export default function StoryLibrary({
   readingRoutes = [],
   selectedStoryId,
   storyExpansionBatches = [],
+  storySeries = [],
   stories,
 }) {
   const copy = ui[language] || ui.zh
@@ -282,6 +286,7 @@ export default function StoryLibrary({
   }, [selectedVersion])
 
   const bookmarkIds = useMemo(() => new Set(readerState.bookmarks), [readerState.bookmarks])
+  const storiesById = useMemo(() => new Map(stories.map((story) => [story.id, story])), [stories])
   const progressOrder = Math.min(
     Number(readerState.progress[selectedVersion?.id]?.sectionOrder || 0),
     selectedVersion?.sections.length || 0,
@@ -364,6 +369,15 @@ export default function StoryLibrary({
         <span>{filtered.length} / {stories.length}</span>
       </section>
 
+      <SeriesShelf
+        language={language}
+        onSelectStory={onSelectStory}
+        progress={readerState.progress}
+        selectedStoryId={selected?.id}
+        series={storySeries}
+        storiesById={storiesById}
+      />
+
       <div className="story-layout">
         <section className="story-index" aria-label={copy.title}>
           {filtered.length === 0 && <p className="story-empty">{copy.noResult}</p>}
@@ -380,6 +394,9 @@ export default function StoryLibrary({
               {bookmarkIds.has(story.id) && <small className="story-bookmark-label">★ {copy.localBookmark}</small>}
               <p>{storySummary(story, language)}</p>
               <footer>
+                {story.series && (
+                  <small className="story-series-badge">{copy.seriesBadge(story.series.partOrder, story.series.partCount)}</small>
+                )}
                 {longestVersion(story) >= LONG_STORY_SECTIONS && (
                   <small className="story-long-badge">{copy.longBadge(longestVersion(story))}</small>
                 )}
@@ -396,7 +413,7 @@ export default function StoryLibrary({
             className={`story-reader reader-scale-${readerState.settings.fontScale} reader-line-${readerState.settings.lineHeight}${readerState.settings.highContrast ? ' is-high-contrast' : ''}`}
             key={selected.id}
           >
-            <header className="story-reader-heading">
+            <header className="story-reader-heading" id={READER_TOP_ID} tabIndex={-1}>
               <div>
                 <span>{language === 'zh' ? selected.civilizationNameZh || selected.civilizationName : selected.civilizationName}</span>
                 <h2>{storyTitle(selected, language)}</h2>
@@ -415,6 +432,8 @@ export default function StoryLibrary({
                 </button>
               )}
             </header>
+
+            <SeriesBar language={language} onSelectStory={onSelectStory} story={selected} storiesById={storiesById} />
 
             <StoryReaderTools
               isBookmarked={bookmarkIds.has(selected.id)}
@@ -601,6 +620,8 @@ export default function StoryLibrary({
                 </section>
               ))}
             </div>
+
+            <SeriesNext language={language} onSelectStory={onSelectStory} story={selected} storiesById={storiesById} />
 
             <section className="story-event-map">
               <header>

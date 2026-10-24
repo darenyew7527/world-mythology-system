@@ -588,3 +588,20 @@ session.20261011.v0320_long_stories,STORY_VERSION,storyver.norse.baldr_gylf_long
 session.20261011.v0320_long_stories,STORY_VERSION,storyver.babylonian.enuma_elish_long,CREATE,"Enūma eliš, Tablets I–VII (long retelling)"
 session.20261011.v0320_long_stories,STORY_VERSION,storyver.sumerian.inanna_etcsl_long,CREATE,"ETCSL 1.4.1, complete (long retelling)"
 session.20261011.v0320_long_stories,RELEASE,release.v0.32.0,SEAL,Formal staged checkpoint: 12 completed long-story targets; no target blocked.
+session.20261024.v0330_series,STORY,story.chinese.xiyouji_origins,CREATE,Journey to the West: how the pilgrimage began
+session.20261024.v0330_series,STORY,story.chinese.xiyouji_pilgrims_gather,CREATE,Journey to the West: the pilgrims come together
+session.20261024.v0330_series,STORY,story.chinese.xiyouji_white_bone,CREATE,Journey to the West: three blows against the White Bone Demon
+session.20261024.v0330_series,STORY,story.chinese.xiyouji_two_monkey_kings,CREATE,Journey to the West: the real and the false Monkey King
+session.20261024.v0330_series,STORY,story.chinese.xiyouji_flaming_mountains,CREATE,Journey to the West: three tries for the plantain fan
+session.20261024.v0330_series,STORY,story.hindu.ramayana_bala,CREATE,"The Rāmāyaṇa, Part 1: the Book of Childhood"
+session.20261024.v0330_series,STORY,story.hindu.ramayana_ayodhya,CREATE,"The Rāmāyaṇa, Part 2: the Book of Ayodhyā"
+session.20261024.v0330_series,STORY,story.hindu.ramayana_aranya,CREATE,"The Rāmāyaṇa, Part 3: the Book of the Forest"
+session.20261024.v0330_series,STORY,story.hindu.ramayana_kishkindha,CREATE,"The Rāmāyaṇa, Part 4: the Book of Kiṣkindhā"
+session.20261024.v0330_series,STORY,story.hindu.ramayana_sundara,CREATE,"The Rāmāyaṇa, Part 5: the Beautiful Book"
+session.20261024.v0330_series,STORY,story.hindu.ramayana_yuddha,CREATE,"The Rāmāyaṇa, Part 6: the Book of War"
+session.20261024.v0330_series,STORY,story.greek.odyssey_wanderings,CREATE,"The Odyssey, Part 1: the wanderings"
+session.20261024.v0330_series,STORY,story.greek.odyssey_homecoming,CREATE,"The Odyssey, Part 2: the homecoming"
+session.20261024.v0330_series,STORY_SERIES,series.chinese.xiyouji,CREATE,Journey to the West (series)
+session.20261024.v0330_series,STORY_SERIES,series.hindu.ramayana_books,CREATE,The Rāmāyaṇa in six books (series)
+session.20261024.v0330_series,STORY_SERIES,series.greek.odyssey,CREATE,The Odyssey (series)
+session.20261024.v0330_series,RELEASE,release.v0.33.0,SEAL,Formal staged checkpoint: 13 completed series-part targets in 3 series; no target blocked.

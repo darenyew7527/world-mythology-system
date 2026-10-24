@@ -784,6 +784,74 @@ def build_snapshot(database_path: Path) -> dict[str, Any]:
             }
         )
 
+    # v0.33 series: each part is a whole story; the series adds order, source span and named gaps only.
+    story_by_id = {story["id"]: story for story in stories}
+    story_series: list[dict[str, Any]] = []
+    for series in _rows(
+        connection,
+        """SELECT id,title_zh,title_en,work_entity_id,primary_source_id,primary_civilization_id,
+                  description_zh,description_en,selection_note,featured_order
+           FROM story_series ORDER BY featured_order,id""",
+    ):
+        parts = []
+        for part in _rows(
+            connection,
+            """SELECT part_order,story_id,part_label_zh,part_label_en,source_span,gap_note
+               FROM story_series_parts WHERE series_id=? ORDER BY part_order""",
+            (series["id"],),
+        ):
+            story = story_by_id[part["story_id"]]
+            first_version = story["versions"][0] if story["versions"] else {"sections": []}
+            parts.append(
+                {
+                    "order": part["part_order"],
+                    "storyId": part["story_id"],
+                    "labelZh": part["part_label_zh"],
+                    "labelEn": part["part_label_en"],
+                    "sourceSpan": part["source_span"],
+                    "gapNote": _clean(part["gap_note"]),
+                    "titleZh": story["titleZh"],
+                    "titleEn": story["canonicalTitle"],
+                    "chapters": len(first_version["sections"]),
+                    "readingMinutes": story["readingMinutes"],
+                }
+            )
+        story_series.append(
+            {
+                "id": series["id"],
+                "titleZh": series["title_zh"],
+                "titleEn": series["title_en"],
+                "workEntityId": _clean(series["work_entity_id"]),
+                "sourceId": series["primary_source_id"],
+                "civilizationId": _clean(series["primary_civilization_id"]),
+                "descriptionZh": series["description_zh"],
+                "descriptionEn": series["description_en"],
+                "selectionNote": series["selection_note"],
+                "featuredOrder": series["featured_order"],
+                "totalChapters": sum(part["chapters"] for part in parts),
+                "totalMinutes": sum(part["readingMinutes"] or 0 for part in parts),
+                "parts": parts,
+            }
+        )
+    for story in stories:
+        story["series"] = None
+    for series in story_series:
+        parts = series["parts"]
+        for index, part in enumerate(parts):
+            story_by_id[part["storyId"]]["series"] = {
+                "id": series["id"],
+                "titleZh": series["titleZh"],
+                "titleEn": series["titleEn"],
+                "partOrder": part["order"],
+                "partCount": len(parts),
+                "labelZh": part["labelZh"],
+                "labelEn": part["labelEn"],
+                "sourceSpan": part["sourceSpan"],
+                "gapNote": part["gapNote"],
+                "previousStoryId": parts[index - 1]["storyId"] if index > 0 else None,
+                "nextStoryId": parts[index + 1]["storyId"] if index + 1 < len(parts) else None,
+            }
+
     civilization_counts = Counter(entity["civilizationId"] for entity in entities if entity["civilizationId"])
     civilizations = []
     for row in _rows(
@@ -1198,6 +1266,8 @@ def build_snapshot(database_path: Path) -> dict[str, Any]:
                     for comparison in story["witnessComparisons"]
                 ),
                 "readingRoutes": len(reading_routes),
+                "storySeries": len(story_series),
+                "storySeriesParts": sum(len(series["parts"]) for series in story_series),
                 "storyExpansionBatches": len(story_expansion_batches),
                 "storyExpansionTargets": sum(
                     len(batch["targets"]) for batch in story_expansion_batches
@@ -1218,6 +1288,7 @@ def build_snapshot(database_path: Path) -> dict[str, Any]:
         "conflicts": public_conflicts,
         "stories": stories,
         "readingRoutes": reading_routes,
+        "storySeries": story_series,
         "storyExpansionBatches": story_expansion_batches,
         "deityStoryCards": deity_story_cards,
         "queue": queue,

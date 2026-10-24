@@ -304,6 +304,7 @@ export default function App() {
           readingRoutes={data.readingRoutes || []}
           selectedStoryId={selectedStoryId}
           storyExpansionBatches={data.storyExpansionBatches || []}
+          storySeries={data.storySeries || []}
           stories={data.stories || []}
         />
       )}

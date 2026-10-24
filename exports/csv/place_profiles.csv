@@ -3,7 +3,9 @@ monument.khmer.angkor_wat_churning_relief,ARCHITECTURAL_RELIEF,ចម្លា�
 monument.maya.el_castillo_chichen,PYRAMID_TEMPLE,,"El Castillo, Chichen-Itza",MX,,,,,,,,Part of World Heritage property 483,REAL_ARCHAEOLOGICAL,OFFICIAL_UNESCO
 museum.ugarit.baal_thunder_ao15775,MONUMENT,,,,,,,,,,,,REAL_ARCHAEOLOGICAL,UNASSESSED
 place.chinese.buzhou_mountain,MYTHICAL_MOUNTAIN,不周之山,,,,,,,,,,,MYTHICAL,TEXTUAL
+place.chinese.flaming_mountains_xiyouji,MYTHIC_MOUNTAIN,火焰山,,,,,,,,,,,LATER_LEGEND,TEXTUAL
 place.chinese.huaguo_shan,NOVEL_MOUNTAIN,花果山水簾洞,,,,,,,,,,,MYTHICAL,TEXTUAL
+place.greek.ithaca_homeric,HOMERIC_ISLAND,Ithaca,Ithaki (identification debated),GR,,,,,,,,,MIXED,TEXTUAL
 place.hindu.lanka,MYTHIC_CITY,Laṅkā,,,,,,,,,,,MYTHICAL,TEXTUAL
 place.hindu.mandara,MYTHICAL_MOUNTAIN,मन्दर,,,,,,,,,,,MYTHICAL,TEXTUAL
 place.japanese.onogoro,MYTHICAL_ISLAND,淤能碁呂島,,,,,,,,,,,MYTHICAL,TEXTUAL

@@ -16,6 +16,7 @@
 | event.greek.zeus_typhon_battle | 宙斯与提丰之战 | Battle of Zeus and Typhon | EVENT | 古希腊 | PARTIAL | PARTIAL |
 | event.greek.theogony_succession | 从卡俄斯到宙斯为王（《神谱》） | From Chaos to the reign of Zeus (Theogony) | EVENT | 古希腊 | PARTIAL | SOURCE_BACKED |
 | event.greek.medea_restores_aeetes | 美狄亚恢复埃厄忒斯王位 | Medea restores Aeetes | EVENT | 古希腊 | PARTIAL | PARTIAL |
+| event.greek.return_of_odysseus | 奥德修斯归家（《奥德赛》） | The return of Odysseus (Odyssey) | EVENT | 古希腊 | PARTIAL | SOURCE_BACKED |
 | event.greek.titanomachy | 泰坦战争 | Titanomachy | EVENT | 古希腊 | PARTIAL | SOURCE_BACKED |
 | event.babylonian.marduk_tiamat | 马尔杜克与提亚马特之战 | Combat of Marduk and Tiamat | EVENT | 巴比伦 | PARTIAL | UNVERIFIED |
 | event.babylonian.gilgamesh_epic | 标准巴比伦版吉尔伽美什史诗 | The Standard Babylonian Epic of Gilgamesh | EVENT | 巴比伦 | PARTIAL | SOURCE_BACKED |

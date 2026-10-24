@@ -46,7 +46,9 @@
 | deity.greek.asteria | 阿斯忒里亚 | Asteria | DEITY | 古希腊 | PARTIAL | PARTIAL |
 | deity.greek.astraeus | 阿斯特赖俄斯 | Astraeus | DEITY | 古希腊 | PARTIAL | PARTIAL |
 | deity.greek.athena | 雅典娜 | Athena | DEITY | 古希腊 | PARTIAL | SOURCE_BACKED |
+| deity.greek.calypso | 卡吕普索 | Calypso | DEITY | 古希腊 | PARTIAL | SOURCE_BACKED |
 | deity.greek.chaos | 卡俄斯 | Chaos | PRIMORDIAL_DEITY | 古希腊 | PARTIAL | SOURCE_BACKED |
+| deity.greek.circe | 喀耳刻 | Circe | DEITY | 古希腊 | PARTIAL | SOURCE_BACKED |
 | deity.greek.crius | 克利俄斯 | Crius | DEITY | 古希腊 | PARTIAL | SOURCE_BACKED |
 | deity.greek.cronus | 克洛诺斯 | Cronus | DEITY | 古希腊 | PARTIAL | SOURCE_BACKED |
 | deity.greek.demeter | 得墨忒耳 | Demeter | DEITY | 古希腊 | PARTIAL | SOURCE_BACKED |
@@ -92,14 +94,17 @@
 | deity.chinese.taishang_laojun | 太上老君 | Taishang Laojun | DEITY | 中国道教 | PARTIAL | SOURCE_BACKED |
 | deity.chinese.ao_guang | 东海龙王敖广 | Ao Guang, Dragon King of the Eastern Sea | DEITY | 中国民间信仰 | PARTIAL | SOURCE_BACKED |
 | deity.chinese.erlang_shen | 二郎神 | Erlang Shen | DEITY | 中国民间信仰 | PARTIAL | SOURCE_BACKED |
+| deity.chinese.guanyin_xiyouji | 观音菩萨（《西游记》） | Guanyin (Journey to the West) | DEITY | 中国民间信仰 | PARTIAL | SOURCE_BACKED |
 | deity.chinese.jade_emperor | 玉皇大帝 | Jade Emperor | DEITY | 中国民间信仰 | PARTIAL | SOURCE_BACKED |
 | deity.chinese.leigong | 雷公 | Leigong | DEITY | 中国民间信仰 | CONFLICT | CONFLICTING |
 | deity.chinese.li_jing | 托塔天王李靖 | Li Jing, the Pagoda-Bearing Heavenly King | DEITY | 中国民间信仰 | PARTIAL | SOURCE_BACKED |
 | deity.chinese.nezha | 哪吒 | Nezha | DEITY | 中国民间信仰 | PARTIAL | UNVERIFIED |
 | deity.chinese.rulai_xiyouji | 如来佛祖（《西游记》） | Tathāgata Buddha (Journey to the West) | DEITY | 中国民间信仰 | PARTIAL | SOURCE_BACKED |
 | deity.hawaiian.pele | 佩蕾 | Pele | DEITY | 夏威夷 | PARTIAL | UNVERIFIED |
+| deity.hindu.agni | 阿耆尼（火神） | Agni | DEITY | 印度教传统 | PARTIAL | SOURCE_BACKED |
 | deity.hindu.brahma | 梵天 | Brahma | DEITY | 印度教传统 | PARTIAL | UNVERIFIED |
 | deity.hindu.dhanvantari | 檀文陀利 | Dhanvantari | DEITY | 印度教传统 | PARTIAL | SOURCE_BACKED |
+| deity.hindu.ganga | 恒河女神 | Gaṅgā | DEITY | 印度教传统 | PARTIAL | SOURCE_BACKED |
 | deity.hindu.hanuman | 哈奴曼 | Hanumān | DEITY | 印度教传统 | PARTIAL | SOURCE_BACKED |
 | deity.hindu.kurma | 俱利摩（龟形化身） | Kūrma | DEITY | 印度教传统 | PARTIAL | SOURCE_BACKED |
 | deity.hindu.mohini | 摩希尼 | Mohinī | DEITY | 印度教传统 | PARTIAL | SOURCE_BACKED |

@@ -80,6 +80,16 @@
 {"entity_id":"being.chinese.pangu","notes":"Primordial being","role":"CHARACTER","sort_order":10,"story_id":"story.chinese.pangu_sanwu_liji","story_version_id":"storyver.chinese.pangu_yiwen_leiju"}
 {"entity_id":"text.chinese.sanwu_liji","notes":"Lost source","role":"TEXT","sort_order":20,"story_id":"story.chinese.pangu_sanwu_liji","story_version_id":"storyver.chinese.pangu_yiwen_leiju"}
 {"entity_id":"event.chinese.pangu_heaven_earth","notes":"Separation","role":"EVENT","sort_order":30,"story_id":"story.chinese.pangu_sanwu_liji","story_version_id":"storyver.chinese.pangu_yiwen_leiju"}
+{"entity_id":"hero.chinese.sun_wukong","notes":"Borrows the fan","role":"CHARACTER","sort_order":10,"story_id":"story.chinese.xiyouji_flaming_mountains","story_version_id":"storyver.chinese.xiyouji_ch59_61"}
+{"entity_id":"demon.chinese.tieshan_gongzhu","notes":"Keeper of the fan","role":"CHARACTER","sort_order":20,"story_id":"story.chinese.xiyouji_flaming_mountains","story_version_id":"storyver.chinese.xiyouji_ch59_61"}
+{"entity_id":"demon.chinese.niumowang","notes":"Bull Demon King","role":"CHARACTER","sort_order":30,"story_id":"story.chinese.xiyouji_flaming_mountains","story_version_id":"storyver.chinese.xiyouji_ch59_61"}
+{"entity_id":"hero.chinese.zhu_bajie","notes":"Ally in the fight","role":"CHARACTER","sort_order":40,"story_id":"story.chinese.xiyouji_flaming_mountains","story_version_id":"storyver.chinese.xiyouji_ch59_61"}
+{"entity_id":"hero.chinese.tang_sanzang","notes":"Master","role":"CHARACTER","sort_order":50,"story_id":"story.chinese.xiyouji_flaming_mountains","story_version_id":"storyver.chinese.xiyouji_ch59_61"}
+{"entity_id":"deity.chinese.nezha","notes":"Captures the bull","role":"CHARACTER","sort_order":60,"story_id":"story.chinese.xiyouji_flaming_mountains","story_version_id":"storyver.chinese.xiyouji_ch59_61"}
+{"entity_id":"deity.chinese.li_jing","notes":"Heavenly King","role":"CHARACTER","sort_order":70,"story_id":"story.chinese.xiyouji_flaming_mountains","story_version_id":"storyver.chinese.xiyouji_ch59_61"}
+{"entity_id":"artifact.chinese.bajiao_shan","notes":"Plantain fan","role":"ARTIFACT","sort_order":80,"story_id":"story.chinese.xiyouji_flaming_mountains","story_version_id":"storyver.chinese.xiyouji_ch59_61"}
+{"entity_id":"place.chinese.flaming_mountains_xiyouji","notes":"Flaming Mountains","role":"PLACE","sort_order":90,"story_id":"story.chinese.xiyouji_flaming_mountains","story_version_id":"storyver.chinese.xiyouji_ch59_61"}
+{"entity_id":"text.chinese.xiyouji","notes":"Novel","role":"TEXT","sort_order":100,"story_id":"story.chinese.xiyouji_flaming_mountains","story_version_id":"storyver.chinese.xiyouji_ch59_61"}
 {"entity_id":"hero.chinese.sun_wukong","notes":"Stone monkey, Great Sage","role":"CHARACTER","sort_order":10,"story_id":"story.chinese.xiyouji_havoc_in_heaven","story_version_id":"storyver.chinese.xiyouji_ch1_7"}
 {"entity_id":"hero.chinese.subodhi_patriarch","notes":"Teacher","role":"CHARACTER","sort_order":20,"story_id":"story.chinese.xiyouji_havoc_in_heaven","story_version_id":"storyver.chinese.xiyouji_ch1_7"}
 {"entity_id":"deity.chinese.ao_guang","notes":"Dragon King","role":"CHARACTER","sort_order":30,"story_id":"story.chinese.xiyouji_havoc_in_heaven","story_version_id":"storyver.chinese.xiyouji_ch1_7"}
@@ -92,6 +102,47 @@
 {"entity_id":"place.chinese.huaguo_shan","notes":"Home mountain","role":"PLACE","sort_order":100,"story_id":"story.chinese.xiyouji_havoc_in_heaven","story_version_id":"storyver.chinese.xiyouji_ch1_7"}
 {"entity_id":"event.chinese.havoc_in_heaven","notes":"Arc","role":"EVENT","sort_order":110,"story_id":"story.chinese.xiyouji_havoc_in_heaven","story_version_id":"storyver.chinese.xiyouji_ch1_7"}
 {"entity_id":"text.chinese.xiyouji","notes":"Novel","role":"TEXT","sort_order":120,"story_id":"story.chinese.xiyouji_havoc_in_heaven","story_version_id":"storyver.chinese.xiyouji_ch1_7"}
+{"entity_id":"deity.chinese.rulai_xiyouji","notes":"Sends the scriptures","role":"CHARACTER","sort_order":10,"story_id":"story.chinese.xiyouji_origins","story_version_id":"storyver.chinese.xiyouji_ch8_12"}
+{"entity_id":"deity.chinese.guanyin_xiyouji","notes":"Seeks the pilgrim","role":"CHARACTER","sort_order":20,"story_id":"story.chinese.xiyouji_origins","story_version_id":"storyver.chinese.xiyouji_ch8_12"}
+{"entity_id":"hero.chinese.tang_sanzang","notes":"Pilgrim","role":"CHARACTER","sort_order":30,"story_id":"story.chinese.xiyouji_origins","story_version_id":"storyver.chinese.xiyouji_ch8_12"}
+{"entity_id":"hero.chinese.sha_wujing","notes":"Future disciple","role":"CHARACTER","sort_order":40,"story_id":"story.chinese.xiyouji_origins","story_version_id":"storyver.chinese.xiyouji_ch8_12"}
+{"entity_id":"hero.chinese.zhu_bajie","notes":"Future disciple","role":"CHARACTER","sort_order":50,"story_id":"story.chinese.xiyouji_origins","story_version_id":"storyver.chinese.xiyouji_ch8_12"}
+{"entity_id":"dragon.chinese.white_dragon_horse","notes":"Future steed","role":"CHARACTER","sort_order":60,"story_id":"story.chinese.xiyouji_origins","story_version_id":"storyver.chinese.xiyouji_ch8_12"}
+{"entity_id":"hero.chinese.sun_wukong","notes":"Under the mountain","role":"CHARACTER","sort_order":70,"story_id":"story.chinese.xiyouji_origins","story_version_id":"storyver.chinese.xiyouji_ch8_12"}
+{"entity_id":"dragon.chinese.jinghe_dragon_king","notes":"Beheaded dragon","role":"CHARACTER","sort_order":80,"story_id":"story.chinese.xiyouji_origins","story_version_id":"storyver.chinese.xiyouji_ch8_12"}
+{"entity_id":"historical.chinese.tang_taizong","notes":"Emperor in the novel","role":"CHARACTER","sort_order":90,"story_id":"story.chinese.xiyouji_origins","story_version_id":"storyver.chinese.xiyouji_ch8_12"}
+{"entity_id":"text.chinese.xiyouji","notes":"Novel","role":"TEXT","sort_order":100,"story_id":"story.chinese.xiyouji_origins","story_version_id":"storyver.chinese.xiyouji_ch8_12"}
+{"entity_id":"hero.chinese.tang_sanzang","notes":"Master","role":"CHARACTER","sort_order":10,"story_id":"story.chinese.xiyouji_pilgrims_gather","story_version_id":"storyver.chinese.xiyouji_ch13_22"}
+{"entity_id":"hero.chinese.sun_wukong","notes":"First disciple","role":"CHARACTER","sort_order":20,"story_id":"story.chinese.xiyouji_pilgrims_gather","story_version_id":"storyver.chinese.xiyouji_ch13_22"}
+{"entity_id":"hero.chinese.zhu_bajie","notes":"Second disciple","role":"CHARACTER","sort_order":30,"story_id":"story.chinese.xiyouji_pilgrims_gather","story_version_id":"storyver.chinese.xiyouji_ch13_22"}
+{"entity_id":"hero.chinese.sha_wujing","notes":"Third disciple","role":"CHARACTER","sort_order":40,"story_id":"story.chinese.xiyouji_pilgrims_gather","story_version_id":"storyver.chinese.xiyouji_ch13_22"}
+{"entity_id":"dragon.chinese.white_dragon_horse","notes":"Steed","role":"CHARACTER","sort_order":50,"story_id":"story.chinese.xiyouji_pilgrims_gather","story_version_id":"storyver.chinese.xiyouji_ch13_22"}
+{"entity_id":"deity.chinese.guanyin_xiyouji","notes":"Protector","role":"CHARACTER","sort_order":60,"story_id":"story.chinese.xiyouji_pilgrims_gather","story_version_id":"storyver.chinese.xiyouji_ch13_22"}
+{"entity_id":"demon.chinese.black_bear_spirit","notes":"Thief of the cassock","role":"CHARACTER","sort_order":70,"story_id":"story.chinese.xiyouji_pilgrims_gather","story_version_id":"storyver.chinese.xiyouji_ch13_22"}
+{"entity_id":"artifact.chinese.golden_fillet","notes":"Fillet","role":"ARTIFACT","sort_order":80,"story_id":"story.chinese.xiyouji_pilgrims_gather","story_version_id":"storyver.chinese.xiyouji_ch13_22"}
+{"entity_id":"artifact.chinese.brocade_cassock","notes":"Cassock","role":"ARTIFACT","sort_order":90,"story_id":"story.chinese.xiyouji_pilgrims_gather","story_version_id":"storyver.chinese.xiyouji_ch13_22"}
+{"entity_id":"text.chinese.xiyouji","notes":"Novel","role":"TEXT","sort_order":100,"story_id":"story.chinese.xiyouji_pilgrims_gather","story_version_id":"storyver.chinese.xiyouji_ch13_22"}
+{"entity_id":"hero.chinese.sun_wukong","notes":"The real Monkey King","role":"CHARACTER","sort_order":10,"story_id":"story.chinese.xiyouji_two_monkey_kings","story_version_id":"storyver.chinese.xiyouji_ch56_58"}
+{"entity_id":"demon.chinese.six_eared_macaque","notes":"The false Monkey King","role":"CHARACTER","sort_order":20,"story_id":"story.chinese.xiyouji_two_monkey_kings","story_version_id":"storyver.chinese.xiyouji_ch56_58"}
+{"entity_id":"hero.chinese.tang_sanzang","notes":"Master","role":"CHARACTER","sort_order":30,"story_id":"story.chinese.xiyouji_two_monkey_kings","story_version_id":"storyver.chinese.xiyouji_ch56_58"}
+{"entity_id":"hero.chinese.sha_wujing","notes":"Messenger","role":"CHARACTER","sort_order":40,"story_id":"story.chinese.xiyouji_two_monkey_kings","story_version_id":"storyver.chinese.xiyouji_ch56_58"}
+{"entity_id":"hero.chinese.zhu_bajie","notes":"Disciple","role":"CHARACTER","sort_order":50,"story_id":"story.chinese.xiyouji_two_monkey_kings","story_version_id":"storyver.chinese.xiyouji_ch56_58"}
+{"entity_id":"deity.chinese.guanyin_xiyouji","notes":"Cannot tell them apart","role":"CHARACTER","sort_order":60,"story_id":"story.chinese.xiyouji_two_monkey_kings","story_version_id":"storyver.chinese.xiyouji_ch56_58"}
+{"entity_id":"deity.chinese.jade_emperor","notes":"Demon-revealing mirror","role":"CHARACTER","sort_order":70,"story_id":"story.chinese.xiyouji_two_monkey_kings","story_version_id":"storyver.chinese.xiyouji_ch56_58"}
+{"entity_id":"deity.chinese.rulai_xiyouji","notes":"Names the macaque","role":"CHARACTER","sort_order":80,"story_id":"story.chinese.xiyouji_two_monkey_kings","story_version_id":"storyver.chinese.xiyouji_ch56_58"}
+{"entity_id":"artifact.chinese.golden_fillet","notes":"Fillet","role":"ARTIFACT","sort_order":90,"story_id":"story.chinese.xiyouji_two_monkey_kings","story_version_id":"storyver.chinese.xiyouji_ch56_58"}
+{"entity_id":"place.chinese.huaguo_shan","notes":"Usurped home","role":"PLACE","sort_order":100,"story_id":"story.chinese.xiyouji_two_monkey_kings","story_version_id":"storyver.chinese.xiyouji_ch56_58"}
+{"entity_id":"text.chinese.xiyouji","notes":"Novel","role":"TEXT","sort_order":110,"story_id":"story.chinese.xiyouji_two_monkey_kings","story_version_id":"storyver.chinese.xiyouji_ch56_58"}
+{"entity_id":"hero.chinese.sun_wukong","notes":"Banished disciple","role":"CHARACTER","sort_order":10,"story_id":"story.chinese.xiyouji_white_bone","story_version_id":"storyver.chinese.xiyouji_ch27_31"}
+{"entity_id":"hero.chinese.tang_sanzang","notes":"Master","role":"CHARACTER","sort_order":20,"story_id":"story.chinese.xiyouji_white_bone","story_version_id":"storyver.chinese.xiyouji_ch27_31"}
+{"entity_id":"hero.chinese.zhu_bajie","notes":"Instigator, then messenger","role":"CHARACTER","sort_order":30,"story_id":"story.chinese.xiyouji_white_bone","story_version_id":"storyver.chinese.xiyouji_ch27_31"}
+{"entity_id":"hero.chinese.sha_wujing","notes":"Disciple","role":"CHARACTER","sort_order":40,"story_id":"story.chinese.xiyouji_white_bone","story_version_id":"storyver.chinese.xiyouji_ch27_31"}
+{"entity_id":"dragon.chinese.white_dragon_horse","notes":"Disguised palace maid","role":"CHARACTER","sort_order":50,"story_id":"story.chinese.xiyouji_white_bone","story_version_id":"storyver.chinese.xiyouji_ch27_31"}
+{"entity_id":"demon.chinese.baigujing","notes":"Corpse demon","role":"CHARACTER","sort_order":60,"story_id":"story.chinese.xiyouji_white_bone","story_version_id":"storyver.chinese.xiyouji_ch27_31"}
+{"entity_id":"demon.chinese.huangpao","notes":"Yellow Robe Demon","role":"CHARACTER","sort_order":70,"story_id":"story.chinese.xiyouji_white_bone","story_version_id":"storyver.chinese.xiyouji_ch27_31"}
+{"entity_id":"artifact.chinese.golden_fillet","notes":"Fillet","role":"ARTIFACT","sort_order":80,"story_id":"story.chinese.xiyouji_white_bone","story_version_id":"storyver.chinese.xiyouji_ch27_31"}
+{"entity_id":"place.chinese.huaguo_shan","notes":"Wukong's home","role":"PLACE","sort_order":90,"story_id":"story.chinese.xiyouji_white_bone","story_version_id":"storyver.chinese.xiyouji_ch27_31"}
+{"entity_id":"text.chinese.xiyouji","notes":"Novel","role":"TEXT","sort_order":100,"story_id":"story.chinese.xiyouji_white_bone","story_version_id":"storyver.chinese.xiyouji_ch27_31"}
 {"entity_id":"deity.egyptian.ra","notes":"Sun-god","role":"CHARACTER","sort_order":10,"story_id":"story.egyptian.heavenly_cow","story_version_id":"storyver.egyptian.heavenly_cow_ucl"}
 {"entity_id":"deity.egyptian.sekhmet","notes":"Eye of Ra","role":"CHARACTER","sort_order":20,"story_id":"story.egyptian.heavenly_cow","story_version_id":"storyver.egyptian.heavenly_cow_ucl"}
 {"entity_id":"deity.egyptian.hathor","notes":"Gentle form","role":"CHARACTER","sort_order":30,"story_id":"story.egyptian.heavenly_cow","story_version_id":"storyver.egyptian.heavenly_cow_ucl"}
@@ -173,6 +224,38 @@
 {"entity_id":"hero.greek.medea","notes":"Derived from an explicitly linked story claim subject.","role":"CHARACTER","sort_order":10,"story_id":"story.greek.medea_restoration","story_version_id":"storyver.greek.medea_library"}
 {"entity_id":"hero.greek.aeetes","notes":"Derived from an explicitly linked story claim subject.","role":"CHARACTER","sort_order":10,"story_id":"story.greek.medea_restoration","story_version_id":"storyver.greek.medea_library"}
 {"entity_id":"event.greek.medea_restores_aeetes","notes":"Derived from an explicitly linked story claim object.","role":"EVENT","sort_order":20,"story_id":"story.greek.medea_restoration","story_version_id":"storyver.greek.medea_library"}
+{"entity_id":"hero.greek.odysseus","notes":"Hero","role":"CHARACTER","sort_order":10,"story_id":"story.greek.odyssey_homecoming","story_version_id":"storyver.greek.odyssey_butler_13_24"}
+{"entity_id":"deity.greek.athena","notes":"Protector","role":"CHARACTER","sort_order":20,"story_id":"story.greek.odyssey_homecoming","story_version_id":"storyver.greek.odyssey_butler_13_24"}
+{"entity_id":"hero.greek.penelope","notes":"Wife","role":"CHARACTER","sort_order":30,"story_id":"story.greek.odyssey_homecoming","story_version_id":"storyver.greek.odyssey_butler_13_24"}
+{"entity_id":"hero.greek.telemachus","notes":"Son","role":"CHARACTER","sort_order":40,"story_id":"story.greek.odyssey_homecoming","story_version_id":"storyver.greek.odyssey_butler_13_24"}
+{"entity_id":"place.greek.ithaca_homeric","notes":"Home","role":"PLACE","sort_order":50,"story_id":"story.greek.odyssey_homecoming","story_version_id":"storyver.greek.odyssey_butler_13_24"}
+{"entity_id":"event.greek.return_of_odysseus","notes":"Return","role":"EVENT","sort_order":60,"story_id":"story.greek.odyssey_homecoming","story_version_id":"storyver.greek.odyssey_butler_13_24"}
+{"entity_id":"text.greek.odyssey","notes":"Epic","role":"TEXT","sort_order":70,"story_id":"story.greek.odyssey_homecoming","story_version_id":"storyver.greek.odyssey_butler_13_24"}
+{"entity_id":"hero.greek.laertes","notes":"Father","role":"CHARACTER","sort_order":80,"story_id":"story.greek.odyssey_homecoming","story_version_id":"storyver.greek.odyssey_butler_13_24"}
+{"entity_id":"person.greek.eumaeus","notes":"Swineherd","role":"CHARACTER","sort_order":90,"story_id":"story.greek.odyssey_homecoming","story_version_id":"storyver.greek.odyssey_butler_13_24"}
+{"entity_id":"person.greek.eurycleia","notes":"Nurse","role":"CHARACTER","sort_order":100,"story_id":"story.greek.odyssey_homecoming","story_version_id":"storyver.greek.odyssey_butler_13_24"}
+{"entity_id":"person.greek.antinous","notes":"Suitor","role":"CHARACTER","sort_order":110,"story_id":"story.greek.odyssey_homecoming","story_version_id":"storyver.greek.odyssey_butler_13_24"}
+{"entity_id":"weapon.greek.bow_of_odysseus","notes":"Bow","role":"ARTIFACT","sort_order":120,"story_id":"story.greek.odyssey_homecoming","story_version_id":"storyver.greek.odyssey_butler_13_24"}
+{"entity_id":"deity.greek.zeus","notes":"Father of gods","role":"CHARACTER","sort_order":130,"story_id":"story.greek.odyssey_homecoming","story_version_id":"storyver.greek.odyssey_butler_13_24"}
+{"entity_id":"deity.greek.poseidon","notes":"Enemy","role":"CHARACTER","sort_order":140,"story_id":"story.greek.odyssey_homecoming","story_version_id":"storyver.greek.odyssey_butler_13_24"}
+{"entity_id":"deity.greek.hermes","notes":"Guide of souls","role":"CHARACTER","sort_order":150,"story_id":"story.greek.odyssey_homecoming","story_version_id":"storyver.greek.odyssey_butler_13_24"}
+{"entity_id":"hero.greek.odysseus","notes":"Hero","role":"CHARACTER","sort_order":10,"story_id":"story.greek.odyssey_wanderings","story_version_id":"storyver.greek.odyssey_butler_1_12"}
+{"entity_id":"deity.greek.athena","notes":"Protector","role":"CHARACTER","sort_order":20,"story_id":"story.greek.odyssey_wanderings","story_version_id":"storyver.greek.odyssey_butler_1_12"}
+{"entity_id":"hero.greek.penelope","notes":"Wife","role":"CHARACTER","sort_order":30,"story_id":"story.greek.odyssey_wanderings","story_version_id":"storyver.greek.odyssey_butler_1_12"}
+{"entity_id":"hero.greek.telemachus","notes":"Son","role":"CHARACTER","sort_order":40,"story_id":"story.greek.odyssey_wanderings","story_version_id":"storyver.greek.odyssey_butler_1_12"}
+{"entity_id":"place.greek.ithaca_homeric","notes":"Home","role":"PLACE","sort_order":50,"story_id":"story.greek.odyssey_wanderings","story_version_id":"storyver.greek.odyssey_butler_1_12"}
+{"entity_id":"event.greek.return_of_odysseus","notes":"Return","role":"EVENT","sort_order":60,"story_id":"story.greek.odyssey_wanderings","story_version_id":"storyver.greek.odyssey_butler_1_12"}
+{"entity_id":"text.greek.odyssey","notes":"Epic","role":"TEXT","sort_order":70,"story_id":"story.greek.odyssey_wanderings","story_version_id":"storyver.greek.odyssey_butler_1_12"}
+{"entity_id":"deity.greek.zeus","notes":"Father of gods","role":"CHARACTER","sort_order":80,"story_id":"story.greek.odyssey_wanderings","story_version_id":"storyver.greek.odyssey_butler_1_12"}
+{"entity_id":"deity.greek.poseidon","notes":"Enemy","role":"CHARACTER","sort_order":90,"story_id":"story.greek.odyssey_wanderings","story_version_id":"storyver.greek.odyssey_butler_1_12"}
+{"entity_id":"deity.greek.hermes","notes":"Messenger","role":"CHARACTER","sort_order":100,"story_id":"story.greek.odyssey_wanderings","story_version_id":"storyver.greek.odyssey_butler_1_12"}
+{"entity_id":"deity.greek.calypso","notes":"Keeps Odysseus","role":"CHARACTER","sort_order":110,"story_id":"story.greek.odyssey_wanderings","story_version_id":"storyver.greek.odyssey_butler_1_12"}
+{"entity_id":"deity.greek.circe","notes":"Enchantress","role":"CHARACTER","sort_order":120,"story_id":"story.greek.odyssey_wanderings","story_version_id":"storyver.greek.odyssey_butler_1_12"}
+{"entity_id":"creature.greek.polyphemus","notes":"Cyclops","role":"CHARACTER","sort_order":130,"story_id":"story.greek.odyssey_wanderings","story_version_id":"storyver.greek.odyssey_butler_1_12"}
+{"entity_id":"creature.greek.sirens","notes":"Singers","role":"CHARACTER","sort_order":140,"story_id":"story.greek.odyssey_wanderings","story_version_id":"storyver.greek.odyssey_butler_1_12"}
+{"entity_id":"creature.greek.scylla","notes":"Six-headed monster","role":"CHARACTER","sort_order":150,"story_id":"story.greek.odyssey_wanderings","story_version_id":"storyver.greek.odyssey_butler_1_12"}
+{"entity_id":"creature.greek.charybdis","notes":"Whirlpool","role":"CHARACTER","sort_order":160,"story_id":"story.greek.odyssey_wanderings","story_version_id":"storyver.greek.odyssey_butler_1_12"}
+{"entity_id":"deity.greek.helios","notes":"Sun god","role":"CHARACTER","sort_order":170,"story_id":"story.greek.odyssey_wanderings","story_version_id":"storyver.greek.odyssey_butler_1_12"}
 {"entity_id":"text.greek.theogony","notes":"Poem","role":"TEXT","sort_order":10,"story_id":"story.greek.theogony_cosmos","story_version_id":"storyver.greek.theogony_long"}
 {"entity_id":"deity.greek.chaos","notes":"First","role":"CHARACTER","sort_order":20,"story_id":"story.greek.theogony_cosmos","story_version_id":"storyver.greek.theogony_long"}
 {"entity_id":"deity.greek.gaia","notes":"Earth","role":"CHARACTER","sort_order":30,"story_id":"story.greek.theogony_cosmos","story_version_id":"storyver.greek.theogony_long"}
@@ -217,6 +300,71 @@
 {"entity_id":"place.hindu.lanka","notes":"Rāvaṇa's city","role":"PLACE","sort_order":110,"story_id":"story.hindu.ramayana","story_version_id":"storyver.hindu.ramayana_griffith_1_6"}
 {"entity_id":"event.hindu.sita_abduction_rescue","notes":"Abduction and rescue","role":"EVENT","sort_order":120,"story_id":"story.hindu.ramayana","story_version_id":"storyver.hindu.ramayana_griffith_1_6"}
 {"entity_id":"text.indian.ramayana","notes":"Epic","role":"TEXT","sort_order":130,"story_id":"story.hindu.ramayana","story_version_id":"storyver.hindu.ramayana_griffith_1_6"}
+{"entity_id":"deity.hindu.rama","notes":"Prince","role":"CHARACTER","sort_order":10,"story_id":"story.hindu.ramayana_aranya","story_version_id":"storyver.hindu.ramayana_griffith_book3"}
+{"entity_id":"deity.hindu.sita","notes":"Princess","role":"CHARACTER","sort_order":20,"story_id":"story.hindu.ramayana_aranya","story_version_id":"storyver.hindu.ramayana_griffith_book3"}
+{"entity_id":"hero.indian.lakshmana","notes":"Brother","role":"CHARACTER","sort_order":30,"story_id":"story.hindu.ramayana_aranya","story_version_id":"storyver.hindu.ramayana_griffith_book3"}
+{"entity_id":"text.indian.ramayana","notes":"Epic","role":"TEXT","sort_order":40,"story_id":"story.hindu.ramayana_aranya","story_version_id":"storyver.hindu.ramayana_griffith_book3"}
+{"entity_id":"demon.hindu.ravana","notes":"Abductor","role":"CHARACTER","sort_order":50,"story_id":"story.hindu.ramayana_aranya","story_version_id":"storyver.hindu.ramayana_griffith_book3"}
+{"entity_id":"demon.hindu.shurpanakha","notes":"Rāvaṇa's sister","role":"CHARACTER","sort_order":60,"story_id":"story.hindu.ramayana_aranya","story_version_id":"storyver.hindu.ramayana_griffith_book3"}
+{"entity_id":"demon.hindu.maricha","notes":"Golden deer","role":"CHARACTER","sort_order":70,"story_id":"story.hindu.ramayana_aranya","story_version_id":"storyver.hindu.ramayana_griffith_book3"}
+{"entity_id":"creature.hindu.jatayu","notes":"Vulture-king","role":"CHARACTER","sort_order":80,"story_id":"story.hindu.ramayana_aranya","story_version_id":"storyver.hindu.ramayana_griffith_book3"}
+{"entity_id":"place.hindu.lanka","notes":"Rāvaṇa's city","role":"PLACE","sort_order":90,"story_id":"story.hindu.ramayana_aranya","story_version_id":"storyver.hindu.ramayana_griffith_book3"}
+{"entity_id":"event.hindu.sita_abduction_rescue","notes":"Abduction","role":"EVENT","sort_order":100,"story_id":"story.hindu.ramayana_aranya","story_version_id":"storyver.hindu.ramayana_griffith_book3"}
+{"entity_id":"deity.hindu.rama","notes":"Prince","role":"CHARACTER","sort_order":10,"story_id":"story.hindu.ramayana_ayodhya","story_version_id":"storyver.hindu.ramayana_griffith_book2"}
+{"entity_id":"deity.hindu.sita","notes":"Princess","role":"CHARACTER","sort_order":20,"story_id":"story.hindu.ramayana_ayodhya","story_version_id":"storyver.hindu.ramayana_griffith_book2"}
+{"entity_id":"hero.indian.lakshmana","notes":"Brother","role":"CHARACTER","sort_order":30,"story_id":"story.hindu.ramayana_ayodhya","story_version_id":"storyver.hindu.ramayana_griffith_book2"}
+{"entity_id":"text.indian.ramayana","notes":"Epic","role":"TEXT","sort_order":40,"story_id":"story.hindu.ramayana_ayodhya","story_version_id":"storyver.hindu.ramayana_griffith_book2"}
+{"entity_id":"hero.indian.dasharatha","notes":"King","role":"CHARACTER","sort_order":50,"story_id":"story.hindu.ramayana_ayodhya","story_version_id":"storyver.hindu.ramayana_griffith_book2"}
+{"entity_id":"hero.indian.kaikeyi","notes":"Queen","role":"CHARACTER","sort_order":60,"story_id":"story.hindu.ramayana_ayodhya","story_version_id":"storyver.hindu.ramayana_griffith_book2"}
+{"entity_id":"hero.indian.bharata","notes":"Regent","role":"CHARACTER","sort_order":70,"story_id":"story.hindu.ramayana_ayodhya","story_version_id":"storyver.hindu.ramayana_griffith_book2"}
+{"entity_id":"place.hindu.lanka","notes":"Not yet visited","role":"PLACE","sort_order":80,"story_id":"story.hindu.ramayana_ayodhya","story_version_id":"storyver.hindu.ramayana_griffith_book2"}
+{"entity_id":"deity.hindu.rama","notes":"Prince","role":"CHARACTER","sort_order":10,"story_id":"story.hindu.ramayana_bala","story_version_id":"storyver.hindu.ramayana_griffith_book1"}
+{"entity_id":"deity.hindu.sita","notes":"Princess","role":"CHARACTER","sort_order":20,"story_id":"story.hindu.ramayana_bala","story_version_id":"storyver.hindu.ramayana_griffith_book1"}
+{"entity_id":"hero.indian.lakshmana","notes":"Brother","role":"CHARACTER","sort_order":30,"story_id":"story.hindu.ramayana_bala","story_version_id":"storyver.hindu.ramayana_griffith_book1"}
+{"entity_id":"text.indian.ramayana","notes":"Epic","role":"TEXT","sort_order":40,"story_id":"story.hindu.ramayana_bala","story_version_id":"storyver.hindu.ramayana_griffith_book1"}
+{"entity_id":"hero.indian.dasharatha","notes":"King","role":"CHARACTER","sort_order":50,"story_id":"story.hindu.ramayana_bala","story_version_id":"storyver.hindu.ramayana_griffith_book1"}
+{"entity_id":"hero.indian.vishvamitra","notes":"Teacher","role":"CHARACTER","sort_order":60,"story_id":"story.hindu.ramayana_bala","story_version_id":"storyver.hindu.ramayana_griffith_book1"}
+{"entity_id":"hero.indian.janaka","notes":"Sītā's father","role":"CHARACTER","sort_order":70,"story_id":"story.hindu.ramayana_bala","story_version_id":"storyver.hindu.ramayana_griffith_book1"}
+{"entity_id":"hero.indian.ahalya","notes":"Freed from a curse","role":"CHARACTER","sort_order":80,"story_id":"story.hindu.ramayana_bala","story_version_id":"storyver.hindu.ramayana_griffith_book1"}
+{"entity_id":"hero.indian.parashurama","notes":"Challenger","role":"CHARACTER","sort_order":90,"story_id":"story.hindu.ramayana_bala","story_version_id":"storyver.hindu.ramayana_griffith_book1"}
+{"entity_id":"deity.hindu.vishnu","notes":"Born as Rāma","role":"CHARACTER","sort_order":100,"story_id":"story.hindu.ramayana_bala","story_version_id":"storyver.hindu.ramayana_griffith_book1"}
+{"entity_id":"deity.hindu.brahma","notes":"Inspires the poem","role":"CHARACTER","sort_order":110,"story_id":"story.hindu.ramayana_bala","story_version_id":"storyver.hindu.ramayana_griffith_book1"}
+{"entity_id":"deity.hindu.shiva","notes":"Owner of the bow","role":"CHARACTER","sort_order":120,"story_id":"story.hindu.ramayana_bala","story_version_id":"storyver.hindu.ramayana_griffith_book1"}
+{"entity_id":"deity.hindu.ganga","notes":"River goddess","role":"CHARACTER","sort_order":130,"story_id":"story.hindu.ramayana_bala","story_version_id":"storyver.hindu.ramayana_griffith_book1"}
+{"entity_id":"deity.vedic.indra","notes":"Deceives Ahalyā","role":"CHARACTER","sort_order":140,"story_id":"story.hindu.ramayana_bala","story_version_id":"storyver.hindu.ramayana_griffith_book1"}
+{"entity_id":"deity.hindu.rama","notes":"Prince","role":"CHARACTER","sort_order":10,"story_id":"story.hindu.ramayana_kishkindha","story_version_id":"storyver.hindu.ramayana_griffith_book4"}
+{"entity_id":"deity.hindu.sita","notes":"Princess","role":"CHARACTER","sort_order":20,"story_id":"story.hindu.ramayana_kishkindha","story_version_id":"storyver.hindu.ramayana_griffith_book4"}
+{"entity_id":"hero.indian.lakshmana","notes":"Brother","role":"CHARACTER","sort_order":30,"story_id":"story.hindu.ramayana_kishkindha","story_version_id":"storyver.hindu.ramayana_griffith_book4"}
+{"entity_id":"text.indian.ramayana","notes":"Epic","role":"TEXT","sort_order":40,"story_id":"story.hindu.ramayana_kishkindha","story_version_id":"storyver.hindu.ramayana_griffith_book4"}
+{"entity_id":"deity.hindu.hanuman","notes":"Minister","role":"CHARACTER","sort_order":50,"story_id":"story.hindu.ramayana_kishkindha","story_version_id":"storyver.hindu.ramayana_griffith_book4"}
+{"entity_id":"hero.indian.sugriva","notes":"Monkey-king","role":"CHARACTER","sort_order":60,"story_id":"story.hindu.ramayana_kishkindha","story_version_id":"storyver.hindu.ramayana_griffith_book4"}
+{"entity_id":"hero.indian.valin","notes":"Sugrīva's brother","role":"CHARACTER","sort_order":70,"story_id":"story.hindu.ramayana_kishkindha","story_version_id":"storyver.hindu.ramayana_griffith_book4"}
+{"entity_id":"deity.hindu.rama","notes":"Prince","role":"CHARACTER","sort_order":10,"story_id":"story.hindu.ramayana_sundara","story_version_id":"storyver.hindu.ramayana_griffith_book5"}
+{"entity_id":"deity.hindu.sita","notes":"Princess","role":"CHARACTER","sort_order":20,"story_id":"story.hindu.ramayana_sundara","story_version_id":"storyver.hindu.ramayana_griffith_book5"}
+{"entity_id":"hero.indian.lakshmana","notes":"Brother","role":"CHARACTER","sort_order":30,"story_id":"story.hindu.ramayana_sundara","story_version_id":"storyver.hindu.ramayana_griffith_book5"}
+{"entity_id":"text.indian.ramayana","notes":"Epic","role":"TEXT","sort_order":40,"story_id":"story.hindu.ramayana_sundara","story_version_id":"storyver.hindu.ramayana_griffith_book5"}
+{"entity_id":"deity.hindu.hanuman","notes":"Messenger","role":"CHARACTER","sort_order":50,"story_id":"story.hindu.ramayana_sundara","story_version_id":"storyver.hindu.ramayana_griffith_book5"}
+{"entity_id":"demon.hindu.ravana","notes":"King of Laṅkā","role":"CHARACTER","sort_order":60,"story_id":"story.hindu.ramayana_sundara","story_version_id":"storyver.hindu.ramayana_griffith_book5"}
+{"entity_id":"demon.hindu.indrajit","notes":"Binds Hanumān","role":"CHARACTER","sort_order":70,"story_id":"story.hindu.ramayana_sundara","story_version_id":"storyver.hindu.ramayana_griffith_book5"}
+{"entity_id":"hero.indian.vibhishana","notes":"Counsels mercy to envoys","role":"CHARACTER","sort_order":80,"story_id":"story.hindu.ramayana_sundara","story_version_id":"storyver.hindu.ramayana_griffith_book5"}
+{"entity_id":"deity.hindu.agni","notes":"Cools the fire for Hanumān","role":"CHARACTER","sort_order":90,"story_id":"story.hindu.ramayana_sundara","story_version_id":"storyver.hindu.ramayana_griffith_book5"}
+{"entity_id":"place.hindu.lanka","notes":"City","role":"PLACE","sort_order":100,"story_id":"story.hindu.ramayana_sundara","story_version_id":"storyver.hindu.ramayana_griffith_book5"}
+{"entity_id":"deity.hindu.rama","notes":"Prince","role":"CHARACTER","sort_order":10,"story_id":"story.hindu.ramayana_yuddha","story_version_id":"storyver.hindu.ramayana_griffith_book6"}
+{"entity_id":"deity.hindu.sita","notes":"Princess","role":"CHARACTER","sort_order":20,"story_id":"story.hindu.ramayana_yuddha","story_version_id":"storyver.hindu.ramayana_griffith_book6"}
+{"entity_id":"hero.indian.lakshmana","notes":"Brother","role":"CHARACTER","sort_order":30,"story_id":"story.hindu.ramayana_yuddha","story_version_id":"storyver.hindu.ramayana_griffith_book6"}
+{"entity_id":"text.indian.ramayana","notes":"Epic","role":"TEXT","sort_order":40,"story_id":"story.hindu.ramayana_yuddha","story_version_id":"storyver.hindu.ramayana_griffith_book6"}
+{"entity_id":"deity.hindu.hanuman","notes":"Hero of the war","role":"CHARACTER","sort_order":50,"story_id":"story.hindu.ramayana_yuddha","story_version_id":"storyver.hindu.ramayana_griffith_book6"}
+{"entity_id":"demon.hindu.ravana","notes":"King of Laṅkā","role":"CHARACTER","sort_order":60,"story_id":"story.hindu.ramayana_yuddha","story_version_id":"storyver.hindu.ramayana_griffith_book6"}
+{"entity_id":"hero.indian.vibhishana","notes":"Takes refuge","role":"CHARACTER","sort_order":70,"story_id":"story.hindu.ramayana_yuddha","story_version_id":"storyver.hindu.ramayana_griffith_book6"}
+{"entity_id":"hero.indian.sugriva","notes":"Monkey-king","role":"CHARACTER","sort_order":80,"story_id":"story.hindu.ramayana_yuddha","story_version_id":"storyver.hindu.ramayana_griffith_book6"}
+{"entity_id":"demon.hindu.kumbhakarna","notes":"Giant brother","role":"CHARACTER","sort_order":90,"story_id":"story.hindu.ramayana_yuddha","story_version_id":"storyver.hindu.ramayana_griffith_book6"}
+{"entity_id":"demon.hindu.indrajit","notes":"Rāvaṇa's son","role":"CHARACTER","sort_order":100,"story_id":"story.hindu.ramayana_yuddha","story_version_id":"storyver.hindu.ramayana_griffith_book6"}
+{"entity_id":"deity.hindu.agni","notes":"Returns Sītā","role":"CHARACTER","sort_order":110,"story_id":"story.hindu.ramayana_yuddha","story_version_id":"storyver.hindu.ramayana_griffith_book6"}
+{"entity_id":"deity.hindu.brahma","notes":"Reveals Rāma as Vishnu","role":"CHARACTER","sort_order":120,"story_id":"story.hindu.ramayana_yuddha","story_version_id":"storyver.hindu.ramayana_griffith_book6"}
+{"entity_id":"hero.indian.bharata","notes":"Regent","role":"CHARACTER","sort_order":130,"story_id":"story.hindu.ramayana_yuddha","story_version_id":"storyver.hindu.ramayana_griffith_book6"}
+{"entity_id":"hero.indian.dasharatha","notes":"Appears from heaven","role":"CHARACTER","sort_order":140,"story_id":"story.hindu.ramayana_yuddha","story_version_id":"storyver.hindu.ramayana_griffith_book6"}
+{"entity_id":"place.hindu.lanka","notes":"Battlefield","role":"PLACE","sort_order":150,"story_id":"story.hindu.ramayana_yuddha","story_version_id":"storyver.hindu.ramayana_griffith_book6"}
+{"entity_id":"event.hindu.sita_abduction_rescue","notes":"Rescue","role":"EVENT","sort_order":160,"story_id":"story.hindu.ramayana_yuddha","story_version_id":"storyver.hindu.ramayana_griffith_book6"}
 {"entity_id":"deity.hindu.vishnu","notes":"Nārāyaṇa in the epic witness.","role":"CHARACTER","sort_order":10,"story_id":"story.hindu.samudra_manthana_texts","story_version_id":"storyver.hindu.churning_mbh_ce"}
 {"entity_id":"place.hindu.mandara","notes":"Churning rod; no coordinate.","role":"PLACE","sort_order":20,"story_id":"story.hindu.samudra_manthana_texts","story_version_id":"storyver.hindu.churning_mbh_ce"}
 {"entity_id":"creature.hindu.vasuki","notes":"Churning rope.","role":"CHARACTER","sort_order":30,"story_id":"story.hindu.samudra_manthana_texts","story_version_id":"storyver.hindu.churning_mbh_ce"}

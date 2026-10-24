@@ -587,3 +587,20 @@
 {"action":"CREATE","item_id":"storyver.babylonian.enuma_elish_long","item_kind":"STORY_VERSION","result":"Enūma eliš, Tablets I–VII (long retelling)","session_id":"session.20261011.v0320_long_stories"}
 {"action":"CREATE","item_id":"storyver.sumerian.inanna_etcsl_long","item_kind":"STORY_VERSION","result":"ETCSL 1.4.1, complete (long retelling)","session_id":"session.20261011.v0320_long_stories"}
 {"action":"SEAL","item_id":"release.v0.32.0","item_kind":"RELEASE","result":"Formal staged checkpoint: 12 completed long-story targets; no target blocked.","session_id":"session.20261011.v0320_long_stories"}
+{"action":"CREATE","item_id":"story.chinese.xiyouji_origins","item_kind":"STORY","result":"Journey to the West: how the pilgrimage began","session_id":"session.20261024.v0330_series"}
+{"action":"CREATE","item_id":"story.chinese.xiyouji_pilgrims_gather","item_kind":"STORY","result":"Journey to the West: the pilgrims come together","session_id":"session.20261024.v0330_series"}
+{"action":"CREATE","item_id":"story.chinese.xiyouji_white_bone","item_kind":"STORY","result":"Journey to the West: three blows against the White Bone Demon","session_id":"session.20261024.v0330_series"}
+{"action":"CREATE","item_id":"story.chinese.xiyouji_two_monkey_kings","item_kind":"STORY","result":"Journey to the West: the real and the false Monkey King","session_id":"session.20261024.v0330_series"}
+{"action":"CREATE","item_id":"story.chinese.xiyouji_flaming_mountains","item_kind":"STORY","result":"Journey to the West: three tries for the plantain fan","session_id":"session.20261024.v0330_series"}
+{"action":"CREATE","item_id":"story.hindu.ramayana_bala","item_kind":"STORY","result":"The Rāmāyaṇa, Part 1: the Book of Childhood","session_id":"session.20261024.v0330_series"}
+{"action":"CREATE","item_id":"story.hindu.ramayana_ayodhya","item_kind":"STORY","result":"The Rāmāyaṇa, Part 2: the Book of Ayodhyā","session_id":"session.20261024.v0330_series"}
+{"action":"CREATE","item_id":"story.hindu.ramayana_aranya","item_kind":"STORY","result":"The Rāmāyaṇa, Part 3: the Book of the Forest","session_id":"session.20261024.v0330_series"}
+{"action":"CREATE","item_id":"story.hindu.ramayana_kishkindha","item_kind":"STORY","result":"The Rāmāyaṇa, Part 4: the Book of Kiṣkindhā","session_id":"session.20261024.v0330_series"}
+{"action":"CREATE","item_id":"story.hindu.ramayana_sundara","item_kind":"STORY","result":"The Rāmāyaṇa, Part 5: the Beautiful Book","session_id":"session.20261024.v0330_series"}
+{"action":"CREATE","item_id":"story.hindu.ramayana_yuddha","item_kind":"STORY","result":"The Rāmāyaṇa, Part 6: the Book of War","session_id":"session.20261024.v0330_series"}
+{"action":"CREATE","item_id":"story.greek.odyssey_wanderings","item_kind":"STORY","result":"The Odyssey, Part 1: the wanderings","session_id":"session.20261024.v0330_series"}
+{"action":"CREATE","item_id":"story.greek.odyssey_homecoming","item_kind":"STORY","result":"The Odyssey, Part 2: the homecoming","session_id":"session.20261024.v0330_series"}
+{"action":"CREATE","item_id":"series.chinese.xiyouji","item_kind":"STORY_SERIES","result":"Journey to the West (series)","session_id":"session.20261024.v0330_series"}
+{"action":"CREATE","item_id":"series.hindu.ramayana_books","item_kind":"STORY_SERIES","result":"The Rāmāyaṇa in six books (series)","session_id":"session.20261024.v0330_series"}
+{"action":"CREATE","item_id":"series.greek.odyssey","item_kind":"STORY_SERIES","result":"The Odyssey (series)","session_id":"session.20261024.v0330_series"}
+{"action":"SEAL","item_id":"release.v0.33.0","item_kind":"RELEASE","result":"Formal staged checkpoint: 13 completed series-part targets in 3 series; no target blocked.","session_id":"session.20261024.v0330_series"}

@@ -44,5 +44,7 @@
   - 来源：[Investiture of the Gods (Wikisource transcription, 100 chapters)](https://zh.wikisource.org/wiki/%E5%B0%81%E7%A5%9E%E6%BC%94%E7%BE%A9)；定位：ch. 13 (卷013)
 - `claim.v0320.fengshen_nezha.10` [VERIFIED / TEXT_SAYS / 0.90] To free his parents from the four dragon kings, Nezha cuts open his body and returns his flesh and bones to his parents, and dies.
   - 来源：[Investiture of the Gods (Wikisource transcription, 100 chapters)](https://zh.wikisource.org/wiki/%E5%B0%81%E7%A5%9E%E6%BC%94%E7%BE%A9)；定位：ch. 13 (卷013)
+- `claim.v0330.xyj_fan.13` [VERIFIED / TEXT_SAYS / 0.90] When the Bull Demon King, fighting Sun Wukong through many transformations, becomes a giant white ox, the guardian vajra kings surround him and Nezha burns him with his fire wheel until he submits.
+  - 来源：[Journey to the West (Wikisource transcription, 100 chapters)](https://zh.wikisource.org/wiki/%E8%A5%BF%E9%81%8A%E8%A8%98)；定位：ch. 61
 
 > 本档案只代表当前阶段性基线，不是对该传统的最终或唯一解释。

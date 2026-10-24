@@ -58,12 +58,27 @@
 | [十六片良地与它们的灾祸：《万迪达德》第一章](story.zoroastrian.sixteen_lands.md) | Sixteen good lands and their plagues — Videvdad 1 | 琐罗亚斯德传统 | CREATION_ACCOUNT | 1 | SOURCE_BACKED | 4 |
 | [佩蕾的旅程：从卡希基到哈雷茂茂](story.hawaiian.pele_journey.md) | Pele's journey to Halemaʻumaʻu | 夏威夷 | MYTHIC_NARRATIVE | 1 | SOURCE_BACKED | 4 |
 | [美猴王：从石猴出世到大闹天宫](story.chinese.xiyouji_havoc_in_heaven.md) | The Monkey King: from the stone egg to Havoc in Heaven | 中国民间信仰 | DIVINE_COMBAT | 1 | SOURCE_BACKED | 11 |
+| [西游记 · 取经缘起：从灵山到长安](story.chinese.xiyouji_origins.md) | Journey to the West: how the pilgrimage began | 中国民间信仰 | MYTHIC_NARRATIVE | 1 | SOURCE_BACKED | 26 |
+| [西游记 · 师徒聚首：从两界山到流沙河](story.chinese.xiyouji_pilgrims_gather.md) | Journey to the West: the pilgrims come together | 中国民间信仰 | MYTHIC_NARRATIVE | 1 | SOURCE_BACKED | 23 |
+| [西游记 · 三打白骨精](story.chinese.xiyouji_white_bone.md) | Journey to the West: three blows against the White Bone Demon | 中国民间信仰 | MYTHIC_NARRATIVE | 1 | SOURCE_BACKED | 22 |
+| [西游记 · 真假美猴王](story.chinese.xiyouji_two_monkey_kings.md) | Journey to the West: the real and the false Monkey King | 中国民间信仰 | MYTHIC_NARRATIVE | 1 | SOURCE_BACKED | 16 |
 | [哪吒闹海：《封神演义》里的莲花化身](story.chinese.fengshen_nezha.md) | Nezha conquers the sea — the lotus rebirth in Investiture of the Gods | 中国民间信仰 | MYTHIC_NARRATIVE | 1 | SOURCE_BACKED | 7 |
+| [西游记 · 三调芭蕉扇](story.chinese.xiyouji_flaming_mountains.md) | Journey to the West: three tries for the plantain fan | 中国民间信仰 | MYTHIC_NARRATIVE | 1 | SOURCE_BACKED | 19 |
 | [神谱：从混沌到宙斯为王](story.greek.theogony_cosmos.md) | The Theogony: from Chaos to the reign of Zeus | 古希腊 | CREATION_ACCOUNT | 1 | SOURCE_BACKED | 12 |
 | [索尔在乌特加尔洛基的城堡](story.norse.thor_utgarda_loki.md) | Thor in the castle of Útgarða-Loki | 北欧 | MYTHIC_NARRATIVE | 1 | SOURCE_BACKED | 8 |
 | [吉尔伽美什史诗：寻找永生的国王](story.babylonian.gilgamesh_epic.md) | The Epic of Gilgamesh: the king who sought eternal life | 巴比伦 | MYTHIC_NARRATIVE | 1 | SOURCE_BACKED | 12 |
 | [奥西里斯与伊西斯：普鲁塔克讲的长篇故事](story.egyptian.osiris_plutarch.md) | Osiris and Isis: the long story as Plutarch told it | 古埃及 | MYTHIC_NARRATIVE | 1 | SOURCE_BACKED | 7 |
 | [天之岩户与八岐大蛇：须佐之男的长篇故事](story.japanese.iwato_orochi.md) | The Rock-Cave Door and the Eight-Forked Serpent: the long story of Susanoo | 日本神道 | MYTHIC_NARRATIVE | 1 | SOURCE_BACKED | 8 |
 | [罗摩衍那：罗摩与悉多的长篇故事](story.hindu.ramayana.md) | The Rāmāyaṇa: the long story of Rāma and Sītā | 印度教传统 | MYTHIC_NARRATIVE | 1 | SOURCE_BACKED | 15 |
+| [罗摩衍那 · 第一部 童年篇](story.hindu.ramayana_bala.md) | The Rāmāyaṇa, Part 1: the Book of Childhood | 印度教传统 | MYTHIC_NARRATIVE | 1 | SOURCE_BACKED | 18 |
+| [罗摩衍那 · 第二部 阿逾陀篇](story.hindu.ramayana_ayodhya.md) | The Rāmāyaṇa, Part 2: the Book of Ayodhyā | 印度教传统 | MYTHIC_NARRATIVE | 1 | SOURCE_BACKED | 19 |
+| [罗摩衍那 · 第三部 森林篇](story.hindu.ramayana_aranya.md) | The Rāmāyaṇa, Part 3: the Book of the Forest | 印度教传统 | MYTHIC_NARRATIVE | 1 | SOURCE_BACKED | 18 |
+| [罗摩衍那 · 第四部 猴国篇](story.hindu.ramayana_kishkindha.md) | The Rāmāyaṇa, Part 4: the Book of Kiṣkindhā | 印度教传统 | MYTHIC_NARRATIVE | 1 | SOURCE_BACKED | 14 |
+| [罗摩衍那 · 第五部 美妙篇](story.hindu.ramayana_sundara.md) | The Rāmāyaṇa, Part 5: the Beautiful Book | 印度教传统 | MYTHIC_NARRATIVE | 1 | SOURCE_BACKED | 17 |
+| [罗摩衍那 · 第六部 战斗篇](story.hindu.ramayana_yuddha.md) | The Rāmāyaṇa, Part 6: the Book of War | 印度教传统 | MYTHIC_NARRATIVE | 1 | SOURCE_BACKED | 24 |
+| [奥德赛 · 上部 漂泊](story.greek.odyssey_wanderings.md) | The Odyssey, Part 1: the wanderings | 古希腊 | MYTHIC_NARRATIVE | 1 | SOURCE_BACKED | 26 |
+| [奥德赛 · 下部 归家](story.greek.odyssey_homecoming.md) | The Odyssey, Part 2: the homecoming | 古希腊 | MYTHIC_NARRATIVE | 1 | SOURCE_BACKED | 22 |
 
 另见：[神祇故事集 — 全部神祇的故事，打开即可阅读](deities/index.md)
+
+另见：[系列连载 — 按原著顺序连读的多部长篇](series.md)

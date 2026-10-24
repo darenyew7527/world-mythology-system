@@ -11,10 +11,15 @@ being.norse.utgarda_loki,GIANT_KING,{},"[""sight-deception (illusions)""]",[],,R
 being.norse.ymir,GIANT,{},[],[],,,
 creature.akkadian.anzu,MYTHIC_MONSTROUS_BIRD,"{""form"":""lion-eagle in later scholarly description""}","[""control associated with stolen Tablet of Destinies""]",[],,Akkadian Anzu myth witness.,Defeated by Ninurta in the registered synopsis.
 creature.chinese.ao_turtle,GREAT_TURTLE,{},[],[],,Named in the Huainanzi Lan Ming and Liezi Tang Wen Nüwa passages.,Its legs are cut off and used to set up the four poles in both witnesses.
+creature.greek.charybdis,WHIRLPOOL_MONSTER,{},"[""swallows the sea three times a day""]",[],Beneath a fig tree opposite Scylla,Divine whirlpool of the strait.,Remains in the strait.
 creature.greek.cyclopes_hesiodic,GIANT,{},[],[],,,
 creature.greek.hecatoncheires,HUNDRED_HANDED_GIANTS,{},"[""hurl three hundred rocks at once""]",[],,"Sons of Gaia and Ouranos, bound beneath the earth by their father.",Guard the Titans in Tartarus after the war.
+creature.greek.polyphemus,CYCLOPS,"{""eyes"": 1}","[""enormous strength""]",[],A cave on the island of the Cyclopes,Son of Poseidon and the nymph Thoosa.,Blinded by Odysseus; his curse brings Poseidon's anger.
+creature.greek.scylla,SEA_MONSTER,"{""heads"": 6, ""feet"": 12}","[""snatches sailors from passing ships""]",[],A cave high in a sea cliff,"Immortal monster, as Circe describes her.",Remains in her cliff.
+creature.greek.sirens,ENCHANTING_SINGERS,{},"[""a song that lures sailors to death""]",[],A flowery meadow heaped with bones,Described by Circe; their number and form are not fixed in the Odyssey.,Unchanged; Odysseus passes them.
 creature.greek.typhon,MONSTER,"{""heads"":""one hundred serpent heads in Hesiod 824-835"",""features"":[""flashing fire"",""many voices""]}","[""immense strength"",""fire"",""terrifying voices""]",[],,Child of Gaia and Tartarus in Hesiod,Defeated by Zeus and cast into Tartarus in Hesiod
 creature.hindu.akupara,TORTOISE_KING,"{""form"":""tortoise""}","[""bears Mount Mandara""]",[],,Named as king of tortoises in the Mahābhārata critical-edition churning witness.,Supports the mountain during the churning in that witness.
+creature.hindu.jatayu,VULTURE_KING,{},"[""speech"", ""flight""]",[],Pañcavaṭī forest,"Son of Aruṇa, brother of Sampāti.",Mortally wounded by Rāvaṇa; cremated by Rāma.
 creature.hindu.vasuki,NAGA_KING,"{""form"":""serpent""}",[],[],,Nāga king in the epic and Purāṇic churning witnesses.,Serves as the churning rope in both registered witnesses.
 creature.mesopotamian.bull_of_heaven,DIVINE_BULL,{},"[""its snorting opens pits that swallow hundreds of men""]",[],,Given by Anu at Ishtar's demand.,Killed by Gilgamesh and Enkidu.
 creature.norse.fenrir,MONSTER,{},[],[],,,
@@ -24,10 +29,22 @@ creature.norse.sleipnir,EIGHT_LEGGED_HORSE,{},"[""carries his rider over the bri
 creature.vedic.vritra,RIGVEDIC SERPENT OPPONENT,"{""witness_designation"":""ahi / serpent""}","[""阻水语境（RV 1.32）""]","[""在 RV 1.32 中被因陀罗以金刚杵击杀""]",,Witness-specific opponent in Rigveda 1.32.,Killed by Indra in the registered hymn narrative.
 deity.babylonian.tiamat,DRAGON,{},[],[],,,
 deity.chinese.ao_guang,DRAGON_KING,{},"[""rules the Eastern Sea from the Crystal Palace""]",[],Crystal Palace of the Eastern Sea,Dragon king of popular religion as portrayed in Ming novels.,
+demon.chinese.baigujing,CORPSE_DEMON,{},"[""takes human forms"", ""escapes by leaving a false corpse""]",[],White Tiger Ridge,A heap of bones that became a demon.,Killed by Sun Wukong's third blow; a pile of bones inscribed 'Lady White Bone'.
+demon.chinese.black_bear_spirit,BEAR_DEMON,{},"[""black wind"", ""black-tasselled spear""]",[],Black Wind Cave on Black Wind Mountain,A black bear that attained powers.,Becomes the guardian of Guanyin's Potalaka mountain.
+demon.chinese.huangpao,STAR_SPIRIT_DEMON,{},"[""transformations"", ""turns people into beasts""]",[],Moon-Wave Cave on Bowl Mountain,"The Kui constellation spirit, one of the twenty-eight lunar mansions, who came down for love of a palace maid.",Recalled to heaven and set to tend Laozi's furnace.
+demon.chinese.niumowang,BULL_DEMON,{},"[""seventy-two transformations"", ""becomes a giant white bull""]",[],Cloud-Touching Cave on Thunder Mountain,"Demon king, once sworn brother of the Monkey King.",Subdued by Nezha and heaven's guardians and taken to the Buddha.
+demon.chinese.six_eared_macaque,MONKEY_DEMON,{},"[""hears sounds from a thousand li"", ""knows past and future"", ""every power of Sun Wukong""]",[],Water Curtain Cave (usurped),"One of the four monkeys outside the ten categories of beings, as the Buddha explains.",Killed by Sun Wukong under the Buddha's golden bowl.
+demon.chinese.tieshan_gongzhu,RAKSHASI,{},"[""keeps the plantain fan"", ""twin blue swords""]",[],Plantain Cave on Kingfisher Cloud Mountain,Wife of the Bull Demon King.,Gives up the fan and withdraws to self-cultivation.
+demon.hindu.indrajit,RAKSHASA,{},"[""invisibility in battle"", ""serpent arrows"", ""the weapon of Brahmā""]",[],Laṅkā,Son of Rāvaṇa who once defeated Indra.,Slain by Lakṣmaṇa.
+demon.hindu.kumbhakarna,GIANT_RAKSHASA,{},"[""immense size and hunger""]",[],Laṅkā,"Brother of Rāvaṇa, cursed to long sleep.",Slain by Rāma's arrows.
+demon.hindu.maricha,RAKSHASA,{},"[""takes the form of a golden deer"", ""mimics voices""]",[],A hermitage by the sea,Son of Tāṭakā.,Killed by Rāma while in the deer's form.
 demon.hindu.rahu,DANAVA,{},[],[],,Dānava in the epic and Purāṇic churning witnesses.,Beheaded with Viṣṇu's discus after drinking the amṛta in disguise; later astral identities are not modeled here.
 demon.hindu.ravana,RAKSHASA_KING,"{""heads"": 10}","[""boon of Brahmā against gods and demons"", ""flying chariot Puṣpaka""]",[],Laṅkā,Rākṣasa king who won his boon by austerities.,Slain by Rāma with the weapon of Brahmā.
+demon.hindu.shurpanakha,RAKSHASI,{},"[""changes shape at will""]",[],Daṇḍaka forest,Sister of Rāvaṇa.,Flees to Laṅkā to rouse Rāvaṇa.
 dragon.chinese.ao_bing,DRAGON_PRINCE,{},[],[],,Third son of the Dragon King of the Eastern Sea.,Killed by Nezha; his sinew is pulled out.
 dragon.chinese.black_dragon_jizhou,DRAGON,"{""color"":""black""}",[],[],,Named only in the Huainanzi Lan Ming Nüwa passage.,Killed by Nüwa to relieve Jizhou in that witness.
+dragon.chinese.jinghe_dragon_king,DRAGON_KING,{},"[""brings rain at heaven's command""]",[],The Jing River near Chang'an,River dragon king in the novel.,Beheaded in Wei Zheng's dream for disobeying heaven's decree.
+dragon.chinese.white_dragon_horse,DRAGON_PRINCE,{},"[""takes the form of a white horse""]",[],Eagle Grief Gorge until the pilgrimage,"Third son of the Dragon King of the Western Sea, condemned for burning a pearl.",Carries Tang Sanzang to the West.
 monster.japanese.yamata_no_orochi,MYTHIC_SERPENT,{},[],[],,Registered from the Kokugakuin academic summary of Kojiki and Nihongi narrative layers.,Defeated by Susanoo in the source-scoped narrative; Kusanagi is then found in the serpent's tail.
 monster.kiche.seven_macaw,NAMED_MYTHIC_OPPONENT,{},[],[],,Registered only from the public Smithsonian K'iche'-attributed Hero Twins overview.,The public overview says the Hero Twins defeat Seven Macaw; no larger cycle is inferred here.
 monster.sumerian.huwawa,MOUNTAIN_GUARDIAN,{},[],[],,Named opponent in Gilgameš and Ḫuwawa (Version A).,Confronted by Gilgameš and Enkidu.

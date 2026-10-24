@@ -9,13 +9,13 @@ from pathlib import Path
 
 
 EPOCH = (2020, 1, 1, 0, 0, 0)
-RELEASE_VERSION = "0.32.0"
-PROJECT_FOLDER = "World_Mythology_System_v0.32.0_long_stories"
+RELEASE_VERSION = "0.33.0"
+PROJECT_FOLDER = "World_Mythology_System_v0.33.0_series"
 DATABASE_NAME = f"world_mythology_v{RELEASE_VERSION}.sqlite"
 CHECKSUM_NAME = f"SHA256SUMS_v{RELEASE_VERSION}.txt"
 OFFLINE_NAMES = (
-    "world-mythology-v0.32-story-archive.html",
-    "world-mythology-v0.32-story-archive.json",
+    "world-mythology-v0.33-story-archive.html",
+    "world-mythology-v0.33-story-archive.json",
 )
 
 
@@ -63,7 +63,7 @@ def build(project_root: Path, output: Path, bundle: Path) -> dict[str, str]:
         **{f"OFFLINE_ARCHIVE/{path.name}": _sha256(path) for path in offline_files},
     }
     start_here = (
-        "世界神话系统 v0.32.0 长篇故事与章节阅读正式版\n\n"
+        "世界神话系统 v0.33.0 系列连载正式版\n\n"
         "0. 先把整个 ZIP 解压到普通文件夹，不要直接在 ZIP 内运行。\n"
         "1. Windows 看网页：双击项目目录内的 START_WORLD_MYTHOLOGY.bat。\n"
         "2. macOS/Linux：运行 sh START_WORLD_MYTHOLOGY.sh。\n"

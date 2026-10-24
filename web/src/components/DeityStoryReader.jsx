@@ -72,8 +72,13 @@ export default function DeityStoryReader({ card, headingLevel = 2, index, langua
       title: pick(language, story.titleZh, story.canonicalTitle),
       chapters: Math.max(0, ...story.versions.map((version) => version.sections.length)),
       minutes: story.readingMinutes,
+      series: story.series,
     }))
-    .sort((a, b) => b.chapters - a.chapters), [card, index, language])
+    // Parts of a series keep their reading order (v0.33); other stories, longest first.
+    .sort((a, b) => (a.series && b.series && a.series.id === b.series.id
+      ? a.series.partOrder - b.series.partOrder
+      : Boolean(b.series) - Boolean(a.series) || (a.series?.id || '').localeCompare(b.series?.id || '') || b.chapters - a.chapters)),
+  [card, index, language])
 
   const advance = (order) => {
     if (order <= progress) return
@@ -139,6 +144,11 @@ export default function DeityStoryReader({ card, headingLevel = 2, index, langua
               <li key={story.id}>
                 <button type="button" onClick={() => onOpenStory(story.id)}>
                   <strong>{story.title}</strong>
+                  {story.series && (
+                    <small className="deity-series-part">
+                      {pick(language, story.series.titleZh, story.series.titleEn)} · {pick(language, story.series.labelZh, story.series.labelEn)}
+                    </small>
+                  )}
                   <small>
                     {story.chapters >= LONG_STORY_SECTIONS ? copy.long(story.chapters) : copy.chapters(story.chapters)}
                     {story.minutes ? ` · ${copy.minutes(story.minutes)}` : ''}

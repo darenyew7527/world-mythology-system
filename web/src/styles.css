@@ -1807,3 +1807,61 @@ code {
 @media print {
   .chapter-nav, .chapter-next, .chapter-resume, .deity-other-stories { display: none; }
 }
+
+/* v0.33 · story series: shelf, part X of N, continue with the next part */
+.story-series-shelf { max-width: 1540px; margin: 14px auto 0; border: 1px solid rgba(201,154,82,.3); background: rgba(4,19,31,.96); scroll-margin-top: 90px; }
+.story-series-shelf:focus { outline: none; }
+.story-series-shelf > header { display: flex; align-items: center; justify-content: space-between; gap: 14px; min-height: 54px; padding: 10px 14px; border-bottom: 1px solid rgba(201,154,82,.16); }
+.story-series-shelf > header div { display: grid; gap: 4px; }
+.story-series-shelf > header strong { color: var(--gold-bright); font-family: var(--display); font-size: 1.05rem; font-weight: 500; letter-spacing: .08em; }
+.story-series-shelf > header span { color: #8fa3ae; font-size: .78rem; line-height: 1.5; }
+.story-series-shelf > header b { color: var(--gold); font: 1.3rem var(--display); }
+.story-series-list { display: grid; grid-template-columns: repeat(auto-fill, minmax(320px, 1fr)); gap: 12px; padding: 12px; }
+.story-series-card { display: grid; align-content: start; gap: 8px; padding: 14px 16px; border: 1px solid rgba(117,148,168,.22); background: rgba(5,26,40,.72); }
+.story-series-card h3 { margin: 0; color: #e7dcc6; font-family: var(--display); font-size: 1.2rem; font-weight: 500; }
+.story-series-card > p { margin: 0; color: #a9b3b5; font-size: .86rem; line-height: 1.6; }
+.story-series-meta { color: var(--gold); font: .72rem ui-monospace, monospace; letter-spacing: .05em; }
+.story-series-card ol { display: grid; gap: 2px; margin: 0; padding: 0; list-style: none; }
+.story-series-card li button { display: grid; grid-template-columns: 26px 1fr; gap: 0 8px; width: 100%; min-height: 44px; padding: 6px 4px; border: 0; border-bottom: 1px solid rgba(117,148,168,.12); background: none; color: #d6d0c4; text-align: left; cursor: pointer; }
+.story-series-card li button > span { grid-row: span 2; padding-top: 2px; color: var(--gold); font: .74rem ui-monospace, monospace; }
+.story-series-card li button strong { font-size: .9rem; font-weight: 500; }
+.story-series-card li button small { color: #7f949f; font-size: .72rem; }
+.story-series-card li button:hover strong, .story-series-card li button[aria-current="true"] strong { color: var(--gold-bright); }
+.story-series-card li[data-state="read"] button > span { color: var(--success); }
+.story-series-card li[data-state="read"] button small { color: #8fbcac; }
+.story-series-card li[data-state="reading"] button > span { color: var(--gold-bright); }
+.story-series-continue { min-height: 44px; padding: 6px 14px; border: 1px solid var(--gold); background: rgba(201,154,82,.16); color: var(--gold-bright); font-size: .88rem; text-align: left; cursor: pointer; }
+.story-series-continue:hover { background: rgba(201,154,82,.26); }
+.story-series-done { margin: 0; color: var(--success); font-size: .86rem; }
+.story-index footer .story-series-badge { color: var(--gold-bright); }
+.story-reader-heading { scroll-margin-top: 90px; }
+.story-reader-heading:focus { outline: none; }
+.story-series-bar { display: flex; flex-wrap: wrap; align-items: center; gap: 6px 14px; max-width: 764px; margin: 18px auto 0; padding: 10px 14px; border-left: 3px solid var(--gold); background: rgba(201,154,82,.08); }
+.story-series-bar .story-series-title { min-height: 36px; padding: 0; border: 0; background: none; color: var(--gold-bright); font-family: var(--display); font-size: .98rem; cursor: pointer; text-decoration: underline; text-underline-offset: 3px; }
+.story-series-bar strong { color: #e1d6c1; font-size: .88rem; font-weight: 500; }
+.story-series-bar small { color: #8fa3ae; font: .72rem ui-monospace, monospace; }
+.story-series-steps { display: flex; gap: 8px; margin-left: auto; }
+.story-series-steps button { min-height: 36px; padding: 4px 12px; border: 1px solid rgba(201,154,82,.38); background: rgba(3,16,27,.7); color: #cdb894; font-size: .8rem; cursor: pointer; }
+.story-series-steps button:hover { border-color: var(--gold); color: var(--gold-bright); }
+.story-series-bar em { flex-basis: 100%; color: #8fa3ae; font-size: .78rem; font-style: normal; line-height: 1.5; }
+.story-series-next { max-width: 764px; margin: 6px auto 26px; }
+.story-series-next > button { display: flex; flex-wrap: wrap; align-items: center; gap: 4px 12px; width: 100%; min-height: 64px; padding: 12px 18px; border: 1px solid var(--gold); background: rgba(201,154,82,.14); color: #cdb894; font-size: .86rem; text-align: left; cursor: pointer; }
+.story-series-next > button b { color: var(--gold-bright); font-family: var(--display); font-size: 1.1rem; font-weight: 500; }
+.story-series-next > button small { flex-basis: 100%; color: #8fa3ae; font-size: .76rem; }
+.story-series-next > button > span[aria-hidden] { margin-left: auto; color: var(--gold-bright); font-size: 1.2rem; }
+.story-series-next > button:hover { background: rgba(201,154,82,.24); }
+.story-series-next[data-end] { display: flex; flex-wrap: wrap; align-items: center; gap: 8px 14px; padding: 12px 16px; border: 1px solid rgba(116,200,170,.4); background: rgba(116,200,170,.07); }
+.story-series-next[data-end] strong { color: #8fc2b0; font-family: var(--display); font-weight: 500; }
+.story-series-next[data-end] button { min-height: 40px; padding: 4px 12px; border: 1px solid rgba(116,200,170,.4); background: none; color: #9fd8c3; cursor: pointer; }
+@media (max-width: 760px) {
+  .story-series-list { grid-template-columns: none; grid-auto-flow: column; grid-auto-columns: 84%; overflow-x: auto; overscroll-behavior-x: contain; scroll-snap-type: x mandatory; padding: 10px; }
+  .story-series-card { scroll-snap-align: start; }
+  .story-series-bar, .story-series-next { margin-left: 12px; margin-right: 12px; }
+  .story-series-steps { margin-left: 0; }
+}
+@media print {
+  .story-series-shelf, .story-series-steps, .story-series-next { display: none; }
+}
+.deity-other-stories button small.deity-series-part { color: var(--gold); }
+.story-series-parts > summary { min-height: 40px; padding: 8px 0; color: #b9c2c4; font-size: .84rem; cursor: pointer; }
+.story-series-parts > summary:hover { color: var(--gold-bright); }

@@ -75,7 +75,7 @@ export default function StoryReaderTools({
     <section className="story-reader-tools" aria-label={copy.title}>
       <header>
         <div>
-          <span>v0.32</span>
+          <span>v0.33</span>
           <strong>{copy.title}</strong>
           <small>{copy.localOnly}</small>
         </div>
@@ -156,8 +156,8 @@ export default function StoryReaderTools({
           <strong>{copy.offline}</strong>
           <p>{copy.offlineNote}</p>
           <div>
-            <a download href={`${archiveBase}world-mythology-v0.32-story-archive.html`}>{copy.downloadHtml}</a>
-            <a download href={`${archiveBase}world-mythology-v0.32-story-archive.json`}>{copy.downloadJson}</a>
+            <a download href={`${archiveBase}world-mythology-v0.33-story-archive.html`}>{copy.downloadHtml}</a>
+            <a download href={`${archiveBase}world-mythology-v0.33-story-archive.json`}>{copy.downloadJson}</a>
             <button type="button" onClick={() => window.print()}>{copy.print}</button>
           </div>
         </section>

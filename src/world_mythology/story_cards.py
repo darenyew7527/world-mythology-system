@@ -177,6 +177,7 @@ def _rank(predicate: str, order: list[str]) -> int:
 def _primary_story(entity_id: str, story_ids: Iterable[str], stories_by_id: dict[str, dict[str, Any]],
                    deity_claim_ids: set[str]) -> tuple[dict[str, Any], dict[str, Any]] | None:
     best = None
+    by_story: dict[str, tuple] = {}
     for story_id in story_ids:
         story = stories_by_id.get(story_id)
         if not story:
@@ -191,6 +192,15 @@ def _primary_story(entity_id: str, story_ids: Iterable[str], stories_by_id: dict
             score = (anchored, character, -(story.get("featuredOrder") or 9999), -version.get("versionOrder", 0))
             if best is None or score > best[0]:
                 best = (score, story, version)
+            if story["id"] not in by_story or score > by_story[story["id"]][0]:
+                by_story[story["id"]] = (score, story, version)
+    series = best[1].get("series") if best else None
+    if series:
+        # v0.33: when the best story is part of a series, open the first part in which
+        # the deity is anchored, so the card reads forward through the series.
+        anchored_parts = [item for item in by_story.values()
+                          if (item[1].get("series") or {}).get("id") == series["id"] and item[0][0] > 0]
+        best = min(anchored_parts, key=lambda item: item[1]["series"]["partOrder"], default=best)
     return (best[1], best[2]) if best else None
 
 

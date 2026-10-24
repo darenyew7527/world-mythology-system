@@ -26,5 +26,9 @@ The novel's character Rulai, who wagers with Sun Wukong and pins him under the M
   - 来源：[Journey to the West (Wikisource transcription, 100 chapters)](https://zh.wikisource.org/wiki/%E8%A5%BF%E9%81%8A%E8%A8%98)；定位：ch. 7
 - `claim.v0320.xiyouji_havoc.16` [VERIFIED / TEXT_SAYS / 0.90] Rulai reveals the Great Sage's graffiti on his own finger and turns his hand into the Mountain of Five Elements, pinning the monkey beneath it.
   - 来源：[Journey to the West (Wikisource transcription, 100 chapters)](https://zh.wikisource.org/wiki/%E8%A5%BF%E9%81%8A%E8%A8%98)；定位：ch. 7
+- `claim.v0330.xyj_origins.01` [VERIFIED / TEXT_SAYS / 0.90] At the Ullambana feast the Buddha of the novel offers three baskets of scripture (35 works, 15,144 scrolls) for the eastern land and asks for a pilgrim to fetch them; Guanyin volunteers to find one.
+  - 来源：[Journey to the West (Wikisource transcription, 100 chapters)](https://zh.wikisource.org/wiki/%E8%A5%BF%E9%81%8A%E8%A8%98)；定位：ch. 8
+- `claim.v0330.xyj_two_monkeys.12` [VERIFIED / TEXT_SAYS / 0.90] At Thunderclap Monastery the Buddha explains the four monkeys outside the ten categories of beings and names the false Wukong as the six-eared macaque, who hears and knows all things.
+  - 来源：[Journey to the West (Wikisource transcription, 100 chapters)](https://zh.wikisource.org/wiki/%E8%A5%BF%E9%81%8A%E8%A8%98)；定位：ch. 58
 
 > 本档案只代表当前阶段性基线，不是对该传统的最终或唯一解释。

@@ -5,4 +5,5 @@ LOCAL_BOOKMARKS,本机书签,On-device bookmarks,LOCAL_ONLY,0,0,0,0,v0.29.0,Only
 LOCAL_READING_PROGRESS,本机阅读进度,On-device reading progress,LOCAL_ONLY,0,0,0,0,v0.29.0,Section order and update time stay on the reader device and are never exported.
 OFFLINE_PRINT_ARCHIVE,离线打印故事档案,Offline printable story archive,STATIC_PUBLIC_ARTIFACT,0,0,1,1,v0.29.0,Self-contained HTML and JSON contain public source-scoped summaries only; no reading state is embedded.
 READING_POSITION,记住读到哪一章,Remember reading position,LOCAL_ONLY,0,0,0,0,v0.32.0,The last chapter read in each story is stored only in the existing browser-local reader key.
+SERIES_CONTINUE,连载续读,Continue a series,LOCAL_ONLY,0,0,0,0,v0.33.0,Which part of a series to continue is worked out from the reading positions already kept in the browser-local reader key; nothing new is stored.
 STORYTELLER_MODE,讲故事模式,Storyteller mode,LOCAL_ONLY,0,0,0,0,v0.31.0,Text size and note visibility for storyteller mode are stored only in the existing browser-local reader key.

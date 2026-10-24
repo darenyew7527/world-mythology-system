@@ -1,6 +1,9 @@
 entity_id,artifact_type,material_json,appearance_json,abilities_json,limitations_json,usage_conditions_json,creation_summary,fate_summary
 artifact.babylonian.marduk_net,ARTIFACT,[],{},[],[],[],,
+artifact.chinese.bajiao_shan,FAN,"[""plantain leaf (as the novel describes)""]",{},"[""extinguishes fire"", ""raises wind and rain"", ""shrinks to the size of an apricot leaf""]",[],[],"A treasure of the Rākṣasī, formed since the beginning of the world, as she says.",Returned to the Rākṣasī after the fire is put out.
+artifact.chinese.brocade_cassock,GARMENT,"[""brocade"", ""pearls""]",{},"[""spares its wearer rebirth (as the novel says)""]",[],[],From the Buddha's treasures on Spirit Mountain.,Worn by Tang Sanzang on the pilgrimage.
 artifact.chinese.five_colored_stones,NARRATIVE_MATERIAL,"[""stone""]","{""colors"":5}","[""used to patch the sky""]",[],[],Refined by Nüwa in both the Huainanzi Lan Ming and Liezi Tang Wen witnesses.,Used to repair the sky; no material object or cult relic is inferred.
+artifact.chinese.golden_fillet,FILLET,"[""gold""]",{},"[""tightens when the Tight-Fillet Spell is recited""]",[],[],One of three fillets the Buddha gives Guanyin.,Worn by Sun Wukong until the pilgrimage ends.
 artifact.chinese.huntian_ling,ARTIFACT,[],{},[],[],[],,
 artifact.chinese.linglong_pagoda,PAGODA,[],{},"[""traps and burns Nezha until he submits""]",[],[],Given by Randeng Daoren.,Carried by Li Jing.
 artifact.chinese.qiankun_quan,ARTIFACT,[],{},[],[],[],,
@@ -23,6 +26,7 @@ weapon.chinese.ruyi_jingu_bang,WEAPON,[],{},[],[],[],,
 weapon.chinese.xuanyuan_sword,WEAPON,[],{},[],[],[],,
 weapon.greek.apollo_bow,DIVINE_BOW,[],"{""hymn_3"":""Apollo carries a curved bow / 阿波罗持弯弓""}",[],"[""不从一首颂歌外推全部能力 / no unsourced power extrapolation""]",[],,
 weapon.greek.artemis_bow,DIVINE_BOW,[],"{""hymn_27"":""golden shafts / 金箭""}",[],"[""不从一首颂歌外推全部能力 / no unsourced power extrapolation""]",[],,
+weapon.greek.bow_of_odysseus,BOW,"[""horn"", ""wood""]",{},"[""only Odysseus can string it""]",[],[],"A guest-gift from Iphitus, son of Eurytus, when the two met in Messene.",Used by Odysseus to win the contest and to kill the suitors.
 weapon.greek.poseidon_trident,WEAPON,[],{},[],[],[],,
 weapon.greek.zeus_thunderbolt,WEAPON,[],{},[],[],[],,
 weapon.hindu.pashupatastra,WEAPON,[],{},[],[],[],,
