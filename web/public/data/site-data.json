@@ -1226,10 +1226,10 @@
       {
         "builtAt": "2026-10-24T03:00:00Z",
         "dataVersion": "0.33.0",
-        "databaseSha256": null,
-        "gitCommit": null,
+        "databaseSha256": "2bd1ae84c2f33c826f06323f71274e793a8957e9ce1f0d58f1730c81838d34b6",
+        "gitCommit": "bf172e8469b805a78a034c3005ac1c74b3c0c030",
         "id": "release.v0.33.0",
-        "releaseNotes": "Story series: Journey to the West in six parts (ch. 1-22, 27-31, 56-61; 91 chapters), the Rāmāyaṇa book by book (Books I-VI; 87 chapters) and the Odyssey in two parts (Books I-XXIV; 32 chapters). Each part is a complete long story whose sections follow one located public witness; the series records each part's source span and names skipped chapters. Readers get a series shelf, part X of N, previous/next part and continue-to-next-part; the part to continue is worked out from existing on-device reading positions.",
+        "releaseNotes": "Story series: Journey to the West in six parts (ch. 1-22, 27-31, 56-61; 91 chapters), the Rāmāyaṇa book by book (Books I-VI; 87 chapters) and the Odyssey in two parts (Books I-XXIV; 32 chapters). Each part is a complete long story whose sections follow one located public witness; the series records each part's source span and names skipped chapters. Readers get a series shelf, part X of N, previous/next part and continue-to-next-part; the part to continue is worked out from existing on-device reading positions. Source commit stamped; database_sha256 is the pre-stamp snapshot digest.",
         "schemaVersion": 48
       }
     ],
@@ -201461,10 +201461,10 @@
     "datasetRelease": {
       "built_at": "2026-10-24T03:00:00Z",
       "data_version": "0.33.0",
-      "database_sha256": null,
-      "git_commit": null,
+      "database_sha256": "2bd1ae84c2f33c826f06323f71274e793a8957e9ce1f0d58f1730c81838d34b6",
+      "git_commit": "bf172e8469b805a78a034c3005ac1c74b3c0c030",
       "id": "release.v0.33.0",
-      "release_notes": "Story series: Journey to the West in six parts (ch. 1-22, 27-31, 56-61; 91 chapters), the Rāmāyaṇa book by book (Books I-VI; 87 chapters) and the Odyssey in two parts (Books I-XXIV; 32 chapters). Each part is a complete long story whose sections follow one located public witness; the series records each part's source span and names skipped chapters. Readers get a series shelf, part X of N, previous/next part and continue-to-next-part; the part to continue is worked out from existing on-device reading positions.",
+      "release_notes": "Story series: Journey to the West in six parts (ch. 1-22, 27-31, 56-61; 91 chapters), the Rāmāyaṇa book by book (Books I-VI; 87 chapters) and the Odyssey in two parts (Books I-XXIV; 32 chapters). Each part is a complete long story whose sections follow one located public witness; the series records each part's source span and names skipped chapters. Readers get a series shelf, part X of N, previous/next part and continue-to-next-part; the part to continue is worked out from existing on-device reading positions. Source commit stamped; database_sha256 is the pre-stamp snapshot digest.",
       "schema_version": 48
     },
     "deityStoryCardStatusCounts": {
