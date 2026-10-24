@@ -8,6 +8,8 @@ artifact.chinese.huntian_ling,ARTIFACT,[],{},[],[],[],,
 artifact.chinese.linglong_pagoda,PAGODA,[],{},"[""traps and burns Nezha until he submits""]",[],[],Given by Randeng Daoren.,Carried by Li Jing.
 artifact.chinese.qiankun_quan,ARTIFACT,[],{},[],[],[],,
 artifact.egyptian.solar_barque,SHIP,[],{},[],[],[],,
+artifact.finnish.kantele,MUSICAL_INSTRUMENT,"[""pike's jawbone"", ""pike's teeth"", ""horsehair""]",{},"[""music that enchants all creatures""]",[],[],,Lost in the sea during Louhi's storm
+artifact.finnish.sampo,WONDER_MILL,"[""swan's feather tip"", ""milk"", ""barley"", ""wool""]",{},"[""grinds grain and wealth""]",[],[],,Shattered; fragments wash ashore at Kalevala
 artifact.greek.aegis,DIVINE_ARMOR,[],"{""iliad_5"":""Athena wears the tasselled aegis / 雅典娜披挂流苏埃癸斯""}",[],"[""术语含义与物件形态需按文本和图像分别研究 / form and terminology remain witness-specific""]",[],,
 artifact.greek.argo,SHIP,"[""pine"", ""Dodonian oak""]",{},"[""a beam that speaks with a human voice""]",[],[],Built by Argus with Athena's guidance at Pagasae.,Returns to Pagasae with the fleece.
 artifact.greek.caduceus,SCEPTER,[],{},[],[],[],,
@@ -15,6 +17,7 @@ artifact.greek.golden_fleece,FLEECE,"[""gold""]",{},"[""shines like lightning""]
 artifact.greek.helm_hades,ARMOR,[],{},[],[],[],,
 artifact.hindu.amrita,DIVINE_ELIXIR,"[""nectar""]",{},"[""immortality""]",[],[],Produced by churning the ocean in both registered textual witnesses.,Seized by the asuras and recovered for the gods through Viṣṇu's female form in both witnesses.
 artifact.irish.dagda_cauldron,CAULDRON,[],{},"[""no company ever went away from it unsatisfied""]",[],[],Brought from the city of Murias (§6).,
+artifact.japanese.tide_jewels,JEWELS,"[""jewel""]",{},"[""make the tide flow"", ""make the tide ebb""]",[],[],,Used to subdue Hoderi
 artifact.mesopotamian.tablet_destinies,ARTIFACT,[],{},[],[],[],,
 artifact.norse.andvaranaut,RING,"[""gold""]",{},"[""multiplies wealth (in Snorri)"", ""carries Andvari's curse""]",[],[],Kept back by Andvari from his hoard until Loki took it.,"Given by Sigurðr to Brynhildr, taken back in Gunnarr's shape and given to Guðrún."
 artifact.norse.draupnir,RING,[],{},[],[],[],,

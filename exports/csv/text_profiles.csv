@@ -59,6 +59,7 @@ text.egypt.pyramid_texts,FUNERARY_CORPUS,lang.egy,Multiple,,Old Kingdom onward,,
 text.egypt.sun_hymn_standard_c_prime,Sun hymn,lang.egy,,Assmann scholarly classification,New Kingdom hymn tradition,UCL page presents a transliterated and translated witness,Section-level hymn within the Chapter 15 research entry,UCL Digital Egypt,,Ancient text public domain; UCL edition and translation rights apply,The registered passage addresses Ra in rising with the composite form Atum-Horakhty.
 text.egypt.temple_tomb_inscriptions,CORPUS_SCOPE,lang.egy,,,Multiple periods,,,,,,
 text.egyptian.tale_heavenly_cow,RELIGIOUS_COMPOSITION,lang.egy,,,New Kingdom,,,,,,"Rebellion against Ra, the Eye of Ra as Sekhmet, the red beer and the return to Hathor."
+text.finnish.kalevala,EPIC,lang.fin,,,Compiled 1835; expanded edition 1849,"Lönnrot's printed editions of 1835 and 1849, drawn from runes collected in Finland and Karelia",Fifty runes (1849 edition),,,Nineteenth-century text in the public domain,"Creation, Väinämöinen and Joukahainen, the forging and theft of the Sampo, Lemminkäinen, Kullervo and Marjatta."
 text.greek.apollodorus_library,MYTHOGRAPHIC_COMPILATION,lang.grc,Pseudo-Apollodorus,,Commonly dated to the first or second century CE,,Books and numbered sections,,,Ancient text public domain; digital editions retain presentation terms,Genealogical and narrative compendium with separate Perses contexts.
 text.greek.argonautica,EPIC,lang.grc,Apollonius of Rhodes,,Hellenistic,,,,,,
 text.greek.bibliotheca,MYTHOGRAPHY,lang.grc,Pseudo-Apollodorus,,Roman imperial period,,,,,,

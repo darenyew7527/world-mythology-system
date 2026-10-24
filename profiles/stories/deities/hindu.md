@@ -756,6 +756,124 @@
 
 ---
 
+## 阎摩 · Yama
+
+**有完整故事 / Full story**
+
+完整故事档案：[story.hindu.savitri_satyavan](../story.hindu.savitri_satyavan.md)
+
+> *God of death and of dharma, who comes himself with his noose for Satyavān's life and, moved by Sāvitrī's words as she follows him, grants her boons until he restores her husband (Mahābhārata, Vana Parva, Pativratā-māhātmya; also a suitor god in the Nala story).*
+
+**长篇故事 · 13 章**
+
+目录：01 马主王的祈求 · 02 女神的恩赐 · 03 自己去选 · 04 那罗陀的预言 · 05 不改的心意 · 06 林中的婚姻 · 07 三夜的斋戒 · 08 最后一天 · 09 阎摩的绳索 · 10 跟随死神 · 11 五个恩惠 · 12 黑夜里的归途 · 13 净修林中的光明
+
+### 1. 马主王的祈求 / King Aśvapati's prayer
+
+坚战在森林里问仙人摩根德耶：世上可曾有过像我们的黑公主那样贤德、那样忠于丈夫的女子？摩根德耶说：有的，大王，请听莎维德丽的故事。从前，摩德罗国有一位国王，名叫马主王。他虔诚守法，慷慨仁慈，深受百姓爱戴，只有一件心事：他已经年老，却没有一个孩子。为了求得子嗣，他严格地守戒、节制饮食，每天念诵十万遍莎维德丽祷词，向祭火献上供品，只在每天的第六个时辰进一点食物。他这样坚持了整整十八年。到了第十八年，女神莎维德丽被他的虔诚打动，从祭火中现出身形，满面喜悦地对他说：国王，我对你的苦行、你的守戒和你的虔诚都很满意。你想要什么恩惠，就说吧，只是不要违背正法。这个故事收在《森林篇》里，名为“贞妇颂”，意思是称颂忠贞妻子的篇章。坚战之所以这样问，是因为黑公主曾在俱卢族的大殿上受尽屈辱，却始终坚定地站在丈夫们一边。
+
+*In the forest Yudhiṣṭhira asked the sage Mārkaṇḍeya: 'Has there ever been a woman as virtuous and as devoted to her husband as our Draupadī?' 'There has, king,' said Mārkaṇḍeya; 'hear the story of Sāvitrī. Long ago in the land of Madra there was a king named Aśvapati, righteous, generous and kind, beloved of his people. He had one sorrow: he was growing old and had no child. To win offspring he kept strict vows and fasting, recited the Sāvitrī prayer a hundred thousand times a day, made offerings into the sacred fire, and ate only a little at the sixth hour. So he persevered for eighteen full years. In the eighteenth year the goddess Sāvitrī, pleased with his devotion, rose in bodily form from the sacrificial fire and said to him joyfully: King, I am pleased with your austerities, your vows and your devotion. Ask whatever boon you wish, only let it not go against dharma.' The story stands in the Forest Book under the name Pativratā-māhātmya, the glory of the faithful wife. Yudhiṣṭhira asks because Draupadī had suffered humiliation in the Kuru hall yet stood steadfast beside her husbands.*
+
+<sub>来源 / Source：The Mahabharata of Krishna-Dwaipayana Vyasa, tr. Kisari Mohan Ganguli (1883–1896) · Vana Parva, Sections CCXCI–CCXCVII · 《摩诃婆罗多·森林篇》贞妇颂第二百九十一节（甘古利译本）。</sub>
+
+### 2. 女神的恩赐 / The goddess's gift
+
+马主王说：女神啊，我所求的只是子嗣，为了延续家族，我才守戒修行。婆罗门们告诉我，子嗣是最大的功德。如果你满意，就请赐给我许多儿子吧。女神说：国王，我已经知道你的心意，也已经为你向梵天说过了。由于梵天的恩典，你很快就会有一个光彩照人的女儿。这是自生者梵天的旨意，你不要再说什么了。说完，女神就消失了。不久，王后怀了孕，生下一个女儿，眼睛像莲花一样美丽。因为她是女神莎维德丽所赐，父亲和婆罗门们就给她取名叫莎维德丽。公主一天天长大，美丽得像天上的吉祥天女，人们看见她，都以为是一位天上的女神下凡来了。她的光芒就像祭火一样明亮，让人不敢直视。女神莎维德丽本是那首每天念诵的祷词的化身，公主就以她的名字为名，仿佛她本身就是一句祈祷的回应。
+
+*Aśvapati said: 'Goddess, I ask only for offspring; it was for the continuance of my line that I kept these vows. The brahmins tell me offspring is the highest merit. If you are pleased, grant me many sons.' The goddess said: 'King, I knew your wish and have already spoken for you to Brahmā. By his grace you will soon have a radiant daughter. This is the will of the Self-born; say no more.' With that the goddess vanished. Soon the queen conceived and bore a daughter with eyes as lovely as lotuses. Because she was the goddess Sāvitrī's gift, her father and the brahmins named her Sāvitrī. The princess grew up as beautiful as Śrī, goddess of fortune, and those who saw her thought a goddess had come down from heaven. Her radiance was as bright as the sacrificial fire, so that people could hardly look at her. The goddess Sāvitrī is the embodiment of the prayer recited each day, and the princess bore her name as though she were herself the answer to a prayer.*
+
+<sub>来源 / Source：The Mahabharata of Krishna-Dwaipayana Vyasa, tr. Kisari Mohan Ganguli (1883–1896) · Vana Parva, Sections CCXCI–CCXCVII · 《摩诃婆罗多·森林篇》贞妇颂第二百九十一节（甘古利译本）。</sub>
+
+### 3. 自己去选 / Sent to choose for herself
+
+莎维德丽到了出嫁的年纪，可她的美丽和光彩让所有的人都望而却步，竟然没有一个人敢来向她求婚。有一天，她斋戒沐浴，在祭火前礼拜之后，捧着供过神的花环来到父亲面前，向父亲行礼。马主王看着已经长大的女儿，心中忧愁，对她说：女儿，你出嫁的时候到了，可是没有人来向你求婚。我自己也找不到配得上你的人。圣典上说，女儿到了年纪而父亲不让她出嫁，父亲是要受责备的。所以，你自己去吧，去寻找一个与你相配的丈夫，选中了谁，就告诉我，我会按你的心意把你嫁给他。马主王派了年老的大臣陪伴她，给了她车辆和随从。莎维德丽向父亲行了礼，乘上金车，出发去拜访各地的王家仙人的净修林，在那些圣地中寻找自己的夫婿。她走遍了许多圣地，在每一处都向婆罗门布施财物，在一座座净修林之间寻访。
+
+*Sāvitrī came of age to marry, but her beauty and radiance daunted everyone, and no one dared to ask for her hand. One day, after fasting and bathing and worshipping before the sacred fire, she came to her father carrying the garland that had been offered to the gods and bowed to him. Aśvapati looked at his grown daughter with a troubled heart and said: 'Daughter, your time to marry has come, but no one comes to seek you, and I myself can find no one worthy of you. The scriptures blame a father who does not give his daughter in marriage when she is of age. So go yourself and seek a husband who is your equal; tell me whom you choose, and I will give you to him as you wish.' He sent old ministers with her and gave her chariots and attendants. Sāvitrī bowed to her father, mounted a golden chariot, and set out to visit the hermitages of the royal sages, seeking her husband among those holy places. She travelled to many holy places, giving wealth to the brahmins at each, and went from hermitage to hermitage.*
+
+<sub>来源 / Source：The Mahabharata of Krishna-Dwaipayana Vyasa, tr. Kisari Mohan Ganguli (1883–1896) · Vana Parva, Sections CCXCI–CCXCVII · 《摩诃婆罗多·森林篇》贞妇颂第二百九十一节（甘古利译本）。</sub>
+
+### 4. 那罗陀的预言 / Nārada's prophecy
+
+过了一些日子，莎维德丽回来了。她走进宫殿时，仙人那罗陀正坐在马主王的身边谈话。马主王问女儿选中了谁。莎维德丽说：沙尔瓦国有一位国王，名叫迪尤摩特舍那，他双目失明以后，被宿敌夺走了王国，带着妻子和年幼的儿子流落到森林里，在那里过着苦行者的生活。他的儿子生在城里，长在净修林里，名叫萨谛梵。我心里已经选定他做我的丈夫。那罗陀听了，叹息说：哎呀，莎维德丽做了一件不幸的事。萨谛梵的父亲说话诚实，母亲说话诚实，所以婆罗门给他取名萨谛梵，意思是“说真话的人”。他光彩如太阳，智慧如祭主，勇敢如因陀罗，宽厚如大地，慷慨、守法、英俊。马主王问：那么他有什么缺点吗？那罗陀说：他只有一个缺点，没有别的：从今天算起，一年以后，萨谛梵的寿命就要终结，他会离开这个世界。
+
+*Some time later Sāvitrī returned. When she entered the palace, the sage Nārada was sitting and talking with Aśvapati. Her father asked whom she had chosen. She said: 'In the land of Śālva there was a king named Dyumatsena. When he went blind, an old enemy seized his kingdom, and he went into the forest with his wife and his young son to live as an ascetic. His son, born in the city and raised in the hermitage, is named Satyavān. In my heart I have chosen him for my husband.' Hearing this, Nārada sighed: 'Alas, Sāvitrī has done an unhappy thing. His father speaks truth and his mother speaks truth, so the brahmins named him Satyavān, the truthful one. He is as radiant as the sun, as wise as Bṛhaspati, as brave as Indra, as patient as the earth, generous, righteous and handsome.' 'Has he then any fault?' asked Aśvapati. Nārada said: 'One fault only and no other: a year from today, Satyavān's life will end and he will leave this world.'*
+
+<sub>来源 / Source：The Mahabharata of Krishna-Dwaipayana Vyasa, tr. Kisari Mohan Ganguli (1883–1896) · Vana Parva, Sections CCXCI–CCXCVII · 《摩诃婆罗多·森林篇》贞妇颂第二百九十二节（甘古利译本）。</sub>
+
+### 5. 不改的心意 / A choice made once
+
+马主王听了，对女儿说：莎维德丽，你去另选一个丈夫吧，萨谛梵这个缺点盖过了他所有的美德，一年之后他就会死去。莎维德丽回答说：父亲，一个人一生只能分一次家产，女儿一生只能嫁一次，一个人一生只能说一次“我给你”——这三件事都只做一次。不管他是长寿还是短命，有德还是无德，我已经选定了丈夫，就绝不会再选第二个。心里决定的事，嘴里说出来，再用行动去做，我的心已经认定了他。那罗陀说：国王，你女儿的心意坚定，不会改变正法的道路。萨谛梵的美德别人都没有，就把女儿嫁给他吧。马主王说：仙人的话是不可违背的，就这样办吧。那罗陀祝福了他们，升上天空，回到了天界。马主王本想劝女儿回心转意，听了这番话，也明白再说什么都是徒劳的。一年的期限，从这一天就开始计算了。
+
+*Aśvapati said to his daughter: 'Sāvitrī, go and choose another husband. This one fault outweighs all Satyavān's virtues: in a year he will die.' Sāvitrī answered: 'Father, an inheritance is divided only once, a daughter is given in marriage only once, and a man says I give only once — these three things happen once. Whether he is long-lived or short-lived, virtuous or not, I have chosen my husband once, and I will not choose a second. What the mind resolves, the tongue speaks and the deed performs; my mind has fixed on him.' Nārada said: 'King, your daughter's mind is firm and will not stray from the path of dharma. No one else has Satyavān's virtues; give her to him.' 'The sage's word cannot be set aside,' said Aśvapati; 'so be it.' Nārada blessed them, rose into the sky and returned to heaven. Aśvapati had hoped to change his daughter's mind, but after these words he knew further argument was useless. The year began to run from that day.*
+
+<sub>来源 / Source：The Mahabharata of Krishna-Dwaipayana Vyasa, tr. Kisari Mohan Ganguli (1883–1896) · Vana Parva, Sections CCXCI–CCXCVII · 《摩诃婆罗多·森林篇》贞妇颂第二百九十二节（甘古利译本）。</sub>
+
+### 6. 林中的婚姻 / A marriage in the forest
+
+马主王选了一个吉日，带着婆罗门和祭司，用车载着结婚的用品，带着莎维德丽来到迪尤摩特舍那所住的净修林。他看见那位盲眼的国王坐在一棵娑罗树下的草垫上，就上前行礼，说明了来意。迪尤摩特舍那说：我们失去了王国，住在森林里，过着苦行者的生活，你的女儿怎能忍受这里的艰苦？马主王说：我的女儿和我都知道幸福和苦难是会来去的，她不会在乎这些。我满怀希望而来，请不要拒绝我。迪尤摩特舍那答应了。于是在净修林里，当着所有婆罗门的面，莎维德丽和萨谛梵举行了婚礼。父亲走后，莎维德丽脱下了华丽的衣服和首饰，换上了树皮衣和红褐色的布衣，像苦行者一样生活。她侍奉公婆，温柔谦恭，节制言语，用她的品德让萨谛梵和他的父母都满心欢喜。
+
+*On an auspicious day Aśvapati, with brahmins and priests and chariots laden with things for the wedding, brought Sāvitrī to the hermitage where Dyumatsena lived. Finding the blind king seated on a mat of grass beneath a sal tree, he bowed and made known his purpose. Dyumatsena said: 'We have lost our kingdom and live in the forest as ascetics; how could your daughter bear the hardships here?' Aśvapati answered: 'My daughter and I know that happiness and misery come and go; she will not mind them. I have come full of hope; do not refuse me.' Dyumatsena agreed, and in the hermitage, before all the brahmins, Sāvitrī and Satyavān were married. When her father had gone, Sāvitrī laid aside her fine clothes and ornaments and put on bark and a garment of reddish-brown cloth, living as an ascetic. She served her husband's parents, gentle and modest and sparing of speech, and her virtues filled Satyavān and his parents with joy.*
+
+<sub>来源 / Source：The Mahabharata of Krishna-Dwaipayana Vyasa, tr. Kisari Mohan Ganguli (1883–1896) · Vana Parva, Sections CCXCI–CCXCVII · 《摩诃婆罗多·森林篇》贞妇颂第二百九十三节（甘古利译本）。</sub>
+
+### 7. 三夜的斋戒 / The three-night fast
+
+日子一天天过去，在快乐的净修林生活里，莎维德丽的心中却始终压着那罗陀的话，日日夜夜地数着日子。她没有把这件事告诉任何人。终于，离萨谛梵的死期只剩下四天了。莎维德丽决定守“三夜之誓”：三天三夜不吃不喝，站立着守戒。迪尤摩特舍那听说了，忧心地对她说：公主，你立下的誓太艰苦了，三夜不吃不喝，实在难以做到。莎维德丽说：父亲，不要担心，我一定能守完这个誓言，这是我用决心立下的。迪尤摩特舍那说：我不能叫你破誓，我只能说：愿你完成它。莎维德丽一动不动地站着，像一根木头一样，度过了三天三夜。到了第四天，就是萨谛梵要死去的那一天。她想：今天就是那一天了。她清早起来，献了供，向年长的婆罗门们和公婆一一行礼，接受他们“愿你永不守寡”的祝福，默默地在心里接受了这句话。
+
+*The days went by in the happy hermitage life, but Nārada's words weighed on Sāvitrī's heart, and day and night she counted the days, telling no one. At last only four days remained before Satyavān's death. Sāvitrī resolved to keep the three-night vow: three days and nights without food or drink, standing. Hearing of it, Dyumatsena said anxiously: 'Princess, this vow is too hard; three nights without food or drink is almost impossible.' 'Do not fear, father,' she said; 'I will keep this vow; it is made with resolve.' Dyumatsena said: 'I cannot tell you to break your vow; I can only say, may you fulfil it.' Sāvitrī stood motionless as a post through three days and nights. The fourth day was the day Satyavān was to die. 'Today is the day,' she thought. She rose early, made her offerings, bowed to the elder brahmins and to her husband's parents, and received their blessing, may you never be a widow — which she silently accepted in her heart.*
+
+<sub>来源 / Source：The Mahabharata of Krishna-Dwaipayana Vyasa, tr. Kisari Mohan Ganguli (1883–1896) · Vana Parva, Sections CCXCI–CCXCVII · 《摩诃婆罗多·森林篇》贞妇颂第二百九十四节（甘古利译本）。</sub>
+
+### 8. 最后一天 / The last day
+
+那一天，萨谛梵扛起斧头，要到林中去砍柴、采果子。莎维德丽说：今天我也跟你一起去，我不愿意离开你。萨谛梵说：你从来没有进过森林，林中的路难走，你又斋戒了三天，身体虚弱，怎么能走路呢？莎维德丽说：斋戒并没有让我疲倦，我很想去，请你不要阻止我。萨谛梵说：那你就去问问我的父母，他们同意了，我就不会怪你。莎维德丽去请求公婆，说：我的丈夫要进林去采果子，我想跟他一起去。我嫁过来已经快一年了，还从来没有看过林中开花的景象。公婆答应了。于是莎维德丽跟着丈夫走进了森林。萨谛梵一路指给她看孔雀，看清澈的溪流，看开满鲜花的树木，莎维德丽微笑着应答，心里却像被撕裂了一样，时时刻刻注视着丈夫，想着那罗陀的话，觉得他此刻就已经是一个将死的人。
+
+*That day Satyavān shouldered his axe to go into the forest for wood and fruit. 'I will come with you today,' said Sāvitrī; 'I do not want to leave you.' 'You have never been into the forest,' said Satyavān; 'the paths are hard, and you are weak from three days of fasting; how can you walk?' 'Fasting has not wearied me,' she said; 'I long to go; do not stop me.' 'Then ask my parents,' said he; 'if they agree, I will not blame you.' She went to them and said: 'My husband is going into the forest for fruit, and I wish to go with him. I have been married almost a year and have never seen the forest in flower.' They gave their consent. So Sāvitrī went into the forest with her husband. All along the way Satyavān pointed out the peacocks, the clear streams and the trees in blossom, and Sāvitrī answered with a smile, while her heart was torn, her eyes always on her husband, thinking of Nārada's words and seeing him already as a man about to die.*
+
+<sub>来源 / Source：The Mahabharata of Krishna-Dwaipayana Vyasa, tr. Kisari Mohan Ganguli (1883–1896) · Vana Parva, Sections CCXCI–CCXCVII · 《摩诃婆罗多·森林篇》贞妇颂第二百九十四节（甘古利译本）。</sub>
+
+### 9. 阎摩的绳索 / Yama's noose
+
+萨谛梵采了果子，装满了篮子，又开始砍柴。砍着砍着，他浑身冒汗，头痛得厉害，对莎维德丽说：我砍柴砍得头痛，四肢也痛，心里像被火烧一样，我好像病了，站也站不住，我想睡一会儿。莎维德丽走过去，坐在地上，把丈夫的头放在自己的膝上。她知道，那罗陀所说的时刻已经到了。就在这时，她看见一个人站在面前：他穿着红衣，头戴王冠，身躯高大，光芒像太阳一样耀眼，皮肤黝黑，眼睛发红，手里拿着一根绳索，样子令人畏惧。他站在萨谛梵身旁，注视着他。莎维德丽轻轻放下丈夫的头，站起来，双手合十，颤抖着问：您是哪一位天神？来做什么？那人说：莎维德丽，你忠于丈夫，又有苦行的功德，所以我才和你说话。我是阎摩。你丈夫的寿命已经到了，我要把他带走。他是有德之人，所以我亲自来，没有派我的使者。说完，阎摩从萨谛梵的身体里，用绳索拉出一个拇指大小的灵魂，带着他向南方走去。
+
+*Satyavān gathered fruit and filled his basket, then began to cut wood. As he worked he broke into a sweat and his head ached sorely. 'Cutting wood has given me a headache,' he said to Sāvitrī; 'my limbs ache and my heart burns; I feel ill and cannot stand; I want to sleep.' Sāvitrī sat down on the ground and took her husband's head into her lap. She knew the hour Nārada had spoken of had come. Then she saw a figure standing before her, clad in red, crowned, tall, radiant as the sun, dark of skin and red of eye, holding a noose, fearful to look upon. He stood beside Satyavān, gazing at him. Sāvitrī gently laid her husband's head down, rose, joined her palms and asked trembling: 'Which god are you, and why have you come?' He said: 'Sāvitrī, you are devoted to your husband and rich in austerity, so I speak to you. I am Yama. Your husband's span is ended and I must take him. Because he is virtuous I have come myself and not sent my messengers.' Then with his noose Yama drew from Satyavān's body a soul the size of a thumb, and set off with it towards the south.*
+
+<sub>来源 / Source：The Mahabharata of Krishna-Dwaipayana Vyasa, tr. Kisari Mohan Ganguli (1883–1896) · Vana Parva, Sections CCXCI–CCXCVII · 《摩诃婆罗多·森林篇》贞妇颂第二百九十五节（甘古利译本）。</sub>
+
+### 10. 跟随死神 / Following death
+
+莎维德丽悲伤地跟在阎摩身后走去。阎摩回过头说：回去吧，莎维德丽，去为他举行葬礼。你已经尽了妻子的责任，你能走到的地方已经到了尽头。莎维德丽说：我的丈夫被带到哪里，我就该跟到哪里，这是永恒的正法。凭着我的苦行、我对长辈的敬重、我对丈夫的爱、我的守誓，以及你的恩典，我的路不会被阻挡。智者说，同行七步，就成了朋友。凭着这份友谊，请听我说几句话。接着，她谈起了自制、守法与善人之道。阎摩听了很高兴，说：你说得好，你可以向我求一个恩惠，除了萨谛梵的生命。莎维德丽说：我的公公双目失明，被逐出王国，住在林中。请让他恢复视力，变得像太阳一样强壮。阎摩说：我答应你。现在回去吧，你走得太累了。莎维德丽说：跟在丈夫身边，我怎么会累？丈夫去哪里，我就去哪里。
+
+*Sorrowing, Sāvitrī followed Yama. He turned and said: 'Go back, Sāvitrī, and perform his funeral rites. You have done your duty as a wife; you have come as far as you may.' Sāvitrī said: 'Wherever my husband is taken, there I must go; that is the eternal dharma. By my austerity, my reverence for elders, my love for my husband, my vows and your grace, my way cannot be barred. The wise say that seven steps taken together make friends. By that friendship, hear a few words of mine.' And she spoke of self-restraint, of dharma and of the way of the good. Pleased, Yama said: 'You speak well. Ask me a boon — anything except Satyavān's life.' Sāvitrī said: 'My father-in-law is blind and exiled from his kingdom, living in the forest. Let him regain his sight and become strong as the sun.' 'I grant it,' said Yama. 'Now go back; you are weary from walking.' Sāvitrī said: 'How can I be weary at my husband's side? Where my husband goes, there I go.'*
+
+<sub>来源 / Source：The Mahabharata of Krishna-Dwaipayana Vyasa, tr. Kisari Mohan Ganguli (1883–1896) · Vana Parva, Sections CCXCI–CCXCVII · 《摩诃婆罗多·森林篇》贞妇颂第二百九十五节（甘古利译本）。</sub>
+
+### 11. 五个恩惠 / Five boons
+
+莎维德丽一边走，一边继续说话：与善人相处，哪怕只有一次，也是值得追求的；和善人交朋友，比什么都可贵，所以人应该和善人在一起。阎摩说：你的话对智者也有益处，再求一个恩惠吧，除了萨谛梵的生命。莎维德丽说：请让我的公公重新得到失去的王国，不再偏离正法。阎摩答应了，又让她回去。她又说起了正法与慈悲，阎摩又赐她第三个恩惠：她求父亲马主王得到一百个儿子，延续家族。阎摩答应了，说：你已经走得太远了，回去吧。她又赞美阎摩是正法之王，以公正对待众生，阎摩被打动了，说：你说出的话是我从未听过的，求第四个恩惠吧，除了萨谛梵的生命。莎维德丽说：请让我和萨谛梵生下一百个儿子，强壮而勇敢，延续我们两家的血脉。阎摩说：我答应你，你会有一百个儿子。莎维德丽说：正法之王啊，你已经许诺我会和萨谛梵生下一百个儿子，可是没有萨谛梵，这个恩惠怎能实现？我不求别的，只求萨谛梵活过来，否则我宁愿像死了一样。阎摩终于说：好吧，我解开绳索，把你的丈夫还给你。
+
+*As she walked Sāvitrī spoke on: 'To meet the good even once is to be sought; friendship with the good is above all things; so one should keep company with the good.' 'Your words profit even the wise,' said Yama; 'ask a second boon, except Satyavān's life.' 'Let my father-in-law regain his lost kingdom and never stray from dharma.' Yama granted it and again bade her return. She spoke of dharma and compassion, and he gave her a third boon: she asked that her father Aśvapati might have a hundred sons to continue his line. 'Granted,' said Yama; 'you have come too far; go back.' She praised him as the king of dharma who deals justly with all beings, and Yama, moved, said: 'Such words I have never heard; ask a fourth boon, except Satyavān's life.' Sāvitrī said: 'Let Satyavān and me have a hundred sons, strong and brave, to continue both our lines.' 'Granted; you shall have a hundred sons.' Then Sāvitrī said: 'King of dharma, you have promised me a hundred sons by Satyavān; how can that boon be fulfilled without Satyavān? I ask nothing else — only that Satyavān live; without him I am as one dead.' At last Yama said: 'So be it. I loosen the noose and give you back your husband.'*
+
+<sub>来源 / Source：The Mahabharata of Krishna-Dwaipayana Vyasa, tr. Kisari Mohan Ganguli (1883–1896) · Vana Parva, Sections CCXCI–CCXCVII · 《摩诃婆罗多·森林篇》贞妇颂第二百九十五节（甘古利译本）。</sub>
+
+### 12. 黑夜里的归途 / The way home through the night
+
+阎摩解开了绳索，带着灵魂离去，并告诉莎维德丽，萨谛梵将活四百年，与她一起享受幸福。莎维德丽回到丈夫躺着的地方，坐在地上，又把他的头放在膝上。萨谛梵醒了过来，像一个远行归来的人，深情地看着妻子，说：我睡了好久，你为什么不叫醒我？那个拉着我的黑色的人去了哪里？莎维德丽说：你在我的膝上睡了很久，那位神就是阎摩，他已经走了。天已经黑了，明天我再把一切告诉你。萨谛梵站起来，看见四周一片漆黑，说：我的父母一定在为我担心，他们年老体弱，我晚回去一会儿，他们就会焦急万分。他一想到父母，就哭了起来。莎维德丽替他擦干眼泪，扶着他，把他的斧头扛在自己肩上，把装满果子的篮子挂在树枝上，两人借着星光，在黑夜的森林里摸索着往回走。
+
+*Yama loosened the noose and departed, telling Sāvitrī that Satyavān would live four hundred years and share happiness with her. Sāvitrī went back to where her husband lay, sat down and took his head into her lap again. Satyavān woke like one returned from a long journey, looked lovingly at his wife and said: 'I have slept a long time; why did you not wake me? Where is that dark man who was dragging me away?' 'You slept long in my lap,' said Sāvitrī; 'that god was Yama, and he has gone. It is night now; tomorrow I will tell you everything.' Satyavān rose and saw darkness all around. 'My parents must be anxious,' he said; 'they are old and frail, and if I am even a little late they grow frantic.' Thinking of them, he wept. Sāvitrī dried his tears and supported him, put his axe on her own shoulder and hung the basket of fruit on a branch, and the two felt their way home through the dark forest by starlight.*
+
+<sub>来源 / Source：The Mahabharata of Krishna-Dwaipayana Vyasa, tr. Kisari Mohan Ganguli (1883–1896) · Vana Parva, Sections CCXCI–CCXCVII · 《摩诃婆罗多·森林篇》贞妇颂第二百九十六节（甘古利译本）。</sub>
+
+### 13. 净修林中的光明 / Light in the hermitage
+
+就在那天，盲王迪尤摩特舍那忽然重见了光明。他和妻子却因为儿子和媳妇迟迟未归而焦急万分，到处寻找，在净修林附近的河边和树林里奔走呼唤。林中的婆罗门们安慰他们说：莎维德丽守过苦行，品德高尚，她的丈夫一定活着；你重见光明，正是吉祥的征兆。萨谛梵和莎维德丽终于在夜里回到了净修林，众人围坐在火边，问他们为什么回来得这么晚。萨谛梵说他在林中头痛睡着了。婆罗门们说：你父亲突然复明，其中的缘故你并不知道，莎维德丽应该告诉我们。莎维德丽就把那罗陀的预言、三夜的斋戒、阎摩的到来和五个恩惠一一说了出来。第二天早晨，沙尔瓦国的大臣们来到净修林，报告说：篡位的人已经被他的大臣杀死，百姓请迪尤摩特舍那回去做国王。迪尤摩特舍那回到了王国，后来马主王果然有了一百个儿子，莎维德丽也生下了一百个儿子。摩根德耶对坚战说：莎维德丽就是这样用她的德行救了自己、父母、公婆和丈夫，黑公主也会这样拯救你们。
+
+*That same day the blind king Dyumatsena suddenly regained his sight. But he and his wife were frantic because their son and daughter-in-law had not come home, and searched by the rivers and woods near the hermitage, calling. The brahmins of the forest comforted them: 'Sāvitrī is rich in austerity and virtue; her husband must be alive; your regaining your sight is an auspicious sign.' At last, in the night, Satyavān and Sāvitrī reached the hermitage, and all sat round the fire and asked why they were so late. Satyavān said he had fallen asleep in the forest with a headache. The brahmins said: 'You do not know why your father has suddenly regained his sight; Sāvitrī should tell us.' Then Sāvitrī told them of Nārada's prophecy, her three-night fast, Yama's coming and the five boons. The next morning ministers came from Śālva to say that the usurper had been killed by his own minister and the people asked Dyumatsena to return as king. Dyumatsena returned to his kingdom; in time Aśvapati had a hundred sons, and Sāvitrī bore a hundred sons. Mārkaṇḍeya said to Yudhiṣṭhira: 'So Sāvitrī by her virtue saved herself, her parents, her husband's parents and her husband; so too will Draupadī save you.'*
+
+<sub>来源 / Source：The Mahabharata of Krishna-Dwaipayana Vyasa, tr. Kisari Mohan Ganguli (1883–1896) · Vana Parva, Sections CCXCI–CCXCVII · 《摩诃婆罗多·森林篇》贞妇颂第二百九十六至二百九十七节（甘古利译本）。</sub>
+
+---
+
 ## 阿耆尼（火神） · Agni
 
 **有完整故事 / Full story**
@@ -907,5 +1025,115 @@
 *Bharata came out with Śatrughna, the three queens, the ministers and the whole city, carrying the sandals. When Rāma stepped down, Bharata fell at his feet, put the sandals on him himself and returned the kingdom he had kept fourteen years, its treasury and army grown tenfold. Rāma embraced Kausalyā, Kaikeyī and Sumitrā. The brothers cut off their matted locks and bathed. Vasiṣṭha and the priests poured the waters of the four seas and the rivers over Rāma on his jewelled throne, Sītā beside him under the white umbrella. Rāma gave Sītā a pearl necklace; she looked at Hanumān, and at Rāma's word gave it to him. Lakṣmaṇa declined to be heir, so Bharata was named; the allies went home laden with gifts. Rāma reigned ten thousand years, and in his reign, says the epic, no widow wept, no one died of snakebite or disease, there were no thieves or famines, no old man buried a son, trees always bore fruit and rain came on time. Whoever hears the Rāmāyaṇa is freed from sin and blessed with long life, like Rāma.*
 
 <sub>来源 / Source：The Rámáyan of Válmíki, translated into English verse (R. T. H. Griffith, 1870–1874) · Book VI (Yuddha Kāṇḍa) · 格里菲斯译本第六卷·罗摩加冕。</sub>
+
+---
+
+## 黑天 · Kṛṣṇa
+
+**有完整故事 / Full story**
+
+完整故事档案：[story.hindu.kurukshetra_war](../story.hindu.kurukshetra_war.md)
+
+> *Prince of the Yādavas and incarnation of Viṣṇu, cousin and counsellor of the Pāṇḍavas, who seeks peace as their envoy and drives Arjuna's chariot at Kurukṣetra, teaching him the Bhagavad Gītā (Mahābhārata, passim).*
+
+**长篇故事 · 12 章**
+
+目录：01 黑天的和平使命 · 02 战车上的阿周那 · 03 毗湿摩的箭床 · 04 激昂与轮阵 · 05 阿周那的誓言 · 06 瓶首之死 · 07 马嘶死了 · 08 迦尔纳的车轮 · 09 难敌藏身湖中 · 10 杵战 · 11 夜袭 · 12 战后的寂静
+
+### 1. 黑天的和平使命 / Kṛṣṇa's embassy of peace
+
+般度五子在森林里过了十二年，又在毗罗吒国隐姓埋名地度过了第十三年，按照当年掷骰子时的约定，他们应该收回自己的王国。可是持国王的长子难敌不肯归还。为了避免一场亲族之间的大战，雅度族的王子黑天——他是般度五子的表兄弟，也是他们最信任的朋友——亲自乘车来到俱卢族的都城象城，为般度族斡旋。在宫廷大会上，黑天对持国王和众位长老说：战争会毁灭两族所有的人，请把王国的一半还给般度五子；如果不行，哪怕只给他们五个村庄也好。毗湿摩、德罗纳和维杜罗都劝难敌接受。难敌却说：只要我活着，连针尖大的一块土地，我也不会交给般度族。他甚至想把黑天抓起来，黑天显出了神的形象，满殿的人都惊呆了。和平的最后希望破灭了，黑天回去告诉般度五子：只有战争了。
+
+*The Pāṇḍavas had spent twelve years in the forest and a thirteenth in hiding at the court of Virāṭa; by the terms of the dice game they should now have their kingdom back. But Duryodhana, eldest son of King Dhṛtarāṣṭra, would not return it. To avert a war between kinsmen, Kṛṣṇa, prince of the Yādavas, the Pāṇḍavas' cousin and most trusted friend, drove himself to the Kuru capital Hastināpura as their envoy. In the assembly he said to Dhṛtarāṣṭra and the elders: 'War will destroy everyone of both houses. Give the Pāṇḍavas back half the kingdom — or if not, even five villages.' Bhīṣma, Droṇa and Vidura all urged Duryodhana to accept. But Duryodhana said: 'While I live, I will not give the Pāṇḍavas even as much land as the point of a needle can pierce.' He even thought to seize Kṛṣṇa, who then showed his divine form, and the whole hall was struck with awe. The last hope of peace was gone; Kṛṣṇa went back and told the Pāṇḍavas that there would be war.*
+
+<sub>来源 / Source：The Mahabharata of Krishna-Dwaipayana Vyasa, tr. Kisari Mohan Ganguli (1883–1896) · Udyoga Parva (Bhagavat-yana) to Sauptika Parva · 《摩诃婆罗多·斡旋篇》黑天出使分篇（甘古利译本）。</sub>
+
+### 2. 战车上的阿周那 / Arjuna on the chariot
+
+两军在俱卢之野——一片被称为“正法之野”的平原——上摆开了阵势：般度族七支大军，俱卢族十一支大军，旌旗蔽日，战鼓和螺号响彻天地。阿周那请黑天为他驾车，因为黑天发誓在战争中不拿武器，只做阿周那的车夫。阿周那让黑天把战车驶到两军之间，他放眼望去，对面站着的是他的祖父毗湿摩、他的老师德罗纳、他的堂兄弟、叔伯和朋友。他的手脚发软，神箭甘狄拨从手中滑落，他说：黑天啊，杀死自己的亲人，就算得到王国又有什么意义？我不愿意作战。他坐在车上，满心悲伤。于是黑天在两军之间开始对他说话，讲述行动与责任、灵魂的不朽、对神的奉献，这番对话就是后来被单独传诵的《薄伽梵歌》。阿周那听完，心中的迷惑消散了，重新拿起了弓。《薄伽梵歌》共十八章，后来成为印度最受尊崇的经典之一，至今仍被无数人诵读；本篇只讲它发生的场景，不转述它的教义。
+
+*The armies drew up on the field of Kurukṣetra, the plain called the field of dharma: seven armies of the Pāṇḍavas, eleven of the Kauravas, banners darkening the sun, drums and conches shaking heaven and earth. Arjuna asked Kṛṣṇa to drive his chariot, for Kṛṣṇa had vowed to take up no weapon in the war but to serve as Arjuna's charioteer. Arjuna had Kṛṣṇa drive between the two armies and looked out: facing him stood his grandsire Bhīṣma, his teacher Droṇa, his cousins, uncles and friends. His limbs grew weak, the bow Gāṇḍīva slipped from his hand, and he said: 'Kṛṣṇa, what is a kingdom worth, won by killing my own kin? I will not fight.' He sat down in the chariot, overwhelmed with grief. Then, between the two armies, Kṛṣṇa began to speak to him — of action and duty, of the undying self, of devotion to God — and this dialogue is what was later recited on its own as the Bhagavad Gītā. When Arjuna had heard it his confusion was gone, and he took up his bow again. The Gītā's eighteen chapters became one of the most revered scriptures of India, recited by countless people to this day; this retelling gives only its setting, not its teaching.*
+
+<sub>来源 / Source：The Mahabharata of Krishna-Dwaipayana Vyasa, tr. Kisari Mohan Ganguli (1883–1896) · Udyoga Parva (Bhagavat-yana) to Sauptika Parva · 《摩诃婆罗多·毗湿摩篇》薄伽梵歌分篇（甘古利译本）。</sub>
+
+### 3. 毗湿摩的箭床 / Bhīṣma's bed of arrows
+
+俱卢族的第一位统帅是年老的毗湿摩。他是恒河女神的儿子，年轻时为了父亲发誓终身不娶、不争王位，因此得到了可以自己选择死期的恩惠。他一连九天在战场上所向无敌，每天杀死成千上万的士兵，般度族无法抵挡。第九天夜里，般度五子来到毗湿摩的营帐，向他请教怎样才能战胜他。毗湿摩说：我决不会向一个曾经是女子的人射箭。你们让束发站在阿周那的前面吧。第十天，束发站在阿周那的战车前面，毗湿摩看见他，放下了弓，不再还击。阿周那从束发身后放箭，箭如雨下，射满了毗湿摩的全身。毗湿摩从车上倒下，身体却被无数的箭撑着，没有碰到地面，就像躺在一张箭做的床上。他的头垂了下来，阿周那用三支箭为他做了一个枕头；他口渴，阿周那一箭射入地下，一股清泉喷涌而出。当时太阳正在向南运行，毗湿摩决定等太阳转向北行时再死去，就这样躺在箭床上，看着战争继续。
+
+*The first commander of the Kauravas was old Bhīṣma, son of the river goddess Gaṅgā, who in his youth had vowed for his father's sake never to marry or claim the throne, and had been granted the boon of choosing the hour of his own death. For nine days he was unconquerable, slaying thousands each day, and the Pāṇḍavas could not withstand him. On the ninth night the Pāṇḍavas went to his tent and asked him how he could be overcome. Bhīṣma said: 'I will never shoot at one who was once a woman. Let Śikhaṇḍin stand before Arjuna.' On the tenth day Śikhaṇḍin stood in front of Arjuna's chariot; seeing him, Bhīṣma lowered his bow and would not strike back. From behind Śikhaṇḍin Arjuna loosed a rain of arrows that covered Bhīṣma's whole body. He fell from his chariot, but so many arrows held him up that he did not touch the ground, as if lying on a bed of arrows. His head hung down, and Arjuna made him a pillow of three arrows; he thirsted, and Arjuna shot an arrow into the earth and a spring of clear water gushed up. The sun was then in its southern course, and Bhīṣma resolved to wait for its turn to the north before he died, lying on his bed of arrows and watching the war go on.*
+
+<sub>来源 / Source：The Mahabharata of Krishna-Dwaipayana Vyasa, tr. Kisari Mohan Ganguli (1883–1896) · Udyoga Parva (Bhagavat-yana) to Sauptika Parva · 《摩诃婆罗多·毗湿摩篇》毗湿摩之死分篇（甘古利译本）。</sub>
+
+### 4. 激昂与轮阵 / Abhimanyu and the circular array
+
+毗湿摩倒下以后，德罗纳做了俱卢族的统帅。第十三天，德罗纳摆出了一个可怕的轮形阵，一层又一层的战士像车轮一样旋转。那一天，阿周那被引到了战场的另一头，般度族中只有他知道怎样攻破轮阵。阿周那的儿子激昂只有十六岁，他对坚战说：我在母亲腹中时，听父亲讲过怎样冲进轮阵，可是没有听到怎样从里面出来。坚战说：你冲进去打开缺口，我们随后跟进来保护你。激昂驾车冲进了轮阵，一路杀伤无数敌人。可是信度国王胜车凭着湿婆赐给他的恩惠，在阵口挡住了跟进的般度族众将，激昂一个人被困在了阵中。德罗纳、迦尔纳、马嘶等六位大将一起围攻他，射断了他的弓，杀死了他的马和车夫。激昂拿起车轮当武器继续战斗，最后被敌人的杵击中，倒在了战场上。按照战场的规矩，许多人围攻一个人本是不正当的，这件事让般度族悲愤不已。
+
+*After Bhīṣma fell, Droṇa took command of the Kauravas. On the thirteenth day he formed a terrible circular array, rank upon rank of warriors wheeling like a chakra. That day Arjuna had been drawn away to the far end of the field, and of the Pāṇḍavas only he knew how to break the array. His son Abhimanyu, only sixteen, said to Yudhiṣṭhira: 'While I was in my mother's womb I heard my father tell how to break into the circular array, but I did not hear how to come out.' 'Break in and open a gap,' said Yudhiṣṭhira, 'and we will follow and protect you.' Abhimanyu drove into the array, cutting down countless enemies. But Jayadratha, king of the Sindhus, by a boon from Śiva, held the following Pāṇḍava chiefs back at the breach, and Abhimanyu was trapped inside alone. Droṇa, Karṇa, Aśvatthāman and other great warriors, six together, surrounded him, cut his bow, and killed his horses and charioteer. He fought on with a chariot wheel as his weapon until he was struck down by a mace. By the rules of battle many attacking one was unjust, and the Pāṇḍavas were filled with grief and rage.*
+
+<sub>来源 / Source：The Mahabharata of Krishna-Dwaipayana Vyasa, tr. Kisari Mohan Ganguli (1883–1896) · Udyoga Parva (Bhagavat-yana) to Sauptika Parva · 《摩诃婆罗多·德罗纳篇》激昂之死分篇（甘古利译本）。</sub>
+
+### 5. 阿周那的誓言 / Arjuna's vow
+
+阿周那回到营地，得知儿子战死，又听说是胜车在阵口挡住了救兵，悲痛欲绝，当众立下誓言：明天日落之前，我一定要杀死胜车；如果做不到，我就投火自焚。消息传到俱卢族营中，胜车吓得想要逃走，德罗纳答应保护他，把他藏在大军的最后面，前面布下了重重阵势。第十四天，阿周那和黑天驾车冲进敌阵，一层层杀过去，可是胜车被保护得严严实实，太阳却一点点西沉。眼看就要日落，黑天用他的神通让一片黑暗遮住了太阳，俱卢族的人以为太阳已经落山，阿周那就要投火了，都欢呼起来，胜车也放松了警惕，从藏身之处探出头来张望。黑天说：阿周那，太阳还没有落下，胜车就在那里！阿周那一箭射去，射下了胜车的头，又用一连串的箭把那颗头送到了远处胜车的父亲的膝上——因为这位老国王曾诅咒说，谁让他儿子的头落在地上，谁的头就会裂成碎片。
+
+*When Arjuna returned to camp and learned that his son had fallen and that Jayadratha had held back the rescuers at the breach, he was beside himself with grief and vowed before all: 'Before sunset tomorrow I will kill Jayadratha; if I fail, I will enter the fire.' When the news reached the Kauravas, Jayadratha in terror wanted to flee, but Droṇa promised to protect him and hid him at the very rear of the host behind array upon array. On the fourteenth day Arjuna and Kṛṣṇa drove into the enemy and cut their way through rank after rank, but Jayadratha was closely guarded and the sun sank lower and lower. When sunset was near, Kṛṣṇa by his power covered the sun with darkness; the Kauravas, thinking the sun had set and Arjuna must burn himself, cheered, and Jayadratha, off his guard, raised his head from his hiding-place to look. 'Arjuna, the sun has not set — there is Jayadratha!' said Kṛṣṇa. Arjuna's arrow struck off Jayadratha's head, and with a stream of further arrows he carried it far away into the lap of Jayadratha's father — for the old king had cursed that whoever made his son's head fall to the ground would have his own head burst into pieces.*
+
+<sub>来源 / Source：The Mahabharata of Krishna-Dwaipayana Vyasa, tr. Kisari Mohan Ganguli (1883–1896) · Udyoga Parva (Bhagavat-yana) to Sauptika Parva · 《摩诃婆罗多·德罗纳篇》立誓与胜车之死分篇（甘古利译本）。</sub>
+
+### 6. 瓶首之死 / The death of Ghaṭotkaca
+
+那一夜，战斗没有停止，两军举着火把在黑暗中继续厮杀。怖军的儿子瓶首是一个罗刹，母亲是罗刹女希丁芭，他在夜里力量更大，会施展各种幻术：他变得像山一样高大，从空中降下石头和兵器，俱卢族的士兵成片地倒下，连难敌也惊慌失措，大声呼喊迦尔纳去救援。迦尔纳手中有一件神兵：因陀罗赐给他的一支神矛，只能使用一次，必定能杀死目标。迦尔纳一直把它留着，准备用来对付阿周那。可是在难敌和众人的哀求下，迦尔纳不得不向瓶首投出了这支神矛。神矛穿透了瓶首的胸膛，瓶首在倒下之前把身体变得巨大无比，压死了一大片俱卢族的士兵。般度族都为瓶首痛哭，只有黑天却高兴起来，说：迦尔纳的神矛已经用掉了，阿周那得救了。瓶首是怖军在森林流亡时与罗刹女希丁芭所生的儿子，在般度族危难时总会赶来相助，他的死让怖军悲痛万分。
+
+*That night the fighting did not stop; the armies fought on in the dark by torchlight. Bhīma's son Ghaṭotkaca was a rākṣasa, born of the rākṣasī Hiḍimbā; his strength grew at night and he worked many illusions, growing tall as a mountain and raining rocks and weapons from the sky, so that Kaurava soldiers fell in swathes and even Duryodhana cried out in panic for Karṇa's help. Karṇa held a divine weapon: a dart given him by Indra, usable only once, certain to kill its target. He had kept it all along for Arjuna. But begged by Duryodhana and the others, he was forced to hurl it at Ghaṭotkaca. The dart pierced Ghaṭotkaca's chest, and before he fell he made his body vast and crushed a great swathe of Kaurava soldiers beneath it. The Pāṇḍavas wept for him; only Kṛṣṇa was glad, saying: 'Karṇa's dart is spent; Arjuna is saved.' Ghaṭotkaca, son of Bhīma by the rākṣasī Hiḍimbā during the years in the forest, had always come to the Pāṇḍavas' aid in danger, and his death grieved Bhīma deeply.*
+
+<sub>来源 / Source：The Mahabharata of Krishna-Dwaipayana Vyasa, tr. Kisari Mohan Ganguli (1883–1896) · Udyoga Parva (Bhagavat-yana) to Sauptika Parva · 《摩诃婆罗多·德罗纳篇》瓶首之死分篇（甘古利译本）。</sub>
+
+### 7. 马嘶死了 / 'Aśvatthāman is dead'
+
+第十五天，德罗纳在战场上无人能敌，用神兵杀死了大批般度族的士兵。黑天说：只要德罗纳手里有武器，谁也打不败他。只有让他听到儿子马嘶的死讯，他才会放下武器。于是怖军用杵打死了一头也叫马嘶的大象，大声喊道：马嘶死了！德罗纳不相信，他知道坚战从不说谎，就问坚战：真的吗？坚战心中挣扎，最后高声说：马嘶死了——然后低声补了一句：是那头大象。后半句被战场上的喧嚣淹没了。据说坚战的战车一向离地四指浮行，从这一刻起，它落到了地上。德罗纳听了，悲痛万分，放下了武器，坐在车上进入了冥想。般遮罗王子猛光冲上车去，砍下了这位老师的头。一句半真半假的话结束了德罗纳的生命，也在坚战的一生中留下了无法抹去的污点。这一节在后世引起了许多讨论：为了赢得战争，一个从不说谎的人说了半句真话，这样做是否合乎正法，书中并没有给出简单的答案。
+
+*On the fifteenth day Droṇa was invincible, slaying hosts of Pāṇḍava soldiers with his divine weapons. Kṛṣṇa said: 'While Droṇa holds his weapons no one can defeat him. Only news of his son Aśvatthāman's death will make him lay them down.' So Bhīma killed with his mace an elephant also named Aśvatthāman and shouted: 'Aśvatthāman is dead!' Droṇa did not believe it; knowing Yudhiṣṭhira never lied, he asked him: 'Is it true?' Yudhiṣṭhira struggled within himself, then said aloud: 'Aśvatthāman is dead' — and added under his breath, 'the elephant'. The last words were lost in the din of battle. Yudhiṣṭhira's chariot, it is said, had always moved four fingers' breadth above the ground; from that moment it touched the earth. Grief-stricken, Droṇa laid down his weapons and sat in meditation on his chariot. The Pāñcāla prince Dhṛṣṭadyumna sprang onto the chariot and struck off the teacher's head. A half-truth ended Droṇa's life and left on Yudhiṣṭhira a stain that would never be erased. Later readers have debated this scene much: a man who never lied spoke half a truth to win a war, and whether that accorded with dharma the text does not answer simply.*
+
+<sub>来源 / Source：The Mahabharata of Krishna-Dwaipayana Vyasa, tr. Kisari Mohan Ganguli (1883–1896) · Udyoga Parva (Bhagavat-yana) to Sauptika Parva · 《摩诃婆罗多·德罗纳篇》德罗纳之死分篇（甘古利译本）。</sub>
+
+### 8. 迦尔纳的车轮 / Karṇa's chariot wheel
+
+德罗纳死后，迦尔纳做了俱卢族的统帅。他其实是贡蒂婚前与太阳神所生的长子，是般度五子的哥哥，被母亲放在河里漂走，由一个车夫抚养长大；战前黑天和贡蒂都把这个秘密告诉了他，可他宁愿忠于从小善待他的朋友难敌。第十七天，迦尔纳和阿周那终于在战场上相遇，两人射出的箭遮蔽了天空，众神都在空中观战。激战之中，迦尔纳的战车左轮陷进了泥土里——这是一个婆罗门曾经对他发出的诅咒。迦尔纳跳下车去，用双手拼命去抬车轮，对阿周那说：请你等一等，按照武士的正法，不应该攻击一个没有战车的人。黑天说：迦尔纳，你们在大殿上羞辱黑公主的时候，你们许多人围杀激昂的时候，正法在哪里？阿周那拉满了弓，一箭射下了迦尔纳的头。迦尔纳倒下时，一道光从他的身体里升起，回到了太阳之中。
+
+*After Droṇa's death Karṇa took command of the Kauravas. He was in truth the eldest son of Kuntī, born to her by the sun god before her marriage — elder brother of the Pāṇḍavas — set adrift on a river by his mother and raised by a charioteer. Before the war Kṛṣṇa and Kuntī had both told him the secret, but he chose to stay loyal to Duryodhana, the friend who had been good to him from his youth. On the seventeenth day Karṇa and Arjuna met at last, their arrows darkening the sky while the gods watched from above. In the thick of the fight the left wheel of Karṇa's chariot sank into the earth — the working of a brahmin's curse upon him. Karṇa leapt down and strained with both hands to lift the wheel, crying to Arjuna: 'Wait! By the warrior's dharma one does not strike a man without his chariot.' Kṛṣṇa said: 'Karṇa, where was dharma when you humiliated Draupadī in the hall, when many of you together slew Abhimanyu?' Arjuna drew his bow and with one arrow struck off Karṇa's head. As Karṇa fell, a light rose from his body and returned into the sun.*
+
+<sub>来源 / Source：The Mahabharata of Krishna-Dwaipayana Vyasa, tr. Kisari Mohan Ganguli (1883–1896) · Udyoga Parva (Bhagavat-yana) to Sauptika Parva · 《摩诃婆罗多·迦尔纳篇》（甘古利译本）。</sub>
+
+### 9. 难敌藏身湖中 / Duryodhana hides in the lake
+
+第十八天，沙利耶做了俱卢族最后一位统帅，被坚战亲手杀死；那个在掷骰时设下骗局的沙恭尼，也被般度五子中最小的偶天杀死。俱卢族的大军彻底崩溃了。难敌看见兄弟和朋友全都战死，独自拿着他的杵逃离了战场，走到一个湖边，用幻术把湖水凝住，藏进了湖底。般度五子带着黑天循着猎人的指点找到了湖边。坚战对着湖水喊道：难敌，你让那么多人为你战死，自己却躲在水里，这是一个刹帝利应该做的吗？出来战斗吧！难敌在水下说：我已经失去了一切，你们拿走这个王国吧，我要到森林里去。坚战说：我们不接受你施舍的王国。你出来，选我们五人中的任何一个，用任何一种武器和他单独决斗；如果你赢了，王国就是你的。难敌听了，从湖里站了起来，扛着铁杵，说要用杵决斗；最后上前迎战的是怖军——他早就发誓要亲手打倒难敌。沙恭尼是难敌的舅舅，当年那场骗走般度五子王国的掷骰子，就是由他替难敌掷的。
+
+*On the eighteenth day Śalya, last commander of the Kauravas, was slain by Yudhiṣṭhira himself, and Śakuni, who had rigged the dice, was slain by Sahadeva, youngest of the Pāṇḍavas. The Kaurava host collapsed. Seeing his brothers and friends all dead, Duryodhana fled the field alone with his mace, came to a lake, solidified its waters by his magic and hid beneath them. Guided by some hunters, the Pāṇḍavas and Kṛṣṇa found the lake. Yudhiṣṭhira called over the water: 'Duryodhana, you sent so many to die for you and hide yourself in the water — is that fit for a kṣatriya? Come out and fight!' From under the water Duryodhana said: 'I have lost everything. Take the kingdom; I will go to the forest.' Yudhiṣṭhira said: 'We will not take a kingdom as your gift. Come out and choose any one of us five, with any weapon, in single combat; if you win, the kingdom is yours.' At that Duryodhana rose from the lake with his iron mace on his shoulder and called for a mace fight; the one who stepped forward to meet him was Bhīma, who had long vowed to strike him down with his own hands. Śakuni was Duryodhana's maternal uncle; in the dice game that cheated the Pāṇḍavas of their kingdom it was he who threw for Duryodhana.*
+
+<sub>来源 / Source：The Mahabharata of Krishna-Dwaipayana Vyasa, tr. Kisari Mohan Ganguli (1883–1896) · Udyoga Parva (Bhagavat-yana) to Sauptika Parva · 《摩诃婆罗多·沙利耶篇》入湖分篇（甘古利译本）。</sub>
+
+### 10. 杵战 / The mace duel
+
+怖军和难敌拿着铁杵在湖边对战，两人的杵碰撞时迸出火花，声音像霹雳一样。黑天的哥哥大力罗摩恰好朝圣回来，他是两人共同的杵法老师，也来观战。难敌技艺更精，怖军力气更大，两人斗了很久，不分胜负。黑天对阿周那说：如果按规矩打，怖军赢不了。怖军曾经发过誓，要在战场上打碎难敌的大腿，因为当年在大殿上，难敌曾露出大腿，羞辱黑公主。阿周那就拍了拍自己的大腿，向怖军示意。怖军看见了，趁难敌跃起的时候，一杵打在他的大腿上，把大腿打碎了。难敌倒在地上。按照杵战的规矩，攻击腰部以下是不正当的，大力罗摩勃然大怒，举起犁头要责罚怖军，被黑天劝住了。难敌躺在地上，指责黑天用诡计赢得了战争。天上却降下花雨，落在这位倒下的国王身上。
+
+*Bhīma and Duryodhana fought with iron maces by the lake, the clash striking sparks and sounding like thunder. Kṛṣṇa's elder brother Balarāma, returning from pilgrimage, came to watch; he had taught both men the mace. Duryodhana was the more skilful, Bhīma the stronger, and long they fought without either prevailing. Kṛṣṇa said to Arjuna: 'If he fights by the rules, Bhīma cannot win. But Bhīma vowed to break Duryodhana's thigh in battle, because in the hall long ago Duryodhana bared his thigh to insult Draupadī.' Arjuna slapped his own thigh as a sign to Bhīma. Bhīma saw it, and as Duryodhana leapt up he struck him on the thighs with his mace and shattered them. Duryodhana fell. By the rules of the mace, striking below the navel was forbidden; Balarāma in fury raised his ploughshare to punish Bhīma, and Kṛṣṇa calmed him. Lying on the ground, Duryodhana accused Kṛṣṇa of winning the war by trickery. Yet a rain of flowers fell from heaven upon the fallen king.*
+
+<sub>来源 / Source：The Mahabharata of Krishna-Dwaipayana Vyasa, tr. Kisari Mohan Ganguli (1883–1896) · Udyoga Parva (Bhagavat-yana) to Sauptika Parva · 《摩诃婆罗多·沙利耶篇》杵战分篇（甘古利译本）。</sub>
+
+### 11. 夜袭 / The night raid
+
+俱卢族只剩下三个人还活着：德罗纳的儿子马嘶、慈悯和成铠。马嘶对父亲被骗杀、难敌被违规打倒满怀仇恨。夜里，三人躲在一棵大榕树下，马嘶睡不着，看见一只猫头鹰在黑暗中悄悄飞来，把栖在树上熟睡的乌鸦一只只杀死。马嘶说：这只猫头鹰教会了我该怎么做。他不顾慈悯的劝阻，带着两人来到般度族的营地。成铠和慈悯守在营门，马嘶独自潜入营帐。他先找到杀死自己父亲的猛光，不等他起身拿起武器，就把他活活踩死，然后又杀死了束发，杀死了黑公主熟睡的五个儿子，还杀死了许多尚在睡梦中的将士。般度五子和黑天那天夜里恰好不在营中，才逃过了这场劫难。天亮前，马嘶赶到垂死的难敌身边，告诉他这个消息。难敌听了，说了一句“我终于满意了”，就闭上了眼睛。这场夜袭违背了一切作战的规矩，它让胜利的般度族在一夜之间失去了几乎所有的儿子。
+
+*Of the Kauravas only three remained alive: Droṇa's son Aśvatthāman, Kṛpa and Kṛtavarman. Aśvatthāman burned with hatred for the trickery that had killed his father and felled Duryodhana. That night the three lay under a great banyan tree; Aśvatthāman could not sleep, and saw an owl fly silently out of the dark and kill, one by one, the crows sleeping in the tree. 'This owl has taught me what to do,' he said. Ignoring Kṛpa's pleading, he led the other two to the Pāṇḍava camp. While Kṛtavarman and Kṛpa guarded the gate, Aśvatthāman went in alone. First he found Dhṛṣṭadyumna, who had slain his father, and trampled him to death before he could rise and take up a weapon; then he killed Śikhaṇḍin, and Draupadī's five sleeping sons, and many warriors still asleep. The five Pāṇḍavas and Kṛṣṇa happened to be away from the camp that night and so escaped. Before dawn Aśvatthāman hurried to the dying Duryodhana and told him. Duryodhana said, 'At last I am content,' and closed his eyes. The raid broke every rule of war, and in a single night it took from the victorious Pāṇḍavas nearly all their sons.*
+
+<sub>来源 / Source：The Mahabharata of Krishna-Dwaipayana Vyasa, tr. Kisari Mohan Ganguli (1883–1896) · Udyoga Parva (Bhagavat-yana) to Sauptika Parva · 《摩诃婆罗多·夜袭篇》（甘古利译本）。</sub>
+
+### 12. 战后的寂静 / The silence after the war
+
+第二天清晨，黑公主得知五个儿子都被杀死，悲痛欲绝，发誓说：如果马嘶不受惩罚，我就绝食而死。怖军和众人追上了躲在恒河边仙人身边的马嘶。马嘶走投无路，放出了毁天灭地的神兵“梵头”，阿周那也放出神兵抵挡，两件神兵在空中相撞，众仙人急忙站到中间，请他们收回。阿周那收回了自己的神兵，马嘶却不能收回，只好把它引向般度族未出生的后代。黑天大怒，诅咒马嘶在世间流浪三千年，身上流脓带血，无人理睬，孤独无依。马嘶交出了他额上那颗与生俱来、能护身的宝珠，独自离去。黑公主拿到宝珠，把它交给坚战戴上，这才平息了悲伤。十八天的战争结束了，两军十八支大军，最后只剩下般度五子、黑天、萨谛奇，以及俱卢族的马嘶、慈悯和成铠。胜利的坚战站在尸横遍野的俱卢之野上，心中没有一点喜悦。
+
+*The next morning Draupadī learned that all five of her sons were dead and, beside herself with grief, vowed to fast to death unless Aśvatthāman were punished. Bhīma and the others overtook Aśvatthāman where he sat among sages by the Ganges. Cornered, he loosed the world-destroying weapon Brahmaśiras; Arjuna loosed his own to meet it, and as the two clashed in the sky the sages stepped between them and begged them to withdraw. Arjuna withdrew his weapon, but Aśvatthāman could not, and turned his against the unborn heirs of the Pāṇḍavas. Kṛṣṇa in anger cursed him to wander the earth for three thousand years, oozing pus and blood, shunned and alone. Aśvatthāman gave up the protective jewel he was born with on his forehead and went away alone. Draupadī received the jewel and gave it to Yudhiṣṭhira to wear, and only then was her grief stilled. The eighteen days of war were over; of the eighteen armies there remained only the five Pāṇḍavas, Kṛṣṇa and Sātyaki, and of the Kauravas Aśvatthāman, Kṛpa and Kṛtavarman. Victorious, Yudhiṣṭhira stood on the field of Kurukṣetra strewn with the dead, and felt no joy.*
+
+<sub>来源 / Source：The Mahabharata of Krishna-Dwaipayana Vyasa, tr. Kisari Mohan Ganguli (1883–1896) · Udyoga Parva (Bhagavat-yana) to Sauptika Parva · 《摩诃婆罗多·夜袭篇》芦苇分篇（甘古利译本）。</sub>
 
 ---

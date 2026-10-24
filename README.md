@@ -21,29 +21,31 @@
 
 ## 现在可以做什么
 
-> 📖 **直接阅读**：[神祇故事集（全部 221 位神祇，打开即读）](profiles/stories/deities/index.md) · [神话故事档案（91 个故事）](profiles/stories/index.md) · **系列连载**：[西游记六部](profiles/stories/story.chinese.xiyouji_havoc_in_heaven.md) · [罗摩衍那六篇](profiles/stories/story.hindu.ramayana_bala.md) · [奥德赛上下部](profiles/stories/story.greek.odyssey_wanderings.md) · [希腊英雄](profiles/stories/story.greek.perseus_library.md) · [阿尔戈英雄](profiles/stories/story.greek.argonautica_outward.md) · [诸神的黄昏](profiles/stories/story.norse.frigg_baldr.md) · [沃尔松格萨迦](profiles/stories/story.norse.volsunga_sigmund.md) · [夺牛长征记](profiles/stories/story.irish.tain_muster_boy_deeds.md) · [马比诺吉昂四支](profiles/stories/story.welsh.mabinogi_pwyll.md)（[系列目录](profiles/stories/series.md)）· 长篇：[罗摩衍那](profiles/stories/story.hindu.ramayana.md) · [吉尔伽美什](profiles/stories/story.babylonian.gilgamesh_epic.md) · [大闹天宫](profiles/stories/story.chinese.xiyouji_havoc_in_heaven.md) · [神谱](profiles/stories/story.greek.theogony_cosmos.md) · [天之岩户与八岐大蛇](profiles/stories/story.japanese.iwato_orochi.md) · [在线体验](https://darenyew7527.github.io/world-mythology-system/?view=stories)
+> 📖 **直接阅读**：[神祇故事集（全部 245 位神祇，打开即读）](profiles/stories/deities/index.md) · [神话故事档案（105 个故事）](profiles/stories/index.md) · **系列连载**：[西游记六部](profiles/stories/story.chinese.xiyouji_havoc_in_heaven.md) · [罗摩衍那六篇](profiles/stories/story.hindu.ramayana_bala.md) · [奥德赛上下部](profiles/stories/story.greek.odyssey_wanderings.md) · [希腊英雄](profiles/stories/story.greek.perseus_library.md) · [阿尔戈英雄](profiles/stories/story.greek.argonautica_outward.md) · [诸神的黄昏](profiles/stories/story.norse.frigg_baldr.md) · [沃尔松格萨迦](profiles/stories/story.norse.volsunga_sigmund.md) · [夺牛长征记](profiles/stories/story.irish.tain_muster_boy_deeds.md) · [马比诺吉昂四支](profiles/stories/story.welsh.mabinogi_pwyll.md) · [古事记](profiles/stories/story.japanese.izanagi_izanami.md) · [卡勒瓦拉](profiles/stories/story.finnish.kalevala_sampo_forging.md) · [摩诃婆罗多](profiles/stories/story.hindu.nala_damayanti.md) · [列王纪](profiles/stories/story.persian.zal_rudabeh_rostam.md)（[系列目录](profiles/stories/series.md)）· 长篇：[罗摩衍那](profiles/stories/story.hindu.ramayana.md) · [吉尔伽美什](profiles/stories/story.babylonian.gilgamesh_epic.md) · [大闹天宫](profiles/stories/story.chinese.xiyouji_havoc_in_heaven.md) · [神谱](profiles/stories/story.greek.theogony_cosmos.md) · [天之岩户与八岐大蛇](profiles/stories/story.japanese.iwato_orochi.md) · [搜神记选读](profiles/stories/story.chinese.soushenji_tales.md) · [在线体验](https://darenyew7527.github.io/world-mythology-system/?view=stories)
 
-- 在中文网页里搜索和筛选 897 个规范实体、99 个文明与传统。
-- 按原著顺序连读 9 个**系列连载**（31 部、419 章）：《西游记》六部（91 章）、《罗摩衍那》六篇（87 章）、《奥德赛》上下两部（32 章）、希腊英雄珀尔修斯与赫拉克勒斯四部（49 章）、《阿尔戈英雄纪》两部（26 章）、诸神的黄昏两部（25 章）、《沃尔松格萨迦》三部（36 章）、《夺牛长征记》两部（25 章）、《马比诺吉昂》四支（48 章）。书架一行左右滑动，显示读到哪一部，每部末尾“继续读下一部”，跳过的章节写明不补写。
+- 在中文网页里搜索和筛选 994 个规范实体、99 个文明与传统。
+- 按原著顺序连读 13 个**系列连载**（46 部、607 章）：《西游记》六部（91 章）、《罗摩衍那》六篇（87 章）、《奥德赛》上下两部（32 章）、希腊英雄珀尔修斯与赫拉克勒斯四部（49 章）、《阿尔戈英雄纪》两部（26 章）、诸神的黄昏两部（25 章）、《沃尔松格萨迦》三部（36 章）、《夺牛长征记》两部（25 章）、《马比诺吉昂》四支（48 章）、《古事记》五部（65 章）、《卡勒瓦拉》四部（48 章）、《摩诃婆罗多》三部（39 章）、《列王纪》三部（36 章）。书架一行左右滑动，显示读到哪一部，每部末尾“继续读下一部”，跳过的章节写明不补写。
 - 读 12 个**长篇故事**（每篇 12–20 章，共 173 章、约 4.5 万字）：罗摩衍那、吉尔伽美什、大闹天宫、哪吒闹海、神谱、天之岩户与八岐大蛇、奥西里斯与伊西斯、索尔与乌特加尔洛基，以及得墨忒耳、巴德尔、马尔杜克与伊南娜的长篇版本。阅读页有目录、“下一章”和“继续阅读”，本机记住读到哪一章。
-- 在“神祇故事”画廊里给 221 位神祇逐一讲故事：163 位直接按原典章节讲述（其中 76 位打开就是长篇故事），56 位用带出处的证据要点讲述，2 位活态传统神祇只说明授权边界；可按文明、状态、“长篇故事”筛选，或“随机讲一位”。
+- 在“神祇故事”画廊里给 245 位神祇逐一讲故事：188 位直接按原典章节讲述（其中 104 位打开就是长篇故事），55 位用带出处的证据要点讲述，2 位活态传统神祇只说明授权边界；可按文明、状态、“长篇故事”筛选，或“随机讲一位”。
 - 打开“讲故事模式”：全屏、一段一段讲，支持键盘 ←／→、空格、Esc，手机左右滑动，字号可调，来源与不确定说明随时显示或隐藏。
-- 在“神话故事”中阅读 91 个来源约束故事、105 个独立见证版本与 775 个中英分段，并沿 7 条阅读路线进入事件顺序、地点、原典来源、Claims 和相关实体。
+- 在“神话故事”中阅读 105 个来源约束故事、120 个独立见证版本与 961 个中英分段，并沿 7 条阅读路线进入事件顺序、地点、原典来源、Claims 和相关实体。
 - 使用只存本机的书签、分版本阅读进度、字号／行距／高对比设置与术语人物速查；也可下载双语离线 HTML／JSON 并直接打印。
-- 查看全球扩张审计并在批次间切换：v0.34 英雄史诗批次 16 个目标、v0.33 系列连载批次 13 个目标与 v0.32 长篇故事批次 12 个目标全部完成；v0.31 神祇故事批次 28 个目标中 27 个完成、1 个（奥贡与奥洛杜马雷）因权限条件不足仅阻塞自身；v0.28 与 v0.30 批次记录原样保留。
+- 查看全球扩张审计并在批次间切换：v0.35 世界史诗批次 15 个目标、v0.34 英雄史诗批次 16 个目标、v0.33 系列连载批次 13 个目标与 v0.32 长篇故事批次 12 个目标全部完成；v0.31 神祇故事批次 28 个目标中 27 个完成、1 个（奥贡与奥洛杜马雷）因权限条件不足仅阻塞自身；v0.28 与 v0.30 批次记录原样保留。
 - 在“原典见证对读”中查看 10 份见证档案、20 个逐项对读主题与 40 个见证成员；原文名、转写、语言、来源定位、版权边界及 `NOT_STATED`／`UNMODELED` 状态保持可见。
-- 使用 Explorer 2.0 证据工作台查看有坐标证据的现实地点、34 个封版数据版本、实体—Claim—来源见证图与版本比较。
+- 使用 Explorer 2.0 证据工作台查看有坐标证据的现实地点、35 个封版数据版本、实体—Claim—来源见证图与版本比较。
 - 通过来源质量面板、文明研究密度热图、冲突查看器、永久队列进度与活态传统访问策略定位当前证据边界。
 - 从任意实体反向查看家族、神器、敌友、文献、遗址、Claims 与证据。
 - 使用新增的“家谱模式”查看父母、子女、兄弟姐妹、伴侣及对应证据。
 - 使用“雷神对照”比较 Thor、Zeus、Indra、Raijin、Takemikazuchi、雷公、雷泽雷神、Perun、Ṣàngó 与 Baʿlu/Haddu，同时保留各自原生语境和证据边界。
-- 浏览关系图谱、1,455 条结构化 Claims、1,479 条证据和 242 条来源登记。
+- 浏览关系图谱、1,641 条结构化 Claims、1,665 条证据和 246 条来源登记。
 - 在详情页读取神祇、神器、古籍、地点与事件的结构化档案，并查看互不覆盖的版本冲突。
 - 查看永久 `collection_queue`、研究缺口、显式冲突和下一轮工作。
 - 通过中文 GitHub 表单提交纠错、建议新实体或补充来源。
 - 运行 SQLite、JSONL、CSV、图谱导出、Markdown 档案与完整质量检查。
 
-数据量是当前版本的检查点，不是数量上限。当前正式版本：`v0.34.0-heroic-epics`。
+数据量是当前版本的检查点，不是数量上限。当前正式版本：`v0.35.0-world-epics`。
+
+v0.35 正式版把连载带到日本、芬兰、印度和波斯：新增《古事记》（张伯伦英译，从伊邪那岐与伊邪那美到倭建命，五部）、《卡勒瓦拉》（克劳福德英译，创世与三宝、勒明凯宁、库勒沃、夺取三宝，四部）、《摩诃婆罗多》（甘古利英译，那罗与达摩衍蒂、莎维德丽、俱卢之野，三部）与《列王纪》（齐默恩散文转述本，扎尔、鲁斯塔姆的七关、鲁斯塔姆与苏赫拉布，三部），共 4 个系列、15 部、188 章；另有《搜神记》选读十三则，新写约 6.4 万字。每一章都有自己的锚定 Claim 与证据；齐默恩本写明不是完整译本，跳过的节次与诗章都在系列中写明。建御雷升级为完整故事，大国主、伊尔玛塔尔、阎摩、黑天、织女、嫦娥等 24 位新登记的神祇都有故事。详见 [v0.35 发布说明](RELEASE_NOTES_v0.35.0.md)。
 
 v0.34 正式版把系列从三部作品扩展到九部：新增希腊英雄（阿波罗多洛斯《书库》中的珀尔修斯与赫拉克勒斯，四部）、阿尔戈英雄（西顿英译《阿尔戈英雄纪》第一至四卷，两部）、诸神的黄昏（巴德尔之死与新写的长篇诸神黄昏，两部）、《沃尔松格萨迦》（第1–32章，三部）、《夺牛长征记》（两部）与《马比诺吉昂》四支，共 6 个系列、17 部、209 章，新写约 7.7 万字。每一章都有自己的锚定 Claim 与证据，依据都是公共领域译本；只略去的《书库》2.7.4 在系列中写明。赫拉与阿波罗升级为完整故事，赫拉克勒斯、维达、阿劳恩等新登记的神祇都有故事；系列书架在所有屏幕上改为一行左右滑动，只展开正在读的系列。详见 [v0.34 发布说明](RELEASE_NOTES_v0.34.0.md)。
 

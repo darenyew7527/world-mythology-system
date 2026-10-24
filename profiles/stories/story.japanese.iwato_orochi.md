@@ -6,6 +6,10 @@
 - 证据状态: `SOURCE_BACKED`
 - 阅读时间: 8 分钟
 
+> 系列连载：[古事记连载](series.md) · 第二部 · 天之岩户与八岐大蛇（2/5）· Sect. XI–XIX
+> 上一部：[伊邪那岐与伊邪那美：造岛、黄泉与禊祓](story.japanese.izanagi_izanami.md)
+> 下一部：[古事记 · 第三部 大国主：从稻羽白兔到让国](story.japanese.okuninushi.md)
+
 ## 阅读边界
 
 伊邪那岐把天上交给天照大神、夜之国交给月读、大海交给须佐之男。须佐之男却哭个不停，要去母亲所在的根之国，被父亲赶走。他上天向姐姐告别，两人在天安河边立誓生子；须佐之男自称得胜，在高天原胡作非为，害死了织女。天照大神躲进天之岩户，天地陷入长夜。八百万众神聚在河边商议，思金神出谋，造镜子与勾玉，天宇受卖命在岩户前狂舞，众神大笑，天照大神好奇开门，被天手力男神拉了出来。须佐之男被逐出天界，杀死大宜都比卖，五谷由此而生；他在出云救下栉名田比卖，用八坛烈酒灌醉八岐大蛇，斩杀它并从蛇尾得到草薙剑，最后在须贺建宫，唱出“八云立”之歌。
@@ -214,6 +218,8 @@ Then Susanoo looked for a place in Izumo to build a palace. Arriving at Suga he 
 - `EVENT` 天之岩户：天照大神隐入岩屋 (`event.japanese.ame_no_iwato`)
 - `EVENT` 从八岐大蛇体内发现草薙剑 (`event.japanese.kusanagi.discovery`)
 - `TEXT` 古事记 (`text.japanese.kojiki`)
+
+**继续读下一部：[古事记 · 第三部 大国主：从稻羽白兔到让国](story.japanese.okuninushi.md)**
 
 ## 编辑说明
 

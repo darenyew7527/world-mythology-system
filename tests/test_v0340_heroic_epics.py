@@ -102,11 +102,14 @@ class HeroicEpicsTests(unittest.TestCase):
                 (version_id,),
             )]
 
-    def test_schema_49_and_50_seal_v034_as_latest_release(self):
+    def test_schema_49_and_50_seal_v034_preserved_after_v035(self):
         with self.connect() as connection:
             migrations = dict(connection.execute(
                 "SELECT version,name FROM schema_migrations WHERE version IN (49,50)"
             ).fetchall())
+            release = connection.execute(
+                "SELECT schema_version,data_version FROM dataset_releases WHERE id='release.v0.34.0'"
+            ).fetchone()
             latest = connection.execute(
                 "SELECT id,schema_version,data_version FROM dataset_releases ORDER BY built_at DESC,id DESC LIMIT 1"
             ).fetchone()
@@ -120,15 +123,17 @@ class HeroicEpicsTests(unittest.TestCase):
                 "SELECT status FROM research_sessions WHERE id='session.20261024.v0340_heroic_epics'"
             ).fetchone()
         self.assertEqual(migrations, {49: "20261024_v0340_heroic_epics", 50: "20261024_v0340_heroic_epics_release"})
-        self.assertEqual(dict(latest), {"id": "release.v0.34.0", "schema_version": 50, "data_version": "0.34.0"})
+        self.assertEqual(dict(release), {"schema_version": 50, "data_version": "0.34.0"})
+        self.assertEqual(dict(latest), {"id": "release.v0.35.0", "schema_version": 52, "data_version": "0.35.0"})
         self.assertEqual(tuple(batch), ("CHECKPOINT_COMPLETE", "0.34.0"))
         self.assertEqual(targets, {"COMPLETED": 16})
         self.assertEqual(session["status"], "COMPLETED")
         meta = self.snapshot["meta"]
-        self.assertEqual(meta["projectVersion"], "0.34.0-heroic-epics")
-        self.assertEqual(meta["dataVersion"], "0.34.0")
-        self.assertEqual(meta["counts"]["storySeries"], 9)
-        self.assertEqual(meta["counts"]["storySeriesParts"], 31)
+        self.assertEqual(meta["projectVersion"], "0.35.0-world-epics")
+        self.assertEqual(meta["dataVersion"], "0.35.0")
+        # Later versions only add series; the v0.34 checkpoint remains a lower bound.
+        self.assertGreaterEqual(meta["counts"]["storySeries"], 9)
+        self.assertGreaterEqual(meta["counts"]["storySeriesParts"], 31)
 
     def test_six_new_series_are_ordered_linked_and_name_their_gap(self):
         for series_id, story_ids in SERIES.items():
@@ -278,8 +283,10 @@ class HeroicEpicsTests(unittest.TestCase):
         ):
             self.assertEqual(self.cards[entity_id]["primaryVersionId"], version_id, entity_id)
             self.assertEqual(len(self.cards[entity_id]["beats"]), len(self.versions[version_id]["sections"]))
-        self.assertEqual(self.snapshot["meta"]["deityStoryCardStatusCounts"],
-                         {"STORY_LINKED": 163, "CLAIM_CARD": 56, "PERMISSION_LIMITED": 2})
+        counts = self.snapshot["meta"]["deityStoryCardStatusCounts"]
+        self.assertGreaterEqual(counts["STORY_LINKED"], 163)
+        self.assertLessEqual(counts["CLAIM_CARD"], 56)
+        self.assertEqual(counts["PERMISSION_LIMITED"], 2)
 
     def test_ui_labels_skipped_chapters_generically(self):
         series = (WEB / "components" / "StorySeries.jsx").read_text(encoding="utf-8")
@@ -294,8 +301,8 @@ class HeroicEpicsTests(unittest.TestCase):
         self.assertIn("data-current={item.id === currentSeriesId ? 'true' : undefined}", series)
         self.assertNotIn("localStorage", series)
         self.assertIn("grid-auto-flow: column; grid-auto-columns: minmax(320px, calc((100% - 24px) / 3))", styles)
-        self.assertIn("v0.34 · 英雄史诗连载与长篇阅读", library)
-        self.assertIn("world-mythology-v0.34-story-archive.html", tools)
+        self.assertIn("eyebrow: 'v0.3", library)
+        self.assertIn(HTML_NAME, tools)
         self.assertIn("wms-reader-v029", storage)
 
     def test_offline_archive_and_markdown_carry_the_new_series(self):
@@ -304,9 +311,9 @@ class HeroicEpicsTests(unittest.TestCase):
             manifest = generate(DB, root / "offline", root / "manifest.json")
             html_text = (root / "offline" / HTML_NAME).read_text(encoding="utf-8")
             archive = json.loads((root / "offline" / JSON_NAME).read_text(encoding="utf-8"))
-        self.assertEqual(HTML_NAME, "world-mythology-v0.34-story-archive.html")
-        self.assertEqual(manifest["counts"]["storySeries"], 9)
-        self.assertEqual([series["id"] for series in archive["storySeries"]][3:], list(SERIES))
+        self.assertEqual(HTML_NAME, "world-mythology-v0.35-story-archive.html")
+        self.assertGreaterEqual(manifest["counts"]["storySeries"], 9)
+        self.assertEqual([series["id"] for series in archive["storySeries"]][3:9], list(SERIES))
         for series_id in SERIES:
             self.assertIn(f'id="{series_id}"', html_text)
         index = (ROOT / "profiles" / "stories" / "series.md").read_text(encoding="utf-8")

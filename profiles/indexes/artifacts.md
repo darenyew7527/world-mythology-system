@@ -27,6 +27,8 @@
 | weapon.chinese.ruyi_jingu_bang | 如意金箍棒 | Ruyi Jingu Bang | WEAPON | 中国民间信仰 | PARTIAL | UNVERIFIED |
 | weapon.chinese.qiankun_quan | 乾坤圈 | Universe Ring (Qiankun quan) | WEAPON | 中国民间信仰 | PARTIAL | SOURCE_BACKED |
 | weapon.chinese.xuanyuan_sword | 轩辕剑相关传统 | Xuanyuan Sword tradition | WEAPON | 中国民间信仰 | NEEDS_REVIEW | UNVERIFIED |
+| artifact.finnish.kantele | 第一把康特勒琴 | First kantele | ARTIFACT | 芬兰 | PARTIAL | SOURCE_BACKED |
+| artifact.finnish.sampo | 三宝 | Sampo | ARTIFACT | 芬兰 | PARTIAL | SOURCE_BACKED |
 | artifact.hindu.amrita | 甘露（阿姆利塔） | Amṛta | SACRED_OBJECT | 印度教传统 | PARTIAL | SOURCE_BACKED |
 | weapon.indian.brahmastra | 梵天武器 | Brahmastra | WEAPON | 印度教传统 | PARTIAL | UNVERIFIED |
 | weapon.indian.gandiva | 甘狄拔神弓 | Gandiva | WEAPON | 印度教传统 | PARTIAL | UNVERIFIED |
@@ -39,6 +41,7 @@
 | artifact.irish.dagda_cauldron | 达格达的大锅 | The Dagda's cauldron | SACRED_OBJECT | 爱尔兰 | PARTIAL | SOURCE_BACKED |
 | weapon.japanese.amenonuhoko | 天沼矛 | Ame-no-Nuboko | WEAPON | 日本神道 | PARTIAL | UNVERIFIED |
 | weapon.japanese.kusanagi | 草薙剑 | Kusanagi-no-Tsurugi | WEAPON | 日本神道 | PARTIAL | SOURCE_BACKED |
+| artifact.japanese.tide_jewels | 潮盈珠与潮干珠 | Tide-flowing and tide-ebbing jewels | SACRED_OBJECT | 日本神道 | PARTIAL | SOURCE_BACKED |
 | artifact.norse.andvaranaut | 安德瓦拉诺特 | Andvaranautr | RING | 北欧 | PARTIAL | SOURCE_BACKED |
 | artifact.norse.draupnir | 德罗普尼尔 | Draupnir | RING | 北欧 | PARTIAL | UNVERIFIED |
 | artifact.norse.gjallarhorn | 加拉尔号角 | Gjallarhorn | ARTIFACT | 北欧 | PARTIAL | SOURCE_BACKED |

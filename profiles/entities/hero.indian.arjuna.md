@@ -18,6 +18,9 @@
 
 ## Claims 与证据
 
-尚无 claim；实体仅为发现/索引入口。
+- `claim.v0350.mbh_kurukshetra.02` [VERIFIED / TEXT_SAYS / 0.90] Mahābhārata, Bhishma Parva (Bhagavat-Gita Parva) says Arjuna, seeing his kin and teachers in the opposing army, laid down his bow, and that Kṛṣṇa, his charioteer, spoke to him between the armies in the discourse known as the Bhagavad Gītā, after which he took up his bow.
+  - 来源：[The Mahabharata of Krishna-Dwaipayana Vyasa, tr. Kisari Mohan Ganguli (1883–1896)](https://sacred-texts.com/hin/maha/index.htm)；定位：Bhishma Parva, Bhagavat-Gita Parva
+- `claim.v0350.mbh_kurukshetra.05` [VERIFIED / TEXT_SAYS / 0.90] Mahābhārata, Drona Parva (Pratijna and Jayadratha-vadha Parvas) says Arjuna vowed to kill Jayadratha before sunset or enter the fire, and that when Kṛṣṇa darkened the sun and Jayadratha showed himself, Arjuna struck off his head and sent it into his father's lap.
+  - 来源：[The Mahabharata of Krishna-Dwaipayana Vyasa, tr. Kisari Mohan Ganguli (1883–1896)](https://sacred-texts.com/hin/maha/index.htm)；定位：Drona Parva, Pratijna and Jayadratha-vadha Parvas
 
 > 本档案只代表当前阶段性基线，不是对该传统的最终或唯一解释。

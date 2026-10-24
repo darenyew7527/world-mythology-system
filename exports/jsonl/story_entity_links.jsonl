@@ -80,6 +80,17 @@
 {"entity_id":"being.chinese.pangu","notes":"Primordial being","role":"CHARACTER","sort_order":10,"story_id":"story.chinese.pangu_sanwu_liji","story_version_id":"storyver.chinese.pangu_yiwen_leiju"}
 {"entity_id":"text.chinese.sanwu_liji","notes":"Lost source","role":"TEXT","sort_order":20,"story_id":"story.chinese.pangu_sanwu_liji","story_version_id":"storyver.chinese.pangu_yiwen_leiju"}
 {"entity_id":"event.chinese.pangu_heaven_earth","notes":"Separation","role":"EVENT","sort_order":30,"story_id":"story.chinese.pangu_sanwu_liji","story_version_id":"storyver.chinese.pangu_yiwen_leiju"}
+{"entity_id":"text.chinese.soushenji","notes":"Soushen ji","role":"TEXT","sort_order":10,"story_id":"story.chinese.soushenji_tales","story_version_id":"storyver.chinese.soushenji_selected_13"}
+{"entity_id":"hero.chinese.dong_yong","notes":"Filial son","role":"CHARACTER","sort_order":20,"story_id":"story.chinese.soushenji_tales","story_version_id":"storyver.chinese.soushenji_selected_13"}
+{"entity_id":"deity.chinese.zhinu","notes":"Weaving Maiden","role":"CHARACTER","sort_order":30,"story_id":"story.chinese.soushenji_tales","story_version_id":"storyver.chinese.soushenji_selected_13"}
+{"entity_id":"hero.chinese.gan_jiang","notes":"Swordsmith","role":"CHARACTER","sort_order":40,"story_id":"story.chinese.soushenji_tales","story_version_id":"storyver.chinese.soushenji_selected_13"}
+{"entity_id":"hero.chinese.mo_ye","notes":"Swordsmith's wife","role":"CHARACTER","sort_order":50,"story_id":"story.chinese.soushenji_tales","story_version_id":"storyver.chinese.soushenji_selected_13"}
+{"entity_id":"hero.chinese.chi_bi","notes":"Avenging son","role":"CHARACTER","sort_order":60,"story_id":"story.chinese.soushenji_tales","story_version_id":"storyver.chinese.soushenji_selected_13"}
+{"entity_id":"person.chinese.han_ping","notes":"Faithful husband","role":"CHARACTER","sort_order":70,"story_id":"story.chinese.soushenji_tales","story_version_id":"storyver.chinese.soushenji_selected_13"}
+{"entity_id":"deity.chinese.change","notes":"Moon goddess","role":"CHARACTER","sort_order":80,"story_id":"story.chinese.soushenji_tales","story_version_id":"storyver.chinese.soushenji_selected_13"}
+{"entity_id":"hero.chinese.ziyu","notes":"Princess of Wu","role":"CHARACTER","sort_order":90,"story_id":"story.chinese.soushenji_tales","story_version_id":"storyver.chinese.soushenji_selected_13"}
+{"entity_id":"person.chinese.song_dingbo","notes":"Ghost-seller","role":"CHARACTER","sort_order":100,"story_id":"story.chinese.soushenji_tales","story_version_id":"storyver.chinese.soushenji_selected_13"}
+{"entity_id":"hero.chinese.li_ji","notes":"Serpent-slayer","role":"CHARACTER","sort_order":110,"story_id":"story.chinese.soushenji_tales","story_version_id":"storyver.chinese.soushenji_selected_13"}
 {"entity_id":"hero.chinese.sun_wukong","notes":"Borrows the fan","role":"CHARACTER","sort_order":10,"story_id":"story.chinese.xiyouji_flaming_mountains","story_version_id":"storyver.chinese.xiyouji_ch59_61"}
 {"entity_id":"demon.chinese.tieshan_gongzhu","notes":"Keeper of the fan","role":"CHARACTER","sort_order":20,"story_id":"story.chinese.xiyouji_flaming_mountains","story_version_id":"storyver.chinese.xiyouji_ch59_61"}
 {"entity_id":"demon.chinese.niumowang","notes":"Bull Demon King","role":"CHARACTER","sort_order":30,"story_id":"story.chinese.xiyouji_flaming_mountains","story_version_id":"storyver.chinese.xiyouji_ch59_61"}
@@ -189,6 +200,45 @@
 {"entity_id":"deity.egyptian.thoth","notes":"Scribe","role":"CHARACTER","sort_order":30,"story_id":"story.egyptian.weighing_heart_ani","story_version_id":"storyver.egyptian.weighing_ani_bm"}
 {"entity_id":"deity.egyptian.ma_at","notes":"Feather","role":"CHARACTER","sort_order":40,"story_id":"story.egyptian.weighing_heart_ani","story_version_id":"storyver.egyptian.weighing_ani_bm"}
 {"entity_id":"event.egyptian.weighing_heart_ani","notes":"Weighing","role":"EVENT","sort_order":50,"story_id":"story.egyptian.weighing_heart_ani","story_version_id":"storyver.egyptian.weighing_ani_bm"}
+{"entity_id":"person.finnish.untamo","notes":"Uncle and enemy","role":"CHARACTER","sort_order":10,"story_id":"story.finnish.kalevala_kullervo","story_version_id":"storyver.finnish.kalevala_crawford_31_36"}
+{"entity_id":"person.finnish.kalervo","notes":"Father","role":"CHARACTER","sort_order":20,"story_id":"story.finnish.kalevala_kullervo","story_version_id":"storyver.finnish.kalevala_crawford_31_36"}
+{"entity_id":"hero.finnish.kullervo","notes":"Hero","role":"CHARACTER","sort_order":30,"story_id":"story.finnish.kalevala_kullervo","story_version_id":"storyver.finnish.kalevala_crawford_31_36"}
+{"entity_id":"hero.finnish.ilmarinen","notes":"Master","role":"CHARACTER","sort_order":40,"story_id":"story.finnish.kalevala_kullervo","story_version_id":"storyver.finnish.kalevala_crawford_31_36"}
+{"entity_id":"hero.finnish.maiden_of_pohjola","notes":"Ilmarinen's wife","role":"CHARACTER","sort_order":50,"story_id":"story.finnish.kalevala_kullervo","story_version_id":"storyver.finnish.kalevala_crawford_31_36"}
+{"entity_id":"deity.finnish.ukko","notes":"Sky god","role":"CHARACTER","sort_order":60,"story_id":"story.finnish.kalevala_kullervo","story_version_id":"storyver.finnish.kalevala_crawford_31_36"}
+{"entity_id":"hero.finnish.vainamoinen","notes":"Sage","role":"CHARACTER","sort_order":70,"story_id":"story.finnish.kalevala_kullervo","story_version_id":"storyver.finnish.kalevala_crawford_31_36"}
+{"entity_id":"text.finnish.kalevala","notes":"Kalevala","role":"TEXT","sort_order":80,"story_id":"story.finnish.kalevala_kullervo","story_version_id":"storyver.finnish.kalevala_crawford_31_36"}
+{"entity_id":"hero.finnish.lemminkainen","notes":"Hero","role":"CHARACTER","sort_order":10,"story_id":"story.finnish.kalevala_lemminkainen","story_version_id":"storyver.finnish.kalevala_crawford_11_15"}
+{"entity_id":"hero.finnish.kyllikki","notes":"Wife","role":"CHARACTER","sort_order":20,"story_id":"story.finnish.kalevala_lemminkainen","story_version_id":"storyver.finnish.kalevala_crawford_11_15"}
+{"entity_id":"hero.finnish.lemminkainen_mother","notes":"Mother","role":"CHARACTER","sort_order":30,"story_id":"story.finnish.kalevala_lemminkainen","story_version_id":"storyver.finnish.kalevala_crawford_11_15"}
+{"entity_id":"hero.finnish.louhi","notes":"Mistress of Pohjola","role":"CHARACTER","sort_order":40,"story_id":"story.finnish.kalevala_lemminkainen","story_version_id":"storyver.finnish.kalevala_crawford_11_15"}
+{"entity_id":"person.finnish.markahattu","notes":"Herdsman","role":"CHARACTER","sort_order":50,"story_id":"story.finnish.kalevala_lemminkainen","story_version_id":"storyver.finnish.kalevala_crawford_11_15"}
+{"entity_id":"place.finnish.pohjola","notes":"North","role":"PLACE","sort_order":60,"story_id":"story.finnish.kalevala_lemminkainen","story_version_id":"storyver.finnish.kalevala_crawford_11_15"}
+{"entity_id":"place.finnish.tuonela","notes":"Land of the dead","role":"PLACE","sort_order":70,"story_id":"story.finnish.kalevala_lemminkainen","story_version_id":"storyver.finnish.kalevala_crawford_11_15"}
+{"entity_id":"hero.finnish.ilmarinen","notes":"Smith","role":"CHARACTER","sort_order":80,"story_id":"story.finnish.kalevala_lemminkainen","story_version_id":"storyver.finnish.kalevala_crawford_11_15"}
+{"entity_id":"deity.finnish.ukko","notes":"Sky god","role":"CHARACTER","sort_order":90,"story_id":"story.finnish.kalevala_lemminkainen","story_version_id":"storyver.finnish.kalevala_crawford_11_15"}
+{"entity_id":"text.finnish.kalevala","notes":"Kalevala","role":"TEXT","sort_order":100,"story_id":"story.finnish.kalevala_lemminkainen","story_version_id":"storyver.finnish.kalevala_crawford_11_15"}
+{"entity_id":"deity.finnish.ilmatar","notes":"Creator","role":"CHARACTER","sort_order":10,"story_id":"story.finnish.kalevala_sampo_forging","story_version_id":"storyver.finnish.kalevala_crawford_1_10"}
+{"entity_id":"hero.finnish.vainamoinen","notes":"Singer","role":"CHARACTER","sort_order":20,"story_id":"story.finnish.kalevala_sampo_forging","story_version_id":"storyver.finnish.kalevala_crawford_1_10"}
+{"entity_id":"hero.finnish.joukahainen","notes":"Rival","role":"CHARACTER","sort_order":30,"story_id":"story.finnish.kalevala_sampo_forging","story_version_id":"storyver.finnish.kalevala_crawford_1_10"}
+{"entity_id":"hero.finnish.aino","notes":"Promised bride","role":"CHARACTER","sort_order":40,"story_id":"story.finnish.kalevala_sampo_forging","story_version_id":"storyver.finnish.kalevala_crawford_1_10"}
+{"entity_id":"hero.finnish.louhi","notes":"Mistress of Pohjola","role":"CHARACTER","sort_order":50,"story_id":"story.finnish.kalevala_sampo_forging","story_version_id":"storyver.finnish.kalevala_crawford_1_10"}
+{"entity_id":"hero.finnish.maiden_of_pohjola","notes":"Maiden","role":"CHARACTER","sort_order":60,"story_id":"story.finnish.kalevala_sampo_forging","story_version_id":"storyver.finnish.kalevala_crawford_1_10"}
+{"entity_id":"hero.finnish.ilmarinen","notes":"Smith","role":"CHARACTER","sort_order":70,"story_id":"story.finnish.kalevala_sampo_forging","story_version_id":"storyver.finnish.kalevala_crawford_1_10"}
+{"entity_id":"deity.finnish.ukko","notes":"Sky god","role":"CHARACTER","sort_order":80,"story_id":"story.finnish.kalevala_sampo_forging","story_version_id":"storyver.finnish.kalevala_crawford_1_10"}
+{"entity_id":"artifact.finnish.sampo","notes":"Sampo","role":"ARTIFACT","sort_order":90,"story_id":"story.finnish.kalevala_sampo_forging","story_version_id":"storyver.finnish.kalevala_crawford_1_10"}
+{"entity_id":"place.finnish.pohjola","notes":"North","role":"PLACE","sort_order":100,"story_id":"story.finnish.kalevala_sampo_forging","story_version_id":"storyver.finnish.kalevala_crawford_1_10"}
+{"entity_id":"text.finnish.kalevala","notes":"Kalevala","role":"TEXT","sort_order":110,"story_id":"story.finnish.kalevala_sampo_forging","story_version_id":"storyver.finnish.kalevala_crawford_1_10"}
+{"entity_id":"hero.finnish.vainamoinen","notes":"Singer","role":"CHARACTER","sort_order":10,"story_id":"story.finnish.kalevala_sampo_theft","story_version_id":"storyver.finnish.kalevala_crawford_39_43"}
+{"entity_id":"hero.finnish.ilmarinen","notes":"Smith","role":"CHARACTER","sort_order":20,"story_id":"story.finnish.kalevala_sampo_theft","story_version_id":"storyver.finnish.kalevala_crawford_39_43"}
+{"entity_id":"hero.finnish.lemminkainen","notes":"Companion","role":"CHARACTER","sort_order":30,"story_id":"story.finnish.kalevala_sampo_theft","story_version_id":"storyver.finnish.kalevala_crawford_39_43"}
+{"entity_id":"artifact.finnish.kantele","notes":"Kantele","role":"ARTIFACT","sort_order":40,"story_id":"story.finnish.kalevala_sampo_theft","story_version_id":"storyver.finnish.kalevala_crawford_39_43"}
+{"entity_id":"hero.finnish.louhi","notes":"Mistress of Pohjola","role":"CHARACTER","sort_order":50,"story_id":"story.finnish.kalevala_sampo_theft","story_version_id":"storyver.finnish.kalevala_crawford_39_43"}
+{"entity_id":"artifact.finnish.sampo","notes":"Sampo","role":"ARTIFACT","sort_order":60,"story_id":"story.finnish.kalevala_sampo_theft","story_version_id":"storyver.finnish.kalevala_crawford_39_43"}
+{"entity_id":"place.finnish.pohjola","notes":"North","role":"PLACE","sort_order":70,"story_id":"story.finnish.kalevala_sampo_theft","story_version_id":"storyver.finnish.kalevala_crawford_39_43"}
+{"entity_id":"creature.finnish.iku_turso","notes":"Sea monster","role":"CHARACTER","sort_order":80,"story_id":"story.finnish.kalevala_sampo_theft","story_version_id":"storyver.finnish.kalevala_crawford_39_43"}
+{"entity_id":"deity.finnish.ukko","notes":"Sky god","role":"CHARACTER","sort_order":90,"story_id":"story.finnish.kalevala_sampo_theft","story_version_id":"storyver.finnish.kalevala_crawford_39_43"}
+{"entity_id":"text.finnish.kalevala","notes":"Kalevala","role":"TEXT","sort_order":100,"story_id":"story.finnish.kalevala_sampo_theft","story_version_id":"storyver.finnish.kalevala_crawford_39_43"}
 {"entity_id":"deity.greek.aphrodite","notes":"Derived from an explicitly linked story claim subject.","role":"CHARACTER","sort_order":10,"story_id":"story.greek.aphrodite_origins","story_version_id":"storyver.greek.aphrodite_theogony"}
 {"entity_id":"deity.greek.aphrodite","notes":"Derived from an explicitly linked story claim subject.","role":"CHARACTER","sort_order":10,"story_id":"story.greek.aphrodite_origins","story_version_id":"storyver.greek.aphrodite_iliad"}
 {"entity_id":"deity.greek.dione","notes":"Derived from an explicitly linked story claim subject.","role":"CHARACTER","sort_order":10,"story_id":"story.greek.aphrodite_origins","story_version_id":"storyver.greek.aphrodite_iliad"}
@@ -367,6 +417,28 @@
 {"entity_id":"deity.hawaiian.pele","notes":"Volcano deity","role":"CHARACTER","sort_order":10,"story_id":"story.hawaiian.pele_journey","story_version_id":"storyver.hawaiian.pele_nps"}
 {"entity_id":"site.hawaii.halemaumau","notes":"Home","role":"PLACE","sort_order":20,"story_id":"story.hawaiian.pele_journey","story_version_id":"storyver.hawaiian.pele_nps"}
 {"entity_id":"event.hawaiian.pele_journey","notes":"Journey","role":"EVENT","sort_order":30,"story_id":"story.hawaiian.pele_journey","story_version_id":"storyver.hawaiian.pele_nps"}
+{"entity_id":"hero.indian.yudhishthira","notes":"Eldest Pāṇḍava","role":"CHARACTER","sort_order":10,"story_id":"story.hindu.kurukshetra_war","story_version_id":"storyver.hindu.mahabharata_ganguli_kurukshetra"}
+{"entity_id":"hero.indian.arjuna","notes":"Archer","role":"CHARACTER","sort_order":20,"story_id":"story.hindu.kurukshetra_war","story_version_id":"storyver.hindu.mahabharata_ganguli_kurukshetra"}
+{"entity_id":"hero.indian.bhima","notes":"Strong one","role":"CHARACTER","sort_order":30,"story_id":"story.hindu.kurukshetra_war","story_version_id":"storyver.hindu.mahabharata_ganguli_kurukshetra"}
+{"entity_id":"hero.indian.draupadi","notes":"Queen","role":"CHARACTER","sort_order":40,"story_id":"story.hindu.kurukshetra_war","story_version_id":"storyver.hindu.mahabharata_ganguli_kurukshetra"}
+{"entity_id":"deity.hindu.krishna","notes":"Charioteer and counsellor","role":"CHARACTER","sort_order":50,"story_id":"story.hindu.kurukshetra_war","story_version_id":"storyver.hindu.mahabharata_ganguli_kurukshetra"}
+{"entity_id":"hero.indian.duryodhana","notes":"Kaurava king","role":"CHARACTER","sort_order":60,"story_id":"story.hindu.kurukshetra_war","story_version_id":"storyver.hindu.mahabharata_ganguli_kurukshetra"}
+{"entity_id":"hero.indian.bhishma","notes":"Grandsire","role":"CHARACTER","sort_order":70,"story_id":"story.hindu.kurukshetra_war","story_version_id":"storyver.hindu.mahabharata_ganguli_kurukshetra"}
+{"entity_id":"hero.indian.drona","notes":"Teacher","role":"CHARACTER","sort_order":80,"story_id":"story.hindu.kurukshetra_war","story_version_id":"storyver.hindu.mahabharata_ganguli_kurukshetra"}
+{"entity_id":"hero.indian.karna","notes":"Rival","role":"CHARACTER","sort_order":90,"story_id":"story.hindu.kurukshetra_war","story_version_id":"storyver.hindu.mahabharata_ganguli_kurukshetra"}
+{"entity_id":"hero.indian.abhimanyu","notes":"Arjuna's son","role":"CHARACTER","sort_order":100,"story_id":"story.hindu.kurukshetra_war","story_version_id":"storyver.hindu.mahabharata_ganguli_kurukshetra"}
+{"entity_id":"hero.indian.ashvatthama","notes":"Drona's son","role":"CHARACTER","sort_order":110,"story_id":"story.hindu.kurukshetra_war","story_version_id":"storyver.hindu.mahabharata_ganguli_kurukshetra"}
+{"entity_id":"text.indian.bhagavad_gita","notes":"Bhagavad Gītā","role":"TEXT","sort_order":120,"story_id":"story.hindu.kurukshetra_war","story_version_id":"storyver.hindu.mahabharata_ganguli_kurukshetra"}
+{"entity_id":"text.indian.mahabharata","notes":"Mahābhārata","role":"TEXT","sort_order":130,"story_id":"story.hindu.kurukshetra_war","story_version_id":"storyver.hindu.mahabharata_ganguli_kurukshetra"}
+{"entity_id":"hero.indian.nala","notes":"King of the Nishadhas","role":"CHARACTER","sort_order":10,"story_id":"story.hindu.nala_damayanti","story_version_id":"storyver.hindu.mahabharata_ganguli_nala"}
+{"entity_id":"hero.indian.damayanti","notes":"Princess of Vidarbha","role":"CHARACTER","sort_order":20,"story_id":"story.hindu.nala_damayanti","story_version_id":"storyver.hindu.mahabharata_ganguli_nala"}
+{"entity_id":"deity.vedic.indra","notes":"Suitor god","role":"CHARACTER","sort_order":30,"story_id":"story.hindu.nala_damayanti","story_version_id":"storyver.hindu.mahabharata_ganguli_nala"}
+{"entity_id":"deity.hindu.agni","notes":"Suitor god","role":"CHARACTER","sort_order":40,"story_id":"story.hindu.nala_damayanti","story_version_id":"storyver.hindu.mahabharata_ganguli_nala"}
+{"entity_id":"being.hindu.kali","notes":"Personified age","role":"CHARACTER","sort_order":50,"story_id":"story.hindu.nala_damayanti","story_version_id":"storyver.hindu.mahabharata_ganguli_nala"}
+{"entity_id":"person.indian.pushkara","notes":"Brother","role":"CHARACTER","sort_order":60,"story_id":"story.hindu.nala_damayanti","story_version_id":"storyver.hindu.mahabharata_ganguli_nala"}
+{"entity_id":"creature.indian.karkotaka","notes":"Nāga","role":"CHARACTER","sort_order":70,"story_id":"story.hindu.nala_damayanti","story_version_id":"storyver.hindu.mahabharata_ganguli_nala"}
+{"entity_id":"person.indian.rituparna","notes":"King of Ayodhyā","role":"CHARACTER","sort_order":80,"story_id":"story.hindu.nala_damayanti","story_version_id":"storyver.hindu.mahabharata_ganguli_nala"}
+{"entity_id":"text.indian.mahabharata","notes":"Mahābhārata","role":"TEXT","sort_order":90,"story_id":"story.hindu.nala_damayanti","story_version_id":"storyver.hindu.mahabharata_ganguli_nala"}
 {"entity_id":"deity.hindu.rama","notes":"Prince of Ayodhyā","role":"CHARACTER","sort_order":10,"story_id":"story.hindu.ramayana","story_version_id":"storyver.hindu.ramayana_griffith_1_6"}
 {"entity_id":"deity.hindu.sita","notes":"Wife of Rāma","role":"CHARACTER","sort_order":20,"story_id":"story.hindu.ramayana","story_version_id":"storyver.hindu.ramayana_griffith_1_6"}
 {"entity_id":"hero.indian.lakshmana","notes":"Brother","role":"CHARACTER","sort_order":30,"story_id":"story.hindu.ramayana","story_version_id":"storyver.hindu.ramayana_griffith_1_6"}
@@ -469,6 +541,12 @@
 {"entity_id":"text.hindu.bhagavata_purana.skandha8_churning","notes":"Passage witness.","role":"TEXT","sort_order":110,"story_id":"story.hindu.samudra_manthana_texts","story_version_id":"storyver.hindu.churning_bhagavata"}
 {"entity_id":"text.hindu.bhagavata_purana","notes":"Parent Purāṇa.","role":"TEXT","sort_order":120,"story_id":"story.hindu.samudra_manthana_texts","story_version_id":"storyver.hindu.churning_bhagavata"}
 {"entity_id":"deity.hindu.brahma","notes":"Leads the gods to Viṣṇu before the churning (BhP 8.5).","role":"RELATED","sort_order":90,"story_id":"story.hindu.samudra_manthana_texts","story_version_id":"storyver.hindu.churning_bhagavata"}
+{"entity_id":"person.indian.ashvapati","notes":"Father","role":"CHARACTER","sort_order":10,"story_id":"story.hindu.savitri_satyavan","story_version_id":"storyver.hindu.mahabharata_ganguli_savitri"}
+{"entity_id":"hero.indian.savitri","notes":"Heroine","role":"CHARACTER","sort_order":20,"story_id":"story.hindu.savitri_satyavan","story_version_id":"storyver.hindu.mahabharata_ganguli_savitri"}
+{"entity_id":"hero.indian.satyavan","notes":"Husband","role":"CHARACTER","sort_order":30,"story_id":"story.hindu.savitri_satyavan","story_version_id":"storyver.hindu.mahabharata_ganguli_savitri"}
+{"entity_id":"person.indian.dyumatsena","notes":"Father-in-law","role":"CHARACTER","sort_order":40,"story_id":"story.hindu.savitri_satyavan","story_version_id":"storyver.hindu.mahabharata_ganguli_savitri"}
+{"entity_id":"deity.hindu.yama","notes":"God of death","role":"CHARACTER","sort_order":50,"story_id":"story.hindu.savitri_satyavan","story_version_id":"storyver.hindu.mahabharata_ganguli_savitri"}
+{"entity_id":"text.indian.mahabharata","notes":"Mahābhārata","role":"TEXT","sort_order":60,"story_id":"story.hindu.savitri_satyavan","story_version_id":"storyver.hindu.mahabharata_ganguli_savitri"}
 {"entity_id":"deity.irish.dagda","notes":"Owner of the cauldron","role":"CHARACTER","sort_order":10,"story_id":"story.irish.second_battle_mag_tuired","story_version_id":"storyver.irish.mag_tuired_gray"}
 {"entity_id":"deity.irish.lugh","notes":"Samildánach","role":"CHARACTER","sort_order":20,"story_id":"story.irish.second_battle_mag_tuired","story_version_id":"storyver.irish.mag_tuired_gray"}
 {"entity_id":"deity.irish.morrigan","notes":"Prophetess","role":"CHARACTER","sort_order":30,"story_id":"story.irish.second_battle_mag_tuired","story_version_id":"storyver.irish.mag_tuired_gray"}
@@ -532,6 +610,23 @@
 {"entity_id":"event.japanese.izanagi_visits_yomi","notes":"Yomi","role":"EVENT","sort_order":100,"story_id":"story.japanese.izanagi_izanami","story_version_id":"storyver.japanese.izanagi_izanami_kojiki"}
 {"entity_id":"event.japanese.izanagi_purification","notes":"Purification","role":"EVENT","sort_order":110,"story_id":"story.japanese.izanagi_izanami","story_version_id":"storyver.japanese.izanagi_izanami_kojiki"}
 {"entity_id":"text.japanese.kojiki","notes":"Kojiki","role":"TEXT","sort_order":120,"story_id":"story.japanese.izanagi_izanami","story_version_id":"storyver.japanese.izanagi_izanami_kojiki"}
+{"entity_id":"deity.japanese.takamimusubi","notes":"First deities","role":"CHARACTER","sort_order":10,"story_id":"story.japanese.izanagi_izanami","story_version_id":"storyver.japanese.kojiki_sect1_10"}
+{"entity_id":"deity.japanese.kamimusubi","notes":"First deities","role":"CHARACTER","sort_order":20,"story_id":"story.japanese.izanagi_izanami","story_version_id":"storyver.japanese.kojiki_sect1_10"}
+{"entity_id":"deity.japanese.izanagi","notes":"Male-Who-Invites","role":"CHARACTER","sort_order":30,"story_id":"story.japanese.izanagi_izanami","story_version_id":"storyver.japanese.kojiki_sect1_10"}
+{"entity_id":"deity.japanese.izanami","notes":"Female-Who-Invites","role":"CHARACTER","sort_order":40,"story_id":"story.japanese.izanagi_izanami","story_version_id":"storyver.japanese.kojiki_sect1_10"}
+{"entity_id":"weapon.japanese.amenonuhoko","notes":"Jewelled spear","role":"ARTIFACT","sort_order":50,"story_id":"story.japanese.izanagi_izanami","story_version_id":"storyver.japanese.kojiki_sect1_10"}
+{"entity_id":"place.japanese.onogoro","notes":"First island","role":"PLACE","sort_order":60,"story_id":"story.japanese.izanagi_izanami","story_version_id":"storyver.japanese.kojiki_sect1_10"}
+{"entity_id":"deity.japanese.kagutsuchi","notes":"Fire deity","role":"CHARACTER","sort_order":70,"story_id":"story.japanese.izanagi_izanami","story_version_id":"storyver.japanese.kojiki_sect1_10"}
+{"entity_id":"deity.japanese.takemikazuchi","notes":"Born from the sword","role":"CHARACTER","sort_order":80,"story_id":"story.japanese.izanagi_izanami","story_version_id":"storyver.japanese.kojiki_sect1_10"}
+{"entity_id":"place.japanese.yomi","notes":"Land of Hades","role":"PLACE","sort_order":90,"story_id":"story.japanese.izanagi_izanami","story_version_id":"storyver.japanese.kojiki_sect1_10"}
+{"entity_id":"group.japanese.eight_thunder_kami","notes":"Eight thunders","role":"CHARACTER","sort_order":100,"story_id":"story.japanese.izanagi_izanami","story_version_id":"storyver.japanese.kojiki_sect1_10"}
+{"entity_id":"deity.japanese.amaterasu","notes":"Born from the left eye","role":"CHARACTER","sort_order":110,"story_id":"story.japanese.izanagi_izanami","story_version_id":"storyver.japanese.kojiki_sect1_10"}
+{"entity_id":"deity.japanese.tsukuyomi","notes":"Born from the right eye","role":"CHARACTER","sort_order":120,"story_id":"story.japanese.izanagi_izanami","story_version_id":"storyver.japanese.kojiki_sect1_10"}
+{"entity_id":"deity.japanese.susanoo","notes":"Born from the nose","role":"CHARACTER","sort_order":130,"story_id":"story.japanese.izanagi_izanami","story_version_id":"storyver.japanese.kojiki_sect1_10"}
+{"entity_id":"event.japanese.onogoro_creation","notes":"Island made","role":"EVENT","sort_order":140,"story_id":"story.japanese.izanagi_izanami","story_version_id":"storyver.japanese.kojiki_sect1_10"}
+{"entity_id":"event.japanese.izanagi_visits_yomi","notes":"Journey to Yomi","role":"EVENT","sort_order":150,"story_id":"story.japanese.izanagi_izanami","story_version_id":"storyver.japanese.kojiki_sect1_10"}
+{"entity_id":"event.japanese.izanagi_purification","notes":"Purification","role":"EVENT","sort_order":160,"story_id":"story.japanese.izanagi_izanami","story_version_id":"storyver.japanese.kojiki_sect1_10"}
+{"entity_id":"text.japanese.kojiki","notes":"Kojiki","role":"TEXT","sort_order":170,"story_id":"story.japanese.izanagi_izanami","story_version_id":"storyver.japanese.kojiki_sect1_10"}
 {"entity_id":"text.japan.yamashiro_fudoki_kamo_fragment","notes":"Derived from an explicitly linked story claim subject.","role":"TEXT","sort_order":10,"story_id":"story.japanese.kamo_arrow","story_version_id":"storyver.japanese.kamo_fudoki_fragment"}
 {"entity_id":"deity.japanese.tamayorihime_kamo","notes":"Derived from an explicitly linked story claim subject.","role":"CHARACTER","sort_order":10,"story_id":"story.japanese.kamo_arrow","story_version_id":"storyver.japanese.kamo_fudoki_fragment"}
 {"entity_id":"deity.japanese.kamo_taketsunumi","notes":"Derived from an explicitly linked story claim subject.","role":"CHARACTER","sort_order":10,"story_id":"story.japanese.kamo_arrow","story_version_id":"storyver.japanese.kamo_fudoki_fragment"}
@@ -546,6 +641,48 @@
 {"entity_id":"hero.japanese.yamato_takeru","notes":"Transmission figure in the official public account.","role":"CHARACTER","sort_order":20,"story_id":"story.japanese.kusanagi_transmission","story_version_id":"storyver.japanese.kusanagi_atsuta"}
 {"entity_id":"site.japanese.atsuta_jingu","notes":"Real sacred site.","role":"PLACE","sort_order":30,"story_id":"story.japanese.kusanagi_transmission","story_version_id":"storyver.japanese.kusanagi_atsuta"}
 {"entity_id":"event.japanese.kusanagi.atsuta_enshrinement","notes":"Living shrine public-history layer.","role":"EVENT","sort_order":40,"story_id":"story.japanese.kusanagi_transmission","story_version_id":"storyver.japanese.kusanagi_atsuta"}
+{"entity_id":"deity.japanese.amaterasu","notes":"Grandmother","role":"CHARACTER","sort_order":10,"story_id":"story.japanese.ninigi_sea_palace","story_version_id":"storyver.japanese.kojiki_sect33_43"}
+{"entity_id":"deity.japanese.takamimusubi","notes":"Takagi-no-kami","role":"CHARACTER","sort_order":20,"story_id":"story.japanese.ninigi_sea_palace","story_version_id":"storyver.japanese.kojiki_sect33_43"}
+{"entity_id":"deity.japanese.ninigi","notes":"August Grandchild","role":"CHARACTER","sort_order":30,"story_id":"story.japanese.ninigi_sea_palace","story_version_id":"storyver.japanese.kojiki_sect33_43"}
+{"entity_id":"deity.japanese.sarutahiko","notes":"Guide","role":"CHARACTER","sort_order":40,"story_id":"story.japanese.ninigi_sea_palace","story_version_id":"storyver.japanese.kojiki_sect33_43"}
+{"entity_id":"deity.japanese.ame_no_uzume","notes":"Escort","role":"CHARACTER","sort_order":50,"story_id":"story.japanese.ninigi_sea_palace","story_version_id":"storyver.japanese.kojiki_sect33_43"}
+{"entity_id":"deity.japanese.omoikane","notes":"Counsellor","role":"CHARACTER","sort_order":60,"story_id":"story.japanese.ninigi_sea_palace","story_version_id":"storyver.japanese.kojiki_sect33_43"}
+{"entity_id":"weapon.japanese.kusanagi","notes":"Sword","role":"ARTIFACT","sort_order":70,"story_id":"story.japanese.ninigi_sea_palace","story_version_id":"storyver.japanese.kojiki_sect33_43"}
+{"entity_id":"deity.japanese.oyamatsumi","notes":"Mountain deity","role":"CHARACTER","sort_order":80,"story_id":"story.japanese.ninigi_sea_palace","story_version_id":"storyver.japanese.kojiki_sect33_43"}
+{"entity_id":"deity.japanese.konohana_sakuya_hime","notes":"Wife","role":"CHARACTER","sort_order":90,"story_id":"story.japanese.ninigi_sea_palace","story_version_id":"storyver.japanese.kojiki_sect33_43"}
+{"entity_id":"deity.japanese.iwanaga_hime","notes":"Rejected sister","role":"CHARACTER","sort_order":100,"story_id":"story.japanese.ninigi_sea_palace","story_version_id":"storyver.japanese.kojiki_sect33_43"}
+{"entity_id":"deity.japanese.hoderi","notes":"Elder brother","role":"CHARACTER","sort_order":110,"story_id":"story.japanese.ninigi_sea_palace","story_version_id":"storyver.japanese.kojiki_sect33_43"}
+{"entity_id":"deity.japanese.hoori","notes":"Younger brother","role":"CHARACTER","sort_order":120,"story_id":"story.japanese.ninigi_sea_palace","story_version_id":"storyver.japanese.kojiki_sect33_43"}
+{"entity_id":"deity.japanese.watatsumi","notes":"Sea deity","role":"CHARACTER","sort_order":130,"story_id":"story.japanese.ninigi_sea_palace","story_version_id":"storyver.japanese.kojiki_sect33_43"}
+{"entity_id":"deity.japanese.toyotama_hime","notes":"Sea princess","role":"CHARACTER","sort_order":140,"story_id":"story.japanese.ninigi_sea_palace","story_version_id":"storyver.japanese.kojiki_sect33_43"}
+{"entity_id":"artifact.japanese.tide_jewels","notes":"Tide jewels","role":"ARTIFACT","sort_order":150,"story_id":"story.japanese.ninigi_sea_palace","story_version_id":"storyver.japanese.kojiki_sect33_43"}
+{"entity_id":"place.japanese.watatsumi_palace","notes":"Sea palace","role":"PLACE","sort_order":160,"story_id":"story.japanese.ninigi_sea_palace","story_version_id":"storyver.japanese.kojiki_sect33_43"}
+{"entity_id":"text.japanese.kojiki","notes":"Kojiki","role":"TEXT","sort_order":170,"story_id":"story.japanese.ninigi_sea_palace","story_version_id":"storyver.japanese.kojiki_sect33_43"}
+{"entity_id":"deity.japanese.okuninushi","notes":"Master of the Great Land","role":"CHARACTER","sort_order":10,"story_id":"story.japanese.okuninushi","story_version_id":"storyver.japanese.kojiki_sect20_32"}
+{"entity_id":"creature.japanese.hare_of_inaba","notes":"Healed hare","role":"CHARACTER","sort_order":20,"story_id":"story.japanese.okuninushi","story_version_id":"storyver.japanese.kojiki_sect20_32"}
+{"entity_id":"deity.japanese.kamimusubi","notes":"Restorer","role":"CHARACTER","sort_order":30,"story_id":"story.japanese.okuninushi","story_version_id":"storyver.japanese.kojiki_sect20_32"}
+{"entity_id":"deity.japanese.susanoo","notes":"Ancestor and tester","role":"CHARACTER","sort_order":40,"story_id":"story.japanese.okuninushi","story_version_id":"storyver.japanese.kojiki_sect20_32"}
+{"entity_id":"deity.japanese.suseribime","notes":"Chief wife","role":"CHARACTER","sort_order":50,"story_id":"story.japanese.okuninushi","story_version_id":"storyver.japanese.kojiki_sect20_32"}
+{"entity_id":"place.japanese.ne_no_katasu_kuni","notes":"Nether-Distant-Land","role":"PLACE","sort_order":60,"story_id":"story.japanese.okuninushi","story_version_id":"storyver.japanese.kojiki_sect20_32"}
+{"entity_id":"deity.japanese.sukunabikona","notes":"Companion","role":"CHARACTER","sort_order":70,"story_id":"story.japanese.okuninushi","story_version_id":"storyver.japanese.kojiki_sect20_32"}
+{"entity_id":"deity.japanese.amaterasu","notes":"Heavenly ruler","role":"CHARACTER","sort_order":80,"story_id":"story.japanese.okuninushi","story_version_id":"storyver.japanese.kojiki_sect20_32"}
+{"entity_id":"deity.japanese.takamimusubi","notes":"Takagi-no-kami","role":"CHARACTER","sort_order":90,"story_id":"story.japanese.okuninushi","story_version_id":"storyver.japanese.kojiki_sect20_32"}
+{"entity_id":"deity.japanese.omoikane","notes":"Counsellor","role":"CHARACTER","sort_order":100,"story_id":"story.japanese.okuninushi","story_version_id":"storyver.japanese.kojiki_sect20_32"}
+{"entity_id":"deity.japanese.ame_no_wakahiko","notes":"Heavenly envoy","role":"CHARACTER","sort_order":110,"story_id":"story.japanese.okuninushi","story_version_id":"storyver.japanese.kojiki_sect20_32"}
+{"entity_id":"deity.japanese.takemikazuchi","notes":"Envoy","role":"CHARACTER","sort_order":120,"story_id":"story.japanese.okuninushi","story_version_id":"storyver.japanese.kojiki_sect20_32"}
+{"entity_id":"deity.japanese.kotoshironushi","notes":"Son","role":"CHARACTER","sort_order":130,"story_id":"story.japanese.okuninushi","story_version_id":"storyver.japanese.kojiki_sect20_32"}
+{"entity_id":"deity.japanese.takeminakata","notes":"Son","role":"CHARACTER","sort_order":140,"story_id":"story.japanese.okuninushi","story_version_id":"storyver.japanese.kojiki_sect20_32"}
+{"entity_id":"text.japanese.kojiki","notes":"Kojiki","role":"TEXT","sort_order":150,"story_id":"story.japanese.okuninushi","story_version_id":"storyver.japanese.kojiki_sect20_32"}
+{"entity_id":"person.japanese.keiko","notes":"Father","role":"CHARACTER","sort_order":10,"story_id":"story.japanese.yamato_takeru","story_version_id":"storyver.japanese.kojiki_sect79_90"}
+{"entity_id":"hero.japanese.yamato_takeru","notes":"Hero","role":"CHARACTER","sort_order":20,"story_id":"story.japanese.yamato_takeru","story_version_id":"storyver.japanese.kojiki_sect79_90"}
+{"entity_id":"hero.japanese.yamato_hime","notes":"Aunt at Ise","role":"CHARACTER","sort_order":30,"story_id":"story.japanese.yamato_takeru","story_version_id":"storyver.japanese.kojiki_sect79_90"}
+{"entity_id":"person.japanese.kumaso_takeru","notes":"Western bravoes","role":"CHARACTER","sort_order":40,"story_id":"story.japanese.yamato_takeru","story_version_id":"storyver.japanese.kojiki_sect79_90"}
+{"entity_id":"person.japanese.izumo_takeru","notes":"Izumo bravo","role":"CHARACTER","sort_order":50,"story_id":"story.japanese.yamato_takeru","story_version_id":"storyver.japanese.kojiki_sect79_90"}
+{"entity_id":"weapon.japanese.kusanagi","notes":"Sword","role":"ARTIFACT","sort_order":60,"story_id":"story.japanese.yamato_takeru","story_version_id":"storyver.japanese.kojiki_sect79_90"}
+{"entity_id":"hero.japanese.miyazu_hime","notes":"Bride in Owari","role":"CHARACTER","sort_order":70,"story_id":"story.japanese.yamato_takeru","story_version_id":"storyver.japanese.kojiki_sect79_90"}
+{"entity_id":"hero.japanese.oto_tachibana_hime","notes":"Consort","role":"CHARACTER","sort_order":80,"story_id":"story.japanese.yamato_takeru","story_version_id":"storyver.japanese.kojiki_sect79_90"}
+{"entity_id":"deity.japanese.ibuki_deity","notes":"Mountain deity","role":"CHARACTER","sort_order":90,"story_id":"story.japanese.yamato_takeru","story_version_id":"storyver.japanese.kojiki_sect79_90"}
+{"entity_id":"text.japanese.kojiki","notes":"Kojiki","role":"TEXT","sort_order":100,"story_id":"story.japanese.yamato_takeru","story_version_id":"storyver.japanese.kojiki_sect79_90"}
 {"entity_id":"site.cambodia.angkor","notes":"UNESCO World Heritage property context.","role":"PLACE","sort_order":10,"story_id":"story.khmer.angkor_wat_churning_relief","story_version_id":"storyver.khmer.angkor_churning_apsara"}
 {"entity_id":"site.khmer.angkor_wat","notes":"Real archaeological site.","role":"PLACE","sort_order":20,"story_id":"story.khmer.angkor_wat_churning_relief","story_version_id":"storyver.khmer.angkor_churning_apsara"}
 {"entity_id":"monument.khmer.angkor_wat_churning_relief","notes":"In-situ bas-relief material witness.","role":"ARTIFACT","sort_order":30,"story_id":"story.khmer.angkor_wat_churning_relief","story_version_id":"storyver.khmer.angkor_churning_apsara"}
@@ -693,6 +830,32 @@
 {"entity_id":"being.norse.ymir","notes":"Primordial giant","role":"CHARACTER","sort_order":10,"story_id":"story.norse.ymir_world","story_version_id":"storyver.norse.ymir_gylf"}
 {"entity_id":"deity.norse.odin","notes":"Slayer","role":"CHARACTER","sort_order":20,"story_id":"story.norse.ymir_world","story_version_id":"storyver.norse.ymir_gylf"}
 {"entity_id":"event.norse.slaying_of_ymir","notes":"World-making","role":"EVENT","sort_order":30,"story_id":"story.norse.ymir_world","story_version_id":"storyver.norse.ymir_gylf"}
+{"entity_id":"person.persian.kay_kavus","notes":"Shah","role":"CHARACTER","sort_order":10,"story_id":"story.persian.rostam_seven_labours","story_version_id":"storyver.persian.zimmern_mazinderan"}
+{"entity_id":"hero.persian.zal","notes":"Counsellor","role":"CHARACTER","sort_order":20,"story_id":"story.persian.rostam_seven_labours","story_version_id":"storyver.persian.zimmern_mazinderan"}
+{"entity_id":"hero.persian.rostam","notes":"Hero","role":"CHARACTER","sort_order":30,"story_id":"story.persian.rostam_seven_labours","story_version_id":"storyver.persian.zimmern_mazinderan"}
+{"entity_id":"creature.persian.rakhsh","notes":"Horse","role":"CHARACTER","sort_order":40,"story_id":"story.persian.rostam_seven_labours","story_version_id":"storyver.persian.zimmern_mazinderan"}
+{"entity_id":"person.persian.olad","notes":"Guide","role":"CHARACTER","sort_order":50,"story_id":"story.persian.rostam_seven_labours","story_version_id":"storyver.persian.zimmern_mazinderan"}
+{"entity_id":"demon.persian.white_div","notes":"White Demon","role":"CHARACTER","sort_order":60,"story_id":"story.persian.rostam_seven_labours","story_version_id":"storyver.persian.zimmern_mazinderan"}
+{"entity_id":"place.persian.mazandaran","notes":"Land of demons","role":"PLACE","sort_order":70,"story_id":"story.persian.rostam_seven_labours","story_version_id":"storyver.persian.zimmern_mazinderan"}
+{"entity_id":"text.persian.shahnameh","notes":"Shahnameh","role":"TEXT","sort_order":80,"story_id":"story.persian.rostam_seven_labours","story_version_id":"storyver.persian.zimmern_mazinderan"}
+{"entity_id":"hero.persian.rostam","notes":"Father","role":"CHARACTER","sort_order":10,"story_id":"story.persian.rostam_sohrab","story_version_id":"storyver.persian.zimmern_rustem_sohrab"}
+{"entity_id":"creature.persian.rakhsh","notes":"Horse","role":"CHARACTER","sort_order":20,"story_id":"story.persian.rostam_sohrab","story_version_id":"storyver.persian.zimmern_rustem_sohrab"}
+{"entity_id":"hero.persian.tahmineh","notes":"Mother","role":"CHARACTER","sort_order":30,"story_id":"story.persian.rostam_sohrab","story_version_id":"storyver.persian.zimmern_rustem_sohrab"}
+{"entity_id":"hero.persian.sohrab","notes":"Son","role":"CHARACTER","sort_order":40,"story_id":"story.persian.rostam_sohrab","story_version_id":"storyver.persian.zimmern_rustem_sohrab"}
+{"entity_id":"person.persian.afrasiyab","notes":"King of Tūrān","role":"CHARACTER","sort_order":50,"story_id":"story.persian.rostam_sohrab","story_version_id":"storyver.persian.zimmern_rustem_sohrab"}
+{"entity_id":"hero.persian.gordafarid","notes":"Warrior maiden","role":"CHARACTER","sort_order":60,"story_id":"story.persian.rostam_sohrab","story_version_id":"storyver.persian.zimmern_rustem_sohrab"}
+{"entity_id":"person.persian.kay_kavus","notes":"Shah","role":"CHARACTER","sort_order":70,"story_id":"story.persian.rostam_sohrab","story_version_id":"storyver.persian.zimmern_rustem_sohrab"}
+{"entity_id":"text.persian.shahnameh","notes":"Shahnameh","role":"TEXT","sort_order":80,"story_id":"story.persian.rostam_sohrab","story_version_id":"storyver.persian.zimmern_rustem_sohrab"}
+{"entity_id":"hero.persian.sam","notes":"Father","role":"CHARACTER","sort_order":10,"story_id":"story.persian.zal_rudabeh_rostam","story_version_id":"storyver.persian.zimmern_zal_rostam"}
+{"entity_id":"hero.persian.zal","notes":"Hero","role":"CHARACTER","sort_order":20,"story_id":"story.persian.zal_rudabeh_rostam","story_version_id":"storyver.persian.zimmern_zal_rostam"}
+{"entity_id":"creature.persian.simorgh","notes":"Foster-mother","role":"CHARACTER","sort_order":30,"story_id":"story.persian.zal_rudabeh_rostam","story_version_id":"storyver.persian.zimmern_zal_rostam"}
+{"entity_id":"person.persian.manuchehr","notes":"Shah","role":"CHARACTER","sort_order":40,"story_id":"story.persian.zal_rudabeh_rostam","story_version_id":"storyver.persian.zimmern_zal_rostam"}
+{"entity_id":"person.persian.mehrab","notes":"King of Kābul","role":"CHARACTER","sort_order":50,"story_id":"story.persian.zal_rudabeh_rostam","story_version_id":"storyver.persian.zimmern_zal_rostam"}
+{"entity_id":"hero.persian.rudabeh","notes":"Beloved","role":"CHARACTER","sort_order":60,"story_id":"story.persian.zal_rudabeh_rostam","story_version_id":"storyver.persian.zimmern_zal_rostam"}
+{"entity_id":"person.persian.sindokht","notes":"Queen of Kābul","role":"CHARACTER","sort_order":70,"story_id":"story.persian.zal_rudabeh_rostam","story_version_id":"storyver.persian.zimmern_zal_rostam"}
+{"entity_id":"hero.persian.rostam","notes":"Son","role":"CHARACTER","sort_order":80,"story_id":"story.persian.zal_rudabeh_rostam","story_version_id":"storyver.persian.zimmern_zal_rostam"}
+{"entity_id":"creature.persian.rakhsh","notes":"Horse","role":"CHARACTER","sort_order":90,"story_id":"story.persian.zal_rudabeh_rostam","story_version_id":"storyver.persian.zimmern_zal_rostam"}
+{"entity_id":"text.persian.shahnameh","notes":"Shahnameh","role":"TEXT","sort_order":100,"story_id":"story.persian.zal_rudabeh_rostam","story_version_id":"storyver.persian.zimmern_zal_rostam"}
 {"entity_id":"deity.slavic.perun","notes":"Chief idol","role":"CHARACTER","sort_order":10,"story_id":"story.slavic.kyiv_idols","story_version_id":"storyver.slavic.kyiv_idols_pvl"}
 {"entity_id":"deity.slavic.mokosh","notes":"Named idol","role":"CHARACTER","sort_order":20,"story_id":"story.slavic.kyiv_idols","story_version_id":"storyver.slavic.kyiv_idols_pvl"}
 {"entity_id":"event.slavic.kyiv_idols_980","notes":"Idols set up","role":"EVENT","sort_order":30,"story_id":"story.slavic.kyiv_idols","story_version_id":"storyver.slavic.kyiv_idols_pvl"}

@@ -5,6 +5,10 @@ series.chinese.xiyouji,3,story.chinese.xiyouji_pilgrims_gather,第三部 · 师�
 series.chinese.xiyouji,4,story.chinese.xiyouji_white_bone,第四部 · 三打白骨精,Part 4: the White Bone Demon,ch. 27–31,与上一部之间跳过第二十三至二十六回：四圣试禅心、五庄观偷吃人参果、观音救活果树。
 series.chinese.xiyouji,5,story.chinese.xiyouji_two_monkey_kings,第五部 · 真假美猴王,Part 5: the two Monkey Kings,ch. 56–58,与上一部之间跳过第三十二至五十五回：平顶山金角银角、乌鸡国、红孩儿、车迟国斗法、通天河、金兜洞、女儿国与琵琶洞等。
 series.chinese.xiyouji,6,story.chinese.xiyouji_flaming_mountains,第六部 · 三调芭蕉扇,Part 6: the plantain fan,ch. 59–61,
+series.finnish.kalevala,1,story.finnish.kalevala_sampo_forging,第一部 · 创世与三宝,Part 1: the world and the Sampo,Runes I–X,
+series.finnish.kalevala,2,story.finnish.kalevala_lemminkainen,第二部 · 勒明凯宁,Part 2: Lemminkäinen,Runes XI–XV,
+series.finnish.kalevala,3,story.finnish.kalevala_kullervo,第三部 · 库勒沃,Part 3: Kullervo,Runes XXXI–XXXVI,与上一部之间跳过第十六至三十章：万奈莫宁造船、访问冥界与巨人维普宁，伊尔马里宁赢得波赫约拉的少女与婚礼，勒明凯宁闯宴与逃亡海岛等。
+series.finnish.kalevala,4,story.finnish.kalevala_sampo_theft,第四部 · 夺取三宝,Part 4: the theft of the Sampo,Runes XXXIX–XLIII,与上一部之间跳过第三十七至三十八章：伊尔马里宁打造金女，又到波赫约拉求亲未成。
 series.greek.argonautica,1,story.greek.argonautica_outward,上部 · 远航,Part 1: the outward voyage,Books I–II,
 series.greek.argonautica,2,story.greek.argonautica_fleece_return,下部 · 金羊毛与归航,Part 2: the fleece and the return,Books III–IV,
 series.greek.heroes_library,1,story.greek.perseus_library,第一部 · 珀尔修斯,Part 1: Perseus,Library 2.4.1–2.4.5,
@@ -13,6 +17,9 @@ series.greek.heroes_library,3,story.greek.heracles_far_labours,第三部 · 赫�
 series.greek.heroes_library,4,story.greek.heracles_death_apotheosis,第四部 · 赫拉克勒斯（下）,Part 4: Heracles III,Library 2.6.1–2.8.1,本部略去《书库》2.7.4：攻打斯巴达、杀死希波科翁诸子，以及奥格在忒革亚生下忒勒福斯。
 series.greek.odyssey,1,story.greek.odyssey_wanderings,上部 · 漂泊,Part 1: the wanderings,Books I–XII,
 series.greek.odyssey,2,story.greek.odyssey_homecoming,下部 · 归家,Part 2: the homecoming,Books XIII–XXIV,
+series.hindu.mahabharata_tales,1,story.hindu.nala_damayanti,第一部 · 那罗与达摩衍蒂,Part 1: Nala and Damayantī,Vana Parva LII–LXXIX,
+series.hindu.mahabharata_tales,2,story.hindu.savitri_satyavan,第二部 · 莎维德丽,Part 2: Sāvitrī,Vana Parva CCXCI–CCXCVII,与上一部之间跳过森林篇第八十至二百九十节：般度五子的朝圣、阿周那从天界归来、《罗摩故事》的缩写等。
+series.hindu.mahabharata_tales,3,story.hindu.kurukshetra_war,第三部 · 俱卢之野,Part 3: the field of the Kurus,Udyoga to Sauptika Parva,与上一部之间跳过森林篇的其余部分、毗罗吒篇（隐姓埋名的第十三年）与斡旋篇的大部分；战争各篇只择取主线。
 series.hindu.ramayana_books,1,story.hindu.ramayana_bala,第一部 · 童年篇,Part 1: Childhood,Book I (Bāla Kāṇḍa),
 series.hindu.ramayana_books,2,story.hindu.ramayana_ayodhya,第二部 · 阿逾陀篇,Part 2: Ayodhyā,Book II (Ayodhyā Kāṇḍa),
 series.hindu.ramayana_books,3,story.hindu.ramayana_aranya,第三部 · 森林篇,Part 3: the Forest,Book III (Araṇya Kāṇḍa),
@@ -21,11 +28,19 @@ series.hindu.ramayana_books,5,story.hindu.ramayana_sundara,第五部 · 美妙�
 series.hindu.ramayana_books,6,story.hindu.ramayana_yuddha,第六部 · 战斗篇,Part 6: War,Book VI (Yuddha Kāṇḍa),
 series.irish.tain,1,story.irish.tain_muster_boy_deeds,上部 · 库丘林守浅滩,Part 1: Cú Chulainn at the fords,Pillow-talk to the Great Rout,
 series.irish.tain,2,story.irish.tain_ferdiad_bulls,下部 · 费迪亚德与公牛之战,Part 2: Fer Diad and the bulls,Fer Diad to the end,
+series.japanese.kojiki,1,story.japanese.izanagi_izanami,第一部 · 伊邪那岐与伊邪那美,Part 1: Izanagi and Izanami,Sect. I–X,
+series.japanese.kojiki,2,story.japanese.iwato_orochi,第二部 · 天之岩户与八岐大蛇,Part 2: the rock-cave and the serpent,Sect. XI–XIX,
+series.japanese.kojiki,3,story.japanese.okuninushi,第三部 · 大国主,Part 3: Ōkuninushi,Sect. XX–XXXII,
+series.japanese.kojiki,4,story.japanese.ninigi_sea_palace,第四部 · 天孙降临与海神之宫,Part 4: the August Grandchild and the sea palace,Sect. XXXIII–XLIII,
+series.japanese.kojiki,5,story.japanese.yamato_takeru,第五部 · 倭建命,Part 5: Yamato Takeru,Sect. LXXIX–XC,与上一部之间跳过第四十四至七十八节：神武天皇东征以及此后诸代天皇的记事，直到景行天皇纪的前三部分。
 series.norse.gylfaginning_end,1,story.norse.frigg_baldr,上部 · 巴德尔之死,Part 1: the death of Baldr,Gylfaginning 49–50,
 series.norse.gylfaginning_end,2,story.norse.ragnarok,下部 · 诸神黄昏,Part 2: Ragnarök,Gylfaginning 51–54,
 series.norse.volsunga,1,story.norse.volsunga_sigmund,第一部 · 西格蒙德,Part 1: Sigmund,ch. 1–13,
 series.norse.volsunga,2,story.norse.volsunga_sigurd_dragon,第二部 · 屠龙者西古尔德,Part 2: Sigurd the dragon-slayer,ch. 13–24,
 series.norse.volsunga,3,story.norse.volsunga_sigurd_brynhild,第三部 · 西古尔德与布伦希尔德,Part 3: Sigurd and Brynhild,ch. 25–32,
+series.persian.shahnameh_rostam,1,story.persian.zal_rudabeh_rostam,第一部 · 扎尔与鲁达贝,Part 1: Zāl and Rūdābeh,“Zal” to “Rustem”,
+series.persian.shahnameh_rostam,2,story.persian.rostam_seven_labours,第二部 · 鲁斯塔姆的七关,Part 2: the seven stages of Rostam,“The March into Mazinderan”; “Kai Kaous Committeth More Follies”,本部只讲“凯·卡乌斯的更多愚行”中的飞天宝座一段，略去哈马瓦兰之战与苏达贝的故事。
+series.persian.shahnameh_rostam,3,story.persian.rostam_sohrab,第三部 · 鲁斯塔姆与苏赫拉布,Part 3: Rostam and Sohrāb,“Rustem and Sohrab”,
 series.welsh.mabinogi,1,story.welsh.mabinogi_pwyll,第一支 · 皮威尔,First Branch: Pwyll,First Branch,
 series.welsh.mabinogi,2,story.welsh.mabinogi_branwen,第二支 · 布兰雯,Second Branch: Branwen,Second Branch,
 series.welsh.mabinogi,3,story.welsh.mabinogi_manawydan,第三支 · 马纳维丹,Third Branch: Manawydan,Third Branch,

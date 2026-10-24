@@ -5,16 +5,21 @@ museum.ugarit.baal_thunder_ao15775,MONUMENT,,,,,,,,,,,,REAL_ARCHAEOLOGICAL,UNASS
 place.chinese.buzhou_mountain,MYTHICAL_MOUNTAIN,不周之山,,,,,,,,,,,MYTHICAL,TEXTUAL
 place.chinese.flaming_mountains_xiyouji,MYTHIC_MOUNTAIN,火焰山,,,,,,,,,,,LATER_LEGEND,TEXTUAL
 place.chinese.huaguo_shan,NOVEL_MOUNTAIN,花果山水簾洞,,,,,,,,,,,MYTHICAL,TEXTUAL
+place.finnish.pohjola,MYTHIC_LAND,,,,,,,,,,,,MYTHICAL,TEXTUAL
+place.finnish.tuonela,UNDERWORLD,,,,,,,,,,,,MYTHICAL,TEXTUAL
 place.greek.ithaca_homeric,HOMERIC_ISLAND,Ithaca,Ithaki (identification debated),GR,,,,,,,,,MIXED,TEXTUAL
 place.hindu.lanka,MYTHIC_CITY,Laṅkā,,,,,,,,,,,MYTHICAL,TEXTUAL
 place.hindu.mandara,MYTHICAL_MOUNTAIN,मन्दर,,,,,,,,,,,MYTHICAL,TEXTUAL
+place.japanese.ne_no_katasu_kuni,OTHERWORLD,,,,,,,,,,,,MYTHICAL,TEXTUAL
 place.japanese.onogoro,MYTHICAL_ISLAND,淤能碁呂島,,,,,,,,,,,MYTHICAL,TEXTUAL
+place.japanese.watatsumi_palace,UNDERSEA_PALACE,,,,,,,,,,,,MYTHICAL,TEXTUAL
 place.japanese.yomi,REALM_OF_THE_DEAD,黄泉國,,,,,,,,,,,MYTHICAL,TEXTUAL
 place.mexica.coatepec,MYTHIC_MOUNTAIN,Coatepec,,,,,,,,,,,MYTHICAL,TEXTUAL
 place.norse.folkvangr,DIVINE_DWELLING,Fólkvangr,,,,,,,,,,,MYTHICAL,TEXTUAL
 place.norse.himinbjorg,DIVINE_DWELLING,Himinbjǫrg,,,,,,,,,,,MYTHICAL,TEXTUAL
 place.norse.mimisbrunnr,MYTHICAL_WELL,Mímisbrunnr,,,,,Mythic time,,,,,,MYTHICAL,TEXTUAL
 place.norse.noatun,DIVINE_DWELLING,Nóatún,,,,,,,,,,,MYTHICAL,TEXTUAL
+place.persian.mazandaran,DEMON_LAND,,,,,,,,,,,,MYTHICAL,TEXTUAL
 place.sumerian.dilmun,MYTHIC_LAND,Dilmun,,,,,,,,,,,MIXED,TEXTUAL
 place.welsh.annwn,OTHERWORLD,,,,,,,,,,,,MYTHICAL,TEXTUAL
 place.zoroastrian.airyana_vaejah,SACRED_LAND,Airyana Vaejah,,,,,,,,,,,MIXED,TEXTUAL

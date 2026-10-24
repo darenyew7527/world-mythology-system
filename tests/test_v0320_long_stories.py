@@ -47,7 +47,7 @@ class LongStoriesTests(unittest.TestCase):
         connection.row_factory = sqlite3.Row
         return connection
 
-    def test_schema_45_and_46_seal_v032_preserved_after_v034(self):
+    def test_schema_45_and_46_seal_v032_preserved_after_v035(self):
         with self.connect() as connection:
             migrations = dict(connection.execute(
                 "SELECT version,name FROM schema_migrations WHERE version IN (45,46)"
@@ -68,14 +68,14 @@ class LongStoriesTests(unittest.TestCase):
                 "SELECT status,COUNT(*) FROM story_expansion_targets WHERE batch_id='storybatch.v0320.04' GROUP BY status"
             ).fetchall())
         self.assertEqual(migrations, {45: "20261011_v0320_long_stories", 46: "20261011_v0320_long_stories_release"})
-        self.assertEqual(dict(latest), {"id": "release.v0.34.0", "schema_version": 50, "data_version": "0.34.0"})
+        self.assertEqual(dict(latest), {"id": "release.v0.35.0", "schema_version": 52, "data_version": "0.35.0"})
         self.assertEqual(dict(v032), {"schema_version": 46, "data_version": "0.32.0"})
         self.assertEqual(v031["schema_version"], 44)
         self.assertEqual(tuple(batch), ("CHECKPOINT_COMPLETE", "0.32.0"))
         self.assertEqual(targets, {"COMPLETED": 12})
         meta = self.snapshot["meta"]
-        self.assertEqual(meta["projectVersion"], "0.34.0-heroic-epics")
-        self.assertEqual(meta["dataVersion"], "0.34.0")
+        self.assertEqual(meta["projectVersion"], "0.35.0-world-epics")
+        self.assertEqual(meta["dataVersion"], "0.35.0")
 
     def test_long_versions_are_long_and_every_section_is_evidenced(self):
         with self.connect() as connection:
@@ -219,7 +219,7 @@ class LongStoriesTests(unittest.TestCase):
         self.assertIn("export const LONG_STORY_SECTIONS = 12", deck)
         self.assertIn(".chapter-nav {", styles)
         self.assertIn(".chapter-nav, .chapter-next, .chapter-resume, .deity-other-stories { display: none; }", styles)
-        self.assertIn("v0.34", library)
+        self.assertIn("v0.35", library)
         tiny = [float(value) for value in re.findall(r"font-size:\s*(0?\.\d+)rem", styles) if float(value) < 0.68]
         self.assertEqual(tiny, [])
 
@@ -229,7 +229,7 @@ class LongStoriesTests(unittest.TestCase):
             generate(DB, root / "offline", root / "manifest.json", markdown_dir=root / "md")
             html_text = (root / "offline" / HTML_NAME).read_text(encoding="utf-8")
             greek = (root / "md" / "greek.md").read_text(encoding="utf-8")
-        self.assertEqual(HTML_NAME, "world-mythology-v0.34-story-archive.html")
+        self.assertEqual(HTML_NAME, "world-mythology-v0.35-story-archive.html")
         self.assertIn('class="long-story-link"', html_text)
         theogony_first = self.versions["storyver.greek.theogony_long"]["sections"][0]["bodyZh"]
         self.assertEqual(greek.count(theogony_first), 1)

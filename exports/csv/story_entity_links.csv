@@ -81,6 +81,17 @@ story.chinese.nuwa_repairs_sky,storyver.chinese.nuwa_liezi_tangwen,text.chinese.
 story.chinese.pangu_sanwu_liji,storyver.chinese.pangu_yiwen_leiju,being.chinese.pangu,CHARACTER,10,Primordial being
 story.chinese.pangu_sanwu_liji,storyver.chinese.pangu_yiwen_leiju,text.chinese.sanwu_liji,TEXT,20,Lost source
 story.chinese.pangu_sanwu_liji,storyver.chinese.pangu_yiwen_leiju,event.chinese.pangu_heaven_earth,EVENT,30,Separation
+story.chinese.soushenji_tales,storyver.chinese.soushenji_selected_13,text.chinese.soushenji,TEXT,10,Soushen ji
+story.chinese.soushenji_tales,storyver.chinese.soushenji_selected_13,hero.chinese.dong_yong,CHARACTER,20,Filial son
+story.chinese.soushenji_tales,storyver.chinese.soushenji_selected_13,deity.chinese.zhinu,CHARACTER,30,Weaving Maiden
+story.chinese.soushenji_tales,storyver.chinese.soushenji_selected_13,hero.chinese.gan_jiang,CHARACTER,40,Swordsmith
+story.chinese.soushenji_tales,storyver.chinese.soushenji_selected_13,hero.chinese.mo_ye,CHARACTER,50,Swordsmith's wife
+story.chinese.soushenji_tales,storyver.chinese.soushenji_selected_13,hero.chinese.chi_bi,CHARACTER,60,Avenging son
+story.chinese.soushenji_tales,storyver.chinese.soushenji_selected_13,person.chinese.han_ping,CHARACTER,70,Faithful husband
+story.chinese.soushenji_tales,storyver.chinese.soushenji_selected_13,deity.chinese.change,CHARACTER,80,Moon goddess
+story.chinese.soushenji_tales,storyver.chinese.soushenji_selected_13,hero.chinese.ziyu,CHARACTER,90,Princess of Wu
+story.chinese.soushenji_tales,storyver.chinese.soushenji_selected_13,person.chinese.song_dingbo,CHARACTER,100,Ghost-seller
+story.chinese.soushenji_tales,storyver.chinese.soushenji_selected_13,hero.chinese.li_ji,CHARACTER,110,Serpent-slayer
 story.chinese.xiyouji_flaming_mountains,storyver.chinese.xiyouji_ch59_61,hero.chinese.sun_wukong,CHARACTER,10,Borrows the fan
 story.chinese.xiyouji_flaming_mountains,storyver.chinese.xiyouji_ch59_61,demon.chinese.tieshan_gongzhu,CHARACTER,20,Keeper of the fan
 story.chinese.xiyouji_flaming_mountains,storyver.chinese.xiyouji_ch59_61,demon.chinese.niumowang,CHARACTER,30,Bull Demon King
@@ -190,6 +201,45 @@ story.egyptian.weighing_heart_ani,storyver.egyptian.weighing_ani_bm,deity.egypti
 story.egyptian.weighing_heart_ani,storyver.egyptian.weighing_ani_bm,deity.egyptian.thoth,CHARACTER,30,Scribe
 story.egyptian.weighing_heart_ani,storyver.egyptian.weighing_ani_bm,deity.egyptian.ma_at,CHARACTER,40,Feather
 story.egyptian.weighing_heart_ani,storyver.egyptian.weighing_ani_bm,event.egyptian.weighing_heart_ani,EVENT,50,Weighing
+story.finnish.kalevala_kullervo,storyver.finnish.kalevala_crawford_31_36,person.finnish.untamo,CHARACTER,10,Uncle and enemy
+story.finnish.kalevala_kullervo,storyver.finnish.kalevala_crawford_31_36,person.finnish.kalervo,CHARACTER,20,Father
+story.finnish.kalevala_kullervo,storyver.finnish.kalevala_crawford_31_36,hero.finnish.kullervo,CHARACTER,30,Hero
+story.finnish.kalevala_kullervo,storyver.finnish.kalevala_crawford_31_36,hero.finnish.ilmarinen,CHARACTER,40,Master
+story.finnish.kalevala_kullervo,storyver.finnish.kalevala_crawford_31_36,hero.finnish.maiden_of_pohjola,CHARACTER,50,Ilmarinen's wife
+story.finnish.kalevala_kullervo,storyver.finnish.kalevala_crawford_31_36,deity.finnish.ukko,CHARACTER,60,Sky god
+story.finnish.kalevala_kullervo,storyver.finnish.kalevala_crawford_31_36,hero.finnish.vainamoinen,CHARACTER,70,Sage
+story.finnish.kalevala_kullervo,storyver.finnish.kalevala_crawford_31_36,text.finnish.kalevala,TEXT,80,Kalevala
+story.finnish.kalevala_lemminkainen,storyver.finnish.kalevala_crawford_11_15,hero.finnish.lemminkainen,CHARACTER,10,Hero
+story.finnish.kalevala_lemminkainen,storyver.finnish.kalevala_crawford_11_15,hero.finnish.kyllikki,CHARACTER,20,Wife
+story.finnish.kalevala_lemminkainen,storyver.finnish.kalevala_crawford_11_15,hero.finnish.lemminkainen_mother,CHARACTER,30,Mother
+story.finnish.kalevala_lemminkainen,storyver.finnish.kalevala_crawford_11_15,hero.finnish.louhi,CHARACTER,40,Mistress of Pohjola
+story.finnish.kalevala_lemminkainen,storyver.finnish.kalevala_crawford_11_15,person.finnish.markahattu,CHARACTER,50,Herdsman
+story.finnish.kalevala_lemminkainen,storyver.finnish.kalevala_crawford_11_15,place.finnish.pohjola,PLACE,60,North
+story.finnish.kalevala_lemminkainen,storyver.finnish.kalevala_crawford_11_15,place.finnish.tuonela,PLACE,70,Land of the dead
+story.finnish.kalevala_lemminkainen,storyver.finnish.kalevala_crawford_11_15,hero.finnish.ilmarinen,CHARACTER,80,Smith
+story.finnish.kalevala_lemminkainen,storyver.finnish.kalevala_crawford_11_15,deity.finnish.ukko,CHARACTER,90,Sky god
+story.finnish.kalevala_lemminkainen,storyver.finnish.kalevala_crawford_11_15,text.finnish.kalevala,TEXT,100,Kalevala
+story.finnish.kalevala_sampo_forging,storyver.finnish.kalevala_crawford_1_10,deity.finnish.ilmatar,CHARACTER,10,Creator
+story.finnish.kalevala_sampo_forging,storyver.finnish.kalevala_crawford_1_10,hero.finnish.vainamoinen,CHARACTER,20,Singer
+story.finnish.kalevala_sampo_forging,storyver.finnish.kalevala_crawford_1_10,hero.finnish.joukahainen,CHARACTER,30,Rival
+story.finnish.kalevala_sampo_forging,storyver.finnish.kalevala_crawford_1_10,hero.finnish.aino,CHARACTER,40,Promised bride
+story.finnish.kalevala_sampo_forging,storyver.finnish.kalevala_crawford_1_10,hero.finnish.louhi,CHARACTER,50,Mistress of Pohjola
+story.finnish.kalevala_sampo_forging,storyver.finnish.kalevala_crawford_1_10,hero.finnish.maiden_of_pohjola,CHARACTER,60,Maiden
+story.finnish.kalevala_sampo_forging,storyver.finnish.kalevala_crawford_1_10,hero.finnish.ilmarinen,CHARACTER,70,Smith
+story.finnish.kalevala_sampo_forging,storyver.finnish.kalevala_crawford_1_10,deity.finnish.ukko,CHARACTER,80,Sky god
+story.finnish.kalevala_sampo_forging,storyver.finnish.kalevala_crawford_1_10,artifact.finnish.sampo,ARTIFACT,90,Sampo
+story.finnish.kalevala_sampo_forging,storyver.finnish.kalevala_crawford_1_10,place.finnish.pohjola,PLACE,100,North
+story.finnish.kalevala_sampo_forging,storyver.finnish.kalevala_crawford_1_10,text.finnish.kalevala,TEXT,110,Kalevala
+story.finnish.kalevala_sampo_theft,storyver.finnish.kalevala_crawford_39_43,hero.finnish.vainamoinen,CHARACTER,10,Singer
+story.finnish.kalevala_sampo_theft,storyver.finnish.kalevala_crawford_39_43,hero.finnish.ilmarinen,CHARACTER,20,Smith
+story.finnish.kalevala_sampo_theft,storyver.finnish.kalevala_crawford_39_43,hero.finnish.lemminkainen,CHARACTER,30,Companion
+story.finnish.kalevala_sampo_theft,storyver.finnish.kalevala_crawford_39_43,artifact.finnish.kantele,ARTIFACT,40,Kantele
+story.finnish.kalevala_sampo_theft,storyver.finnish.kalevala_crawford_39_43,hero.finnish.louhi,CHARACTER,50,Mistress of Pohjola
+story.finnish.kalevala_sampo_theft,storyver.finnish.kalevala_crawford_39_43,artifact.finnish.sampo,ARTIFACT,60,Sampo
+story.finnish.kalevala_sampo_theft,storyver.finnish.kalevala_crawford_39_43,place.finnish.pohjola,PLACE,70,North
+story.finnish.kalevala_sampo_theft,storyver.finnish.kalevala_crawford_39_43,creature.finnish.iku_turso,CHARACTER,80,Sea monster
+story.finnish.kalevala_sampo_theft,storyver.finnish.kalevala_crawford_39_43,deity.finnish.ukko,CHARACTER,90,Sky god
+story.finnish.kalevala_sampo_theft,storyver.finnish.kalevala_crawford_39_43,text.finnish.kalevala,TEXT,100,Kalevala
 story.greek.aphrodite_origins,storyver.greek.aphrodite_theogony,deity.greek.aphrodite,CHARACTER,10,Derived from an explicitly linked story claim subject.
 story.greek.aphrodite_origins,storyver.greek.aphrodite_iliad,deity.greek.aphrodite,CHARACTER,10,Derived from an explicitly linked story claim subject.
 story.greek.aphrodite_origins,storyver.greek.aphrodite_iliad,deity.greek.dione,CHARACTER,10,Derived from an explicitly linked story claim subject.
@@ -368,6 +418,28 @@ story.greek.zeus_typhon,storyver.greek.typhon_theogony,event.greek.zeus_typhon_b
 story.hawaiian.pele_journey,storyver.hawaiian.pele_nps,deity.hawaiian.pele,CHARACTER,10,Volcano deity
 story.hawaiian.pele_journey,storyver.hawaiian.pele_nps,site.hawaii.halemaumau,PLACE,20,Home
 story.hawaiian.pele_journey,storyver.hawaiian.pele_nps,event.hawaiian.pele_journey,EVENT,30,Journey
+story.hindu.kurukshetra_war,storyver.hindu.mahabharata_ganguli_kurukshetra,hero.indian.yudhishthira,CHARACTER,10,Eldest Pāṇḍava
+story.hindu.kurukshetra_war,storyver.hindu.mahabharata_ganguli_kurukshetra,hero.indian.arjuna,CHARACTER,20,Archer
+story.hindu.kurukshetra_war,storyver.hindu.mahabharata_ganguli_kurukshetra,hero.indian.bhima,CHARACTER,30,Strong one
+story.hindu.kurukshetra_war,storyver.hindu.mahabharata_ganguli_kurukshetra,hero.indian.draupadi,CHARACTER,40,Queen
+story.hindu.kurukshetra_war,storyver.hindu.mahabharata_ganguli_kurukshetra,deity.hindu.krishna,CHARACTER,50,Charioteer and counsellor
+story.hindu.kurukshetra_war,storyver.hindu.mahabharata_ganguli_kurukshetra,hero.indian.duryodhana,CHARACTER,60,Kaurava king
+story.hindu.kurukshetra_war,storyver.hindu.mahabharata_ganguli_kurukshetra,hero.indian.bhishma,CHARACTER,70,Grandsire
+story.hindu.kurukshetra_war,storyver.hindu.mahabharata_ganguli_kurukshetra,hero.indian.drona,CHARACTER,80,Teacher
+story.hindu.kurukshetra_war,storyver.hindu.mahabharata_ganguli_kurukshetra,hero.indian.karna,CHARACTER,90,Rival
+story.hindu.kurukshetra_war,storyver.hindu.mahabharata_ganguli_kurukshetra,hero.indian.abhimanyu,CHARACTER,100,Arjuna's son
+story.hindu.kurukshetra_war,storyver.hindu.mahabharata_ganguli_kurukshetra,hero.indian.ashvatthama,CHARACTER,110,Drona's son
+story.hindu.kurukshetra_war,storyver.hindu.mahabharata_ganguli_kurukshetra,text.indian.bhagavad_gita,TEXT,120,Bhagavad Gītā
+story.hindu.kurukshetra_war,storyver.hindu.mahabharata_ganguli_kurukshetra,text.indian.mahabharata,TEXT,130,Mahābhārata
+story.hindu.nala_damayanti,storyver.hindu.mahabharata_ganguli_nala,hero.indian.nala,CHARACTER,10,King of the Nishadhas
+story.hindu.nala_damayanti,storyver.hindu.mahabharata_ganguli_nala,hero.indian.damayanti,CHARACTER,20,Princess of Vidarbha
+story.hindu.nala_damayanti,storyver.hindu.mahabharata_ganguli_nala,deity.vedic.indra,CHARACTER,30,Suitor god
+story.hindu.nala_damayanti,storyver.hindu.mahabharata_ganguli_nala,deity.hindu.agni,CHARACTER,40,Suitor god
+story.hindu.nala_damayanti,storyver.hindu.mahabharata_ganguli_nala,being.hindu.kali,CHARACTER,50,Personified age
+story.hindu.nala_damayanti,storyver.hindu.mahabharata_ganguli_nala,person.indian.pushkara,CHARACTER,60,Brother
+story.hindu.nala_damayanti,storyver.hindu.mahabharata_ganguli_nala,creature.indian.karkotaka,CHARACTER,70,Nāga
+story.hindu.nala_damayanti,storyver.hindu.mahabharata_ganguli_nala,person.indian.rituparna,CHARACTER,80,King of Ayodhyā
+story.hindu.nala_damayanti,storyver.hindu.mahabharata_ganguli_nala,text.indian.mahabharata,TEXT,90,Mahābhārata
 story.hindu.ramayana,storyver.hindu.ramayana_griffith_1_6,deity.hindu.rama,CHARACTER,10,Prince of Ayodhyā
 story.hindu.ramayana,storyver.hindu.ramayana_griffith_1_6,deity.hindu.sita,CHARACTER,20,Wife of Rāma
 story.hindu.ramayana,storyver.hindu.ramayana_griffith_1_6,hero.indian.lakshmana,CHARACTER,30,Brother
@@ -470,6 +542,12 @@ story.hindu.samudra_manthana_texts,storyver.hindu.churning_bhagavata,event.hindu
 story.hindu.samudra_manthana_texts,storyver.hindu.churning_bhagavata,text.hindu.bhagavata_purana.skandha8_churning,TEXT,110,Passage witness.
 story.hindu.samudra_manthana_texts,storyver.hindu.churning_bhagavata,text.hindu.bhagavata_purana,TEXT,120,Parent Purāṇa.
 story.hindu.samudra_manthana_texts,storyver.hindu.churning_bhagavata,deity.hindu.brahma,RELATED,90,Leads the gods to Viṣṇu before the churning (BhP 8.5).
+story.hindu.savitri_satyavan,storyver.hindu.mahabharata_ganguli_savitri,person.indian.ashvapati,CHARACTER,10,Father
+story.hindu.savitri_satyavan,storyver.hindu.mahabharata_ganguli_savitri,hero.indian.savitri,CHARACTER,20,Heroine
+story.hindu.savitri_satyavan,storyver.hindu.mahabharata_ganguli_savitri,hero.indian.satyavan,CHARACTER,30,Husband
+story.hindu.savitri_satyavan,storyver.hindu.mahabharata_ganguli_savitri,person.indian.dyumatsena,CHARACTER,40,Father-in-law
+story.hindu.savitri_satyavan,storyver.hindu.mahabharata_ganguli_savitri,deity.hindu.yama,CHARACTER,50,God of death
+story.hindu.savitri_satyavan,storyver.hindu.mahabharata_ganguli_savitri,text.indian.mahabharata,TEXT,60,Mahābhārata
 story.irish.second_battle_mag_tuired,storyver.irish.mag_tuired_gray,deity.irish.dagda,CHARACTER,10,Owner of the cauldron
 story.irish.second_battle_mag_tuired,storyver.irish.mag_tuired_gray,deity.irish.lugh,CHARACTER,20,Samildánach
 story.irish.second_battle_mag_tuired,storyver.irish.mag_tuired_gray,deity.irish.morrigan,CHARACTER,30,Prophetess
@@ -533,6 +611,23 @@ story.japanese.izanagi_izanami,storyver.japanese.izanagi_izanami_kojiki,event.ja
 story.japanese.izanagi_izanami,storyver.japanese.izanagi_izanami_kojiki,event.japanese.izanagi_visits_yomi,EVENT,100,Yomi
 story.japanese.izanagi_izanami,storyver.japanese.izanagi_izanami_kojiki,event.japanese.izanagi_purification,EVENT,110,Purification
 story.japanese.izanagi_izanami,storyver.japanese.izanagi_izanami_kojiki,text.japanese.kojiki,TEXT,120,Kojiki
+story.japanese.izanagi_izanami,storyver.japanese.kojiki_sect1_10,deity.japanese.takamimusubi,CHARACTER,10,First deities
+story.japanese.izanagi_izanami,storyver.japanese.kojiki_sect1_10,deity.japanese.kamimusubi,CHARACTER,20,First deities
+story.japanese.izanagi_izanami,storyver.japanese.kojiki_sect1_10,deity.japanese.izanagi,CHARACTER,30,Male-Who-Invites
+story.japanese.izanagi_izanami,storyver.japanese.kojiki_sect1_10,deity.japanese.izanami,CHARACTER,40,Female-Who-Invites
+story.japanese.izanagi_izanami,storyver.japanese.kojiki_sect1_10,weapon.japanese.amenonuhoko,ARTIFACT,50,Jewelled spear
+story.japanese.izanagi_izanami,storyver.japanese.kojiki_sect1_10,place.japanese.onogoro,PLACE,60,First island
+story.japanese.izanagi_izanami,storyver.japanese.kojiki_sect1_10,deity.japanese.kagutsuchi,CHARACTER,70,Fire deity
+story.japanese.izanagi_izanami,storyver.japanese.kojiki_sect1_10,deity.japanese.takemikazuchi,CHARACTER,80,Born from the sword
+story.japanese.izanagi_izanami,storyver.japanese.kojiki_sect1_10,place.japanese.yomi,PLACE,90,Land of Hades
+story.japanese.izanagi_izanami,storyver.japanese.kojiki_sect1_10,group.japanese.eight_thunder_kami,CHARACTER,100,Eight thunders
+story.japanese.izanagi_izanami,storyver.japanese.kojiki_sect1_10,deity.japanese.amaterasu,CHARACTER,110,Born from the left eye
+story.japanese.izanagi_izanami,storyver.japanese.kojiki_sect1_10,deity.japanese.tsukuyomi,CHARACTER,120,Born from the right eye
+story.japanese.izanagi_izanami,storyver.japanese.kojiki_sect1_10,deity.japanese.susanoo,CHARACTER,130,Born from the nose
+story.japanese.izanagi_izanami,storyver.japanese.kojiki_sect1_10,event.japanese.onogoro_creation,EVENT,140,Island made
+story.japanese.izanagi_izanami,storyver.japanese.kojiki_sect1_10,event.japanese.izanagi_visits_yomi,EVENT,150,Journey to Yomi
+story.japanese.izanagi_izanami,storyver.japanese.kojiki_sect1_10,event.japanese.izanagi_purification,EVENT,160,Purification
+story.japanese.izanagi_izanami,storyver.japanese.kojiki_sect1_10,text.japanese.kojiki,TEXT,170,Kojiki
 story.japanese.kamo_arrow,storyver.japanese.kamo_fudoki_fragment,text.japan.yamashiro_fudoki_kamo_fragment,TEXT,10,Derived from an explicitly linked story claim subject.
 story.japanese.kamo_arrow,storyver.japanese.kamo_fudoki_fragment,deity.japanese.tamayorihime_kamo,CHARACTER,10,Derived from an explicitly linked story claim subject.
 story.japanese.kamo_arrow,storyver.japanese.kamo_fudoki_fragment,deity.japanese.kamo_taketsunumi,CHARACTER,10,Derived from an explicitly linked story claim subject.
@@ -547,6 +642,48 @@ story.japanese.kusanagi_transmission,storyver.japanese.kusanagi_atsuta,weapon.ja
 story.japanese.kusanagi_transmission,storyver.japanese.kusanagi_atsuta,hero.japanese.yamato_takeru,CHARACTER,20,Transmission figure in the official public account.
 story.japanese.kusanagi_transmission,storyver.japanese.kusanagi_atsuta,site.japanese.atsuta_jingu,PLACE,30,Real sacred site.
 story.japanese.kusanagi_transmission,storyver.japanese.kusanagi_atsuta,event.japanese.kusanagi.atsuta_enshrinement,EVENT,40,Living shrine public-history layer.
+story.japanese.ninigi_sea_palace,storyver.japanese.kojiki_sect33_43,deity.japanese.amaterasu,CHARACTER,10,Grandmother
+story.japanese.ninigi_sea_palace,storyver.japanese.kojiki_sect33_43,deity.japanese.takamimusubi,CHARACTER,20,Takagi-no-kami
+story.japanese.ninigi_sea_palace,storyver.japanese.kojiki_sect33_43,deity.japanese.ninigi,CHARACTER,30,August Grandchild
+story.japanese.ninigi_sea_palace,storyver.japanese.kojiki_sect33_43,deity.japanese.sarutahiko,CHARACTER,40,Guide
+story.japanese.ninigi_sea_palace,storyver.japanese.kojiki_sect33_43,deity.japanese.ame_no_uzume,CHARACTER,50,Escort
+story.japanese.ninigi_sea_palace,storyver.japanese.kojiki_sect33_43,deity.japanese.omoikane,CHARACTER,60,Counsellor
+story.japanese.ninigi_sea_palace,storyver.japanese.kojiki_sect33_43,weapon.japanese.kusanagi,ARTIFACT,70,Sword
+story.japanese.ninigi_sea_palace,storyver.japanese.kojiki_sect33_43,deity.japanese.oyamatsumi,CHARACTER,80,Mountain deity
+story.japanese.ninigi_sea_palace,storyver.japanese.kojiki_sect33_43,deity.japanese.konohana_sakuya_hime,CHARACTER,90,Wife
+story.japanese.ninigi_sea_palace,storyver.japanese.kojiki_sect33_43,deity.japanese.iwanaga_hime,CHARACTER,100,Rejected sister
+story.japanese.ninigi_sea_palace,storyver.japanese.kojiki_sect33_43,deity.japanese.hoderi,CHARACTER,110,Elder brother
+story.japanese.ninigi_sea_palace,storyver.japanese.kojiki_sect33_43,deity.japanese.hoori,CHARACTER,120,Younger brother
+story.japanese.ninigi_sea_palace,storyver.japanese.kojiki_sect33_43,deity.japanese.watatsumi,CHARACTER,130,Sea deity
+story.japanese.ninigi_sea_palace,storyver.japanese.kojiki_sect33_43,deity.japanese.toyotama_hime,CHARACTER,140,Sea princess
+story.japanese.ninigi_sea_palace,storyver.japanese.kojiki_sect33_43,artifact.japanese.tide_jewels,ARTIFACT,150,Tide jewels
+story.japanese.ninigi_sea_palace,storyver.japanese.kojiki_sect33_43,place.japanese.watatsumi_palace,PLACE,160,Sea palace
+story.japanese.ninigi_sea_palace,storyver.japanese.kojiki_sect33_43,text.japanese.kojiki,TEXT,170,Kojiki
+story.japanese.okuninushi,storyver.japanese.kojiki_sect20_32,deity.japanese.okuninushi,CHARACTER,10,Master of the Great Land
+story.japanese.okuninushi,storyver.japanese.kojiki_sect20_32,creature.japanese.hare_of_inaba,CHARACTER,20,Healed hare
+story.japanese.okuninushi,storyver.japanese.kojiki_sect20_32,deity.japanese.kamimusubi,CHARACTER,30,Restorer
+story.japanese.okuninushi,storyver.japanese.kojiki_sect20_32,deity.japanese.susanoo,CHARACTER,40,Ancestor and tester
+story.japanese.okuninushi,storyver.japanese.kojiki_sect20_32,deity.japanese.suseribime,CHARACTER,50,Chief wife
+story.japanese.okuninushi,storyver.japanese.kojiki_sect20_32,place.japanese.ne_no_katasu_kuni,PLACE,60,Nether-Distant-Land
+story.japanese.okuninushi,storyver.japanese.kojiki_sect20_32,deity.japanese.sukunabikona,CHARACTER,70,Companion
+story.japanese.okuninushi,storyver.japanese.kojiki_sect20_32,deity.japanese.amaterasu,CHARACTER,80,Heavenly ruler
+story.japanese.okuninushi,storyver.japanese.kojiki_sect20_32,deity.japanese.takamimusubi,CHARACTER,90,Takagi-no-kami
+story.japanese.okuninushi,storyver.japanese.kojiki_sect20_32,deity.japanese.omoikane,CHARACTER,100,Counsellor
+story.japanese.okuninushi,storyver.japanese.kojiki_sect20_32,deity.japanese.ame_no_wakahiko,CHARACTER,110,Heavenly envoy
+story.japanese.okuninushi,storyver.japanese.kojiki_sect20_32,deity.japanese.takemikazuchi,CHARACTER,120,Envoy
+story.japanese.okuninushi,storyver.japanese.kojiki_sect20_32,deity.japanese.kotoshironushi,CHARACTER,130,Son
+story.japanese.okuninushi,storyver.japanese.kojiki_sect20_32,deity.japanese.takeminakata,CHARACTER,140,Son
+story.japanese.okuninushi,storyver.japanese.kojiki_sect20_32,text.japanese.kojiki,TEXT,150,Kojiki
+story.japanese.yamato_takeru,storyver.japanese.kojiki_sect79_90,person.japanese.keiko,CHARACTER,10,Father
+story.japanese.yamato_takeru,storyver.japanese.kojiki_sect79_90,hero.japanese.yamato_takeru,CHARACTER,20,Hero
+story.japanese.yamato_takeru,storyver.japanese.kojiki_sect79_90,hero.japanese.yamato_hime,CHARACTER,30,Aunt at Ise
+story.japanese.yamato_takeru,storyver.japanese.kojiki_sect79_90,person.japanese.kumaso_takeru,CHARACTER,40,Western bravoes
+story.japanese.yamato_takeru,storyver.japanese.kojiki_sect79_90,person.japanese.izumo_takeru,CHARACTER,50,Izumo bravo
+story.japanese.yamato_takeru,storyver.japanese.kojiki_sect79_90,weapon.japanese.kusanagi,ARTIFACT,60,Sword
+story.japanese.yamato_takeru,storyver.japanese.kojiki_sect79_90,hero.japanese.miyazu_hime,CHARACTER,70,Bride in Owari
+story.japanese.yamato_takeru,storyver.japanese.kojiki_sect79_90,hero.japanese.oto_tachibana_hime,CHARACTER,80,Consort
+story.japanese.yamato_takeru,storyver.japanese.kojiki_sect79_90,deity.japanese.ibuki_deity,CHARACTER,90,Mountain deity
+story.japanese.yamato_takeru,storyver.japanese.kojiki_sect79_90,text.japanese.kojiki,TEXT,100,Kojiki
 story.khmer.angkor_wat_churning_relief,storyver.khmer.angkor_churning_apsara,site.cambodia.angkor,PLACE,10,UNESCO World Heritage property context.
 story.khmer.angkor_wat_churning_relief,storyver.khmer.angkor_churning_apsara,site.khmer.angkor_wat,PLACE,20,Real archaeological site.
 story.khmer.angkor_wat_churning_relief,storyver.khmer.angkor_churning_apsara,monument.khmer.angkor_wat_churning_relief,ARTIFACT,30,In-situ bas-relief material witness.
@@ -694,6 +831,32 @@ story.norse.volsunga_sigurd_dragon,storyver.norse.volsunga_morris_13_24,being.no
 story.norse.ymir_world,storyver.norse.ymir_gylf,being.norse.ymir,CHARACTER,10,Primordial giant
 story.norse.ymir_world,storyver.norse.ymir_gylf,deity.norse.odin,CHARACTER,20,Slayer
 story.norse.ymir_world,storyver.norse.ymir_gylf,event.norse.slaying_of_ymir,EVENT,30,World-making
+story.persian.rostam_seven_labours,storyver.persian.zimmern_mazinderan,person.persian.kay_kavus,CHARACTER,10,Shah
+story.persian.rostam_seven_labours,storyver.persian.zimmern_mazinderan,hero.persian.zal,CHARACTER,20,Counsellor
+story.persian.rostam_seven_labours,storyver.persian.zimmern_mazinderan,hero.persian.rostam,CHARACTER,30,Hero
+story.persian.rostam_seven_labours,storyver.persian.zimmern_mazinderan,creature.persian.rakhsh,CHARACTER,40,Horse
+story.persian.rostam_seven_labours,storyver.persian.zimmern_mazinderan,person.persian.olad,CHARACTER,50,Guide
+story.persian.rostam_seven_labours,storyver.persian.zimmern_mazinderan,demon.persian.white_div,CHARACTER,60,White Demon
+story.persian.rostam_seven_labours,storyver.persian.zimmern_mazinderan,place.persian.mazandaran,PLACE,70,Land of demons
+story.persian.rostam_seven_labours,storyver.persian.zimmern_mazinderan,text.persian.shahnameh,TEXT,80,Shahnameh
+story.persian.rostam_sohrab,storyver.persian.zimmern_rustem_sohrab,hero.persian.rostam,CHARACTER,10,Father
+story.persian.rostam_sohrab,storyver.persian.zimmern_rustem_sohrab,creature.persian.rakhsh,CHARACTER,20,Horse
+story.persian.rostam_sohrab,storyver.persian.zimmern_rustem_sohrab,hero.persian.tahmineh,CHARACTER,30,Mother
+story.persian.rostam_sohrab,storyver.persian.zimmern_rustem_sohrab,hero.persian.sohrab,CHARACTER,40,Son
+story.persian.rostam_sohrab,storyver.persian.zimmern_rustem_sohrab,person.persian.afrasiyab,CHARACTER,50,King of Tūrān
+story.persian.rostam_sohrab,storyver.persian.zimmern_rustem_sohrab,hero.persian.gordafarid,CHARACTER,60,Warrior maiden
+story.persian.rostam_sohrab,storyver.persian.zimmern_rustem_sohrab,person.persian.kay_kavus,CHARACTER,70,Shah
+story.persian.rostam_sohrab,storyver.persian.zimmern_rustem_sohrab,text.persian.shahnameh,TEXT,80,Shahnameh
+story.persian.zal_rudabeh_rostam,storyver.persian.zimmern_zal_rostam,hero.persian.sam,CHARACTER,10,Father
+story.persian.zal_rudabeh_rostam,storyver.persian.zimmern_zal_rostam,hero.persian.zal,CHARACTER,20,Hero
+story.persian.zal_rudabeh_rostam,storyver.persian.zimmern_zal_rostam,creature.persian.simorgh,CHARACTER,30,Foster-mother
+story.persian.zal_rudabeh_rostam,storyver.persian.zimmern_zal_rostam,person.persian.manuchehr,CHARACTER,40,Shah
+story.persian.zal_rudabeh_rostam,storyver.persian.zimmern_zal_rostam,person.persian.mehrab,CHARACTER,50,King of Kābul
+story.persian.zal_rudabeh_rostam,storyver.persian.zimmern_zal_rostam,hero.persian.rudabeh,CHARACTER,60,Beloved
+story.persian.zal_rudabeh_rostam,storyver.persian.zimmern_zal_rostam,person.persian.sindokht,CHARACTER,70,Queen of Kābul
+story.persian.zal_rudabeh_rostam,storyver.persian.zimmern_zal_rostam,hero.persian.rostam,CHARACTER,80,Son
+story.persian.zal_rudabeh_rostam,storyver.persian.zimmern_zal_rostam,creature.persian.rakhsh,CHARACTER,90,Horse
+story.persian.zal_rudabeh_rostam,storyver.persian.zimmern_zal_rostam,text.persian.shahnameh,TEXT,100,Shahnameh
 story.slavic.kyiv_idols,storyver.slavic.kyiv_idols_pvl,deity.slavic.perun,CHARACTER,10,Chief idol
 story.slavic.kyiv_idols,storyver.slavic.kyiv_idols_pvl,deity.slavic.mokosh,CHARACTER,20,Named idol
 story.slavic.kyiv_idols,storyver.slavic.kyiv_idols_pvl,event.slavic.kyiv_idols_980,EVENT,30,Idols set up

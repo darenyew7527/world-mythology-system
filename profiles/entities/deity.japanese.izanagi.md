@@ -40,5 +40,17 @@
   - 来源：[The Kojiki: Records of Ancient Matters (tr. Basil Hall Chamberlain)](https://sacred-texts.com/shi/kojiki.htm)；定位：Sect. IX, The Land of Hades (kj016)
 - `claim.v0320.kojiki_iwato_orochi.01` [VERIFIED / TEXT_SAYS / 0.90] Izanagi gives Amaterasu his jewel necklace and the Plain of High Heaven, Tsukuyomi the dominion of night and Susanoo the plain of the sea.
   - 来源：[The Kojiki: Records of Ancient Matters (tr. Basil Hall Chamberlain)](https://sacred-texts.com/shi/kojiki.htm)；定位：Sect. XI, Investiture of the Three Deities (kj018)
+- `claim.v0350.kojiki_izanagi.02` [VERIFIED / TEXT_SAYS / 0.90] Kojiki Section II lists the Seven Divine Generations from Kuni-no-toko-tachi to the last pair, Izanagi and Izanami, counting each single deity and each pair as one generation.
+  - 来源：[The Kojiki: Records of Ancient Matters (tr. Basil Hall Chamberlain)](https://sacred-texts.com/shi/kojiki.htm)；定位：Sect. II, The Seven Divine Generations (kj009)
+- `claim.v0350.kojiki_izanagi.03` [VERIFIED / TEXT_SAYS / 0.90] Kojiki Section III says the heavenly deities gave Izanagi and Izanami a jewelled spear, and that brine dripping from its point as they stirred from the Floating Bridge of Heaven piled up into Onogoro Island.
+  - 来源：[The Kojiki: Records of Ancient Matters (tr. Basil Hall Chamberlain)](https://sacred-texts.com/shi/kojiki.htm)；定位：Sect. III, The Island of Onogoro (kj010)
+- `claim.v0350.kojiki_izanagi.05` [VERIFIED / TEXT_SAYS / 0.90] Kojiki Section V says the heavenly deities' divination blamed the woman's speaking first, and that when Izanagi spoke first at the pillar the pair gave birth to the eight great islands, from Awaji to Ō-yamato-toyo-aki-tsu-shima.
+  - 来源：[The Kojiki: Records of Ancient Matters (tr. Basil Hall Chamberlain)](https://sacred-texts.com/shi/kojiki.htm)；定位：Sect. V, Birth of the Eight Islands (kj012)
+- `claim.v0350.kojiki_izanagi.08` [VERIFIED / TEXT_SAYS / 0.90] Kojiki Sections VII–VIII say Izanagi mourned Izanami, buried her on Mount Hiba, and cut off Kagutsuchi's head with his ten-grasp sword, the blood near the guard becoming deities including Takemikazuchi.
+  - 来源：[The Kojiki: Records of Ancient Matters (tr. Basil Hall Chamberlain)](https://sacred-texts.com/shi/kojiki.htm)；定位：Sect. VII–VIII, Retirement of Izanami; The Slaying of the Fire-Deity (kj014–kj015)
+- `claim.v0350.kojiki_izanagi.10` [VERIFIED / TEXT_SAYS / 0.90] Kojiki Section IX says Izanagi escaped the Ugly Females of Yomi by throwing down a head-dress that became grapes and a comb that became bamboo shoots, and drove back the thunder deities' host with three peaches at the foot of the Even Pass of Yomi.
+  - 来源：[The Kojiki: Records of Ancient Matters (tr. Basil Hall Chamberlain)](https://sacred-texts.com/shi/kojiki.htm)；定位：Sect. IX, The Land of Hades (kj016)
+- `claim.v0350.kojiki_izanagi.12` [VERIFIED / TEXT_SAYS / 0.90] Kojiki Section X says Izanagi purified himself at the river-mouth of Tachibana in Himuka, deities being born from his discarded clothing and his washing, and last Amaterasu from his left eye, Tsukuyomi from his right eye and Susanoo from his nose.
+  - 来源：[The Kojiki: Records of Ancient Matters (tr. Basil Hall Chamberlain)](https://sacred-texts.com/shi/kojiki.htm)；定位：Sect. X, The Purification of the August Person (kj017)
 
 > 本档案只代表当前阶段性基线，不是对该传统的最终或唯一解释。

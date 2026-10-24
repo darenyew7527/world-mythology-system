@@ -1,5 +1,6 @@
 entity_id,creature_class,appearance_json,abilities_json,weaknesses_json,habitat_summary,origin_summary,fate_summary
 being.chinese.pangu,GIANT,{},[],[],,,
+being.hindu.kali,PERSONIFIED_AGE,{},"[""possesses men"", ""brings ruin at dice""]",[],The world in the age of Kali,Personification of the Kali age,Expelled from Nala; dwells in the Vibhītaka tree
 being.norse.bestla,GIANT,{},[],[],,Daughter of Bölþorn in Gylfaginning,
 being.norse.brokkr,DWARF,{},"[""smithing""]",[],Smithy in Skáldskaparmál episode,,
 being.norse.eitri,DWARF,{},"[""smithing""]",[],Smithy in Skáldskaparmál episode,,
@@ -11,6 +12,7 @@ being.norse.utgarda_loki,GIANT_KING,{},"[""sight-deception (illusions)""]",[],,R
 being.norse.ymir,GIANT,{},[],[],,,
 creature.akkadian.anzu,MYTHIC_MONSTROUS_BIRD,"{""form"":""lion-eagle in later scholarly description""}","[""control associated with stolen Tablet of Destinies""]",[],,Akkadian Anzu myth witness.,Defeated by Ninurta in the registered synopsis.
 creature.chinese.ao_turtle,GREAT_TURTLE,{},[],[],,Named in the Huainanzi Lan Ming and Liezi Tang Wen Nüwa passages.,Its legs are cut off and used to set up the four poles in both witnesses.
+creature.finnish.iku_turso,SEA_MONSTER,{},"[""rises from the deep against ships""]",[],The sea,Son of Old Man (Äijö) in the poem,Banished to the depths by Väinämöinen
 creature.greek.cerberus,HELLHOUND,"{""heads"": 3, ""tail"": ""serpent""}","[""guards the house of Hades""]",[],The gates of Hades,Offspring of Typhon and Echidna.,Shown to Eurystheus and carried back to Hades.
 creature.greek.charybdis,WHIRLPOOL_MONSTER,{},"[""swallows the sea three times a day""]",[],Beneath a fig tree opposite Scylla,Divine whirlpool of the strait.,Remains in the strait.
 creature.greek.cyclopes_hesiodic,GIANT,{},[],[],,,
@@ -31,8 +33,10 @@ creature.greek.typhon,MONSTER,"{""heads"":""one hundred serpent heads in Hesiod 
 creature.hindu.akupara,TORTOISE_KING,"{""form"":""tortoise""}","[""bears Mount Mandara""]",[],,Named as king of tortoises in the Mahābhārata critical-edition churning witness.,Supports the mountain during the churning in that witness.
 creature.hindu.jatayu,VULTURE_KING,{},"[""speech"", ""flight""]",[],Pañcavaṭī forest,"Son of Aruṇa, brother of Sampāti.",Mortally wounded by Rāvaṇa; cremated by Rāma.
 creature.hindu.vasuki,NAGA_KING,"{""form"":""serpent""}",[],[],,Nāga king in the epic and Purāṇic churning witnesses.,Serves as the churning rope in both registered witnesses.
+creature.indian.karkotaka,NAGA,{},"[""venomous bite that transforms"", ""grants protection""]",[],A forest fire,Nāga cursed by Nārada to stay motionless until rescued,Rescued by Nala
 creature.irish.donn_cuailnge,BULL,{},"[""fifty boys could play on his back"", ""his bellowing heard across the province""]",[],Cúailnge in Ulster,Counted among the great bulls of Ireland; in other tales a reborn swineherd.,Kills Finnbennach and dies at Druim Tairb when his heart breaks.
 creature.irish.finnbennach,BULL,{},"[""the greatest bull of Connacht""]",[],Ailill's herds at Cruachan,Calved among Medb's cows.,"Torn apart by the Brown Bull, its pieces scattered across Ireland."
+creature.japanese.hare_of_inaba,TALKING_HARE,"{""body"": ""hare stripped of its fur""}","[""speaks"", ""foretells Ōkuninushi's marriage""]",[],Cape Keta in Inaba,Crossed from the island of Oki on the backs of the wani,Called the Hare Deity
 creature.mesopotamian.bull_of_heaven,DIVINE_BULL,{},"[""its snorting opens pits that swallow hundreds of men""]",[],,Given by Anu at Ishtar's demand.,Killed by Gilgamesh and Enkidu.
 creature.norse.fafnir,DRAGON,{},"[""breathes venom"", ""wears the helm of terror""]",[],"Gnitaheiðr, lying on the hoard","A man, son of Hreiðmarr, who took the shape of a serpent out of greed for the gold.",Stabbed from below by Sigurðr with Gram.
 creature.norse.fenrir,MONSTER,{},[],[],,,
@@ -42,6 +46,8 @@ creature.norse.gullinbursti,DIVINE_BEAST,"{""bristles"":""golden""}","[""shines 
 creature.norse.jormungandr,DRAGON,{},[],[],,,
 creature.norse.sleipnir,EIGHT_LEGGED_HORSE,{},"[""carries his rider over the bridge to Hel and across Hel's gate""]",[],,Odin's horse.,
 creature.norse.surtr,FIRE_GIANT,{},"[""a sword brighter than the sun"", ""flings fire over the world""]",[],"Muspell, the realm of fire",Guardian of Muspell's border since the beginning.,Burns the world at Ragnarök.
+creature.persian.rakhsh,HEROIC_HORSE,{},"[""guards his rider"", ""fights lions and dragons""]",[],Zābulistān,Foal of a mare in the herds of Zābul,Rostam's companion
+creature.persian.simorgh,WISE_GREAT_BIRD,{},"[""speaks"", ""heals"", ""counsels""]",[],Mount Alborz,Ancient bird of Iranian tradition,Answers when her feather is burned
 creature.vedic.vritra,RIGVEDIC SERPENT OPPONENT,"{""witness_designation"":""ahi / serpent""}","[""阻水语境（RV 1.32）""]","[""在 RV 1.32 中被因陀罗以金刚杵击杀""]",,Witness-specific opponent in Rigveda 1.32.,Killed by Indra in the registered hymn narrative.
 deity.babylonian.tiamat,DRAGON,{},[],[],,,
 deity.chinese.ao_guang,DRAGON_KING,{},"[""rules the Eastern Sea from the Crystal Palace""]",[],Crystal Palace of the Eastern Sea,Dragon king of popular religion as portrayed in Ming novels.,
@@ -57,6 +63,7 @@ demon.hindu.maricha,RAKSHASA,{},"[""takes the form of a golden deer"", ""mimics 
 demon.hindu.rahu,DANAVA,{},[],[],,Dānava in the epic and Purāṇic churning witnesses.,Beheaded with Viṣṇu's discus after drinking the amṛta in disguise; later astral identities are not modeled here.
 demon.hindu.ravana,RAKSHASA_KING,"{""heads"": 10}","[""boon of Brahmā against gods and demons"", ""flying chariot Puṣpaka""]",[],Laṅkā,Rākṣasa king who won his boon by austerities.,Slain by Rāma with the weapon of Brahmā.
 demon.hindu.shurpanakha,RAKSHASI,{},"[""changes shape at will""]",[],Daṇḍaka forest,Sister of Rāvaṇa.,Flees to Laṅkā to rouse Rāvaṇa.
+demon.persian.white_div,DIV,{},"[""raises darkness and hail"", ""blinds armies""]",[],A cave beyond the seven mountains of Māzandarān,Demon (div) of Māzandarān,Slain by Rostam; his liver's blood heals the blinded
 dragon.chinese.ao_bing,DRAGON_PRINCE,{},[],[],,Third son of the Dragon King of the Eastern Sea.,Killed by Nezha; his sinew is pulled out.
 dragon.chinese.black_dragon_jizhou,DRAGON,"{""color"":""black""}",[],[],,Named only in the Huainanzi Lan Ming Nüwa passage.,Killed by Nüwa to relieve Jizhou in that witness.
 dragon.chinese.jinghe_dragon_king,DRAGON_KING,{},"[""brings rain at heaven's command""]",[],The Jing River near Chang'an,River dragon king in the novel.,Beheaded in Wei Zheng's dream for disobeying heaven's decree.
