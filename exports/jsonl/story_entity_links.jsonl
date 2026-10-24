@@ -194,6 +194,39 @@
 {"entity_id":"deity.greek.dione","notes":"Derived from an explicitly linked story claim subject.","role":"CHARACTER","sort_order":10,"story_id":"story.greek.aphrodite_origins","story_version_id":"storyver.greek.aphrodite_iliad"}
 {"entity_id":"deity.greek.zeus","notes":"Derived from an explicitly linked story claim object.","role":"CHARACTER","sort_order":20,"story_id":"story.greek.aphrodite_origins","story_version_id":"storyver.greek.aphrodite_iliad"}
 {"entity_id":"text.greek.iliad","notes":"Derived from an explicitly linked story claim object.","role":"RELATED","sort_order":20,"story_id":"story.greek.aphrodite_origins","story_version_id":"storyver.greek.aphrodite_iliad"}
+{"entity_id":"hero.greek.jason","notes":"Leader","role":"CHARACTER","sort_order":10,"story_id":"story.greek.argonautica_fleece_return","story_version_id":"storyver.greek.argonautica_seaton_3_4"}
+{"entity_id":"artifact.greek.argo","notes":"Ship","role":"ARTIFACT","sort_order":20,"story_id":"story.greek.argonautica_fleece_return","story_version_id":"storyver.greek.argonautica_seaton_3_4"}
+{"entity_id":"artifact.greek.golden_fleece","notes":"Quest","role":"ARTIFACT","sort_order":30,"story_id":"story.greek.argonautica_fleece_return","story_version_id":"storyver.greek.argonautica_seaton_3_4"}
+{"entity_id":"hero.greek.medea","notes":"Helper","role":"CHARACTER","sort_order":40,"story_id":"story.greek.argonautica_fleece_return","story_version_id":"storyver.greek.argonautica_seaton_3_4"}
+{"entity_id":"hero.greek.aeetes","notes":"King of Colchis","role":"CHARACTER","sort_order":50,"story_id":"story.greek.argonautica_fleece_return","story_version_id":"storyver.greek.argonautica_seaton_3_4"}
+{"entity_id":"deity.greek.hera","notes":"Protector","role":"CHARACTER","sort_order":60,"story_id":"story.greek.argonautica_fleece_return","story_version_id":"storyver.greek.argonautica_seaton_3_4"}
+{"entity_id":"deity.greek.athena","notes":"Protector","role":"CHARACTER","sort_order":70,"story_id":"story.greek.argonautica_fleece_return","story_version_id":"storyver.greek.argonautica_seaton_3_4"}
+{"entity_id":"text.greek.argonautica","notes":"Epic","role":"TEXT","sort_order":80,"story_id":"story.greek.argonautica_fleece_return","story_version_id":"storyver.greek.argonautica_seaton_3_4"}
+{"entity_id":"deity.greek.aphrodite","notes":"Persuaded","role":"CHARACTER","sort_order":90,"story_id":"story.greek.argonautica_fleece_return","story_version_id":"storyver.greek.argonautica_seaton_3_4"}
+{"entity_id":"deity.greek.eros","notes":"Archer","role":"CHARACTER","sort_order":100,"story_id":"story.greek.argonautica_fleece_return","story_version_id":"storyver.greek.argonautica_seaton_3_4"}
+{"entity_id":"deity.greek.hecate","notes":"Goddess of Medea","role":"CHARACTER","sort_order":110,"story_id":"story.greek.argonautica_fleece_return","story_version_id":"storyver.greek.argonautica_seaton_3_4"}
+{"entity_id":"hero.greek.apsyrtus","notes":"Brother","role":"CHARACTER","sort_order":120,"story_id":"story.greek.argonautica_fleece_return","story_version_id":"storyver.greek.argonautica_seaton_3_4"}
+{"entity_id":"deity.greek.circe","notes":"Purifier","role":"CHARACTER","sort_order":130,"story_id":"story.greek.argonautica_fleece_return","story_version_id":"storyver.greek.argonautica_seaton_3_4"}
+{"entity_id":"creature.greek.sirens","notes":"Singers","role":"CHARACTER","sort_order":140,"story_id":"story.greek.argonautica_fleece_return","story_version_id":"storyver.greek.argonautica_seaton_3_4"}
+{"entity_id":"hero.greek.orpheus","notes":"Singer","role":"CHARACTER","sort_order":150,"story_id":"story.greek.argonautica_fleece_return","story_version_id":"storyver.greek.argonautica_seaton_3_4"}
+{"entity_id":"creature.greek.talos","notes":"Bronze giant","role":"CHARACTER","sort_order":160,"story_id":"story.greek.argonautica_fleece_return","story_version_id":"storyver.greek.argonautica_seaton_3_4"}
+{"entity_id":"hero.greek.jason","notes":"Leader","role":"CHARACTER","sort_order":10,"story_id":"story.greek.argonautica_outward","story_version_id":"storyver.greek.argonautica_seaton_1_2"}
+{"entity_id":"artifact.greek.argo","notes":"Ship","role":"ARTIFACT","sort_order":20,"story_id":"story.greek.argonautica_outward","story_version_id":"storyver.greek.argonautica_seaton_1_2"}
+{"entity_id":"artifact.greek.golden_fleece","notes":"Quest","role":"ARTIFACT","sort_order":30,"story_id":"story.greek.argonautica_outward","story_version_id":"storyver.greek.argonautica_seaton_1_2"}
+{"entity_id":"hero.greek.medea","notes":"Helper","role":"CHARACTER","sort_order":40,"story_id":"story.greek.argonautica_outward","story_version_id":"storyver.greek.argonautica_seaton_1_2"}
+{"entity_id":"hero.greek.aeetes","notes":"King of Colchis","role":"CHARACTER","sort_order":50,"story_id":"story.greek.argonautica_outward","story_version_id":"storyver.greek.argonautica_seaton_1_2"}
+{"entity_id":"deity.greek.hera","notes":"Protector","role":"CHARACTER","sort_order":60,"story_id":"story.greek.argonautica_outward","story_version_id":"storyver.greek.argonautica_seaton_1_2"}
+{"entity_id":"deity.greek.athena","notes":"Protector","role":"CHARACTER","sort_order":70,"story_id":"story.greek.argonautica_outward","story_version_id":"storyver.greek.argonautica_seaton_1_2"}
+{"entity_id":"text.greek.argonautica","notes":"Epic","role":"TEXT","sort_order":80,"story_id":"story.greek.argonautica_outward","story_version_id":"storyver.greek.argonautica_seaton_1_2"}
+{"entity_id":"hero.greek.pelias","notes":"King","role":"CHARACTER","sort_order":90,"story_id":"story.greek.argonautica_outward","story_version_id":"storyver.greek.argonautica_seaton_1_2"}
+{"entity_id":"hero.greek.heracles","notes":"Argonaut","role":"CHARACTER","sort_order":100,"story_id":"story.greek.argonautica_outward","story_version_id":"storyver.greek.argonautica_seaton_1_2"}
+{"entity_id":"hero.greek.orpheus","notes":"Singer","role":"CHARACTER","sort_order":110,"story_id":"story.greek.argonautica_outward","story_version_id":"storyver.greek.argonautica_seaton_1_2"}
+{"entity_id":"hero.greek.hylas","notes":"Lost companion","role":"CHARACTER","sort_order":120,"story_id":"story.greek.argonautica_outward","story_version_id":"storyver.greek.argonautica_seaton_1_2"}
+{"entity_id":"hero.greek.polydeuces","notes":"Boxer","role":"CHARACTER","sort_order":130,"story_id":"story.greek.argonautica_outward","story_version_id":"storyver.greek.argonautica_seaton_1_2"}
+{"entity_id":"hero.greek.hypsipyle","notes":"Queen of Lemnos","role":"CHARACTER","sort_order":140,"story_id":"story.greek.argonautica_outward","story_version_id":"storyver.greek.argonautica_seaton_1_2"}
+{"entity_id":"hero.greek.phineus","notes":"Seer","role":"CHARACTER","sort_order":150,"story_id":"story.greek.argonautica_outward","story_version_id":"storyver.greek.argonautica_seaton_1_2"}
+{"entity_id":"creature.greek.harpies","notes":"Tormentors","role":"CHARACTER","sort_order":160,"story_id":"story.greek.argonautica_outward","story_version_id":"storyver.greek.argonautica_seaton_1_2"}
+{"entity_id":"deity.greek.apollo","notes":"Epiphany","role":"CHARACTER","sort_order":170,"story_id":"story.greek.argonautica_outward","story_version_id":"storyver.greek.argonautica_seaton_1_2"}
 {"entity_id":"deity.greek.demeter","notes":"Derived from an explicitly linked story claim subject.","role":"CHARACTER","sort_order":10,"story_id":"story.greek.demeter_persephone","story_version_id":"storyver.greek.demeter_hymn2"}
 {"entity_id":"hero.greek.triptolemos","notes":"Derived from an explicitly linked story claim subject.","role":"CHARACTER","sort_order":10,"story_id":"story.greek.demeter_persephone","story_version_id":"storyver.greek.demeter_hymn2"}
 {"entity_id":"deity.greek.hecate","notes":"Derived from an explicitly linked story claim subject.","role":"CHARACTER","sort_order":10,"story_id":"story.greek.demeter_persephone","story_version_id":"storyver.greek.demeter_hymn2"}
@@ -220,6 +253,42 @@
 {"entity_id":"site.greece.sacred_way_aphrodite_daphne","notes":"Archaeological monument beside the road.","role":"PLACE","sort_order":12,"story_id":"story.greek.eleusinia_procession","story_version_id":"storyver.greek.eleusinia_acropolis"}
 {"entity_id":"site.greece.eleusis","notes":"Destination sanctuary/site.","role":"PLACE","sort_order":13,"story_id":"story.greek.eleusinia_procession","story_version_id":"storyver.greek.eleusinia_acropolis"}
 {"entity_id":"site.greece.eleusis_telesterion","notes":"Publicly documented route culmination.","role":"PLACE","sort_order":14,"story_id":"story.greek.eleusinia_procession","story_version_id":"storyver.greek.eleusinia_acropolis"}
+{"entity_id":"hero.greek.heracles","notes":"Hero","role":"CHARACTER","sort_order":10,"story_id":"story.greek.heracles_birth_labours","story_version_id":"storyver.greek.library_2_4_2_5_heracles_1"}
+{"entity_id":"hero.greek.alcmena","notes":"Mother","role":"CHARACTER","sort_order":20,"story_id":"story.greek.heracles_birth_labours","story_version_id":"storyver.greek.library_2_4_2_5_heracles_1"}
+{"entity_id":"hero.greek.amphitryon","notes":"Foster-father","role":"CHARACTER","sort_order":30,"story_id":"story.greek.heracles_birth_labours","story_version_id":"storyver.greek.library_2_4_2_5_heracles_1"}
+{"entity_id":"hero.greek.eurystheus","notes":"Taskmaster","role":"CHARACTER","sort_order":40,"story_id":"story.greek.heracles_birth_labours","story_version_id":"storyver.greek.library_2_4_2_5_heracles_1"}
+{"entity_id":"deity.greek.hera","notes":"Enemy","role":"CHARACTER","sort_order":50,"story_id":"story.greek.heracles_birth_labours","story_version_id":"storyver.greek.library_2_4_2_5_heracles_1"}
+{"entity_id":"deity.greek.zeus","notes":"Father","role":"CHARACTER","sort_order":60,"story_id":"story.greek.heracles_birth_labours","story_version_id":"storyver.greek.library_2_4_2_5_heracles_1"}
+{"entity_id":"deity.greek.athena","notes":"Helper","role":"CHARACTER","sort_order":70,"story_id":"story.greek.heracles_birth_labours","story_version_id":"storyver.greek.library_2_4_2_5_heracles_1"}
+{"entity_id":"hero.greek.iolaus","notes":"Charioteer","role":"CHARACTER","sort_order":80,"story_id":"story.greek.heracles_birth_labours","story_version_id":"storyver.greek.library_2_4_2_5_heracles_1"}
+{"entity_id":"creature.greek.nemean_lion","notes":"First labour","role":"CHARACTER","sort_order":90,"story_id":"story.greek.heracles_birth_labours","story_version_id":"storyver.greek.library_2_4_2_5_heracles_1"}
+{"entity_id":"creature.greek.lernaean_hydra","notes":"Second labour","role":"CHARACTER","sort_order":100,"story_id":"story.greek.heracles_birth_labours","story_version_id":"storyver.greek.library_2_4_2_5_heracles_1"}
+{"entity_id":"hero.greek.heracles","notes":"Hero","role":"CHARACTER","sort_order":10,"story_id":"story.greek.heracles_death_apotheosis","story_version_id":"storyver.greek.library_2_6_2_8_heracles_3"}
+{"entity_id":"hero.greek.alcmena","notes":"Mother","role":"CHARACTER","sort_order":20,"story_id":"story.greek.heracles_death_apotheosis","story_version_id":"storyver.greek.library_2_6_2_8_heracles_3"}
+{"entity_id":"hero.greek.amphitryon","notes":"Foster-father","role":"CHARACTER","sort_order":30,"story_id":"story.greek.heracles_death_apotheosis","story_version_id":"storyver.greek.library_2_6_2_8_heracles_3"}
+{"entity_id":"hero.greek.eurystheus","notes":"Taskmaster","role":"CHARACTER","sort_order":40,"story_id":"story.greek.heracles_death_apotheosis","story_version_id":"storyver.greek.library_2_6_2_8_heracles_3"}
+{"entity_id":"deity.greek.hera","notes":"Enemy","role":"CHARACTER","sort_order":50,"story_id":"story.greek.heracles_death_apotheosis","story_version_id":"storyver.greek.library_2_6_2_8_heracles_3"}
+{"entity_id":"deity.greek.zeus","notes":"Father","role":"CHARACTER","sort_order":60,"story_id":"story.greek.heracles_death_apotheosis","story_version_id":"storyver.greek.library_2_6_2_8_heracles_3"}
+{"entity_id":"deity.greek.athena","notes":"Helper","role":"CHARACTER","sort_order":70,"story_id":"story.greek.heracles_death_apotheosis","story_version_id":"storyver.greek.library_2_6_2_8_heracles_3"}
+{"entity_id":"hero.greek.iole","notes":"Captive","role":"CHARACTER","sort_order":80,"story_id":"story.greek.heracles_death_apotheosis","story_version_id":"storyver.greek.library_2_6_2_8_heracles_3"}
+{"entity_id":"hero.greek.omphale","notes":"Mistress","role":"CHARACTER","sort_order":90,"story_id":"story.greek.heracles_death_apotheosis","story_version_id":"storyver.greek.library_2_6_2_8_heracles_3"}
+{"entity_id":"hero.greek.deianira","notes":"Wife","role":"CHARACTER","sort_order":100,"story_id":"story.greek.heracles_death_apotheosis","story_version_id":"storyver.greek.library_2_6_2_8_heracles_3"}
+{"entity_id":"creature.greek.nessus","notes":"Centaur","role":"CHARACTER","sort_order":110,"story_id":"story.greek.heracles_death_apotheosis","story_version_id":"storyver.greek.library_2_6_2_8_heracles_3"}
+{"entity_id":"deity.greek.hebe","notes":"Wife in heaven","role":"CHARACTER","sort_order":120,"story_id":"story.greek.heracles_death_apotheosis","story_version_id":"storyver.greek.library_2_6_2_8_heracles_3"}
+{"entity_id":"deity.greek.apollo","notes":"Opponent at Delphi","role":"CHARACTER","sort_order":130,"story_id":"story.greek.heracles_death_apotheosis","story_version_id":"storyver.greek.library_2_6_2_8_heracles_3"}
+{"entity_id":"hero.greek.heracles","notes":"Hero","role":"CHARACTER","sort_order":10,"story_id":"story.greek.heracles_far_labours","story_version_id":"storyver.greek.library_2_5_heracles_2"}
+{"entity_id":"hero.greek.alcmena","notes":"Mother","role":"CHARACTER","sort_order":20,"story_id":"story.greek.heracles_far_labours","story_version_id":"storyver.greek.library_2_5_heracles_2"}
+{"entity_id":"hero.greek.amphitryon","notes":"Foster-father","role":"CHARACTER","sort_order":30,"story_id":"story.greek.heracles_far_labours","story_version_id":"storyver.greek.library_2_5_heracles_2"}
+{"entity_id":"hero.greek.eurystheus","notes":"Taskmaster","role":"CHARACTER","sort_order":40,"story_id":"story.greek.heracles_far_labours","story_version_id":"storyver.greek.library_2_5_heracles_2"}
+{"entity_id":"deity.greek.hera","notes":"Enemy","role":"CHARACTER","sort_order":50,"story_id":"story.greek.heracles_far_labours","story_version_id":"storyver.greek.library_2_5_heracles_2"}
+{"entity_id":"deity.greek.zeus","notes":"Father","role":"CHARACTER","sort_order":60,"story_id":"story.greek.heracles_far_labours","story_version_id":"storyver.greek.library_2_5_heracles_2"}
+{"entity_id":"deity.greek.athena","notes":"Helper","role":"CHARACTER","sort_order":70,"story_id":"story.greek.heracles_far_labours","story_version_id":"storyver.greek.library_2_5_heracles_2"}
+{"entity_id":"hero.greek.hippolyte","notes":"Amazon queen","role":"CHARACTER","sort_order":80,"story_id":"story.greek.heracles_far_labours","story_version_id":"storyver.greek.library_2_5_heracles_2"}
+{"entity_id":"creature.greek.geryon","notes":"Tenth labour","role":"CHARACTER","sort_order":90,"story_id":"story.greek.heracles_far_labours","story_version_id":"storyver.greek.library_2_5_heracles_2"}
+{"entity_id":"deity.greek.atlas","notes":"Titan","role":"CHARACTER","sort_order":100,"story_id":"story.greek.heracles_far_labours","story_version_id":"storyver.greek.library_2_5_heracles_2"}
+{"entity_id":"deity.greek.prometheus","notes":"Freed","role":"CHARACTER","sort_order":110,"story_id":"story.greek.heracles_far_labours","story_version_id":"storyver.greek.library_2_5_heracles_2"}
+{"entity_id":"creature.greek.cerberus","notes":"Twelfth labour","role":"CHARACTER","sort_order":120,"story_id":"story.greek.heracles_far_labours","story_version_id":"storyver.greek.library_2_5_heracles_2"}
+{"entity_id":"deity.greek.helios","notes":"Lends his goblet","role":"CHARACTER","sort_order":130,"story_id":"story.greek.heracles_far_labours","story_version_id":"storyver.greek.library_2_5_heracles_2"}
 {"entity_id":"deity.greek.perses_helios","notes":"Derived from an explicitly linked story claim subject.","role":"CHARACTER","sort_order":10,"story_id":"story.greek.medea_restoration","story_version_id":"storyver.greek.medea_library"}
 {"entity_id":"hero.greek.medea","notes":"Derived from an explicitly linked story claim subject.","role":"CHARACTER","sort_order":10,"story_id":"story.greek.medea_restoration","story_version_id":"storyver.greek.medea_library"}
 {"entity_id":"hero.greek.aeetes","notes":"Derived from an explicitly linked story claim subject.","role":"CHARACTER","sort_order":10,"story_id":"story.greek.medea_restoration","story_version_id":"storyver.greek.medea_library"}
@@ -256,6 +325,17 @@
 {"entity_id":"creature.greek.scylla","notes":"Six-headed monster","role":"CHARACTER","sort_order":150,"story_id":"story.greek.odyssey_wanderings","story_version_id":"storyver.greek.odyssey_butler_1_12"}
 {"entity_id":"creature.greek.charybdis","notes":"Whirlpool","role":"CHARACTER","sort_order":160,"story_id":"story.greek.odyssey_wanderings","story_version_id":"storyver.greek.odyssey_butler_1_12"}
 {"entity_id":"deity.greek.helios","notes":"Sun god","role":"CHARACTER","sort_order":170,"story_id":"story.greek.odyssey_wanderings","story_version_id":"storyver.greek.odyssey_butler_1_12"}
+{"entity_id":"hero.greek.perseus","notes":"Hero","role":"CHARACTER","sort_order":10,"story_id":"story.greek.perseus_library","story_version_id":"storyver.greek.library_2_4_perseus"}
+{"entity_id":"hero.greek.danae","notes":"Mother","role":"CHARACTER","sort_order":20,"story_id":"story.greek.perseus_library","story_version_id":"storyver.greek.library_2_4_perseus"}
+{"entity_id":"hero.greek.acrisius","notes":"Grandfather","role":"CHARACTER","sort_order":30,"story_id":"story.greek.perseus_library","story_version_id":"storyver.greek.library_2_4_perseus"}
+{"entity_id":"person.greek.polydectes","notes":"Enemy","role":"CHARACTER","sort_order":40,"story_id":"story.greek.perseus_library","story_version_id":"storyver.greek.library_2_4_perseus"}
+{"entity_id":"creature.greek.graeae","notes":"Grey sisters","role":"CHARACTER","sort_order":50,"story_id":"story.greek.perseus_library","story_version_id":"storyver.greek.library_2_4_perseus"}
+{"entity_id":"creature.greek.medusa","notes":"Gorgon","role":"CHARACTER","sort_order":60,"story_id":"story.greek.perseus_library","story_version_id":"storyver.greek.library_2_4_perseus"}
+{"entity_id":"creature.greek.pegasus","notes":"Winged horse","role":"CHARACTER","sort_order":70,"story_id":"story.greek.perseus_library","story_version_id":"storyver.greek.library_2_4_perseus"}
+{"entity_id":"hero.greek.andromeda","notes":"Wife","role":"CHARACTER","sort_order":80,"story_id":"story.greek.perseus_library","story_version_id":"storyver.greek.library_2_4_perseus"}
+{"entity_id":"deity.greek.athena","notes":"Guide","role":"CHARACTER","sort_order":90,"story_id":"story.greek.perseus_library","story_version_id":"storyver.greek.library_2_4_perseus"}
+{"entity_id":"deity.greek.hermes","notes":"Guide","role":"CHARACTER","sort_order":100,"story_id":"story.greek.perseus_library","story_version_id":"storyver.greek.library_2_4_perseus"}
+{"entity_id":"deity.greek.zeus","notes":"Father","role":"CHARACTER","sort_order":110,"story_id":"story.greek.perseus_library","story_version_id":"storyver.greek.library_2_4_perseus"}
 {"entity_id":"text.greek.theogony","notes":"Poem","role":"TEXT","sort_order":10,"story_id":"story.greek.theogony_cosmos","story_version_id":"storyver.greek.theogony_long"}
 {"entity_id":"deity.greek.chaos","notes":"First","role":"CHARACTER","sort_order":20,"story_id":"story.greek.theogony_cosmos","story_version_id":"storyver.greek.theogony_long"}
 {"entity_id":"deity.greek.gaia","notes":"Earth","role":"CHARACTER","sort_order":30,"story_id":"story.greek.theogony_cosmos","story_version_id":"storyver.greek.theogony_long"}
@@ -397,6 +477,25 @@
 {"entity_id":"artifact.irish.dagda_cauldron","notes":"Treasure","role":"ARTIFACT","sort_order":60,"story_id":"story.irish.second_battle_mag_tuired","story_version_id":"storyver.irish.mag_tuired_gray"}
 {"entity_id":"event.irish.second_battle_mag_tuired","notes":"Battle","role":"EVENT","sort_order":70,"story_id":"story.irish.second_battle_mag_tuired","story_version_id":"storyver.irish.mag_tuired_gray"}
 {"entity_id":"text.irish.cath_maige_tuired","notes":"Saga","role":"TEXT","sort_order":80,"story_id":"story.irish.second_battle_mag_tuired","story_version_id":"storyver.irish.mag_tuired_gray"}
+{"entity_id":"hero.irish.cu_chulainn","notes":"Hero","role":"CHARACTER","sort_order":10,"story_id":"story.irish.tain_ferdiad_bulls","story_version_id":"storyver.irish.tain_dunn_2"}
+{"entity_id":"hero.irish.medb","notes":"Queen of Connacht","role":"CHARACTER","sort_order":20,"story_id":"story.irish.tain_ferdiad_bulls","story_version_id":"storyver.irish.tain_dunn_2"}
+{"entity_id":"hero.irish.ailill","notes":"King of Connacht","role":"CHARACTER","sort_order":30,"story_id":"story.irish.tain_ferdiad_bulls","story_version_id":"storyver.irish.tain_dunn_2"}
+{"entity_id":"hero.irish.fergus_mac_roich","notes":"Exiled Ulsterman","role":"CHARACTER","sort_order":40,"story_id":"story.irish.tain_ferdiad_bulls","story_version_id":"storyver.irish.tain_dunn_2"}
+{"entity_id":"creature.irish.donn_cuailnge","notes":"Brown Bull","role":"CHARACTER","sort_order":50,"story_id":"story.irish.tain_ferdiad_bulls","story_version_id":"storyver.irish.tain_dunn_2"}
+{"entity_id":"hero.irish.conchobar","notes":"King of Ulster","role":"CHARACTER","sort_order":60,"story_id":"story.irish.tain_ferdiad_bulls","story_version_id":"storyver.irish.tain_dunn_2"}
+{"entity_id":"hero.irish.ferdiad","notes":"Foster-brother","role":"CHARACTER","sort_order":70,"story_id":"story.irish.tain_ferdiad_bulls","story_version_id":"storyver.irish.tain_dunn_2"}
+{"entity_id":"weapon.irish.gae_bulg","notes":"Spear","role":"ARTIFACT","sort_order":80,"story_id":"story.irish.tain_ferdiad_bulls","story_version_id":"storyver.irish.tain_dunn_2"}
+{"entity_id":"weapon.irish.caladbolg","notes":"Fergus's sword","role":"ARTIFACT","sort_order":90,"story_id":"story.irish.tain_ferdiad_bulls","story_version_id":"storyver.irish.tain_dunn_2"}
+{"entity_id":"creature.irish.finnbennach","notes":"White-horned Bull","role":"CHARACTER","sort_order":100,"story_id":"story.irish.tain_ferdiad_bulls","story_version_id":"storyver.irish.tain_dunn_2"}
+{"entity_id":"hero.irish.cu_chulainn","notes":"Hero","role":"CHARACTER","sort_order":10,"story_id":"story.irish.tain_muster_boy_deeds","story_version_id":"storyver.irish.tain_dunn_1"}
+{"entity_id":"hero.irish.medb","notes":"Queen of Connacht","role":"CHARACTER","sort_order":20,"story_id":"story.irish.tain_muster_boy_deeds","story_version_id":"storyver.irish.tain_dunn_1"}
+{"entity_id":"hero.irish.ailill","notes":"King of Connacht","role":"CHARACTER","sort_order":30,"story_id":"story.irish.tain_muster_boy_deeds","story_version_id":"storyver.irish.tain_dunn_1"}
+{"entity_id":"hero.irish.fergus_mac_roich","notes":"Exiled Ulsterman","role":"CHARACTER","sort_order":40,"story_id":"story.irish.tain_muster_boy_deeds","story_version_id":"storyver.irish.tain_dunn_1"}
+{"entity_id":"creature.irish.donn_cuailnge","notes":"Brown Bull","role":"CHARACTER","sort_order":50,"story_id":"story.irish.tain_muster_boy_deeds","story_version_id":"storyver.irish.tain_dunn_1"}
+{"entity_id":"hero.irish.conchobar","notes":"King of Ulster","role":"CHARACTER","sort_order":60,"story_id":"story.irish.tain_muster_boy_deeds","story_version_id":"storyver.irish.tain_dunn_1"}
+{"entity_id":"creature.irish.finnbennach","notes":"White-horned Bull","role":"CHARACTER","sort_order":70,"story_id":"story.irish.tain_muster_boy_deeds","story_version_id":"storyver.irish.tain_dunn_1"}
+{"entity_id":"deity.irish.morrigan","notes":"Goddess","role":"CHARACTER","sort_order":80,"story_id":"story.irish.tain_muster_boy_deeds","story_version_id":"storyver.irish.tain_dunn_1"}
+{"entity_id":"deity.irish.lugh","notes":"Father","role":"CHARACTER","sort_order":90,"story_id":"story.irish.tain_muster_boy_deeds","story_version_id":"storyver.irish.tain_dunn_1"}
 {"entity_id":"group.japanese.eight_thunder_kami","notes":"Derived from an explicitly linked story claim subject.","role":"RELATED","sort_order":10,"story_id":"story.japanese.eight_thunder_yomi","story_version_id":"storyver.japanese.eight_thunder_kojiki"}
 {"entity_id":"deity.japanese.ooikazuchi","notes":"Derived from an explicitly linked story claim subject.","role":"CHARACTER","sort_order":10,"story_id":"story.japanese.eight_thunder_yomi","story_version_id":"storyver.japanese.eight_thunder_kojiki"}
 {"entity_id":"deity.japanese.honoikazuchi","notes":"Derived from an explicitly linked story claim subject.","role":"CHARACTER","sort_order":10,"story_id":"story.japanese.eight_thunder_yomi","story_version_id":"storyver.japanese.eight_thunder_kojiki"}
@@ -532,6 +631,22 @@
 {"entity_id":"creature.norse.fenrir","notes":"Derived from an explicitly linked story claim subject.","role":"CHARACTER","sort_order":10,"story_id":"story.norse.ragnarok","story_version_id":"storyver.norse.ragnarok_gylf"}
 {"entity_id":"deity.norse.odin","notes":"Derived from an explicitly linked story claim subject.","role":"CHARACTER","sort_order":10,"story_id":"story.norse.ragnarok","story_version_id":"storyver.norse.ragnarok_gylf"}
 {"entity_id":"event.norse.ragnarok","notes":"Derived from an explicitly linked story claim object.","role":"EVENT","sort_order":20,"story_id":"story.norse.ragnarok","story_version_id":"storyver.norse.ragnarok_gylf"}
+{"entity_id":"event.norse.ragnarok","notes":"End of the world","role":"EVENT","sort_order":10,"story_id":"story.norse.ragnarok","story_version_id":"storyver.norse.ragnarok_gylf_long"}
+{"entity_id":"deity.norse.odin","notes":"Falls to Fenrir","role":"CHARACTER","sort_order":20,"story_id":"story.norse.ragnarok","story_version_id":"storyver.norse.ragnarok_gylf_long"}
+{"entity_id":"deity.norse.thor","notes":"Fights the serpent","role":"CHARACTER","sort_order":30,"story_id":"story.norse.ragnarok","story_version_id":"storyver.norse.ragnarok_gylf_long"}
+{"entity_id":"deity.norse.loki","notes":"Leads Hel's host","role":"CHARACTER","sort_order":40,"story_id":"story.norse.ragnarok","story_version_id":"storyver.norse.ragnarok_gylf_long"}
+{"entity_id":"creature.norse.fenrir","notes":"Wolf","role":"CHARACTER","sort_order":50,"story_id":"story.norse.ragnarok","story_version_id":"storyver.norse.ragnarok_gylf_long"}
+{"entity_id":"creature.norse.jormungandr","notes":"Midgard serpent","role":"CHARACTER","sort_order":60,"story_id":"story.norse.ragnarok","story_version_id":"storyver.norse.ragnarok_gylf_long"}
+{"entity_id":"deity.norse.freyr","notes":"Falls to Surtr","role":"CHARACTER","sort_order":70,"story_id":"story.norse.ragnarok","story_version_id":"storyver.norse.ragnarok_gylf_long"}
+{"entity_id":"deity.norse.heimdall","notes":"Sounds the horn","role":"CHARACTER","sort_order":80,"story_id":"story.norse.ragnarok","story_version_id":"storyver.norse.ragnarok_gylf_long"}
+{"entity_id":"deity.norse.tyr","notes":"Fights Garmr","role":"CHARACTER","sort_order":90,"story_id":"story.norse.ragnarok","story_version_id":"storyver.norse.ragnarok_gylf_long"}
+{"entity_id":"deity.norse.vidar","notes":"Avenger","role":"CHARACTER","sort_order":100,"story_id":"story.norse.ragnarok","story_version_id":"storyver.norse.ragnarok_gylf_long"}
+{"entity_id":"creature.norse.surtr","notes":"Fire giant","role":"CHARACTER","sort_order":110,"story_id":"story.norse.ragnarok","story_version_id":"storyver.norse.ragnarok_gylf_long"}
+{"entity_id":"creature.norse.garm","notes":"Hound","role":"CHARACTER","sort_order":120,"story_id":"story.norse.ragnarok","story_version_id":"storyver.norse.ragnarok_gylf_long"}
+{"entity_id":"artifact.norse.naglfar","notes":"Ship of the dead","role":"ARTIFACT","sort_order":130,"story_id":"story.norse.ragnarok","story_version_id":"storyver.norse.ragnarok_gylf_long"}
+{"entity_id":"deity.norse.baldr","notes":"Returns","role":"CHARACTER","sort_order":140,"story_id":"story.norse.ragnarok","story_version_id":"storyver.norse.ragnarok_gylf_long"}
+{"entity_id":"deity.norse.hodr","notes":"Returns","role":"CHARACTER","sort_order":150,"story_id":"story.norse.ragnarok","story_version_id":"storyver.norse.ragnarok_gylf_long"}
+{"entity_id":"artifact.norse.gjallarhorn","notes":"Horn","role":"ARTIFACT","sort_order":160,"story_id":"story.norse.ragnarok","story_version_id":"storyver.norse.ragnarok_gylf_long"}
 {"entity_id":"deity.norse.thor","notes":"Hero","role":"CHARACTER","sort_order":10,"story_id":"story.norse.thor_utgarda_loki","story_version_id":"storyver.norse.utgard_gylf"}
 {"entity_id":"deity.norse.loki","notes":"Companion","role":"CHARACTER","sort_order":20,"story_id":"story.norse.thor_utgarda_loki","story_version_id":"storyver.norse.utgard_gylf"}
 {"entity_id":"hero.norse.thjalfi","notes":"Servant","role":"CHARACTER","sort_order":30,"story_id":"story.norse.thor_utgarda_loki","story_version_id":"storyver.norse.utgard_gylf"}
@@ -549,6 +664,32 @@
 {"entity_id":"place.norse.noatun","notes":"Njörðr's home","role":"PLACE","sort_order":40,"story_id":"story.norse.vanir_family","story_version_id":"storyver.norse.vanir_gylf"}
 {"entity_id":"place.norse.folkvangr","notes":"Freyja's home","role":"PLACE","sort_order":50,"story_id":"story.norse.vanir_family","story_version_id":"storyver.norse.vanir_gylf"}
 {"entity_id":"text.norse.gylfaginning","notes":"Gylfaginning","role":"TEXT","sort_order":60,"story_id":"story.norse.vanir_family","story_version_id":"storyver.norse.vanir_gylf"}
+{"entity_id":"deity.norse.odin","notes":"Ancestor","role":"CHARACTER","sort_order":10,"story_id":"story.norse.volsunga_sigmund","story_version_id":"storyver.norse.volsunga_morris_1_12"}
+{"entity_id":"hero.norse.volsung","notes":"King","role":"CHARACTER","sort_order":20,"story_id":"story.norse.volsunga_sigmund","story_version_id":"storyver.norse.volsunga_morris_1_12"}
+{"entity_id":"hero.norse.signy","notes":"Daughter","role":"CHARACTER","sort_order":30,"story_id":"story.norse.volsunga_sigmund","story_version_id":"storyver.norse.volsunga_morris_1_12"}
+{"entity_id":"hero.norse.sigmund","notes":"Hero","role":"CHARACTER","sort_order":40,"story_id":"story.norse.volsunga_sigmund","story_version_id":"storyver.norse.volsunga_morris_1_12"}
+{"entity_id":"hero.norse.sinfjotli","notes":"Son","role":"CHARACTER","sort_order":50,"story_id":"story.norse.volsunga_sigmund","story_version_id":"storyver.norse.volsunga_morris_1_12"}
+{"entity_id":"weapon.norse.gram","notes":"Sword","role":"ARTIFACT","sort_order":60,"story_id":"story.norse.volsunga_sigmund","story_version_id":"storyver.norse.volsunga_morris_1_12"}
+{"entity_id":"hero.norse.sigurd","notes":"Hero","role":"CHARACTER","sort_order":10,"story_id":"story.norse.volsunga_sigurd_brynhild","story_version_id":"storyver.norse.volsunga_morris_25_32"}
+{"entity_id":"weapon.norse.gram","notes":"Sword","role":"ARTIFACT","sort_order":20,"story_id":"story.norse.volsunga_sigurd_brynhild","story_version_id":"storyver.norse.volsunga_morris_25_32"}
+{"entity_id":"deity.norse.odin","notes":"Old man","role":"CHARACTER","sort_order":30,"story_id":"story.norse.volsunga_sigurd_brynhild","story_version_id":"storyver.norse.volsunga_morris_25_32"}
+{"entity_id":"being.norse.regin","notes":"Foster-father","role":"CHARACTER","sort_order":40,"story_id":"story.norse.volsunga_sigurd_brynhild","story_version_id":"storyver.norse.volsunga_morris_25_32"}
+{"entity_id":"creature.norse.fafnir","notes":"Dragon","role":"CHARACTER","sort_order":50,"story_id":"story.norse.volsunga_sigurd_brynhild","story_version_id":"storyver.norse.volsunga_morris_25_32"}
+{"entity_id":"artifact.norse.andvaranaut","notes":"Cursed ring","role":"ARTIFACT","sort_order":60,"story_id":"story.norse.volsunga_sigurd_brynhild","story_version_id":"storyver.norse.volsunga_morris_25_32"}
+{"entity_id":"hero.norse.brynhild","notes":"Shield-maiden","role":"CHARACTER","sort_order":70,"story_id":"story.norse.volsunga_sigurd_brynhild","story_version_id":"storyver.norse.volsunga_morris_25_32"}
+{"entity_id":"creature.norse.grani","notes":"Horse","role":"CHARACTER","sort_order":80,"story_id":"story.norse.volsunga_sigurd_brynhild","story_version_id":"storyver.norse.volsunga_morris_25_32"}
+{"entity_id":"hero.norse.gudrun","notes":"Wife","role":"CHARACTER","sort_order":90,"story_id":"story.norse.volsunga_sigurd_brynhild","story_version_id":"storyver.norse.volsunga_morris_25_32"}
+{"entity_id":"hero.norse.gunnar","notes":"Sworn brother","role":"CHARACTER","sort_order":100,"story_id":"story.norse.volsunga_sigurd_brynhild","story_version_id":"storyver.norse.volsunga_morris_25_32"}
+{"entity_id":"hero.norse.sigurd","notes":"Hero","role":"CHARACTER","sort_order":10,"story_id":"story.norse.volsunga_sigurd_dragon","story_version_id":"storyver.norse.volsunga_morris_13_24"}
+{"entity_id":"weapon.norse.gram","notes":"Sword","role":"ARTIFACT","sort_order":20,"story_id":"story.norse.volsunga_sigurd_dragon","story_version_id":"storyver.norse.volsunga_morris_13_24"}
+{"entity_id":"deity.norse.odin","notes":"Old man","role":"CHARACTER","sort_order":30,"story_id":"story.norse.volsunga_sigurd_dragon","story_version_id":"storyver.norse.volsunga_morris_13_24"}
+{"entity_id":"being.norse.regin","notes":"Foster-father","role":"CHARACTER","sort_order":40,"story_id":"story.norse.volsunga_sigurd_dragon","story_version_id":"storyver.norse.volsunga_morris_13_24"}
+{"entity_id":"creature.norse.fafnir","notes":"Dragon","role":"CHARACTER","sort_order":50,"story_id":"story.norse.volsunga_sigurd_dragon","story_version_id":"storyver.norse.volsunga_morris_13_24"}
+{"entity_id":"artifact.norse.andvaranaut","notes":"Cursed ring","role":"ARTIFACT","sort_order":60,"story_id":"story.norse.volsunga_sigurd_dragon","story_version_id":"storyver.norse.volsunga_morris_13_24"}
+{"entity_id":"hero.norse.brynhild","notes":"Shield-maiden","role":"CHARACTER","sort_order":70,"story_id":"story.norse.volsunga_sigurd_dragon","story_version_id":"storyver.norse.volsunga_morris_13_24"}
+{"entity_id":"creature.norse.grani","notes":"Horse","role":"CHARACTER","sort_order":80,"story_id":"story.norse.volsunga_sigurd_dragon","story_version_id":"storyver.norse.volsunga_morris_13_24"}
+{"entity_id":"deity.norse.loki","notes":"Killer of Otr","role":"CHARACTER","sort_order":90,"story_id":"story.norse.volsunga_sigurd_dragon","story_version_id":"storyver.norse.volsunga_morris_13_24"}
+{"entity_id":"being.norse.andvari","notes":"Dwarf","role":"CHARACTER","sort_order":100,"story_id":"story.norse.volsunga_sigurd_dragon","story_version_id":"storyver.norse.volsunga_morris_13_24"}
 {"entity_id":"being.norse.ymir","notes":"Primordial giant","role":"CHARACTER","sort_order":10,"story_id":"story.norse.ymir_world","story_version_id":"storyver.norse.ymir_gylf"}
 {"entity_id":"deity.norse.odin","notes":"Slayer","role":"CHARACTER","sort_order":20,"story_id":"story.norse.ymir_world","story_version_id":"storyver.norse.ymir_gylf"}
 {"entity_id":"event.norse.slaying_of_ymir","notes":"World-making","role":"EVENT","sort_order":30,"story_id":"story.norse.ymir_world","story_version_id":"storyver.norse.ymir_gylf"}
@@ -599,6 +740,28 @@
 {"entity_id":"deity.vedic.tvastr","notes":"Derived from an explicitly linked story claim subject.","role":"CHARACTER","sort_order":10,"story_id":"story.vedic.indra_vritra","story_version_id":"storyver.vedic.indra_vritra_rv132"}
 {"entity_id":"weapon.vedic.vajra","notes":"Derived from an explicitly linked story claim subject.","role":"ARTIFACT","sort_order":10,"story_id":"story.vedic.indra_vritra","story_version_id":"storyver.vedic.indra_vritra_rv132"}
 {"entity_id":"text.vedic.rigveda","notes":"Derived from an explicitly linked story claim object.","role":"RELATED","sort_order":20,"story_id":"story.vedic.indra_vritra","story_version_id":"storyver.vedic.indra_vritra_rv132"}
+{"entity_id":"hero.welsh.bendigeidfran","notes":"King","role":"CHARACTER","sort_order":10,"story_id":"story.welsh.mabinogi_branwen","story_version_id":"storyver.welsh.mabinogi_guest_branch2"}
+{"entity_id":"hero.welsh.branwen","notes":"Sister","role":"CHARACTER","sort_order":20,"story_id":"story.welsh.mabinogi_branwen","story_version_id":"storyver.welsh.mabinogi_guest_branch2"}
+{"entity_id":"hero.welsh.manawydan","notes":"Brother","role":"CHARACTER","sort_order":30,"story_id":"story.welsh.mabinogi_branwen","story_version_id":"storyver.welsh.mabinogi_guest_branch2"}
+{"entity_id":"hero.welsh.matholwch","notes":"King of Ireland","role":"CHARACTER","sort_order":40,"story_id":"story.welsh.mabinogi_branwen","story_version_id":"storyver.welsh.mabinogi_guest_branch2"}
+{"entity_id":"hero.welsh.efnysien","notes":"Half-brother","role":"CHARACTER","sort_order":50,"story_id":"story.welsh.mabinogi_branwen","story_version_id":"storyver.welsh.mabinogi_guest_branch2"}
+{"entity_id":"artifact.welsh.cauldron_of_rebirth","notes":"Cauldron","role":"ARTIFACT","sort_order":60,"story_id":"story.welsh.mabinogi_branwen","story_version_id":"storyver.welsh.mabinogi_guest_branch2"}
+{"entity_id":"hero.welsh.pryderi","notes":"Survivor","role":"CHARACTER","sort_order":70,"story_id":"story.welsh.mabinogi_branwen","story_version_id":"storyver.welsh.mabinogi_guest_branch2"}
+{"entity_id":"hero.welsh.manawydan","notes":"Hero","role":"CHARACTER","sort_order":10,"story_id":"story.welsh.mabinogi_manawydan","story_version_id":"storyver.welsh.mabinogi_guest_branch3"}
+{"entity_id":"hero.welsh.rhiannon","notes":"Wife","role":"CHARACTER","sort_order":20,"story_id":"story.welsh.mabinogi_manawydan","story_version_id":"storyver.welsh.mabinogi_guest_branch3"}
+{"entity_id":"hero.welsh.pryderi","notes":"Companion","role":"CHARACTER","sort_order":30,"story_id":"story.welsh.mabinogi_manawydan","story_version_id":"storyver.welsh.mabinogi_guest_branch3"}
+{"entity_id":"hero.welsh.pwyll","notes":"Remembered","role":"CHARACTER","sort_order":40,"story_id":"story.welsh.mabinogi_manawydan","story_version_id":"storyver.welsh.mabinogi_guest_branch3"}
+{"entity_id":"hero.welsh.math","notes":"King","role":"CHARACTER","sort_order":10,"story_id":"story.welsh.mabinogi_math","story_version_id":"storyver.welsh.mabinogi_guest_branch4"}
+{"entity_id":"hero.welsh.gwydion","notes":"Magician","role":"CHARACTER","sort_order":20,"story_id":"story.welsh.mabinogi_math","story_version_id":"storyver.welsh.mabinogi_guest_branch4"}
+{"entity_id":"hero.welsh.arianrhod","notes":"Mother","role":"CHARACTER","sort_order":30,"story_id":"story.welsh.mabinogi_math","story_version_id":"storyver.welsh.mabinogi_guest_branch4"}
+{"entity_id":"hero.welsh.lleu","notes":"Hero","role":"CHARACTER","sort_order":40,"story_id":"story.welsh.mabinogi_math","story_version_id":"storyver.welsh.mabinogi_guest_branch4"}
+{"entity_id":"hero.welsh.blodeuedd","notes":"Flower-wife","role":"CHARACTER","sort_order":50,"story_id":"story.welsh.mabinogi_math","story_version_id":"storyver.welsh.mabinogi_guest_branch4"}
+{"entity_id":"hero.welsh.pryderi","notes":"Slain","role":"CHARACTER","sort_order":60,"story_id":"story.welsh.mabinogi_math","story_version_id":"storyver.welsh.mabinogi_guest_branch4"}
+{"entity_id":"hero.welsh.pwyll","notes":"Prince of Dyfed","role":"CHARACTER","sort_order":10,"story_id":"story.welsh.mabinogi_pwyll","story_version_id":"storyver.welsh.mabinogi_guest_branch1"}
+{"entity_id":"deity.welsh.arawn","notes":"King of Annwn","role":"CHARACTER","sort_order":20,"story_id":"story.welsh.mabinogi_pwyll","story_version_id":"storyver.welsh.mabinogi_guest_branch1"}
+{"entity_id":"place.welsh.annwn","notes":"Otherworld","role":"PLACE","sort_order":30,"story_id":"story.welsh.mabinogi_pwyll","story_version_id":"storyver.welsh.mabinogi_guest_branch1"}
+{"entity_id":"hero.welsh.rhiannon","notes":"Wife","role":"CHARACTER","sort_order":40,"story_id":"story.welsh.mabinogi_pwyll","story_version_id":"storyver.welsh.mabinogi_guest_branch1"}
+{"entity_id":"hero.welsh.pryderi","notes":"Son","role":"CHARACTER","sort_order":50,"story_id":"story.welsh.mabinogi_pwyll","story_version_id":"storyver.welsh.mabinogi_guest_branch1"}
 {"entity_id":"deity.zoroastrian.mithra","notes":"Lord of wide pastures","role":"CHARACTER","sort_order":10,"story_id":"story.zoroastrian.mihr_yasht","story_version_id":"storyver.zoroastrian.mihr_yasht_darmesteter"}
 {"entity_id":"deity.zoroastrian.ahura_mazda","notes":"Creator","role":"CHARACTER","sort_order":20,"story_id":"story.zoroastrian.mihr_yasht","story_version_id":"storyver.zoroastrian.mihr_yasht_darmesteter"}
 {"entity_id":"text.zoroastrian.mihr_yasht","notes":"Hymn","role":"TEXT","sort_order":30,"story_id":"story.zoroastrian.mihr_yasht","story_version_id":"storyver.zoroastrian.mihr_yasht_darmesteter"}

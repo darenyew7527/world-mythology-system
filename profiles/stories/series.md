@@ -1,6 +1,6 @@
 # 系列连载 / Story series
 
-> 每个系列按原著顺序把多部长篇故事连起来读；每一部都是完整的故事，带自己的来源定位。系列只排列已有的部分，跳过的回目会写明，不补写。
+> 每个系列按原著顺序把多部长篇故事连起来读；每一部都是完整的故事，带自己的来源定位。系列只排列已有的部分，跳过的章节会写明，不补写。
 
 ## 西游记连载 / Journey to the West (series)
 
@@ -38,3 +38,63 @@
 
 1. [奥德赛 · 上部 漂泊](story.greek.odyssey_wanderings.md) — Books I–XII，18 章，约 26 分钟
 2. [奥德赛 · 下部 归家](story.greek.odyssey_homecoming.md) — Books XIII–XXIV，14 章，约 22 分钟
+
+## 希腊英雄连载 / Greek heroes (series)
+
+按阿波罗多洛斯《书库》第二卷的顺序连读四部：珀尔修斯，以及他的后代赫拉克勒斯从出生、十二项任务到火葬堆上升天，共四十九章。
+
+> 选录说明：四部按顺序覆盖《书库》2.4.1–2.8.1，只在第四部内略去2.7.4（已在该部注明）；赫拉克勒斯参加阿尔戈远航的部分见“阿尔戈英雄连载”。
+
+1. [希腊英雄 · 第一部 珀尔修斯](story.greek.perseus_library.md) — Library 2.4.1–2.4.5，12 章，约 13 分钟
+2. [希腊英雄 · 第二部 赫拉克勒斯（上）诞生与前六项任务](story.greek.heracles_birth_labours.md) — Library 2.4.5–2.5.6，13 章，约 13 分钟
+3. [希腊英雄 · 第三部 赫拉克勒斯（中）后六项任务](story.greek.heracles_far_labours.md) — Library 2.5.7–2.5.12，12 章，约 12 分钟
+4. [希腊英雄 · 第四部 赫拉克勒斯（下）毒袍与升天](story.greek.heracles_death_apotheosis.md) — Library 2.6.1–2.8.1，12 章，约 11 分钟
+   - 跳过：本部略去《书库》2.7.4：攻打斯巴达、杀死希波科翁诸子，以及奥格在忒革亚生下忒勒福斯。
+
+## 阿尔戈英雄连载 / The Argonauts (series)
+
+按西顿英译阿波罗尼俄斯《阿尔戈英雄纪》的四卷连读上下两部：上部远航（第一至二卷），下部金羊毛与归航（第三至四卷），共二十六章。
+
+> 选录说明：两部覆盖全部四卷，没有跳过的卷；美狄亚后来在科林斯的故事出自欧里庇得斯等其他作家，不在本诗中。
+
+1. [阿尔戈英雄 · 上部 远航](story.greek.argonautica_outward.md) — Books I–II，12 章，约 12 分钟
+2. [阿尔戈英雄 · 下部 金羊毛与归航](story.greek.argonautica_fleece_return.md) — Books III–IV，14 章，约 14 分钟
+
+## 诸神的黄昏连载 / The twilight of the gods (series)
+
+按斯诺里《欺骗古鲁菲》最后几章的顺序连读两部：巴德尔之死与洛基受罚（第49–50章），诸神黄昏、新世界与古鲁菲的幻境消失（第51–54章），共二十五章。
+
+> 选录说明：两部连续覆盖《欺骗古鲁菲》第49–54章；两个故事原有的短版本保留，系列打开的是长篇版本。
+
+1. [弗丽嘉的誓言与巴德尔之死](story.norse.frigg_baldr.md) — Gylfaginning 49–50，13 章，约 7 分钟
+2. [诸神黄昏：世界的毁灭与重生](story.norse.ragnarok.md) — Gylfaginning 51–54，12 章，约 10 分钟
+
+## 沃尔松格萨迦连载 / The Saga of the Völsungs (series)
+
+按莫里斯与马格努松英译《沃尔松格萨迦》的章节连读三部：西格蒙德（第1–13章）、屠龙者西古尔德（第13–24章）、西古尔德与布伦希尔德（第25–32章），共三十六章。
+
+> 选录说明：三部连续覆盖萨迦第1–32章（第13章西古尔德出生横跨前两部）；第33–43章古德伦与阿特利、斯万希尔德的故事本系列暂未收录。
+
+1. [沃尔松格萨迦 · 第一部 西格蒙德](story.norse.volsunga_sigmund.md) — ch. 1–13，12 章，约 13 分钟
+2. [沃尔松格萨迦 · 第二部 屠龙者西古尔德](story.norse.volsunga_sigurd_dragon.md) — ch. 13–24，12 章，约 12 分钟
+3. [沃尔松格萨迦 · 第三部 西古尔德与布伦希尔德](story.norse.volsunga_sigurd_brynhild.md) — ch. 25–32，12 章，约 11 分钟
+
+## 夺牛长征记连载 / The Cattle Raid of Cooley (series)
+
+按邓恩英译莱因斯特书本《夺牛长征记》的情节顺序连读上下两部：库丘林守浅滩，费迪亚德与公牛之战，共二十五章。
+
+> 选录说明：两部覆盖全书的主要情节，众多单打独斗的对手和勇士名录只择要讲述；《阿尔斯特人的衰弱》等前传故事不在本系列中。
+
+1. [夺牛长征记 · 上部 库丘林守浅滩](story.irish.tain_muster_boy_deeds.md) — Pillow-talk to the Great Rout，13 章，约 13 分钟
+2. [夺牛长征记 · 下部 费迪亚德与公牛之战](story.irish.tain_ferdiad_bulls.md) — Fer Diad to the end，12 章，约 12 分钟
+
+## 马比诺吉昂四支连载 / The Four Branches of the Mabinogi (series)
+
+按格斯特夫人英译连读《马比诺吉昂》的四支：皮威尔、布兰雯、马纳维丹、马斯，普雷德里贯穿四支，共四十八章。
+
+> 选录说明：四支全部收录，没有跳过的部分；格斯特译本中《马比诺吉昂》的其他故事（如《库尔赫奇与奥尔温》）不属于四支，不在本系列中。
+
+1. [马比诺吉昂四支 · 第一支 皮威尔](story.welsh.mabinogi_pwyll.md) — First Branch，12 章，约 12 分钟
+2. [马比诺吉昂四支 · 第二支 布兰雯](story.welsh.mabinogi_branwen.md) — Second Branch，12 章，约 11 分钟
+3. [马比诺吉昂四支 · 第三支 马纳维丹](story.welsh.mabinogi_manawydan.md) — Third Branch，12 章，约 11 分钟
+4. [马比诺吉昂四支 · 第四支 马斯](story.welsh.mabinogi_math.md) — Fourth Branch，12 章，约 12 分钟

@@ -31,6 +31,8 @@
   - 来源：[Ancient Iera Odos (Sacred Way)](https://www.efada.gr/en-us/Archaeological-Sites-Monuments/-Catalogue-of-Sites-Monuments/ancient-iera-odos-sacred-way-municipalities-of-egaleo-chaidari-aspropyrgos-elefsina)；定位：Official object, site or museum record cited in claim notes
 - `claim.v0320.theogony.05` [VERIFIED / TEXT_SAYS / 0.90] Aphrodite grows from the foam around Heaven's severed members, comes ashore at Cythera and Cyprus, and is attended by Eros and Desire.
   - 来源：[Hesiod, Theogony, Evelyn-White English text](https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0130)；定位：lines 188–206
+- `claim.v0340.argo_2.01` [VERIFIED / TEXT_SAYS / 0.90] At the request of Hera and Athena, Aphrodite promises Eros the golden ball Zeus played with as a child if he will shoot Medea with love for Jason.
+  - 来源：[Apollonius Rhodius, The Argonautica (tr. R. C. Seaton, 1912)](https://www.gutenberg.org/ebooks/830)；定位：Book III, the goddesses
 - `claim.v050.h5.aphrodite_domain` [VERIFIED / TEXT_SAYS / 0.98] The opening of Homeric Hymn 5 describes Aphrodite’s influence and explicitly names goddesses outside it.
   - 来源：[Homeric Hymn 5 to Aphrodite, Evelyn-White English text](https://scaife.perseus.org/library/urn%3Acts%3AgreekLit%3Atlg0013.tlg005/)；定位：lines 1-33
 - `claim.v050.iliad14.aphrodite_child_zeus` [VERIFIED / TEXT_SAYS / 0.98] Iliad 14 refers to Aphrodite as a daughter of Zeus.

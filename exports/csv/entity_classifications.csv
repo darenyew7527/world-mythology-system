@@ -10,18 +10,24 @@ artifact.chinese.qiankun_quan,ARTIFACT,1,
 artifact.egyptian.solar_barque,SHIP,1,
 artifact.greek.aegis,ARTIFACT,1,
 artifact.greek.aegis,ARMOR,0,
+artifact.greek.argo,SHIP,1,v0.34 heroic-epic entity.
 artifact.greek.caduceus,SCEPTER,1,
+artifact.greek.golden_fleece,SACRED_OBJECT,1,v0.34 heroic-epic entity.
 artifact.greek.helm_hades,ARMOR,1,
 artifact.hindu.amrita,SACRED_OBJECT,1,Nectar of immortality.
 artifact.irish.dagda_cauldron,SACRED_OBJECT,1,v0.31 story entity.
 artifact.mesopotamian.tablet_destinies,ARTIFACT,1,
+artifact.norse.andvaranaut,RING,1,v0.34 heroic-epic entity.
 artifact.norse.draupnir,RING,1,
 artifact.norse.gjallarhorn,ARTIFACT,1,v0.31 story entity.
 artifact.norse.gleipnir,ARTIFACT,1,
+artifact.norse.naglfar,SHIP,1,v0.34 heroic-epic entity.
+artifact.welsh.cauldron_of_rebirth,SACRED_OBJECT,1,v0.34 heroic-epic entity.
 artifact.yoruba.ose_sango,SACRED_OBJECT,1,v0.6.0 thunder and storm comparison checkpoint
 being.chinese.pangu,GIANT,1,
 being.chinese.pangu,PRIMORDIAL_DEITY,0,
 being.irish.balor,ENTITY,1,v0.31 story entity.
+being.norse.andvari,DWARF,1,v0.34 heroic-epic entity.
 being.norse.bestla,GIANT,1,Primary classification at research checkpoint 2026-08-11
 being.norse.brokkr,DWARF,1,Primary classification at research checkpoint 2026-08-11
 being.norse.brokkr,CREATURE,0,DWARF is nested under CREATURE
@@ -29,6 +35,7 @@ being.norse.eitri,DWARF,1,Primary classification at research checkpoint 2026-08-
 being.norse.eitri,CREATURE,0,DWARF is nested under CREATURE
 being.norse.jarnsaxa,GIANT,1,v0.6.0 thunder and storm comparison checkpoint
 being.norse.mimir,CREATURE,1,Primary classification at research checkpoint 2026-08-11
+being.norse.regin,DWARF,1,v0.34 heroic-epic entity.
 being.norse.sindri,DWARF,1,Primary classification at research checkpoint 2026-08-11
 being.norse.sindri,CREATURE,0,DWARF is nested under CREATURE
 being.norse.sons_of_ivaldi,CREATURE,1,
@@ -119,22 +126,38 @@ concept.zoroastrian.asha,CONCEPT,1,
 concept.zoroastrian.druj,CONCEPT,1,
 creature.akkadian.anzu,MONSTER,1,v0.20.0 ancient Near East witnesses
 creature.chinese.ao_turtle,DIVINE_BEAST,1,Great turtle in the Nüwa passages.
+creature.greek.cerberus,MONSTER,1,v0.34 heroic-epic entity.
 creature.greek.charybdis,MONSTER,1,v0.33 series entity.
 creature.greek.cyclopes_hesiodic,GIANT,1,
+creature.greek.geryon,GIANT,1,v0.34 heroic-epic entity.
+creature.greek.graeae,MONSTER,1,v0.34 heroic-epic entity.
+creature.greek.harpies,MONSTER,1,v0.34 heroic-epic entity.
 creature.greek.hecatoncheires,GIANT,1,v0.32 long-story entity.
+creature.greek.lernaean_hydra,MONSTER,1,v0.34 heroic-epic entity.
+creature.greek.medusa,MONSTER,1,v0.34 heroic-epic entity.
+creature.greek.nemean_lion,MONSTER,1,v0.34 heroic-epic entity.
+creature.greek.nessus,CREATURE,1,v0.34 heroic-epic entity.
+creature.greek.pegasus,DIVINE_BEAST,1,v0.34 heroic-epic entity.
 creature.greek.polyphemus,GIANT,1,v0.33 series entity.
 creature.greek.scylla,MONSTER,1,v0.33 series entity.
 creature.greek.sirens,MONSTER,1,v0.33 series entity.
+creature.greek.talos,GIANT,1,v0.34 heroic-epic entity.
 creature.greek.typhon,MONSTER,1,Primary classification at research checkpoint 2026-08-11
 creature.hindu.akupara,DIVINE_BEAST,1,Mahābhārata critical-edition witness only.
 creature.hindu.jatayu,DIVINE_BEAST,1,v0.33 series entity.
 creature.hindu.vasuki,DIVINE_BEAST,1,Nāga king.
+creature.irish.donn_cuailnge,DIVINE_BEAST,1,v0.34 heroic-epic entity.
+creature.irish.finnbennach,DIVINE_BEAST,1,v0.34 heroic-epic entity.
 creature.mesopotamian.bull_of_heaven,MONSTER,1,v0.32 long-story entity.
+creature.norse.fafnir,DRAGON,1,v0.34 heroic-epic entity.
 creature.norse.fenrir,MONSTER,1,
+creature.norse.garm,MONSTER,1,v0.34 heroic-epic entity.
+creature.norse.grani,DIVINE_BEAST,1,v0.34 heroic-epic entity.
 creature.norse.gullinbursti,DIVINE_BEAST,1,Primary classification at research checkpoint 2026-08-11
 creature.norse.gullinbursti,ARTIFACT,0,Crafted living being in Skáldskaparmál; retain both classes
 creature.norse.jormungandr,DRAGON,1,
 creature.norse.sleipnir,DIVINE_BEAST,1,v0.32 long-story entity.
+creature.norse.surtr,GIANT,1,v0.34 heroic-epic entity.
 creature.vedic.vritra,MONSTER,1,v0.6.0 thunder and storm comparison checkpoint
 deity.akkadian.ishtar,DEITY,1,
 deity.akkadian.ninurta,DEITY,1,v0.20.0 ancient Near East witnesses
@@ -198,6 +221,7 @@ deity.greek.asteria,DEITY,1,Primary classification from v0.4.0 Greek genealogy c
 deity.greek.asteria,TITAN,0,Hesiodic divine generation
 deity.greek.astraeus,DEITY,1,v0.9.0 Perses homonym audit checkpoint
 deity.greek.athena,DEITY,1,
+deity.greek.atlas,DEITY,1,v0.34 heroic-epic entity.
 deity.greek.calypso,DEITY,1,v0.33 series entity.
 deity.greek.chaos,PRIMORDIAL_DEITY,1,Primary classification from v0.4.0 Greek genealogy checkpoint
 deity.greek.chaos,DEITY,0,Queryable through the deity collection; ontology remains witness-specific
@@ -211,10 +235,12 @@ deity.greek.dionysus,DEITY,1,
 deity.greek.eos,DEITY,1,Primary classification from v0.4.0 Greek genealogy checkpoint
 deity.greek.erebus,PRIMORDIAL_DEITY,1,Primary classification from v0.4.0 Greek genealogy checkpoint
 deity.greek.erebus,DEITY,0,Queryable through the deity collection
+deity.greek.eros,DEITY,1,v0.34 heroic-epic entity.
 deity.greek.eurybia,DEITY,1,v0.9.0 Perses homonym audit checkpoint
 deity.greek.gaia,PRIMORDIAL_DEITY,1,
 deity.greek.gaia,CONCEPT,0,
 deity.greek.hades,DEITY,1,
+deity.greek.hebe,DEITY,1,v0.34 heroic-epic entity.
 deity.greek.hecate,DEITY,1,Primary classification from v0.4.0 Greek genealogy checkpoint
 deity.greek.helios,DEITY,1,Primary classification from v0.4.0 Greek genealogy checkpoint
 deity.greek.hemera,PRIMORDIAL_DEITY,1,Primary classification from v0.4.0 Greek genealogy checkpoint
@@ -331,6 +357,7 @@ deity.norse.thrud,DEITY,1,v0.6.0 thunder and storm comparison checkpoint
 deity.norse.tyr,DEITY,1,
 deity.norse.ullr,DEITY,1,v0.6.0 thunder and storm comparison checkpoint
 deity.norse.ve,DEITY,1,Primary classification at research checkpoint 2026-08-11
+deity.norse.vidar,DEITY,1,v0.34 heroic-epic entity.
 deity.norse.vili,DEITY,1,Primary classification at research checkpoint 2026-08-11
 deity.polynesian.tane,DEITY,1,
 deity.polynesian.tangaroa,DEITY,1,
@@ -359,6 +386,7 @@ deity.ugaritic.yam,DEITY,1,
 deity.ugaritic.yam,CONCEPT,0,
 deity.vedic.indra,DEITY,1,
 deity.vedic.tvastr,DEITY,1,v0.6.0 thunder and storm comparison checkpoint
+deity.welsh.arawn,DEITY,1,v0.34 heroic-epic entity.
 deity.yoruba.ogun,DEITY,1,
 deity.yoruba.olodumare,DEITY,1,
 deity.yoruba.orunmila,DEITY,1,
@@ -462,14 +490,34 @@ hero.chinese.yellow_emperor,HERO,1,
 hero.chinese.yellow_emperor,ANCESTOR_DEITY,0,
 hero.chinese.zhu_bajie,HERO,1,v0.33 series entity.
 hero.chinese.zhuanxu,HERO,1,Legendary sovereign; no historical-reality claim.
+hero.greek.acrisius,HERO,1,v0.34 heroic-epic entity.
 hero.greek.aeetes,HERO,1,v0.9.0 Perses homonym audit checkpoint
+hero.greek.alcmena,HERO,1,v0.34 heroic-epic entity.
+hero.greek.amphitryon,HERO,1,v0.34 heroic-epic entity.
 hero.greek.andromeda,HERO,1,v0.9.0 Perses homonym audit checkpoint
+hero.greek.apsyrtus,HERO,1,v0.34 heroic-epic entity.
+hero.greek.danae,HERO,1,v0.34 heroic-epic entity.
+hero.greek.deianira,HERO,1,v0.34 heroic-epic entity.
+hero.greek.eurystheus,HERO,1,v0.34 heroic-epic entity.
+hero.greek.heracles,HERO,1,v0.34 heroic-epic entity.
+hero.greek.heracles,DEITY,0,Secondary classification.
+hero.greek.hippolyte,HERO,1,v0.34 heroic-epic entity.
+hero.greek.hylas,HERO,1,v0.34 heroic-epic entity.
+hero.greek.hypsipyle,HERO,1,v0.34 heroic-epic entity.
+hero.greek.iolaus,HERO,1,v0.34 heroic-epic entity.
+hero.greek.iole,HERO,1,v0.34 heroic-epic entity.
+hero.greek.jason,HERO,1,v0.34 heroic-epic entity.
 hero.greek.laertes,HERO,1,v0.33 series entity.
 hero.greek.medea,HERO,1,v0.9.0 Perses homonym audit checkpoint
 hero.greek.odysseus,HERO,1,v0.33 series entity.
+hero.greek.omphale,HERO,1,v0.34 heroic-epic entity.
+hero.greek.orpheus,HERO,1,v0.34 heroic-epic entity.
+hero.greek.pelias,HERO,1,v0.34 heroic-epic entity.
 hero.greek.penelope,HERO,1,v0.33 series entity.
 hero.greek.perses_perseus_son,HERO,1,v0.9.0 Perses homonym audit checkpoint
 hero.greek.perseus,HERO,1,v0.9.0 Perses homonym audit checkpoint
+hero.greek.phineus,HERO,1,v0.34 heroic-epic entity.
+hero.greek.polydeuces,HERO,1,v0.34 heroic-epic entity.
 hero.greek.telemachus,HERO,1,v0.33 series entity.
 hero.greek.triptolemos,HERO,1,v0.8.0 Eleusis evidence-layer checkpoint
 hero.indian.ahalya,HERO,1,v0.33 series entity.
@@ -484,16 +532,41 @@ hero.indian.sugriva,HERO,1,v0.33 series entity.
 hero.indian.valin,HERO,1,v0.33 series entity.
 hero.indian.vibhishana,HERO,1,v0.33 series entity.
 hero.indian.vishvamitra,HERO,1,v0.33 series entity.
+hero.irish.ailill,HERO,1,v0.34 heroic-epic entity.
+hero.irish.conchobar,HERO,1,v0.34 heroic-epic entity.
 hero.irish.cu_chulainn,HERO,1,
+hero.irish.ferdiad,HERO,1,v0.34 heroic-epic entity.
 hero.irish.fergus_mac_roich,HERO,1,
+hero.irish.medb,HERO,1,v0.34 heroic-epic entity.
 hero.japanese.yamato_takeru,HERO,1,
 hero.kiche.hunahpu,HERO,1,
 hero.kiche.xbalanque,HERO,1,
 hero.mesopotamian.enkidu,HERO,1,v0.32 long-story entity.
 hero.mesopotamian.utnapishtim,HERO,1,v0.32 long-story entity.
+hero.norse.brynhild,HERO,1,v0.34 heroic-epic entity.
+hero.norse.gudrun,HERO,1,v0.34 heroic-epic entity.
+hero.norse.gunnar,HERO,1,v0.34 heroic-epic entity.
+hero.norse.sigmund,HERO,1,v0.34 heroic-epic entity.
+hero.norse.signy,HERO,1,v0.34 heroic-epic entity.
+hero.norse.sigurd,HERO,1,v0.34 heroic-epic entity.
+hero.norse.sinfjotli,HERO,1,v0.34 heroic-epic entity.
 hero.norse.thjalfi,HERO,1,v0.32 long-story entity.
+hero.norse.volsung,HERO,1,v0.34 heroic-epic entity.
 hero.polynesian.maui,HERO,1,
 hero.sumerian.gilgamesh,HERO,1,v0.31 story entity.
+hero.welsh.arianrhod,HERO,1,v0.34 heroic-epic entity.
+hero.welsh.bendigeidfran,HERO,1,v0.34 heroic-epic entity.
+hero.welsh.blodeuedd,HERO,1,v0.34 heroic-epic entity.
+hero.welsh.branwen,HERO,1,v0.34 heroic-epic entity.
+hero.welsh.efnysien,HERO,1,v0.34 heroic-epic entity.
+hero.welsh.gwydion,HERO,1,v0.34 heroic-epic entity.
+hero.welsh.lleu,HERO,1,v0.34 heroic-epic entity.
+hero.welsh.manawydan,HERO,1,v0.34 heroic-epic entity.
+hero.welsh.math,HERO,1,v0.34 heroic-epic entity.
+hero.welsh.matholwch,HERO,1,v0.34 heroic-epic entity.
+hero.welsh.pryderi,HERO,1,v0.34 heroic-epic entity.
+hero.welsh.pwyll,HERO,1,v0.34 heroic-epic entity.
+hero.welsh.rhiannon,HERO,1,v0.34 heroic-epic entity.
 historical.achaemenid.darius_i,HISTORICAL_FIGURE,1,v0.12.0 Ra-Atum witness-layer checkpoint
 historical.achaemenid.xerxes_i,HISTORICAL_FIGURE,1,v0.14.0 Darius statue provenance checkpoint
 historical.chinese.tang_taizong,HISTORICAL_FIGURE,1,v0.33 series entity.
@@ -550,6 +623,7 @@ museum.ugarit.baal_thunder_ao15775,MONUMENT,0,
 person.greek.antinous,PERSON,1,v0.33 series entity.
 person.greek.eumaeus,PERSON,1,v0.33 series entity.
 person.greek.eurycleia,PERSON,1,v0.33 series entity.
+person.greek.polydectes,PERSON,1,v0.34 heroic-epic entity.
 person.norse.ask,PERSON,1,v0.19.0 Norse witness graph
 person.norse.embla,PERSON,1,v0.19.0 Norse witness graph
 place.chinese.buzhou_mountain,MYTHICAL_PLACE,1,No coordinate projection.
@@ -566,6 +640,7 @@ place.norse.himinbjorg,MYTHICAL_PLACE,1,v0.31 story entity.
 place.norse.mimisbrunnr,MYTHICAL_PLACE,1,Primary classification at research checkpoint 2026-08-11
 place.norse.noatun,MYTHICAL_PLACE,1,v0.31 story entity.
 place.sumerian.dilmun,MYTHICAL_PLACE,1,v0.31 story entity.
+place.welsh.annwn,REALM,1,v0.34 heroic-epic entity.
 place.zoroastrian.airyana_vaejah,MYTHICAL_PLACE,1,v0.31 story entity.
 realm.egypt.duat,REALM,1,
 realm.greek.tartarus,REALM,1,Primary classification at research checkpoint 2026-08-11
@@ -761,6 +836,7 @@ text.indian.mahabharata.adiparvan_churning,TEXT,1,Passage witness.
 text.indian.ramayana,EPIC,1,
 text.indian.regional_epics,ORAL_TRADITION,1,
 text.irish.cath_maige_tuired,TEXT,1,v0.31 story entity.
+text.irish.tain_bo_cuailnge,TEXT,1,v0.34 heroic-epic entity.
 text.jain.corpus,SCRIPTURE,1,
 text.japan.yamashiro_fudoki_kamo_fragment,TEXT,1,v0.18.0 Japanese thunder witnesses
 text.japanese.fudoki,TEXT,1,
@@ -791,6 +867,7 @@ text.norse.sagas,TEXT,1,
 text.norse.skaldskaparmal,TEXT,1,
 text.norse.thrymskvida,TEXT,1,
 text.norse.vafthrudnismal,TEXT,1,
+text.norse.volsunga_saga,TEXT,1,v0.34 heroic-epic entity.
 text.norse.voluspa,TEXT,1,
 text.norse.voluspa.st17_18,TEXT,1,v0.19.0 Norse witness graph
 text.persia.dsab,TEXT,1,v0.13.0 Darius statue inscription checkpoint
@@ -818,6 +895,7 @@ text.vedic.rigveda,SCRIPTURE,1,
 text.vedic.rigveda.1_32,TEXT,1,v0.22.0 vajra reception layers
 text.vedic.samaveda,SCRIPTURE,1,
 text.vedic.yajurveda,SCRIPTURE,1,
+text.welsh.four_branches,TEXT,1,v0.34 heroic-epic entity.
 text.yoruba.ifa_corpus,ORAL_TRADITION,1,
 text.zoroastrian.avesta,SCRIPTURE,1,
 text.zoroastrian.bundahishn,TEXT,1,

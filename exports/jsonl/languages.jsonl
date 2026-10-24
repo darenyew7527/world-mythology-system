@@ -23,5 +23,6 @@
 {"canonical_name":"Sanskrit","historical_stage":null,"id":"lang.san","iso_639_3":"san","name_zh":"梵语","notes":null,"script_name":"Multiple"}
 {"canonical_name":"Sumerian","historical_stage":null,"id":"lang.sux","iso_639_3":"sux","name_zh":"苏美尔语","notes":null,"script_name":"Cuneiform"}
 {"canonical_name":"Ugaritic","historical_stage":null,"id":"lang.uga","iso_639_3":"uga","name_zh":"乌加里特语","notes":null,"script_name":"Ugaritic cuneiform"}
+{"canonical_name":"Middle Welsh","historical_stage":"Middle Welsh (c. 1100–1500)","id":"lang.wlm","iso_639_3":"wlm","name_zh":"中古威尔士语","notes":"Language of the Four Branches of the Mabinogi in the White Book of Rhydderch and the Red Book of Hergest.","script_name":"Latin"}
 {"canonical_name":"Yoruba","historical_stage":null,"id":"lang.yrb","iso_639_3":"yor","name_zh":"约鲁巴语","notes":null,"script_name":"Latin"}
 {"canonical_name":"Chinese","historical_stage":null,"id":"lang.zh","iso_639_3":"zho","name_zh":"中文","notes":null,"script_name":"Han"}

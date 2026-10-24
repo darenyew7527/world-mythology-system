@@ -111,6 +111,7 @@
 | site.bolivia.tiwanaku | 蒂亚瓦纳科 | Tiwanaku | ARCHAEOLOGICAL_SITE | 蒂亚瓦纳科 | REAL_ARCHAEOLOGICAL | World Heritage |
 | museum.ugarit.baal_thunder_ao15775 | 雷霆巴力石碑 AO 15775 | Baal with Thunderbolt stele AO 15775 | MUSEUM_OBJECT | 乌加里特 | REAL_ARCHAEOLOGICAL | — |
 | site.syria.ugarit | 乌加里特／拉斯沙姆拉 | Ugarit / Ras Shamra | ARCHAEOLOGICAL_SITE | 乌加里特 | REAL_ARCHAEOLOGICAL | — |
+| place.welsh.annwn | 安农（彼世） | Annwn | REALM | 威尔士 | MYTHICAL | — |
 | site.nigeria.ife | 伊莱-伊费 | Ile-Ife | ARCHAEOLOGICAL_SITE | 约鲁巴 | REAL_SACRED | — |
 | site.yoruba.koso_temple | 科索神庙 | Koso Temple | TEMPLE | 约鲁巴 | REAL_SACRED | Associated with the UNESCO-inscribed Sango Festival, Oyo |
 | site.nigeria.osun_osogbo | 奥孙-奥索博神树林 | Osun-Osogbo Sacred Grove | PLACE | 约鲁巴 | REAL_SACRED | World Heritage property 1118 (2005) |

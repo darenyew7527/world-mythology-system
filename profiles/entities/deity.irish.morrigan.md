@@ -33,5 +33,7 @@
   - 来源：[Cath Maige Tuired: The Second Battle of Mag Tuired (English translation)](https://celt.ucc.ie/published/T300010/index.html)；定位：§§166–167 (the Morrígan's proclamation)
 - `claim.v0310.irish.morrigan_promise` [VERIFIED / TEXT_SAYS / 0.88] The Morrígan promises to destroy the Fomorian king Indech, taking the blood of his heart and the kidneys of his valour.
   - 来源：[Cath Maige Tuired: The Second Battle of Mag Tuired (English translation)](https://celt.ucc.ie/published/T300010/index.html)；定位：§84
+- `claim.v0340.tain_1.10` [VERIFIED / TEXT_SAYS / 0.90] Refused by Cú Chulainn when she offers her love as a king's daughter, the Morrígan attacks him as eel, wolf and heifer during his fight with Lóch and is wounded thrice, then is healed by his blessings as she gives him milk as an old woman.
+  - 来源：[The Ancient Irish Epic Tale Táin Bó Cúalnge, tr. Joseph Dunn (London: David Nutt, 1914)](https://www.gutenberg.org/ebooks/16464)；定位：Táin (Dunn 1914), the Morrígan and the combat with Lóch
 
 > 本档案只代表当前阶段性基线，不是对该传统的最终或唯一解释。

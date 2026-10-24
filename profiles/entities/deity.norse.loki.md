@@ -32,6 +32,8 @@
   - 来源：[Snorri Sturluson, Edda](https://www.vsnrweb-publications.org.uk/Edda-1.pdf)；定位：Gylfaginning 49
 - `claim.v0320.thor_utgard.05` [VERIFIED / TEXT_SAYS / 0.90] Loki loses an eating contest to Logi, who devours the meat, the bones and the trough itself.
   - 来源：[Snorri Sturluson, Edda](https://www.vsnrweb-publications.org.uk/Edda-1.pdf)；定位：Gylfaginning 46
+- `claim.v0340.vol_2.02` [VERIFIED / TEXT_SAYS / 0.90] In Reginn's tale Loki kills Otr, son of Hreiðmarr, in otter shape at Andvari's falls with a stone, and Hreiðmarr seizes Odin, Loki and Hœnir until they agree to fill and cover the otter-skin with gold.
+  - 来源：[The Story of the Volsungs (Volsunga Saga), tr. Eiríkr Magnússon and William Morris (1888 ed.)](https://www.gutenberg.org/ebooks/1152)；定位：Völsunga saga ch. 14
 - `claim.v060.norse.loki_appears_thrymskvida` [VERIFIED / TEXT_SAYS / 0.99] Loki accompanies and advises Thor in Thrymskvida.
   - 来源：[Codex Regius electronic edition](https://eae.ku.dk/q?p=eae/vols/text/1)；定位：stanzas 1-32
 - `claim.v060.norse.loki_parent_hel` [VERIFIED / TEXT_SAYS / 0.99] Gylfaginning names Hel as a child of Loki and Angrboda.

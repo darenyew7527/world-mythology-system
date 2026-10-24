@@ -6,6 +6,9 @@
 - 证据状态: `SOURCE_BACKED`
 - 阅读时间: 7 分钟
 
+> 系列连载：[诸神的黄昏连载](series.md) · 上部 · 巴德尔之死（1/2）· Gylfaginning 49–50
+> 下一部：[诸神黄昏：世界的毁灭与重生](story.norse.ragnarok.md)
+
 ## 阅读边界
 
 弗丽嘉是奥丁的妻子，知道一切命运。她的儿子巴德尔梦见自己有危险，她便让火、水、金属、石头、草木和野兽都发誓不伤害他——唯独漏掉了一株幼小的槲寄生。巴德尔最后正是被槲寄生杀死的。
@@ -248,6 +251,8 @@ Believing Baldr unharmable, the gods amuse themselves by throwing things at him.
 - `CHARACTER` 巴德尔 (`deity.norse.baldr`)
 - `CHARACTER` 奥丁 (`deity.norse.odin`)
 - `EVENT` 巴德尔之死 (`event.norse.death_of_baldr`)
+
+**继续读下一部：[诸神黄昏：世界的毁灭与重生](story.norse.ragnarok.md)**
 
 ## 编辑说明
 

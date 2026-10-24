@@ -6,10 +6,12 @@
 | artifact.chinese.five_colored_stones | 五色石 | Five-colored stones | SACRED_OBJECT | 中国上古神话 | PARTIAL | SOURCE_BACKED |
 | artifact.egyptian.solar_barque | 太阳船 | Solar barque | SHIP | 古埃及 | PARTIAL | PARTIAL |
 | artifact.greek.aegis | 埃癸斯神盾 | Aegis | ARTIFACT | 古希腊 | PARTIAL | SOURCE_BACKED |
+| artifact.greek.argo | 阿尔戈号 | Argo | SHIP | 古希腊 | PARTIAL | SOURCE_BACKED |
 | weapon.greek.apollo_bow | 阿波罗之弓 | Bow of Apollo | WEAPON | 古希腊 | PARTIAL | SOURCE_BACKED |
 | weapon.greek.artemis_bow | 阿耳忒弥斯之弓 | Bow of Artemis | WEAPON | 古希腊 | PARTIAL | SOURCE_BACKED |
 | weapon.greek.bow_of_odysseus | 奥德修斯的弓 | Bow of Odysseus | WEAPON | 古希腊 | PARTIAL | SOURCE_BACKED |
 | artifact.greek.caduceus | 赫尔墨斯杖 | Caduceus | SCEPTER | 古希腊 | PARTIAL | UNVERIFIED |
+| artifact.greek.golden_fleece | 金羊毛 | Golden fleece | SACRED_OBJECT | 古希腊 | PARTIAL | SOURCE_BACKED |
 | artifact.greek.helm_hades | 哈得斯隐身头盔 | Helm of Hades | ARMOR | 古希腊 | PARTIAL | UNVERIFIED |
 | weapon.greek.zeus_thunderbolt | 宙斯雷霆 | Thunderbolt of Zeus | WEAPON | 古希腊 | PARTIAL | UNVERIFIED |
 | weapon.greek.poseidon_trident | 波塞冬三叉戟 | Trident of Poseidon | WEAPON | 古希腊 | PARTIAL | UNVERIFIED |
@@ -37,6 +39,7 @@
 | artifact.irish.dagda_cauldron | 达格达的大锅 | The Dagda's cauldron | SACRED_OBJECT | 爱尔兰 | PARTIAL | SOURCE_BACKED |
 | weapon.japanese.amenonuhoko | 天沼矛 | Ame-no-Nuboko | WEAPON | 日本神道 | PARTIAL | UNVERIFIED |
 | weapon.japanese.kusanagi | 草薙剑 | Kusanagi-no-Tsurugi | WEAPON | 日本神道 | PARTIAL | SOURCE_BACKED |
+| artifact.norse.andvaranaut | 安德瓦拉诺特 | Andvaranautr | RING | 北欧 | PARTIAL | SOURCE_BACKED |
 | artifact.norse.draupnir | 德罗普尼尔 | Draupnir | RING | 北欧 | PARTIAL | UNVERIFIED |
 | artifact.norse.gjallarhorn | 加拉尔号角 | Gjallarhorn | ARTIFACT | 北欧 | PARTIAL | SOURCE_BACKED |
 | artifact.norse.gleipnir | 格莱普尼尔 | Gleipnir | ARTIFACT | 北欧 | PARTIAL | UNVERIFIED |
@@ -44,9 +47,11 @@
 | creature.norse.gullinbursti | 金鬃野猪 | Gullinbursti | DIVINE_BEAST | 北欧 | PARTIAL | PARTIAL |
 | weapon.norse.gungnir | 冈格尼尔 | Gungnir | WEAPON | 北欧 | PARTIAL | UNVERIFIED |
 | weapon.norse.mjolnir | 妙尔尼尔 | Mjölnir | WEAPON | 北欧 | PARTIAL | UNVERIFIED |
+| artifact.norse.naglfar | 纳吉尔法 | Naglfar | SHIP | 北欧 | PARTIAL | SOURCE_BACKED |
 | weapon.norse.freyr_sword | 弗雷之剑 | Sword of Freyr | WEAPON | 北欧 | PARTIAL | UNVERIFIED |
 | weapon.norse.tyrfing | 提尔锋 | Tyrfing | WEAPON | 北欧 | PARTIAL | UNVERIFIED |
 | weapon.ugaritic.ayyamur | 阿亚穆尔 | Ayyamur | WEAPON | 乌加里特 | PARTIAL | SOURCE_BACKED |
 | weapon.ugaritic.yagrush | 亚格鲁什 | Yagrush | WEAPON | 乌加里特 | PARTIAL | SOURCE_BACKED |
 | weapon.vedic.vajra | 金刚杵／雷霆 | Vajra | WEAPON | 吠陀传统 | PARTIAL | SOURCE_BACKED |
+| artifact.welsh.cauldron_of_rebirth | 复生之釜 | Cauldron of rebirth | SACRED_OBJECT | 威尔士 | PARTIAL | SOURCE_BACKED |
 | artifact.yoruba.ose_sango | 尚戈双斧祭仪杖 | Ose Sango | SACRED_OBJECT | 约鲁巴 | PARTIAL | PARTIAL |

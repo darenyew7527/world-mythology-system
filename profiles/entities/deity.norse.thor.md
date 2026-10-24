@@ -60,6 +60,8 @@
   - 来源：[Snorri Sturluson, Edda](https://www.vsnrweb-publications.org.uk/Edda-1.pdf)；定位：Gylfaginning 47
 - `claim.v0320.thor_utgard.12` [VERIFIED / TEXT_SAYS / 0.90] Fishing with the giant Hymir using an ox head for bait, Thor hooks the Midgard Serpent and hauls it to the boat before Hymir cuts the line.
   - 来源：[Snorri Sturluson, Edda](https://www.vsnrweb-publications.org.uk/Edda-1.pdf)；定位：Gylfaginning 48
+- `claim.v0340.ragnarok.07` [VERIFIED / TEXT_SAYS / 0.90] In Gylfaginning 51 Garmr and Týr kill each other, and Thor kills the Midgard serpent but steps away only nine paces before falling dead from its poison.
+  - 来源：[Snorri Sturluson, Edda](https://www.vsnrweb-publications.org.uk/Edda-1.pdf)；定位：Gylfaginning 51
 - `claim.v060.norse.thor_appears_thrymskvida` [VERIFIED / TEXT_SAYS / 0.99] Thor is the central hammer-seeking figure in Thrymskvida.
   - 来源：[Codex Regius electronic edition](https://eae.ku.dk/q?p=eae/vols/text/1)；定位：stanzas 1-32
 - `claim.v060.norse.thor_child_jord` [VERIFIED / TEXT_SAYS / 0.99] Skaldskaparmal names Thor as a son of Jord.

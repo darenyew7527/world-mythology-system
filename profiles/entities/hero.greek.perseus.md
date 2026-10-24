@@ -24,6 +24,20 @@
 
 ## Claims 与证据
 
+- `claim.v0340.perseus.04` [VERIFIED / TEXT_SAYS / 0.90] Guided by Hermes and Athena, Perseus seizes the single eye and tooth shared by the three Phorcides and returns them only when they show him the way to the nymphs.
+  - 来源：[Pseudo-Apollodorus, Library](https://topostext.org/work/150)；定位：Library 2.4.2
+- `claim.v0340.perseus.05` [VERIFIED / TEXT_SAYS / 0.90] The nymphs give Perseus winged sandals, the kibisis wallet and the cap of Hades, and Hermes gives him an adamantine sickle, with which he flies to the Gorgons at Ocean.
+  - 来源：[Pseudo-Apollodorus, Library](https://topostext.org/work/150)；定位：Library 2.4.2
+- `claim.v0340.perseus.07` [VERIFIED / TEXT_SAYS / 0.90] Looking at Medusa's reflection in a bronze shield with Athena guiding his hand, Perseus beheads her; Pegasus and Chrysaor spring from her neck, and the cap of Hades hides him from her pursuing sisters.
+  - 来源：[Pseudo-Apollodorus, Library](https://topostext.org/work/150)；定位：Library 2.4.2
+- `claim.v0340.perseus.08` [VERIFIED / TEXT_SAYS / 0.90] In Ethiopia Perseus finds Andromeda exposed to a sea monster sent by Poseidon after Cassiepea's boast, wins the oath of her parents that she will be his wife, kills the monster and frees her.
+  - 来源：[Pseudo-Apollodorus, Library](https://topostext.org/work/150)；定位：Library 2.4.3
+- `claim.v0340.perseus.09` [VERIFIED / TEXT_SAYS / 0.90] When Phineus, Andromeda's former betrothed, plots against him, Perseus shows the Gorgon's head and turns Phineus and his fellow conspirators to stone.
+  - 来源：[Pseudo-Apollodorus, Library](https://topostext.org/work/150)；定位：Library 2.4.3
+- `claim.v0340.perseus.10` [VERIFIED / TEXT_SAYS / 0.90] Finding Danaë and Dictys driven to the altars by Polydectes's violence, Perseus turns Polydectes and his friends to stone with the Gorgon's head and makes Dictys king of Seriphos.
+  - 来源：[Pseudo-Apollodorus, Library](https://topostext.org/work/150)；定位：Library 2.4.3
+- `claim.v0340.perseus.12` [VERIFIED / TEXT_SAYS / 0.90] At funeral games in Larissa Perseus's discus strikes and kills Acrisius, fulfilling the oracle; ashamed to claim Argos, Perseus exchanges it for Tiryns and fortifies Midea and Mycenae.
+  - 来源：[Pseudo-Apollodorus, Library](https://topostext.org/work/150)；定位：Library 2.4.4–2.4.5
 - `claim.v090.perseus_parent_perses` [VERIFIED / TEXT_SAYS / 0.99] Herodotus 7.61 makes Perseus the father of a human Perses in its aetiological genealogy.
   - 来源：[Herodotus, Histories, Greek text](https://scaife.perseus.org/reader/urn%3Acts%3AgreekLit%3Atlg0016.tlg001.perseus-grc2%3A7.61/)；定位：Histories 7.61
 

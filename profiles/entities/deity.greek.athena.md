@@ -33,6 +33,10 @@
   - 来源：[Homer, The Odyssey, rendered into English prose (tr. Samuel Butler, 1900)](https://www.gutenberg.org/ebooks/1727)；定位：Book XXIV
 - `claim.v0330.ody_wanderings.01` [VERIFIED / TEXT_SAYS / 0.90] In the Odyssey's opening council, while Poseidon is away, Athena persuades Zeus to let Odysseus, held by Calypso, return home, and proposes to send Hermes to Calypso and to rouse Telemachus herself.
   - 来源：[Homer, The Odyssey, rendered into English prose (tr. Samuel Butler, 1900)](https://www.gutenberg.org/ebooks/1727)；定位：Book I
+- `claim.v0340.argo_1.09` [VERIFIED / TEXT_SAYS / 0.90] After a dove passes the Clashing Rocks losing only tail feathers, Athena holds back a rock with one hand and thrusts the Argo through with the other, and the rocks are fixed in place for ever.
+  - 来源：[Apollonius Rhodius, The Argonautica (tr. R. C. Seaton, 1912)](https://www.gutenberg.org/ebooks/830)；定位：Book II, the Clashing Rocks
+- `claim.v0340.perseus.11` [VERIFIED / TEXT_SAYS / 0.90] Perseus returns the sandals, wallet and cap through Hermes to the nymphs and gives the Gorgon's head to Athena, who sets it in the middle of her aegis.
+  - 来源：[Pseudo-Apollodorus, Library](https://topostext.org/work/150)；定位：Library 2.4.3
 - `claim.v050.iliad5.athena_uses_aegis` [VERIFIED / TEXT_SAYS / 0.98] Iliad 5 depicts Athena putting on the tasselled aegis while arming for battle.
   - 来源：[Homer, Iliad](https://scaife.perseus.org/library/urn:cts:greekLit:tlg0012.tlg001/)；定位：Book 5, lines 735-745
 - `claim.v050.theogony.athena_child_zeus` [VERIFIED / TEXT_SAYS / 0.98] Theogony 924-926 describes Athena as produced from Zeus’s head.

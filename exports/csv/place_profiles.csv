@@ -16,6 +16,7 @@ place.norse.himinbjorg,DIVINE_DWELLING,Himinbjǫrg,,,,,,,,,,,MYTHICAL,TEXTUAL
 place.norse.mimisbrunnr,MYTHICAL_WELL,Mímisbrunnr,,,,,Mythic time,,,,,,MYTHICAL,TEXTUAL
 place.norse.noatun,DIVINE_DWELLING,Nóatún,,,,,,,,,,,MYTHICAL,TEXTUAL
 place.sumerian.dilmun,MYTHIC_LAND,Dilmun,,,,,,,,,,,MIXED,TEXTUAL
+place.welsh.annwn,OTHERWORLD,,,,,,,,,,,,MYTHICAL,TEXTUAL
 place.zoroastrian.airyana_vaejah,SACRED_LAND,Airyana Vaejah,,,,,,,,,,,MIXED,TEXTUAL
 realm.egypt.duat,REALM,,,,,,,,,,,,MYTHICAL,UNASSESSED
 realm.greek.tartarus,MYTHICAL_REALM,Τάρταρος,,,,,Mythic time,,,,,,MYTHICAL,TEXTUAL

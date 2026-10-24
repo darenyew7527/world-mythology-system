@@ -1816,8 +1816,9 @@ code {
 .story-series-shelf > header strong { color: var(--gold-bright); font-family: var(--display); font-size: 1.05rem; font-weight: 500; letter-spacing: .08em; }
 .story-series-shelf > header span { color: #8fa3ae; font-size: .78rem; line-height: 1.5; }
 .story-series-shelf > header b { color: var(--gold); font: 1.3rem var(--display); }
-.story-series-list { display: grid; grid-template-columns: repeat(auto-fill, minmax(320px, 1fr)); gap: 12px; padding: 12px; }
-.story-series-card { display: grid; align-content: start; gap: 8px; padding: 14px 16px; border: 1px solid rgba(117,148,168,.22); background: rgba(5,26,40,.72); }
+.story-series-list { display: grid; grid-auto-flow: column; grid-auto-columns: minmax(320px, calc((100% - 24px) / 3)); gap: 12px; padding: 12px; overflow-x: auto; overscroll-behavior-x: contain; scroll-snap-type: x proximity; }
+.story-series-card { display: grid; align-content: start; gap: 8px; padding: 14px 16px; border: 1px solid rgba(117,148,168,.22); background: rgba(5,26,40,.72); scroll-snap-align: start; }
+.story-series-card[data-current="true"] { border-color: rgba(201,154,82,.55); }
 .story-series-card h3 { margin: 0; color: #e7dcc6; font-family: var(--display); font-size: 1.2rem; font-weight: 500; }
 .story-series-card > p { margin: 0; color: #a9b3b5; font-size: .86rem; line-height: 1.6; }
 .story-series-meta { color: var(--gold); font: .72rem ui-monospace, monospace; letter-spacing: .05em; }
@@ -1854,8 +1855,7 @@ code {
 .story-series-next[data-end] strong { color: #8fc2b0; font-family: var(--display); font-weight: 500; }
 .story-series-next[data-end] button { min-height: 40px; padding: 4px 12px; border: 1px solid rgba(116,200,170,.4); background: none; color: #9fd8c3; cursor: pointer; }
 @media (max-width: 760px) {
-  .story-series-list { grid-template-columns: none; grid-auto-flow: column; grid-auto-columns: 84%; overflow-x: auto; overscroll-behavior-x: contain; scroll-snap-type: x mandatory; padding: 10px; }
-  .story-series-card { scroll-snap-align: start; }
+  .story-series-list { grid-auto-columns: 84%; scroll-snap-type: x mandatory; padding: 10px; }
   .story-series-bar, .story-series-next { margin-left: 12px; margin-right: 12px; }
   .story-series-steps { margin-left: 0; }
 }

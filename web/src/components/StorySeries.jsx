@@ -2,12 +2,13 @@
 // the reader and a continue-to-next-part link at the end of each part. Which
 // part to continue is worked out from the existing on-device reading positions;
 // nothing new is stored.
+import { useEffect, useRef } from 'react'
 import { scrollToAnchor } from './ChapterNav.jsx'
 
 const ui = {
   zh: {
     shelf: '系列连载',
-    shelfHint: '按原著顺序连读的多部长篇；每一部都是完整的故事，跳过的回目会注明。',
+    shelfHint: '按原著顺序连读的多部长篇；每一部都是完整的故事，跳过的章节会注明。',
     parts: (n) => `${n} 部`,
     chapters: (n) => `${n} 章`,
     minutes: (n) => `约 ${n} 分钟`,
@@ -20,7 +21,7 @@ const ui = {
     seriesEnd: (title) => `《${title}》到此读完`,
     contents: (n) => `${n} 部目录`,
     backToShelf: '回到系列目录',
-    skipped: '跳过的回目',
+    skipped: '跳过的章节',
     read: '已读完',
     reading: '读到一半',
   },
@@ -73,7 +74,8 @@ export const continuePart = (series, storiesById, progress) => {
   return next ? { part: next, started: true } : { part: null, started: true }
 }
 
-// Part lists start folded on phones so the reader is not pushed far below the shelf.
+// Part lists start folded on phones, and on wide screens only the series being read
+// is unfolded, so the reader is not pushed far below the shelf (v0.34: nine series).
 const wideScreen = () => typeof window === 'undefined' || !window.matchMedia?.('(max-width: 760px)').matches
 
 const openPart = (onSelectStory, storyId) => {
@@ -84,6 +86,16 @@ const openPart = (onSelectStory, storyId) => {
 
 export default function SeriesShelf({ language, onSelectStory, progress, selectedStoryId, series, storiesById }) {
   const copy = ui[language] || ui.zh
+  const listRef = useRef(null)
+  const currentSeriesId = series.find((item) => item.parts.some((part) => part.storyId === selectedStoryId))?.id
+  // The shelf is one swipeable row; bring the series being read into view without moving the page.
+  useEffect(() => {
+    const list = listRef.current
+    const card = list?.querySelector('[data-current="true"]')
+    if (!card) return
+    const offset = card.getBoundingClientRect().left - list.getBoundingClientRect().left
+    if (offset < 0 || offset + card.offsetWidth > list.clientWidth) list.scrollLeft += offset - 10
+  }, [currentSeriesId])
   if (!series.length) return null
   const unfold = wideScreen()
   return (
@@ -95,17 +107,17 @@ export default function SeriesShelf({ language, onSelectStory, progress, selecte
         </div>
         <b>{series.length}</b>
       </header>
-      <div className="story-series-list">
+      <div className="story-series-list" ref={listRef}>
         {series.map((item) => {
           const resume = continuePart(item, storiesById, progress)
           return (
-            <article className="story-series-card" key={item.id}>
+            <article className="story-series-card" data-current={item.id === currentSeriesId ? 'true' : undefined} key={item.id}>
               <h3>{title(item, language)}</h3>
               <p>{language === 'zh' ? item.descriptionZh : item.descriptionEn}</p>
               <small className="story-series-meta">
                 {copy.parts(item.parts.length)} · {copy.chapters(item.totalChapters)} · {copy.minutes(item.totalMinutes)}
               </small>
-              <details className="story-series-parts" open={unfold}>
+              <details className="story-series-parts" open={unfold && item.id === currentSeriesId}>
               <summary>{copy.contents(item.parts.length)}</summary>
               <ol>
                 {item.parts.map((part) => {

@@ -160,7 +160,7 @@ def _write_series_index(conn, story_dir: Path) -> None:
     lines = [
         "# 系列连载 / Story series", "",
         "> 每个系列按原著顺序把多部长篇故事连起来读；每一部都是完整的故事，带自己的来源定位。"
-        "系列只排列已有的部分，跳过的回目会写明，不补写。", "",
+        "系列只排列已有的部分，跳过的章节会写明，不补写。", "",
     ]
     if conn.execute("SELECT 1 FROM sqlite_master WHERE type='table' AND name='story_series'").fetchone():
         for series in conn.execute("SELECT * FROM story_series ORDER BY featured_order,id"):
@@ -236,7 +236,7 @@ def _generate_story_profiles(conn, profile_root: Path) -> int:
             if part["next"]:
                 lines.append(f"> 下一部：[{part['next'][1]}]({part['next'][0]}.md)")
             if part["gap_note"]:
-                lines.append(f"> 跳过的回目：{part['gap_note']}")
+                lines.append(f"> 跳过的章节：{part['gap_note']}")
             lines.append("")
         lines.extend(["## 阅读边界", "", story["summary_zh"], "", story["summary_en"], ""])
         for version in versions:

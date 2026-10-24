@@ -28,5 +28,7 @@
   - 来源：[Snorri Sturluson, Edda](https://www.vsnrweb-publications.org.uk/Edda-1.pdf)；定位：Gylfaginning, Ragnarök account
 - `claim.v0310.norse.fenrir_bound` [VERIFIED / TEXT_SAYS / 0.95] Fenrir is the wolf bound by the gods.
   - 来源：[Snorri Sturluson, Edda](https://www.vsnrweb-publications.org.uk/Edda-1.pdf)；定位：Gylfaginning 34
+- `claim.v0340.ragnarok.02` [VERIFIED / TEXT_SAYS / 0.90] In Gylfaginning 51 the wolf swallows the sun and the other seizes the moon, the stars vanish, the earth quakes so that every fetter breaks, and Fenrir runs free.
+  - 来源：[Snorri Sturluson, Edda](https://www.vsnrweb-publications.org.uk/Edda-1.pdf)；定位：Gylfaginning 51
 
 > 本档案只代表当前阶段性基线，不是对该传统的最终或唯一解释。

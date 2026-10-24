@@ -6,12 +6,22 @@
 | creature.chinese.ao_turtle | 鳌 | Ao (great turtle) | DIVINE_BEAST | 中国上古神话 | PARTIAL | SOURCE_BACKED |
 | dragon.chinese.black_dragon_jizhou | 黑龙（女娲补天段） | Black dragon of the Nüwa passage | DRAGON | 中国上古神话 | PARTIAL | SOURCE_BACKED |
 | being.chinese.pangu | 盘古 | Pangu | GIANT | 中国上古神话 | PARTIAL | UNVERIFIED |
+| creature.greek.cerberus | 刻耳柏洛斯 | Cerberus | MONSTER | 古希腊 | PARTIAL | SOURCE_BACKED |
 | creature.greek.charybdis | 卡律布狄斯 | Charybdis | MONSTER | 古希腊 | PARTIAL | SOURCE_BACKED |
+| creature.greek.geryon | 革律翁 | Geryon | GIANT | 古希腊 | PARTIAL | SOURCE_BACKED |
+| creature.greek.graeae | 格赖埃三姐妹 | Graeae (Phorcides) | MONSTER | 古希腊 | PARTIAL | SOURCE_BACKED |
+| creature.greek.harpies | 哈耳庇厄 | Harpies | MONSTER | 古希腊 | PARTIAL | SOURCE_BACKED |
 | creature.greek.cyclopes_hesiodic | 赫西俄德传统独眼巨人 | Hesiodic Cyclopes | GIANT | 古希腊 | DISCOVERED | SOURCE_BACKED |
 | creature.greek.hecatoncheires | 百臂巨人 | Hundred-Handers (Cottus, Briareos and Gyes) | GIANT | 古希腊 | PARTIAL | SOURCE_BACKED |
+| creature.greek.lernaean_hydra | 勒耳那的许德拉 | Lernaean hydra | MONSTER | 古希腊 | PARTIAL | SOURCE_BACKED |
+| creature.greek.medusa | 美杜莎 | Medusa | MONSTER | 古希腊 | PARTIAL | SOURCE_BACKED |
+| creature.greek.nemean_lion | 涅墨亚狮子 | Nemean lion | MONSTER | 古希腊 | PARTIAL | SOURCE_BACKED |
+| creature.greek.nessus | 涅索斯 | Nessus | CREATURE | 古希腊 | PARTIAL | SOURCE_BACKED |
+| creature.greek.pegasus | 珀伽索斯 | Pegasus | DIVINE_BEAST | 古希腊 | PARTIAL | SOURCE_BACKED |
 | creature.greek.polyphemus | 波吕斐摩斯 | Polyphemus | GIANT | 古希腊 | PARTIAL | SOURCE_BACKED |
 | creature.greek.scylla | 斯库拉 | Scylla | MONSTER | 古希腊 | PARTIAL | SOURCE_BACKED |
 | creature.greek.sirens | 塞壬 | Sirens | MONSTER | 古希腊 | PARTIAL | SOURCE_BACKED |
+| creature.greek.talos | 塔罗斯 | Talos | GIANT | 古希腊 | PARTIAL | SOURCE_BACKED |
 | creature.greek.typhon | 提丰 | Typhon | MONSTER | 古希腊 | PARTIAL | SOURCE_BACKED |
 | creature.mesopotamian.bull_of_heaven | 天牛 | Bull of Heaven | MONSTER | 巴比伦 | PARTIAL | SOURCE_BACKED |
 | deity.babylonian.tiamat | 提亚马特 | Tiamat | PRIMORDIAL_DEITY | 巴比伦 | PARTIAL | SOURCE_BACKED |
@@ -34,12 +44,17 @@
 | demon.hindu.ravana | 罗波那 | Rāvaṇa | DEMON | 印度教传统 | PARTIAL | SOURCE_BACKED |
 | creature.hindu.vasuki | 婆苏吉 | Vāsuki | DIVINE_BEAST | 印度教传统 | PARTIAL | SOURCE_BACKED |
 | demon.hindu.shurpanakha | 首哩薄那迦 | Śūrpaṇakhā | DEMON | 印度教传统 | PARTIAL | SOURCE_BACKED |
+| creature.irish.donn_cuailnge | 库利的褐色公牛 | Donn Cúailnge | DIVINE_BEAST | 爱尔兰 | PARTIAL | SOURCE_BACKED |
+| creature.irish.finnbennach | 白角公牛 | Finnbennach | DIVINE_BEAST | 爱尔兰 | PARTIAL | SOURCE_BACKED |
 | monster.japanese.yamata_no_orochi | 八岐大蛇 | Yamata no Orochi | MONSTER | 日本神道 | PARTIAL | SOURCE_BACKED |
 | monster.kiche.seven_macaw | 七金刚鹦鹉 | Seven Macaw | MONSTER | 玛雅 | PARTIAL | SOURCE_BACKED |
 | being.norse.bestla | 贝斯特拉 | Bestla | GIANT | 北欧 | PARTIAL | SOURCE_BACKED |
 | being.norse.brokkr | 布洛克 | Brokkr | DWARF | 北欧 | PARTIAL | SOURCE_BACKED |
 | being.norse.eitri | 艾特里 | Eitri | DWARF | 北欧 | CONFLICT | CONFLICTING |
 | creature.norse.fenrir | 芬里尔 | Fenrir | MONSTER | 北欧 | PARTIAL | SOURCE_BACKED |
+| creature.norse.fafnir | 法夫纳 | Fáfnir | DRAGON | 北欧 | PARTIAL | SOURCE_BACKED |
+| creature.norse.garm | 加姆 | Garmr | MONSTER | 北欧 | PARTIAL | SOURCE_BACKED |
+| creature.norse.grani | 格拉尼 | Grani | DIVINE_BEAST | 北欧 | PARTIAL | SOURCE_BACKED |
 | creature.norse.gullinbursti | 金鬃野猪 | Gullinbursti | DIVINE_BEAST | 北欧 | PARTIAL | PARTIAL |
 | being.norse.jarnsaxa | 雅恩莎撒 | Jarnsaxa | GIANT | 北欧 | PARTIAL | SOURCE_BACKED |
 | creature.norse.jormungandr | 耶梦加得 | Jörmungandr | DRAGON | 北欧 | PARTIAL | UNVERIFIED |
@@ -47,6 +62,7 @@
 | being.norse.sindri | 辛德里 | Sindri | DWARF | 北欧 | NEEDS_REVIEW | CONFLICTING |
 | creature.norse.sleipnir | 斯莱布尼尔 | Sleipnir | DIVINE_BEAST | 北欧 | PARTIAL | SOURCE_BACKED |
 | being.norse.sons_of_ivaldi | 伊瓦尔迪之子 | Sons of Ivaldi | CREATURE | 北欧 | DISCOVERED | SOURCE_BACKED |
+| creature.norse.surtr | 苏尔特 | Surtr | GIANT | 北欧 | PARTIAL | SOURCE_BACKED |
 | being.norse.ymir | 尤弥尔 | Ymir | GIANT | 北欧 | PARTIAL | UNVERIFIED |
 | being.norse.utgarda_loki | 乌特加尔洛基 | Útgarða-Loki | GIANT | 北欧 | PARTIAL | SOURCE_BACKED |
 | monster.sumerian.huwawa | 胡瓦瓦 | Ḫuwawa | MONSTER | 苏美尔 | PARTIAL | SOURCE_BACKED |
