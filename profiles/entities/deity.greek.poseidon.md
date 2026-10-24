@@ -31,6 +31,8 @@
 
 - `claim.greek.poseidon_uses_trident` [VERIFIED / SCHOLARLY_INTERPRETATION / 0.85] Poseidon is identified iconographically by the trident.
   - 来源：[Bronze statuette of Zeus or Poseidon](https://www.metmuseum.org/art/collection/search/251078)；定位：Museum catalogue interpretation
+- `claim.v0330.ody_wanderings.06` [VERIFIED / TEXT_SAYS / 0.90] Seeing Odysseus on his raft within sight of the Phaeacians' land, Poseidon wrecks it with a storm; aided by Ino's veil and a river god, Odysseus swims ashore after two days and nights.
+  - 来源：[Homer, The Odyssey, rendered into English prose (tr. Samuel Butler, 1900)](https://www.gutenberg.org/ebooks/1727)；定位：Book V
 - `claim.v050.h22.poseidon_domains` [VERIFIED / TEXT_SAYS / 0.99] Homeric Hymn 22 links Poseidon with earth, sea, horses and the saving of ships.
   - 来源：[Homeric Hymn 22 to Poseidon, Evelyn-White English text](https://scaife.perseus.org/reader/urn%3Acts%3AgreekLit%3Atlg0013.tlg022.perseus-eng2%3A1-7/)；定位：lines 1-7
 - `claim.v050.theogony.poseidon_child_cronus` [VERIFIED / TEXT_SAYS / 0.99] Theogony 453-458 lists Poseidon among the children of Rhea and Cronus.

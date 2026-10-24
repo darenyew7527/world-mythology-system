@@ -36,6 +36,7 @@
 | site.greece.eleusinion_athens | 雅典厄琉西尼翁圣所 | Eleusinion at Athens | ARCHAEOLOGICAL_SITE | 古希腊 | REAL_ARCHAEOLOGICAL | — |
 | site.greece.eleusis | 厄琉息斯 | Eleusis | ARCHAEOLOGICAL_SITE | 古希腊 | REAL_ARCHAEOLOGICAL | — |
 | site.greece.epidaurus | 埃皮达鲁斯 | Epidaurus | ARCHAEOLOGICAL_SITE | 古希腊 | REAL_ARCHAEOLOGICAL | World Heritage |
+| place.greek.ithaca_homeric | 伊塔卡（荷马史诗） | Ithaca (Homeric) | MYTHICAL_PLACE | 古希腊 | MIXED | — |
 | site.greece.olympia | 奥林匹亚 | Olympia | ARCHAEOLOGICAL_SITE | 古希腊 | REAL_ARCHAEOLOGICAL | World Heritage 517 |
 | site.greece.sacred_way_roman_bridge | 厄琉息斯基菲索斯河罗马桥 | Roman Bridge over the Eleusinian Cephissus | ARCHAEOLOGICAL_SITE | 古希腊 | REAL_ARCHAEOLOGICAL | — |
 | site.greece.sacred_way | 雅典至厄琉息斯圣道 | Sacred Way from Athens to Eleusis | ARCHAEOLOGICAL_SITE | 古希腊 | REAL_ARCHAEOLOGICAL | NOT_LISTED_AS_INDEPENDENT_PROPERTY |
@@ -50,6 +51,7 @@
 | site.indonesia.borobudur | 婆罗浮屠 | Borobudur | TEMPLE | 佛教传统 | REAL_ARCHAEOLOGICAL | World Heritage |
 | site.celtic.hillforts_scope | 凯尔特山堡研究入口 | Celtic hillforts research scope | ARCHAEOLOGICAL_SITE | 凯尔特 | REAL_ARCHAEOLOGICAL | — |
 | site.celtic.groves_scope | 圣林研究入口 | Sacred groves research scope | PLACE | 凯尔特 | MIXED | — |
+| place.chinese.flaming_mountains_xiyouji | 火焰山（《西游记》） | Flaming Mountains (Journey to the West) | MYTHICAL_PLACE | 中国民间信仰 | LATER_LEGEND | — |
 | place.chinese.huaguo_shan | 花果山 | Mountain of Flowers and Fruit | MYTHICAL_PLACE | 中国民间信仰 | MYTHICAL | — |
 | site.chinese.mogao_cave_249 | 莫高窟第249窟 | Mogao Cave 249 | ARCHAEOLOGICAL_SITE | 中国传统跨时期总类 | REAL_ARCHAEOLOGICAL | Part of Mogao Caves, World Heritage property 440 |
 | site.ethiopia.aksum | 阿克苏姆 | Aksum | ARCHAEOLOGICAL_SITE | 埃塞俄比亚传统 | REAL_ARCHAEOLOGICAL | World Heritage |

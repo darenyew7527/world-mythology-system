@@ -81,6 +81,16 @@ story.chinese.nuwa_repairs_sky,storyver.chinese.nuwa_liezi_tangwen,text.chinese.
 story.chinese.pangu_sanwu_liji,storyver.chinese.pangu_yiwen_leiju,being.chinese.pangu,CHARACTER,10,Primordial being
 story.chinese.pangu_sanwu_liji,storyver.chinese.pangu_yiwen_leiju,text.chinese.sanwu_liji,TEXT,20,Lost source
 story.chinese.pangu_sanwu_liji,storyver.chinese.pangu_yiwen_leiju,event.chinese.pangu_heaven_earth,EVENT,30,Separation
+story.chinese.xiyouji_flaming_mountains,storyver.chinese.xiyouji_ch59_61,hero.chinese.sun_wukong,CHARACTER,10,Borrows the fan
+story.chinese.xiyouji_flaming_mountains,storyver.chinese.xiyouji_ch59_61,demon.chinese.tieshan_gongzhu,CHARACTER,20,Keeper of the fan
+story.chinese.xiyouji_flaming_mountains,storyver.chinese.xiyouji_ch59_61,demon.chinese.niumowang,CHARACTER,30,Bull Demon King
+story.chinese.xiyouji_flaming_mountains,storyver.chinese.xiyouji_ch59_61,hero.chinese.zhu_bajie,CHARACTER,40,Ally in the fight
+story.chinese.xiyouji_flaming_mountains,storyver.chinese.xiyouji_ch59_61,hero.chinese.tang_sanzang,CHARACTER,50,Master
+story.chinese.xiyouji_flaming_mountains,storyver.chinese.xiyouji_ch59_61,deity.chinese.nezha,CHARACTER,60,Captures the bull
+story.chinese.xiyouji_flaming_mountains,storyver.chinese.xiyouji_ch59_61,deity.chinese.li_jing,CHARACTER,70,Heavenly King
+story.chinese.xiyouji_flaming_mountains,storyver.chinese.xiyouji_ch59_61,artifact.chinese.bajiao_shan,ARTIFACT,80,Plantain fan
+story.chinese.xiyouji_flaming_mountains,storyver.chinese.xiyouji_ch59_61,place.chinese.flaming_mountains_xiyouji,PLACE,90,Flaming Mountains
+story.chinese.xiyouji_flaming_mountains,storyver.chinese.xiyouji_ch59_61,text.chinese.xiyouji,TEXT,100,Novel
 story.chinese.xiyouji_havoc_in_heaven,storyver.chinese.xiyouji_ch1_7,hero.chinese.sun_wukong,CHARACTER,10,"Stone monkey, Great Sage"
 story.chinese.xiyouji_havoc_in_heaven,storyver.chinese.xiyouji_ch1_7,hero.chinese.subodhi_patriarch,CHARACTER,20,Teacher
 story.chinese.xiyouji_havoc_in_heaven,storyver.chinese.xiyouji_ch1_7,deity.chinese.ao_guang,CHARACTER,30,Dragon King
@@ -93,6 +103,47 @@ story.chinese.xiyouji_havoc_in_heaven,storyver.chinese.xiyouji_ch1_7,weapon.chin
 story.chinese.xiyouji_havoc_in_heaven,storyver.chinese.xiyouji_ch1_7,place.chinese.huaguo_shan,PLACE,100,Home mountain
 story.chinese.xiyouji_havoc_in_heaven,storyver.chinese.xiyouji_ch1_7,event.chinese.havoc_in_heaven,EVENT,110,Arc
 story.chinese.xiyouji_havoc_in_heaven,storyver.chinese.xiyouji_ch1_7,text.chinese.xiyouji,TEXT,120,Novel
+story.chinese.xiyouji_origins,storyver.chinese.xiyouji_ch8_12,deity.chinese.rulai_xiyouji,CHARACTER,10,Sends the scriptures
+story.chinese.xiyouji_origins,storyver.chinese.xiyouji_ch8_12,deity.chinese.guanyin_xiyouji,CHARACTER,20,Seeks the pilgrim
+story.chinese.xiyouji_origins,storyver.chinese.xiyouji_ch8_12,hero.chinese.tang_sanzang,CHARACTER,30,Pilgrim
+story.chinese.xiyouji_origins,storyver.chinese.xiyouji_ch8_12,hero.chinese.sha_wujing,CHARACTER,40,Future disciple
+story.chinese.xiyouji_origins,storyver.chinese.xiyouji_ch8_12,hero.chinese.zhu_bajie,CHARACTER,50,Future disciple
+story.chinese.xiyouji_origins,storyver.chinese.xiyouji_ch8_12,dragon.chinese.white_dragon_horse,CHARACTER,60,Future steed
+story.chinese.xiyouji_origins,storyver.chinese.xiyouji_ch8_12,hero.chinese.sun_wukong,CHARACTER,70,Under the mountain
+story.chinese.xiyouji_origins,storyver.chinese.xiyouji_ch8_12,dragon.chinese.jinghe_dragon_king,CHARACTER,80,Beheaded dragon
+story.chinese.xiyouji_origins,storyver.chinese.xiyouji_ch8_12,historical.chinese.tang_taizong,CHARACTER,90,Emperor in the novel
+story.chinese.xiyouji_origins,storyver.chinese.xiyouji_ch8_12,text.chinese.xiyouji,TEXT,100,Novel
+story.chinese.xiyouji_pilgrims_gather,storyver.chinese.xiyouji_ch13_22,hero.chinese.tang_sanzang,CHARACTER,10,Master
+story.chinese.xiyouji_pilgrims_gather,storyver.chinese.xiyouji_ch13_22,hero.chinese.sun_wukong,CHARACTER,20,First disciple
+story.chinese.xiyouji_pilgrims_gather,storyver.chinese.xiyouji_ch13_22,hero.chinese.zhu_bajie,CHARACTER,30,Second disciple
+story.chinese.xiyouji_pilgrims_gather,storyver.chinese.xiyouji_ch13_22,hero.chinese.sha_wujing,CHARACTER,40,Third disciple
+story.chinese.xiyouji_pilgrims_gather,storyver.chinese.xiyouji_ch13_22,dragon.chinese.white_dragon_horse,CHARACTER,50,Steed
+story.chinese.xiyouji_pilgrims_gather,storyver.chinese.xiyouji_ch13_22,deity.chinese.guanyin_xiyouji,CHARACTER,60,Protector
+story.chinese.xiyouji_pilgrims_gather,storyver.chinese.xiyouji_ch13_22,demon.chinese.black_bear_spirit,CHARACTER,70,Thief of the cassock
+story.chinese.xiyouji_pilgrims_gather,storyver.chinese.xiyouji_ch13_22,artifact.chinese.golden_fillet,ARTIFACT,80,Fillet
+story.chinese.xiyouji_pilgrims_gather,storyver.chinese.xiyouji_ch13_22,artifact.chinese.brocade_cassock,ARTIFACT,90,Cassock
+story.chinese.xiyouji_pilgrims_gather,storyver.chinese.xiyouji_ch13_22,text.chinese.xiyouji,TEXT,100,Novel
+story.chinese.xiyouji_two_monkey_kings,storyver.chinese.xiyouji_ch56_58,hero.chinese.sun_wukong,CHARACTER,10,The real Monkey King
+story.chinese.xiyouji_two_monkey_kings,storyver.chinese.xiyouji_ch56_58,demon.chinese.six_eared_macaque,CHARACTER,20,The false Monkey King
+story.chinese.xiyouji_two_monkey_kings,storyver.chinese.xiyouji_ch56_58,hero.chinese.tang_sanzang,CHARACTER,30,Master
+story.chinese.xiyouji_two_monkey_kings,storyver.chinese.xiyouji_ch56_58,hero.chinese.sha_wujing,CHARACTER,40,Messenger
+story.chinese.xiyouji_two_monkey_kings,storyver.chinese.xiyouji_ch56_58,hero.chinese.zhu_bajie,CHARACTER,50,Disciple
+story.chinese.xiyouji_two_monkey_kings,storyver.chinese.xiyouji_ch56_58,deity.chinese.guanyin_xiyouji,CHARACTER,60,Cannot tell them apart
+story.chinese.xiyouji_two_monkey_kings,storyver.chinese.xiyouji_ch56_58,deity.chinese.jade_emperor,CHARACTER,70,Demon-revealing mirror
+story.chinese.xiyouji_two_monkey_kings,storyver.chinese.xiyouji_ch56_58,deity.chinese.rulai_xiyouji,CHARACTER,80,Names the macaque
+story.chinese.xiyouji_two_monkey_kings,storyver.chinese.xiyouji_ch56_58,artifact.chinese.golden_fillet,ARTIFACT,90,Fillet
+story.chinese.xiyouji_two_monkey_kings,storyver.chinese.xiyouji_ch56_58,place.chinese.huaguo_shan,PLACE,100,Usurped home
+story.chinese.xiyouji_two_monkey_kings,storyver.chinese.xiyouji_ch56_58,text.chinese.xiyouji,TEXT,110,Novel
+story.chinese.xiyouji_white_bone,storyver.chinese.xiyouji_ch27_31,hero.chinese.sun_wukong,CHARACTER,10,Banished disciple
+story.chinese.xiyouji_white_bone,storyver.chinese.xiyouji_ch27_31,hero.chinese.tang_sanzang,CHARACTER,20,Master
+story.chinese.xiyouji_white_bone,storyver.chinese.xiyouji_ch27_31,hero.chinese.zhu_bajie,CHARACTER,30,"Instigator, then messenger"
+story.chinese.xiyouji_white_bone,storyver.chinese.xiyouji_ch27_31,hero.chinese.sha_wujing,CHARACTER,40,Disciple
+story.chinese.xiyouji_white_bone,storyver.chinese.xiyouji_ch27_31,dragon.chinese.white_dragon_horse,CHARACTER,50,Disguised palace maid
+story.chinese.xiyouji_white_bone,storyver.chinese.xiyouji_ch27_31,demon.chinese.baigujing,CHARACTER,60,Corpse demon
+story.chinese.xiyouji_white_bone,storyver.chinese.xiyouji_ch27_31,demon.chinese.huangpao,CHARACTER,70,Yellow Robe Demon
+story.chinese.xiyouji_white_bone,storyver.chinese.xiyouji_ch27_31,artifact.chinese.golden_fillet,ARTIFACT,80,Fillet
+story.chinese.xiyouji_white_bone,storyver.chinese.xiyouji_ch27_31,place.chinese.huaguo_shan,PLACE,90,Wukong's home
+story.chinese.xiyouji_white_bone,storyver.chinese.xiyouji_ch27_31,text.chinese.xiyouji,TEXT,100,Novel
 story.egyptian.heavenly_cow,storyver.egyptian.heavenly_cow_ucl,deity.egyptian.ra,CHARACTER,10,Sun-god
 story.egyptian.heavenly_cow,storyver.egyptian.heavenly_cow_ucl,deity.egyptian.sekhmet,CHARACTER,20,Eye of Ra
 story.egyptian.heavenly_cow,storyver.egyptian.heavenly_cow_ucl,deity.egyptian.hathor,CHARACTER,30,Gentle form
@@ -174,6 +225,38 @@ story.greek.medea_restoration,storyver.greek.medea_library,deity.greek.perses_he
 story.greek.medea_restoration,storyver.greek.medea_library,hero.greek.medea,CHARACTER,10,Derived from an explicitly linked story claim subject.
 story.greek.medea_restoration,storyver.greek.medea_library,hero.greek.aeetes,CHARACTER,10,Derived from an explicitly linked story claim subject.
 story.greek.medea_restoration,storyver.greek.medea_library,event.greek.medea_restores_aeetes,EVENT,20,Derived from an explicitly linked story claim object.
+story.greek.odyssey_homecoming,storyver.greek.odyssey_butler_13_24,hero.greek.odysseus,CHARACTER,10,Hero
+story.greek.odyssey_homecoming,storyver.greek.odyssey_butler_13_24,deity.greek.athena,CHARACTER,20,Protector
+story.greek.odyssey_homecoming,storyver.greek.odyssey_butler_13_24,hero.greek.penelope,CHARACTER,30,Wife
+story.greek.odyssey_homecoming,storyver.greek.odyssey_butler_13_24,hero.greek.telemachus,CHARACTER,40,Son
+story.greek.odyssey_homecoming,storyver.greek.odyssey_butler_13_24,place.greek.ithaca_homeric,PLACE,50,Home
+story.greek.odyssey_homecoming,storyver.greek.odyssey_butler_13_24,event.greek.return_of_odysseus,EVENT,60,Return
+story.greek.odyssey_homecoming,storyver.greek.odyssey_butler_13_24,text.greek.odyssey,TEXT,70,Epic
+story.greek.odyssey_homecoming,storyver.greek.odyssey_butler_13_24,hero.greek.laertes,CHARACTER,80,Father
+story.greek.odyssey_homecoming,storyver.greek.odyssey_butler_13_24,person.greek.eumaeus,CHARACTER,90,Swineherd
+story.greek.odyssey_homecoming,storyver.greek.odyssey_butler_13_24,person.greek.eurycleia,CHARACTER,100,Nurse
+story.greek.odyssey_homecoming,storyver.greek.odyssey_butler_13_24,person.greek.antinous,CHARACTER,110,Suitor
+story.greek.odyssey_homecoming,storyver.greek.odyssey_butler_13_24,weapon.greek.bow_of_odysseus,ARTIFACT,120,Bow
+story.greek.odyssey_homecoming,storyver.greek.odyssey_butler_13_24,deity.greek.zeus,CHARACTER,130,Father of gods
+story.greek.odyssey_homecoming,storyver.greek.odyssey_butler_13_24,deity.greek.poseidon,CHARACTER,140,Enemy
+story.greek.odyssey_homecoming,storyver.greek.odyssey_butler_13_24,deity.greek.hermes,CHARACTER,150,Guide of souls
+story.greek.odyssey_wanderings,storyver.greek.odyssey_butler_1_12,hero.greek.odysseus,CHARACTER,10,Hero
+story.greek.odyssey_wanderings,storyver.greek.odyssey_butler_1_12,deity.greek.athena,CHARACTER,20,Protector
+story.greek.odyssey_wanderings,storyver.greek.odyssey_butler_1_12,hero.greek.penelope,CHARACTER,30,Wife
+story.greek.odyssey_wanderings,storyver.greek.odyssey_butler_1_12,hero.greek.telemachus,CHARACTER,40,Son
+story.greek.odyssey_wanderings,storyver.greek.odyssey_butler_1_12,place.greek.ithaca_homeric,PLACE,50,Home
+story.greek.odyssey_wanderings,storyver.greek.odyssey_butler_1_12,event.greek.return_of_odysseus,EVENT,60,Return
+story.greek.odyssey_wanderings,storyver.greek.odyssey_butler_1_12,text.greek.odyssey,TEXT,70,Epic
+story.greek.odyssey_wanderings,storyver.greek.odyssey_butler_1_12,deity.greek.zeus,CHARACTER,80,Father of gods
+story.greek.odyssey_wanderings,storyver.greek.odyssey_butler_1_12,deity.greek.poseidon,CHARACTER,90,Enemy
+story.greek.odyssey_wanderings,storyver.greek.odyssey_butler_1_12,deity.greek.hermes,CHARACTER,100,Messenger
+story.greek.odyssey_wanderings,storyver.greek.odyssey_butler_1_12,deity.greek.calypso,CHARACTER,110,Keeps Odysseus
+story.greek.odyssey_wanderings,storyver.greek.odyssey_butler_1_12,deity.greek.circe,CHARACTER,120,Enchantress
+story.greek.odyssey_wanderings,storyver.greek.odyssey_butler_1_12,creature.greek.polyphemus,CHARACTER,130,Cyclops
+story.greek.odyssey_wanderings,storyver.greek.odyssey_butler_1_12,creature.greek.sirens,CHARACTER,140,Singers
+story.greek.odyssey_wanderings,storyver.greek.odyssey_butler_1_12,creature.greek.scylla,CHARACTER,150,Six-headed monster
+story.greek.odyssey_wanderings,storyver.greek.odyssey_butler_1_12,creature.greek.charybdis,CHARACTER,160,Whirlpool
+story.greek.odyssey_wanderings,storyver.greek.odyssey_butler_1_12,deity.greek.helios,CHARACTER,170,Sun god
 story.greek.theogony_cosmos,storyver.greek.theogony_long,text.greek.theogony,TEXT,10,Poem
 story.greek.theogony_cosmos,storyver.greek.theogony_long,deity.greek.chaos,CHARACTER,20,First
 story.greek.theogony_cosmos,storyver.greek.theogony_long,deity.greek.gaia,CHARACTER,30,Earth
@@ -218,6 +301,71 @@ story.hindu.ramayana,storyver.hindu.ramayana_griffith_1_6,deity.hindu.shiva,CHAR
 story.hindu.ramayana,storyver.hindu.ramayana_griffith_1_6,place.hindu.lanka,PLACE,110,Rāvaṇa's city
 story.hindu.ramayana,storyver.hindu.ramayana_griffith_1_6,event.hindu.sita_abduction_rescue,EVENT,120,Abduction and rescue
 story.hindu.ramayana,storyver.hindu.ramayana_griffith_1_6,text.indian.ramayana,TEXT,130,Epic
+story.hindu.ramayana_aranya,storyver.hindu.ramayana_griffith_book3,deity.hindu.rama,CHARACTER,10,Prince
+story.hindu.ramayana_aranya,storyver.hindu.ramayana_griffith_book3,deity.hindu.sita,CHARACTER,20,Princess
+story.hindu.ramayana_aranya,storyver.hindu.ramayana_griffith_book3,hero.indian.lakshmana,CHARACTER,30,Brother
+story.hindu.ramayana_aranya,storyver.hindu.ramayana_griffith_book3,text.indian.ramayana,TEXT,40,Epic
+story.hindu.ramayana_aranya,storyver.hindu.ramayana_griffith_book3,demon.hindu.ravana,CHARACTER,50,Abductor
+story.hindu.ramayana_aranya,storyver.hindu.ramayana_griffith_book3,demon.hindu.shurpanakha,CHARACTER,60,Rāvaṇa's sister
+story.hindu.ramayana_aranya,storyver.hindu.ramayana_griffith_book3,demon.hindu.maricha,CHARACTER,70,Golden deer
+story.hindu.ramayana_aranya,storyver.hindu.ramayana_griffith_book3,creature.hindu.jatayu,CHARACTER,80,Vulture-king
+story.hindu.ramayana_aranya,storyver.hindu.ramayana_griffith_book3,place.hindu.lanka,PLACE,90,Rāvaṇa's city
+story.hindu.ramayana_aranya,storyver.hindu.ramayana_griffith_book3,event.hindu.sita_abduction_rescue,EVENT,100,Abduction
+story.hindu.ramayana_ayodhya,storyver.hindu.ramayana_griffith_book2,deity.hindu.rama,CHARACTER,10,Prince
+story.hindu.ramayana_ayodhya,storyver.hindu.ramayana_griffith_book2,deity.hindu.sita,CHARACTER,20,Princess
+story.hindu.ramayana_ayodhya,storyver.hindu.ramayana_griffith_book2,hero.indian.lakshmana,CHARACTER,30,Brother
+story.hindu.ramayana_ayodhya,storyver.hindu.ramayana_griffith_book2,text.indian.ramayana,TEXT,40,Epic
+story.hindu.ramayana_ayodhya,storyver.hindu.ramayana_griffith_book2,hero.indian.dasharatha,CHARACTER,50,King
+story.hindu.ramayana_ayodhya,storyver.hindu.ramayana_griffith_book2,hero.indian.kaikeyi,CHARACTER,60,Queen
+story.hindu.ramayana_ayodhya,storyver.hindu.ramayana_griffith_book2,hero.indian.bharata,CHARACTER,70,Regent
+story.hindu.ramayana_ayodhya,storyver.hindu.ramayana_griffith_book2,place.hindu.lanka,PLACE,80,Not yet visited
+story.hindu.ramayana_bala,storyver.hindu.ramayana_griffith_book1,deity.hindu.rama,CHARACTER,10,Prince
+story.hindu.ramayana_bala,storyver.hindu.ramayana_griffith_book1,deity.hindu.sita,CHARACTER,20,Princess
+story.hindu.ramayana_bala,storyver.hindu.ramayana_griffith_book1,hero.indian.lakshmana,CHARACTER,30,Brother
+story.hindu.ramayana_bala,storyver.hindu.ramayana_griffith_book1,text.indian.ramayana,TEXT,40,Epic
+story.hindu.ramayana_bala,storyver.hindu.ramayana_griffith_book1,hero.indian.dasharatha,CHARACTER,50,King
+story.hindu.ramayana_bala,storyver.hindu.ramayana_griffith_book1,hero.indian.vishvamitra,CHARACTER,60,Teacher
+story.hindu.ramayana_bala,storyver.hindu.ramayana_griffith_book1,hero.indian.janaka,CHARACTER,70,Sītā's father
+story.hindu.ramayana_bala,storyver.hindu.ramayana_griffith_book1,hero.indian.ahalya,CHARACTER,80,Freed from a curse
+story.hindu.ramayana_bala,storyver.hindu.ramayana_griffith_book1,hero.indian.parashurama,CHARACTER,90,Challenger
+story.hindu.ramayana_bala,storyver.hindu.ramayana_griffith_book1,deity.hindu.vishnu,CHARACTER,100,Born as Rāma
+story.hindu.ramayana_bala,storyver.hindu.ramayana_griffith_book1,deity.hindu.brahma,CHARACTER,110,Inspires the poem
+story.hindu.ramayana_bala,storyver.hindu.ramayana_griffith_book1,deity.hindu.shiva,CHARACTER,120,Owner of the bow
+story.hindu.ramayana_bala,storyver.hindu.ramayana_griffith_book1,deity.hindu.ganga,CHARACTER,130,River goddess
+story.hindu.ramayana_bala,storyver.hindu.ramayana_griffith_book1,deity.vedic.indra,CHARACTER,140,Deceives Ahalyā
+story.hindu.ramayana_kishkindha,storyver.hindu.ramayana_griffith_book4,deity.hindu.rama,CHARACTER,10,Prince
+story.hindu.ramayana_kishkindha,storyver.hindu.ramayana_griffith_book4,deity.hindu.sita,CHARACTER,20,Princess
+story.hindu.ramayana_kishkindha,storyver.hindu.ramayana_griffith_book4,hero.indian.lakshmana,CHARACTER,30,Brother
+story.hindu.ramayana_kishkindha,storyver.hindu.ramayana_griffith_book4,text.indian.ramayana,TEXT,40,Epic
+story.hindu.ramayana_kishkindha,storyver.hindu.ramayana_griffith_book4,deity.hindu.hanuman,CHARACTER,50,Minister
+story.hindu.ramayana_kishkindha,storyver.hindu.ramayana_griffith_book4,hero.indian.sugriva,CHARACTER,60,Monkey-king
+story.hindu.ramayana_kishkindha,storyver.hindu.ramayana_griffith_book4,hero.indian.valin,CHARACTER,70,Sugrīva's brother
+story.hindu.ramayana_sundara,storyver.hindu.ramayana_griffith_book5,deity.hindu.rama,CHARACTER,10,Prince
+story.hindu.ramayana_sundara,storyver.hindu.ramayana_griffith_book5,deity.hindu.sita,CHARACTER,20,Princess
+story.hindu.ramayana_sundara,storyver.hindu.ramayana_griffith_book5,hero.indian.lakshmana,CHARACTER,30,Brother
+story.hindu.ramayana_sundara,storyver.hindu.ramayana_griffith_book5,text.indian.ramayana,TEXT,40,Epic
+story.hindu.ramayana_sundara,storyver.hindu.ramayana_griffith_book5,deity.hindu.hanuman,CHARACTER,50,Messenger
+story.hindu.ramayana_sundara,storyver.hindu.ramayana_griffith_book5,demon.hindu.ravana,CHARACTER,60,King of Laṅkā
+story.hindu.ramayana_sundara,storyver.hindu.ramayana_griffith_book5,demon.hindu.indrajit,CHARACTER,70,Binds Hanumān
+story.hindu.ramayana_sundara,storyver.hindu.ramayana_griffith_book5,hero.indian.vibhishana,CHARACTER,80,Counsels mercy to envoys
+story.hindu.ramayana_sundara,storyver.hindu.ramayana_griffith_book5,deity.hindu.agni,CHARACTER,90,Cools the fire for Hanumān
+story.hindu.ramayana_sundara,storyver.hindu.ramayana_griffith_book5,place.hindu.lanka,PLACE,100,City
+story.hindu.ramayana_yuddha,storyver.hindu.ramayana_griffith_book6,deity.hindu.rama,CHARACTER,10,Prince
+story.hindu.ramayana_yuddha,storyver.hindu.ramayana_griffith_book6,deity.hindu.sita,CHARACTER,20,Princess
+story.hindu.ramayana_yuddha,storyver.hindu.ramayana_griffith_book6,hero.indian.lakshmana,CHARACTER,30,Brother
+story.hindu.ramayana_yuddha,storyver.hindu.ramayana_griffith_book6,text.indian.ramayana,TEXT,40,Epic
+story.hindu.ramayana_yuddha,storyver.hindu.ramayana_griffith_book6,deity.hindu.hanuman,CHARACTER,50,Hero of the war
+story.hindu.ramayana_yuddha,storyver.hindu.ramayana_griffith_book6,demon.hindu.ravana,CHARACTER,60,King of Laṅkā
+story.hindu.ramayana_yuddha,storyver.hindu.ramayana_griffith_book6,hero.indian.vibhishana,CHARACTER,70,Takes refuge
+story.hindu.ramayana_yuddha,storyver.hindu.ramayana_griffith_book6,hero.indian.sugriva,CHARACTER,80,Monkey-king
+story.hindu.ramayana_yuddha,storyver.hindu.ramayana_griffith_book6,demon.hindu.kumbhakarna,CHARACTER,90,Giant brother
+story.hindu.ramayana_yuddha,storyver.hindu.ramayana_griffith_book6,demon.hindu.indrajit,CHARACTER,100,Rāvaṇa's son
+story.hindu.ramayana_yuddha,storyver.hindu.ramayana_griffith_book6,deity.hindu.agni,CHARACTER,110,Returns Sītā
+story.hindu.ramayana_yuddha,storyver.hindu.ramayana_griffith_book6,deity.hindu.brahma,CHARACTER,120,Reveals Rāma as Vishnu
+story.hindu.ramayana_yuddha,storyver.hindu.ramayana_griffith_book6,hero.indian.bharata,CHARACTER,130,Regent
+story.hindu.ramayana_yuddha,storyver.hindu.ramayana_griffith_book6,hero.indian.dasharatha,CHARACTER,140,Appears from heaven
+story.hindu.ramayana_yuddha,storyver.hindu.ramayana_griffith_book6,place.hindu.lanka,PLACE,150,Battlefield
+story.hindu.ramayana_yuddha,storyver.hindu.ramayana_griffith_book6,event.hindu.sita_abduction_rescue,EVENT,160,Rescue
 story.hindu.samudra_manthana_texts,storyver.hindu.churning_mbh_ce,deity.hindu.vishnu,CHARACTER,10,Nārāyaṇa in the epic witness.
 story.hindu.samudra_manthana_texts,storyver.hindu.churning_mbh_ce,place.hindu.mandara,PLACE,20,Churning rod; no coordinate.
 story.hindu.samudra_manthana_texts,storyver.hindu.churning_mbh_ce,creature.hindu.vasuki,CHARACTER,30,Churning rope.

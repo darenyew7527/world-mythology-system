@@ -22,8 +22,8 @@ from world_mythology.story_cards import resolve_card
 
 DEFAULT_OUTPUT_DIR = PROJECT_ROOT / "web" / "public" / "offline"
 DEFAULT_MANIFEST = PROJECT_ROOT / "reports" / "offline_archive_manifest.json"
-HTML_NAME = "world-mythology-v0.32-story-archive.html"
-JSON_NAME = "world-mythology-v0.32-story-archive.json"
+HTML_NAME = "world-mythology-v0.33-story-archive.html"
+JSON_NAME = "world-mythology-v0.33-story-archive.json"
 # A deity card whose story has this many sections links to the full story
 # instead of repeating it (v0.32 long-form stories).
 LONG_STORY_SECTIONS = 12
@@ -95,7 +95,63 @@ def _render_version(version: dict[str, Any], *, open_first: bool) -> str:
     """
 
 
-def _render_story(story: dict[str, Any]) -> str:
+def _story_link(story_id: str | None, titles: dict[str, str], prefix_zh: str, prefix_en: str) -> str:
+    if not story_id:
+        return ""
+    return (f'<a href="#{_escape(story_id)}"><span class="zh">{prefix_zh}：{_escape(titles.get(story_id))}</span>'
+            f'<span class="en">{prefix_en}: {_escape(titles.get(story_id))}</span></a>')
+
+
+def _render_series_nav(story: dict[str, Any], titles: dict[str, str], *, at_end: bool) -> str:
+    """Part X of N with previous/next links (v0.33 series); empty for stories outside a series."""
+    series = story.get("series")
+    if not series:
+        return ""
+    if at_end:
+        nxt = _story_link(series.get("nextStoryId"), titles, "继续读下一部", "Continue with the next part")
+        done = ('<span class="zh">本系列已读完。</span><span class="en">This is the last part of the series.</span>'
+                if not series.get("nextStoryId") else "")
+        return f'<nav class="series-next" aria-label="Series">{nxt}{done}</nav>'
+    gap = series.get("gapNote")
+    return f"""
+        <nav class="series-nav" aria-label="Series">
+          <a href="#{_escape(series['id'])}"><span class="zh">{_escape(series['titleZh'])}</span><span class="en">{_escape(series['titleEn'])}</span></a>
+          <b><span class="zh">{_escape(series['labelZh'])}</span><span class="en">{_escape(series['labelEn'])}</span> ({series['partOrder']}/{series['partCount']}) · {_escape(series['sourceSpan'])}</b>
+          {_story_link(series.get('previousStoryId'), titles, '上一部', 'Previous part')}
+          {_story_link(series.get('nextStoryId'), titles, '下一部', 'Next part')}
+          {f'<em>{_escape(gap)}</em>' if gap else ''}
+        </nav>"""
+
+
+def _render_series_index(series_list: list[dict[str, Any]]) -> str:
+    if not series_list:
+        return ""
+    blocks = []
+    for series in series_list:
+        parts = []
+        for part in series["parts"]:
+            gap = f'<em>{_escape(part["gapNote"])}</em>' if part.get("gapNote") else ""
+            parts.append(
+                f'<li><span>{part["order"]:02d}</span><div><a href="#{_escape(part["storyId"])}">'
+                f'<span class="zh">{_escape(part["titleZh"])}</span>'
+                f'<span class="en">{_escape(part["titleEn"])}</span></a>'
+                f'<small>{_escape(part["sourceSpan"])} · {part["chapters"]} 章 / chapters · {part["readingMinutes"]} min</small>{gap}</div></li>'
+            )
+        blocks.append(f"""
+      <article class="series" id="{_escape(series['id'])}">
+        <h3><span class="zh">{_escape(series['titleZh'])}</span><span class="en">{_escape(series['titleEn'])}</span></h3>
+        <p><span class="zh">{_escape(series['descriptionZh'])}</span><span class="en">{_escape(series['descriptionEn'])}</span></p>
+        <p class="series-meta">{len(series['parts'])} 部 / parts · {series['totalChapters']} 章 / chapters · {series['totalMinutes']} min</p>
+        <ol class="beats">{''.join(parts)}</ol>
+        <aside class="card-boundary">{_escape(series['selectionNote'])}</aside>
+      </article>""")
+    return f"""
+  <h2 class="cards-heading"><span class="zh">系列连载（{len(series_list)}）</span><span class="en">Story series ({len(series_list)})</span></h2>
+  <main id="story-series">{''.join(blocks)}</main>"""
+
+
+def _render_story(story: dict[str, Any], titles: dict[str, str] | None = None) -> str:
+    titles = titles or {}
     versions = "".join(
         _render_version(version, open_first=index == 0)
         for index, version in enumerate(story.get("versions", []))
@@ -127,8 +183,10 @@ def _render_story(story: dict[str, Any]) -> str:
           <div><dt>Access</dt><dd>{_escape(story.get('accessLevel'))}</dd></div>
           <div><dt>Reading</dt><dd>{_escape(story.get('readingMinutes'))} min</dd></div>
         </dl>
+        {_render_series_nav(story, titles, at_end=False)}
       </header>
       {versions}
+      {_render_series_nav(story, titles, at_end=True)}
       <footer><strong>Editorial boundary / 编辑边界</strong><p>{_escape(story.get('editorialNote'))}</p></footer>
     </article>
     """
@@ -202,7 +260,9 @@ def _render_html(archive: dict[str, Any]) -> str:
         f'<option value="{_escape(key)}">{_escape(label)}</option>'
         for key, label in sorted(civilization_options.items(), key=lambda item: item[1])
     )
-    story_html = "".join(_render_story(story) for story in stories)
+    titles = {story["id"]: story.get("titleZh") or story.get("canonicalTitle") for story in stories}
+    story_html = "".join(_render_story(story, titles) for story in stories)
+    series_html = _render_series_index(archive.get("storySeries", []))
     cards = archive.get("deityStoryCards", [])
     card_html = "".join(_render_card(card) for card in cards)
     return f"""<!doctype html>
@@ -210,7 +270,7 @@ def _render_html(archive: dict[str, Any]) -> str:
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width,initial-scale=1">
-  <title>世界神话系统 v0.32 离线故事档案</title>
+  <title>世界神话系统 v0.33 离线故事档案</title>
   <style>
     :root {{ color-scheme: light dark; --ink:#17222a; --muted:#52636e; --paper:#f7f2e8; --line:#c6bda9; --gold:#8b672f; --blue:#315f76; font-family: system-ui,-apple-system,"Noto Sans SC",sans-serif; }}
     * {{ box-sizing:border-box; }}
@@ -245,15 +305,20 @@ def _render_html(archive: dict[str, Any]) -> str:
     .beats {{ margin:10px 0 0; padding:0; list-style:none; }} .beats li {{ display:grid; grid-template-columns:28px 1fr; gap:8px; padding:9px 0; border-top:1px solid var(--line); }} .beats li > span {{ color:var(--gold); font:11px ui-monospace,monospace; }} .beats .long-story-link a {{ color:var(--blue); font-weight:600; }}
     .beats h4 {{ margin:0 0 4px; font:500 16px Georgia,serif; }} .beats p {{ margin:0 0 4px; line-height:1.7; }} .beats .statement {{ color:var(--muted); font-size:13px; }} .beats small {{ display:block; color:var(--muted); font-size:12px; overflow-wrap:anywhere; }} .beats em {{ display:block; color:#6d5838; font-size:12px; }}
     .card-boundary {{ margin-top:10px; padding:9px 11px; border-left:3px solid var(--gold); background:#eee9df; color:var(--muted); font-size:13px; line-height:1.6; }}
-    @media(max-width:700px) {{ #deity-cards {{ grid-template-columns:1fr; }} }}
+    #story-series {{ grid-template-columns:repeat(auto-fill,minmax(340px,1fr)); align-items:start; }}
+    .series {{ border:1px solid var(--line); background:var(--paper); padding:16px 18px; }} .series h3 {{ margin:0 0 6px; font:500 22px Georgia,serif; }} .series p {{ margin:4px 0; color:var(--muted); line-height:1.6; }} .series .series-meta {{ color:var(--gold); font:12px ui-monospace,monospace; }} .series a {{ color:var(--blue); }}
+    .series-nav,.series-next {{ display:flex; flex-wrap:wrap; gap:8px 16px; align-items:baseline; margin-top:14px; padding:10px 12px; border-left:3px solid var(--gold); background:#eee9df; font-size:14px; }} .series-nav a,.series-next a {{ color:var(--blue); }} .series-nav em {{ flex-basis:100%; color:var(--muted); font-size:13px; }} .series-next {{ margin:0 clamp(18px,4vw,42px) 16px; }}
+    @media(max-width:700px) {{ #deity-cards, #story-series {{ grid-template-columns:1fr; }} }}
     @media(max-width:700px) {{ .controls {{ position:static; grid-template-columns:1fr 1fr; }} .controls input {{ grid-column:1/-1; }} .source-card dl {{ grid-template-columns:1fr; }} .reading-section p {{ font-size:17px; }} }}
     @media print {{ @page {{ margin:16mm; }} body {{ background:#fff; }} .controls {{ display:none; }} .masthead {{ padding:0 0 14px; color:#111; background:#fff; }} .masthead p {{ color:#333; }} .archive-note {{ margin:10px 0; }} main {{ display:block; max-width:none; padding:0; }} .story {{ margin:0 0 22px; border:0; box-shadow:none; break-before:page; }} .story:first-child {{ break-before:auto; }} .version {{ break-inside:auto; }} details:not([open]) > *:not(summary) {{ display:block; }} summary {{ list-style:none; }} }}
   </style>
 </head>
 <body>
-  <header class="masthead"><span>v0.32 · OFFLINE / PRINT ARCHIVE</span><h1><span class="zh">世界神话故事离线档案</span><span class="en">World Mythology Offline Story Archive</span></h1><p><span class="zh">来源、证据定位与许可边界随故事一起保存；本文件不包含个人阅读记录，也不重建受限传统。</span><span class="en">Sources, evidence locators, and rights boundaries travel with each story. This file contains no personal reading history and does not reconstruct restricted traditions.</span></p></header>
+  <header class="masthead"><span>v0.33 · OFFLINE / PRINT ARCHIVE</span><h1><span class="zh">世界神话故事离线档案</span><span class="en">World Mythology Offline Story Archive</span></h1><p><span class="zh">来源、证据定位与许可边界随故事一起保存；本文件不包含个人阅读记录，也不重建受限传统。</span><span class="en">Sources, evidence locators, and rights boundaries travel with each story. This file contains no personal reading history and does not reconstruct restricted traditions.</span></p></header>
   <nav class="controls" aria-label="Archive filters"><input id="search" type="search" placeholder="搜索 / Search"><select id="civilization"><option value="ALL">全部传统 / All traditions</option>{options}</select><button id="language" type="button">中文 / EN</button><button type="button" onclick="window.print()">打印 / Print</button></nav>
-  <aside class="archive-note"><strong>{_escape(archive['projectVersion'])}</strong> · {_escape(archive['generatedAt'])} · {len(stories)} stories · {len(cards)} deity cards<br>{_escape(archive['licenseNote'])}</aside>
+  <aside class="archive-note"><strong>{_escape(archive['projectVersion'])}</strong> · {_escape(archive['generatedAt'])} · {len(stories)} stories · {len(archive.get('storySeries', []))} series · {len(cards)} deity cards<br>{_escape(archive['licenseNote'])}</aside>
+  {series_html}
+  <h2 class="cards-heading"><span class="zh">故事（{len(stories)}）</span><span class="en">Stories ({len(stories)})</span></h2>
   <main id="stories">{story_html}</main>
   <h2 class="cards-heading"><span class="zh">神祇故事卡（{len(cards)}）</span><span class="en">Deity story cards ({len(cards)})</span></h2>
   <main id="deity-cards">{card_html}</main>
@@ -373,6 +438,7 @@ def generate(
         "licenseNote": "Project-authored structured summaries follow DATA_LICENSE.md; every third-party source retains its own rights and reuse restrictions.",
         "stories": snapshot["stories"],
         "readingRoutes": snapshot.get("readingRoutes", []),
+        "storySeries": snapshot.get("storySeries", []),
     }
     sections_by_id = {
         section["id"]: dict(section, sourceTitle=(version.get("source") or {}).get("title"), sourceLocation=version.get("sourceLocation"))
@@ -408,6 +474,7 @@ def generate(
             "storyVersions": version_count,
             "storySections": section_count,
             "readingRoutes": len(archive["readingRoutes"]),
+            "storySeries": len(archive["storySeries"]),
             "deityStoryCards": len(archive["deityStoryCards"]),
         },
         "privacyModel": archive["privacyModel"],

@@ -1,0 +1,15 @@
+series_id,part_order,story_id,part_label_zh,part_label_en,source_span,gap_note
+series.chinese.xiyouji,1,story.chinese.xiyouji_havoc_in_heaven,第一部 · 美猴王,Part 1: the Monkey King,ch. 1–7,
+series.chinese.xiyouji,2,story.chinese.xiyouji_origins,第二部 · 取经缘起,Part 2: how the pilgrimage began,ch. 8–12,
+series.chinese.xiyouji,3,story.chinese.xiyouji_pilgrims_gather,第三部 · 师徒聚首,Part 3: the pilgrims come together,ch. 13–22,
+series.chinese.xiyouji,4,story.chinese.xiyouji_white_bone,第四部 · 三打白骨精,Part 4: the White Bone Demon,ch. 27–31,与上一部之间跳过第二十三至二十六回：四圣试禅心、五庄观偷吃人参果、观音救活果树。
+series.chinese.xiyouji,5,story.chinese.xiyouji_two_monkey_kings,第五部 · 真假美猴王,Part 5: the two Monkey Kings,ch. 56–58,与上一部之间跳过第三十二至五十五回：平顶山金角银角、乌鸡国、红孩儿、车迟国斗法、通天河、金兜洞、女儿国与琵琶洞等。
+series.chinese.xiyouji,6,story.chinese.xiyouji_flaming_mountains,第六部 · 三调芭蕉扇,Part 6: the plantain fan,ch. 59–61,
+series.greek.odyssey,1,story.greek.odyssey_wanderings,上部 · 漂泊,Part 1: the wanderings,Books I–XII,
+series.greek.odyssey,2,story.greek.odyssey_homecoming,下部 · 归家,Part 2: the homecoming,Books XIII–XXIV,
+series.hindu.ramayana_books,1,story.hindu.ramayana_bala,第一部 · 童年篇,Part 1: Childhood,Book I (Bāla Kāṇḍa),
+series.hindu.ramayana_books,2,story.hindu.ramayana_ayodhya,第二部 · 阿逾陀篇,Part 2: Ayodhyā,Book II (Ayodhyā Kāṇḍa),
+series.hindu.ramayana_books,3,story.hindu.ramayana_aranya,第三部 · 森林篇,Part 3: the Forest,Book III (Araṇya Kāṇḍa),
+series.hindu.ramayana_books,4,story.hindu.ramayana_kishkindha,第四部 · 猴国篇,Part 4: Kiṣkindhā,Book IV (Kiṣkindhā Kāṇḍa),
+series.hindu.ramayana_books,5,story.hindu.ramayana_sundara,第五部 · 美妙篇,Part 5: the Beautiful Book,Book V (Sundara Kāṇḍa),
+series.hindu.ramayana_books,6,story.hindu.ramayana_yuddha,第六部 · 战斗篇,Part 6: War,Book VI (Yuddha Kāṇḍa),

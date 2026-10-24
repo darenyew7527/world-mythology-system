@@ -1,61 +1,63 @@
 {
   "counts": {
     "aliases": 14,
-    "artifact_profiles": 44,
+    "artifact_profiles": 48,
     "civilization_languages": 23,
     "civilizations": 99,
-    "claims": 1065,
+    "claims": 1259,
     "collection_queue": 125,
     "comparison_set_members": 16,
     "comparison_sets": 2,
     "conflicts": 35,
-    "coverage_metrics": 1171,
-    "coverage_reports": 35,
-    "creature_profiles": 32,
+    "coverage_metrics": 1216,
+    "coverage_reports": 36,
+    "creature_profiles": 49,
     "cultures": 18,
-    "dataset_releases": 32,
-    "deity_profiles": 210,
-    "entities": 777,
+    "dataset_releases": 33,
+    "deity_profiles": 215,
+    "entities": 825,
     "entity_attributes": 0,
-    "entity_civilizations": 720,
-    "entity_classifications": 805,
+    "entity_civilizations": 768,
+    "entity_classifications": 853,
     "entity_redirects": 5,
     "entity_types": 55,
     "event_participants": 99,
-    "evidence": 1089,
-    "explorer_feature_registry": 19,
+    "evidence": 1283,
+    "explorer_feature_registry": 20,
     "identity_candidates": 21,
     "import_errors": 0,
     "import_runs": 0,
     "languages": 27,
     "modern_adaptations": 3,
     "museum_object_profiles": 27,
-    "myth_event_profiles": 55,
-    "names": 1732,
-    "place_profiles": 112,
+    "myth_event_profiles": 56,
+    "names": 1884,
+    "place_profiles": 114,
     "project_metadata": 10,
     "quality_findings": 0,
     "quality_runs": 1,
     "queue_discoveries": 115,
     "queue_status_history": 83,
-    "reader_feature_registry": 7,
+    "reader_feature_registry": 8,
     "reading_route_steps": 30,
     "reading_routes": 7,
     "regions": 22,
     "relationship_types": 80,
-    "research_session_items": 589,
-    "research_sessions": 30,
-    "schema_migrations": 46,
-    "sources": 237,
-    "stories": 63,
-    "story_claim_links": 585,
+    "research_session_items": 606,
+    "research_sessions": 31,
+    "schema_migrations": 48,
+    "sources": 238,
+    "stories": 76,
+    "story_claim_links": 779,
     "story_conflict_links": 5,
-    "story_entity_links": 461,
-    "story_event_nodes": 385,
-    "story_expansion_batches": 4,
-    "story_expansion_targets": 55,
-    "story_sections": 385,
-    "story_versions": 76,
+    "story_entity_links": 609,
+    "story_event_nodes": 579,
+    "story_expansion_batches": 5,
+    "story_expansion_targets": 68,
+    "story_sections": 579,
+    "story_series": 3,
+    "story_series_parts": 14,
+    "story_versions": 89,
     "story_witness_comparison_members": 40,
     "story_witness_comparisons": 20,
     "story_witness_profiles": 10,
@@ -64,7 +66,7 @@
     "tradition_links": 6
   },
   "database": "world_mythology.sqlite",
-  "database_sha256": "30560b6179c97fe3aa485150529a211bd4df15e1958de4868ffd043d76c85f0d",
+  "database_sha256": "2bd1ae84c2f33c826f06323f71274e793a8957e9ce1f0d58f1730c81838d34b6",
   "excluded_object_types": [
     "view",
     "sqlite_internal"
@@ -76,9 +78,9 @@
       "sha256": "6b3bb0eee4024915b8574e5b7cf8b81d6d6f1e3b8e1c321a1b0ef260461084e1"
     },
     {
-      "bytes": 4896,
+      "bytes": 5888,
       "path": "csv/artifact_profiles.csv",
-      "sha256": "7469de87cfbd8634ff4c798b21011545880760427958d3abab5d5dc019006b61"
+      "sha256": "e923ff51b565b15084feff8b26d3777c837b5062c28b686149b163d49ed1c247"
     },
     {
       "bytes": 2607,
@@ -91,9 +93,9 @@
       "sha256": "cc6cfd5a9676e55f7fa0a1e1a8efeec86d5f3d1daa47fd77b4c9f832ff45b5b2"
     },
     {
-      "bytes": 385936,
+      "bytes": 472088,
       "path": "csv/claims.csv",
-      "sha256": "784cd12fc0a6cf0487dc54995c8dd82884a73a0e7b6bcbda1f882bd0a2b1a308"
+      "sha256": "69a35f9cafde1c270cd9396e14a2afe12d8eff8ad5cae30756deb5aeebe68622"
     },
     {
       "bytes": 59574,
@@ -116,19 +118,19 @@
       "sha256": "2e94717b32953732f2c9e23823b2473799353ec2ea21bbad8c0843d316fe176a"
     },
     {
-      "bytes": 167421,
+      "bytes": 173819,
       "path": "csv/coverage_metrics.csv",
-      "sha256": "9118eba84ea9e8e760aa35cd90490872a2dc7da1b13f5a5632f0c7ef5b082e76"
+      "sha256": "4e50316f0514408de6020801d7713eafbddd81ce4ebf91e0198c23fb0e2c3335"
     },
     {
-      "bytes": 6228,
+      "bytes": 6381,
       "path": "csv/coverage_reports.csv",
-      "sha256": "46b58c6ff955f4853c5448723ef252b53c67eb85b7e22ac2df7815317aa2e737"
+      "sha256": "6cf6bd8c5e018c445c64da84e817929017ba96f6cee3f527a863595d3f893e77"
     },
     {
-      "bytes": 4814,
+      "bytes": 8524,
       "path": "csv/creature_profiles.csv",
-      "sha256": "271f3898c65990d2a9a0712fcd32265b38133b0324a673ceba86196f4f5b8937"
+      "sha256": "a68c83ab531d322273ee48e1c331b57ebe79205e0c678b49735b0462cebb0157"
     },
     {
       "bytes": 3128,
@@ -136,19 +138,19 @@
       "sha256": "08df12610aceccea92fb45a1cf702520500c1b1eff876183b65d4f609c689a45"
     },
     {
-      "bytes": 13775,
+      "bytes": 14347,
       "path": "csv/dataset_releases.csv",
-      "sha256": "fa28e9732df1d0a34892e796ec80a92aad3204382cf837c744d7adcf3936dc84"
+      "sha256": "5ac706482e37416d79c20bb1ba31d885547dd7620dbca7cdbca240e569d75ec6"
     },
     {
-      "bytes": 30840,
+      "bytes": 31409,
       "path": "csv/deity_profiles.csv",
-      "sha256": "4fae77ba353621c9825a0c73110d88c761a5a4d6d7258f178442c483cce8776d"
+      "sha256": "396c1d78466cd9dc17f5def4682cb52d501fee531dd15891d48608a378996daf"
     },
     {
-      "bytes": 235031,
+      "bytes": 251519,
       "path": "csv/entities.csv",
-      "sha256": "f98e1ab61eed44077563812619b60f64821af432ca3dfbda7db5c23ce93b4451"
+      "sha256": "c8d594a8dfbc8193855e6eb1009f2eae8f005307fadf810141410f171939802a"
     },
     {
       "bytes": 98,
@@ -156,14 +158,14 @@
       "sha256": "e69fb3db99db0463fd52eba22f5950a535a154946605fc7a7440e1319c256beb"
     },
     {
-      "bytes": 62626,
+      "bytes": 67238,
       "path": "csv/entity_civilizations.csv",
-      "sha256": "e8f7df124796bf50be46ac4cfbecd5f0c80ccbd4f6a4397e39e9f156874dca39"
+      "sha256": "4cc1b3904a6d65ba915f41a95e157e0fc322e231536dc1dd2bebf30dd7442da2"
     },
     {
-      "bytes": 43667,
+      "bytes": 46298,
       "path": "csv/entity_classifications.csv",
-      "sha256": "bf7d975da00275e3f1520ccdf51c1d195a31ec92281b51ec83f4372a751c1f82"
+      "sha256": "afe8d7c49889176d0c4b1b67dcee912ba14919a9412a04b2243b66e10ba192e6"
     },
     {
       "bytes": 987,
@@ -181,14 +183,14 @@
       "sha256": "7f1fc68aaadbead03b4f19555eb02e9320f3212252cfdc25aed3238d165ec8de"
     },
     {
-      "bytes": 247183,
+      "bytes": 278968,
       "path": "csv/evidence.csv",
-      "sha256": "a5d16f0c8d310236e83a9acd891e0a299c6ab9995ff5ed37f847d3b3bcc83778"
+      "sha256": "550ef66bc2098a033dd5f3833614f8d536639799710e18dc9969bfdc4b46edfa"
     },
     {
-      "bytes": 6528,
+      "bytes": 7056,
       "path": "csv/explorer_feature_registry.csv",
-      "sha256": "2030afac0275a3caf222786f4c40758815a1076fe69ebd3ba42d29e33a71783a"
+      "sha256": "a1cdf78abd62b7d1ecd83bbb26763fee13fb867f2db9141807863f91c8d3e806"
     },
     {
       "bytes": 4766,
@@ -221,24 +223,24 @@
       "sha256": "41dee6f0d632ebc0a0bf01c43fdd0a80e9fbd0b65109c26d85c3b79566df4e23"
     },
     {
-      "bytes": 19426,
+      "bytes": 19913,
       "path": "csv/myth_event_profiles.csv",
-      "sha256": "1a7e61cd9f3ba50c7201f4724c8a99beb7f7e24a0ecb53c284f3b104b206ebe2"
+      "sha256": "d5d561afb8a74c338744c94c7da0beadf9ea482ff20b4f81fdd43a7ffd2f23c3"
     },
     {
-      "bytes": 233340,
+      "bytes": 255786,
       "path": "csv/names.csv",
-      "sha256": "5b7d15a007e82640a868e6f528642baabb7a7d08d97a5bbc8e63a86836fe8567"
+      "sha256": "4acee7d473ace7b69b33232b9c8ef4f216b4889b99f3010774b3fcbd5556db67"
     },
     {
-      "bytes": 16535,
+      "bytes": 16738,
       "path": "csv/place_profiles.csv",
-      "sha256": "9db4310dd529735749040c18d7aa754eaaac078ab100c198b0a7806e2b6bc5f0"
+      "sha256": "b015aeeef1f86ef2034eb7e7387bc8c6dbc552150780aea2297f6ae7ddf1669b"
     },
     {
-      "bytes": 965,
+      "bytes": 959,
       "path": "csv/project_metadata.csv",
-      "sha256": "2560b4ac272a3fd3a414ef0f64f8fa9dadeec4d169ddf812c3d593856e010c0e"
+      "sha256": "18911e688603a332a4e7c0a8d3c79ea35719890cc55990fff8e294a08b84a959"
     },
     {
       "bytes": 71,
@@ -261,9 +263,9 @@
       "sha256": "1761a1cb8863806d65e1e4c848494eb95db32619525749d49b96ea46d14c132a"
     },
     {
-      "bytes": 1426,
+      "bytes": 1645,
       "path": "csv/reader_feature_registry.csv",
-      "sha256": "a8ca664b5a565cc292859e2941abeb4eb31ea7f9a471c0cac4f49279ab0a50cd"
+      "sha256": "669c1d48486e74789b0a2ad0d09d2e0134f88a1930ceaeb73c8c5b5003edadb5"
     },
     {
       "bytes": 6883,
@@ -286,34 +288,34 @@
       "sha256": "1ea4bab458e58c07ebf1e5133c67be4ef8ab38b6056f069eea671926068e9943"
     },
     {
-      "bytes": 70318,
+      "bytes": 72388,
       "path": "csv/research_session_items.csv",
-      "sha256": "a99d9f72236d138bd077c3fe16df926dfaaa59d18924230b9fabc1e7ffe398df"
+      "sha256": "fdeacef1d1b59c8a6302922912d3a3dd4757a23a6532bf00461b515271c74bbd"
     },
     {
-      "bytes": 16035,
+      "bytes": 16679,
       "path": "csv/research_sessions.csv",
-      "sha256": "3a0eb9ea63069c8e1a92dcb2949bb269b0b42e044f09003d697726de5ba6c506"
+      "sha256": "4f56ab331097ae3848e0073fba1f68b994023f416e6af697b02a109bd6b91a6d"
     },
     {
-      "bytes": 2923,
+      "bytes": 3023,
       "path": "csv/schema_migrations.csv",
-      "sha256": "e5fd3694e2bbf76a0cadc66e8038b031392c4d4f7d46b1f394a5d359d0a36e6c"
+      "sha256": "0b1ffb3227672d27de0f9c7c6648e856188d358947be7018a05370e9df7e380a"
     },
     {
-      "bytes": 130197,
+      "bytes": 130971,
       "path": "csv/sources.csv",
-      "sha256": "4f76f76348eca65dff650f1d5e13b2eb6082de1fce8353d25c420b028d59f3df"
+      "sha256": "a5407103da572a544e32bbd3f5930e66f5d400d422de4e2c869ff8b870a96046"
     },
     {
-      "bytes": 60008,
+      "bytes": 86020,
       "path": "csv/stories.csv",
-      "sha256": "992799f33186243dcf90982e7efbd995de5ad3643ceba60c152644701d44c416"
+      "sha256": "16fc0e650505545f76e5a68bdd9b2c72e4b09202fc569d566d9e99d3382bbd83"
     },
     {
-      "bytes": 47316,
+      "bytes": 62727,
       "path": "csv/story_claim_links.csv",
-      "sha256": "18cfd0178b845840ef536477ca91054e98605d77062e86fd7b7f74415102d9e8"
+      "sha256": "d9318489a0d887dce5532d4290f860ef7e4426da3476be43a6a017ab2ee8085d"
     },
     {
       "bytes": 714,
@@ -321,34 +323,44 @@
       "sha256": "bfd1f6a7a866d0ec85ab855dbf79c50fd9a94a1f07677706a0c140a7b754e197"
     },
     {
-      "bytes": 57068,
+      "bytes": 74001,
       "path": "csv/story_entity_links.csv",
-      "sha256": "adde0e7017f52848c2a28ca172d0863a4377dddd2934806e1f2842d0f4eeba54"
+      "sha256": "e456869f80ec2df320fd8f3d140b2ead67b159399c81d6bfb900f37ebc79e619"
     },
     {
-      "bytes": 188406,
+      "bytes": 292454,
       "path": "csv/story_event_nodes.csv",
-      "sha256": "bc670659cc65b28424b83b2c23469c768827f6264515e828b61efed740218bd9"
+      "sha256": "5ebd70b47af1eb0711dab67a0f62e8f2db4c67e340199fe8f7d59659b7d3a479"
     },
     {
-      "bytes": 2108,
+      "bytes": 2539,
       "path": "csv/story_expansion_batches.csv",
-      "sha256": "553dbe9a6b259d861b4d988a59f404bab107ee0b774cf03a10e7b4d71a75e109"
+      "sha256": "c7bcb3e66da2b5562f31fec86ed7090e9a5758f71538cdffa26be12d8a4e72b0"
     },
     {
-      "bytes": 20781,
+      "bytes": 25468,
       "path": "csv/story_expansion_targets.csv",
-      "sha256": "956245d6dc57278960929313815fcacf8a34fee8baf9504210ba5f219a43abe5"
+      "sha256": "5f14c8681bcd3f3c8f2ea1a0f924acf60275ecb49302da40cb2cf2e115767971"
     },
     {
-      "bytes": 391784,
+      "bytes": 912095,
       "path": "csv/story_sections.csv",
-      "sha256": "22213c6d29760ba7aa59cae04498707ed8b1e088a685b4524321256809f8767c"
+      "sha256": "a2452875988852f7875cc520a40365d5a739a4c420937a952716a5fe48469bf8"
     },
     {
-      "bytes": 35755,
+      "bytes": 2584,
+      "path": "csv/story_series.csv",
+      "sha256": "3af346655ab3b543f51896052fc4629f09eb0359c7f523f42fc1f77cc20dfe50"
+    },
+    {
+      "bytes": 2162,
+      "path": "csv/story_series_parts.csv",
+      "sha256": "d5909c7432acedfbe0ecd4fdacb4e3d92ca5ace9624fe78bd149781058f76f93"
+    },
+    {
+      "bytes": 45406,
       "path": "csv/story_versions.csv",
-      "sha256": "d67c5aed7bce169f1ce5cc04f73db737788f26cad9246ff58ed3e3827c38af99"
+      "sha256": "ebdbcb4b33c0311e9a92ddbe9133fb712a3c07902a036455a88dbcb550c31b01"
     },
     {
       "bytes": 16131,
@@ -381,14 +393,14 @@
       "sha256": "78599808fe85bc68ca9af777a314e8ff6e75423dae9baf7cb6d2abab462f1052"
     },
     {
-      "bytes": 199857,
+      "bytes": 205446,
       "path": "graph/knowledge_graph.graphml",
-      "sha256": "31015b4a13735e4bb99dcfa88e68ed1ecf4ea6fe0f3e9760978e3fc826f4f3d5"
+      "sha256": "7740ed0c5eea2d5ce3ac0e051eb16b57d4b25ca5062d5f9c5bc290ae68cc85e3"
     },
     {
-      "bytes": 462938,
+      "bytes": 473611,
       "path": "graph/knowledge_graph.json",
-      "sha256": "87a7763ac727aa9d0ca9e6d86d176372a6c55fad54b0576b5cdc5f3b8c53aa08"
+      "sha256": "12e68e66385cfd14f224f815e785910716c232df514b32f095d4bb7860581061"
     },
     {
       "bytes": 142491,
@@ -401,9 +413,9 @@
       "sha256": "15a4751dd8b0e161bf7d6fd9b36e88ae91f668d83aa1db4d05c03b5ddf7b4108"
     },
     {
-      "bytes": 12588,
+      "bytes": 14264,
       "path": "jsonl/artifact_profiles.jsonl",
-      "sha256": "2b15e2690b71677152fce00299c67776530015fd429dba90851202c94d618e0e"
+      "sha256": "8c9d4bfaa07bfc4a0ac8930175254f06282210fe649e1430aa3360ec0b348c18"
     },
     {
       "bytes": 4011,
@@ -416,9 +428,9 @@
       "sha256": "250191c37d185e5d7f4659121eae854fca955367be4a3f7e56cd97ec2d008115"
     },
     {
-      "bytes": 722858,
+      "bytes": 870290,
       "path": "jsonl/claims.jsonl",
-      "sha256": "54bf6836fa0b273b8c1e78e559a7b1f71b8412c2c83899a1f301f7234a3be1a2"
+      "sha256": "057a4ca87f1f37f85ff414b178435d759f2d843d30e91b8d2bddd8612a2efbd4"
     },
     {
       "bytes": 96664,
@@ -441,19 +453,19 @@
       "sha256": "b6ceb29dcc45d724ed7243b7b6ec4a51a497e3a5db25f0d63bf77a1f58211eec"
     },
     {
-      "bytes": 252719,
+      "bytes": 262407,
       "path": "jsonl/coverage_metrics.jsonl",
-      "sha256": "ae5b56f84ef52100043c80ab1378b9d78ac785ba60b0276d77f7ffbe40ce8486"
+      "sha256": "aaa25cc89a25a0af959c6d10f2f484d2ee7b3c92837c93c90cf9576f414f8b0c"
     },
     {
-      "bytes": 8184,
+      "bytes": 8394,
       "path": "jsonl/coverage_reports.jsonl",
-      "sha256": "ed705806b9855fb2a7787067fe74d92457a37147520d3d046a2ab5eacd3b7beb"
+      "sha256": "dbe7418f1117bb7c425f4fd14f8e6f6c5147d3588723f0c8c823b00a713977a8"
     },
     {
-      "bytes": 9554,
+      "bytes": 15762,
       "path": "jsonl/creature_profiles.jsonl",
-      "sha256": "8d113ed3245311cdf20f3ae5523d6e77d27078ee9c1d6db9ddccc7aa0b11e8be"
+      "sha256": "7140f4d98c7a1808afa5ebe566358dbd83793f8ee6f5c6e2e6b081797927602d"
     },
     {
       "bytes": 5304,
@@ -461,19 +473,19 @@
       "sha256": "4ebb06d0d458e2051b7433a09921879aa2f45ceb02bbb2ffebc63a5a864ea1d1"
     },
     {
-      "bytes": 17160,
+      "bytes": 17843,
       "path": "jsonl/dataset_releases.jsonl",
-      "sha256": "6d285658ae0a8bce95f195772498856a23603b339575c54fdac2d7f1beb23e68"
+      "sha256": "b316dabb687e78bea6b718c07cff1e887d10b0f60ee0c26583763152d6170bb4"
     },
     {
-      "bytes": 74539,
+      "bytes": 76153,
       "path": "jsonl/deity_profiles.jsonl",
-      "sha256": "027e0846a698d1f5ecafd6c924a9da9b188338de2aff01dcd81ef9d0cc2ab878"
+      "sha256": "60f33416b3db907d4c4ba8a59093c74da86070f4635d4650115de95d08bf5470"
     },
     {
-      "bytes": 481581,
+      "bytes": 513155,
       "path": "jsonl/entities.jsonl",
-      "sha256": "073df7cf050d5a90b1a09a7a1a6674820b2981a9b087c085c8602a512e2635d2"
+      "sha256": "fafa659a5e89a6659ad6915149e8747562479ea14dc32becdcea6a802550cb6d"
     },
     {
       "bytes": 0,
@@ -481,14 +493,14 @@
       "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
     },
     {
-      "bytes": 121537,
+      "bytes": 130037,
       "path": "jsonl/entity_civilizations.jsonl",
-      "sha256": "5a24fdf82d8fd0de6372f7ec3576509b7aa636f0bb47a7f5e66d4aff7aacbba2"
+      "sha256": "43c73f73cabaa754ff3d4c2a77a85c49e6bd3d4ebb73cc63f56af090ccb61a41"
     },
     {
-      "bytes": 87133,
+      "bytes": 92308,
       "path": "jsonl/entity_classifications.jsonl",
-      "sha256": "9c0fc4a464fe817f60a09c3dd3df358d91aa904a74c6518ceaad4c1ede12c02d"
+      "sha256": "e0841b36d5c296a1f5ed3c8b0f8f307fff709543711405d9a5b68b8d59ff0dad"
     },
     {
       "bytes": 1353,
@@ -506,14 +518,14 @@
       "sha256": "4d4b9bbfde736d896082e1efc86875183e020730c51f9e900d01cc4e3596fd3d"
     },
     {
-      "bytes": 471215,
+      "bytes": 543372,
       "path": "jsonl/evidence.jsonl",
-      "sha256": "a085bf440af5cb6ad95aeb7860b938ed767694051769debd8ec8b9c9df2dd37d"
+      "sha256": "387f9e56b65a5ac265f3fed89ccaa36a2261a7c3251f52df7c9b731949aa42d9"
     },
     {
-      "bytes": 9562,
+      "bytes": 10254,
       "path": "jsonl/explorer_feature_registry.jsonl",
-      "sha256": "1979ecec99a64ca99b66b2f8d5cbcd7713e7937dc24dfd5c0db461b1912f8026"
+      "sha256": "e472fad27710e752d1a086dcee2819b4bdb77aabfe4e9a34fbd50aa8861dcf0a"
     },
     {
       "bytes": 6650,
@@ -546,24 +558,24 @@
       "sha256": "23a71a96c673bc935d5278bcd48e4e08ce9079bfdd14216cd675dbfde127718e"
     },
     {
-      "bytes": 26128,
+      "bytes": 26738,
       "path": "jsonl/myth_event_profiles.jsonl",
-      "sha256": "122fa34da4b8048f2d0081c38d0a984f5cdcf39c3a2aaf9cf9c50ce1f503e082"
+      "sha256": "f6579d2676d2ea26ec8af204695452f158a8c301f61f307931dad0aafe8877d5"
     },
     {
-      "bytes": 536269,
+      "bytes": 585011,
       "path": "jsonl/names.jsonl",
-      "sha256": "76e2f49a5992da3e26d80f84318b7aa7e84b5817b1722deb0cea5f626feee088"
+      "sha256": "b6fad6af3867819b49d740a641cd8ffae38645ef448cb3d64b50b19e536b8a33"
     },
     {
-      "bytes": 47761,
+      "bytes": 48528,
       "path": "jsonl/place_profiles.jsonl",
-      "sha256": "edc29ec37a2464ab70f91f7c8f63d5ae9f7b0c35cc30ecf12f27947e70dde833"
+      "sha256": "0e95c6531ad905c183ffee60dad6b210f53b0ebf34bd6f9689574074007e1da9"
     },
     {
-      "bytes": 1290,
+      "bytes": 1284,
       "path": "jsonl/project_metadata.jsonl",
-      "sha256": "4ab19e7268bf1f30dd1bea4139ad411b494a1fc25da35f800205764b843e5a68"
+      "sha256": "950747bb22029a7e2f420d06bccef64a1d1a0a00f975683daebf44ae7e6e0a1a"
     },
     {
       "bytes": 0,
@@ -586,9 +598,9 @@
       "sha256": "cc2f1ae071482f310163361f24cb7b1a6dc3bf55d32f2823cff1cd6d4dfeba0d"
     },
     {
-      "bytes": 2562,
+      "bytes": 2965,
       "path": "jsonl/reader_feature_registry.jsonl",
-      "sha256": "6546fc8d676989d694072730467e6b8fdc37a7ba48cce6d0c902471a5dc39f24"
+      "sha256": "2ebd85f19a4d389a645d51e1805c79baac0175057e631c50727e84e916303652"
     },
     {
       "bytes": 10913,
@@ -611,34 +623,34 @@
       "sha256": "7bc901ec8863a8c2b41d62c871d12987387cc01a3523633417109ec834e97ac1"
     },
     {
-      "bytes": 108536,
+      "bytes": 111695,
       "path": "jsonl/research_session_items.jsonl",
-      "sha256": "af59e053135c4ef5cecf88f2811d1385a438999595f9a9125dbf995ca6e04e10"
+      "sha256": "ca05388e6f1222c62025ef1e76d7e804ce79bfa60ef696519b4adccfb3ff99f8"
     },
     {
-      "bytes": 18911,
+      "bytes": 19655,
       "path": "jsonl/research_sessions.jsonl",
-      "sha256": "458db67e47dda069c70c691866070c57b28ca5112081189d507860c8a1353cbb"
+      "sha256": "34fe278fe5fc1159a0809f06033b7c03a45d310c7b0ab18ca752634a674486de"
     },
     {
-      "bytes": 4555,
+      "bytes": 4727,
       "path": "jsonl/schema_migrations.jsonl",
-      "sha256": "8dbcadc732272321f62a81520c215ac1daeb3fa26a7d56ee28a19b92236287eb"
+      "sha256": "736b04ba8605091715e0e48d5619d4e8d55765a75e9d44d1222959d291df6bc0"
     },
     {
-      "bytes": 253641,
+      "bytes": 254929,
       "path": "jsonl/sources.jsonl",
-      "sha256": "c3815f8b7523d4d4bbafbf97b2f32b3ec98b16965671b8c7ea089067f53c3ecb"
+      "sha256": "9e6914b1977a38f807bf8121ab3660a649dc053b7042252aa42d09865697a2ce"
     },
     {
-      "bytes": 75456,
+      "bytes": 104676,
       "path": "jsonl/stories.jsonl",
-      "sha256": "2ef10766da135a906b1e45c90d597775d77efa4ef100c37666bfd6319af5c259"
+      "sha256": "9a9664d8e5a249191ea1485d8dacd13e562132118d162564d223a84aacb90324"
     },
     {
-      "bytes": 76530,
+      "bytes": 101641,
       "path": "jsonl/story_claim_links.jsonl",
-      "sha256": "1e15b34658128c4bb43513e3ae610717d486984bc37af65c22145071743e8ec8"
+      "sha256": "9bc74d0a8e5ac745cde44570be9a43592e2bfb90919336496fc945aabacc428c"
     },
     {
       "bytes": 892,
@@ -646,34 +658,44 @@
       "sha256": "83468a745c86d2fda0f5d3279efd6d005fca02464097407d0ff4d4790fa96b39"
     },
     {
-      "bytes": 94808,
+      "bytes": 123875,
       "path": "jsonl/story_entity_links.jsonl",
-      "sha256": "62b008072ca76481eea1b36e5c25076c27dfa1e521f035b98644206dd08a14ca"
+      "sha256": "bcbf57e74a32e2e9a512254bf4c2d06b85168f5ad27917b715ea20601a6e84e7"
     },
     {
-      "bytes": 287316,
+      "bytes": 441526,
       "path": "jsonl/story_event_nodes.jsonl",
-      "sha256": "311c14d694b1e0d8105e0f8afd30ee1c85ccf70afcccc0a5b5396ec459b649aa"
+      "sha256": "a529107a1fda22026b8a2fa92579c61a29802673c7d90dcabd0dc98714586197"
     },
     {
-      "bytes": 2541,
+      "bytes": 3105,
       "path": "jsonl/story_expansion_batches.jsonl",
-      "sha256": "51489c6c3d1fe6e7166be48e33146a4e28d9f2467a11074bb9373c5974a93156"
+      "sha256": "384e3962c7f6e261b31afc0d4862897be18ad82baaf4d61ee2a5714bd382400d"
     },
     {
-      "bytes": 33099,
+      "bytes": 40747,
       "path": "jsonl/story_expansion_targets.jsonl",
-      "sha256": "9a7ccb22c1284fa6ad4b709c874484ceb03ac597674f12b6a2904604dc47dbae"
+      "sha256": "92b69829a1b10ace9ab47fb0693177ef94cdd220cbec5fe2c1e1bd69869fbd18"
     },
     {
-      "bytes": 452612,
+      "bytes": 1003735,
       "path": "jsonl/story_sections.jsonl",
-      "sha256": "9f343597bf413fa921a9e516eebda4ef4b4d011e2723dde15b80cd3021c23ca3"
+      "sha256": "5dde5f513e60e4616f9ea74b5660739be90a55df1a18a901a53d3b4ab7b2b7cb"
     },
     {
-      "bytes": 53417,
+      "bytes": 3044,
+      "path": "jsonl/story_series.jsonl",
+      "sha256": "b2b4c00de0374e32d2af18e74d3f63a5746ab60719e2de29e28bb2636e31ed75"
+    },
+    {
+      "bytes": 3605,
+      "path": "jsonl/story_series_parts.jsonl",
+      "sha256": "bbf95740442336d5cf9c947d728fdbff8999b416f78980efd2c6190560e74da3"
+    },
+    {
+      "bytes": 66110,
       "path": "jsonl/story_versions.jsonl",
-      "sha256": "ead9e3d94b0dda1e080d4f2d40210196fd6988781cf7a4f2ec77616a35891175"
+      "sha256": "45469774f95362c52034b073930ab0e02b7409f34f59dd19df9f99749e7735af"
     },
     {
       "bytes": 26542,
@@ -709,27 +731,27 @@
   "format_version": 2,
   "graph_counts": {
     "edges": 645,
-    "nodes": 777
+    "nodes": 825
   },
   "latest_sealed_release": {
-    "built_at": "2026-10-11T03:00:00Z",
-    "data_version": "0.32.0",
-    "git_commit": "08cdf97a04139d379df3b85fe1f32f454ecf91e8",
-    "id": "release.v0.32.0",
-    "schema_version": 46
+    "built_at": "2026-10-24T03:00:00Z",
+    "data_version": "0.33.0",
+    "git_commit": null,
+    "id": "release.v0.33.0",
+    "schema_version": 48
   },
   "project": {
-    "data_version": "0.32.0",
-    "project_status": "v0.32.0 sealed staged checkpoint: long-form stories with chapter reading; every section keeps its own evidence, never ALL COMPLETE",
-    "project_version": "0.32.0-long-stories",
-    "schema_version": "46"
+    "data_version": "0.33.0",
+    "project_status": "v0.33.0 sealed staged checkpoint: story series with part-by-part reading; every section keeps its own evidence, never ALL COMPLETE",
+    "project_version": "0.33.0-series",
+    "schema_version": "48"
   },
   "release": {
-    "built_at": "2026-10-11T03:00:00Z",
-    "data_version": "0.32.0",
-    "git_commit": "08cdf97a04139d379df3b85fe1f32f454ecf91e8",
-    "id": "release.v0.32.0",
-    "schema_version": 46
+    "built_at": "2026-10-24T03:00:00Z",
+    "data_version": "0.33.0",
+    "git_commit": null,
+    "id": "release.v0.33.0",
+    "schema_version": 48
   },
   "snapshot_status": "SEALED_RELEASE",
   "tables": [
@@ -788,6 +810,8 @@
     "story_expansion_batches",
     "story_expansion_targets",
     "story_sections",
+    "story_series",
+    "story_series_parts",
     "story_versions",
     "story_witness_comparison_members",
     "story_witness_comparisons",

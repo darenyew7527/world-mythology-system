@@ -1,6 +1,9 @@
 entity_id,type_code,is_primary,notes
 artifact.babylonian.marduk_net,ARTIFACT,1,
+artifact.chinese.bajiao_shan,SACRED_OBJECT,1,v0.33 series entity.
+artifact.chinese.brocade_cassock,SACRED_OBJECT,1,v0.33 series entity.
 artifact.chinese.five_colored_stones,SACRED_OBJECT,1,Narrative material of the sky repair.
+artifact.chinese.golden_fillet,SACRED_OBJECT,1,v0.33 series entity.
 artifact.chinese.huntian_ling,ARTIFACT,1,
 artifact.chinese.linglong_pagoda,SACRED_OBJECT,1,v0.32 long-story entity.
 artifact.chinese.qiankun_quan,ARTIFACT,1,
@@ -116,10 +119,15 @@ concept.zoroastrian.asha,CONCEPT,1,
 concept.zoroastrian.druj,CONCEPT,1,
 creature.akkadian.anzu,MONSTER,1,v0.20.0 ancient Near East witnesses
 creature.chinese.ao_turtle,DIVINE_BEAST,1,Great turtle in the Nüwa passages.
+creature.greek.charybdis,MONSTER,1,v0.33 series entity.
 creature.greek.cyclopes_hesiodic,GIANT,1,
 creature.greek.hecatoncheires,GIANT,1,v0.32 long-story entity.
+creature.greek.polyphemus,GIANT,1,v0.33 series entity.
+creature.greek.scylla,MONSTER,1,v0.33 series entity.
+creature.greek.sirens,MONSTER,1,v0.33 series entity.
 creature.greek.typhon,MONSTER,1,Primary classification at research checkpoint 2026-08-11
 creature.hindu.akupara,DIVINE_BEAST,1,Mahābhārata critical-edition witness only.
+creature.hindu.jatayu,DIVINE_BEAST,1,v0.33 series entity.
 creature.hindu.vasuki,DIVINE_BEAST,1,Nāga king.
 creature.mesopotamian.bull_of_heaven,MONSTER,1,v0.32 long-story entity.
 creature.norse.fenrir,MONSTER,1,
@@ -143,6 +151,7 @@ deity.chinese.ao_guang,DRAGON,0,Secondary classification.
 deity.chinese.erlang_shen,DEITY,1,v0.32 long-story entity.
 deity.chinese.fu_xi,DEITY,1,
 deity.chinese.gonggong,DEITY,1,Divine/clan/ruler designation varies by witness.
+deity.chinese.guanyin_xiyouji,DEITY,1,v0.33 series entity.
 deity.chinese.jade_emperor,DEITY,1,v0.32 long-story entity.
 deity.chinese.leigong,DEITY,1,v0.6.0 thunder and storm comparison checkpoint
 deity.chinese.leize_thunder_spirit,DEITY,1,v0.6.0 thunder and storm comparison checkpoint
@@ -189,8 +198,10 @@ deity.greek.asteria,DEITY,1,Primary classification from v0.4.0 Greek genealogy c
 deity.greek.asteria,TITAN,0,Hesiodic divine generation
 deity.greek.astraeus,DEITY,1,v0.9.0 Perses homonym audit checkpoint
 deity.greek.athena,DEITY,1,
+deity.greek.calypso,DEITY,1,v0.33 series entity.
 deity.greek.chaos,PRIMORDIAL_DEITY,1,Primary classification from v0.4.0 Greek genealogy checkpoint
 deity.greek.chaos,DEITY,0,Queryable through the deity collection; ontology remains witness-specific
+deity.greek.circe,DEITY,1,v0.33 series entity.
 deity.greek.crius,DEITY,1,v0.9.0 Perses homonym audit checkpoint
 deity.greek.cronus,DEITY,1,
 deity.greek.cronus,TITAN,0,Greek culture-specific classification
@@ -238,8 +249,10 @@ deity.greek.theia,TITAN,0,Hesiodic divine generation
 deity.greek.uranus,PRIMORDIAL_DEITY,1,
 deity.greek.zeus,DEITY,1,
 deity.hawaiian.pele,DEITY,1,
+deity.hindu.agni,DEITY,1,v0.33 series entity.
 deity.hindu.brahma,DEITY,1,
 deity.hindu.dhanvantari,DEITY,1,Bearer of the amṛta.
+deity.hindu.ganga,DEITY,1,v0.33 series entity.
 deity.hindu.hanuman,DEITY,1,v0.32 long-story entity.
 deity.hindu.kurma,DEITY,1,Viṣṇu tortoise form in the Bhāgavata witness.
 deity.hindu.mohini,DEITY,1,Viṣṇu female form in the Bhāgavata witness.
@@ -353,10 +366,22 @@ deity.yoruba.oshun,DEITY,1,
 deity.yoruba.shango,DEITY,1,
 deity.zoroastrian.ahura_mazda,DEITY,1,
 deity.zoroastrian.mithra,DEITY,1,
+demon.chinese.baigujing,DEMON,1,v0.33 series entity.
+demon.chinese.black_bear_spirit,DEMON,1,v0.33 series entity.
+demon.chinese.huangpao,DEMON,1,v0.33 series entity.
+demon.chinese.niumowang,DEMON,1,v0.33 series entity.
+demon.chinese.six_eared_macaque,DEMON,1,v0.33 series entity.
+demon.chinese.tieshan_gongzhu,DEMON,1,v0.33 series entity.
+demon.hindu.indrajit,DEMON,1,v0.33 series entity.
+demon.hindu.kumbhakarna,DEMON,1,v0.33 series entity.
+demon.hindu.maricha,DEMON,1,v0.33 series entity.
 demon.hindu.rahu,DEMON,1,Dānava beheaded with the discus.
 demon.hindu.ravana,DEMON,1,v0.32 long-story entity.
+demon.hindu.shurpanakha,DEMON,1,v0.33 series entity.
 dragon.chinese.ao_bing,DRAGON,1,v0.32 long-story entity.
 dragon.chinese.black_dragon_jizhou,DRAGON,1,Huainanzi Lan Ming witness only.
+dragon.chinese.jinghe_dragon_king,DRAGON,1,v0.33 series entity.
+dragon.chinese.white_dragon_horse,DRAGON,1,v0.33 series entity.
 element.chinese.huo,ELEMENT,1,
 element.chinese.jin,ELEMENT,1,
 element.chinese.mu,ELEMENT,1,
@@ -385,6 +410,7 @@ event.egyptian.separation_geb_nut,EVENT,1,v0.31 story entity.
 event.egyptian.weighing_heart_ani,EVENT,1,v0.31 story entity.
 event.greek.medea_restores_aeetes,EVENT,1,v0.9.0 Perses homonym audit checkpoint
 event.greek.persephone_abduction,EVENT,1,v0.5.0 primary-source profile checkpoint
+event.greek.return_of_odysseus,EVENT,1,v0.33 series entity.
 event.greek.theogony_succession,EVENT,1,v0.32 long-story entity.
 event.greek.titanomachy,EVENT,1,
 event.greek.zeus_typhon_battle,EVENT,1,Primary classification at research checkpoint 2026-08-11
@@ -427,22 +453,37 @@ festival.yoruba.sango_oyo,FESTIVAL,1,v0.6.0 thunder and storm comparison checkpo
 group.egyptian.theban_triad,CONCEPT,1,v0.7.0 Egyptian solar-composite checkpoint
 group.japanese.eight_thunder_kami,CONCEPT,1,v0.6.0 thunder and storm comparison checkpoint
 hero.chinese.chiyou,HERO,1,v0.31 story entity.
+hero.chinese.sha_wujing,HERO,1,v0.33 series entity.
 hero.chinese.subodhi_patriarch,HERO,1,v0.32 long-story entity.
 hero.chinese.sun_wukong,HERO,1,
 hero.chinese.taiyi_zhenren,HERO,1,v0.32 long-story entity.
+hero.chinese.tang_sanzang,HERO,1,v0.33 series entity.
 hero.chinese.yellow_emperor,HERO,1,
 hero.chinese.yellow_emperor,ANCESTOR_DEITY,0,
+hero.chinese.zhu_bajie,HERO,1,v0.33 series entity.
 hero.chinese.zhuanxu,HERO,1,Legendary sovereign; no historical-reality claim.
 hero.greek.aeetes,HERO,1,v0.9.0 Perses homonym audit checkpoint
 hero.greek.andromeda,HERO,1,v0.9.0 Perses homonym audit checkpoint
+hero.greek.laertes,HERO,1,v0.33 series entity.
 hero.greek.medea,HERO,1,v0.9.0 Perses homonym audit checkpoint
+hero.greek.odysseus,HERO,1,v0.33 series entity.
+hero.greek.penelope,HERO,1,v0.33 series entity.
 hero.greek.perses_perseus_son,HERO,1,v0.9.0 Perses homonym audit checkpoint
 hero.greek.perseus,HERO,1,v0.9.0 Perses homonym audit checkpoint
+hero.greek.telemachus,HERO,1,v0.33 series entity.
 hero.greek.triptolemos,HERO,1,v0.8.0 Eleusis evidence-layer checkpoint
+hero.indian.ahalya,HERO,1,v0.33 series entity.
 hero.indian.arjuna,HERO,1,
 hero.indian.bharata,HERO,1,v0.32 long-story entity.
 hero.indian.dasharatha,HERO,1,v0.32 long-story entity.
+hero.indian.janaka,HERO,1,v0.33 series entity.
+hero.indian.kaikeyi,HERO,1,v0.33 series entity.
 hero.indian.lakshmana,HERO,1,v0.32 long-story entity.
+hero.indian.parashurama,HERO,1,v0.33 series entity.
+hero.indian.sugriva,HERO,1,v0.33 series entity.
+hero.indian.valin,HERO,1,v0.33 series entity.
+hero.indian.vibhishana,HERO,1,v0.33 series entity.
+hero.indian.vishvamitra,HERO,1,v0.33 series entity.
 hero.irish.cu_chulainn,HERO,1,
 hero.irish.fergus_mac_roich,HERO,1,
 hero.japanese.yamato_takeru,HERO,1,
@@ -455,6 +496,7 @@ hero.polynesian.maui,HERO,1,
 hero.sumerian.gilgamesh,HERO,1,v0.31 story entity.
 historical.achaemenid.darius_i,HISTORICAL_FIGURE,1,v0.12.0 Ra-Atum witness-layer checkpoint
 historical.achaemenid.xerxes_i,HISTORICAL_FIGURE,1,v0.14.0 Darius statue provenance checkpoint
+historical.chinese.tang_taizong,HISTORICAL_FIGURE,1,v0.33 series entity.
 historical.japan.ogata_korin,HISTORICAL_FIGURE,1,v0.18.0 Japanese thunder witnesses
 historical.japan.sakai_hoitsu,HISTORICAL_FIGURE,1,v0.18.0 Japanese thunder witnesses
 historical.japan.tawaraya_sotatsu,HISTORICAL_FIGURE,1,v0.10.0 Japanese thunder local-dossier checkpoint
@@ -505,10 +547,15 @@ museum.ugarit.baal_cycle_ao16643,MUSEUM_OBJECT,1,
 museum.ugarit.baal_cycle_ao16643,TABLET,0,
 museum.ugarit.baal_thunder_ao15775,MUSEUM_OBJECT,1,
 museum.ugarit.baal_thunder_ao15775,MONUMENT,0,
+person.greek.antinous,PERSON,1,v0.33 series entity.
+person.greek.eumaeus,PERSON,1,v0.33 series entity.
+person.greek.eurycleia,PERSON,1,v0.33 series entity.
 person.norse.ask,PERSON,1,v0.19.0 Norse witness graph
 person.norse.embla,PERSON,1,v0.19.0 Norse witness graph
 place.chinese.buzhou_mountain,MYTHICAL_PLACE,1,No coordinate projection.
+place.chinese.flaming_mountains_xiyouji,MYTHICAL_PLACE,1,v0.33 series entity.
 place.chinese.huaguo_shan,MYTHICAL_PLACE,1,v0.32 long-story entity.
+place.greek.ithaca_homeric,MYTHICAL_PLACE,1,v0.33 series entity.
 place.hindu.lanka,MYTHICAL_PLACE,1,v0.32 long-story entity.
 place.hindu.mandara,MYTHICAL_PLACE,1,No coordinate projection.
 place.japanese.onogoro,MYTHICAL_PLACE,1,v0.31 story entity.
@@ -784,6 +831,7 @@ weapon.chinese.ruyi_jingu_bang,WEAPON,1,
 weapon.chinese.xuanyuan_sword,WEAPON,1,
 weapon.greek.apollo_bow,WEAPON,1,
 weapon.greek.artemis_bow,WEAPON,1,
+weapon.greek.bow_of_odysseus,WEAPON,1,v0.33 series entity.
 weapon.greek.poseidon_trident,WEAPON,1,
 weapon.greek.zeus_thunderbolt,WEAPON,1,
 weapon.hindu.pashupatastra,WEAPON,1,

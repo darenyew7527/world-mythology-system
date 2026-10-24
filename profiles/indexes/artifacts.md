@@ -8,6 +8,7 @@
 | artifact.greek.aegis | 埃癸斯神盾 | Aegis | ARTIFACT | 古希腊 | PARTIAL | SOURCE_BACKED |
 | weapon.greek.apollo_bow | 阿波罗之弓 | Bow of Apollo | WEAPON | 古希腊 | PARTIAL | SOURCE_BACKED |
 | weapon.greek.artemis_bow | 阿耳忒弥斯之弓 | Bow of Artemis | WEAPON | 古希腊 | PARTIAL | SOURCE_BACKED |
+| weapon.greek.bow_of_odysseus | 奥德修斯的弓 | Bow of Odysseus | WEAPON | 古希腊 | PARTIAL | SOURCE_BACKED |
 | artifact.greek.caduceus | 赫尔墨斯杖 | Caduceus | SCEPTER | 古希腊 | PARTIAL | UNVERIFIED |
 | artifact.greek.helm_hades | 哈得斯隐身头盔 | Helm of Hades | ARMOR | 古希腊 | PARTIAL | UNVERIFIED |
 | weapon.greek.zeus_thunderbolt | 宙斯雷霆 | Thunderbolt of Zeus | WEAPON | 古希腊 | PARTIAL | UNVERIFIED |
@@ -15,8 +16,11 @@
 | weapon.babylonian.marduk_bow | 马尔杜克之弓 | Bow of Marduk | WEAPON | 巴比伦 | PARTIAL | UNVERIFIED |
 | artifact.babylonian.marduk_net | 马尔杜克之网 | Net of Marduk | ARTIFACT | 巴比伦 | PARTIAL | UNVERIFIED |
 | weapon.arthurian.excalibur | 王者之剑／誓约胜利之剑 | Excalibur | WEAPON | 凯尔特 | PARTIAL | UNVERIFIED |
+| artifact.chinese.brocade_cassock | 锦襕袈裟 | Brocade cassock | SACRED_OBJECT | 中国民间信仰 | PARTIAL | SOURCE_BACKED |
 | artifact.chinese.linglong_pagoda | 玲珑宝塔 | Golden exquisite pagoda | SACRED_OBJECT | 中国民间信仰 | PARTIAL | SOURCE_BACKED |
+| artifact.chinese.golden_fillet | 紧箍 | Golden fillet (jingu) | SACRED_OBJECT | 中国民间信仰 | PARTIAL | SOURCE_BACKED |
 | artifact.chinese.huntian_ling | 混天绫 | Huntian Ling | ARTIFACT | 中国民间信仰 | PARTIAL | UNVERIFIED |
+| artifact.chinese.bajiao_shan | 芭蕉扇 | Plantain fan | SACRED_OBJECT | 中国民间信仰 | PARTIAL | SOURCE_BACKED |
 | artifact.chinese.qiankun_quan | 乾坤圈 | Qiankun Quan | ARTIFACT | 中国民间信仰 | PARTIAL | UNVERIFIED |
 | weapon.chinese.ruyi_jingu_bang | 如意金箍棒 | Ruyi Jingu Bang | WEAPON | 中国民间信仰 | PARTIAL | UNVERIFIED |
 | weapon.chinese.qiankun_quan | 乾坤圈 | Universe Ring (Qiankun quan) | WEAPON | 中国民间信仰 | PARTIAL | SOURCE_BACKED |

@@ -8,9 +8,11 @@
 | `火` | 4 | `concept.comparative.fire,element.chinese.huo,element.indian.agni,concept.chinese.wuxing.huo` |
 | `περσης` | 3 | `deity.greek.perses,deity.greek.perses_helios,hero.greek.perses_perseus_son` |
 | `木` | 3 | `concept.comparative.wood,element.chinese.mu,concept.chinese.wuxing.mu` |
+| `agni` | 2 | `element.indian.agni,deity.hindu.agni` |
 | `cath maige tuired` | 2 | `text.irish.cath_maige_tuired,event.irish.second_battle_mag_tuired` |
 | `chaos` | 2 | `concept.comparative.chaos,deity.greek.chaos` |
 | `mꜣꜥt` | 2 | `deity.egyptian.ma_at,concept.egyptian.ma_at` |
+| `अग्नि` | 2 | `element.indian.agni,deity.hindu.agni` |
 | `乾坤圈` | 2 | `artifact.chinese.qiankun_quan,weapon.chinese.qiankun_quan` |
 | `吉尔伽美什史诗` | 2 | `text.mesopotamia.gilgamesh,event.babylonian.gilgamesh_epic` |
 | `土` | 2 | `element.chinese.tu,concept.chinese.wuxing.tu` |

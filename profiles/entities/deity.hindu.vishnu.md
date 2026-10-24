@@ -32,5 +32,7 @@
   - 来源：[Mahābhārata, Ādiparvan (critical-edition e-text)](https://gretil.sub.uni-goettingen.de/gretil/1_sanskr/2_epic/mbh/mbh_01_u.htm)；定位：Mahābhārata CE, Ādiparvan 1.15–1.17
 - `claim.v0320.ramayana_griffith.02` [VERIFIED / TEXT_SAYS / 0.90] At the gods' plea against Rāvaṇa, whose boon protected him from gods and demons but not men, Vishnu agrees to be born as the four sons of Daśaratha, who receives the divine rice-milk from his sacrificial fire.
   - 来源：[The Rámáyan of Válmíki, translated into English verse (R. T. H. Griffith, 1870–1874)](https://www.gutenberg.org/ebooks/24869)；定位：Book I (Bāla Kāṇḍa), the sacrifice for sons and the gods' plea
+- `claim.v0330.ram_bala.05` [VERIFIED / TEXT_SAYS / 0.90] During Daśaratha's sacrifice the gods complain of Rāvaṇa, whom only a man can kill; Vishnu agrees to be born as Daśaratha's four sons, and the gods beget vānaras such as Hanumān, Vālin and Sugrīva to help him.
+  - 来源：[The Rámáyan of Válmíki, translated into English verse (R. T. H. Griffith, 1870–1874)](https://www.gutenberg.org/ebooks/24869)；定位：Book I (Bāla Kāṇḍa), the horse sacrifice and the gods' petition
 
 > 本档案只代表当前阶段性基线，不是对该传统的最终或唯一解释。

@@ -27,6 +27,12 @@
 
 ## Claims 与证据
 
+- `claim.v0330.ody_homecoming.01` [VERIFIED / TEXT_SAYS / 0.90] When the Phaeacians leave the sleeping Odysseus in Ithaca, Athena reveals herself, praises his cunning, helps him hide his treasure and disguises him as an old beggar.
+  - 来源：[Homer, The Odyssey, rendered into English prose (tr. Samuel Butler, 1900)](https://www.gutenberg.org/ebooks/1727)；定位：Book XIII
+- `claim.v0330.ody_homecoming.14` [VERIFIED / TEXT_SAYS / 0.90] When the suitors' kin led by Eupeithes attack Odysseus at Laertes's farm, Athena with Zeus's sanction and thunderbolt stops the fighting and, in the guise of Mentor, establishes lasting peace in Ithaca.
+  - 来源：[Homer, The Odyssey, rendered into English prose (tr. Samuel Butler, 1900)](https://www.gutenberg.org/ebooks/1727)；定位：Book XXIV
+- `claim.v0330.ody_wanderings.01` [VERIFIED / TEXT_SAYS / 0.90] In the Odyssey's opening council, while Poseidon is away, Athena persuades Zeus to let Odysseus, held by Calypso, return home, and proposes to send Hermes to Calypso and to rouse Telemachus herself.
+  - 来源：[Homer, The Odyssey, rendered into English prose (tr. Samuel Butler, 1900)](https://www.gutenberg.org/ebooks/1727)；定位：Book I
 - `claim.v050.iliad5.athena_uses_aegis` [VERIFIED / TEXT_SAYS / 0.98] Iliad 5 depicts Athena putting on the tasselled aegis while arming for battle.
   - 来源：[Homer, Iliad](https://scaife.perseus.org/library/urn:cts:greekLit:tlg0012.tlg001/)；定位：Book 5, lines 735-745
 - `claim.v050.theogony.athena_child_zeus` [VERIFIED / TEXT_SAYS / 0.98] Theogony 924-926 describes Athena as produced from Zeus’s head.

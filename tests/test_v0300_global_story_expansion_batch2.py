@@ -55,7 +55,7 @@ class GlobalStoryExpansionBatch2Tests(unittest.TestCase):
         })
         self.assertEqual(
             dict(latest),
-            {"id": "release.v0.32.0", "schema_version": 46, "data_version": "0.32.0"},
+            {"id": "release.v0.33.0", "schema_version": 48, "data_version": "0.33.0"},
         )
         self.assertEqual(v029["schema_version"], 40)
         with self.connect() as connection:
@@ -271,7 +271,7 @@ class GlobalStoryExpansionBatch2Tests(unittest.TestCase):
         batches = self.snapshot["storyExpansionBatches"]
         self.assertEqual(
             [batch["id"] for batch in batches],
-            ["storybatch.v0320.04", "storybatch.v0310.03", "storybatch.v0300.02", "storybatch.v0280.01"],
+            ["storybatch.v0330.05", "storybatch.v0320.04", "storybatch.v0310.03", "storybatch.v0300.02", "storybatch.v0280.01"],
         )
         stories = {story["id"]: story for story in self.snapshot["stories"]}
         self.assertEqual(

@@ -84,14 +84,14 @@ class DeityStoriesTests(unittest.TestCase):
                 "SELECT status,COUNT(*) FROM story_expansion_targets WHERE batch_id='storybatch.v0310.03' GROUP BY status"
             ).fetchall())
         self.assertEqual(migrations, {43: "20261009_v0310_deity_stories", 44: "20261009_v0310_deity_stories_release"})
-        self.assertEqual(dict(latest), {"id": "release.v0.32.0", "schema_version": 46, "data_version": "0.32.0"})
+        self.assertEqual(dict(latest), {"id": "release.v0.33.0", "schema_version": 48, "data_version": "0.33.0"})
         self.assertEqual(dict(v031), {"schema_version": 44, "data_version": "0.31.0"})
         self.assertEqual(v030["schema_version"], 42)
         self.assertEqual(tuple(batch), ("CHECKPOINT_COMPLETE", "0.31.0"))
         self.assertEqual(targets, {"COMPLETED": 27, "BLOCKED_PERMISSION": 1})
         meta = self.snapshot["meta"]
-        self.assertEqual(meta["projectVersion"], "0.32.0-long-stories")
-        self.assertEqual(meta["dataVersion"], "0.32.0")
+        self.assertEqual(meta["projectVersion"], "0.33.0-series")
+        self.assertEqual(meta["dataVersion"], "0.33.0")
 
     def test_every_deity_has_a_story_card(self):
         with self.connect() as connection:
@@ -233,7 +233,7 @@ class DeityStoriesTests(unittest.TestCase):
             manifest = generate(DB, root / "offline", root / "manifest.json")
             html_text = (root / "offline" / HTML_NAME).read_text(encoding="utf-8")
             archive = json.loads((root / "offline" / JSON_NAME).read_text(encoding="utf-8"))
-        self.assertEqual(HTML_NAME, "world-mythology-v0.32-story-archive.html")
+        self.assertEqual(HTML_NAME, "world-mythology-v0.33-story-archive.html")
         self.assertEqual(manifest["counts"]["deityStoryCards"], len(self.cards))
         self.assertEqual(len(archive["deityStoryCards"]), len(self.cards))
         tyr = next(card for card in archive["deityStoryCards"] if card["entityId"] == "deity.norse.tyr")

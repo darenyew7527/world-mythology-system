@@ -6,6 +6,9 @@
 - 证据状态: `SOURCE_BACKED`
 - 阅读时间: 11 分钟
 
+> 系列连载：[西游记连载](series.md) · 第一部 · 美猴王（1/6）· ch. 1–7
+> 下一部：[西游记 · 取经缘起：从灵山到长安](story.chinese.xiyouji_origins.md)
+
 ## 阅读边界
 
 《西游记》前七回的完整讲述：花果山仙石孕出石猴，他在水帘洞称王，又为躲避死亡漂洋求道，从须菩提祖师那里学会七十二变和筋斗云；回山后到龙宫取走如意金箍棒，在地府勾掉生死簿；天庭先封他弼马温、后封齐天大圣，他却偷吃蟠桃和金丹，打退十万天兵；最后被二郎神擒住，八卦炉炼出火眼金睛，终被如来压在五行山下。
@@ -220,6 +223,8 @@ To prove his journey he made a brush from a hair, wrote 'The Great Sage Equal to
 - `PLACE` 花果山 (`place.chinese.huaguo_shan`)
 - `EVENT` 大闹天宫（《西游记》第一至七回） (`event.chinese.havoc_in_heaven`)
 - `TEXT` 西游记 (`text.chinese.xiyouji`)
+
+**继续读下一部：[西游记 · 取经缘起：从灵山到长安](story.chinese.xiyouji_origins.md)**
 
 ## 编辑说明
 

@@ -192,6 +192,28 @@ def validate_connection(conn: sqlite3.Connection) -> list[Finding]:
         for row in mixed:
             findings.append(_finding("HIGH", "MODERN_LAYER_MIX", f"Invalid adaptation layer: {row[0]}"))
 
+    # v0.33 series: parts are numbered 1..N without gaps and each part can be read.
+    if conn.execute("SELECT 1 FROM sqlite_master WHERE type='table' AND name='story_series'").fetchone():
+        series_order = conn.execute(
+            """SELECT s.id, COUNT(p.story_id), COALESCE(MIN(p.part_order),0), COALESCE(MAX(p.part_order),0)
+               FROM story_series s LEFT JOIN story_series_parts p ON p.series_id=s.id
+               GROUP BY s.id"""
+        ).fetchall()
+        for row in series_order:
+            if row[1] < 2:
+                findings.append(_finding("MEDIUM", "SERIES_TOO_SHORT", f"Series {row[0]} has {row[1]} part(s)"))
+            elif row[2] != 1 or row[3] != row[1]:
+                findings.append(_finding("HIGH", "SERIES_PART_ORDER",
+                                         f"Series {row[0]} parts are not numbered 1..{row[1]}"))
+        unreadable_parts = conn.execute(
+            """SELECT p.series_id, p.story_id FROM story_series_parts p
+               WHERE NOT EXISTS (SELECT 1 FROM story_versions v JOIN story_sections ss ON ss.story_version_id=v.id
+                                 WHERE v.story_id=p.story_id)"""
+        ).fetchall()
+        for row in unreadable_parts:
+            findings.append(_finding("HIGH", "SERIES_PART_WITHOUT_SECTIONS",
+                                     f"Series {row[0]} part {row[1]} has no readable sections"))
+
     unsourced_provisional = conn.execute(
         """SELECT COUNT(*) FROM claims c LEFT JOIN evidence e ON e.claim_id=c.id
            WHERE c.review_status IN ('UNVERIFIED','PROVISIONAL')

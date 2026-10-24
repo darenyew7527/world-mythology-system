@@ -128,11 +128,70 @@ def _generate_entity_profiles(conn, profile_root: Path) -> int:
     return count
 
 
+def _series_parts(conn) -> dict[str, dict[str, object]]:
+    """Map each series part's story id to its place in the series (v0.33)."""
+    if not conn.execute("SELECT 1 FROM sqlite_master WHERE type='table' AND name='story_series'").fetchone():
+        return {}
+    by_series: dict[str, list] = {}
+    for row in conn.execute(
+        """SELECT p.*,ss.title_zh AS series_title_zh,s.title_zh AS story_title_zh
+           FROM story_series_parts p JOIN story_series ss ON ss.id=p.series_id
+           JOIN stories s ON s.id=p.story_id
+           ORDER BY ss.featured_order,p.series_id,p.part_order"""
+    ):
+        by_series.setdefault(row["series_id"], []).append(row)
+    parts: dict[str, dict[str, object]] = {}
+    for rows in by_series.values():
+        for index, row in enumerate(rows):
+            parts[row["story_id"]] = {
+                "series_title_zh": row["series_title_zh"],
+                "part_order": row["part_order"],
+                "part_count": len(rows),
+                "part_label_zh": row["part_label_zh"],
+                "source_span": row["source_span"],
+                "gap_note": row["gap_note"],
+                "previous": (rows[index - 1]["story_id"], rows[index - 1]["story_title_zh"]) if index > 0 else None,
+                "next": (rows[index + 1]["story_id"], rows[index + 1]["story_title_zh"]) if index + 1 < len(rows) else None,
+            }
+    return parts
+
+
+def _write_series_index(conn, story_dir: Path) -> None:
+    lines = [
+        "# 系列连载 / Story series", "",
+        "> 每个系列按原著顺序把多部长篇故事连起来读；每一部都是完整的故事，带自己的来源定位。"
+        "系列只排列已有的部分，跳过的回目会写明，不补写。", "",
+    ]
+    if conn.execute("SELECT 1 FROM sqlite_master WHERE type='table' AND name='story_series'").fetchone():
+        for series in conn.execute("SELECT * FROM story_series ORDER BY featured_order,id"):
+            lines.extend([f"## {series['title_zh']} / {series['title_en']}", "", series["description_zh"], "",
+                          f"> 选录说明：{series['selection_note']}", ""])
+            for part in conn.execute(
+                """SELECT p.*,s.title_zh,s.reading_minutes,
+                          (SELECT COUNT(*) FROM story_sections ss JOIN story_versions sv ON sv.id=ss.story_version_id
+                           WHERE sv.story_id=p.story_id
+                             AND sv.id=(SELECT id FROM story_versions WHERE story_id=p.story_id
+                                        ORDER BY version_order,id LIMIT 1)) AS chapters
+                   FROM story_series_parts p JOIN stories s ON s.id=p.story_id
+                   WHERE p.series_id=? ORDER BY p.part_order""",
+                (series["id"],),
+            ):
+                lines.append(
+                    f"{part['part_order']}. [{part['title_zh']}]({part['story_id']}.md)"
+                    f" — {part['source_span']}，{part['chapters']} 章，约 {part['reading_minutes']} 分钟"
+                )
+                if part["gap_note"]:
+                    lines.append(f"   - 跳过：{part['gap_note']}")
+            lines.append("")
+    (story_dir / "series.md").write_text("\n".join(lines), encoding="utf-8")
+
+
 def _generate_story_profiles(conn, profile_root: Path) -> int:
     story_dir = profile_root / "stories"
     story_dir.mkdir(parents=True, exist_ok=True)
     index_rows: list[list[object]] = []
     count = 0
+    series_parts = _series_parts(conn)
     for story in conn.execute(
         """SELECT s.*,c.canonical_name AS civilization_en,c.name_zh AS civilization_zh
            FROM stories s LEFT JOIN civilizations c ON c.id=s.primary_civilization_id
@@ -165,8 +224,21 @@ def _generate_story_profiles(conn, profile_root: Path) -> int:
             f"- 故事类型: `{story['story_type']}`",
             f"- 证据状态: `{story['evidence_status']}`",
             f"- 阅读时间: {story['reading_minutes']} 分钟", "",
-            "## 阅读边界", "", story["summary_zh"], "", story["summary_en"], "",
         ]
+        part = series_parts.get(story["id"])
+        if part:
+            lines.extend([
+                f"> 系列连载：[{part['series_title_zh']}](series.md) · {part['part_label_zh']}"
+                f"（{part['part_order']}/{part['part_count']}）· {part['source_span']}",
+            ])
+            if part["previous"]:
+                lines.append(f"> 上一部：[{part['previous'][1]}]({part['previous'][0]}.md)")
+            if part["next"]:
+                lines.append(f"> 下一部：[{part['next'][1]}]({part['next'][0]}.md)")
+            if part["gap_note"]:
+                lines.append(f"> 跳过的回目：{part['gap_note']}")
+            lines.append("")
+        lines.extend(["## 阅读边界", "", story["summary_zh"], "", story["summary_en"], ""])
         for version in versions:
             lines.extend([
                 f"## {version['version_label_zh']} / {version['version_label_en']}", "",
@@ -297,6 +369,11 @@ def _generate_story_profiles(conn, profile_root: Path) -> int:
                 for conflict in conflicts
             )
             lines.append("")
+        if part:
+            lines.extend([
+                f"**继续读下一部：[{part['next'][1]}]({part['next'][0]}.md)**" if part["next"]
+                else f"**《{part['series_title_zh']}》到此读完。** [返回系列目录](series.md)", "",
+            ])
         lines.extend([
             "## 编辑说明", "", story["editorial_note"], "",
             "> 本故事页是可持续扩张的阶段性阅读基线；只重述已连接见证，不把现代改编或推测写成古代事实。", "",
@@ -310,6 +387,8 @@ def _generate_story_profiles(conn, profile_root: Path) -> int:
     )
     with (story_dir / "index.md").open("a", encoding="utf-8") as index_file:
         index_file.write("\n另见：[神祇故事集 — 全部神祇的故事，打开即可阅读](deities/index.md)\n")
+        index_file.write("\n另见：[系列连载 — 按原著顺序连读的多部长篇](series.md)\n")
+    _write_series_index(conn, story_dir)
     route_lines = [
         "# 主题阅读路线", "",
         "> 路线是编辑导航，不证明跨文明同源；每一步仍以指定故事版本为证据边界。", "",
@@ -337,7 +416,7 @@ def _generate_story_profiles(conn, profile_root: Path) -> int:
 
 def _coverage(conn) -> tuple[dict[str, float], str]:
     metrics: dict[str, float] = {}
-    for table in ["civilizations", "entities", "sources", "claims", "evidence", "relationships", "conflicts", "collection_queue", "stories", "story_versions", "story_sections", "story_event_nodes", "story_witness_profiles", "story_witness_comparisons", "story_witness_comparison_members", "reading_routes", "reading_route_steps", "reader_feature_registry"]:
+    for table in ["civilizations", "entities", "sources", "claims", "evidence", "relationships", "conflicts", "collection_queue", "stories", "story_versions", "story_sections", "story_event_nodes", "story_witness_profiles", "story_witness_comparisons", "story_witness_comparison_members", "reading_routes", "reading_route_steps", "reader_feature_registry", "story_series", "story_series_parts"]:
         metrics[table] = float(conn.execute(f'SELECT COUNT(*) FROM "{table}"').fetchone()[0])
     metrics["priority_civilizations"] = float(conn.execute("SELECT COUNT(*) FROM civilizations WHERE research_status='COLLECTING'").fetchone()[0])
     metrics["redirected_duplicate_entities"] = float(conn.execute("SELECT COUNT(*) FROM entity_redirects").fetchone()[0])
