@@ -152,6 +152,132 @@
 
 ---
 
+## 伊里斯 · Iris
+
+**有完整故事 / Full story**
+
+完整故事档案：[story.greek.hymn_apollo](../story.greek.hymn_apollo.md)
+
+> *Swift messenger goddess; in the Hymn to Apollo the goddesses on Delos send her to fetch Eileithyia with the promise of a great golden necklace (Homeric Hymn 3).*
+
+**长篇故事 · 14 章**
+
+目录：01 众神起身 · 02 无处安身 · 03 得洛斯的誓言 · 04 被拦住的生育女神 · 05 棕榈树下 · 06 弓与竖琴 · 07 得洛斯的节日 · 08 奥林波斯的舞蹈 · 09 泰尔福萨的诡计 · 10 神庙的地基与泉边的母龙 · 11 赫拉独自生下的孩子 · 12 皮托这个名字 · 13 海豚 · 14 德尔斐的祭司
+
+### 1. 众神起身 / The gods rise
+
+诗人一开头就说，他要歌颂远射之神阿波罗，因为当阿波罗走进宙斯的宫殿时，众神都在他面前发抖，纷纷从座位上站起来，只有母亲勒托还安坐在宙斯身边。勒托解开阿波罗的弓弦，合上他的箭袋，亲手从他肩上取下弓，挂在父亲宫殿的金钉上，然后领他入座。宙斯用金杯斟满琼浆，欢迎自己的儿子，其余的神也都坐了下来。勒托心中欢喜，因为她生下了一个手持弓箭的强大儿子。诗人于是向她致意：有福的勒托啊，你生下了光荣的孩子——阿波罗王和喜爱箭矢的阿耳忒弥斯，她生在俄耳堤癸亚，他生在多石的得洛斯，靠在钦托斯山的长坡上，挨着伊诺波斯河边的棕榈树。接着诗人问自己：既然人人都歌颂你，我该从哪里唱起呢？他决定从头唱起，唱勒托怎样寻找一个能让孩子出生的地方。
+
+*The poet begins by saying he will sing of Apollo who shoots from afar, before whom the gods tremble when he enters the house of Zeus: they all rise from their seats, and only Leto his mother stays seated beside Zeus. Leto unstrings his bow and closes his quiver, takes the bow from his shoulders with her own hands, hangs it on a golden peg in his father's house and leads him to his seat. Zeus welcomes his son with nectar in a golden cup, and the other gods sit down. Leto rejoices because she has borne a mighty son who carries the bow. The poet greets her: blessed Leto, you bore glorious children, lord Apollo and Artemis who delights in arrows — her in Ortygia and him in rocky Delos, leaning against the long slope of Cynthus beside a palm tree by the streams of Inopus. Then he asks himself how he should sing of the god whom all men praise, and chooses to begin at the beginning, with Leto's search for a place where her child could be born.*
+
+<sub>来源 / Source：Hesiod, the Homeric Hymns, and Homerica, tr. Hugh G. Evelyn-White (1914) · Hymn 3, lines 1–546 (sequential retelling) · 《荷马颂歌·致阿波罗》第1–18行。</sub>
+
+### 2. 无处安身 / No place to rest
+
+勒托怀着远射之神，走遍了希腊的土地和岛屿，想找一个肯让她生产的地方。诗中列出了一长串地名：克里特、雅典城、埃癸那岛、以长船闻名的优卑亚、埃盖、厄瑞西埃、海边的珀帕瑞托斯、色雷斯的阿托斯山、珀利翁山的高峰、色雷斯的萨摩色雷斯、伊达山的山峦、斯库罗斯、福开亚、因布罗斯、莱姆诺斯、富饶的莱斯沃斯、最肥沃的希俄斯、多岩的弥玛斯、科律科斯的山顶、克拉洛斯、埃塞吉昂的高山、萨摩斯的泉水、米卡勒的陡峭山峰、米利都、科斯岛、克尼多斯、卡帕托斯、纳克索斯、帕罗斯和岩石嶙峋的瑞纳亚。可是这些地方都吓得发抖，没有一处胆敢接纳福玻斯，不管它们多么肥沃。人们都听说，这个将要出生的神会有极大的威力，谁也不愿意让他生在自己的土地上，怕他将来嫌弃自己。勒托就这样一处一处地走，直到最后来到了得洛斯。
+
+*Carrying the far-shooting god, Leto went through the lands and islands of Greece looking for a place that would let her give birth. The poem names a long list: Crete, the city of Athens, the isle of Aegina, Euboea famed for ships, Aegae, Eiresiae, Peparethus by the sea, Thracian Athos, the high peaks of Pelion, Samothrace, the ridges of Ida, Scyros, Phocaea, Imbros, Lemnos, rich Lesbos, fertile Chios, rugged Mimas, the heights of Corycus, Claros, the steep hill of Aesagea, watered Samos, the peaks of Mycale, Miletus, Cos, Cnidos, Carpathus, Naxos, Paros and rocky Rhenaea. Yet all of them trembled and feared, and none dared receive Phoebus, however fertile it was. People had heard that the god about to be born would have great power, and no land wanted him to be born on its soil, afraid that he would one day scorn it. So Leto went from place to place, until at last she came to Delos.*
+
+<sub>来源 / Source：Hesiod, the Homeric Hymns, and Homerica, tr. Hugh G. Evelyn-White (1914) · Hymn 3, lines 1–546 (sequential retelling) · 《荷马颂歌·致阿波罗》第19–50行。</sub>
+
+### 3. 得洛斯的誓言 / The oath on Delos
+
+勒托来到得洛斯，对这座小岛说：得洛斯啊，你愿意做我儿子福玻斯·阿波罗的家，在你这里为他建一座丰盛的神庙吗？没有别的地方愿意碰你，你也不会有好牛好羊，不会长出葡萄和庄稼。可如果你有了远射之神阿波罗的神庙，所有的人都会带着百牛大祭来到这里，祭品的香气会永远从你身上升起。得洛斯听了很高兴，却又说出了自己的担心：人们说阿波罗将是一个暴烈的神，在神和人中间都有大权。我很怕他一出生看见这片光秃秃的岩石，就看不起我，一脚把我踢进海底，让章鱼和海豹在我身上安家。女神啊，除非你肯发下大誓，说他会先在这里建起他的神庙，否则我不敢答应。勒托便以大地、上面的天空和流下来的斯梯克斯河水起誓——这是众神最庄严的誓言——说福玻斯的祭坛和圣域将永远在这里，他会尊崇得洛斯胜过一切地方。
+
+*Leto came to Delos and said to the island: 'Delos, would you be the home of my son Phoebus Apollo and let him build a rich temple on you? No other land will touch you, and you will never be rich in cattle or sheep, nor bear vintage or crops. But if you have the temple of far-shooting Apollo, all men will bring you hecatombs, and the savour of sacrifice will rise from you for ever.' Delos was glad, yet spoke her fear: 'They say Apollo will be a violent god, with great power among gods and men. I fear that when he first sees the light he will scorn this bare rock, overturn me with his feet and sink me in the sea, where octopuses and seals will make their homes on me. Unless, goddess, you swear a great oath that he will build his temple here first, I dare not.' Leto swore by Earth, by the broad heaven above and by the falling water of Styx — the greatest and most awful oath of the gods — that Phoebus's altar and precinct would always be there and that he would honour Delos above all places.*
+
+<sub>来源 / Source：Hesiod, the Homeric Hymns, and Homerica, tr. Hugh G. Evelyn-White (1914) · Hymn 3, lines 1–546 (sequential retelling) · 《荷马颂歌·致阿波罗》第51–88行。</sub>
+
+### 4. 被拦住的生育女神 / The birth goddess kept away
+
+勒托在得洛斯开始了阵痛，一连九天九夜，痛苦难当。最尊贵的女神们都来到她的身边：狄俄涅、瑞亚、伊克奈亚的忒弥斯、呻吟着的海后安菲特里忒，还有许多别的女神。只有白臂的赫拉没有来，她坐在宙斯的宫殿里；生育女神厄勒梯亚也没有来，因为她根本不知道这件事——赫拉嫉妒勒托将要生下一个强大而无可指摘的儿子，就故意把厄勒梯亚留在奥林波斯山顶的金云底下。众女神看着勒托受苦，便派伊里斯去请厄勒梯亚，答应送给她一条九肘长的大项链，用金线穿成。她们嘱咐伊里斯，要避开赫拉，悄悄地对厄勒梯亚说话，免得赫拉用话把她拦下。脚步如风的伊里斯立刻出发，飞快地穿过天与地之间，来到众神居住的奥林波斯山，把厄勒梯亚叫出大殿，一字不差地转达了众女神的话，说动了她的心。两位女神像两只受惊的鸽子一样，迈着轻快的脚步回到了得洛斯。
+
+*On Delos Leto was racked with labour for nine days and nine nights. The noblest goddesses were with her: Dione, Rhea, Ichnaean Themis, loud-moaning Amphitrite and many others. Only white-armed Hera stayed away, sitting in the house of Zeus; and Eileithyia, goddess of birth, did not come, for she had not heard. Hera, jealous that Leto was to bear a strong and blameless son, kept her on the peak of Olympus beneath golden clouds. The goddesses, seeing Leto suffer, sent Iris to bring Eileithyia, promising her a great necklace nine cubits long, strung with golden threads. They told Iris to call her aside, away from Hera, lest Hera's words turn her back. Swift Iris sped through the space between heaven and earth to Olympus, called Eileithyia out of the hall, gave her the goddesses' message word for word and won her over. The two goddesses went back to Delos, stepping lightly like timid wild doves.*
+
+<sub>来源 / Source：Hesiod, the Homeric Hymns, and Homerica, tr. Hugh G. Evelyn-White (1914) · Hymn 3, lines 1–546 (sequential retelling) · 《荷马颂歌·致阿波罗》第89–114行。</sub>
+
+### 5. 棕榈树下 / Under the palm tree
+
+厄勒梯亚一踏上得洛斯，阵痛就攫住了勒托，她就要生了。她双臂抱住一棵棕榈树，跪在柔软的草地上，身下的大地都露出了笑容。孩子跃了出来，来到了光明之中，在场的女神们一齐高声欢呼。她们用清水把这个婴儿洗得干干净净，用一块崭新的白色细布把他包起来，又在他身上系了一条金带子。勒托没有亲自给阿波罗喂奶，而是由忒弥斯用她不朽的双手把琼浆和美味的神食送进他的嘴里。勒托非常高兴，因为她生下了一个强大的、手持弓箭的儿子。颂歌开头说勒托在宙斯身边为儿子骄傲，到这里才讲清楚那份骄傲是怎样来的：一位四处被拒绝、阵痛了九天的母亲，终于在一块贫瘠的岩石上，抱着一棵棕榈树，生下了光明之神。后来的得洛斯人一直把岛上的一棵棕榈树看作阿波罗出生的见证。
+
+*As soon as Eileithyia set foot on Delos, the pains took hold of Leto and she was ready to give birth. She threw her arms around a palm tree and knelt on the soft meadow, and the earth beneath her smiled. The child leapt forth to the light, and all the goddesses cried aloud. They washed the infant purely and cleanly in clear water, wrapped him in a fine new white garment and fastened a golden band about him. Leto did not nurse Apollo herself; Themis with her immortal hands gave him nectar and delicious ambrosia. And Leto rejoiced because she had borne a strong son who carries the bow. The hymn opened with Leto's pride beside Zeus; only here does it show where that pride came from — a mother turned away everywhere, in labour for nine days, who at last on a barren rock, clasping a palm tree, bore the god of light. The Delians long pointed to a palm on the island as a witness of his birth.*
+
+<sub>来源 / Source：Hesiod, the Homeric Hymns, and Homerica, tr. Hugh G. Evelyn-White (1914) · Hymn 3, lines 1–546 (sequential retelling) · 《荷马颂歌·致阿波罗》第115–126行。</sub>
+
+### 6. 弓与竖琴 / The bow and the lyre
+
+福玻斯一尝到神食，金色的襁褓就再也包不住他了，身上的带子也束不住他，所有的布条都松开了。他立刻对不朽的女神们说：让我拥有心爱的竖琴和弯弓吧，我还要向人们宣告宙斯不会改变的旨意。说着，长发的远射之神阿波罗就迈开大步，走在宽阔的大地上，女神们都惊奇不已。这时整个得洛斯都披上了黄金，就像一座山顶开满了林间的花朵，因为她看到了宙斯和勒托的儿子，欢喜他选中了自己作为家园，胜过所有的海岛和陆地，并且从心底里爱她。诗人接着赞美阿波罗：你有时登上钦托斯山的岩石，有时在海岛和人群中漫游；你有许多神庙和林木茂盛的圣林，所有的山巅和高峰、流入大海的河流都是你所喜爱的。可是福玻斯啊，你心里最喜欢的还是得洛斯。
+
+*As soon as Phoebus had tasted ambrosia, the golden swaddling bands could no longer hold him, nor could the cords restrain him; all the bands fell loose. At once he said to the deathless goddesses: 'The lyre and the curved bow shall be dear to me, and I will declare to men the unfailing will of Zeus.' With that the long-haired far-shooter strode out over the wide earth, and all the goddesses marvelled. Then all Delos was laden with gold, like a hilltop heavy with woodland flowers, as she looked on the son of Zeus and Leto, glad that he had chosen her for his home above all islands and mainland, and loved her in his heart. The poet then praises the god: sometimes you climb rocky Cynthus, sometimes you wander among islands and men; you have many temples and wooded groves, and all the peaks and headlands and rivers flowing to the sea are dear to you. Yet, Phoebus, it is in Delos that your heart delights most.*
+
+<sub>来源 / Source：Hesiod, the Homeric Hymns, and Homerica, tr. Hugh G. Evelyn-White (1914) · Hymn 3, lines 1–546 (sequential retelling) · 《荷马颂歌·致阿波罗》第127–139行。</sub>
+
+### 7. 得洛斯的节日 / The festival on Delos
+
+诗人描写了得洛斯的盛会：穿着长袍的伊奥尼亚人带着妻儿聚集到岛上来纪念阿波罗，用拳击、舞蹈和歌唱来取悦他。如果有人在他们聚会的时候来到这里，会以为他们是长生不老的神，因为他们个个风度翩翩，男人和束着漂亮腰带的女人们，还有他们的快船和丰富的财物，都叫人看了心里欢喜。还有一件奇事，它的荣耀永远不会消失：那就是得洛斯的少女们，远射之神的侍女。她们先歌颂阿波罗，再歌颂勒托和阿耳忒弥斯，然后唱起古代男女的故事，让听众着迷。她们会模仿各种人的口音和咿呀之声，每个人听了都以为是自己在说话。最后，诗人请求少女们记住他：如果有远方的旅人问起，哪一位歌手唱得最甜美，就请回答：是一位住在多岩的希俄斯的盲人，他的歌永远最好。他答应要把她们的名声带到他所到的每一座城市。
+
+*The poet describes the gathering on Delos: the long-robed Ionians come together with their children and wives to honour Apollo, delighting him with boxing, dancing and song. Anyone arriving while they are gathered would think them deathless and ageless, so graceful are they all — the men and the fair-girdled women, their swift ships and their great wealth. There is a further wonder whose fame will never perish: the maidens of Delos, handmaids of the far-shooter. They praise Apollo first, then Leto and Artemis, and then sing of men and women of old, enchanting all who listen. They can imitate the voices and chattering of all people, so that each would say he himself was speaking. At the end the poet asks the maidens to remember him: if a stranger ever asks who is the sweetest singer, let them answer that it is a blind man who lives in rocky Chios, whose songs are the best for ever. He in turn promises to carry their fame to every city he visits.*
+
+<sub>来源 / Source：Hesiod, the Homeric Hymns, and Homerica, tr. Hugh G. Evelyn-White (1914) · Hymn 3, lines 1–546 (sequential retelling) · 《荷马颂歌·致阿波罗》第140–178行。</sub>
+
+### 8. 奥林波斯的舞蹈 / The dance on Olympus
+
+颂歌的第二部分换了一个场景。勒托光荣的儿子弹着空心的竖琴，穿着神圣的芬芳长袍，前往多岩的皮托；他的金拨子一碰琴弦，就发出迷人的声音。他像思想一样迅速，从大地升上奥林波斯，来到宙斯的宫殿，加入众神的聚会。不朽的神们立刻想起了竖琴和歌唱：缪斯们用美妙的声音一齐歌唱众神不朽的礼物，也歌唱人类的苦难——他们在不死的神手下，愚昧而无助地活着，找不到医治死亡的药，也挡不住衰老。秀发的美惠女神、欢乐的时序女神、哈耳摩尼亚、赫柏和宙斯的女儿阿佛洛狄忒手拉着手跳舞；在她们中间唱歌的，是一位既不丑陋也不矮小、身材高大美丽的女神——喜爱箭矢的阿耳忒弥斯，阿波罗的孪生姐妹。阿瑞斯和眼光锐利的赫尔墨斯也在她们中间嬉戏。福玻斯·阿波罗高高地迈步，弹着竖琴，周身闪着光芒。金发的勒托和智慧的宙斯看着他们的儿子在众神中间嬉戏，心里充满了喜悦。
+
+*The second part of the hymn changes scene. Leto's glorious son goes to rocky Pytho playing his hollow lyre, clad in divine, perfumed garments, and at the touch of his golden plectrum the lyre sings sweetly. Swift as thought he rises from earth to Olympus, to the house of Zeus, to join the gathering of the gods. At once the deathless ones think of the lyre and song: the Muses together sing of the gods' undying gifts and of the hardships of men, who live witless and helpless under the deathless gods, unable to find a cure for death or a defence against old age. The rich-haired Graces, the cheerful Hours, Harmonia, Hebe and Aphrodite daughter of Zeus dance holding hands; and among them sings one neither mean nor small but tall and lovely to look on — Artemis who delights in arrows, Apollo's twin. Ares and keen-eyed Hermes play among them too. Phoebus Apollo strides high, playing his lyre, with radiance shining round him, and golden-haired Leto and wise Zeus rejoice to see their son at play among the deathless gods.*
+
+<sub>来源 / Source：Hesiod, the Homeric Hymns, and Homerica, tr. Hugh G. Evelyn-White (1914) · Hymn 3, lines 1–546 (sequential retelling) · 《荷马颂歌·致阿波罗》第179–206行。</sub>
+
+### 9. 泰尔福萨的诡计 / Telphusa's trick
+
+诗人又问：我该怎样歌颂你呢？他选择歌唱阿波罗怎样寻找一个地方，为人们建立神谕所。远射之神从奥林波斯下来，先到了庇厄里亚，走过沙地的莱克托斯、埃尼厄涅斯和珀尔海比亚，又到了伊俄尔科斯，踏上了以船闻名的优卑亚的凯奈昂。他站在勒兰托斯平原上，却不喜欢在那里建庙。他渡过海峡，走过青翠的米卡勒索斯和忒乌墨索斯，来到忒拜城的所在——那时那里还没有人居住，到处是森林。他又经过翁凯斯托斯波塞冬的圣林，渡过刻菲索斯河，来到泰尔福萨泉边一片安静的地方。他喜欢这里，便对泉水女神说：泰尔福萨，我想在这里建一座美丽的神庙，作为人们的神谕所。可泰尔福萨看见他就生了气，不愿让他夺走自己的荣耀，便劝他说：这里总有快马的蹄声和骡子到我的泉边饮水，人们会更喜欢看车马而不是你的神庙。不如去帕尔纳索斯山下的克里萨吧，那里没有车马的喧闹。阿波罗听信了她的话。
+
+*Again the poet asks how he should sing of the god, and chooses to tell how Apollo sought a place to found an oracle for men. Coming down from Olympus, the far-shooter went first to Pieria, passed sandy Lectus, the Enienae and the Perrhaebi, came to Iolcus and set foot on Cenaeum in Euboea, famed for ships. He stood in the Lelantine plain but did not wish to build there. Crossing the strait, he went over green Mycalessus and Teumessus and came to the site of Thebes — then still uninhabited and covered with forest. He passed Poseidon's grove at Onchestus, crossed the Cephisus and came to a quiet place by the spring of Telphusa. He liked it and said to the spring nymph: 'Telphusa, here I mean to build a glorious temple, an oracle for men.' But Telphusa was angry at heart, unwilling to lose her own glory, and said: 'The trampling of swift horses and of mules watering at my springs will always trouble you here; men will prefer to gaze at chariots rather than at your temple. Go rather to Crisa below Parnassus, where there is no din of chariots.' And Apollo believed her.*
+
+<sub>来源 / Source：Hesiod, the Homeric Hymns, and Homerica, tr. Hugh G. Evelyn-White (1914) · Hymn 3, lines 1–546 (sequential retelling) · 《荷马颂歌·致阿波罗》第207–276行。</sub>
+
+### 10. 神庙的地基与泉边的母龙 / The foundations and the dragon at the spring
+
+阿波罗来到佛勒古埃斯人的城市，又走上帕尔纳索斯山下积雪的山坡，来到克里萨。那是一处朝西的山肩，头顶悬着巨大的岩石，下面是一道荒凉崎岖的山谷。福玻斯·阿波罗决定在这里建造他美丽的神庙，说：我要在这里为人们建一座神谕所，住在富饶的伯罗奔尼撒、欧洲和四面环海的岛屿上的人都会来这里，带来完美的百牛大祭，向我求问，我会在这座丰盛的神庙里给他们不会错的指引。他亲手奠下了又宽又长的地基，厄尔吉诺斯的两个儿子特洛福尼俄斯和阿伽墨得斯在上面铺设了石头门槛，无数的人们用凿好的石块围着它建起了神庙，让它永远为人们所歌唱。可是附近有一眼清澈的泉水，泉边住着一条巨大而凶猛的母龙，这个怪物给当地的人们带来了许多灾难，害死了无数的人和他们细腿的羊群，因为她是一个嗜血的祸害。诗人说，正是这条母龙，曾经从金座的赫拉手里接过可怕的提丰，把他抚养长大。
+
+*Apollo came to the city of the Phlegyae and up the snowy slopes below Parnassus to Crisa, a shoulder of the hill turned westward, with a great cliff hanging over it and a hollow, rugged glen below. There Phoebus Apollo resolved to build his lovely temple and said: 'Here I mean to build a glorious temple, an oracle for men, and all who dwell in the rich Peloponnese, in Europe and in the sea-girt islands will bring me perfect hecatombs and consult me, and I will give them unerring counsel in my rich temple.' He laid out the foundations, broad and very long, and on them Trophonius and Agamedes, sons of Erginus, laid a threshold of stone, while countless tribes of men built the temple around it with wrought stones, to be sung of for ever. But near by was a sweet-flowing spring, and there lived a great, fierce she-dragon, a fell plague that did much harm to the people of the land and their thin-shanked sheep, for she was a bloodthirsty bane. It was she, the poet says, who once received fearful Typhaon from gold-throned Hera and reared him.*
+
+<sub>来源 / Source：Hesiod, the Homeric Hymns, and Homerica, tr. Hugh G. Evelyn-White (1914) · Hymn 3, lines 1–546 (sequential retelling) · 《荷马颂歌·致阿波罗》第277–304行。</sub>
+
+### 11. 赫拉独自生下的孩子 / The child Hera bore alone
+
+诗人在这里插进了一段旧事。从前，宙斯从自己的头里生出了眼睛明亮的雅典娜，赫拉大为愤怒，在众神的集会上说：你们听着，宙斯先娶了我做他忠实的妻子，现在却撇开我，独自生下了眼睛明亮的雅典娜，她在众神中出类拔萃；而我生的儿子赫菲斯托斯却瘸着腿，我自己一生下他就把他扔进了大海。现在我也要想办法生一个孩子，不玷污我和你的婚床，却能在众神中出类拔萃。说完，她就远离众神，用手掌拍打大地，向大地、天空和住在塔耳塔罗斯底下的提坦们祈祷，请他们赐给她一个不靠宙斯、力量却不比宙斯差的孩子。大地被她触动，赫拉心中欢喜，以为祈祷会应验。从那时起整整一年，她都不再走近宙斯的床榻，也不再坐到他的宝座边出主意，只待在自己的神庙里，享用人们的祭品。时候到了，她生下了一个既不像神也不像人的孩子——可怕而残暴的提丰，人类的祸害。赫拉把他交给那条母龙抚养，让恶与恶在一起。
+
+*Here the poet tells an older story. Once, when Zeus bore bright-eyed Athena from his own head, Hera was furious and said in the assembly of the gods: 'Hear me: Zeus made me his true wife, and now without me he has borne bright-eyed Athena, who excels among the gods; while my own son Hephaestus was born lame, and I myself cast him into the sea. Now I too will contrive to bear a child, without shaming his bed or mine, who will excel among the gods.' She went apart from the gods, struck the ground with her flat hand and prayed to Earth, to Heaven and to the Titans who dwell beneath the earth around Tartarus to give her a child without Zeus, no weaker than he. Earth was stirred, and Hera rejoiced, thinking her prayer would be fulfilled. For a full year she did not come to Zeus's bed nor sit by his throne to advise him, but stayed in her temples, delighting in offerings. When the time came she bore a child like neither gods nor men — fearful, cruel Typhaon, a bane to mortals — and gave him to the she-dragon to rear, evil to evil.*
+
+<sub>来源 / Source：Hesiod, the Homeric Hymns, and Homerica, tr. Hugh G. Evelyn-White (1914) · Hymn 3, lines 1–546 (sequential retelling) · 《荷马颂歌·致阿波罗》第305–355行。</sub>
+
+### 12. 皮托这个名字 / How Pytho got its name
+
+凡是遇上这条母龙的人，末日都会到来，直到远射之神阿波罗向她射出一支强劲的箭。她被箭射中，痛苦地躺在地上，大口喘气，在地上翻滚，发出可怕的嘶叫，在林中扭来扭去，最后吐出了带血的气息。福玻斯·阿波罗站在她旁边夸耀说：现在你就在这养育众生的大地上腐烂吧，你再也不能害死吃大地果实的人类了，他们会到这里来献上完美的百牛大祭。提丰和名声不好的喀迈拉都救不了你，黑色的大地和闪光的太阳神会让你在这里烂掉。神圣的太阳光果然让她烂掉了，所以这个地方叫做皮托，人们称这位神为“皮托的”阿波罗，因为那条怪物在那里被烈日烤得腐烂了。这时阿波罗才明白泉水女神骗了他，便怒气冲冲地回到泰尔福萨，说：你骗了我，把这块可爱的地方留给自己。你的荣耀将归于我。他推倒一大块岩石，堵住了她的泉水，在附近的林子里为自己建了一座祭坛，从此人们称他为泰尔福萨的阿波罗。
+
+*Whoever met the she-dragon, the day of doom swept him away, until far-shooting Apollo let fly a strong arrow at her. Struck, she lay rent with bitter pangs, gasping for breath and rolling on the ground; a dreadful noise rose as she writhed this way and that through the wood, and she breathed out her life in blood. Then Phoebus Apollo boasted over her: 'Now rot here on the earth that feeds men; you will no longer be a fell bane to men who eat the fruit of the earth and will bring perfect hecatombs here. Neither Typhoeus nor ill-famed Chimaera will save you; the black earth and shining Hyperion will make you rot here.' And the holy might of the sun made her rot away, so the place is called Pytho, and men call the god Pythian, because the monster rotted there under the sun. Then Apollo knew that the spring had deceived him, and in anger went to Telphusa: 'You tricked me to keep this lovely place for yourself; your glory shall be mine.' He pushed a crag over her streams, built himself an altar in a grove near by, and there men call him Telphusian.*
+
+<sub>来源 / Source：Hesiod, the Homeric Hymns, and Homerica, tr. Hugh G. Evelyn-White (1914) · Hymn 3, lines 1–546 (sequential retelling) · 《荷马颂歌·致阿波罗》第356–387行。</sub>
+
+### 13. 海豚 / The dolphin
+
+神庙建好了，福玻斯·阿波罗开始考虑，该找什么样的人来在多岩的皮托做他的祭司，为他主持祭祀。他正这样想着，看见暗紫色的海面上有一条快船，船上是许多高贵的人，从米诺斯的城市克诺索斯来的克里特人。他们驾船往沙地的皮洛斯去，为了做生意。福玻斯·阿波罗化作一条海豚，跳上他们的快船，像一只巨大而可怕的怪物躺在甲板上。船上的人谁也没有认出他来，想把他扔下海去，可他一抖动，船上的木板就全都晃动起来。他们吓得坐在船舱里一声不出，不敢解开缆绳，也不敢放下黑船的帆，只能让船按原来的方向航行，因为强劲的南风从后面推着他们的船。船就这样自己航行着，经过了马勒亚角，经过拉科尼亚的海岸、太阳神的城市、皮洛斯，绕过伯罗奔尼撒，一路驶进克里萨宽阔的海湾。他们想在皮洛斯靠岸，船却不听舵，像被神引着一样，一直把他们带到了葡萄园遍布的克里萨的港口。
+
+*When the temple was built, Phoebus Apollo pondered what men he should bring to be his ministers in rocky Pytho. As he considered, he saw a swift ship on the wine-dark sea, and in it many good men, Cretans from Minos's city of Cnossos, sailing for sandy Pylos to trade. Phoebus Apollo leapt aboard their swift ship in the shape of a dolphin and lay there, a great and awesome monster. None of them recognised him; they wanted to throw the dolphin overboard, but he kept shaking the ship's timbers. Terrified, they sat silent in the ship, not loosing the sheets nor lowering the sail of their dark-prowed ship, but sailing on as they had set out, with a strong south wind driving them from behind. So the ship ran on by itself past Malea, along the Laconian coast, past the town of the sun-god and Pylos, around the Peloponnese and into the broad gulf of Crisa. They wished to land at Pylos, but the ship would not obey the steering-oar; as though guided by the god, it carried them on to the harbour of Crisa, rich in vines.*
+
+<sub>来源 / Source：Hesiod, the Homeric Hymns, and Homerica, tr. Hugh G. Evelyn-White (1914) · Hymn 3, lines 1–546 (sequential retelling) · 《荷马颂歌·致阿波罗》第388–439行。</sub>
+
+### 14. 德尔斐的祭司 / The priests of Delphi
+
+船靠了岸，远射之神阿波罗像一颗正午的星星一样从船上跃出，火花四溅，光芒直冲天际。他走进自己的神庙，在宝贵的三足鼎之间点燃了火焰，火光照亮了整个克里萨，克里萨的妇女们都在神的光芒中大声惊呼。然后他又像思想一样迅速地回到船边，化作一个强壮的青年，长发披在宽阔的肩上，问克里特人是谁，从哪里来。克里特人的首领告诉他，他们本想去皮洛斯，却被一位神违背他们的意愿带到了这里。阿波罗说：你们再也回不到可爱的故乡了，你们将在这里守护我的富饶神庙，受到所有人的尊敬。我就是宙斯的儿子阿波罗。因为我曾化作海豚跳上你们的船，你们就向我祈祷，称我为“海豚的阿波罗”，祭坛也叫这个名字。他领着他们唱着“伊厄·派安”走上皮托。克里特人问他，在这片既没有葡萄园也没有牧场的地方，他们靠什么生活。阿波罗笑着说：你们每人右手拿一把刀，不停地宰杀羊群，人们带来的祭品就足够你们享用。只是要守规矩，如果你们说出狂妄的话、做出傲慢的事，别人就会来做你们的主人，你们将永远受人支配。
+
+*When the ship came to shore, far-shooting Apollo leapt from it like a star at midday, sparks flying from him and the brightness reaching to heaven. He entered his shrine and kindled a flame among his precious tripods, and its blaze lit all Crisa, so that the wives of Crisa cried aloud at the rushing light of Phoebus. Then, swift as thought, he sprang back to the ship in the form of a strong young man, his long hair over his broad shoulders, and asked the Cretans who they were and whence they came. Their leader said they had meant to sail to Pylos but a god had brought them here against their will. Apollo answered: 'You will never return to your homes; you shall keep my rich temple here and be honoured by all men. I am Apollo, son of Zeus. Because I first leapt on your ship as a dolphin, pray to me as Delphinius, and the altar too shall bear that name.' He led them up to Pytho singing Ie Paean. When the Cretans asked how they should live in a place with neither vineyards nor pastures, Apollo smiled: 'Each of you, knife in hand, will slaughter sheep continually; the offerings men bring will be abundant. Only keep my rule: if any of you speaks a vain word or does an insolent deed, other men will be your masters, and you will be subject for ever.'*
+
+<sub>来源 / Source：Hesiod, the Homeric Hymns, and Homerica, tr. Hugh G. Evelyn-White (1914) · Hymn 3, lines 1–546 (sequential retelling) · 《荷马颂歌·致阿波罗》第440–546行。</sub>
+
+---
+
 ## 倪克斯 · Nyx
 
 **有完整故事 / Full story**
@@ -168,35 +294,137 @@
 
 ## 克利俄斯 · Crius
 
-**证据卡 / Evidence card**
+**有完整故事 / Full story**
+
+完整故事档案：[story.greek.titans_children](../story.greek.titans_children.md)
 
 > 赫西俄德与《书库》谱系中的提坦神，与欧律比亚生下阿斯特赖俄斯、帕拉斯和提坦珀耳塞斯。
 
 > *Titan in Hesiodic and Library genealogies, parent with Eurybia of Astraeus, Pallas and the Titan Perses.*
 
-### 1. 记载 / Record
+**长篇故事 · 15 章**
 
-克利俄斯是阿斯特赖俄斯的父母。
+目录：01 混沌之子 · 02 埃忒耳与赫墨拉 · 03 十二位提坦 · 04 夜的子女 · 05 海的女儿 · 06 太阳、月亮与黎明 · 07 克利俄斯的儿子们 · 08 风与星辰 · 09 斯梯克斯的孩子 · 10 众神的誓言 · 11 福柏的女儿们 · 12 赫卡忒的荣耀 · 13 夜与昼的门槛 · 14 睡与死的住所 · 15 厄俄斯的儿子们
 
-*Theogony 375-377 names Astraeus among the children of Crius and Eurybia.*
+### 1. 混沌之子 / The children of Chaos
 
-<sub>来源 / Source：Hesiod, Theogony · Theogony 375-377</sub>
+赫西俄德说，最先出现的是混沌卡俄斯，接着是宽胸的大地盖亚，她是住在积雪的奥林波斯山顶上的众神永远稳固的根基；然后是道路宽阔的大地深处幽暗的塔耳塔罗斯；还有爱神厄洛斯，不死的神中最美的一位，他能松弛四肢，征服所有神和人的心智与谋划。在这一切的开端，诗人接着写道：从混沌之中生出了厄瑞玻斯和黑色的夜。厄瑞玻斯是幽暗本身，是大地之下、冥界之上那片无光的黑暗；夜则是覆盖天地的黑色女神。他们不是由谁结合所生，而是直接从混沌里出现的。在《神谱》的世界里，这一对幽暗的兄妹比天空、群山和大海都更早，比所有提坦和奥林波斯众神都更古老。后来诗中说起冥界的入口和亡魂的道路时，常常提到厄瑞玻斯这个名字，把它当作通向冥府的黑暗地带。他是众神谱系中最早的名字之一，却几乎没有自己的故事；他存在的方式，就是作为光明出现之前的那一片黑暗。
 
-### 2. 记载 / Record
+*Hesiod says that first of all Chaos came to be, and next wide-bosomed Earth, the ever-sure foundation of all the deathless ones who hold the peaks of snowy Olympus; and dim Tartarus in the depth of the wide-pathed Earth; and Eros, fairest among the deathless gods, who unnerves the limbs and overcomes the mind and wise counsels of all gods and men. Then the poet goes on: from Chaos came forth Erebus and black Night. Erebus is darkness itself, the lightless dark beneath the earth and above the underworld; Night is the black goddess who covers heaven and earth. They are not born of any union but come straight out of Chaos. In the world of the Theogony this dark pair is older than heaven, mountains and sea, older than all the Titans and the Olympians. Later Greek poetry often uses the name Erebus for the dark region the dead pass through to Hades. He is one of the first names in the genealogy of the gods, yet he has almost no story of his own; he exists as the darkness before light appeared.*
 
-克利俄斯是帕拉斯（提坦）的父母。
+<sub>来源 / Source：Hesiod, Theogony, Evelyn-White English text · Theogony 116–138, 211–239, 371–452, 744–766, 984–991 (sequential retelling) · 赫西俄德《神谱》第116–123行。</sub>
 
-*Theogony 375-377 names Pallas among the children of Crius and Eurybia.*
+### 2. 埃忒耳与赫墨拉 / Aether and Hemera
 
-<sub>来源 / Source：Hesiod, Theogony · Theogony 375-377</sub>
+接下来，《神谱》说，黑夜和厄瑞玻斯相爱结合，黑夜怀孕，生下了埃忒耳和赫墨拉。埃忒耳是天上明亮清澈的上层空气，是众神呼吸、星辰闪耀的光明高空；赫墨拉是白昼，是白天本身的女神。在这两行诗里，赫西俄德写出了一个奇妙的想法：光明是从黑暗里生出来的。幽暗的厄瑞玻斯和黑色的夜，生下的却是最明亮的空气和白天。古代的读者常常注意到这一点，有人把它看作古希腊人对昼夜交替的诗意解释：每一个白天都是从夜晚中诞生的。埃忒耳和赫墨拉在希腊神话里几乎没有冒险故事，他们更像是世界的组成部分，而不是有个性的人物。可是在《神谱》的秩序中，他们的位置很重要：在天空乌拉诺斯出现之前，在大地生出群山和大海之前，光明和白昼就已经存在了。后面的诗里，赫墨拉还会再次出现：她和母亲黑夜在大地边缘的铜门槛前交替进出，一个出门，另一个就回家。
 
-### 3. 记载 / Record
+*Next, the Theogony says, Night conceived in love with Erebus and bore Aether and Hemera. Aether is the bright, clear upper air of heaven, the luminous height where the gods breathe and the stars shine; Hemera is Day, the goddess of daylight itself. In these two lines Hesiod sets down a striking thought: light is born of darkness. Dim Erebus and black Night bring forth the brightest air and the day. Ancient readers often noticed this, and some saw in it a poetic account of the alternation of night and day: every day is born of a night. Aether and Hemera have almost no adventures in Greek myth; they are more parts of the world than characters. Yet in the order of the Theogony their place matters: before Heaven appeared, before Earth brought forth mountains and sea, light and day already existed. Hemera will appear again later in the poem, passing in and out at a bronze threshold at the edge of the world with her mother Night — when one goes out, the other comes home.*
 
-克利俄斯是珀耳塞斯（提坦）的父母。
+<sub>来源 / Source：Hesiod, Theogony, Evelyn-White English text · Theogony 116–138, 211–239, 371–452, 744–766, 984–991 (sequential retelling) · 赫西俄德《神谱》第124–125行。</sub>
 
-*Theogony 375-377 and Library 1.2.2 make Crius a parent of the Titan Perses.*
+### 3. 十二位提坦 / The twelve Titans
 
-<sub>来源 / Source：Hesiod, Theogony · Theogony 375-377; Library 1.2.2</sub>
+大地首先生下了和她一样大的繁星点点的天空乌拉诺斯，让他把自己完全覆盖，作为众神永远稳固的居所；她又生下了高高的群山，那是住在山谷里的仙女们喜爱的地方；她还不经过爱情，生下了波涛汹涌的荒凉大海蓬托斯。然后，她与天空同床，生下了深深旋流的俄刻阿诺斯、科俄斯、克利俄斯、许珀里翁、伊阿佩托斯，还有忒亚、瑞亚、忒弥斯、谟涅摩叙涅、戴着金冠的福柏和可爱的忒提斯。在他们之后，最小的孩子出生了，那就是狡猾的克洛诺斯，他最可怕，憎恨他强壮的父亲。这十二个孩子后来被称为提坦。诗人在这里只是一一列出他们的名字，没有讲他们各自的性格。在十二位提坦中，克利俄斯和忒亚在希腊神话里都很少单独出场，人们记得他们，主要是因为他们的子女：忒亚是太阳、月亮和黎明的母亲，克利俄斯是阿斯特赖俄斯、帕拉斯和珀耳塞斯的父亲。下面的几章，就是沿着《神谱》的顺序，去看这些子女们怎样出生。
+
+*Earth first bore starry Heaven, equal to herself, to cover her on every side and be an ever-sure abiding place for the blessed gods; she brought forth the long hills, graceful haunts of the nymphs who dwell in the glens; and she bore also the fruitless deep with its raging swell, Pontus, without sweet union of love. Then she lay with Heaven and bore deep-swirling Oceanus, Coeus and Crius and Hyperion and Iapetus, Theia and Rhea, Themis and Mnemosyne, gold-crowned Phoebe and lovely Tethys. After them was born the youngest, wily Cronos, most terrible of her children, who hated his lusty sire. These twelve children were later called the Titans. Here the poet simply lists their names without describing their characters. Among the twelve, Crius and Theia seldom appear alone in Greek myth; they are remembered chiefly for their children — Theia as mother of Sun, Moon and Dawn, Crius as father of Astraeus, Pallas and Perses. The chapters that follow trace, in the order of the Theogony, how those children were born.*
+
+<sub>来源 / Source：Hesiod, Theogony, Evelyn-White English text · Theogony 116–138, 211–239, 371–452, 744–766, 984–991 (sequential retelling) · 赫西俄德《神谱》第126–138行。</sub>
+
+### 4. 夜的子女 / The children of Night
+
+在讲完克洛诺斯怎样阉割天空、阿佛洛狄忒怎样从海沫中诞生之后，《神谱》回到了黑夜身上。黑夜生下了可憎的厄运摩罗斯、黑色的命运刻耳和死亡塔纳托斯，又生下了睡眠许普诺斯和梦的一族。诗人特意说明，黑夜生这些孩子时，没有和任何一位神同床，她是独自生下他们的。接着她又生下了讥讽之神、痛苦之神，以及在光荣的大洋对岸看守美丽金苹果的赫斯珀里得斯姐妹；她生下了命运女神们和无情的复仇的刻瑞斯，生下了让凡人痛苦的涅墨西斯，还有欺骗、友爱、可恨的衰老和心肠刚硬的争斗。这一长串名字，几乎包括了人生中所有黑暗的、不可避免的东西。在这些孩子中，睡神和死神是一对兄弟，他们同出于黑夜，后来在诗中也住在一起。赫西俄德把睡眠和死亡放在一起，并不是偶然：在古希腊人看来，睡眠就像一次短暂的死亡，而死亡则是一场不再醒来的长眠。
+
+*After telling how Cronos maimed Heaven and how Aphrodite was born of the sea-foam, the Theogony turns back to Night. Night bore hateful Doom (Moros), black Fate (Ker) and Death (Thanatos), and she bore Sleep (Hypnos) and the tribe of Dreams. The poet notes that she bore them without lying with any god; she brought them forth alone. Next she bore Blame and painful Woe, and the Hesperides who guard the fair golden apples beyond glorious Ocean; she bore the Destinies and the ruthless avenging Fates, Nemesis to afflict mortal men, and Deceit and Friendship, hateful Old Age and hard-hearted Strife. This long list includes almost everything dark and inescapable in human life. Among these children, Sleep and Death are brothers, born of the same Night, and later in the poem they also live together. Hesiod does not pair sleep and death by chance: to the Greeks sleep was like a brief death, and death a long sleep from which there is no waking.*
+
+<sub>来源 / Source：Hesiod, Theogony, Evelyn-White English text · Theogony 116–138, 211–239, 371–452, 744–766, 984–991 (sequential retelling) · 赫西俄德《神谱》第211–225行。</sub>
+
+### 5. 海的女儿 / The daughter of the Sea
+
+接下来，赫西俄德讲大海蓬托斯的家族。蓬托斯首先生下了诚实而不说谎的涅柔斯，他是大海的长者，被称为“老人”，因为他可靠又温和，从不忘记正义，总是怀着公正和善良的心意。然后，蓬托斯又和大地结合，生下了伟大的陶玛斯、骄傲的福耳库斯、面颊美丽的刻托，以及欧律比亚。诗人只用半行诗来描写欧律比亚：她的胸中有一颗坚如金刚石的心。这句话常被理解为她性格刚强、不可动摇。欧律比亚在希腊神话里几乎没有自己的故事，可她的位置很特别：她是海洋与大地的女儿，后来却嫁给了天空与大地所生的提坦克利俄斯，把海的家族和提坦的家族连在一起。她的兄弟姐妹们各有一大群后代：涅柔斯有五十个海中仙女女儿，陶玛斯是彩虹伊里斯和鹰身女妖哈耳庇厄的父亲，福耳库斯和刻托则生下了格赖埃、戈耳工和许多怪物。相比之下，欧律比亚的孩子们是风、星辰与力量的祖先。
+
+*Next Hesiod tells of the family of Pontus, the Sea. Sea first begot Nereus, true and unlying, eldest of his children, whom men call the Old Man because he is trusty and gentle, never forgets the laws of righteousness and has just and kindly thoughts. Then, in union with Earth, Sea begot great Thaumas, proud Phorcys, fair-cheeked Ceto and Eurybia. The poet gives Eurybia only half a line: within her breast is a heart of adamant, of flint. The phrase is often taken to mean that she was hard and unyielding of spirit. Eurybia has almost no story of her own in Greek myth, yet her place is special: a daughter of Sea and Earth, she married the Titan Crius, son of Heaven and Earth, joining the sea family to the Titans. Her siblings each have many descendants: Nereus has fifty sea-nymph daughters, Thaumas fathers Iris the rainbow and the Harpies, and Phorcys and Ceto bring forth the Graeae, the Gorgons and many monsters. Eurybia's children, by contrast, are ancestors of winds, stars and strength.*
+
+<sub>来源 / Source：Hesiod, Theogony, Evelyn-White English text · Theogony 116–138, 211–239, 371–452, 744–766, 984–991 (sequential retelling) · 赫西俄德《神谱》第233–239行。</sub>
+
+### 6. 太阳、月亮与黎明 / Sun, Moon and Dawn
+
+在讲完大洋的女儿们和河流之后，《神谱》说：忒亚和许珀里翁相爱结合，生下了伟大的太阳赫利俄斯、明亮的月亮塞勒涅和黎明厄俄斯——厄俄斯为大地上的一切生灵、也为住在宽阔天空中的不死的神照亮道路。这几行诗把天上三种最重要的光都归于一对提坦夫妻：太阳、月亮和黎明是兄妹。许珀里翁这个名字的意思大概是“高处行走的人”，后来的诗人有时干脆用它来称呼太阳本身。月亮女神塞勒涅在这里只出现在一个名字里，可在其他古代作品中，她有着白色的手臂和闪光的长发，每天夜里驾着马车穿过天空。值得注意的是，别的作品里对他们的家世有不同的说法：《荷马颂歌·致赫利俄斯》说太阳的母亲是欧律法厄萨，《荷马颂歌·致赫尔墨斯》称月亮为“帕拉斯的女儿”。这些说法各自保留在自己的文本里，本篇只讲《神谱》。
+
+*After the daughters of Ocean and the rivers, the Theogony says: Theia, subject in love to Hyperion, bore great Helios and clear Selene and Eos, who shines upon all that are on earth and upon the deathless gods who live in wide heaven. These lines give the three chief lights of the sky to one Titan couple: Sun, Moon and Dawn are brothers and sisters. Hyperion's name probably means 'he who goes on high', and later poets sometimes used it as a name for the sun itself. Selene the Moon appears here only as a name, but in other ancient works she has white arms and gleaming hair and drives her chariot across the sky every night. Other works give different family lines: the Homeric Hymn to Helios names Euryphaessa as the Sun's mother, and the Hymn to Hermes calls the Moon 'daughter of Pallas'. These accounts stay in their own texts; this retelling follows only the Theogony.*
+
+<sub>来源 / Source：Hesiod, Theogony, Evelyn-White English text · Theogony 116–138, 211–239, 371–452, 744–766, 984–991 (sequential retelling) · 赫西俄德《神谱》第371–374行。</sub>
+
+### 7. 克利俄斯的儿子们 / The sons of Crius
+
+紧接着，《神谱》说：欧律比亚，女神中光彩照人的一位，与克利俄斯相爱结合，生下了伟大的阿斯特赖俄斯、帕拉斯，还有在所有人中以智慧出众的珀耳塞斯。这三个儿子在希腊神话里都不算有名，可是在《神谱》中，他们分别开启了三支重要的家族。阿斯特赖俄斯的名字与“星”有关，他将成为风和星辰的父亲；帕拉斯将与大洋的女儿斯梯克斯结合，生下站在宙斯身边的胜利、力量与暴力；珀耳塞斯则将娶福柏的女儿阿斯忒里亚为妻，生下赫卡忒。诗人特意称赞珀耳塞斯的智慧，这在一份几乎只有名字的家谱里显得格外醒目。需要注意的是，这位提坦珀耳塞斯和太阳神的儿子珀耳塞斯、英雄珀尔修斯的儿子珀耳塞斯都不是同一个人，古代作家用同一个名字称呼了好几位不同的人物。克利俄斯本人在诗中再也没有出场，他像许多提坦一样，最后的命运要到提坦之战时才被提及。
+
+*Next the Theogony says: Eurybia, bright among goddesses, was joined in love with Crius and bore great Astraeus, and Pallas, and Perses, who was eminent among all men in wisdom. None of the three is famous in Greek myth, yet in the Theogony each begins an important line. Astraeus, whose name is linked to the stars, will father the winds and the stars; Pallas will unite with Styx, daughter of Ocean, and father Victory, Strength and Force, who stand beside Zeus; and Perses will take Phoebe's daughter Asteria to wife and father Hecate. The poet singles out Perses' wisdom, which stands out in a genealogy that is almost all names. Note that this Titan Perses is not the same as Perses son of Helios or Perses son of the hero Perseus; ancient writers gave the same name to several different figures. Crius himself does not appear again in the poem; like many Titans, his fate is touched on only in the war of the Titans.*
+
+<sub>来源 / Source：Hesiod, Theogony, Evelyn-White English text · Theogony 116–138, 211–239, 371–452, 744–766, 984–991 (sequential retelling) · 赫西俄德《神谱》第375–377行。</sub>
+
+### 8. 风与星辰 / Winds and stars
+
+接着，诗人说：黎明女神厄俄斯和阿斯特赖俄斯——一位女神和一位神——在爱中结合，生下了心意强壮的风：吹得天空晴朗的西风仄费洛斯、迅猛的北风玻瑞阿斯和南风诺托斯。在这之后，早起的厄俄斯又生下了晨星厄俄斯福洛斯，以及点缀天空的明亮星辰。这是一个优美的画面：每天早晨，黎明在天边升起时，风开始吹动，晨星在最后的夜色中闪耀，群星慢慢隐去——它们都是黎明的孩子。诗人在后面还会说明，这三种风是神所生的、对人有益的风；而那些在海上忽然刮起、让船只沉没的狂风，则来自提丰，不属于神的后代。所以在《神谱》里，西风、北风和南风是有秩序的风，而厄俄斯是它们的母亲。阿斯特赖俄斯这个名字本来就和星辰有关，现在他真的成了群星之父。在这个家族里，提坦的后代第二代已经不再是抽象的名字，而是人们每天都能感受到的风与星光。
+
+*Then the poet says: Eos, a goddess, bore to Astraeus, a god, the strong-hearted winds — brightening Zephyrus, swift Boreas and Notus — in union of love. After these the Early-born bore the star Eosphorus, the Light-bringer, and the gleaming stars with which heaven is crowned. It is a lovely picture: each morning, as Dawn rises at the edge of the sky, the winds begin to stir, the morning star shines in the last of the night and the stars slowly fade — all of them Dawn's children. Later the poet explains that these three winds are god-born and a great blessing to men, while the gusts that suddenly fall on the sea and wreck ships come from Typhoeus and are not of divine birth. So in the Theogony West, North and South Winds are ordered winds, and Eos is their mother. Astraeus's name was already linked with the stars; now he truly becomes father of the stars. In this line the Titans' grandchildren are no longer abstract names but the wind and starlight people feel every day.*
+
+<sub>来源 / Source：Hesiod, Theogony, Evelyn-White English text · Theogony 116–138, 211–239, 371–452, 744–766, 984–991 (sequential retelling) · 赫西俄德《神谱》第378–382行。</sub>
+
+### 9. 斯梯克斯的孩子 / The children of Styx
+
+大洋的女儿斯梯克斯与帕拉斯结合，在自己的宫殿里生下了泽洛斯和脚踝美丽的尼刻——竞争与胜利，又生下了克拉托斯和比亚——力量与暴力，这两个孩子都非常出色。诗人说，他们没有离开宙斯的房子，也没有离开宙斯的住处；凡是神领着他们去的地方，没有一条路他们不跟着走，他们永远和发出巨雷的宙斯住在一起。在希腊人的想象里，胜利、力量和暴力是王权的随从：宙斯之所以成为众神之王，不仅靠计谋，也靠这些站在他身边的力量。在埃斯库罗斯的悲剧《被缚的普罗米修斯》开场，正是力量与暴力奉宙斯之命，押着普罗米修斯去高加索山。帕拉斯本人在《神谱》中几乎没有别的事迹，他是提坦克利俄斯的儿子，后来的神话里关于他的说法很不一致。在这里，他的意义在于成为这四个孩子的父亲；而这一家人后来的命运，与他们的母亲斯梯克斯在众神之战前做出的选择分不开。
+
+*Styx, daughter of Ocean, was joined with Pallas and bore Zelos and trim-ankled Nike — Rivalry and Victory — in the house, and also Kratos and Bia — Strength and Force — wonderful children. These, the poet says, have no house apart from Zeus, nor any dwelling or path except where the god leads them; they dwell always with loud-thundering Zeus. To Greek imagination Victory, Strength and Force are the attendants of kingship: Zeus became king of the gods not only by cunning but with these powers at his side. At the opening of Aeschylus's Prometheus Bound it is Strength and Force who, at Zeus's command, lead Prometheus to the Caucasus. Pallas himself has hardly any other deeds in the Theogony; he is a son of the Titan Crius, and later accounts of him vary widely. Here his importance lies in fathering these four children, and the family's later fortune is bound up with the choice their mother Styx made before the war of the gods.*
+
+<sub>来源 / Source：Hesiod, Theogony, Evelyn-White English text · Theogony 116–138, 211–239, 371–452, 744–766, 984–991 (sequential retelling) · 赫西俄德《神谱》第383–388行。</sub>
+
+### 10. 众神的誓言 / The oath of the gods
+
+诗人接着讲斯梯克斯为什么享有这样的荣誉。在宙斯与提坦开战之前，奥林波斯的闪电之神召集了所有不死的神来到高高的奥林波斯山，对他们说：凡是跟我一起与提坦作战的神，我都不会剥夺他的权利，每个人都会保有他从前在不死的神中间享有的职分；而凡是在克洛诺斯统治下没有荣誉、没有权利的神，我会按照正义给他荣誉和权利。不朽的斯梯克斯听从父亲大洋的劝告，第一个带着她的孩子们来到奥林波斯。宙斯尊敬她，给了她丰厚的礼物：他让她成为众神的大誓言，又让她的孩子们永远和他住在一起。宙斯对所有的神都履行了诺言，他自己则大权在握，统治着众神。在《神谱》的后半部分，诗人还会详细描写斯梯克斯的水：众神中若有谁以她的水起誓却违背誓言，就要在一整年里没有呼吸地躺着，九年之内不能参加众神的会议和宴会。连宙斯也不能随意违背以斯梯克斯之水立下的誓言。
+
+*The poet then tells why Styx has such honour. Before the war with the Titans, the Olympian lightener called all the deathless gods to high Olympus and said that whoever of the gods would fight with him against the Titans, he would not cast him out of his rights, but each should keep the office he had before among the deathless gods; and whoever had been without honour and rights under Cronos, he would give him honour and rights as is just. Then deathless Styx came first to Olympus with her children, through the counsel of her dear father Ocean. Zeus honoured her and gave her very great gifts: he made her the great oath of the gods, and her children to live with him always. As he promised, so he performed for all, and he himself rules mightily and reigns. Later in the Theogony the poet describes the water of Styx: any god who swears falsely by it lies breathless for a full year and for nine years is cut off from the councils and feasts of the gods. Even Zeus cannot lightly break an oath sworn by the water of Styx.*
+
+<sub>来源 / Source：Hesiod, Theogony, Evelyn-White English text · Theogony 116–138, 211–239, 371–452, 744–766, 984–991 (sequential retelling) · 赫西俄德《神谱》第389–403行。</sub>
+
+### 11. 福柏的女儿们 / The daughters of Phoebe
+
+提坦福柏来到科俄斯的爱床，女神在男神的爱中怀孕，生下了穿着深色长袍的勒托。诗人用一连串的词语赞美勒托：她永远温和，对凡人和不死的神都很和善，从一开始就温和，是奥林波斯上最温柔的一位。福柏又生下了名字吉祥的阿斯忒里亚。后来，珀耳塞斯把阿斯忒里亚领进他宏大的家，让她被称为自己亲爱的妻子。这样，两位提坦的孩子结成了夫妻：一位是福柏和科俄斯的女儿，一位是欧律比亚和克利俄斯的儿子。勒托后来成了阿波罗和阿耳忒弥斯的母亲，前面的颂歌已经讲过她在得洛斯的漂泊和生产。阿斯忒里亚的名字与“星”有关，在《神谱》里她只出现在这几行诗中；在后来的作家那里，比如阿波罗多洛斯的《书库》，还说她为了躲避宙斯，化作一只鹌鹑跳进了大海，后来变成了一座岛屿，最初叫阿斯忒里亚，后来改名得洛斯。那是另一个文本的说法，这里只作为背景提到。
+
+*Phoebe came to the desired bed of Coeus, and the goddess, conceiving in the love of the god, bore dark-gowned Leto. The poet praises Leto in a string of words: always mild, kind to men and to the deathless gods, mild from the beginning, gentlest in all Olympus. Phoebe also bore Asteria of happy name, whom Perses once led to his great house to be called his dear wife. So the children of two Titan couples were joined: a daughter of Phoebe and Coeus and a son of Eurybia and Crius. Leto became mother of Apollo and Artemis, and the hymn retold earlier tells of her wandering and labour on Delos. Asteria's name is linked to the stars; in the Theogony she appears only in these lines. Later writers such as Apollodorus in the Library say that she fled Zeus's advances in the form of a quail, leapt into the sea and became an island, first called Asteria and later Delos. That is another text's account, mentioned here only as background.*
+
+<sub>来源 / Source：Hesiod, Theogony, Evelyn-White English text · Theogony 116–138, 211–239, 371–452, 744–766, 984–991 (sequential retelling) · 赫西俄德《神谱》第404–411行。</sub>
+
+### 12. 赫卡忒的荣耀 / The honour of Hecate
+
+阿斯忒里亚怀了孕，生下了赫卡忒。诗人用了几十行诗来赞美她：克洛诺斯之子宙斯尊敬赫卡忒胜过一切，给了她光荣的礼物，让她在大地上、在荒凉的大海里都有一份，在繁星的天空中也享有尊荣，在不死的神中间最受尊敬。直到今天，大地上的人每当按照习俗献上丰盛的祭品、祈求恩惠时，都会呼唤赫卡忒的名字。女神若欣然接受谁的祈祷，谁就会得到极大的荣誉，因为她有这样的力量。在审判时，她坐在可敬的国王身边；在集会上，她让她愿意的人出人头地；在战争中，她站在她愿意的人一边，给他们胜利和荣耀；运动会上，她帮助竞技的人；在海上，她和波塞冬一起，让渔夫捕获大量的鱼，也能随意让鱼消失；在牛棚里，她和赫尔墨斯一起让牛羊增多。虽然她是母亲唯一的孩子，宙斯却在所有的神中尊崇她，让她成为年轻人的养育者。诗人对赫卡忒的这段赞美，比他对许多大神的描写都长，学者们至今还在讨论原因。
+
+*Asteria conceived and bore Hecate, and the poet praises her at length: Zeus the son of Cronos honoured her above all and gave her splendid gifts, a share of the earth and the unfruitful sea, and honour in starry heaven, and she is honoured most of all by the deathless gods. To this day, whenever any man on earth offers rich sacrifices and prays for favour according to custom, he calls upon Hecate. Great honour comes easily to him whose prayers the goddess receives favourably, for she has the power. She sits by worshipful kings in judgement; in the assembly whoever she wills is distinguished; in war she stands by whom she will and grants victory and glory; she helps men contending in the games; on the sea, with Poseidon, she gives fishermen a great catch or easily takes it away; in the byres, with Hermes, she increases the flocks. Though she is her mother's only child, Zeus honoured her among all the deathless ones and made her nurse of the young. This praise of Hecate is longer than the poet's account of many greater gods, and scholars still debate why.*
+
+<sub>来源 / Source：Hesiod, Theogony, Evelyn-White English text · Theogony 116–138, 211–239, 371–452, 744–766, 984–991 (sequential retelling) · 赫西俄德《神谱》第411–452行。</sub>
+
+### 13. 夜与昼的门槛 / The threshold of Night and Day
+
+在描写宙斯战胜提坦、把他们关进塔耳塔罗斯之后，诗人带领听众来到世界的边缘。在那里，伊阿佩托斯的儿子阿特拉斯站着，用头和不知疲倦的双手撑住宽阔的天空；就在那里，黑夜和白昼彼此走近，在巨大的铜门槛前互相问候：一个走进屋里，另一个就走出门外。这座房子从来不同时容纳她们两个，总是一个在屋外，在大地上行走，另一个在屋里等候，直到她出行的时刻到来。白昼为大地上的人们带来明亮的光；黑夜则怀里抱着睡眠——死亡的兄弟——她是笼罩在云雾中的致命的黑夜。这是《神谱》中最美的画面之一：赫墨拉和她的母亲黑夜从不相聚，永远在门槛上擦肩而过。诗人用一座房子和一道门槛，把每天的昼夜交替写成了两位女神之间永不停止的交接。前面讲过，赫墨拉是黑夜和厄瑞玻斯的女儿；在这里，她已经成为每天出门照亮人间的那一位。
+
+*After describing how Zeus overcame the Titans and shut them in Tartarus, the poet leads his hearers to the edge of the world. There Atlas, son of Iapetus, stands and holds up the wide heaven on his head and unwearying hands; and there Night and Day draw near and greet one another as they pass the great threshold of bronze: one is about to go down into the house while the other comes out at the door. The house never holds them both within; always one is outside the house passing over the earth, while the other stays at home and waits until the time for her journey comes. Day holds all-seeing light for men on earth; Night holds in her arms Sleep, the brother of Death — deadly Night, wrapped in a cloud of mist. This is one of the loveliest images in the Theogony: Hemera and her mother Night never meet but pass each other for ever on the threshold. With a house and a doorstep the poet turns the daily turn of day and night into an endless handing-over between two goddesses. Hemera, daughter of Night and Erebus, is here the one who goes out each day to light the world.*
+
+<sub>来源 / Source：Hesiod, Theogony, Evelyn-White English text · Theogony 116–138, 211–239, 371–452, 744–766, 984–991 (sequential retelling) · 赫西俄德《神谱》第744–757行。</sub>
+
+### 14. 睡与死的住所 / The house of Sleep and Death
+
+就在那里，幽暗黑夜的孩子们也有自己的住所：睡眠和死亡，两位可怕的神。闪耀的太阳无论升上天空还是从天空落下，都从不用他的光线照看他们。两兄弟中，睡眠安静地在大地和宽阔的大海上漫游，对人们温和可亲；死亡却有一颗铁打的心，胸中的灵魂像铜一样无情：凡是被他抓住的人，他就牢牢地抓住不放，他甚至被不死的神们所憎恨。赫西俄德只用了几行诗，就把这一对兄弟的性格写得截然不同：同是黑夜的孩子，一个带来休息和安慰，一个带来无法挽回的终结。在荷马史诗《伊利亚特》里，这对兄弟一起把战死的英雄萨耳珀冬的遗体抬回他的故乡吕基亚；在后来的希腊瓶画上，他们常被画成两个长着翅膀的青年，一左一右地托着阵亡的战士。可在《神谱》里，他们只是住在世界边缘、太阳照不到的地方，一个出门去安抚人间，一个出门去带走生命。
+
+*There too the children of dark Night have their dwellings, Sleep and Death, awful gods. The glowing Sun never looks upon them with his beams, neither as he goes up into heaven nor as he comes down from heaven. Of the two, Sleep roams peacefully over the earth and the sea's broad back and is kindly to men; but Death has a heart of iron, and his spirit within him is pitiless as bronze: whomsoever of men he has once seized he holds fast, and he is hateful even to the deathless gods. In a few lines Hesiod gives the two brothers opposite natures: both children of Night, one brings rest and comfort, the other an end that cannot be undone. In Homer's Iliad the pair carry the body of the fallen hero Sarpedon home to Lycia, and on later Greek vases they are often painted as two winged young men lifting a dead warrior between them. In the Theogony, though, they simply live at the edge of the world where the sun never shines — one going out to soothe mankind, the other to take life away.*
+
+<sub>来源 / Source：Hesiod, Theogony, Evelyn-White English text · Theogony 116–138, 211–239, 371–452, 744–766, 984–991 (sequential retelling) · 赫西俄德《神谱》第758–766行。</sub>
+
+### 15. 厄俄斯的儿子们 / The sons of Eos
+
+《神谱》快结束时，诗人列出了女神与凡间男子所生的孩子。其中说：厄俄斯为提托诺斯生下了头戴青铜盔的门农，埃塞俄比亚人的国王，还有厄玛提翁王。她又为刻法罗斯生下了一个光荣的儿子，强壮的法厄同，一个像神一样的人。当他还是一个温柔的少年，正处在光荣青春的花期，童心未泯的时候，爱笑的阿佛洛狄忒把他抢走，让他在她神圣的神庙里做夜间的守护者，成为一位神灵。这几行诗让黎明女神的故事有了一个结尾。在前面，她是风与星辰的母亲；在这里，她是凡间英雄的母亲。门农后来在特洛伊战争中帮助特洛伊人，被阿喀琉斯杀死，后世的诗人说，黎明的露水就是厄俄斯为儿子流下的眼泪。而提托诺斯的命运——得到了不死却没有得到青春——则在《荷马颂歌·致阿佛洛狄忒》中讲得最为详细。厄俄斯一次又一次地爱上凡人，又一次次地失去他们，这或许正是黎明短暂的写照。
+
+*Near the end of the Theogony the poet lists the children goddesses bore to mortal men. Among them: Eos bore to Tithonus brazen-crested Memnon, king of the Ethiopians, and the Lord Emathion. And to Cephalus she bore a splendid son, strong Phaethon, a man like the gods, whom, while he was a tender boy in the flower of glorious youth with childish thoughts, laughter-loving Aphrodite seized and caught away, and made a keeper of her shrine by night, a divine spirit. These lines give the Dawn goddess's story an ending. Earlier she was mother of the winds and stars; here she is mother of mortal heroes. Memnon later helped the Trojans in the Trojan War and was slain by Achilles, and later poets said the morning dew is the tears Eos weeps for her son. Tithonus's fate — given deathlessness but not youth — is told most fully in the Homeric Hymn to Aphrodite. Again and again Eos loves mortals and loses them, perhaps a picture of how brief the dawn is.*
+
+<sub>来源 / Source：Hesiod, Theogony, Evelyn-White English text · Theogony 116–138, 211–239, 371–452, 744–766, 984–991 (sequential retelling) · 赫西俄德《神谱》第984–991行。</sub>
 
 ---
 
@@ -214,35 +442,17 @@
 
 ## 勒托 · Leto
 
-**证据卡 / Evidence card**
+**有完整故事 / Full story**
+
+完整故事档案：[story.greek.hymn_apollo](../story.greek.hymn_apollo.md)
 
 > 阿波罗与阿耳忒弥斯的母亲；本检查点仅登记赫西俄德与《荷马颂歌》中的见证。
 
 > *Mother of Apollo and Artemis in the registered Hesiodic and hymnic witnesses.*
 
-### 1. 记载 / Record
+**长篇故事 · 14 章**：与本页「伊里斯」一节是同一个故事，全文见上方或[故事档案](../story.greek.hymn_apollo.md)。
 
-阿波罗是勒托的孩子。
-
-*Theogony 918-920 presents Apollo as a child of Leto and Zeus.*
-
-<sub>来源 / Source：Hesiod, Theogony, Evelyn-White English text · lines 918-920</sub>
-
-### 2. 记载 / Record
-
-阿耳忒弥斯是勒托的孩子。
-
-*Theogony 918-920 presents Artemis as a child of Leto and Zeus.*
-
-<sub>来源 / Source：Hesiod, Theogony, Evelyn-White English text · lines 918-920</sub>
-
-### 3. 记载 / Record
-
-勒托见于神谱。
-
-*Theogony 918-920 names Leto in the genealogy of Apollo and Artemis.*
-
-<sub>来源 / Source：Hesiod, Theogony, Evelyn-White English text · lines 918-920</sub>
+目录：01 众神起身 · 02 无处安身 · 03 得洛斯的誓言 · 04 被拦住的生育女神 · 05 棕榈树下 · 06 弓与竖琴 · 07 得洛斯的节日 · 08 奥林波斯的舞蹈 · 09 泰尔福萨的诡计 · 10 神庙的地基与泉边的母龙 · 11 赫拉独自生下的孩子 · 12 皮托这个名字 · 13 海豚 · 14 德尔斐的祭司
 
 ---
 
@@ -420,49 +630,29 @@
 
 ## 厄俄斯 · Eos
 
-**证据卡 / Evidence card**
+**有完整故事 / Full story**
+
+完整故事档案：[story.greek.titans_children](../story.greek.titans_children.md)
 
 > *Dawn deity named with Helios and Selene among the children of Hyperion and Theia in Hesiod.*
 
-### 1. 记载 / Record
+**长篇故事 · 15 章**：与本页「克利俄斯」一节是同一个故事，全文见上方或[故事档案](../story.greek.titans_children.md)。
 
-许珀里翁是厄俄斯的父母。
+目录：01 混沌之子 · 02 埃忒耳与赫墨拉 · 03 十二位提坦 · 04 夜的子女 · 05 海的女儿 · 06 太阳、月亮与黎明 · 07 克利俄斯的儿子们 · 08 风与星辰 · 09 斯梯克斯的孩子 · 10 众神的誓言 · 11 福柏的女儿们 · 12 赫卡忒的荣耀 · 13 夜与昼的门槛 · 14 睡与死的住所 · 15 厄俄斯的儿子们
 
-*Theogony 371-374 presents Hyperion and Theia as parents of Eos.*
+---
 
-<sub>来源 / Source：Hesiod, Theogony, Evelyn-White English text · Theogony 371-374</sub>
+## 厄勒梯亚 · Eileithyia
 
-### 2. 记载 / Record
+**有完整故事 / Full story**
 
-忒亚是厄俄斯的父母。
+完整故事档案：[story.greek.hymn_apollo](../story.greek.hymn_apollo.md)
 
-*Theogony 371-374 presents Theia and Hyperion as parents of Eos.*
+> *Goddess of childbirth, daughter of Zeus and Hera; in the Hymn to Apollo Hera keeps her on Olympus so that Leto labours nine days, until Iris brings her to Delos (Homeric Hymn 3).*
 
-<sub>来源 / Source：Hesiod, Theogony, Evelyn-White English text · Theogony 371-374</sub>
+**长篇故事 · 14 章**：与本页「伊里斯」一节是同一个故事，全文见上方或[故事档案](../story.greek.hymn_apollo.md)。
 
-### 3. 记载 / Record
-
-赫利俄斯与厄俄斯是兄弟姐妹。
-
-*Helios and Eos occur as children of Hyperion and Theia in Theogony 371-374.*
-
-<sub>来源 / Source：Hesiod, Theogony, Evelyn-White English text · Theogony 371-374</sub>
-
-### 4. 记载 / Record
-
-塞勒涅与厄俄斯是兄弟姐妹。
-
-*Selene and Eos occur as children of Hyperion and Theia in Theogony 371-374.*
-
-<sub>来源 / Source：Hesiod, Theogony, Evelyn-White English text · Theogony 371-374</sub>
-
-### 5. 记载 / Record
-
-厄俄斯见于神谱。
-
-*Eos is named with Selene and Helios in the Hyperion-Theia genealogy.*
-
-<sub>来源 / Source：Hesiod, Theogony, Evelyn-White English text · Theogony 371-374</sub>
+目录：01 众神起身 · 02 无处安身 · 03 得洛斯的誓言 · 04 被拦住的生育女神 · 05 棕榈树下 · 06 弓与竖琴 · 07 得洛斯的节日 · 08 奥林波斯的舞蹈 · 09 泰尔福萨的诡计 · 10 神庙的地基与泉边的母龙 · 11 赫拉独自生下的孩子 · 12 皮托这个名字 · 13 海豚 · 14 德尔斐的祭司
 
 ---
 
@@ -594,33 +784,15 @@
 
 ## 厄瑞玻斯 · Erebus
 
-**证据卡 / Evidence card**
+**有完整故事 / Full story**
+
+完整故事档案：[story.greek.titans_children](../story.greek.titans_children.md)
 
 > *Erebus is born from Chaos in Theogony 123 and joins Nyx in the genealogy of Aether and Hemera.*
 
-### 1. 记载 / Record
+**长篇故事 · 15 章**：与本页「克利俄斯」一节是同一个故事，全文见上方或[故事档案](../story.greek.titans_children.md)。
 
-埃忒耳是厄瑞玻斯的孩子。
-
-*Theogony 124-125 presents Erebus as Aether’s other parent.*
-
-<sub>来源 / Source：Hesiod, Theogony, Evelyn-White English text · Theogony 124-125</sub>
-
-### 2. 记载 / Record
-
-厄瑞玻斯是卡俄斯的孩子。
-
-*Theogony 123 says Erebus arose from Chaos.*
-
-<sub>来源 / Source：Hesiod, Theogony, Evelyn-White English text · Theogony 123</sub>
-
-### 3. 记载 / Record
-
-赫墨拉是厄瑞玻斯的孩子。
-
-*Theogony 124-125 presents Erebus as Hemera’s other parent.*
-
-<sub>来源 / Source：Hesiod, Theogony, Evelyn-White English text · Theogony 124-125</sub>
+目录：01 混沌之子 · 02 埃忒耳与赫墨拉 · 03 十二位提坦 · 04 夜的子女 · 05 海的女儿 · 06 太阳、月亮与黎明 · 07 克利俄斯的儿子们 · 08 风与星辰 · 09 斯梯克斯的孩子 · 10 众神的誓言 · 11 福柏的女儿们 · 12 赫卡忒的荣耀 · 13 夜与昼的门槛 · 14 睡与死的住所 · 15 厄俄斯的儿子们
 
 ---
 
@@ -770,139 +942,155 @@
 
 ## 埃忒耳 · Aether
 
-**证据卡 / Evidence card**
+**有完整故事 / Full story**
+
+完整故事档案：[story.greek.titans_children](../story.greek.titans_children.md)
 
 > *Aether is born from Nyx through union with Erebus in Theogony 124-125.*
 
-### 1. 记载 / Record
+**长篇故事 · 15 章**：与本页「克利俄斯」一节是同一个故事，全文见上方或[故事档案](../story.greek.titans_children.md)。
 
-埃忒耳是厄瑞玻斯的孩子。
-
-*Theogony 124-125 presents Erebus as Aether’s other parent.*
-
-<sub>来源 / Source：Hesiod, Theogony, Evelyn-White English text · Theogony 124-125</sub>
-
-### 2. 记载 / Record
-
-埃忒耳是倪克斯的孩子。
-
-*Theogony 124-125 presents Aether as a child of Nyx.*
-
-<sub>来源 / Source：Hesiod, Theogony, Evelyn-White English text · Theogony 124-125</sub>
+目录：01 混沌之子 · 02 埃忒耳与赫墨拉 · 03 十二位提坦 · 04 夜的子女 · 05 海的女儿 · 06 太阳、月亮与黎明 · 07 克利俄斯的儿子们 · 08 风与星辰 · 09 斯梯克斯的孩子 · 10 众神的誓言 · 11 福柏的女儿们 · 12 赫卡忒的荣耀 · 13 夜与昼的门槛 · 14 睡与死的住所 · 15 厄俄斯的儿子们
 
 ---
 
 ## 塔纳托斯 · Thanatos
 
-**证据卡 / Evidence card**
+**有完整故事 / Full story**
+
+完整故事档案：[story.greek.titans_children](../story.greek.titans_children.md)
 
 > *Personified Death among the children of Nyx in Hesiod’s Theogony.*
 
-### 1. 记载 / Record
+**长篇故事 · 15 章**：与本页「克利俄斯」一节是同一个故事，全文见上方或[故事档案](../story.greek.titans_children.md)。
 
-塔纳托斯是倪克斯的孩子。
-
-*Theogony 211-212 lists Thanatos among the children of Nyx.*
-
-<sub>来源 / Source：Hesiod, Theogony, Evelyn-White English text · Theogony 211-225</sub>
-
-### 2. 记载 / Record
-
-塔纳托斯与许普诺斯是兄弟姐妹。
-
-*Thanatos and Hypnos occur together as children of Nyx in the Hesiodic genealogy.*
-
-<sub>来源 / Source：Hesiod, Theogony, Evelyn-White English text · Theogony 211-225</sub>
-
-### 3. 记载 / Record
-
-塔纳托斯象征死亡。
-
-*The comparative index connects Thanatos with death while retaining the culture-specific deity record.*
-
-<sub>来源 / Source：Hesiod, Theogony, Evelyn-White English text · Theogony 211-225</sub>
+目录：01 混沌之子 · 02 埃忒耳与赫墨拉 · 03 十二位提坦 · 04 夜的子女 · 05 海的女儿 · 06 太阳、月亮与黎明 · 07 克利俄斯的儿子们 · 08 风与星辰 · 09 斯梯克斯的孩子 · 10 众神的誓言 · 11 福柏的女儿们 · 12 赫卡忒的荣耀 · 13 夜与昼的门槛 · 14 睡与死的住所 · 15 厄俄斯的儿子们
 
 ---
 
 ## 塞勒涅 · Selene
 
-**证据卡 / Evidence card**
+**有完整故事 / Full story**
+
+完整故事档案：[story.greek.titans_children](../story.greek.titans_children.md)
 
 > *Lunar deity, child of Hyperion and Theia in Hesiod and subject of Homeric Hymn 32.*
 
-### 1. 记载 / Record
+**长篇故事 · 15 章**：与本页「克利俄斯」一节是同一个故事，全文见上方或[故事档案](../story.greek.titans_children.md)。
 
-塞勒涅——特征：radiant goddess driving shining horses and serving as a monthly sign
-
-*Homeric Hymn 32 lines 1-20 describes Selene’s radiance, horses and monthly sign.*
-
-<sub>来源 / Source：Homeric Hymn 32 to Selene, Evelyn-White edition and translation · Hymn 32, lines 1-20</sub>
-
-### 2. 记载 / Record
-
-许珀里翁是塞勒涅的父母。
-
-*Theogony 371-374 presents Hyperion and Theia as parents of Selene.*
-
-<sub>来源 / Source：Hesiod, Theogony, Evelyn-White English text · Theogony 371-374</sub>
-
-### 3. 记载 / Record
-
-忒亚是塞勒涅的父母。
-
-*Theogony 371-374 presents Theia and Hyperion as parents of Selene.*
-
-<sub>来源 / Source：Hesiod, Theogony, Evelyn-White English text · Theogony 371-374</sub>
-
-### 4. 记载 / Record
-
-赫利俄斯与塞勒涅是兄弟姐妹。
-
-*Helios and Selene occur as children of Hyperion and Theia in Theogony 371-374.*
-
-<sub>来源 / Source：Hesiod, Theogony, Evelyn-White English text · Theogony 371-374</sub>
-
-### 5. 记载 / Record
-
-塞勒涅与厄俄斯是兄弟姐妹。
-
-*Selene and Eos occur as children of Hyperion and Theia in Theogony 371-374.*
-
-<sub>来源 / Source：Hesiod, Theogony, Evelyn-White English text · Theogony 371-374</sub>
-
-### 6. 记载 / Record
-
-塞勒涅象征月亮。
-
-*The comparative index connects Selene with the moon while retaining the Greek deity as a distinct entity.*
-
-<sub>来源 / Source：Homeric Hymn 32 to Selene, Evelyn-White edition and translation · Homeric Hymn 32, lines 1-20</sub>
+目录：01 混沌之子 · 02 埃忒耳与赫墨拉 · 03 十二位提坦 · 04 夜的子女 · 05 海的女儿 · 06 太阳、月亮与黎明 · 07 克利俄斯的儿子们 · 08 风与星辰 · 09 斯梯克斯的孩子 · 10 众神的誓言 · 11 福柏的女儿们 · 12 赫卡忒的荣耀 · 13 夜与昼的门槛 · 14 睡与死的住所 · 15 厄俄斯的儿子们
 
 ---
 
 ## 塞墨勒 · Semele
 
-**证据卡 / Evidence card**
+**有完整故事 / Full story**
+
+完整故事档案：[story.greek.dionysus_library](../story.greek.dionysus_library.md)
 
 > 狄俄倪索斯的凡人母亲之一种古代叙事见证。
 
 > *Mortal mother of Dionysus in the registered ancient witnesses.*
 
-### 1. 记载 / Record
+**长篇故事 · 12 章**
 
-狄俄倪索斯是塞墨勒的孩子。
+目录：01 塞墨勒的请求 · 02 雷火 · 03 第二次出生 · 04 伊诺与阿塔玛斯的疯狂 · 05 倪萨的仙女 · 06 葡萄与疯狂 · 07 吕枯耳戈斯 · 08 回到忒拜 · 09 彭透斯 · 10 第勒尼安海盗 · 11 从冥府带回母亲 · 12 伊卡里俄斯
 
-*Theogony 940-942 presents Dionysus as a child of Semele and Zeus.*
+### 1. 塞墨勒的请求 / Semele's request
 
-<sub>来源 / Source：Hesiod, Theogony, Evelyn-White English text · lines 940-942</sub>
+腓尼基人卡德摩斯建立了忒拜，娶了阿瑞斯和阿佛洛狄忒的女儿哈耳摩尼亚，生下了女儿奥托诺厄、伊诺、塞墨勒和阿高厄，还有儿子波吕多罗斯。宙斯爱上了塞墨勒，瞒着赫拉与她同床。赫拉知道后，便设计欺骗她。《书库》只简单地说赫拉骗了她，没有讲细节；后来的作家说，赫拉变成塞墨勒的老保姆，劝她试探情人是不是真的宙斯。宙斯曾答应塞墨勒，她想要什么都可以。于是，在赫拉的欺骗之下，塞墨勒请求宙斯，要他像当初向赫拉求婚时那样来到她身边。宙斯已经许下了诺言，无法拒绝。在希腊神话里，神的誓言是不能收回的，即使宙斯也不能。塞墨勒想证明自己的爱人是天上的众神之王，可她不知道，凡人的身体承受不住神的真身。这一请求，就是整个故事的起点：酒神的诞生，始于一个凡间女子的愿望和一位女神的嫉妒。
 
-### 2. 记载 / Record
+*Cadmus the Phoenician founded Thebes and married Harmonia, daughter of Ares and Aphrodite, who bore him daughters, Autonoe, Ino, Semele and Agave, and a son, Polydorus. Zeus loved Semele and lay with her without Hera's knowledge. When Hera found out, she deceived Semele. The Library says only that Hera deceived her, without the details; later writers say Hera took the shape of Semele's old nurse and urged her to test whether her lover was truly Zeus. Zeus had promised to grant Semele whatever she asked. So, deceived by Hera, Semele asked Zeus to come to her as he came when he wooed Hera. Zeus, having given his word, could not refuse. In Greek myth a god's oath cannot be taken back, not even by Zeus. Semele wanted proof that her lover was the king of heaven, not knowing that a mortal body cannot bear a god's true form. This request is the start of the whole story: the birth of the wine god begins with a mortal woman's wish and a goddess's jealousy.*
 
-塞墨勒见于神谱。
+<sub>来源 / Source：Pseudo-Apollodorus, Library · Library 3.4.3–3.5.3, 3.14.7 (sequential retelling) · 阿波罗多洛斯《书库》3.4.2–3.4.3。</sub>
 
-*Theogony 940-942 names Semele in the genealogy of Dionysus.*
+### 2. 雷火 / Thunder and fire
 
-<sub>来源 / Source：Hesiod, Theogony, Evelyn-White English text · lines 940-942</sub>
+宙斯无法拒绝，只好驾着战车，带着闪电和雷鸣来到塞墨勒的屋子，掷出了一道雷电。塞墨勒在恐惧中死去。可是她腹中的孩子还活着：宙斯从火中抢出这个才六个月大、早产的胎儿，把他缝进了自己的大腿里。《书库》在这里的叙述极为简短，却包含了希腊神话中最奇特的一个情节：一位男神用自己的身体怀胎。狄俄倪索斯因此常被称为“两次出生的神”——第一次从母亲的身体里出生，第二次从父亲的大腿里出生。塞墨勒的死，也让她成为希腊神话中很少见的人物：一位因为见到神的真身而死去的凡间母亲，她的儿子却成了奥林波斯的神。古代的忒拜人在卡德摩斯宫殿的废墟中保留着一块被雷电击中的地方，据说那就是塞墨勒的新房，人们在那里纪念她。这一章的结局是悲剧，但在《书库》的叙述中，它也是一个开始：雷火烧毁了一个凡人的家，却成全了一位神的出生。
+
+*Unable to refuse, Zeus came to her bridal chamber in a chariot with lightnings and thunderings and launched a thunderbolt. Semele expired of fright. But the child in her womb lived: Zeus snatched the six-month abortive child from the fire and sewed it in his thigh. The Library tells this very briefly, yet it holds one of the strangest episodes in Greek myth: a male god carrying a child in his own body. So Dionysus is often called the twice-born god — born once from his mother and again from his father's thigh. Semele's death also makes her a rare figure: a mortal mother who died from seeing a god in his true form, whose son became an Olympian. The ancient Thebans kept a spot in the ruins of Cadmus's palace said to have been struck by the thunderbolt — Semele's bridal chamber — where she was remembered. The chapter ends in tragedy, but in the Library it is also a beginning: the thunder-fire destroys a mortal's home and brings about a god's birth.*
+
+<sub>来源 / Source：Pseudo-Apollodorus, Library · Library 3.4.3–3.5.3, 3.14.7 (sequential retelling) · 阿波罗多洛斯《书库》3.4.3。</sub>
+
+### 3. 第二次出生 / The second birth
+
+塞墨勒死后，卡德摩斯的其他女儿们四处散布流言，说塞墨勒是和一个凡人同床，却谎称是宙斯，所以才被雷电击死。这个流言后来给她们带来了可怕的报应。到了合适的时候，宙斯拆开大腿上的缝线，生下了狄俄倪索斯，把他交给了赫尔墨斯。赫尔墨斯把孩子送到塞墨勒的姐姐伊诺和她的丈夫阿塔玛斯那里，劝他们把孩子当作女孩来抚养，好让赫拉认不出他来。这是狄俄倪索斯一生中第一次以伪装求生，也是后来他在故事中常常变换模样的开端。《书库》的叙述在这里显出一种奇特的对称：塞墨勒的姐妹们因为不信她和宙斯相爱而诽谤她，后来她们的家族却一个接一个地卷入了酒神带来的狂乱之中——伊诺的家将在下一章遭遇不幸，阿高厄的儿子彭透斯和奥托诺厄的儿子阿克泰翁也都将死于非命。在希腊神话里，不承认神的人，往往要付出沉重的代价。
+
+*After Semele's death the other daughters of Cadmus spread the report that she had lain with a mortal man and falsely accused Zeus, and that she was blasted by the thunderbolt for it. That slander would later bring a terrible return on them. At the proper time Zeus undid the stitches and gave birth to Dionysus, and entrusted him to Hermes. Hermes took him to Ino, Semele's sister, and her husband Athamas, and persuaded them to rear him as a girl, so that Hera would not know him. This is the first time Dionysus survives by disguise, and the beginning of his habit of changing shape in later tales. The Library's account here has a strange symmetry: Semele's sisters slandered her because they would not believe she was loved by Zeus, and later their families were drawn one after another into the madness the wine god brought — Ino's house meets disaster in the next chapter, and Agave's son Pentheus and Autonoe's son Actaeon both die terrible deaths. In Greek myth those who deny a god usually pay dearly.*
+
+<sub>来源 / Source：Pseudo-Apollodorus, Library · Library 3.4.3–3.5.3, 3.14.7 (sequential retelling) · 阿波罗多洛斯《书库》3.4.3。</sub>
+
+### 4. 伊诺与阿塔玛斯的疯狂 / The madness of Ino and Athamas
+
+可是赫拉还是知道了。她非常愤怒，让伊诺和阿塔玛斯都发了疯。阿塔玛斯把长子勒阿耳科斯当作一头鹿来追猎，杀死了他。伊诺把幼子墨利刻耳忒斯扔进一口滚烫的大锅里，然后抱着那口锅和死去的孩子跳进了大海。《书库》说，伊诺从此被称为琉科忒亚，意思是“白色的女神”，孩子被称为帕莱蒙，水手们在风暴中向他们求救，因为他们会救助遇难的人。科林斯人还为墨利刻耳忒斯举办了地峡运动会，这是由西绪福斯创立的。这是狄俄倪索斯的故事中第一次出现“疯狂”：赫拉的愤怒没有直接落在婴儿身上，而是落在了抚养他的人身上。后来，狄俄倪索斯自己也将用同样的疯狂来惩罚那些不承认他的人。在《荷马史诗·奥德赛》里，正是这位琉科忒亚在海上把一块头巾交给遇难的奥德修斯，救了他的命——一个因疯狂而跳海的母亲，成了海上救人的女神。
+
+*But Hera found out, and in her anger drove Ino and Athamas mad. Athamas hunted his elder son Learchus as a deer and killed him, and Ino threw the younger, Melicertes, into a boiling cauldron, then, carrying the cauldron with the dead child, sprang into the sea. The Library says Ino is now called Leucothea, the White Goddess, and the boy Palaemon, names given by sailors, for they help storm-tossed mariners; and the Isthmian games were instituted by Sisyphus in honour of Melicertes. This is the first appearance of madness in Dionysus's story: Hera's anger falls not on the infant himself but on those who rear him. Later Dionysus will use the same madness to punish those who refuse him. In Homer's Odyssey it is this Leucothea who gives the shipwrecked Odysseus a veil at sea and saves his life — a mother who leapt into the sea in madness becomes a goddess who rescues men from the waves.*
+
+<sub>来源 / Source：Pseudo-Apollodorus, Library · Library 3.4.3–3.5.3, 3.14.7 (sequential retelling) · 阿波罗多洛斯《书库》3.4.3。</sub>
+
+### 5. 倪萨的仙女 / The nymphs of Nysa
+
+为了不让赫拉再找到他，宙斯把狄俄倪索斯变成了一只小山羊。赫尔墨斯带着这只小山羊，把他送到亚细亚的倪萨，交给那里的仙女们抚养。《书库》说，后来宙斯把这些仙女变成了星星，称为许阿得斯，也就是金牛座中的毕星团。倪萨在哪里，古代作家意见不一：有人说在埃及，有人说在阿拉伯，有人说在印度，《书库》只说它在亚细亚。倪萨这个名字也被认为与狄俄倪索斯的名字有关。这一段很短，却完成了狄俄倪索斯童年的最后一次转移：从母亲的身体到父亲的大腿，从伊诺的家到倪萨的山中，从一个被当作女孩抚养的婴儿，变成一只小山羊。在古希腊的宗教中，山羊和小鹿常常与酒神联系在一起，他的女信徒们披着小鹿的皮，而悲剧这个词，据说也和山羊有关。从这一刻起，狄俄倪索斯不再是一个需要躲藏的孩子，他将在仙女们的山中长大，成为一位四处游历、让人们认识他的神。
+
+*To keep him from Hera, Zeus turned Dionysus into a kid, and Hermes took him to the nymphs who dwelt at Nysa in Asia. The Library says Zeus afterwards turned these nymphs into stars and named them the Hyades, the cluster in the constellation of the Bull. Ancient writers disagreed about where Nysa was — some said Egypt, some Arabia, some India — and the Library says only that it was in Asia. The name Nysa was also thought to be linked with Dionysus's own name. The passage is short, but it completes the last move of his childhood: from his mother's body to his father's thigh, from Ino's house to the mountains of Nysa, from an infant reared as a girl to a young goat. In Greek religion goats and fawns were closely tied to the wine god; his women followers wore fawnskins, and the word tragedy was said to be connected with the goat. From here Dionysus is no longer a child in hiding; he will grow up in the nymphs' mountains and become a god who travels the world making himself known.*
+
+<sub>来源 / Source：Pseudo-Apollodorus, Library · Library 3.4.3–3.5.3, 3.14.7 (sequential retelling) · 阿波罗多洛斯《书库》3.4.3。</sub>
+
+### 6. 葡萄与疯狂 / The vine and the madness
+
+《书库》第三卷接着说：狄俄倪索斯是葡萄的发现者。赫拉让他发了疯，他四处流浪，走遍了埃及和叙利亚。最先接待他的是埃及国王普洛透斯。后来他来到弗里吉亚的库柏拉，在那里，瑞亚为他洗净了疯狂，把秘仪传授给他，给了他举行仪式时穿的服装。从此，他带着这些秘仪穿过色雷斯，前去征讨印度人。这几句话概括了狄俄倪索斯从受难的神变成传教的神的过程：他发现了葡萄这件给人类的礼物，却因为赫拉的嫉妒而失去理智，在异乡流浪；直到众神之母瑞亚——在弗里吉亚，她常常与大母神库柏勒等同——为他净化，他才找回自己，并且得到了秘仪。在古希腊人的观念里，狄俄倪索斯是从外邦来的神，他的崇拜带着弗里吉亚、色雷斯和东方的色彩，这一点在他的游历路线中也能看出来。接下来，他要回到希腊，让那些不承认他的城邦认识他是神。
+
+*The third book goes on: Dionysus discovered the vine. Hera drove him mad, and he roamed about Egypt and Syria. At first he was received by Proteus, king of Egypt. Then he came to Cybela in Phrygia, and there he was purified by Rhea and learned the rites of initiation, and received from her the costume. With these he hastened through Thrace against the Indians. These few sentences sum up Dionysus's change from a suffering god into a god who spreads his worship: he discovered the vine, his gift to mankind, yet through Hera's jealousy lost his mind and wandered in foreign lands, until Rhea, mother of the gods — often identified in Phrygia with the Great Mother Cybele — purified him, and he recovered himself and gained the rites. To the ancient Greeks Dionysus was a god from abroad, and his worship carried Phrygian, Thracian and eastern colouring, as his route shows. Next he must come back to Greece and make the cities that refuse him know him as a god.*
+
+<sub>来源 / Source：Pseudo-Apollodorus, Library · Library 3.4.3–3.5.3, 3.14.7 (sequential retelling) · 阿波罗多洛斯《书库》3.5.1。</sub>
+
+### 7. 吕枯耳戈斯 / Lycurgus
+
+在色雷斯，斯特律蒙河边的厄多涅斯人的国王、德律阿斯的儿子吕枯耳戈斯第一个侮辱了狄俄倪索斯，把他赶了出去。狄俄倪索斯逃进大海，躲在涅柔斯的女儿忒提斯那里。他的女信徒们和跟随他的萨提尔们却被吕枯耳戈斯抓住，关了起来。后来，女信徒们突然被释放了，狄俄倪索斯让吕枯耳戈斯发了疯。吕枯耳戈斯在疯狂中把自己的儿子德律阿斯当作一根葡萄枝，用斧头砍死了他，砍下他的四肢之后，才清醒过来。这时整个国家都荒芜了，土地不长庄稼。神谕说，只有处死吕枯耳戈斯，土地才会重新结出果实。厄多涅斯人听了，就把他带到潘加翁山上捆起来，在狄俄倪索斯的意旨下，让马把他撕碎了。荷马在《伊利亚特》里也提到吕枯耳戈斯追打酒神的保姆们、吓得酒神跳进海里，忒提斯把他藏在怀中，后来宙斯弄瞎了吕枯耳戈斯的眼睛。两个文本对他的结局说法不同，各自保留。
+
+*In Thrace, Lycurgus son of Dryas, king of the Edonians who dwell beside the river Strymon, was the first to insult and expel Dionysus. Dionysus took refuge in the sea with Thetis, daughter of Nereus, and the Bacchantes and the multitude of Satyrs who attended him were taken prisoner. But afterwards the Bacchantes were suddenly released, and Dionysus drove Lycurgus mad. In his madness Lycurgus struck his son Dryas with an axe, imagining he was lopping a branch of a vine, and he did not come to his senses until he had cut off his son's extremities. The land then remained barren, and the god's oracle declared that it would bear fruit if Lycurgus were put to death. On hearing this the Edonians took him to Mount Pangaeum and bound him, and there, by the will of Dionysus, he died, destroyed by horses. Homer's Iliad also mentions Lycurgus chasing the wine god's nurses and frightening the god into the sea, where Thetis took him into her bosom, and says Zeus later blinded Lycurgus. The two texts differ on his end, and each account is kept.*
+
+<sub>来源 / Source：Pseudo-Apollodorus, Library · Library 3.4.3–3.5.3, 3.14.7 (sequential retelling) · 阿波罗多洛斯《书库》3.5.1。</sub>
+
+### 8. 回到忒拜 / Back to Thebes
+
+狄俄倪索斯穿过色雷斯和整个印度，在那里竖起了石柱，然后来到了忒拜。这座城市是他母亲的故乡，可是城里的人并不承认他是神，他母亲的姐妹们曾说塞墨勒撒了谎。狄俄倪索斯迫使忒拜的妇女们离开自己的家，在喀泰戎山上举行狂欢的仪式。她们披着小鹿皮，手持缠着常春藤的神杖，在山林中奔跑、唱歌、跳舞。当时统治忒拜的是彭透斯，他是阿高厄和厄喀翁的儿子，卡德摩斯的外孙。彭透斯从卡德摩斯手里接过了王位，他认为这些仪式是对城邦秩序的威胁，想要阻止这一切。《书库》在这里的讲述非常简洁，可它清楚地点出了冲突的双方：一边是来自外乡、却与这座城市有着血缘关系的神，一边是一位年轻的国王，他拒绝承认自己的表兄是神。从塞墨勒的死到狄俄倪索斯回到故乡，故事绕了一个大圈；而这个圈的终点，将是又一场家族内部的悲剧。
+
+*Having traversed Thrace and the whole of India and set up pillars there, Dionysus came to Thebes. It was his mother's city, yet its people did not acknowledge him as a god, and his mother's sisters had said that Semele lied. He forced the women of Thebes to leave their houses and rave in Bacchic frenzy on Cithaeron. Clad in fawnskins and carrying thyrsi wreathed with ivy, they ran, sang and danced in the mountain woods. Thebes was then ruled by Pentheus, son of Agave and Echion, grandson of Cadmus, who had received the kingdom from Cadmus. He saw the rites as a threat to the order of the city and tried to put a stop to them. The Library's account here is very brief, yet it marks the two sides of the conflict clearly: a god from abroad who is nonetheless bound to the city by blood, and a young king who refuses to accept that his cousin is a god. From Semele's death to Dionysus's return home, the story has come full circle — and at the end of the circle stands another tragedy within the family.*
+
+<sub>来源 / Source：Pseudo-Apollodorus, Library · Library 3.4.3–3.5.3, 3.14.7 (sequential retelling) · 阿波罗多洛斯《书库》3.5.2。</sub>
+
+### 9. 彭透斯 / Pentheus
+
+彭透斯想阻止酒神的仪式，就来到喀泰戎山上，暗中窥探那些狂欢的女人。可是他的母亲阿高厄正处在狂乱之中，把自己的儿子当成了一头野兽，和其他女信徒一起把他撕成了碎片。《书库》对这一幕只用了一句话，后来欧里庇得斯在悲剧《酒神的伴侣》中把它写成了希腊戏剧中最令人震撼的场面之一：阿高厄清醒过来，才发现自己手中捧着的是儿子的头。狄俄倪索斯以这种方式向忒拜人证明了自己是神。接着《书库》说，他离开忒拜，来到阿尔戈斯，那里的人也不尊敬他，他又让那里的妇女发了疯，在山上做出了可怕的事。在这几个故事里，狄俄倪索斯总是先被拒绝，然后让拒绝他的人陷入疯狂，最后人们不得不承认他。对古希腊人来说，这正是酒神的两面性：他带来葡萄酒的欢乐，也带来让人失去自我的狂乱；对于接纳他的人，他是一位慷慨的神，对于抗拒他的人，他是一位可怕的神。
+
+*To stop the rites Pentheus went to Cithaeron to spy on the raving women. But his mother Agave, in her frenzy, took her own son for a wild beast and, with the other Bacchantes, tore him limb from limb. The Library gives this a single sentence; later Euripides, in the Bacchae, made it one of the most shattering scenes in Greek drama: Agave comes to her senses to find that what she holds is her son's head. In this way Dionysus showed the Thebans that he was a god. Then, the Library says, he left Thebes and came to Argos, where again the people did not honour him, and he drove the women mad, and on the mountains they did terrible things. In each of these tales Dionysus is first refused, then drives those who refuse him into madness, until at last men must acknowledge him. To the Greeks this was the double nature of the wine god: he brings the joy of wine, and also the frenzy in which one loses oneself; to those who receive him he is a generous god, to those who resist him a terrible one.*
+
+<sub>来源 / Source：Pseudo-Apollodorus, Library · Library 3.4.3–3.5.3, 3.14.7 (sequential retelling) · 阿波罗多洛斯《书库》3.5.2。</sub>
+
+### 10. 第勒尼安海盗 / The Tyrrhenian pirates
+
+狄俄倪索斯想从伊卡里亚岛渡海到纳克索斯岛，就雇了一条第勒尼安海盗的船。海盗们把他带上船后，却驶过纳克索斯，直奔亚细亚，打算把他卖掉。狄俄倪索斯把船上的桅杆和船桨变成了蛇，让船上长满了常春藤，四处响起了笛声。海盗们发了疯，纷纷跳进海里，变成了海豚。《书库》说，人们就这样知道了他是神，开始崇拜他。同样的故事在《荷马颂歌·致狄俄倪索斯》里讲得更详细：那里海盗们看见一个穿着紫袍的年轻人坐在海岬上，以为他是王子，把他捆上船，可绳索从他身上自己脱落了；舵手认出他是神，劝大家放了他，却没人听；接着船上流出了芬芳的酒，葡萄藤爬满了船帆，神变成一头狮子，海盗们跳海变成海豚，只有那位好心的舵手得到了神的怜悯。两个文本的细节不同，可核心一样：想把神当作奴隶卖掉的人，最后连人的形状都失去了。
+
+*Wishing to be ferried from Icaria to Naxos, Dionysus hired a pirate ship of Tyrrhenians. But when they had him on board they sailed past Naxos and made for Asia, meaning to sell him. Then he turned the mast and oars into snakes, filled the vessel with ivy and the sound of flutes, and the pirates went mad, leapt into the sea and were turned into dolphins. Thus, the Library says, men learned that he was a god and honoured him. The same tale is told at more length in the Homeric Hymn to Dionysus: there the pirates see a young man in a purple robe on a headland, take him for a prince and bind him aboard, but the bonds fall from him of themselves; the helmsman recognises a god and urges them to free him, but no one listens; then fragrant wine flows through the ship, a vine spreads over the sail, the god becomes a lion, and the pirates leap into the sea as dolphins — only the kind helmsman is spared. The details differ, but the core is the same: those who would sell a god as a slave lose even their human shape.*
+
+<sub>来源 / Source：Pseudo-Apollodorus, Library · Library 3.4.3–3.5.3, 3.14.7 (sequential retelling) · 阿波罗多洛斯《书库》3.5.3。</sub>
+
+### 11. 从冥府带回母亲 / Bringing his mother up from Hades
+
+《书库》用一句话为狄俄倪索斯在大地上的游历作了结尾：人们知道了他是神，开始崇拜他；他从冥府带回了自己的母亲，给她取名堤俄涅，和她一起升上了天空。这样，故事又回到了它的起点。在第一章里，塞墨勒因为想看到宙斯的真身而死去，她的姐妹们说她撒谎，她的名字蒙上了污点；在最后，她的儿子以神的身份走进冥府，把她带回来，让她和自己一起成为天上的神。后来的作家说，狄俄倪索斯是从阿尔戈利斯的勒耳纳湖下到冥府的，那里被认为是通往冥界的入口之一；《书库》没有讲这些细节。在希腊宗教中，塞墨勒也以堤俄涅之名受到崇拜，品达在诗中说她住在奥林波斯，宙斯和雅典娜都爱她。一个被雷电烧死的凡间女子，最后成了不死的女神——这既是儿子对母亲的报答，也是对当初那些不相信她的人最好的回答。
+
+*The Library closes Dionysus's wanderings on earth in one sentence: men learned that he was a god and honoured him; and having brought up his mother from Hades and named her Thyone, he ascended with her to heaven. So the story returns to its start. In the first chapter Semele died because she wanted to see Zeus in his true form; her sisters said she lied, and her name was stained. At the end her son goes down into Hades as a god, brings her back and makes her a goddess in heaven beside him. Later writers say Dionysus went down to Hades through the Alcyonian lake at Lerna in the Argolid, held to be an entrance to the underworld; the Library gives no such details. In Greek religion Semele was worshipped as Thyone, and Pindar sings that she dwells on Olympus, beloved of Zeus and of Athena. A mortal woman burned by the thunderbolt becomes an immortal goddess — her son's repayment of his mother, and the best answer to those who once refused to believe her.*
+
+<sub>来源 / Source：Pseudo-Apollodorus, Library · Library 3.4.3–3.5.3, 3.14.7 (sequential retelling) · 阿波罗多洛斯《书库》3.5.3。</sub>
+
+### 12. 伊卡里俄斯 / Icarius
+
+《书库》在讲雅典诸王的时候，又提到了狄俄倪索斯。在潘狄翁统治雅典的时候，得墨忒耳和狄俄倪索斯来到了阿提卡：得墨忒耳在厄琉息斯受到刻琉斯的款待，狄俄倪索斯则受到伊卡里俄斯的款待。伊卡里俄斯从神那里得到一根葡萄枝，学会了酿酒的方法。他想把神的恩赐分享给人们，就去找一些牧人，请他们喝酒。牧人们尝了以后，为了痛快，不掺水就大口地喝，结果以为自己中了毒，就把伊卡里俄斯杀死了。第二天他们酒醒了，才把他埋葬。伊卡里俄斯的女儿厄里戈涅四处寻找父亲，一直跟随伊卡里俄斯的狗迈拉找到了他的尸体，厄里戈涅为父亲痛哭之后，上吊自尽了。这个结局并不欢乐，却说明了希腊人对葡萄酒的复杂感情：它是神的礼物，也是一种需要学会如何享用的力量。古希腊人通常把酒掺水饮用，不掺水的烈酒被看作野蛮人的习惯；伊卡里俄斯的死，正发生在人们还不懂得这一点的时候。
+
+*Telling of the kings of Athens, the Library mentions Dionysus again. In the reign of Pandion, Demeter and Dionysus came to Attica: Demeter was received by Celeus at Eleusis, and Dionysus by Icarius. Icarius received from the god a branch of a vine and learned the process of making wine. Wishing to share the god's gifts with men, he went to some shepherds and offered them wine. They tasted it and, for the pleasure of it, drank it without water, then thought they had been bewitched and killed him. By day, when they were sober, they buried him. Erigone, Icarius's daughter, searched for her father; the dog Maera, which had followed him, found the body, and Erigone, after mourning her father, hanged herself. The ending is not joyful, yet it shows the Greeks' complex feelings about wine: a god's gift, and also a power one must learn how to use. The Greeks usually drank wine mixed with water, and drinking it neat was thought a barbarian habit; Icarius died at a time when men had not yet learned this.*
+
+<sub>来源 / Source：Pseudo-Apollodorus, Library · Library 3.4.3–3.5.3, 3.14.7 (sequential retelling) · 阿波罗多洛斯《书库》3.14.7。</sub>
 
 ---
 
@@ -938,35 +1126,17 @@
 
 ## 帕拉斯（提坦） · Pallas (Titan)
 
-**证据卡 / Evidence card**
+**有完整故事 / Full story**
+
+完整故事档案：[story.greek.titans_children](../story.greek.titans_children.md)
 
 > 克利俄斯与欧律比亚之子；以限定 ID 与其他名为帕拉斯的神话人物分开。
 
 > *Son of Crius and Eurybia; scoped ID prevents merger with other figures named Pallas.*
 
-### 1. 记载 / Record
+**长篇故事 · 15 章**：与本页「克利俄斯」一节是同一个故事，全文见上方或[故事档案](../story.greek.titans_children.md)。
 
-克利俄斯是帕拉斯（提坦）的父母。
-
-*Theogony 375-377 names Pallas among the children of Crius and Eurybia.*
-
-<sub>来源 / Source：Hesiod, Theogony · Theogony 375-377</sub>
-
-### 2. 记载 / Record
-
-欧律比亚是帕拉斯（提坦）的父母。
-
-*Theogony 375-377 names Pallas among the children of Crius and Eurybia.*
-
-<sub>来源 / Source：Hesiod, Theogony · Theogony 375-377</sub>
-
-### 3. 记载 / Record
-
-珀耳塞斯（提坦）与帕拉斯（提坦）是兄弟姐妹。
-
-*Theogony 375-377 lists Perses and Pallas as children of Crius and Eurybia.*
-
-<sub>来源 / Source：Hesiod, Theogony · Theogony 375-377</sub>
+目录：01 混沌之子 · 02 埃忒耳与赫墨拉 · 03 十二位提坦 · 04 夜的子女 · 05 海的女儿 · 06 太阳、月亮与黎明 · 07 克利俄斯的儿子们 · 08 风与星辰 · 09 斯梯克斯的孩子 · 10 众神的誓言 · 11 福柏的女儿们 · 12 赫卡忒的荣耀 · 13 夜与昼的门槛 · 14 睡与死的住所 · 15 厄俄斯的儿子们
 
 ---
 
@@ -988,49 +1158,29 @@
 
 ## 忒亚 · Theia
 
-**证据卡 / Evidence card**
+**有完整故事 / Full story**
+
+完整故事档案：[story.greek.titans_children](../story.greek.titans_children.md)
 
 > *Titan child of Gaia and Uranus and parent, with Hyperion, of Helios, Selene and Eos in Hesiod.*
 
-### 1. 记载 / Record
+**长篇故事 · 15 章**：与本页「克利俄斯」一节是同一个故事，全文见上方或[故事档案](../story.greek.titans_children.md)。
 
-忒亚是盖亚的孩子。
+目录：01 混沌之子 · 02 埃忒耳与赫墨拉 · 03 十二位提坦 · 04 夜的子女 · 05 海的女儿 · 06 太阳、月亮与黎明 · 07 克利俄斯的儿子们 · 08 风与星辰 · 09 斯梯克斯的孩子 · 10 众神的誓言 · 11 福柏的女儿们 · 12 赫卡忒的荣耀 · 13 夜与昼的门槛 · 14 睡与死的住所 · 15 厄俄斯的儿子们
 
-*Theogony 133-136 lists Theia among the children of Gaia and Uranus.*
+---
 
-<sub>来源 / Source：Hesiod, Theogony, Evelyn-White English text · Theogony 133-136</sub>
+## 斯梯克斯 · Styx
 
-### 2. 记载 / Record
+**有完整故事 / Full story**
 
-忒亚是乌拉诺斯的孩子。
+完整故事档案：[story.greek.titans_children](../story.greek.titans_children.md)
 
-*Theogony 133-136 lists Theia among the children of Gaia and Uranus.*
+> *Eldest daughter of Ocean; bore Zelos, Nike, Kratos and Bia to Pallas, came first to Zeus's side against the Titans, and was made the great oath of the gods (Theogony 361, 383–403, 775–806).*
 
-<sub>来源 / Source：Hesiod, Theogony, Evelyn-White English text · Theogony 133-136</sub>
+**长篇故事 · 15 章**：与本页「克利俄斯」一节是同一个故事，全文见上方或[故事档案](../story.greek.titans_children.md)。
 
-### 3. 记载 / Record
-
-忒亚是厄俄斯的父母。
-
-*Theogony 371-374 presents Theia and Hyperion as parents of Eos.*
-
-<sub>来源 / Source：Hesiod, Theogony, Evelyn-White English text · Theogony 371-374</sub>
-
-### 4. 记载 / Record
-
-忒亚是赫利俄斯的父母。
-
-*Theogony 371-374 presents Theia and Hyperion as parents of Helios.*
-
-<sub>来源 / Source：Hesiod, Theogony, Evelyn-White English text · Theogony 371-374</sub>
-
-### 5. 记载 / Record
-
-忒亚是塞勒涅的父母。
-
-*Theogony 371-374 presents Theia and Hyperion as parents of Selene.*
-
-<sub>来源 / Source：Hesiod, Theogony, Evelyn-White English text · Theogony 371-374</sub>
+目录：01 混沌之子 · 02 埃忒耳与赫墨拉 · 03 十二位提坦 · 04 夜的子女 · 05 海的女儿 · 06 太阳、月亮与黎明 · 07 克利俄斯的儿子们 · 08 风与星辰 · 09 斯梯克斯的孩子 · 10 众神的誓言 · 11 福柏的女儿们 · 12 赫卡忒的荣耀 · 13 夜与昼的门槛 · 14 睡与死的住所 · 15 厄俄斯的儿子们
 
 ---
 
@@ -1050,35 +1200,17 @@
 
 ## 欧律比亚 · Eurybia
 
-**证据卡 / Evidence card**
+**有完整故事 / Full story**
+
+完整故事档案：[story.greek.titans_children](../story.greek.titans_children.md)
 
 > 与克利俄斯生下阿斯特赖俄斯、帕拉斯和提坦珀耳塞斯的女神；与其他同名人物分开。
 
 > *Goddess paired with Crius in the genealogy of Astraeus, Pallas and the Titan Perses.*
 
-### 1. 记载 / Record
+**长篇故事 · 15 章**：与本页「克利俄斯」一节是同一个故事，全文见上方或[故事档案](../story.greek.titans_children.md)。
 
-欧律比亚是阿斯特赖俄斯的父母。
-
-*Theogony 375-377 names Astraeus among the children of Crius and Eurybia.*
-
-<sub>来源 / Source：Hesiod, Theogony · Theogony 375-377</sub>
-
-### 2. 记载 / Record
-
-欧律比亚是帕拉斯（提坦）的父母。
-
-*Theogony 375-377 names Pallas among the children of Crius and Eurybia.*
-
-<sub>来源 / Source：Hesiod, Theogony · Theogony 375-377</sub>
-
-### 3. 记载 / Record
-
-欧律比亚是珀耳塞斯（提坦）的父母。
-
-*Theogony 375-377 and Library 1.2.2 make Eurybia a parent of the Titan Perses.*
-
-<sub>来源 / Source：Hesiod, Theogony · Theogony 375-377; Library 1.2.2</sub>
+目录：01 混沌之子 · 02 埃忒耳与赫墨拉 · 03 十二位提坦 · 04 夜的子女 · 05 海的女儿 · 06 太阳、月亮与黎明 · 07 克利俄斯的儿子们 · 08 风与星辰 · 09 斯梯克斯的孩子 · 10 众神的誓言 · 11 福柏的女儿们 · 12 赫卡忒的荣耀 · 13 夜与昼的门槛 · 14 睡与死的住所 · 15 厄俄斯的儿子们
 
 ---
 
@@ -1100,43 +1232,17 @@
 
 ## 狄俄倪索斯 · Dionysus
 
-**证据卡 / Evidence card**
+**有完整故事 / Full story**
+
+完整故事档案：[story.greek.dionysus_library](../story.greek.dionysus_library.md)
 
 > 宙斯与塞墨勒之子；第7首《荷马颂歌》保存海盗事件的神话叙事。
 
 > *Son of Zeus and Semele; Hymn 7 preserves the pirate episode.*
 
-### 1. 记载 / Record
+**长篇故事 · 12 章**：与本页「塞墨勒」一节是同一个故事，全文见上方或[故事档案](../story.greek.dionysus_library.md)。
 
-狄俄倪索斯——角色：divine protagonist of the pirate episode in Homeric Hymn 7
-
-*Homeric Hymn 7 narrates pirates seizing Dionysus and the ensuing divine epiphany.*
-
-<sub>来源 / Source：Homeric Hymn 7 to Dionysus, Evelyn-White English text · lines 1-55</sub>
-
-### 2. 记载 / Record
-
-狄俄倪索斯是塞墨勒的孩子。
-
-*Theogony 940-942 presents Dionysus as a child of Semele and Zeus.*
-
-<sub>来源 / Source：Hesiod, Theogony, Evelyn-White English text · lines 940-942</sub>
-
-### 3. 记载 / Record
-
-狄俄倪索斯是宙斯的孩子。
-
-*Theogony 940-942 presents Dionysus as a child of Semele and Zeus.*
-
-<sub>来源 / Source：Hesiod, Theogony, Evelyn-White English text · lines 940-942</sub>
-
-### 4. 记载 / Record
-
-《荷马颂歌·致狄俄倪索斯》（第7首）提到狄俄倪索斯。
-
-*Homeric Hymn 7 narrates Dionysus’s encounter with pirates.*
-
-<sub>来源 / Source：Homeric Hymn 7 to Dionysus, Evelyn-White English text · lines 1-55</sub>
+目录：01 塞墨勒的请求 · 02 雷火 · 03 第二次出生 · 04 伊诺与阿塔玛斯的疯狂 · 05 倪萨的仙女 · 06 葡萄与疯狂 · 07 吕枯耳戈斯 · 08 回到忒拜 · 09 彭透斯 · 10 第勒尼安海盗 · 11 从冥府带回母亲 · 12 伊卡里俄斯
 
 ---
 
@@ -1184,59 +1290,17 @@
 
 ## 珀耳塞斯（提坦） · Perses (Titan)
 
-**证据卡 / Evidence card**
+**有完整故事 / Full story**
+
+完整故事档案：[story.greek.titans_children](../story.greek.titans_children.md)
 
 > 赫西俄德与《书库》中克利俄斯、欧律比亚之子，阿斯特赖俄斯与帕拉斯之兄弟，阿斯忒里亚的配偶及赫卡忒之父。
 
 > *Titan son of Crius and Eurybia, brother of Astraeus and Pallas, consort of Asteria and father of Hecate.*
 
-### 1. 记载 / Record
+**长篇故事 · 15 章**：与本页「克利俄斯」一节是同一个故事，全文见上方或[故事档案](../story.greek.titans_children.md)。
 
-珀耳塞斯（提坦）是赫卡忒的父母。
-
-*Theogony 404-409 presents Perses and Asteria as parents of Hecate.*
-
-<sub>来源 / Source：Hesiod, Theogony, Evelyn-White English text · Theogony 404-409</sub>
-
-### 2. 记载 / Record
-
-克利俄斯是珀耳塞斯（提坦）的父母。
-
-*Theogony 375-377 and Library 1.2.2 make Crius a parent of the Titan Perses.*
-
-<sub>来源 / Source：Hesiod, Theogony · Theogony 375-377; Library 1.2.2</sub>
-
-### 3. 记载 / Record
-
-欧律比亚是珀耳塞斯（提坦）的父母。
-
-*Theogony 375-377 and Library 1.2.2 make Eurybia a parent of the Titan Perses.*
-
-<sub>来源 / Source：Hesiod, Theogony · Theogony 375-377; Library 1.2.2</sub>
-
-### 4. 记载 / Record
-
-珀耳塞斯（提坦）是赫卡忒的父母。
-
-*Library 1.2.4 makes Hecate the child of Perses and Asteria.*
-
-<sub>来源 / Source：Pseudo-Apollodorus, Library · Library 1.2.4</sub>
-
-### 5. 记载 / Record
-
-珀耳塞斯（提坦）与阿斯特赖俄斯是兄弟姐妹。
-
-*Theogony 375-377 lists Perses and Astraeus as children of Crius and Eurybia.*
-
-<sub>来源 / Source：Hesiod, Theogony · Theogony 375-377</sub>
-
-### 6. 记载 / Record
-
-珀耳塞斯（提坦）与帕拉斯（提坦）是兄弟姐妹。
-
-*Theogony 375-377 lists Perses and Pallas as children of Crius and Eurybia.*
-
-<sub>来源 / Source：Hesiod, Theogony · Theogony 375-377</sub>
+目录：01 混沌之子 · 02 埃忒耳与赫墨拉 · 03 十二位提坦 · 04 夜的子女 · 05 海的女儿 · 06 太阳、月亮与黎明 · 07 克利俄斯的儿子们 · 08 风与星辰 · 09 斯梯克斯的孩子 · 10 众神的誓言 · 11 福柏的女儿们 · 12 赫卡忒的荣耀 · 13 夜与昼的门槛 · 14 睡与死的住所 · 15 厄俄斯的儿子们
 
 ---
 
@@ -1326,83 +1390,59 @@
 
 ---
 
+## 福柏 · Phoebe
+
+**有完整故事 / Full story**
+
+完整故事档案：[story.greek.titans_children](../story.greek.titans_children.md)
+
+> *Titaness, daughter of Uranus and Gaia; with Coeus she bore Leto and Asteria (Theogony 136, 404–410).*
+
+**长篇故事 · 15 章**：与本页「克利俄斯」一节是同一个故事，全文见上方或[故事档案](../story.greek.titans_children.md)。
+
+目录：01 混沌之子 · 02 埃忒耳与赫墨拉 · 03 十二位提坦 · 04 夜的子女 · 05 海的女儿 · 06 太阳、月亮与黎明 · 07 克利俄斯的儿子们 · 08 风与星辰 · 09 斯梯克斯的孩子 · 10 众神的誓言 · 11 福柏的女儿们 · 12 赫卡忒的荣耀 · 13 夜与昼的门槛 · 14 睡与死的住所 · 15 厄俄斯的儿子们
+
+---
+
+## 蓬托斯 · Pontus
+
+**有完整故事 / Full story**
+
+完整故事档案：[story.greek.titans_children](../story.greek.titans_children.md)
+
+> *The barren Sea, born of Earth without love; with Earth he fathers Nereus, Thaumas, Phorcys, Ceto and Eurybia (Theogony 131–132, 233–239).*
+
+**长篇故事 · 15 章**：与本页「克利俄斯」一节是同一个故事，全文见上方或[故事档案](../story.greek.titans_children.md)。
+
+目录：01 混沌之子 · 02 埃忒耳与赫墨拉 · 03 十二位提坦 · 04 夜的子女 · 05 海的女儿 · 06 太阳、月亮与黎明 · 07 克利俄斯的儿子们 · 08 风与星辰 · 09 斯梯克斯的孩子 · 10 众神的誓言 · 11 福柏的女儿们 · 12 赫卡忒的荣耀 · 13 夜与昼的门槛 · 14 睡与死的住所 · 15 厄俄斯的儿子们
+
+---
+
 ## 许普诺斯 · Hypnos
 
-**证据卡 / Evidence card**
+**有完整故事 / Full story**
+
+完整故事档案：[story.greek.titans_children](../story.greek.titans_children.md)
 
 > *Personified Sleep among the children of Nyx in Hesiod’s Theogony.*
 
-### 1. 记载 / Record
+**长篇故事 · 15 章**：与本页「克利俄斯」一节是同一个故事，全文见上方或[故事档案](../story.greek.titans_children.md)。
 
-许普诺斯是倪克斯的孩子。
-
-*Theogony 211-212 lists Hypnos among the children of Nyx.*
-
-<sub>来源 / Source：Hesiod, Theogony, Evelyn-White English text · Theogony 211-225</sub>
-
-### 2. 记载 / Record
-
-塔纳托斯与许普诺斯是兄弟姐妹。
-
-*Thanatos and Hypnos occur together as children of Nyx in the Hesiodic genealogy.*
-
-<sub>来源 / Source：Hesiod, Theogony, Evelyn-White English text · Theogony 211-225</sub>
-
-### 3. 记载 / Record
-
-许普诺斯象征睡眠。
-
-*The comparative index connects Hypnos with sleep while retaining the culture-specific deity record.*
-
-<sub>来源 / Source：Hesiod, Theogony, Evelyn-White English text · Theogony 211-225</sub>
+目录：01 混沌之子 · 02 埃忒耳与赫墨拉 · 03 十二位提坦 · 04 夜的子女 · 05 海的女儿 · 06 太阳、月亮与黎明 · 07 克利俄斯的儿子们 · 08 风与星辰 · 09 斯梯克斯的孩子 · 10 众神的誓言 · 11 福柏的女儿们 · 12 赫卡忒的荣耀 · 13 夜与昼的门槛 · 14 睡与死的住所 · 15 厄俄斯的儿子们
 
 ---
 
 ## 许珀里翁 · Hyperion
 
-**证据卡 / Evidence card**
+**有完整故事 / Full story**
+
+完整故事档案：[story.greek.titans_children](../story.greek.titans_children.md)
 
 > *Titan child of Gaia and Uranus and parent, with Theia, of Helios, Selene and Eos in Hesiod.*
 
-### 1. 记载 / Record
+**长篇故事 · 15 章**：与本页「克利俄斯」一节是同一个故事，全文见上方或[故事档案](../story.greek.titans_children.md)。
 
-许珀里翁是盖亚的孩子。
-
-*Theogony 133-136 lists Hyperion among the children of Gaia and Uranus.*
-
-<sub>来源 / Source：Hesiod, Theogony, Evelyn-White English text · Theogony 133-136</sub>
-
-### 2. 记载 / Record
-
-许珀里翁是乌拉诺斯的孩子。
-
-*Theogony 133-136 lists Hyperion among the children of Gaia and Uranus.*
-
-<sub>来源 / Source：Hesiod, Theogony, Evelyn-White English text · Theogony 133-136</sub>
-
-### 3. 记载 / Record
-
-许珀里翁是厄俄斯的父母。
-
-*Theogony 371-374 presents Hyperion and Theia as parents of Eos.*
-
-<sub>来源 / Source：Hesiod, Theogony, Evelyn-White English text · Theogony 371-374</sub>
-
-### 4. 记载 / Record
-
-许珀里翁是赫利俄斯的父母。
-
-*Theogony 371-374 presents Hyperion and Theia as parents of Helios.*
-
-<sub>来源 / Source：Hesiod, Theogony, Evelyn-White English text · Theogony 371-374</sub>
-
-### 5. 记载 / Record
-
-许珀里翁是塞勒涅的父母。
-
-*Theogony 371-374 presents Hyperion and Theia as parents of Selene.*
-
-<sub>来源 / Source：Hesiod, Theogony, Evelyn-White English text · Theogony 371-374</sub>
+目录：01 混沌之子 · 02 埃忒耳与赫墨拉 · 03 十二位提坦 · 04 夜的子女 · 05 海的女儿 · 06 太阳、月亮与黎明 · 07 克利俄斯的儿子们 · 08 风与星辰 · 09 斯梯克斯的孩子 · 10 众神的誓言 · 11 福柏的女儿们 · 12 赫卡忒的荣耀 · 13 夜与昼的门槛 · 14 睡与死的住所 · 15 厄俄斯的儿子们
 
 ---
 
@@ -1436,25 +1476,15 @@
 
 ## 赫墨拉 · Hemera
 
-**证据卡 / Evidence card**
+**有完整故事 / Full story**
+
+完整故事档案：[story.greek.titans_children](../story.greek.titans_children.md)
 
 > *Hemera, Day, is born from Nyx through union with Erebus in Theogony 124-125.*
 
-### 1. 记载 / Record
+**长篇故事 · 15 章**：与本页「克利俄斯」一节是同一个故事，全文见上方或[故事档案](../story.greek.titans_children.md)。
 
-赫墨拉是厄瑞玻斯的孩子。
-
-*Theogony 124-125 presents Erebus as Hemera’s other parent.*
-
-<sub>来源 / Source：Hesiod, Theogony, Evelyn-White English text · Theogony 124-125</sub>
-
-### 2. 记载 / Record
-
-赫墨拉是倪克斯的孩子。
-
-*Theogony 124-125 presents Hemera as a child of Nyx.*
-
-<sub>来源 / Source：Hesiod, Theogony, Evelyn-White English text · Theogony 124-125</sub>
+目录：01 混沌之子 · 02 埃忒耳与赫墨拉 · 03 十二位提坦 · 04 夜的子女 · 05 海的女儿 · 06 太阳、月亮与黎明 · 07 克利俄斯的儿子们 · 08 风与星辰 · 09 斯梯克斯的孩子 · 10 众神的誓言 · 11 福柏的女儿们 · 12 赫卡忒的荣耀 · 13 夜与昼的门槛 · 14 睡与死的住所 · 15 厄俄斯的儿子们
 
 ---
 
@@ -1462,15 +1492,111 @@
 
 **有完整故事 / Full story**
 
-完整故事档案：[story.greek.demeter_persephone](../story.greek.demeter_persephone.md)
+完整故事档案：[story.greek.hymn_hermes](../story.greek.hymn_hermes.md)
 
 > 宙斯与迈亚之子；第4首《荷马颂歌》叙其诞生、制琴、盗牛与神使身份。
 
 > *Son of Zeus and Maia; Hymn 4 narrates his birth, lyre-making, cattle theft and messenger role.*
 
-**长篇故事 · 14 章**：与本页「哈得斯」一节是同一个故事，全文见上方或[故事档案](../story.greek.demeter_persephone.md)。
+**长篇故事 · 12 章**
 
-目录：01 尼萨平原的水仙花 · 02 无人回应的呼喊 · 03 九天的火炬 · 04 太阳看见了一切 · 05 厄琉息斯井边的老妇 · 06 伊阿姆贝的玩笑 · 07 火中的婴儿 · 08 女神现出真身 · 09 神庙与可怕的饥荒 · 10 众神轮番劝说 · 11 赫尔墨斯与石榴籽 · 12 母女重逢 · 13 瑞亚带来宙斯的约定 · 14 麦穗重生与秘仪
+目录：01 洞中的仙女 · 02 乌龟变成竖琴 · 03 五十头牛 · 04 昂刻斯托斯的老人 · 05 阿尔甫斯河边的火 · 06 母亲的责备 · 07 阿波罗寻牛 · 08 库勒涅的山洞 · 09 去见宙斯 · 10 宙斯的判断 · 11 竖琴换牛群 · 12 兄弟的盟约
+
+### 1. 洞中的仙女 / The nymph in the cave
+
+诗人请缪斯歌唱赫尔墨斯，宙斯和迈亚的儿子，库勒涅山和牛羊成群的阿卡狄亚的主人，众神迅捷的使者。迈亚是一位秀发的仙女，性情羞怯，不喜欢和众神来往，独自住在一个幽深的山洞里。宙斯常常在深夜里去找她，那时白臂的赫拉正沉沉地睡着，不死的神和会死的人都不知道这件事。等到宙斯的心愿实现，第十个月挂上天空，迈亚就生下了一个孩子：一个机灵狡猾的孩子，强盗、偷牛贼、带来梦境的人、夜里的守望者、守在门口的贼，他很快就要在不死的神中间显出了不起的本事。诗人特意说出他出生的时刻：他清晨出生，中午就弹起了竖琴，傍晚就偷走了远射之神阿波罗的牛——那是每月的第四天，女王迈亚生下他的日子。整首颂歌讲的，就是这个孩子出生后头两天里做的事。
+
+*The poet asks the Muse to sing of Hermes, son of Zeus and Maia, lord of Cyllene and of Arcadia rich in flocks, swift messenger of the gods. Maia was a rich-haired nymph, shy, who shunned the company of the blessed gods and lived in a deep, shadowy cave. There Zeus used to come to her in the dead of night, while white-armed Hera lay sweetly asleep, and neither deathless gods nor mortal men knew of it. When the will of Zeus was fulfilled and the tenth moon was fixed in heaven, Maia bore a son: wily and cunning, a robber, a cattle-driver, a bringer of dreams, a watcher by night, a thief at the gates, who was soon to show wonderful deeds among the deathless gods. The poet marks the hour exactly: born at dawn, at midday he played the lyre, and in the evening he stole the cattle of far-shooting Apollo — on the fourth day of the month, the day on which queenly Maia bore him. The whole hymn tells what this child did in his first two days.*
+
+<sub>来源 / Source：Hesiod, the Homeric Hymns, and Homerica, tr. Hugh G. Evelyn-White (1914) · Hymn 4, lines 1–580 (sequential retelling) · 《荷马颂歌·致赫尔墨斯》第1–19行。</sub>
+
+### 2. 乌龟变成竖琴 / The tortoise becomes a lyre
+
+赫尔墨斯从母亲不朽的怀里一跳下来，就不肯安安静静地躺在神圣的摇篮里，跨过高高的门槛，去找阿波罗的牛群。他在洞口碰到了一只乌龟，正在洞前的草地上慢吞吞地吃草。宙斯这位能干的儿子一看见它就笑了，说：好兆头！我不会小看你。可爱的东西，你来得正好，你是宴会的伴侣，跳舞的朋友。你住在山里，身上却披着这样漂亮的壳，我要把你带回家去。你活着的时候能抵挡害人的巫术，死了以后却能唱出最美的歌。他把乌龟抱进洞里，用一把灰色的铁凿挖出了它的生命，然后按照尺寸截下芦苇，穿过龟壳的背面固定好，在外面蒙上一张牛皮，装上两根琴臂和一根横梁，再拉上七根用羊肠做的和谐的琴弦。做好以后，他拿起这件可爱的玩具，用拨子一根根地试弦，琴声在他手下发出奇妙的声音。神一边弹，一边即兴唱起歌来，就像年轻人在宴会上互相打趣一样：他唱宙斯和穿着漂亮鞋子的迈亚怎样相爱，唱自己高贵的出身，也唱母亲山洞里的侍女、华美的住所和锅碗瓢盆。
+
+*As soon as Hermes leapt from his mother's immortal womb he would not lie still in his holy cradle, but sprang over the threshold of the high-roofed cave to look for Apollo's cattle. There he found a tortoise, slowly feeding on the grass before the cave. The cunning son of Zeus laughed when he saw it and said: 'A lucky sign for me! I will not scorn you. Welcome, lovely thing, companion of the feast and friend of the dance. You live on the mountains, yet wear such a sparkling shell; I will take you home. Living, you are a charm against harmful witchcraft; dead, you will make the sweetest song.' He carried it inside, scooped out its life with a chisel of grey iron, cut stalks of reed to measure and fixed them through the back of the shell, stretched oxhide over it, fitted two horns and a cross-piece, and strung seven harmonious strings of sheep-gut. Then he took up the lovely toy and tried each string with a plectrum, and it sounded wonderfully under his hand. The god sang to it, improvising as young men banter at feasts: of Zeus and neat-shod Maia and their love, of his own glorious birth, of his mother's handmaids, her splendid home and her tripods and cauldrons.*
+
+<sub>来源 / Source：Hesiod, the Homeric Hymns, and Homerica, tr. Hugh G. Evelyn-White (1914) · Hymn 4, lines 1–580 (sequential retelling) · 《荷马颂歌·致赫尔墨斯》第20–61行。</sub>
+
+### 3. 五十头牛 / Fifty cattle
+
+可是赫尔墨斯心里想的是别的事。他把空心的竖琴放回神圣的摇篮里，满心想吃肉，就从芬芳的山洞里跳出来，像强盗在漆黑的夜里那样四处窥探。太阳带着马车和马沉入大洋的时候，赫尔墨斯来到了庇厄里亚的阴暗山岭，那里有众神的牛在可爱的草地上吃草。迈亚的儿子、眼光锐利的阿尔戈斯杀手从牛群里赶走了五十头叫声洪亮的牛。为了不让人看出牛的去向，他想出一个妙计：让牛倒着走，蹄子向前、尾巴向后，在沙地上留下相反的足迹；他自己则走另一条路。他在海边的沙滩上，用柽柳和桃金娘的嫩枝编成一双奇妙的鞋子，把带着叶子的枝条绑在脚下，这样他的脚印就谁也认不出来了。这是一双连神也想不到的鞋子，他像一个准备远行的人那样，匆匆赶着路，离开了庇厄里亚。诗人说，这个出生才一天的孩子，已经比任何老练的盗贼都更狡猾了。
+
+*But Hermes had other things in mind. He laid the hollow lyre in his holy cradle and, craving meat, sprang out of the fragrant cave, looking about like a robber in the dark of night. As the sun was sinking into Ocean with his horses and chariot, Hermes came to the shadowy mountains of Pieria, where the cattle of the blessed gods grazed the lovely meadows. The keen-eyed slayer of Argus, son of Maia, cut out fifty loud-lowing cows from the herd. To hide their path he hit on a trick: he drove them backwards, hooves in front and tails behind, so that their tracks in the sandy ground ran the wrong way; and he himself went by another road. On the sand by the sea he wove wonderful sandals of tamarisk and myrtle twigs, binding the leafy shoots under his feet so that no one could make out his footprints — sandals no god could have imagined. Like one making a long journey in haste, he left Pieria behind. A child one day old, the poet says, was already more cunning than any seasoned thief.*
+
+<sub>来源 / Source：Hesiod, the Homeric Hymns, and Homerica, tr. Hugh G. Evelyn-White (1914) · Hymn 4, lines 1–580 (sequential retelling) · 《荷马颂歌·致赫尔墨斯》第62–86行。</sub>
+
+### 4. 昂刻斯托斯的老人 / The old man at Onchestus
+
+赫尔墨斯赶着牛穿过平原，经过鲜花盛开的昂刻斯托斯时，一个老人正在葡萄园里劳作，看见了这个赶牛的孩子。迈亚光荣的儿子先开口对老人说：老人家，你弯着腰在葡萄园里干活，等你这些葡萄藤结满果实的时候，你的葡萄酒一定很多。可是记住：你看见了也要当作没看见，听见了也要当作没听见；没有伤害到你的事，你就不要多嘴。说完他就赶着健壮的牛群继续往前走。光荣的赫尔墨斯赶着它们走过许多阴暗的山岭、回声隆隆的峡谷和开满鲜花的平原。神圣的黑夜，他幽暗的帮手，快要过去了，催人起身干活的黎明很快就要到来，明亮的月亮、帕拉斯的女儿、墨伽墨得斯之子，刚刚登上她的瞭望台。这时宙斯强大的儿子把福玻斯·阿波罗的宽额头的牛赶到了阿尔甫斯河边。它们来到一座高顶的牛棚和饮水处，在开满鲜花的草地上饱餐了一顿，然后被赶进了牛棚，嘴里还嚼着莲花和带露的莎草。这位老人后来成了阿波罗追查此事时唯一的目击者。
+
+*As Hermes drove the cattle across the plain past flowery Onchestus, an old man tending his vineyard saw the child driving them. The glorious son of Maia spoke to him first: 'Old man, digging your vines with bowed shoulders, you will have wine enough when all these bear fruit. But see that you have not seen and hear that you have not heard, and keep silent when nothing of yours is harmed.' Then he drove the sturdy cattle on. Glorious Hermes drove them through many shadowy mountains, echoing gorges and flowering plains. Divine night, his dark helper, was mostly spent, and dawn that sets men to work was coming quickly, and the bright moon, daughter of Pallas son of Megamedes, had just climbed to her watch-place, when the strong son of Zeus drove the broad-browed cattle of Phoebus Apollo to the river Alpheus. They came to a high-roofed byre and drinking troughs before a splendid meadow, fed well on the flowers, and were driven into the byre still munching lotus and dewy galingale. The old man was later the only witness when Apollo came asking.*
+
+<sub>来源 / Source：Hesiod, the Homeric Hymns, and Homerica, tr. Hugh G. Evelyn-White (1914) · Hymn 4, lines 1–580 (sequential retelling) · 《荷马颂歌·致赫尔墨斯》第87–104行。</sub>
+
+### 5. 阿尔甫斯河边的火 / Fire by the Alpheus
+
+到了阿尔甫斯河边，赫尔墨斯捡来许多木柴，开始想办法生火。他拿起一根月桂树枝，在一根石榴木上用力钻动，热气就冒了出来。诗人特意说：是赫尔墨斯第一个发明了钻木取火的火棒和火。他在一个坑里堆满干柴，火焰熊熊燃烧，远远地冒着热气。接着，他把两头叫声洪亮的弯角母牛拖到火边，他力气很大，把两头牛都掀翻在地，扭断了它们的脖子。他剥下牛皮，切下带着肥油的肉，用木签穿起来烤，还把黑色的血灌进肠子里。他把牛皮摊在一块干燥的岩石上——诗人说那些牛皮直到他的时代还摊在那里。然后，赫尔墨斯把烤好的肉从火上取下来，分成十二份，每一份都完全相同，像是要献给众神。他闻着烤肉的香气，非常想吃，可是作为一位神，他终究没有让肉进入自己神圣的喉咙。他把肥肉和许多肉放进高高的牛棚里，作为偷牛的证据藏起来，把牛蹄和牛头放进火里烧得干干净净，又把那双树枝鞋扔进了水流湍急的阿尔甫斯河，把火熄灭，用沙子盖住黑色的灰烬。
+
+*At the Alpheus Hermes gathered a pile of wood and began to seek the art of fire. He took a fine laurel branch and twirled it hard in a piece of pomegranate wood, and the hot smoke rose — for, the poet says, it was Hermes who first invented fire-sticks and fire. He piled dry wood thickly in a sunken pit, and the flame blazed far. Then he dragged two lowing, crook-horned cows close to the fire, for great strength was with him, threw them both panting on their backs and pierced their spines. He cut up the rich fatty meat, roasted it on wooden spits and filled the guts with dark blood. The hides he stretched out on a dry rock, where, the poet says, they remain to this day. Then Hermes took the roasted meat from the fire and divided it into twelve portions, each made perfect, as if for the gods. He longed for the meat, for the sweet savour tormented him, god though he was; yet his proud heart did not let the flesh pass down his holy throat. He stored the fat and meat in the high byre as a sign of his theft, burned the heads and feet to ashes, threw his twig sandals into the deep-eddying Alpheus, quenched the embers and covered the black ashes with sand.*
+
+<sub>来源 / Source：Hesiod, the Homeric Hymns, and Homerica, tr. Hugh G. Evelyn-White (1914) · Hymn 4, lines 1–580 (sequential retelling) · 《荷马颂歌·致赫尔墨斯》第105–141行。</sub>
+
+### 6. 母亲的责备 / His mother's rebuke
+
+天亮以前，赫尔墨斯回到了库勒涅山的高峰。漫长的路上，没有一位神、没有一个人遇见他，连狗也没有叫。宙斯幸运的儿子侧着身子，像秋天的风、像一阵雾一样，从门闩的锁孔里钻进了山洞。他悄悄地走进富丽的内室，脚步轻得连地面都没有响一声，然后连忙钻进摇篮，把襁褓裹在肩上，像一个无助的婴儿那样躺着，手指玩弄着腿上的被单，左手还紧紧地抱着那把心爱的竖琴。可是他瞒不过母亲。女神对他说：你这个狡猾的家伙，深更半夜你从哪里回来，身上还带着无耻的气味？我看阿波罗很快就会用捆不开的绳子把你绑走，要不然你就会在山谷里做一辈子的贼。走吧，你父亲把你生出来，是给会死的人和不死的神添乱的。赫尔墨斯狡猾地回答：母亲，你为什么拿吓唬小孩的话来吓我？我要选最好的本事，永远照顾你和我自己。我们为什么要待在这个山洞里，没有祭品，也没有人祈祷？我要和阿波罗一样享有尊荣。如果父亲不给我，我就去做盗贼的首领，去皮托撬开阿波罗的大神庙，偷走三足鼎、金子和铁器。
+
+*Before dawn Hermes came back to the bright peaks of Cyllene. On the long road no god or man met him, and no dog barked. Luck-bringing Hermes, son of Zeus, slipped edgeways through the keyhole of the hall like the autumn breeze, like mist. Straight through the cave he went to the rich inner room, stepping softly so that he made no noise as on a floor, then quickly got into his cradle, wrapped his swaddling clothes about his shoulders like a helpless babe and lay playing with the covering about his knees — and in his left hand he kept his sweet lyre. But he could not hide from his mother. The goddess said: 'You sly rogue, where have you been in the night, clothed in shamelessness? Now I think Apollo will soon carry you off with unbreakable bonds, or you will live a robber's life in the glens. Go! Your father begot you to be a great worry to mortal men and deathless gods.' Hermes answered craftily: 'Mother, why try to frighten me like a feeble child? I will try whatever plan is best, to care for you and me for ever. Why should we stay in this cave without gifts or prayers? I will have the same honour as Apollo. If my father will not give it, I will be prince of robbers and break into Apollo's great house at Pytho for tripods, gold and iron.'*
+
+<sub>来源 / Source：Hesiod, the Homeric Hymns, and Homerica, tr. Hugh G. Evelyn-White (1914) · Hymn 4, lines 1–580 (sequential retelling) · 《荷马颂歌·致赫尔墨斯》第142–183行。</sub>
+
+### 7. 阿波罗寻牛 / Apollo seeks his cattle
+
+黎明从大洋深处升起，给人们带来光明。阿波罗来到神圣的昂刻斯托斯，看见那个老人正在路边的葡萄园里修整篱笆，就问他：老人家，我从庇厄里亚来找我的牛，五十头弯角的母牛，它们都离开了牛群，公牛和四条忠实的看牛狗却留在原地，这真是怪事。你看见有人赶着它们走过吗？老人回答说：我的朋友，人眼看见的东西太多，很难都说清楚。不过我好像看见一个孩子赶着牛，我说不准他是谁，他还是个婴儿，手里拿着一根棍子，左右来回地走着，让牛倒着走，头朝着他。阿波罗听了，立刻往前赶路。他看见一只展开长翅膀的鸟，马上明白偷牛的就是宙斯的儿子。他急忙赶往神圣的皮洛斯，用紫云遮住宽阔的肩膀，一路上看着那些足迹惊叹：这真是奇事！这些足迹确实是牛的，可都朝着长满水仙的草地往回走；而这些足迹既不像男人，也不像女人，也不像灰狼、熊或狮子，更不像鬃毛浓密的马人，是谁迈着这样奇怪的大步走路？
+
+*Dawn rose from deep-flowing Ocean bringing light to men, and Apollo came to holy Onchestus, where he found the old man tending the hedge of his vineyard by the road. 'Old man,' he said, 'I have come from Pieria seeking my cattle, fifty crook-horned cows, all strayed from the herd, while the black bull grazes alone and the four fierce dogs stay behind like men of one mind — a strange thing. Have you seen anyone pass with them?' The old man answered: 'My friend, it is hard to tell all one sees with one's eyes. Yet I think I saw a child — I cannot say for certain — a mere infant, with a staff, driving the cattle; he walked from side to side and drove them backwards, their heads facing him.' Apollo hurried on. He saw a long-winged bird and knew at once that the thief was the child of Zeus. He sped to holy Pylos, his broad shoulders veiled in purple cloud, and marvelled at the tracks: 'This is a wonder! These are the tracks of cattle, but turned back toward the asphodel meadow; and these are not the steps of man or woman, nor of grey wolves, bears or lions, nor of a shaggy-maned Centaur — who takes such monstrous strides?'*
+
+<sub>来源 / Source：Hesiod, the Homeric Hymns, and Homerica, tr. Hugh G. Evelyn-White (1914) · Hymn 4, lines 1–580 (sequential retelling) · 《荷马颂歌·致赫尔墨斯》第184–212行。</sub>
+
+### 8. 库勒涅的山洞 / The cave on Cyllene
+
+阿波罗来到库勒涅山林木茂盛的山上，来到岩石中幽深的山洞，那是不死的仙女迈亚生下宙斯之子的地方。可爱的香气弥漫在神圣的山坡上，许多细腿的羊在那里吃草。远射的阿波罗匆匆走过石头门槛，进入幽暗的山洞。赫尔墨斯看见阿波罗为牛群发怒，就缩进芬芳的襁褓里，像一堆被灰烬盖住的余火那样，把头、手和脚缩成一团，假装刚刚洗过澡、准备甜甜地睡觉，腋下却还夹着那把竖琴。阿波罗一眼就认出了美丽的仙女和她的爱子，小小的孩子裹在狡猾的伎俩里。他打量着这座大屋的每一个角落，拿起闪亮的钥匙，打开了三个储藏室，里面满是琼浆和可爱的神食，还有大量的金银和仙女的紫色、银色衣裳，就像众神神圣的家里应有的那样。他找遍了每个角落，然后对赫尔墨斯说：躺在摇篮里的孩子，快告诉我牛在哪里，不然我们就要不客气了。我会抓住你，把你扔进阴暗的塔耳塔罗斯，你母亲和父亲都救不了你。赫尔墨斯狡猾地回答：我才出生，脚还很嫩，地面还很硬，我只关心睡觉、母亲的奶和温暖的洗澡水。我连牛是什么都没听说过。
+
+*Apollo came to the wooded mountain of Cyllene, to the deep cave in the rock where the deathless nymph Maia had borne the child of Zeus. A sweet fragrance spread over the holy hill, and many thin-shanked sheep grazed there. Far-shooting Apollo hurried over the stone threshold into the dusky cave. When Hermes saw Apollo angry about his cattle, he snuggled down in his fragrant swaddling clothes, curled up like a heap of embers covered with ashes — head, hands and feet drawn together — like a babe fresh from his bath, longing for sweet sleep, though he still had the lyre under his arm. Apollo knew at once the lovely nymph and her dear son, a little child wrapped in sly wiles. He peered into every corner of the great dwelling, took a shining key and opened three closets full of nectar and lovely ambrosia, with much gold and silver and the nymph's purple and silvery garments, such as are kept in the holy houses of the gods. When he had searched every nook he said: 'Child in the cradle, tell me where my cattle are, or we two will quarrel. I will take you and cast you into dusky Tartarus, and neither your mother nor your father will save you.' Hermes answered craftily: 'I was born yesterday; my feet are soft and the ground is hard. I care for sleep, my mother's milk and warm baths. I have never even heard of cattle.'*
+
+<sub>来源 / Source：Hesiod, the Homeric Hymns, and Homerica, tr. Hugh G. Evelyn-White (1914) · Hymn 4, lines 1–580 (sequential retelling) · 《荷马颂歌·致赫尔墨斯》第213–277行。</sub>
+
+### 9. 去见宙斯 / To Zeus
+
+赫尔墨斯一边说，一边眼睛不停地眨着，眉毛扬来扬去，四处张望，吹着长长的口哨，像在听一个无聊的故事。远射之神阿波罗轻轻地笑了，对他说：你这个狡猾的骗子，听你说话的样子，我看你以后一定会在许多夜里撬开人家的房子。你将来会被称为盗贼的首领，这就是你在不死的神中间的特权。来吧，从摇篮里出来，夜的伙伴。说着，福玻斯·阿波罗抓起孩子就要带走。可是强大的阿尔戈斯杀手在被举起来的时候，故意放出一个征兆，一个肚子里的鲁莽信使，紧接着又打了一个喷嚏。阿波罗听见了，一下子把光荣的赫尔墨斯扔在地上，虽然急着赶路，还是坐在他面前嘲笑他说：放心吧，裹着襁褓的孩子，宙斯和迈亚的儿子，靠着这些征兆，我总会找到我那些强壮的牛，而你会给我带路。赫尔墨斯跳起来，把襁褓拉到耳边，说：远射之神，你要把我带到哪里去？就为了牛的事这样折磨我？我真希望所有的牛都死光！我没有偷你的牛，也没看见别人偷。你只管说，我们去宙斯那里，让他来评理。
+
+*As he spoke, Hermes kept glancing about with twinkling eyes, his brows going up and down, and gave a long whistle, as if listening to an idle tale. Far-working Apollo laughed softly and said: 'You crafty cheat, by the way you talk I think you will often break into well-built houses by night. This shall be your honour among the deathless gods: you will be called prince of robbers for ever. But come, companion of dark night, get down from your cradle.' With that Phoebus Apollo caught up the child to carry him off. But the strong slayer of Argus, as he was lifted, sent forth an omen, a rude messenger of the belly, and then sneezed. Apollo heard it and dropped glorious Hermes on the ground; though eager to go, he sat before him and mocked him: 'Take heart, little swaddling baby, son of Zeus and Maia. By these omens I shall find my strong cattle, and you will lead the way.' Hermes sprang up, pulled his swaddling clothes about his ears and said: 'Far-shooter, where are you taking me? Why do you plague me so about cattle? I wish every cow were dead! I did not steal your cattle nor see another steal them. Come, let us go before Zeus and let him judge.'*
+
+<sub>来源 / Source：Hesiod, the Homeric Hymns, and Homerica, tr. Hugh G. Evelyn-White (1914) · Hymn 4, lines 1–580 (sequential retelling) · 《荷马颂歌·致赫尔墨斯》第278–322行。</sub>
+
+### 10. 宙斯的判断 / The judgement of Zeus
+
+两位神来到芬芳的奥林波斯山顶，来到父亲宙斯面前，正义的天平就摆在那里。阿波罗先开口，把事情一五一十地说了：这个孩子在库勒涅山出生不久，就偷走了我的牛，让牛倒着走，自己脚上绑着树枝走路，在阿尔甫斯河边过了夜；昂刻斯托斯的老人可以作证。我找到他时，他还装成婴儿，说什么也不承认。赫尔墨斯接着说话，他指着阿波罗，说：父亲宙斯，我会对你说真话，因为我老实，不会说谎。今天太阳刚升起，阿波罗就到我家来找他的牛，没有带一个神作证，还威胁要把我扔进塔耳塔罗斯。他正当青春，我昨天才出生，哪里像个偷牛的强盗？我以众神华美的门廊起誓，我没有把牛赶回家，也没有越过门槛。你知道我没有罪，我会在合适的时候帮助弱小的人，你也要帮帮年轻的孩子。赫尔墨斯说这话时，眼睛一直眨着，襁褓还挂在胳膊上。宙斯看着这个狡猾的孩子那么巧妙地抵赖，忍不住大笑起来。他命令两兄弟同心协力去找牛，让赫尔墨斯做向导，毫不隐瞒地指出藏牛的地方。宙斯点了点头，聪明的赫尔墨斯只好服从。
+
+*The two came to the summit of fragrant Olympus, to their father Zeus, where the scales of judgement were set. Apollo spoke first and told it all: this child, soon after his birth on Cyllene, stole my cattle, drove them backwards, walked with twigs bound to his feet and spent the night by the Alpheus; the old man of Onchestus is witness; and when I found him he lay like a baby and denied everything. Then Hermes spoke, pointing at Apollo: 'Father Zeus, I will tell you the truth, for I am honest and cannot lie. He came to our house today at sunrise looking for his cattle, with no god as witness, and threatened to cast me into Tartarus. He is in the bloom of youth; I was born yesterday — do I look like a cattle-driver? I swear by these finely made porches of the gods that I did not drive the cattle home nor cross the threshold. You know I am not guilty; I will help the weak in due time — so help the young.' All the while he winked, and his swaddling cloth hung on his arm. Zeus laughed aloud to see the mischievous child deny the theft so skilfully. He bade the two be of one mind and search for the cattle, with Hermes as guide to show the place without deceit. Zeus nodded, and clever Hermes obeyed.*
+
+<sub>来源 / Source：Hesiod, the Homeric Hymns, and Homerica, tr. Hugh G. Evelyn-White (1914) · Hymn 4, lines 1–580 (sequential retelling) · 《荷马颂歌·致赫尔墨斯》第323–396行。</sub>
+
+### 11. 竖琴换牛群 / The lyre for the cattle
+
+两兄弟来到阿尔甫斯河边的牛棚，赫尔墨斯把牛从石洞里赶了出来。阿波罗看见那两张牛皮摊在岩石上，惊叹这个刚出生的孩子竟有力气宰杀两头牛。他想用结实的柳条把赫尔墨斯捆起来，可是柳条一落地就生了根，在牛群四周长成一片，把所有的牛都缠住了。这时赫尔墨斯拿出竖琴，用拨子一根根地拨动琴弦，琴声美妙动听。阿波罗听了，笑了起来，那可爱的声音直透进他的心里，一股甜蜜的渴望攫住了他。赫尔墨斯放心地站在阿波罗的左边，一边弹琴一边唱，歌唱不死的神和黑色大地怎样诞生，众神怎样分得各自的领地；他先歌颂缪斯之母谟涅摩叙涅，然后按照年纪和出身，一一歌颂众神。阿波罗被深深打动，说：你这个偷牛贼，你这件东西值五十头牛！这是哪里来的本事？我从没听过这样的歌。赫尔墨斯说：我不吝惜这门手艺，今天就把它送给你。你是宙斯身边的第一位，你也懂得用各种技艺。拿去吧，带着它去参加宴会和舞蹈。阿波罗把竖琴接过来，把闪亮的牛鞭交给赫尔墨斯，让他照看牛群。从此阿波罗成了竖琴的主人，赫尔墨斯成了牧人的神。
+
+*The brothers came to the byre by the Alpheus, and Hermes drove the cattle out of the rocky cave. Apollo saw the two hides on the rock and marvelled that a newborn child had the strength to slay two cows. He tried to bind Hermes with strong withies, but the withies, as they fell to the ground, took root and grew all around, entangling the cattle. Then Hermes took up the lyre and tried each string with the plectrum, and it sounded wonderfully. Apollo laughed for joy; the lovely sound went to his heart, and sweet longing seized him. Hermes, taking courage, stood at Apollo's left playing and singing — of the deathless gods and the dark earth, how they came to be and how each received his portion; first he honoured Mnemosyne, mother of the Muses, then the other gods in order of age and birth. Apollo, deeply moved, said: 'Cattle-slayer, this is worth fifty cows! Where did this skill come from? I have never heard such song.' Hermes said: 'I do not grudge you my art; I give it to you today. You sit first beside Zeus and know all skills. Take it to the feast and the dance.' Apollo took the lyre and put the shining whip in Hermes' hand to keep the herds. So Apollo became master of the lyre, and Hermes god of herdsmen.*
+
+<sub>来源 / Source：Hesiod, the Homeric Hymns, and Homerica, tr. Hugh G. Evelyn-White (1914) · Hymn 4, lines 1–580 (sequential retelling) · 《荷马颂歌·致赫尔墨斯》第397–502行。</sub>
+
+### 12. 兄弟的盟约 / The brothers' pact
+
+两兄弟赶着牛群回到神圣的草地，然后回到积雪的奥林波斯山，宙斯看见他们和好，心里很高兴。从那以后，赫尔墨斯一直爱着勒托的儿子，阿波罗也爱着他。赫尔墨斯又用芦苇做了一支可以吹出远远声音的排箫，阿波罗担心他会把竖琴和弓也偷走，就要他以斯梯克斯的河水起誓。赫尔墨斯点头发誓，永远不偷远射之神的东西，也不走近他坚固的家。阿波罗也起誓，在众神和人中间，再没有谁比赫尔墨斯更亲近、更受他珍爱。他送给赫尔墨斯一根华美的金杖，那是带来财富和繁荣的三叉金杖，能保护他。至于预言，阿波罗说，那是宙斯只交给他一个人的，他不能给别的神；不过他告诉赫尔墨斯，在帕尔纳索斯山的山坳里住着三位长着翅膀的处女姐妹，她们会教人占卜，如果吃了金色的蜂蜜，就会说出真话。宙斯也让赫尔墨斯做所有鸟兽和牛羊的主人，并且只让他一个人做通往冥王哈得斯的使者。迈亚的儿子就这样与所有的神和人交往；诗人最后向宙斯和迈亚的儿子致意，答应在下一首歌里再记起他。
+
+*The brothers drove the cattle back to the holy meadow and returned to snowy Olympus, and Zeus was glad to see them reconciled. From that time Hermes loved the son of Leto, and Apollo loved him. Hermes made himself another instrument, pipes of reed whose sound carries far; and Apollo, fearing he might steal the lyre and the bow as well, asked him to swear by the water of Styx. Hermes nodded and swore never to steal anything of the far-shooter's nor come near his strong house. Apollo swore that no one among gods or men would be dearer to him than Hermes. He gave him a splendid golden staff of wealth and riches, with three branches, to guard him. But prophecy, Apollo said, Zeus had given to him alone, and he could not share it; yet he told Hermes of three winged sister maidens who live under a fold of Parnassus and teach divination, and speak truth when they have eaten golden honey. Zeus also made Hermes lord over all birds and beasts and flocks, and the only appointed messenger to Hades. So the son of Maia keeps company with all gods and men; and the poet bids farewell to the son of Zeus and Maia, promising to remember him in another song.*
+
+<sub>来源 / Source：Hesiod, the Homeric Hymns, and Homerica, tr. Hugh G. Evelyn-White (1914) · Hymn 4, lines 1–580 (sequential retelling) · 《荷马颂歌·致赫尔墨斯》第503–580行。</sub>
 
 ---
 
@@ -1610,57 +1736,111 @@
 
 ## 赫斯提亚 · Hestia
 
-**证据卡 / Evidence card**
+**有完整故事 / Full story**
+
+完整故事档案：[story.greek.hymn_aphrodite](../story.greek.hymn_aphrodite.md)
 
 > *Child of Rhea and Cronus in Hesiod and recipient of first-and-last banquet libations in Homeric Hymn 29.*
 
-### 1. 记载 / Record
+**长篇故事 · 12 章**
 
-赫斯提亚——仪式：receives first-and-last libation at mortal banquets in this hymn
+目录：01 阿佛洛狄忒的力量与雅典娜 · 02 阿耳忒弥斯 · 03 赫斯提亚的誓言 · 04 宙斯的回敬 · 05 帕福斯与伊达山 · 06 牧人小屋 · 07 弗里吉亚的公主 · 08 婚床 · 09 醒来的恐惧 · 10 埃涅阿斯与伽倪墨得斯 · 11 厄俄斯与提托诺斯 · 12 山中的仙女
 
-*Homeric Hymn 29 lines 1-6 describes Hestia’s honored seat and first-and-last libation.*
+### 1. 阿佛洛狄忒的力量与雅典娜 / Aphrodite's power, and Athena
 
-<sub>来源 / Source：Homeric Hymn 29 to Hestia, Evelyn-White English text · Hymn 29, lines 1-6</sub>
+诗人请缪斯歌唱金色的阿佛洛狄忒，塞浦路斯的女神。她在众神心中唤起甜蜜的渴望，征服了会死的人类、天上飞的鸟和陆地上、海里所有的野兽：她的事业，所有的生灵都关心。可是有三位女神，她既不能说服，也不能欺骗。第一位是持埃癸斯盾的宙斯的女儿、眼睛明亮的雅典娜。金色的阿佛洛狄忒做的事情不能让她高兴，她喜欢的是战争和阿瑞斯的事业，喜欢战斗和厮杀，也喜欢光荣的手艺。是她第一个教大地上的工匠制造战车和镶铜的马车，也是她在屋子里教皮肤柔嫩的少女们做光荣的手工活，把这门技艺放进每个少女的心中。诗人在颂歌的一开头就先划出界限：爱的力量虽然统治着万物，却并不统治一切；而后面整首诗要讲的，正是这股力量怎样连女神自己也躲不过。
 
-### 2. 记载 / Record
+*The poet asks the Muse to tell of golden Aphrodite, the Cyprian, who stirs sweet desire in the gods and subdues the tribes of mortal men, the birds that fly in the air and all the creatures of dry land and sea: all of them care for her works. Yet there are three hearts she can neither bend nor ensnare. First is the daughter of aegis-bearing Zeus, bright-eyed Athena. She takes no pleasure in the deeds of golden Aphrodite, but delights in wars and the work of Ares, in strife and battle, and in glorious crafts. She first taught earthly craftsmen to make chariots and cars wrought with bronze, and she teaches tender maidens in the house the glorious works of handicraft, putting the skill in each one's mind. At the very start the poet draws a boundary: the power of love rules all things, but not quite everything — and the rest of the hymn will show how that power does not spare even the goddess herself.*
 
-赫斯提亚是克洛诺斯的孩子。
+<sub>来源 / Source：Hesiod, the Homeric Hymns, and Homerica, tr. Hugh G. Evelyn-White (1914) · Hymn 5, lines 1–293 (sequential retelling) · 《荷马颂歌·致阿佛洛狄忒》第1–15行。</sub>
 
-*Theogony 453-458 presents Hestia among the children of Rhea and Cronus.*
+### 2. 阿耳忒弥斯 / Artemis
 
-<sub>来源 / Source：Hesiod, Theogony, Evelyn-White English text · Theogony 453-458</sub>
+第二位是戴着金冠、喜爱喧闹的狩猎女神阿耳忒弥斯，爱笑的阿佛洛狄忒从来不能用爱情制服她。阿耳忒弥斯喜欢的是弓箭，是在山中追杀野兽，是竖琴、合唱的舞蹈和响亮的呼喊，是幽暗的树林和正直的人们居住的城市。诗人在这里只用了几行，却勾画出一位与阿佛洛狄忒截然相反的女神：一个在山野间奔跑、与弓箭和猎犬为伴、在仙女们的歌舞中领头的少女。在前一首颂歌里，阿耳忒弥斯在奥林波斯的舞蹈中唱歌，是阿波罗的孪生姐妹；在这一首里，她被放在爱神力量的边界之外。颂歌并不讲她的故事，而是用她来说明：有些神的心，是爱欲到不了的地方。这一点对后面的故事很重要，因为接下来，阿佛洛狄忒自己就会被她平时施加于别人的力量所支配。后来的诗人常把阿耳忒弥斯描写成守护少女和野兽的女神，而这几行颂歌，是这一形象最早、最简洁的见证之一。
 
-### 3. 记载 / Record
+*The second is Artemis of the golden arrows and the loud hunting cry, whom laughter-loving Aphrodite never tames in love. Artemis loves the bow and arrows and the slaying of wild beasts in the mountains, the lyre and the dance and thrilling cries, shady woods and the cities of upright men. In a few lines the poet sketches a goddess wholly unlike Aphrodite: a maiden running through the wilds with bow and hounds, leading the nymphs in song and dance. In the previous hymn Artemis sang in the dance on Olympus as Apollo's twin; here she is placed outside the reach of love's power. The hymn does not tell her story but uses her to show that some gods' hearts are places desire cannot reach. That matters for what follows, because Aphrodite herself is about to be ruled by the power she usually wields over others. Later poets often describe Artemis as guardian of maidens and of wild beasts, and these lines are among the earliest and briefest witnesses to that picture.*
 
-赫斯提亚是瑞亚的孩子。
+<sub>来源 / Source：Hesiod, the Homeric Hymns, and Homerica, tr. Hugh G. Evelyn-White (1914) · Hymn 5, lines 1–293 (sequential retelling) · 《荷马颂歌·致阿佛洛狄忒》第16–20行。</sub>
 
-*Theogony 453-458 presents Hestia among the children borne by Rhea to Cronus.*
+### 3. 赫斯提亚的誓言 / Hestia's vow
 
-<sub>来源 / Source：Hesiod, Theogony, Evelyn-White English text · Theogony 453-458</sub>
+第三位是可敬的处女赫斯提亚，阿佛洛狄忒的事业同样不能让她高兴。她是狡猾的克洛诺斯第一个生下的孩子，又因为持埃癸斯盾的宙斯的意旨，成了最小的孩子。波塞冬和阿波罗都曾向这位尊贵的女神求婚，可她坚决地拒绝了。她摸着持埃癸斯盾的父亲宙斯的头，发下大誓，要一生一世做处女，这个誓言后来也实现了。于是父亲宙斯给了她一份美好的荣誉来代替婚姻：她坐在每一户人家的正中，得到最好的那一份祭品。在众神的所有神庙里，她都受到尊敬；在所有凡人中间，她是众神里最受尊崇的一位。颂歌说她“第一个也是最小的”，后世的注释者解释说，这是因为克洛诺斯第一个吞下了她，又最后一个把她吐出来，她因此像是重新出生了一次。在希腊人的家里，火塘就在屋子的中央，人们献祭时第一份和最后一份往往都献给她。
 
-### 4. 记载 / Record
+*The third is the revered maiden Hestia, whom Aphrodite's works do not please either. She was the first child of wily Cronos and the youngest too, by the will of aegis-bearing Zeus. Poseidon and Apollo both sought this queenly goddess, but she was wholly unwilling and stubbornly refused. Touching the head of father Zeus who holds the aegis, she swore a great oath that she would be a maiden all her days — an oath that has been fulfilled. So father Zeus gave her a fine honour instead of marriage: she sits in the middle of every house and has the richest portion. In all the temples of the gods she has a share of honour, and among all mortals she is chief of the goddesses. The hymn calls her both first and youngest; later commentators explain that Cronos swallowed her first and disgorged her last, so she was as if born a second time. In Greek houses the hearth stood at the centre of the home, and offerings often began and ended with her.*
 
-赫斯提亚与得墨忒耳是兄弟姐妹。
+<sub>来源 / Source：Hesiod, the Homeric Hymns, and Homerica, tr. Hugh G. Evelyn-White (1914) · Hymn 5, lines 1–293 (sequential retelling) · 《荷马颂歌·致阿佛洛狄忒》第21–32行。</sub>
 
-*Hestia and Demeter occur among the children of Rhea and Cronus in Theogony 453-458.*
+### 4. 宙斯的回敬 / Zeus's answer
 
-<sub>来源 / Source：Hesiod, Theogony, Evelyn-White English text · Theogony 453-458</sub>
+除了这三位，无论是有福的神还是会死的人，没有谁能躲开阿佛洛狄忒。她甚至迷住了喜欢雷电的宙斯的心——宙斯是最伟大的神，享有最高的荣耀，可只要她愿意，她就能轻易地欺骗他那聪明的心，让他和凡间的女子结合，使他忘掉自己的姐姐和妻子赫拉。赫拉是不死的女神中最美丽的一位，是狡猾的克洛诺斯和瑞亚最光荣的女儿，宙斯以他永不错误的智慧，娶了这位贤惠的女神做妻子。阿佛洛狄忒常常在众神中间笑着夸耀，说她让众神和凡间的女子结合，生下会死的儿子，又让女神们和凡间的男人结合。宙斯于是决定回敬她：他在阿佛洛狄忒心里放进对一个凡人的甜蜜渴望，让她自己也尝一尝和凡人同床的滋味，免得她以后在众神中间嘲笑别人。这个凡人就是安喀塞斯，他当时正在伊达山泉水众多的高山上放牛，模样像一位不死的神。
 
-### 5. 记载 / Record
+*Apart from these three, there is nothing among the blessed gods or mortal men that has escaped Aphrodite. She leads astray even the mind of Zeus who delights in thunder, the greatest of all, who has the highest honour; whenever she wishes, she easily deceives his wise heart and makes him mate with mortal women, forgetting Hera, his sister and wife, the loveliest of the deathless goddesses, most glorious daughter of wily Cronos and Rhea, whom Zeus in his unfailing wisdom made his chaste and careful wife. Aphrodite used to boast, laughing sweetly among the gods, that she had joined gods with mortal women who bore them mortal sons, and goddesses with mortal men. So Zeus resolved to answer her: he put into her heart sweet desire for a mortal man, so that she too should not be kept from a mortal's bed, nor mock the other gods for it. That man was Anchises, who was then herding cattle on the steep hills of many-fountained Ida, in body like the deathless gods.*
 
-赫斯提亚与哈得斯是兄弟姐妹。
+<sub>来源 / Source：Hesiod, the Homeric Hymns, and Homerica, tr. Hugh G. Evelyn-White (1914) · Hymn 5, lines 1–293 (sequential retelling) · 《荷马颂歌·致阿佛洛狄忒》第33–55行。</sub>
 
-*Hestia and Hades occur among the children of Rhea and Cronus in Theogony 453-458.*
+### 5. 帕福斯与伊达山 / Paphos and Ida
 
-<sub>来源 / Source：Hesiod, Theogony, Evelyn-White English text · Theogony 453-458</sub>
+爱笑的阿佛洛狄忒一看见安喀塞斯，就爱上了他，强烈的渴望攫住了她的心。她来到塞浦路斯，走进帕福斯她那芬芳的神庙——那里有她的圣域和芬芳的祭坛。她关上闪亮的门，美惠女神们在那里为她沐浴，用永不褪色的神油涂抹她的身体，那是神才用的油，带着为她准备的香气。她穿上华美的衣服，戴上金饰，然后离开芬芳的塞浦路斯，在高高的云中飞快地赶往特洛伊，来到伊达山——泉水众多、野兽之母的伊达山。她穿过山岭，直奔牛栏。跟在她身后的，是摇着尾巴的灰狼、目光凶猛的狮子、熊和永远吃不饱的敏捷的豹子。女神看见它们，心里高兴，就在它们的胸中放进了渴望，于是它们都成双成对地躲进了阴暗的山谷里。她自己则来到那几间建造精巧的小屋前。这一段是整首颂歌里最有名的场面之一：连山中的野兽都受到了女神经过时的力量的感染。
 
-### 6. 记载 / Record
+*When laughter-loving Aphrodite saw Anchises she loved him, and desire seized her heart. She went to Cyprus, to Paphos, to her fragrant temple, where she has a precinct and a fragrant altar. She shut the shining doors, and there the Graces bathed her and anointed her with heavenly oil such as is on the bodies of the eternal gods, sweet and divine, which she had ready. Clothed in rich garments and decked with gold, she left fragrant Cyprus and sped high among the clouds toward Troy, to many-fountained Ida, mother of wild creatures. She went straight over the mountain to the homestead, and after her came fawning grey wolves, grim-eyed lions, bears and swift leopards, ravenous for deer. Seeing them, she was glad in heart and put desire in their breasts, so that they all lay down two by two in the shadowy glens. She herself came to the well-built huts. This is one of the most famous scenes of the hymn: even the beasts of the mountain feel the power of the goddess as she passes.*
 
-赫斯提亚与赫拉是兄弟姐妹。
+<sub>来源 / Source：Hesiod, the Homeric Hymns, and Homerica, tr. Hugh G. Evelyn-White (1914) · Hymn 5, lines 1–293 (sequential retelling) · 《荷马颂歌·致阿佛洛狄忒》第56–74行。</sub>
 
-*Hestia and Hera occur among the children of Rhea and Cronus in Theogony 453-458.*
+### 6. 牧人小屋 / At the herdsman's hut
 
-<sub>来源 / Source：Hesiod, Theogony, Evelyn-White English text · Theogony 453-458</sub>
+她发现安喀塞斯独自一人留在小屋里，他有着众神赐予的美貌。其他牧人都赶着牛到长满青草的牧场上去了，只有他留在家里，来回走着，弹着竖琴，声音清亮。宙斯的女儿阿佛洛狄忒站在他面前，模样和身材都像一个没有结婚的少女，免得他用眼睛认出她来而感到害怕。安喀塞斯看见她，惊讶地打量着她的身材、模样和闪亮的衣服：她穿着一件比火焰还明亮的长袍，戴着弯弯的胸针和闪光的耳环，柔软的脖子上挂着华美的项链，胸前的光芒像月亮一样。安喀塞斯心中充满了爱意，对她说：欢迎你，女王，不管你是哪一位来到这里的有福的女神——是阿耳忒弥斯、勒托、金色的阿佛洛狄忒、出身高贵的忒弥斯，还是眼睛明亮的雅典娜？或者你是一位美惠女神，或是住在这座美丽的山上、泉水和草地里的仙女？我要在山顶上为你建一座祭坛，四季都向你献上丰盛的祭品。请你善待我，让我在特洛伊人中间出人头地，让我的后代兴旺，让我自己长久地活在阳光下，在人们中间享福，直到老年。
+
+*She found Anchises left alone at the huts, with beauty given by the gods. The other herdsmen had gone with the cattle to the grassy pastures; he alone stayed, pacing to and fro and playing loudly on the lyre. Zeus's daughter Aphrodite stood before him, like an unwed maiden in height and form, so that he would not be afraid when he set eyes on her. Anchises marvelled at her height and beauty and her shining garments: she wore a robe brighter than fire, twisted brooches and shining earrings, lovely necklaces about her soft throat, and her breast shone like the moon. Love seized Anchises, and he said: 'Hail, lady, whichever of the blessed ones you are who come to this house — Artemis, Leto, golden Aphrodite, high-born Themis or bright-eyed Athena? Or one of the Graces, or a nymph of this lovely mountain, its springs and grassy meadows? I will build you an altar on a peak and offer rich sacrifices in every season. Be kind to me: make me a man of note among the Trojans, give me flourishing offspring, and let me live long and happily in the sunlight among the people, and come to old age.'*
+
+<sub>来源 / Source：Hesiod, the Homeric Hymns, and Homerica, tr. Hugh G. Evelyn-White (1914) · Hymn 5, lines 1–293 (sequential retelling) · 《荷马颂歌·致阿佛洛狄忒》第75–106行。</sub>
+
+### 7. 弗里吉亚的公主 / The Phrygian princess
+
+宙斯的女儿阿佛洛狄忒回答说：安喀塞斯，你是地上的人中最光荣的，我不是女神，你为什么把我比作不死的神？我是一个凡间的女子，生我的是凡间的母亲。我的父亲是著名的俄特柔斯，你也许听说过他的名字，他统治着有坚固城墙的整个弗里吉亚。我也懂你们的语言，就像懂我自己的语言一样，因为在我家里抚养我的是一个特洛伊的保姆，从我小时候起就一直照顾我。可是刚才，持金杖的阿尔戈斯杀手赫尔墨斯把我从金箭的阿耳忒弥斯的舞蹈中抢走了——我们许多仙女和待嫁的少女正在一起跳舞，四周围着数不清的人群。他带着我飞过许多凡人耕种的田地，越过许多没有人分配、没有人耕种的荒野，那里有吃生肉的野兽在阴暗的山谷里出没，我以为我的脚再也碰不到养育生命的大地了。他说，我要被称为安喀塞斯的合法妻子，为你生下光荣的孩子。我恳求你，以宙斯和你高贵的父母的名义，把我这个没有经历过爱情的少女带去见你的父亲、母亲和兄弟们。
+
+*Aphrodite, daughter of Zeus, answered: 'Anchises, most glorious of earth-born men, I am no goddess; why do you liken me to the deathless ones? I am mortal, and a mortal woman was my mother. Otreus of famous name is my father, if you have heard of him, who reigns over all well-walled Phrygia. I know your tongue as well as my own, for a Trojan nurse reared me at home and cared for me from when I was a little child. But just now the slayer of Argus with the golden wand snatched me from the dance of Artemis of the golden arrows — many nymphs and marriageable maidens were dancing, and a countless throng stood round us. He carried me over many fields of mortal men and much unallotted, untilled land, where flesh-eating beasts roam the shadowy dells, until I thought my feet would never touch the life-giving earth again. He said I should be called the wedded wife of Anchises and bear you goodly children. I beg you by Zeus and by your noble parents: take me, untried in love, and show me to your father, your mother and your brothers.'*
+
+<sub>来源 / Source：Hesiod, the Homeric Hymns, and Homerica, tr. Hugh G. Evelyn-White (1914) · Hymn 5, lines 1–293 (sequential retelling) · 《荷马颂歌·致阿佛洛狄忒》第107–142行。</sub>
+
+### 8. 婚床 / The marriage bed
+
+女神说着，把甜蜜的渴望放进了安喀塞斯的心里。爱情攫住了他，他说：如果你是一个凡间的女子，生你的是凡间的母亲，你的父亲是著名的俄特柔斯，你是因为不死的向导赫尔墨斯的意旨来到这里，要被永远称为我的妻子，那么，在我和你结合之前，无论是神还是凡人，谁也不能阻止我，即使远射之神阿波罗亲自从银弓上向我射出痛苦的箭，也不能阻止我。说完，他拉住她的手。爱笑的阿佛洛狄忒转过脸，垂下美丽的眼睛，慢慢地走向那张铺得很好的床。床上铺着柔软的毯子，上面还盖着安喀塞斯亲手在高山上杀死的熊和吼叫的狮子的皮。颂歌只用几行诗说，按照众神的意旨和命运，一个凡人和一位不死的女神同床共枕，而他并不清楚自己做的是什么。到了牧人们把牛羊从开满鲜花的草地赶回羊栏的时候，女神让安喀塞斯沉沉地睡去，自己穿好了华美的衣服。
+
+*So speaking, the goddess put sweet desire in Anchises' heart. Love seized him and he said: 'If you are mortal and a mortal woman bore you, if Otreus of famous name is your father, and you have come here by the will of Hermes the immortal guide, and are to be called my wife for ever, then no one of gods or mortal men shall restrain me until I have lain with you — not even if far-shooting Apollo himself should let fly grievous shafts from his silver bow.' With that he caught her hand. Laughter-loving Aphrodite turned her face away, her lovely eyes cast down, and crept to the well-spread couch, which was laid with soft coverings and with the skins of bears and deep-roaring lions that Anchises himself had slain on the high mountains. The hymn says only, in a few lines, that by the will of the gods and of destiny a mortal man lay with a deathless goddess, not clearly knowing what he did. At the hour when herdsmen drive their oxen and sheep back to the fold from the flowery pastures, the goddess poured sweet sleep upon Anchises and clothed herself again in her rich garments.*
+
+<sub>来源 / Source：Hesiod, the Homeric Hymns, and Homerica, tr. Hugh G. Evelyn-White (1914) · Hymn 5, lines 1–293 (sequential retelling) · 《荷马颂歌·致阿佛洛狄忒》第143–167行。</sub>
+
+### 9. 醒来的恐惧 / The fear on waking
+
+女神穿好衣服，站在小屋里，头几乎碰到精工建造的屋顶，脸颊上闪耀着不朽的美，那是戴着美丽花冠的库忒瑞亚才有的美。她叫醒安喀塞斯说：起来吧，达耳达诺斯的子孙，你为什么睡得这样沉？看看我，我还像你刚才第一眼看见的那个样子吗？安喀塞斯一下子醒了过来，看见阿佛洛狄忒的脖子和美丽的眼睛，吓得把目光转到一边，用斗篷蒙住了英俊的脸，恳求她说：女神，我第一眼看见你，就知道你是一位神，可你没有对我说实话。我以持埃癸斯盾的宙斯的名义恳求你，不要让我从此在人间虚弱无力地活着，可怜可怜我吧，因为一个和不死的女神同床的凡人，是不会长久强壮的。安喀塞斯的害怕并非没有道理：在希腊神话里，凡人接近神的身体往往要付出代价。颂歌没有让女神立刻安慰他，而是让她先说出自己的感受：这件事对她来说，同样是一种羞辱。
+
+*Clothed again, the goddess stood in the hut, her head reaching to the well-hewn roof-beam, and from her cheeks shone unearthly beauty such as belongs to rich-crowned Cytherea. She roused Anchises: 'Up, son of Dardanus, why sleep so heavily? Look and tell me whether I seem like the one you first saw with your eyes.' He started from sleep at once, and when he saw Aphrodite's neck and lovely eyes he was afraid, turned his eyes aside, hid his handsome face in his cloak and implored her: 'Goddess, as soon as I first saw you I knew you were divine, but you did not tell me the truth. By Zeus who holds the aegis I beg you, do not let me live among men a feeble shadow, but have pity on me; for a man who lies with a deathless goddess is not left hale.' His fear had reason: in Greek myth a mortal who comes close to a god's body often pays for it. The hymn does not have the goddess comfort him at once; first she speaks of her own feeling — for her, too, this is a humiliation.*
+
+<sub>来源 / Source：Hesiod, the Homeric Hymns, and Homerica, tr. Hugh G. Evelyn-White (1914) · Hymn 5, lines 1–293 (sequential retelling) · 《荷马颂歌·致阿佛洛狄忒》第168–190行。</sub>
+
+### 10. 埃涅阿斯与伽倪墨得斯 / Aeneas and Ganymede
+
+宙斯的女儿阿佛洛狄忒回答说：安喀塞斯，凡人中最光荣的人，鼓起勇气，不要太害怕。你不用担心会从我或别的有福的神那里受到伤害，因为众神爱你。你会有一个亲生的儿子，他将在特洛伊人中间为王，他的子子孙孙也会一代代地繁衍下去。他的名字要叫埃涅阿斯，因为我曾为一个凡人的床而感到可怕的痛苦。诗人在这里用了一个文字游戏：这个名字被解释为与“可怕”一词相近。女神接着说，在凡人中间，你们家族的人一向最接近众神的模样和容貌。看看伽倪墨得斯吧：深谋远虑的宙斯因为他的美貌把这个金发的少年带走，让他住在众神中间，在宙斯的宫殿里为众神斟酒，这真是一件奇事，所有不死的神都尊敬他，他从金碗里倒出红色的琼浆。他的父亲特洛斯却悲痛欲绝，不知道一阵神风把他心爱的儿子带到了哪里，一天天地为他哭泣。宙斯可怜他，就送给他一群能载着不死的神奔跑的骏马作为补偿，又派向导赫尔墨斯告诉他：他的儿子将像众神一样不死不老。特洛斯听到这个消息，不再悲伤，高兴地驾着那些快如疾风的马车。
+
+*Aphrodite, daughter of Zeus, answered: 'Anchises, most glorious of mortal men, take courage and do not fear too much. You need fear no harm from me or the other blessed ones, for you are dear to the gods. You shall have a dear son who will reign among the Trojans, and children's children will spring up after him continually. His name shall be Aeneas, because I felt awful grief in falling into a mortal's bed.' The poet plays on the name, linking it to the word for 'dreadful'. She goes on: of all mortals, men of your race are always nearest to the gods in beauty and stature. 'Consider Ganymede: wise Zeus carried off golden-haired Ganymede for his beauty to live among the deathless ones and pour drink for the gods in Zeus's house — a wonder to see, honoured by all the immortals as he draws red nectar from the golden bowl. But grief filled the heart of Tros his father, who did not know where the heaven-sent whirlwind had taken his son, and mourned him day after day. Zeus pitied him and gave him as recompense high-stepping horses such as carry the immortals, and sent Hermes to tell him his son would be deathless and unageing like the gods. Then Tros mourned no longer but rejoiced and drove his storm-swift horses.'*
+
+<sub>来源 / Source：Hesiod, the Homeric Hymns, and Homerica, tr. Hugh G. Evelyn-White (1914) · Hymn 5, lines 1–293 (sequential retelling) · 《荷马颂歌·致阿佛洛狄忒》第191–217行。</sub>
+
+### 11. 厄俄斯与提托诺斯 / Eos and Tithonus
+
+阿佛洛狄忒又讲了另一个特洛伊人的故事。金座的黎明女神厄俄斯也从你们的族人中带走了一个人，那就是像众神一样的提托诺斯。她去请求黑云中的克洛诺斯之子宙斯，让提托诺斯不死，永远活着。宙斯点头答应，实现了她的愿望。可是厄俄斯太傻了，她没有想到还要请求宙斯让他永远年轻，免去可怕的衰老。所以，只要可爱的青春还在提托诺斯身上，他就和早起的、金座的厄俄斯一起住在大地的尽头、大洋的河边，享受着欢乐。可是当最初的白发从他漂亮的头上和高贵的下巴上长出来的时候，厄俄斯就不再和他同床，不过她仍然把他留在自己的宫殿里，用食物和神食养着他，给他华丽的衣服。等到可恨的衰老完全压倒了他，他连四肢都动不了、抬不起来的时候，厄俄斯想出了一个最好的办法：她把他安放在一间屋子里，关上了闪亮的门。他的声音在里面不停地流淌，可他再也没有从前柔软的四肢里的力气了。阿佛洛狄忒说，正因为如此，她不愿意让安喀塞斯也这样永远不死。
+
+*Aphrodite told of another Trojan. Golden-throned Eos too carried off one of your race, godlike Tithonus. She went to ask the dark-clouded son of Cronos that he be deathless and live for ever, and Zeus nodded and granted her wish. But Eos was foolish: she did not think to ask youth for him, to strip him of grievous old age. So while sweet youth held him, he lived rapturously with early-born, golden-throned Eos by the streams of Ocean at the ends of the earth. But when the first grey hairs began to ripple from his comely head and noble chin, Eos kept away from his bed, though she still cherished him in her house, nourishing him with food and ambrosia and giving him rich clothing. And when loathsome old age pressed full upon him, and he could not move or lift his limbs, this seemed to her the best counsel: she laid him in a room and shut the shining doors. There his voice flows on endlessly, but there is no strength now in his once-supple limbs. That, Aphrodite says, is why she would not have Anchises be deathless in that way.*
+
+<sub>来源 / Source：Hesiod, the Homeric Hymns, and Homerica, tr. Hugh G. Evelyn-White (1914) · Hymn 5, lines 1–293 (sequential retelling) · 《荷马颂歌·致阿佛洛狄忒》第218–238行。</sub>
+
+### 12. 山中的仙女 / The nymphs of the mountain
+
+阿佛洛狄忒说：如果你能保持现在的容貌和身材活下去，被称为我的丈夫，悲伤就不会笼罩我的心。可是不久，无情的衰老就会降临到你身上。而我，因为你，将在不死的神中间永远蒙受羞辱：从前众神都怕我的话语和计谋，因为我让他们和凡间的女子结合；现在我再也不能在众神中间开口夸耀了，因为我自己也和一个凡人同了床。至于孩子，等他一见到阳光，深胸的山中仙女们就会抚养他。她们住在这座又大又神圣的山上，既不算凡人，也不算不死的神，她们活得很长，吃神的食物；当她们出生的时候，松树或高大的橡树也一起在大地上长出来，等到她们的死期来临，那些树先枯萎，树皮剥落，枝条落下，仙女的灵魂也就和树一起离开阳光。孩子五岁时，我会把他带来给你。你要说他是一位山中仙女的孩子。如果你说出真相，夸耀自己和戴着美丽花冠的库忒瑞亚同过床，宙斯就会在愤怒中用冒烟的雷电击中你。说完，女神就飞向了多风的天空。诗人向塞浦路斯的女王致意，说他从她开始，现在要转向另一首歌。
+
+*Aphrodite said: 'If you could live on as you are now in looks and form, and be called my husband, sorrow would not enfold my heart. But soon pitiless old age will come upon you. And I shall be greatly shamed among the deathless gods for ever because of you: once they feared my words and wiles, by which I joined them with mortal women; now I shall no more open my mouth to boast of this among them, since I myself have lain with a mortal. As for the child, as soon as he sees the light the deep-breasted mountain nymphs who live on this great and holy mountain will rear him. They rank neither with mortals nor with immortals; they live long and eat heavenly food. When they are born, pines or high-topped oaks spring up with them on the earth, and when the fate of death is near, the trees wither, their bark shrivels, their twigs fall, and the nymphs' souls leave the light together with them. When he is five years old I will bring him to you. Say he is the child of a mountain nymph. If you tell the truth and boast that you lay with rich-crowned Cytherea, Zeus in his anger will smite you with a smoking thunderbolt.' With that she sped up to windy heaven. The poet bids farewell to the queen of Cyprus: having begun with her, he will turn to another song.*
+
+<sub>来源 / Source：Hesiod, the Homeric Hymns, and Homerica, tr. Hugh G. Evelyn-White (1914) · Hymn 5, lines 1–293 (sequential retelling) · 《荷马颂歌·致阿佛洛狄忒》第239–293行。</sub>
 
 ---
 
@@ -1792,27 +1972,17 @@
 
 ## 迈亚 · Maia
 
-**证据卡 / Evidence card**
+**有完整故事 / Full story**
+
+完整故事档案：[story.greek.hymn_hermes](../story.greek.hymn_hermes.md)
 
 > 赫尔墨斯之母；不同传统层需要逐条登记。
 
 > *Mother of Hermes in the registered witnesses; later layers remain separate.*
 
-### 1. 记载 / Record
+**长篇故事 · 12 章**：与本页「赫尔墨斯」一节是同一个故事，全文见上方或[故事档案](../story.greek.hymn_hermes.md)。
 
-赫尔墨斯是迈亚的孩子。
-
-*Theogony 938-939 presents Hermes as a child of Maia and Zeus.*
-
-<sub>来源 / Source：Hesiod, Theogony, Evelyn-White English text · lines 938-939</sub>
-
-### 2. 记载 / Record
-
-迈亚见于神谱。
-
-*Theogony 938-939 names Maia in the genealogy of Hermes.*
-
-<sub>来源 / Source：Hesiod, Theogony, Evelyn-White English text · lines 938-939</sub>
+目录：01 洞中的仙女 · 02 乌龟变成竖琴 · 03 五十头牛 · 04 昂刻斯托斯的老人 · 05 阿尔甫斯河边的火 · 06 母亲的责备 · 07 阿波罗寻牛 · 08 库勒涅的山洞 · 09 去见宙斯 · 10 宙斯的判断 · 11 竖琴换牛群 · 12 兄弟的盟约
 
 ---
 
@@ -1820,99 +1990,45 @@
 
 **有完整故事 / Full story**
 
-完整故事档案：[story.greek.aphrodite_origins](../story.greek.aphrodite_origins.md)
+完整故事档案：[story.greek.hymn_aphrodite](../story.greek.hymn_aphrodite.md)
 
 > 爱欲女神；赫西俄德起源叙事与《伊利亚特》的宙斯—狄俄涅谱系作为冲突版本并存。
 
 > *Goddess of desire; the Hesiodic origin and Iliadic Zeus–Dione genealogy remain coexisting variants.*
 
-### 1. 乌拉诺斯之后 / After Uranus
+**长篇故事 · 12 章**：与本页「赫斯提亚」一节是同一个故事，全文见上方或[故事档案](../story.greek.hymn_aphrodite.md)。
 
-《神谱》的出身叙事把阿佛洛狄忒的出现连接到乌拉诺斯受创后落入海中的身体部分。
-
-*The Theogony connects the appearance of Aphrodite to what falls into the sea after the wounding of Uranus.*
-
-<sub>来源 / Source：Hesiod, Theogony, Evelyn-White English text · lines 188–206 · 《神谱》188–206行。</sub>
-
-<sub>尚不确定 / Uncertain：本站以简洁概述处理古代文本中的身体暴力。</sub>
-
-### 2. 海中诞生 / Birth from the sea
-
-这一见证叙述她从海中形成并显现，因此不使用“宙斯之女”作为此版本的出生框架。
-
-*This witness narrates her formation and appearance from the sea and therefore does not use the daughter-of-Zeus genealogy as its birth frame.*
-
-<sub>来源 / Source：Hesiod, Theogony, Evelyn-White English text · lines 188–206 · 《神谱》188–206行。</sub>
-
-<sub>尚不确定 / Uncertain：只说明此版本，不否定其他古代见证。</sub>
-
-### 3. 版本边界 / Version boundary
-
-海中诞生是《神谱》的故事版本；《伊利亚特》的家谱称谓在下一版本单独阅读。
-
-*The sea birth is the Theogony version; the genealogy terms in the Iliad are read separately in the next version.*
-
-<sub>来源 / Source：Hesiod, Theogony, Evelyn-White English text · lines 188–206 · 冲突档案 conflict.greek.aphrodite_parentage_v050。</sub>
-
-<sub>尚不确定 / Uncertain：系统不裁定唯一正确版本。</sub>
+目录：01 阿佛洛狄忒的力量与雅典娜 · 02 阿耳忒弥斯 · 03 赫斯提亚的誓言 · 04 宙斯的回敬 · 05 帕福斯与伊达山 · 06 牧人小屋 · 07 弗里吉亚的公主 · 08 婚床 · 09 醒来的恐惧 · 10 埃涅阿斯与伽倪墨得斯 · 11 厄俄斯与提托诺斯 · 12 山中的仙女
 
 ---
 
 ## 阿斯忒里亚 · Asteria
 
-**证据卡 / Evidence card**
+**有完整故事 / Full story**
+
+完整故事档案：[story.greek.titans_children](../story.greek.titans_children.md)
 
 > *Parent of Hecate with Perses in Hesiod’s Theogony.*
 
-### 1. 记载 / Record
+**长篇故事 · 15 章**：与本页「克利俄斯」一节是同一个故事，全文见上方或[故事档案](../story.greek.titans_children.md)。
 
-阿斯忒里亚是赫卡忒的父母。
-
-*Theogony 404-409 presents Asteria and Perses as parents of Hecate.*
-
-<sub>来源 / Source：Hesiod, Theogony, Evelyn-White English text · Theogony 404-409</sub>
-
-### 2. 记载 / Record
-
-珀耳塞斯（提坦）与阿斯忒里亚是配偶。
-
-*Theogony 404-410 says Asteria became the wife of this Perses and bore Hecate.*
-
-<sub>来源 / Source：Hesiod, Theogony · Theogony 404-410</sub>
+目录：01 混沌之子 · 02 埃忒耳与赫墨拉 · 03 十二位提坦 · 04 夜的子女 · 05 海的女儿 · 06 太阳、月亮与黎明 · 07 克利俄斯的儿子们 · 08 风与星辰 · 09 斯梯克斯的孩子 · 10 众神的誓言 · 11 福柏的女儿们 · 12 赫卡忒的荣耀 · 13 夜与昼的门槛 · 14 睡与死的住所 · 15 厄俄斯的儿子们
 
 ---
 
 ## 阿斯特赖俄斯 · Astraeus
 
-**证据卡 / Evidence card**
+**有完整故事 / Full story**
+
+完整故事档案：[story.greek.titans_children](../story.greek.titans_children.md)
 
 > 克利俄斯与欧律比亚之子，提坦珀耳塞斯和帕拉斯的兄弟。
 
 > *Son of Crius and Eurybia, brother of the Titan Perses and Pallas.*
 
-### 1. 记载 / Record
+**长篇故事 · 15 章**：与本页「克利俄斯」一节是同一个故事，全文见上方或[故事档案](../story.greek.titans_children.md)。
 
-克利俄斯是阿斯特赖俄斯的父母。
-
-*Theogony 375-377 names Astraeus among the children of Crius and Eurybia.*
-
-<sub>来源 / Source：Hesiod, Theogony · Theogony 375-377</sub>
-
-### 2. 记载 / Record
-
-欧律比亚是阿斯特赖俄斯的父母。
-
-*Theogony 375-377 names Astraeus among the children of Crius and Eurybia.*
-
-<sub>来源 / Source：Hesiod, Theogony · Theogony 375-377</sub>
-
-### 3. 记载 / Record
-
-珀耳塞斯（提坦）与阿斯特赖俄斯是兄弟姐妹。
-
-*Theogony 375-377 lists Perses and Astraeus as children of Crius and Eurybia.*
-
-<sub>来源 / Source：Hesiod, Theogony · Theogony 375-377</sub>
+目录：01 混沌之子 · 02 埃忒耳与赫墨拉 · 03 十二位提坦 · 04 夜的子女 · 05 海的女儿 · 06 太阳、月亮与黎明 · 07 克利俄斯的儿子们 · 08 风与星辰 · 09 斯梯克斯的孩子 · 10 众神的誓言 · 11 福柏的女儿们 · 12 赫卡忒的荣耀 · 13 夜与昼的门槛 · 14 睡与死的住所 · 15 厄俄斯的儿子们
 
 ---
 
@@ -1920,15 +2036,15 @@
 
 **有完整故事 / Full story**
 
-完整故事档案：[story.greek.heracles_death_apotheosis](../story.greek.heracles_death_apotheosis.md)
+完整故事档案：[story.greek.hymn_apollo](../story.greek.hymn_apollo.md)
 
 > 勒托与宙斯之子；第3首《荷马颂歌》连接提洛岛诞生、弓、琴与神谕。
 
 > *Son of Leto and Zeus; Hymn 3 connects his Delian birth, bow, lyre and oracle.*
 
-**长篇故事 · 12 章**：与本页「赫柏」一节是同一个故事，全文见上方或[故事档案](../story.greek.heracles_death_apotheosis.md)。
+**长篇故事 · 14 章**：与本页「伊里斯」一节是同一个故事，全文见上方或[故事档案](../story.greek.hymn_apollo.md)。
 
-目录：01 射箭比赛 · 02 城墙上的推落 · 03 争夺三足鼎 · 04 女王的奴仆 · 05 攻陷特洛伊 · 06 巨人之战与奥林匹亚 · 07 与河神摔跤 · 08 涅索斯的血 · 09 攻陷俄卡利亚 · 10 致命的长袍 · 11 俄塔山上的火 · 12 天上的婚礼与人间的子孙
+目录：01 众神起身 · 02 无处安身 · 03 得洛斯的誓言 · 04 被拦住的生育女神 · 05 棕榈树下 · 06 弓与竖琴 · 07 得洛斯的节日 · 08 奥林波斯的舞蹈 · 09 泰尔福萨的诡计 · 10 神庙的地基与泉边的母龙 · 11 赫拉独自生下的孩子 · 12 皮托这个名字 · 13 海豚 · 14 德尔斐的祭司
 
 ---
 
@@ -2044,85 +2160,233 @@
 
 ## 阿瑞斯 · Ares
 
-**证据卡 / Evidence card**
+**有完整故事 / Full story**
+
+完整故事档案：[story.greek.ares_iliad](../story.greek.ares_iliad.md)
 
 > 宙斯与赫拉之子；第8首颂歌同时保存武力称号与克制、和平祈愿。
 
 > *Son of Zeus and Hera; Hymn 8 combines martial titles with a prayer for restraint.*
 
-### 1. 记载 / Record
+**长篇故事 · 13 章**
 
-阿瑞斯——职掌：martial force coupled with a closing prayer for restraint and peace
+目录：01 被领出战场 · 02 借车 · 03 铜罐里的十三个月 · 04 阿波罗的召唤 · 05 赫克托耳身边的神 · 06 退却的希腊人 · 07 赫拉与雅典娜出征 · 08 狄俄墨得斯的长矛 · 09 宙斯的责备 · 10 儿子之死 · 11 众神参战 · 12 雅典娜的石头 · 13 阿佛洛狄忒扶他离开
 
-*Homeric Hymn 8 gives Ares martial titles but closes by asking for courage, restraint and peace.*
+### 1. 被领出战场 / Led from the battle
 
-<sub>来源 / Source：Homeric Hymn 8 to Ares, Evelyn-White edition · lines 1-17</sub>
+《伊利亚特》第五卷是狄俄墨得斯大显身手的一卷，也是阿瑞斯在全诗中出场最多的一卷。战斗刚开始不久，眼睛明亮的雅典娜就拉住狂暴的阿瑞斯的手，对他说：阿瑞斯，阿瑞斯，人类的祸害，沾满鲜血的城墙摧毁者，我们何不让特洛伊人和希腊人自己去打，看看宙斯要把荣耀给哪一方？我们两个退到一边，免得惹宙斯生气。说着，她把阿瑞斯领出了战场，让他坐在斯卡曼德洛斯河长满青草的岸边。可是雅典娜的这番话并不真诚：她本人是希腊人的支持者，把阿瑞斯领开，正是为了让希腊人占上风。阿瑞斯一走，希腊人果然开始击退特洛伊人，每一位希腊首领都杀死了一个敌人。这一开场就定下了整卷的基调：阿瑞斯虽然是战神，力大无穷、勇猛无比，却常常在计谋上输给雅典娜。荷马笔下的这两位战争之神截然不同：一个代表盲目的厮杀，一个代表有谋略的战斗。
 
-### 2. 记载 / Record
+*Book Five of the Iliad is Diomedes' great day, and the book in which Ares appears most. Soon after the fighting begins, bright-eyed Athena takes furious Ares by the hand and says: 'Ares, Ares, bane of men, bloodstained stormer of cities, shall we not leave the Trojans and Achaeans to fight it out and see to which Zeus will give glory? Let us two withdraw and avoid the anger of Zeus.' With that she leads Ares out of the battle and sets him down on the grassy banks of the Scamander. Her words are not sincere: she favours the Achaeans, and leads Ares away precisely so that they may gain the upper hand. As soon as he is gone the Achaeans begin to drive the Trojans back, and each Achaean chief kills his man. This opening sets the tone for the whole book: Ares, god of war, is enormously strong and fierce, yet again and again he is outwitted by Athena. Homer's two war gods are utterly different — one stands for blind slaughter, the other for war waged with cunning.*
 
-阿瑞斯是赫拉的孩子。
+<sub>来源 / Source：Homer, The Iliad, rendered into English prose (tr. Samuel Butler, 1898) · Iliad 5.29–909, 13.518–525, 15.110–142, 20.31–74, 21.391–433 (sequential retelling) · 荷马《伊利亚特》第五卷第29–36行。</sub>
 
-*Theogony 921-923 presents Ares among the children of Hera and Zeus.*
+### 2. 借车 / The borrowed chariot
 
-<sub>来源 / Source：Hesiod, Theogony, Evelyn-White English text · lines 921-923</sub>
+战场上，狄俄墨得斯在雅典娜的鼓舞下所向无敌，连阿佛洛狄忒也被他刺伤了手腕——她是来救自己受伤的儿子埃涅阿斯的。女神流着神的血，痛得放开了儿子，由伊里斯扶着离开战场。她在战场的左边找到了凶猛的阿瑞斯，他正坐在那里，长矛和快马都靠在一团云雾里。阿佛洛狄忒跪倒在哥哥面前，恳求他把那几匹戴着金辔头的马借给她，说：亲爱的哥哥，救救我，把你的马借给我，让我回到不死的神居住的奥林波斯去。一个凡人刺伤了我，就是那个提丢斯的儿子，他现在连父亲宙斯都敢打了。阿瑞斯把马借给了她，她忍着痛登上战车，伊里斯握着缰绳，扬鞭催马，马儿飞快地奔向高高的奥林波斯。这一段很短，却让我们看到阿瑞斯难得的另一面：在战场上他是人类的祸害，在受伤的妹妹面前，他却是一个肯伸出援手的哥哥。荷马常把阿瑞斯和阿佛洛狄忒放在一起，他们都是特洛伊一方的神。
 
-### 3. 记载 / Record
+*On the field Diomedes, fired by Athena, carries all before him, and he even wounds Aphrodite in the wrist when she comes to rescue her wounded son Aeneas. The goddess, bleeding ichor, lets go of her son in pain, and Iris leads her out of the fighting. On the left of the battle she finds fierce Ares sitting, his spear and his swift horses resting in a cloud. Aphrodite falls on her knees before her brother and begs him for his horses with their golden headbands: 'Dear brother, help me, lend me your horses to take me to Olympus where the gods dwell. A mortal has wounded me — the son of Tydeus, who would now fight even father Zeus.' Ares gives her the horses; she mounts the chariot in pain, Iris takes the reins and lashes the horses, and they fly to high Olympus. The passage is short, yet it shows a rare side of Ares: on the field he is the bane of men, but before his wounded sister he is a brother who lends a hand. Homer often pairs Ares and Aphrodite; both are gods of the Trojan side.*
 
-阿瑞斯是宙斯的孩子。
+<sub>来源 / Source：Homer, The Iliad, rendered into English prose (tr. Samuel Butler, 1898) · Iliad 5.29–909, 13.518–525, 15.110–142, 20.31–74, 21.391–433 (sequential retelling) · 荷马《伊利亚特》第五卷第355–363行。</sub>
 
-*Theogony 921-923 presents Ares among the children of Hera and Zeus.*
+### 3. 铜罐里的十三个月 / Thirteen months in a bronze jar
 
-<sub>来源 / Source：Hesiod, Theogony, Evelyn-White English text · lines 921-923</sub>
+阿佛洛狄忒回到奥林波斯，扑倒在母亲狄俄涅的膝上。狄俄涅把她抱在怀里安慰她，说：忍着点吧，我的孩子，住在奥林波斯的神有许多都吃过凡人的苦头，我们自己也常常互相伤害。接着她举了几个例子，第一个就是阿瑞斯：阿洛欧斯的两个儿子、强壮的俄托斯和厄菲阿尔忒斯，曾经用结实的锁链把阿瑞斯捆起来，关在一个铜罐里整整十三个月。若不是两兄弟的继母、美丽的厄里玻亚把这件事告诉了赫尔墨斯，嗜战不厌的阿瑞斯也许就死在那里了；赫尔墨斯把他偷了出来，那时他已经被那残酷的锁链折磨得筋疲力尽。狄俄涅还讲到赫拉和冥王哈得斯都曾被赫拉克勒斯的箭射伤。这段插话说明，在荷马的世界里，众神虽然不死，却会受伤、受苦，甚至会被囚禁。阿瑞斯作为战神，竟有过被凡间巨人关进罐子的经历，这和他在第五卷中接下来的遭遇遥相呼应。
 
-### 4. 记载 / Record
+*Aphrodite returns to Olympus and falls on the knees of her mother Dione, who takes her in her arms and comforts her: 'Bear it, my child; many of us who dwell on Olympus have suffered at the hands of men, and we bring hard pains on one another.' Then she gives examples, and the first is Ares: the two sons of Aloeus, mighty Otus and Ephialtes, bound Ares in strong chains and kept him in a bronze jar for thirteen months. Ares, insatiable of war, might have perished there, had not their stepmother, the lovely Eëriboea, told Hermes, who stole him away, already worn out by the cruel bonds. Dione also tells how Hera and Hades himself were wounded by Heracles' arrows. The digression shows that in Homer's world the gods, though deathless, can be wounded, can suffer, can even be imprisoned. That Ares, the war god, was once shut in a jar by giant brothers echoes what will happen to him later in this same book.*
 
-《荷马颂歌·致阿瑞斯》（第8首）提到阿瑞斯。
+<sub>来源 / Source：Homer, The Iliad, rendered into English prose (tr. Samuel Butler, 1898) · Iliad 5.29–909, 13.518–525, 15.110–142, 20.31–74, 21.391–433 (sequential retelling) · 荷马《伊利亚特》第五卷第385–391行。</sub>
 
-*Homeric Hymn 8 is addressed to Ares.*
+### 4. 阿波罗的召唤 / Apollo's summons
 
-<sub>来源 / Source：Homeric Hymn 8 to Ares, Evelyn-White edition · lines 1-17</sub>
+狄俄墨得斯一连三次冲向被阿波罗保护着的埃涅阿斯，第四次冲上去时，阿波罗厉声喝退了他：提丢斯的儿子，退回去，不要妄想和神平起平坐。阿波罗把埃涅阿斯带到自己在特洛伊城的神庙里养伤，然后对阿瑞斯说：阿瑞斯，阿瑞斯，人类的祸害，沾满鲜血的城墙摧毁者，你去把这个人从战场上赶走好吗？就是那个提丢斯的儿子，他现在敢和父亲宙斯打了。他先刺伤了阿佛洛狄忒的手腕，接着又像一个神一样向我冲来。说完，阿波罗坐到特洛伊的城墙顶上。凶猛的阿瑞斯于是走进特洛伊人的队伍中，化作色雷斯人的首领阿卡马斯的模样，鼓舞特洛伊人，对普里阿摩斯的儿子们大声喊道：你们还要让希腊人杀戮多久？难道要等他们打到城门口吗？埃涅阿斯倒下了，我们去把他从混战中救出来。他的话让每个人都鼓起了勇气。这里，阿瑞斯第一次真正投入了战斗，而他的出场，是用一个凡人的面孔完成的。
+
+*Three times Diomedes sprang at Aeneas, whom Apollo was shielding; the fourth time Apollo shouted at him: 'Son of Tydeus, give way, and do not think to match yourself with the gods.' Apollo carried Aeneas to his temple in Pergamus to be healed, and then said to Ares: 'Ares, Ares, bane of men, bloodstained stormer of cities, will you not go and drive this man from the field — the son of Tydeus, who would now fight even father Zeus? First he wounded Aphrodite in the wrist, then he sprang at me like a god.' Then Apollo sat down on the walls of Pergamus. Fierce Ares went among the ranks of the Trojans in the likeness of Acamas, leader of the Thracians, and urged on the sons of Priam: 'How long will you let the Achaeans slaughter your people? Till they fight at your gates? Aeneas has fallen; let us rescue him from the press.' His words put heart into every man. Here Ares truly enters the fighting for the first time — and he does it with the face of a mortal.*
+
+<sub>来源 / Source：Homer, The Iliad, rendered into English prose (tr. Samuel Butler, 1898) · Iliad 5.29–909, 13.518–525, 15.110–142, 20.31–74, 21.391–433 (sequential retelling) · 荷马《伊利亚特》第五卷第454–470行。</sub>
+
+### 5. 赫克托耳身边的神 / The god beside Hector
+
+赫克托耳从战车上跳下来，挥舞着两支长矛，在整个队伍中奔走，激起可怕的战斗。特洛伊人转过身来，面对希腊人。荷马说，走在他们前面的是阿瑞斯和可怕的厄倪俄——厄倪俄是战争的女神，带着无情的战争喧嚣；阿瑞斯手里挥舞着一支巨大的长矛，时而走在赫克托耳前面，时而跟在他后面。狄俄墨得斯看见阿瑞斯，浑身一颤。就像一个人在穿越一片大平原时，忽然来到一条奔腾入海的大河边，看见河水翻滚着白沫，只好往后退；提丢斯的儿子也就这样后退了，对他的部下说：朋友们，难怪我们惊叹赫克托耳是个好枪手、勇敢的战士，原来总有一位神在他身边，保护他免于死亡，现在阿瑞斯就化作凡人的样子站在他旁边。所以，你们一边面朝特洛伊人，一边往后退吧，不要想着和神作战。狄俄墨得斯能看见神，是因为雅典娜拂去了他眼前的迷雾。在他身上，勇敢与谨慎并存：他敢于刺伤阿佛洛狄忒，却知道此刻还不是与战神交手的时候。
+
+*Hector sprang from his chariot and went about among the host brandishing his two spears, rousing them to fight, and the Trojans turned and faced the Achaeans. Before them, Homer says, went Ares and dread Enyo — Enyo, goddess of war, bringing the ruthless din of battle — while Ares wielded a monstrous spear and went now in front of Hector, now behind him. When Diomedes saw Ares he shuddered. As a man crossing a wide plain stops in dismay at a swift river rushing to the sea and, seeing it boil with foam, starts back, so the son of Tydeus gave ground, and said to his men: 'My friends, how can we wonder at Hector being such a spearman and so bold? Some god is always by his side to protect him, and now Ares is with him in the likeness of a mortal man. Keep your faces toward the Trojans, but give ground backwards, and do not fight with the gods.' Diomedes can see the god because Athena has lifted the mist from his eyes. In him courage and caution go together: he dared to wound Aphrodite, but knows this is not yet the time to face the war god.*
+
+<sub>来源 / Source：Homer, The Iliad, rendered into English prose (tr. Samuel Butler, 1898) · Iliad 5.29–909, 13.518–525, 15.110–142, 20.31–74, 21.391–433 (sequential retelling) · 荷马《伊利亚特》第五卷第590–606行。</sub>
+
+### 6. 退却的希腊人 / The Achaeans give ground
+
+希腊人在阿瑞斯和赫克托耳面前既没有逃回船边，也没有挺身迎战，而是一步步地后退，因为他们知道阿瑞斯在特洛伊人中间。荷马在这里向缪斯发问：赫克托耳和青铜的阿瑞斯先杀死的是谁，最后杀死的又是谁？他接着列出了一串名字：神一样的透特剌斯、驾车的俄瑞斯忒斯、埃托利亚的枪手特瑞科斯、俄诺马俄斯、俄诺普斯的儿子赫勒诺斯，还有系着闪亮腰带的俄瑞斯比俄斯——他住在许勒，守着自己的财富，住在刻菲西斯湖边。这些名字在全诗中只出现这一次，他们的生平只用一两句话交代，却是阿瑞斯在战场上留下的真实痕迹。荷马常常这样，在大场面中插进一个个普通战士的名字和家乡，让读者意识到每一次“杀戮”背后都是一个具体的人。对阿瑞斯来说，这是他在整部《伊利亚特》中最得意的时刻：他和凡间最勇敢的特洛伊英雄并肩作战，希腊人在他面前节节败退。可是这一幕被奥林波斯山上的两位女神看在眼里。
+
+*Before Ares and Hector the Achaeans neither fled to their ships nor charged, but gave ground step by step, for they knew Ares was among the Trojans. Here Homer asks the Muse: who was the first and who the last whom Hector and bronze Ares slew? He lists them: godlike Teuthras, Orestes the charioteer, Trechus the Aetolian spearman, Oenomaus, Helenus son of Oenops, and Oresbius of the gleaming girdle, who lived in Hyle on the shore of the Cephisian lake, minding his wealth. These names appear only here in the whole poem, each life told in a line or two, yet they are the real marks Ares leaves on the battlefield. Homer often sets the names and homes of ordinary fighters into his great scenes, so that every 'slaying' is a particular man. For Ares this is his proudest moment in the whole Iliad: fighting beside the bravest Trojan, the Achaeans giving way before him. But two goddesses on Olympus are watching.*
+
+<sub>来源 / Source：Homer, The Iliad, rendered into English prose (tr. Samuel Butler, 1898) · Iliad 5.29–909, 13.518–525, 15.110–142, 20.31–74, 21.391–433 (sequential retelling) · 荷马《伊利亚特》第五卷第699–710行。</sub>
+
+### 7. 赫拉与雅典娜出征 / Hera and Athena drive out
+
+白臂的赫拉看见希腊人在激战中纷纷倒下，就对雅典娜说：真是糟糕，持埃癸斯盾的宙斯的孩子，我们曾向墨涅拉俄斯许诺，他一定会攻下特洛伊城平安回家，如果我们任由阿瑞斯这样发狂，这个诺言就落空了。来吧，让我们也去参战。赫拉亲自套上戴金辔头的马，青春女神赫柏装好车轮；雅典娜脱下自己织的长袍，穿上宙斯的战衣，披上可怕的埃癸斯盾，戴上金盔，拿起又重又大的长矛。天门自动打开，她们驾车来到奥林波斯山顶，赫拉停下车，问坐在那里的宙斯：父亲宙斯，阿瑞斯这样残暴，杀害了这么多勇敢的希腊人，你难道不生气吗？阿佛洛狄忒和银弓的阿波罗倒是很高兴，是他们放出了这个不知法度的疯子。如果我狠狠地把阿瑞斯打出战场，你会生我的气吗？宙斯回答说：去吧，让掠夺战利品的雅典娜去对付他，她最会让他吃苦头。赫拉立刻扬鞭催马，来到特洛伊城下，化作嗓音如铜的斯滕托耳，大声鼓舞希腊人。
+
+*White-armed Hera, seeing the Achaeans perish in the fierce fighting, said to Athena: 'Alas, child of aegis-bearing Zeus, we promised Menelaus that he would sack Troy and return home safe; that promise is vain if we let Ares rage like this. Come, let us too join the fight.' Hera herself harnessed the horses with golden headbands, and Hebe fitted the wheels; Athena put off the robe she had woven, donned the tunic of Zeus, threw the terrible aegis over her shoulders, set on the golden helmet and took up her great heavy spear. The gates of heaven opened of themselves, and they drove to the summit of Olympus, where Hera stopped and asked Zeus: 'Father Zeus, are you not angry with Ares for these violent deeds, slaying so many brave Achaeans? Aphrodite and Apollo of the silver bow are glad — they let loose this madman who knows no law. Will you be angry if I drive Ares from the field with a sore wound?' Zeus answered: 'Go, set Athena the driver of spoil upon him; she more than any is wont to bring him pain.' Hera lashed the horses, came down before Troy and, in the likeness of brazen-voiced Stentor, shouted courage into the Achaeans.*
+
+<sub>来源 / Source：Homer, The Iliad, rendered into English prose (tr. Samuel Butler, 1898) · Iliad 5.29–909, 13.518–525, 15.110–142, 20.31–74, 21.391–433 (sequential retelling) · 荷马《伊利亚特》第五卷第711–792行。</sub>
+
+### 8. 狄俄墨得斯的长矛 / The spear of Diomedes
+
+雅典娜找到正在擦拭伤口的狄俄墨得斯，责备他不如父亲提丢斯勇敢。狄俄墨得斯说：女神，是你吩咐我不要和别的神作战，只能刺伤阿佛洛狄忒；现在我看见阿瑞斯在战场上称王，所以才后退。雅典娜说：你不要怕阿瑞斯，也不要怕别的神，我会帮助你。先把马赶向阿瑞斯，近身刺他，别管他是什么疯狂的神。她把驾车的斯忒涅罗斯推下车，自己登上战车，橡木车轴在女神和英雄的重量下嘎吱作响。阿瑞斯正在剥取一个他刚杀死的埃托利亚勇士珀里法斯的铠甲；雅典娜戴上冥王哈得斯的隐身盔，不让阿瑞斯看见她。阿瑞斯看见狄俄墨得斯，丢下尸体，挺矛刺来，雅典娜伸手把矛推开；狄俄墨得斯随即刺出长矛，雅典娜把它推进阿瑞斯的小腹，正中他束腰带的地方。青铜的阿瑞斯发出一声吼叫，响得像九千、一万个人在战场上同时呐喊，希腊人和特洛伊人都吓得发抖。他像夏天暑热中从云里升起的一团黑雾，升上了宽阔的天空。
+
+*Athena found Diomedes cooling his wound and taunted him for being less bold than his father Tydeus. Diomedes answered: 'Goddess, you yourself told me not to fight the other gods, except to wound Aphrodite; now I see Ares lording it over the field, and so I gave way.' Athena said: 'Fear neither Ares nor any other god; I will help you. Drive straight at Ares and strike him at close quarters, raving god though he is.' She pushed Sthenelus from the chariot and mounted it herself, and the oaken axle groaned under the weight of the goddess and the hero. Ares was stripping the armour of huge Periphas, the bravest of the Aetolians, whom he had just slain; Athena put on the cap of Hades so that Ares should not see her. When Ares saw Diomedes he left the body and thrust at him with his spear, but Athena caught it and turned it aside; then Diomedes thrust, and Athena drove the spear into the pit of Ares' belly where his belt went round him. Bronze Ares bellowed as loud as nine or ten thousand men shouting in battle, and Achaeans and Trojans trembled. Like a dark cloud rising from the heat of summer, he went up into the broad heaven.*
+
+<sub>来源 / Source：Homer, The Iliad, rendered into English prose (tr. Samuel Butler, 1898) · Iliad 5.29–909, 13.518–525, 15.110–142, 20.31–74, 21.391–433 (sequential retelling) · 荷马《伊利亚特》第五卷第825–863行。</sub>
+
+### 9. 宙斯的责备 / The rebuke of Zeus
+
+阿瑞斯飞快地来到众神居住的奥林波斯，满心痛苦地坐在宙斯身边，让父亲看他伤口里流出的神血，诉苦说：父亲宙斯，看到这种暴行你不生气吗？我们众神为了讨好凡人，总是在互相伤害，彼此吃尽苦头。我们都在怪你，因为你生了一个疯狂的、该死的女儿，她只想着做坏事。别的神都听你的话，唯独她，你从不责备，因为她是你自己生的。现在她怂恿狄俄墨得斯去打不死的神，先刺伤了阿佛洛狄忒，又像神一样向我冲来，要不是我跑得快，我早就躺在死人堆里了。宙斯皱着眉头看着他说：你这个反复无常的家伙，不要坐在我身边哭诉。你是奥林波斯所有神中我最憎恨的一个，你只喜欢争吵、战争和厮杀。你有你母亲赫拉那种不可容忍、不肯让步的脾气，我连说话都管不住她。不过你是我的孩子，你母亲为我生了你，我不能让你一直受苦。他吩咐医神派厄昂为他治伤，派厄昂敷上止痛的草药，伤口像无花果汁让奶凝结一样很快愈合；赫柏为他洗澡，给他穿上华美的衣服，他便坐在宙斯身边，又得意起来。
+
+*Ares came swiftly to Olympus, home of the gods, sat down in pain beside Zeus, showed him the immortal blood flowing from his wound and complained: 'Father Zeus, are you not angry at such violence? We gods suffer terribly at one another's hands while helping mortals. We are all against you, because you begot that mad, accursed daughter who is always bent on mischief. All the other gods obey you, but her you never check, because you bore her yourself. Now she has set the son of Tydeus on the deathless gods: first he wounded Aphrodite, then he sprang at me like a god, and had my feet not carried me away I would be lying among the dead.' Zeus looked at him darkly: 'Do not sit by me whining, you weathercock. You are the most hateful to me of all the gods on Olympus, for strife is always dear to you, and wars and battles. You have the intolerable, unyielding spirit of your mother Hera, whom I can scarcely rule with words. Yet you are my child, your mother bore you to me, and I cannot leave you in pain.' He bade Paeon heal him; Paeon spread pain-killing herbs on the wound, and it closed as quickly as fig-juice curdles milk. Hebe bathed him and clothed him in fine raiment, and he sat down by Zeus, exulting again.*
+
+<sub>来源 / Source：Homer, The Iliad, rendered into English prose (tr. Samuel Butler, 1898) · Iliad 5.29–909, 13.518–525, 15.110–142, 20.31–74, 21.391–433 (sequential retelling) · 荷马《伊利亚特》第五卷第864–909行。</sub>
+
+### 10. 儿子之死 / The death of his son
+
+第十三卷里，特洛伊人得伊福玻斯向伊多墨纽斯投出长矛，没有投中，却刺中了阿瑞斯的儿子阿斯卡拉福斯的肩膀，阿斯卡拉福斯倒在尘土里，双手抓地而死。可是阿瑞斯并不知道儿子倒下了，因为他正和其他神一起坐在奥林波斯的金云下面，宙斯不许众神插手战事。到了第十五卷，赫拉回到奥林波斯，有意对众神说：阿瑞斯，你的儿子阿斯卡拉福斯战死了，那是强大的阿瑞斯称为自己儿子的人。阿瑞斯听了，双手拍着大腿，悲痛地说：住在奥林波斯的神们，如果我为了替儿子报仇而下到希腊人的船边，你们可不要责怪我，哪怕我注定要被宙斯的雷电击中，和死人一起躺在血泊和尘土里。他吩咐恐惧和溃逃——得摩斯和福波斯——为他套马，自己穿上闪亮的铠甲。眼看宙斯就要对众神发出更大的怒火，雅典娜怕众神都遭殃，冲出大殿，从阿瑞斯头上摘下头盔，从他肩上取下盾牌，从他手里夺下长矛，责备他说：你这个疯子，你要毁了自己！宙斯会回到奥林波斯，把我们所有的神都痛打一顿。她这样说着，让狂暴的阿瑞斯坐回了座位。
+
+*In Book Thirteen the Trojan Deiphobus hurled his spear at Idomeneus and missed, but struck Ascalaphus, son of Ares, through the shoulder, and he fell in the dust clutching the earth. Ares did not know his son had fallen, for he was sitting with the other gods on Olympus under golden clouds, held back by the will of Zeus from the fighting. In Book Fifteen Hera, returning to Olympus, said pointedly to the gods: 'Ares, your son Ascalaphus has fallen — the man whom mighty Ares calls his own.' At this Ares struck his thighs with his hands and said in grief: 'Gods of Olympus, do not blame me if I go down to the ships of the Achaeans to avenge my son, even if I am fated to be struck by Zeus's thunderbolt and lie in blood and dust among the dead.' He bade Fear and Rout — Deimos and Phobos — yoke his horses, and put on his gleaming armour. Then, fearing that Zeus's anger would fall still more heavily on all the gods, Athena rushed from the hall, tore the helmet from his head, the shield from his shoulders and the spear from his hand, and rebuked him: 'Madman, you are undone! Zeus will come back to Olympus and punish us all.' So saying she made furious Ares sit down again.*
+
+<sub>来源 / Source：Homer, The Iliad, rendered into English prose (tr. Samuel Butler, 1898) · Iliad 5.29–909, 13.518–525, 15.110–142, 20.31–74, 21.391–433 (sequential retelling) · 荷马《伊利亚特》第十三卷第518–525行、第十五卷第110–142行。</sub>
+
+### 11. 众神参战 / The gods go to war
+
+第二十卷开头，阿喀琉斯重返战场，宙斯召集众神，宣布他们可以随意帮助自己喜欢的一方，免得阿喀琉斯违背命运，提前攻下特洛伊城。于是众神纷纷奔赴战场：赫拉、帕拉斯·雅典娜、环绕大地的波塞冬、带来好运的赫尔墨斯和瘸腿的赫菲斯托斯走向希腊人的船边；头盔闪亮的阿瑞斯则和长发的福玻斯·阿波罗、射手阿耳忒弥斯、勒托、河神克珊托斯和爱笑的阿佛洛狄忒一起走向特洛伊人一边。雅典娜一会儿站在壕沟边，一会儿站在海边，发出响亮的吼声；阿瑞斯则在另一边像一阵黑色的风暴，时而在特洛伊城的城头上，时而在西摩伊斯河边的卡利科洛涅山上，高声激励特洛伊人。宙斯在天上发出可怕的雷声，波塞冬从下面摇动大地，连冥王哈得斯都从宝座上惊跳起来，怕大地裂开，露出他那连众神都憎恶的阴暗住所。众神这样两两相对：阿波罗对波塞冬，雅典娜对战神阿瑞斯，阿耳忒弥斯对赫拉，勒托对赫尔墨斯，河神对赫菲斯托斯。
+
+*At the opening of Book Twenty, as Achilles returns to battle, Zeus calls the gods together and tells them they may help whichever side they please, lest Achilles overstep fate and take Troy before its time. So the gods go to war: Hera, Pallas Athena, earth-encircling Poseidon, luck-bringing Hermes and lame Hephaestus go to the ships of the Achaeans; Ares of the flashing helmet goes to the Trojans with long-haired Phoebus Apollo, Artemis the archer, Leto, the river Xanthus and laughter-loving Aphrodite. Athena shouts now from the trench, now from the shore; on the other side Ares, like a dark storm, shouts now from the citadel of Troy, now from Callicolone beside the Simois, urging on the Trojans. Zeus thunders terribly from heaven, Poseidon shakes the earth from below, and even Hades leaps from his throne in fear that the earth will split open and lay bare his dank dwelling, which the gods themselves abhor. So the gods are set against one another: Apollo against Poseidon, Athena against Enyalius the war god, Artemis against Hera, Leto against Hermes, and the river against Hephaestus.*
+
+<sub>来源 / Source：Homer, The Iliad, rendered into English prose (tr. Samuel Butler, 1898) · Iliad 5.29–909, 13.518–525, 15.110–142, 20.31–74, 21.391–433 (sequential retelling) · 荷马《伊利亚特》第二十卷第31–74行。</sub>
+
+### 12. 雅典娜的石头 / Athena's stone
+
+到了第二十一卷，众神真的动起手来。刺穿盾牌的阿瑞斯第一个出手，手持青铜长矛冲向雅典娜，骂道：你这只狗蝇，为什么又凭着你的狂妄挑起众神的争斗？你还记得你怂恿狄俄墨得斯刺伤我的那一次吗？那时你亲手握着长矛刺向我，现在我要让你为你做过的一切付出代价。说着，他用长矛刺向她那可怕的埃癸斯盾，连宙斯的雷电也打不穿这面盾牌。雅典娜往后一退，用粗壮的手捡起平原上的一块石头，那块石头又黑又粗糙又巨大，是古时候的人放在那里作为田界的。她用石头砸中阿瑞斯的脖子，他四肢一软，倒在地上，身子躺倒后占了七个普勒特戎那么大的地方，头发沾满了尘土，身上的铠甲叮当作响。帕拉斯·雅典娜大笑起来，得意地对他说：傻瓜，你和我比力气，还不知道我比你强多少吗？这就是你母亲的诅咒应验了，她生你的气，要报复你，因为你抛弃了希腊人，转而帮助傲慢的特洛伊人。说完，她转过了明亮的眼睛。
+
+*In Book Twenty-One the gods come to blows. Ares, piercer of shields, began it, rushing at Athena with his bronze spear and reviling her: 'Dog-fly, why do you set the gods at strife again in your boundless insolence? Do you remember how you set Diomedes on to wound me, and yourself guided the spear against me? Now I will pay you back for all you did.' He struck at her tasselled aegis, which not even Zeus's thunderbolt can pierce. Athena drew back and with her strong hand picked up a stone lying on the plain — black, jagged and huge, which men of old had set there as a boundary mark. She struck Ares on the neck with it and loosed his limbs; he fell, and as he lay he covered seven plethra, his hair was soiled with dust and his armour rang about him. Pallas Athena laughed and boasted over him: 'Fool, have you not yet learned how much stronger I am, that you match your strength with mine? So are your mother's curses fulfilled; she is angry and plots harm against you, because you have abandoned the Achaeans and are helping the insolent Trojans.' Then she turned her bright eyes away.*
+
+<sub>来源 / Source：Homer, The Iliad, rendered into English prose (tr. Samuel Butler, 1898) · Iliad 5.29–909, 13.518–525, 15.110–142, 20.31–74, 21.391–433 (sequential retelling) · 荷马《伊利亚特》第二十一卷第391–414行。</sub>
+
+### 13. 阿佛洛狄忒扶他离开 / Aphrodite leads him away
+
+宙斯的女儿阿佛洛狄忒拉住阿瑞斯的手，把不停呻吟、好不容易才缓过气来的他扶离战场。白臂的赫拉看见了，立刻对雅典娜说：真是糟糕，持埃癸斯盾的宙斯的孩子，不知疲倦的女儿，你看，那只狗蝇又把人类的祸害阿瑞斯从混战中领走了，快去追她。雅典娜心中欢喜，追了上去，伸出强壮的手打在阿佛洛狄忒的胸口上，阿佛洛狄忒的膝盖和心一下子都软了，两位神一起倒在了养育众生的大地上。雅典娜得意地说：但愿所有帮助特洛伊人、与希腊人作战的神都像他们一样，像阿佛洛狄忒这样大胆而坚定地来帮助阿瑞斯；那样我们早就攻下特洛伊城、结束战争了。白臂的赫拉听了，笑了起来。在《伊利亚特》里，阿瑞斯的故事就以这样的方式结束：战争之神没有战胜任何一位神，却一次又一次地被雅典娜打倒，最后被爱神扶着离开。荷马笔下的阿瑞斯，是一个强大、狂暴、却让众神和父亲都不喜欢的神，这也许正反映了希腊人对战争本身的复杂感受。
+
+*Aphrodite, daughter of Zeus, took Ares by the hand and led him away, groaning continually and scarcely able to get his breath. White-armed Hera saw it and at once said to Athena: 'Look, child of aegis-bearing Zeus, unwearied one: that dog-fly is again leading Ares, bane of men, out of the fray. Go after her!' Athena sped after them gladly, and struck Aphrodite on the breast with her strong hand, so that her knees and heart failed her, and the two of them lay on the bountiful earth. Athena boasted: 'Would that all who help the Trojans against the Achaeans were as bold and steadfast as Aphrodite was in coming to help Ares; then we should long since have sacked Troy and ended the war.' White-armed Hera smiled at her words. So Ares' story in the Iliad ends: the god of war defeats no other god, is felled again and again by Athena, and is at last led away by the goddess of love. Homer's Ares is mighty and furious, yet disliked by the gods and by his own father — perhaps a reflection of the Greeks' mixed feelings about war itself.*
+
+<sub>来源 / Source：Homer, The Iliad, rendered into English prose (tr. Samuel Butler, 1898) · Iliad 5.29–909, 13.518–525, 15.110–142, 20.31–74, 21.391–433 (sequential retelling) · 荷马《伊利亚特》第二十一卷第415–433行。</sub>
 
 ---
 
 ## 阿耳忒弥斯 · Artemis
 
-**证据卡 / Evidence card**
+**有完整故事 / Full story**
+
+完整故事档案：[story.greek.artemis_library](../story.greek.artemis_library.md)
 
 > 勒托与宙斯之女；第27首《荷马颂歌》描绘其弓箭、猎犬、鹿与阿波罗关系。
 
 > *Daughter of Leto and Zeus; Hymn 27 depicts archery, hounds and deer.*
 
-### 1. 记载 / Record
+**长篇故事 · 12 章**
 
-阿耳忒弥斯是勒托的孩子。
+目录：01 勒托的孪生子女 · 02 提堤俄斯 · 03 俄里翁 · 04 阿洛伊代兄弟 · 05 卡吕冬的野猪 · 06 阿德墨托斯的婚房 · 07 刻律涅亚的牝鹿 · 08 阿克泰翁 · 09 尼俄柏 · 10 卡利斯托 · 11 奥里斯的风 · 12 伊菲革涅亚
 
-*Theogony 918-920 presents Artemis as a child of Leto and Zeus.*
+### 1. 勒托的孪生子女 / Leto's twins
 
-<sub>来源 / Source：Hesiod, Theogony, Evelyn-White English text · lines 918-920</sub>
+《书库》在讲提坦的子女时说，科俄斯的女儿阿斯忒里亚为了躲避宙斯，化作一只鹌鹑跳进大海，那座城市先是叫阿斯忒里亚，后来叫得洛斯。她的姐姐勒托因为和宙斯相爱，被赫拉追逐，走遍了整个大地，最后来到得洛斯，先生下了阿耳忒弥斯，然后在阿耳忒弥斯的接生帮助下，才生下了阿波罗。这个说法与《荷马颂歌·致阿波罗》不同：颂歌里阿耳忒弥斯生在俄耳堤癸亚，生育女神厄勒梯亚来到得洛斯后阿波罗才出生；而在《书库》里，刚出生的阿耳忒弥斯自己就做了接生者，这也许正是她后来被看作守护分娩的女神的原因之一。书中接着说：阿耳忒弥斯一心打猎，始终保持处女之身；阿波罗则跟潘学会了预言，来到德尔斐，杀死了守护神谕所的皮同。短短几句，就给这对孪生姐弟分好了各自的领域：姐姐在山林里奔跑，弟弟在神庙里传达宙斯的旨意。
 
-### 2. 记载 / Record
+*Telling of the Titans' children, the Library says that Asteria, daughter of Coeus, fled Zeus in the likeness of a quail and flung herself into the sea, and a city was called Asteria after her and later Delos. Her sister Leto, for her love with Zeus, was hunted by Hera over the whole earth, until she came to Delos and brought forth first Artemis, by whose help as midwife she afterwards gave birth to Apollo. This differs from the Homeric Hymn to Apollo, where Artemis is born in Ortygia and Apollo only after Eileithyia comes to Delos; in the Library the newborn Artemis herself acts as midwife, which may be one reason she was later seen as a guardian of childbirth. The book goes on: Artemis devoted herself to the chase and remained a maiden, while Apollo learned prophecy from Pan, came to Delphi and slew the Python that guarded the oracle. In a few sentences the twins receive their domains — the sister running in the woods and mountains, the brother declaring Zeus's will in the temple.*
 
-阿耳忒弥斯是宙斯的孩子。
+<sub>来源 / Source：Pseudo-Apollodorus, Library · Library 1.4.1–3.8.2 and Epitome 3.21–22 (sequential retelling) · 阿波罗多洛斯《书库》1.4.1。</sub>
 
-*Theogony 918-920 presents Artemis as a child of Leto and Zeus.*
+### 2. 提堤俄斯 / Tityus
 
-<sub>来源 / Source：Hesiod, Theogony, Evelyn-White English text · lines 918-920</sub>
+同一节里，《书库》讲了一件姐弟俩为母亲报仇的事。宙斯曾与俄耳科墨诺斯的女儿厄拉瑞结合，因为害怕赫拉，把她藏到了地下，她在地下生下了一个身躯巨大的儿子提堤俄斯，所以人们说他是大地所生。有一次，勒托来到皮托，提堤俄斯看见了她，被情欲冲昏了头脑，竟想把她拉到自己身边。勒托呼唤她的孩子们来救她，阿耳忒弥斯和阿波罗立刻赶到，用箭把他射倒。《书库》说，提堤俄斯死后还要受罚：在冥府里，秃鹫一直啄食他的心。荷马的《奥德赛》里也说，奥德修斯在冥府看见提堤俄斯巨大的身体躺在地上，两只秃鹫啄食他的肝脏，因为他曾侵犯宙斯光荣的妻子勒托。在这个故事里，阿耳忒弥斯并不是独自行动的女猎手，而是与弟弟并肩、保护母亲的女儿；她的箭第一次射向的，是一个冒犯了勒托的巨人。后来尼俄柏的故事里，姐弟俩也将再一次为母亲的荣誉张弓。
 
-### 3. 记载 / Record
+*In the same section the Library tells how the twins avenged their mother. Zeus had lain with Elare, daughter of Orchomenus, and for fear of Hera hid her under the earth; there she bore a son of monstrous size, Tityus, so that he is said to be earth-born. Once, when Leto came to Pytho, Tityus saw her and, overcome by lust, tried to drag her to him. Leto called her children to her aid, and Artemis and Apollo came and shot him down with their arrows. The Library adds that Tityus is punished even after death: in Hades vultures eat his heart. Homer's Odyssey likewise says that Odysseus saw in the underworld the huge body of Tityus stretched on the ground while two vultures tore at his liver, because he had assaulted Leto, the glorious consort of Zeus. In this tale Artemis is not a lone huntress but a daughter fighting beside her brother to protect her mother; the first target of her arrows is a giant who has wronged Leto. In the story of Niobe the twins will draw their bows again for their mother's honour.*
 
-阿耳忒弥斯使用阿耳忒弥斯之弓。
+<sub>来源 / Source：Pseudo-Apollodorus, Library · Library 1.4.1–3.8.2 and Epitome 3.21–22 (sequential retelling) · 阿波罗多洛斯《书库》1.4.1。</sub>
 
-*Homeric Hymn 27 portrays Artemis as a golden-shafted archer hunting deer.*
+### 3. 俄里翁 / Orion
 
-<sub>来源 / Source：Homeric Hymn 27 to Artemis, Evelyn-White English text · lines 1-20</sub>
+《书库》说：阿耳忒弥斯在得洛斯杀死了俄里翁。据说俄里翁身材巨大，是大地所生；斐瑞库得斯却说他是波塞冬和欧律阿勒的儿子，波塞冬赐给他在海面上行走的本领。他先娶了西得，赫拉因为西得和她比美，把她扔进了冥府。后来他到希俄斯岛向国王俄诺皮翁的女儿墨洛珀求婚，俄诺皮翁把他灌醉，趁他睡着时弄瞎了他的眼睛，把他扔在海滩上。他走到赫菲斯托斯的铁匠铺，抓起一个少年放在肩上，让少年领他走向日出的地方，在那里，阳光治好了他的眼睛。这时黎明女神厄俄斯爱上了俄里翁，把他带到得洛斯——阿佛洛狄忒让她永远陷于爱情之中，因为她曾和阿瑞斯同床。至于俄里翁的死，《书库》并列了两种说法：有人说他向阿耳忒弥斯挑战掷铁饼，被她杀死；也有人说，他侵犯了从北方净土来的少女俄庇斯，被阿耳忒弥斯射死。书中没有说哪一种说法更对。
 
-### 4. 记载 / Record
+*The Library says: Artemis slew Orion in Delos. He is said to have been of gigantic stature and born of the earth; but Pherecydes says he was a son of Poseidon and Euryale, and Poseidon gave him the power to stride across the sea. He first married Side, whom Hera cast into Hades because she vied with her in beauty. Afterwards he went to Chios and wooed Merope, daughter of King Oenopion; but Oenopion made him drunk, put out his eyes as he slept and cast him on the beach. He went to the smithy of Hephaestus, snatched up a lad, set him on his shoulders and bade him lead him to the sunrise, where the sun's rays healed him. Then Dawn fell in love with Orion and carried him off to Delos — for Aphrodite had made her perpetually in love, because she had lain with Ares. For Orion's death the Library gives two accounts side by side: some say Artemis killed him for challenging her at quoits; others that she shot him for assaulting Opis, one of the maidens who had come from the Hyperboreans. The book does not say which is true.*
 
-《荷马颂歌·致阿耳忒弥斯》（第27首）提到阿耳忒弥斯。
+<sub>来源 / Source：Pseudo-Apollodorus, Library · Library 1.4.1–3.8.2 and Epitome 3.21–22 (sequential retelling) · 阿波罗多洛斯《书库》1.4.3–1.4.5。</sub>
 
-*Homeric Hymn 27 is addressed to Artemis.*
+### 4. 阿洛伊代兄弟 / The Aloadae
 
-<sub>来源 / Source：Homeric Hymn 27 to Artemis, Evelyn-White English text · lines 1-20</sub>
+《书库》第一卷还讲了一对巨人兄弟，俄托斯和厄菲阿尔忒斯，人称阿洛伊代兄弟。他们名义上是阿洛欧斯的儿子，实际上是波塞冬的儿子。他们每年宽长一肘、高长一寻，九岁时已经宽九肘、高九寻。他们决心与众神作战，把俄萨山堆在奥林波斯山上，又把珀利翁山堆在俄萨山上，扬言要用这些山把海填平，变成陆地，再把陆地变成海。厄菲阿尔忒斯追求赫拉，俄托斯追求阿耳忒弥斯，他们还把战神阿瑞斯捆了起来，后来是赫尔墨斯把阿瑞斯偷偷救走的。最后，阿耳忒弥斯在纳克索斯岛用计杀死了这对兄弟：她变成一头鹿，从两人中间跳过去，兄弟俩一心想射中猎物，同时向鹿投出标枪，结果刺中了对方。这是一个很能表现阿耳忒弥斯性格的故事：她不和巨人硬拼，而是用猎手最熟悉的东西——一头奔跑的鹿——让傲慢的猎人死在自己的手里。对一位狩猎女神来说，这样的结局恰如其分。
+
+*In its first book the Library also tells of two giant brothers, Otus and Ephialtes, called the Aloadae — nominally sons of Aloeus, but in truth sons of Poseidon. Each year they grew a cubit in breadth and a fathom in height, so that at nine years old they were nine cubits broad and nine fathoms tall. They resolved to fight the gods, set Ossa on Olympus and Pelion on Ossa, and threatened to fill up the sea with mountains to make it dry land, and to make the land sea. Ephialtes wooed Hera and Otus wooed Artemis; they even put Ares in bonds, though Hermes stole him away. In the end Artemis killed the Aloadae in Naxos by a trick: she changed herself into a deer and leapt between them, and in their eagerness to hit the quarry they threw their darts at each other. The tale shows Artemis's nature well: she does not meet the giants with force but uses the thing a hunter knows best — a running deer — so that the arrogant hunters die by their own hands. For a goddess of the hunt, it is a fitting end.*
+
+<sub>来源 / Source：Pseudo-Apollodorus, Library · Library 1.4.1–3.8.2 and Epitome 3.21–22 (sequential retelling) · 阿波罗多洛斯《书库》1.7.4。</sub>
+
+### 5. 卡吕冬的野猪 / The Calydonian boar
+
+埃托利亚的卡吕冬国王俄纽斯在一年的收成之后，把最早的果实献给所有的神，唯独忘了阿耳忒弥斯。女神大怒，派来一头身躯庞大、力大无比的野猪。这头野猪让田地无法播种，毁掉了牛羊，伤害了遇见它的人。俄纽斯的儿子墨勒阿革洛斯召集了全希腊最出色的英雄来猎杀它，前来的有卡斯托耳和波吕丢刻斯、伊阿宋、忒修斯、珀琉斯、安菲阿剌俄斯，还有女猎手阿塔兰忒。英雄们在俄纽斯家里宴饮了九天，有些人不愿与一个女子一同打猎，墨勒阿革洛斯却坚持让她参加。猎猪时，有几位英雄被野猪杀死，阿塔兰忒第一个射中野猪的背，最后墨勒阿革洛斯刺中它的腹部，把它杀死。他把猪皮送给阿塔兰忒，引起舅舅们的不满，争执中他杀了舅舅，最终自己也因此丧命。这场流血的猎猪和随后的悲剧，起因都只是一次被遗忘的献祭。在《书库》里，阿耳忒弥斯常常这样出现：她不必亲自到场，被冒犯的愤怒本身就会带来灾难。
+
+*Oeneus, king of Calydon in Aetolia, offering the first-fruits of the year's crops to all the gods, forgot Artemis alone. In her wrath she sent a boar of extraordinary size and strength, which kept the land from being sown and destroyed the cattle and the people it met. Oeneus's son Meleager called together the best men of Greece to hunt it — among them Castor and Polydeuces, Jason, Theseus, Peleus and Amphiaraus, and the huntress Atalanta. The heroes feasted nine days in Oeneus's house; some refused to hunt with a woman, but Meleager insisted that she come. In the hunt several heroes were killed by the boar; Atalanta was first to shoot it in the back, and Meleager finally stabbed it in the flank and killed it. He gave the skin to Atalanta, which angered his uncles; in the quarrel he slew them, and in the end lost his own life because of it. The bloody hunt and the tragedy after it all began with a single forgotten sacrifice. In the Library Artemis often appears this way: she need not come in person — her offended wrath itself brings disaster.*
+
+<sub>来源 / Source：Pseudo-Apollodorus, Library · Library 1.4.1–3.8.2 and Epitome 3.21–22 (sequential retelling) · 阿波罗多洛斯《书库》1.8.2。</sub>
+
+### 6. 阿德墨托斯的婚房 / Admetus's bridal chamber
+
+斐赖国王阿德墨托斯向珀利阿斯的女儿阿尔刻提斯求婚。珀利阿斯许诺，谁能把一头狮子和一头野猪套在同一辆车上，就把女儿嫁给谁。阿波罗曾因杀死独眼巨人而被宙斯罚为凡人服役，那时正在阿德墨托斯家里放牛，他帮阿德墨托斯套好了狮子和野猪，阿德墨托斯赢得了阿尔刻提斯。可是在婚礼上献祭时，阿德墨托斯忘了给阿耳忒弥斯献祭。等他打开婚房的门，发现房里满是盘成一团团的蛇。阿波罗让他去平息女神的怒气，又向命运女神们求得一个恩典：当阿德墨托斯死期来临时，如果有人自愿替他去死，他就可以免死。后来死期到了，他的父母都不愿替他死，只有阿尔刻提斯替他死去；冥后科瑞又把她送回了人间，也有人说是赫拉克勒斯与冥王搏斗，把她带了回来。这个故事的中心是阿尔刻提斯的爱，可它的起点却又是阿耳忒弥斯：一位被遗忘的女神，在新婚之夜用满屋的蛇提醒凡人，她是不能被忽略的。
+
+*Admetus, king of Pherae, wooed Alcestis, daughter of Pelias. Pelias promised his daughter to whoever yoked a lion and a boar to one car. Apollo, condemned by Zeus to serve a mortal for slaying the Cyclopes, was then herding Admetus's cattle; he yoked the lion and boar for him, and Admetus won Alcestis. But in offering sacrifice at the marriage he forgot to sacrifice to Artemis, and when he opened the bridal chamber he found it full of coiled snakes. Apollo bade him appease the goddess, and won from the Fates a favour: when Admetus was about to die, he might be released from death if someone would choose to die for him. When his day came, neither his father nor his mother would die for him, but Alcestis died in his stead; Kore sent her back up again, or, as some say, Heracles fought with Hades and brought her back. The heart of the tale is Alcestis's love, yet its beginning is again Artemis: a forgotten goddess who on the wedding night reminds a mortal with a chamber full of snakes that she is not to be overlooked.*
+
+<sub>来源 / Source：Pseudo-Apollodorus, Library · Library 1.4.1–3.8.2 and Epitome 3.21–22 (sequential retelling) · 阿波罗多洛斯《书库》1.9.15。</sub>
+
+### 7. 刻律涅亚的牝鹿 / The Ceryneian hind
+
+《书库》第二卷讲赫拉克勒斯的十二项任务。第三项任务是把刻律涅亚的牝鹿活着带回迈锡尼。这头鹿住在俄诺厄，长着金色的角，是阿耳忒弥斯的圣物。赫拉克勒斯既不想杀死它，也不想伤害它，就追了它整整一年。最后，鹿跑累了，逃到阿耳忒弥西昂山，又从那里跑向拉冬河，就在它要渡河的时候，赫拉克勒斯一箭射中了它，把它抓住扛在肩上，匆匆穿过阿卡狄亚。可是阿耳忒弥斯和阿波罗迎面拦住了他，要把鹿夺回去，阿耳忒弥斯还责备他竟敢伤害自己的圣兽。赫拉克勒斯说这是不得已的事，把责任推到欧律斯透斯身上，这才平息了女神的怒气，把那头鹿活着带到了迈锡尼。这是全书中少有的一幕：最强大的英雄在一位女神面前低头认错。阿耳忒弥斯在这里既是狩猎女神，又是野兽的保护者——她允许人打猎，却不允许人随意伤害属于她的动物。
+
+*The Library's second book tells the labours of Heracles. The third was to bring the Ceryneian hind alive to Mycenae. The hind lived at Oenoe, had golden horns and was sacred to Artemis; so, wishing neither to kill nor wound it, Heracles hunted it a whole year. At last, weary of the chase, the beast fled to the mountain called Artemisius and thence to the river Ladon, and just as it was about to cross the stream Heracles shot it, caught it, put it on his shoulders and hurried through Arcadia. But Artemis and Apollo met him and would have wrested the hind from him, and Artemis rebuked him for trying to kill her sacred animal. By pleading necessity and laying the blame on Eurystheus, he appeased the goddess's anger and carried the beast alive to Mycenae. It is a rare scene in the book: the strongest of heroes bowing before a goddess and excusing himself. Here Artemis is both goddess of the hunt and protector of wild things — she allows hunting, but not the careless harming of the animals that belong to her.*
+
+<sub>来源 / Source：Pseudo-Apollodorus, Library · Library 1.4.1–3.8.2 and Epitome 3.21–22 (sequential retelling) · 阿波罗多洛斯《书库》2.5.3。</sub>
+
+### 8. 阿克泰翁 / Actaeon
+
+《书库》第三卷讲忒拜的故事。卡德摩斯的女儿奥托诺厄与阿里斯泰俄斯生下一个儿子，名叫阿克泰翁。他由马人喀戎抚养长大，学成了一个出色的猎人。后来，他在喀泰戎山上被自己的猎狗吞食。关于他为什么这样死去，《书库》给出了两种说法：据阿库西拉俄斯说，是因为他向塞墨勒求爱，惹怒了宙斯；但更普遍的说法是，他看见了正在沐浴的阿耳忒弥斯。人们说，女神立刻把他变成一头鹿，又让他带着的五十条猎狗发狂，猎狗们没有认出自己的主人，把他吃掉了。阿克泰翁死后，猎狗们四处寻找主人，一路哀嚎，最后来到喀戎的山洞，喀戎为它们做了一尊阿克泰翁的像，这才平息了它们的悲伤。《书库》还记下了这些猎狗的名字。这个故事后来成了西方艺术中最常见的题材之一：一个猎人因为看见了不该看的东西，变成了自己追逐的猎物。
+
+*The Library's third book tells the stories of Thebes. Autonoe, daughter of Cadmus, bore to Aristaeus a son Actaeon, who was raised by the centaur Chiron and became a hunter. Later he was devoured on Cithaeron by his own dogs. Why he perished so, the Library gives two accounts: according to Acusilaus, Zeus was angry because he wooed Semele; but according to the more common view, it was because he saw Artemis bathing. They say the goddess at once turned him into a deer and drove mad the fifty dogs of his pack, which, not knowing their master, devoured him. When Actaeon was dead, the dogs sought their master, howling, and came at last to Chiron's cave, where Chiron made an image of Actaeon that soothed their grief. The Library even records the dogs' names. The tale became one of the most common subjects in Western art: a hunter who saw what he should not see and became the quarry he once pursued.*
+
+<sub>来源 / Source：Pseudo-Apollodorus, Library · Library 1.4.1–3.8.2 and Epitome 3.21–22 (sequential retelling) · 阿波罗多洛斯《书库》3.4.4。</sub>
+
+### 9. 尼俄柏 / Niobe
+
+忒拜王安菲翁娶了坦塔罗斯的女儿尼俄柏，生了七个儿子和七个女儿——《书库》还注明，赫西俄德说他们有十个儿子十个女儿，荷马说有六个儿子六个女儿。尼俄柏因为儿女众多，竟说自己的子女比勒托的还要好。勒托被这句话刺痛了，就激起阿耳忒弥斯和阿波罗去惩罚他们。阿耳忒弥斯在家中射死了尼俄柏的女儿们，阿波罗则在喀泰戎山上射死了正在打猎的儿子们。儿子中只有安菲翁活了下来，女儿中只有年长的克罗里斯活了下来，后来她嫁给了涅琉斯。尼俄柏离开忒拜，回到西皮洛斯山她父亲坦塔罗斯那里，向宙斯祈祷后变成了一块石头，泪水日日夜夜从石头上流下来。这是姐弟俩第二次为母亲出手。与提堤俄斯的暴行不同，尼俄柏犯的只是一句骄傲的话，可是在希腊神话里，凡人把自己和神相比，本身就是一种僭越。阿耳忒弥斯的箭，在这里成了神与人之间界限的守护者。
+
+*Amphion, king of Thebes, married Niobe, daughter of Tantalus, who bore seven sons and seven daughters — the Library notes that Hesiod gives ten of each and Homer six of each. Being blessed with children, Niobe said she was more blessed in children than Leto. Stung by the taunt, Leto stirred up Artemis and Apollo against them: Artemis shot down the daughters in the house, and Apollo killed the sons together as they were hunting on Cithaeron. Of the sons only Amphion was saved, and of the daughters only Chloris, the elder, whom Neleus later married. Niobe left Thebes and went to her father Tantalus at Sipylus, and there, praying to Zeus, she was turned into a stone, and tears flow from the stone night and day. This is the second time the twins act for their mother. Unlike Tityus's violence, Niobe's offence was only a proud word; but in Greek myth a mortal who compares herself to the gods already oversteps. Here Artemis's arrows guard the boundary between gods and men.*
+
+<sub>来源 / Source：Pseudo-Apollodorus, Library · Library 1.4.1–3.8.2 and Epitome 3.21–22 (sequential retelling) · 阿波罗多洛斯《书库》3.5.6。</sub>
+
+### 10. 卡利斯托 / Callisto
+
+《书库》讲阿卡狄亚的谱系时，提到了卡利斯托。关于她的出身，说法很多：欧墨洛斯等人说她是吕卡翁的女儿，赫西俄德说她是一位仙女，阿西俄斯说她是倪克透斯的女儿，斐瑞库得斯说她是刻透斯的女儿。她是阿耳忒弥斯打猎时的同伴，穿着和女神一样的衣服，向女神发誓永远保持处女之身。宙斯爱上了她——有人说他变成了阿耳忒弥斯的模样，也有人说变成了阿波罗的模样——违背她的意愿与她同床。为了不让赫拉发现，宙斯把她变成了一头熊。可是赫拉说服阿耳忒弥斯，把她当作野兽射死了；也有人说，阿耳忒弥斯射死她，是因为她没有守住处女之身。卡利斯托死后，宙斯抢出她腹中的婴儿，取名阿尔卡斯，交给迈亚在阿卡狄亚抚养；又把卡利斯托变成星星，称为大熊座。这个故事里，阿耳忒弥斯与她最亲近的同伴之间，隔着一个被打破的誓言，《书库》对此只是平静地记下两种说法。
+
+*Recounting the Arcadian line, the Library tells of Callisto. Accounts of her parentage vary: Eumelus and others say she was Lycaon's daughter, Hesiod that she was a nymph, Asius that she was the daughter of Nycteus, Pherecydes that she was the daughter of Ceteus. She was Artemis's companion in the chase, wore the same garb and swore to her to remain a maiden. Zeus loved her and — taking the likeness, some say, of Artemis, others of Apollo — lay with her against her will; to escape Hera's notice he turned her into a bear. But Hera persuaded Artemis to shoot her down as a wild beast; some say, however, that Artemis shot her because she had not kept her maidenhood. When Callisto perished, Zeus snatched the babe, named him Arcas and gave him to Maia to rear in Arcadia; and Callisto he turned into a star and called the Bear. Between Artemis and her closest companion stands a broken vow, and the Library calmly records both explanations.*
+
+<sub>来源 / Source：Pseudo-Apollodorus, Library · Library 1.4.1–3.8.2 and Epitome 3.21–22 (sequential retelling) · 阿波罗多洛斯《书库》3.8.2。</sub>
+
+### 11. 奥里斯的风 / The winds at Aulis
+
+《书库》的《摘要》部分讲特洛伊战争。希腊大军第二次在奥里斯集结时，舰队因为没有风而无法出航。预言者卡尔卡斯说，除非把阿伽门农最美丽的女儿献祭给阿耳忒弥斯，否则他们无法出航，因为女神对阿伽门农很生气。《摘要》给出了两个原因：一是阿伽门农射中一头鹿时夸口说，连阿耳忒弥斯自己也射不了这么好；二是他的父亲阿特柔斯从前没有把那只金羊羔献给女神。这又是一个凡人冒犯女神的故事，与卡吕冬的野猪和阿德墨托斯的婚房一样，起因都很小：一句夸口的话，一次没有兑现的献祭。可这一次，阿耳忒弥斯的愤怒落在了整支军队身上，成千上万的人被困在海边，眼看着出征的希望一天天落空。阿伽门农得到神谕后，面临着作为统帅和作为父亲之间最艰难的选择。在希腊悲剧里，这个时刻成了埃斯库罗斯和欧里庇得斯反复书写的题材。
+
+*The Epitome of the Library tells of the Trojan War. When the Greek host mustered a second time at Aulis, the fleet could not sail for want of wind. The seer Calchas said they could not sail unless the fairest of Agamemnon's daughters was sacrificed to Artemis, for the goddess was angry with Agamemnon. The Epitome gives two reasons: first, that when Agamemnon shot a deer he boasted that not even Artemis could have done better; second, that his father Atreus had not sacrificed the golden lamb to her. It is another tale of a mortal offending the goddess, and like the Calydonian boar and Admetus's bridal chamber its cause is small — a boastful word, an unpaid offering. But this time Artemis's anger falls on a whole army, thousands held on the shore, watching their hope of sailing fade day by day. When the oracle came, Agamemnon faced the hardest choice between commander and father. In Greek tragedy this moment became a subject Aeschylus and Euripides returned to again and again.*
+
+<sub>来源 / Source：Pseudo-Apollodorus, Library · Library 1.4.1–3.8.2 and Epitome 3.21–22 (sequential retelling) · 阿波罗多洛斯《书库·摘要》3.21。</sub>
+
+### 12. 伊菲革涅亚 / Iphigenia
+
+阿伽门农接到神谕后，派奥德修斯和传令官塔尔堤比俄斯去见妻子克吕泰涅斯特拉，向她要伊菲革涅亚，假说他答应把女儿嫁给阿喀琉斯，作为对阿喀琉斯参战的酬谢。克吕泰涅斯特拉把女儿送来了。阿伽门农让她站在祭坛旁边，正要把她献祭的时候，阿耳忒弥斯把她带走，送到了陶里斯人那里，让她做自己的女祭司，又在祭坛上放了一头鹿代替她；也有人说，阿耳忒弥斯让她成了不死的神。这个结局让阿耳忒弥斯的形象变得复杂：她是要求献祭的女神，却又在最后一刻救下了被献祭的少女。在其他作家那里，这个故事有更黑暗的版本，伊菲革涅亚真的死在祭坛上，成了克吕泰涅斯特拉日后杀夫的原因之一。《书库》选择了获救的说法，并且像往常一样，另记下了一种说法。从得洛斯的出生到奥里斯的祭坛，《书库》中的阿耳忒弥斯始终是同一位女神：她守护母亲的荣誉、野兽的安全和少女的誓言，也决不容忍凡人的傲慢。
+
+*On receiving the oracle Agamemnon sent Odysseus and the herald Talthybius to Clytemnestra to ask for Iphigenia, pretending he had promised to give her to Achilles to wife as a reward for his service. Clytemnestra sent her. Agamemnon set her beside the altar and was about to slaughter her, when Artemis snatched her away to the Taurians and appointed her to be her priestess, putting a deer in her place at the altar; but some say Artemis made her immortal. This ending makes Artemis's image complex: the goddess who demands the sacrifice is also the one who at the last moment saves the maiden. In other writers the story has darker versions in which Iphigenia truly dies at the altar and becomes one of the reasons Clytemnestra later kills her husband. The Library chooses the rescue and, as usual, records another account as well. From her birth on Delos to the altar at Aulis, the Library's Artemis is the same goddess throughout: guardian of her mother's honour, of wild beasts and of maidens' vows, who never tolerates mortal pride.*
+
+<sub>来源 / Source：Pseudo-Apollodorus, Library · Library 1.4.1–3.8.2 and Epitome 3.21–22 (sequential retelling) · 阿波罗多洛斯《书库·摘要》3.22。</sub>
 
 ---
 

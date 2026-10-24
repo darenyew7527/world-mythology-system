@@ -22,9 +22,12 @@ Aether is born from Nyx through union with Erebus in Theogony 124-125.
 |---|---|---|---:|---:|---|
 | `CHILD_OF` | 厄瑞玻斯 (`deity.greek.erebus`) | VERIFIED / TEXT_SAYS / MYTHIC_NARRATIVE | 1 | 0.99 | stored claim; `claim.v040.aether.child_erebus` |
 | `CHILD_OF` | 倪克斯 (`deity.greek.nyx`) | VERIFIED / TEXT_SAYS / MYTHIC_NARRATIVE | 1 | 0.99 | stored claim; `claim.v040.aether.child_nyx` |
+| `SIBLING_OF` | 赫墨拉 (`deity.greek.hemera`) | VERIFIED / TEXT_SAYS / MYTHIC_NARRATIVE | 1 | 0.90 | stored claim; `claim.v0360.theog_titans.02` |
 
 ## Claims 与证据
 
+- `claim.v0360.theog_titans.02` [VERIFIED / TEXT_SAYS / 0.90] Hesiod, Theogony 124–125, says that Night conceived in union with Erebus and bore Aether and Hemera (Day).
+  - 来源：[Hesiod, Theogony, Evelyn-White English text](https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0130)；定位：Theogony 124–125
 - `claim.v040.aether.child_erebus` [VERIFIED / TEXT_SAYS / 0.99] Theogony 124-125 presents Erebus as Aether’s other parent.
   - 来源：[Hesiod, Theogony, Evelyn-White English text](https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0130)；定位：Theogony 124-125
 - `claim.v040.aether.child_nyx` [VERIFIED / TEXT_SAYS / 0.99] Theogony 124-125 presents Aether as a child of Nyx.

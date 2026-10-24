@@ -33,6 +33,18 @@
   - 来源：[Hesiod, Theogony, Evelyn-White English text](https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0130)；定位：lines 188–206
 - `claim.v0340.argo_2.01` [VERIFIED / TEXT_SAYS / 0.90] At the request of Hera and Athena, Aphrodite promises Eros the golden ball Zeus played with as a child if he will shoot Medea with love for Jason.
   - 来源：[Apollonius Rhodius, The Argonautica (tr. R. C. Seaton, 1912)](https://www.gutenberg.org/ebooks/830)；定位：Book III, the goddesses
+- `claim.v0360.hym_aphrodite.01` [VERIFIED / TEXT_SAYS / 0.90] Homeric Hymn 5, lines 1–15, says that Aphrodite subdues gods, men, birds and beasts, but cannot bend Athena, who delights in war and in crafts and first taught craftsmen to make chariots and maidens to do handiwork.
+  - 来源：[Hesiod, the Homeric Hymns, and Homerica, tr. Hugh G. Evelyn-White (1914)](https://www.gutenberg.org/ebooks/348)；定位：Homeric Hymn 5, lines 1–15
+- `claim.v0360.hym_aphrodite.05` [VERIFIED / TEXT_SAYS / 0.90] Homeric Hymn 5, lines 56–74, says that Aphrodite was bathed and anointed by the Graces in her temple at Paphos, then flew to Mount Ida, where wolves, lions, bears and leopards fawned on her and she put desire in their hearts.
+  - 来源：[Hesiod, the Homeric Hymns, and Homerica, tr. Hugh G. Evelyn-White (1914)](https://www.gutenberg.org/ebooks/348)；定位：Homeric Hymn 5, lines 56–74
+- `claim.v0360.hym_aphrodite.07` [VERIFIED / TEXT_SAYS / 0.90] Homeric Hymn 5, lines 107–142, says that Aphrodite told Anchises she was a mortal, daughter of King Otreus of Phrygia, raised by a Trojan nurse, and carried off by Hermes from the dance of Artemis to be his wife.
+  - 来源：[Hesiod, the Homeric Hymns, and Homerica, tr. Hugh G. Evelyn-White (1914)](https://www.gutenberg.org/ebooks/348)；定位：Homeric Hymn 5, lines 107–142
+- `claim.v0360.hym_aphrodite.10` [VERIFIED / TEXT_SAYS / 0.90] Homeric Hymn 5, lines 191–217, says that Aphrodite foretold to Anchises a son named Aeneas who would reign among the Trojans, and told how Zeus carried off Ganymede to pour wine for the gods and consoled his father Tros with immortal horses.
+  - 来源：[Hesiod, the Homeric Hymns, and Homerica, tr. Hugh G. Evelyn-White (1914)](https://www.gutenberg.org/ebooks/348)；定位：Homeric Hymn 5, lines 191–217
+- `claim.v0360.hym_aphrodite.12` [VERIFIED / TEXT_SAYS / 0.90] Homeric Hymn 5, lines 239–293, says that Aphrodite lamented her shame among the gods, entrusted the child to the long-lived mountain nymphs of Ida whose lives are bound to trees, and warned Anchises that Zeus would strike him if he boasted of her.
+  - 来源：[Hesiod, the Homeric Hymns, and Homerica, tr. Hugh G. Evelyn-White (1914)](https://www.gutenberg.org/ebooks/348)；定位：Homeric Hymn 5, lines 239–293
+- `claim.v0360.iliad_ares.13` [VERIFIED / TEXT_SAYS / 0.90] Homer, Iliad 21.415–433, says that Aphrodite led the groaning Ares away from the battle, and that Athena, urged on by Hera, struck Aphrodite down with her hand so that both gods lay on the earth.
+  - 来源：[Homer, The Iliad, rendered into English prose (tr. Samuel Butler, 1898)](https://www.gutenberg.org/ebooks/2199)；定位：Iliad 21.415–433
 - `claim.v050.h5.aphrodite_domain` [VERIFIED / TEXT_SAYS / 0.98] The opening of Homeric Hymn 5 describes Aphrodite’s influence and explicitly names goddesses outside it.
   - 来源：[Homeric Hymn 5 to Aphrodite, Evelyn-White English text](https://scaife.perseus.org/library/urn%3Acts%3AgreekLit%3Atlg0013.tlg005/)；定位：lines 1-33
 - `claim.v050.iliad14.aphrodite_child_zeus` [VERIFIED / TEXT_SAYS / 0.98] Iliad 14 refers to Aphrodite as a daughter of Zeus.

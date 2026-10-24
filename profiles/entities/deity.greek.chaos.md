@@ -22,6 +22,7 @@ The first named cosmogonic condition or being in Hesiod’s Theogony; its ontolo
 |---|---|---|---:|---:|---|
 | `MENTIONED_IN` | 神谱 (`text.greek.theogony`) | VERIFIED / TEXT_SAYS / TEXTUAL_WITNESS | 1 | 0.99 | stored claim; `claim.v040.chaos.mentioned_theogony` |
 | `PARENT_OF` | 厄瑞玻斯 (`deity.greek.erebus`) | VERIFIED / TEXT_SAYS / MYTHIC_NARRATIVE | 1 | 0.99 | inferred inverse; `claim.v040.erebus.child_chaos` |
+| `PARENT_OF` | 厄瑞玻斯 (`deity.greek.erebus`) | VERIFIED / TEXT_SAYS / MYTHIC_NARRATIVE | 1 | 0.90 | inferred inverse; `claim.v0360.theog_titans.01` |
 | `PARENT_OF` | 倪克斯 (`deity.greek.nyx`) | VERIFIED / TEXT_SAYS / MYTHIC_NARRATIVE | 1 | 0.99 | inferred inverse; `claim.v040.nyx.child_chaos` |
 
 ## Claims 与证据

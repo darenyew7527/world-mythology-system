@@ -8,6 +8,7 @@
 | being.chinese.pangu | 盘古 | Pangu | GIANT | 中国上古神话 | PARTIAL | UNVERIFIED |
 | creature.greek.cerberus | 刻耳柏洛斯 | Cerberus | MONSTER | 古希腊 | PARTIAL | SOURCE_BACKED |
 | creature.greek.charybdis | 卡律布狄斯 | Charybdis | MONSTER | 古希腊 | PARTIAL | SOURCE_BACKED |
+| creature.greek.delphic_drakaina | 德尔斐的母龙 | Delphic she-dragon | MONSTER | 古希腊 | PARTIAL | SOURCE_BACKED |
 | creature.greek.geryon | 革律翁 | Geryon | GIANT | 古希腊 | PARTIAL | SOURCE_BACKED |
 | creature.greek.graeae | 格赖埃三姐妹 | Graeae (Phorcides) | MONSTER | 古希腊 | PARTIAL | SOURCE_BACKED |
 | creature.greek.harpies | 哈耳庇厄 | Harpies | MONSTER | 古希腊 | PARTIAL | SOURCE_BACKED |
@@ -52,6 +53,7 @@
 | creature.japanese.hare_of_inaba | 稻羽之素兔 | White Hare of Inaba | DIVINE_BEAST | 日本神道 | PARTIAL | SOURCE_BACKED |
 | monster.japanese.yamata_no_orochi | 八岐大蛇 | Yamata no Orochi | MONSTER | 日本神道 | PARTIAL | SOURCE_BACKED |
 | monster.kiche.seven_macaw | 七金刚鹦鹉 | Seven Macaw | MONSTER | 玛雅 | PARTIAL | SOURCE_BACKED |
+| creature.norse.audhumla | 欧德姆布拉 | Auðumbla | DIVINE_BEAST | 北欧 | PARTIAL | SOURCE_BACKED |
 | being.norse.bestla | 贝斯特拉 | Bestla | GIANT | 北欧 | PARTIAL | SOURCE_BACKED |
 | being.norse.brokkr | 布洛克 | Brokkr | DWARF | 北欧 | PARTIAL | SOURCE_BACKED |
 | being.norse.eitri | 艾特里 | Eitri | DWARF | 北欧 | CONFLICT | CONFLICTING |
@@ -60,9 +62,11 @@
 | creature.norse.garm | 加姆 | Garmr | MONSTER | 北欧 | PARTIAL | SOURCE_BACKED |
 | creature.norse.grani | 格拉尼 | Grani | DIVINE_BEAST | 北欧 | PARTIAL | SOURCE_BACKED |
 | creature.norse.gullinbursti | 金鬃野猪 | Gullinbursti | DIVINE_BEAST | 北欧 | PARTIAL | PARTIAL |
+| giant.norse.hrungnir | 赫朗格尼尔 | Hrungnir | GIANT | 北欧 | PARTIAL | SOURCE_BACKED |
 | being.norse.jarnsaxa | 雅恩莎撒 | Jarnsaxa | GIANT | 北欧 | PARTIAL | SOURCE_BACKED |
 | creature.norse.jormungandr | 耶梦加得 | Jörmungandr | DRAGON | 北欧 | PARTIAL | UNVERIFIED |
 | being.norse.mimir | 密米尔 | Mímir | CREATURE | 北欧 | PARTIAL | SOURCE_BACKED |
+| giant.norse.mokkurkalfi | 默库尔卡尔菲 | Mökkurkálfi | GIANT | 北欧 | PARTIAL | SOURCE_BACKED |
 | being.norse.sindri | 辛德里 | Sindri | DWARF | 北欧 | NEEDS_REVIEW | CONFLICTING |
 | creature.norse.sleipnir | 斯莱布尼尔 | Sleipnir | DIVINE_BEAST | 北欧 | PARTIAL | SOURCE_BACKED |
 | being.norse.sons_of_ivaldi | 伊瓦尔迪之子 | Sons of Ivaldi | CREATURE | 北欧 | DISCOVERED | SOURCE_BACKED |

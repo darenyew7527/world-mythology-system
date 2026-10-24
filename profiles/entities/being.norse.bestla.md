@@ -21,6 +21,7 @@ Daughter of Bölþorn and mother of Odin, Vili and Vé in Gylfaginning.
 | Relation | Target | Review / layer | Evidence | Confidence | Direction |
 |---|---|---|---:|---:|---|
 | `CONSORT_OF` | 博尔 (`deity.norse.borr`) | PROVISIONAL / TEXT_SAYS / MYTHIC_NARRATIVE | 1 | 0.97 | inferred inverse; `claim.borr.consort_bestla` |
+| `CONSORT_OF` | 博尔 (`deity.norse.borr`) | VERIFIED / TEXT_SAYS / MYTHIC_NARRATIVE | 1 | 0.90 | inferred inverse; `claim.v0360.gylf_creation.06` |
 | `PARENT_OF` | 奥丁 (`deity.norse.odin`) | PROVISIONAL / TEXT_SAYS / MYTHIC_NARRATIVE | 1 | 0.98 | stored claim; `claim.bestla.parent_odin` |
 | `PARENT_OF` | 维利 (`deity.norse.vili`) | PROVISIONAL / TEXT_SAYS / MYTHIC_NARRATIVE | 1 | 0.98 | stored claim; `claim.bestla.parent_vili` |
 | `PARENT_OF` | 维 (`deity.norse.ve`) | PROVISIONAL / TEXT_SAYS / MYTHIC_NARRATIVE | 1 | 0.98 | stored claim; `claim.bestla.parent_ve` |

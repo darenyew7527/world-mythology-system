@@ -19,9 +19,11 @@
 | deity.egyptian.atum_ra | 阿图姆-拉 | Atum-Ra | DEITY | 古埃及 | PARTIAL | SOURCE_BACKED |
 | deity.egyptian.geb | 盖布 | Geb | DEITY | 古埃及 | PARTIAL | UNVERIFIED |
 | deity.egyptian.hathor | 哈托尔 | Hathor | DEITY | 古埃及 | PARTIAL | UNVERIFIED |
+| deity.egyptian.heqet | 赫凯特 | Heqet | DEITY | 古埃及 | PARTIAL | SOURCE_BACKED |
 | deity.egyptian.horus | 荷鲁斯 | Horus | DEITY | 古埃及 | PARTIAL | PARTIAL |
 | deity.egyptian.isis | 伊西斯 | Isis | DEITY | 古埃及 | PARTIAL | UNVERIFIED |
 | deity.egyptian.khepri | 凯布利／赫普里 | Khepri | DEITY | 古埃及 | CONFLICT | CONFLICTING |
+| deity.egyptian.khnum | 克努姆 | Khnum | DEITY | 古埃及 | PARTIAL | SOURCE_BACKED |
 | deity.egyptian.khonsu | 孔苏 | Khonsu | DEITY | 古埃及 | PARTIAL | SOURCE_BACKED |
 | deity.egyptian.ma_at | 玛阿特 | Ma'at | DEITY | 古埃及 | PARTIAL | PARTIAL |
 | deity.egyptian.mut | 穆特 | Mut | DEITY | 古埃及 | PARTIAL | SOURCE_BACKED |
@@ -55,6 +57,7 @@
 | deity.greek.demeter | 得墨忒耳 | Demeter | DEITY | 古希腊 | PARTIAL | SOURCE_BACKED |
 | deity.greek.dione | 狄俄涅 | Dione | DEITY | 古希腊 | PARTIAL | SOURCE_BACKED |
 | deity.greek.dionysus | 狄俄倪索斯 | Dionysus | DEITY | 古希腊 | PARTIAL | SOURCE_BACKED |
+| deity.greek.eileithyia | 厄勒梯亚 | Eileithyia | DEITY | 古希腊 | PARTIAL | SOURCE_BACKED |
 | deity.greek.eos | 厄俄斯 | Eos | DEITY | 古希腊 | PARTIAL | SOURCE_BACKED |
 | deity.greek.erebus | 厄瑞玻斯 | Erebus | PRIMORDIAL_DEITY | 古希腊 | PARTIAL | SOURCE_BACKED |
 | deity.greek.eros | 厄洛斯 | Eros | DEITY | 古希腊 | PARTIAL | SOURCE_BACKED |
@@ -72,6 +75,7 @@
 | deity.greek.hestia | 赫斯提亚 | Hestia | DEITY | 古希腊 | PARTIAL | SOURCE_BACKED |
 | deity.greek.hyperion | 许珀里翁 | Hyperion | DEITY | 古希腊 | PARTIAL | SOURCE_BACKED |
 | deity.greek.hypnos | 许普诺斯 | Hypnos | DEITY | 古希腊 | PARTIAL | SOURCE_BACKED |
+| deity.greek.iris | 伊里斯 | Iris | DEITY | 古希腊 | PARTIAL | SOURCE_BACKED |
 | deity.greek.leto | 勒托 | Leto | DEITY | 古希腊 | PARTIAL | SOURCE_BACKED |
 | deity.greek.maia | 迈亚 | Maia | DEITY | 古希腊 | PARTIAL | SOURCE_BACKED |
 | deity.greek.metis | 墨提斯 | Metis | DEITY | 古希腊 | PARTIAL | SOURCE_BACKED |
@@ -80,11 +84,14 @@
 | deity.greek.persephone | 珀耳塞福涅 | Persephone | DEITY | 古希腊 | PARTIAL | SOURCE_BACKED |
 | deity.greek.perses | 珀耳塞斯（提坦） | Perses (Titan) | DEITY | 古希腊 | PARTIAL | SOURCE_BACKED |
 | deity.greek.perses_helios | 珀耳塞斯（赫利俄斯之子） | Perses (son of Helios) | DEITY | 古希腊 | PARTIAL | SOURCE_BACKED |
+| deity.greek.phoebe | 福柏 | Phoebe | DEITY | 古希腊 | PARTIAL | SOURCE_BACKED |
+| deity.greek.pontus | 蓬托斯 | Pontus | PRIMORDIAL_DEITY | 古希腊 | PARTIAL | SOURCE_BACKED |
 | deity.greek.poseidon | 波塞冬 | Poseidon | DEITY | 古希腊 | PARTIAL | SOURCE_BACKED |
 | deity.greek.prometheus | 普罗米修斯 | Prometheus | DEITY | 古希腊 | PARTIAL | SOURCE_BACKED |
 | deity.greek.rhea | 瑞亚 | Rhea | DEITY | 古希腊 | PARTIAL | SOURCE_BACKED |
 | deity.greek.selene | 塞勒涅 | Selene | DEITY | 古希腊 | PARTIAL | SOURCE_BACKED |
 | deity.greek.semele | 塞墨勒 | Semele | DEITY | 古希腊 | PARTIAL | SOURCE_BACKED |
+| deity.greek.styx | 斯梯克斯 | Styx | DEITY | 古希腊 | PARTIAL | SOURCE_BACKED |
 | deity.greek.thanatos | 塔纳托斯 | Thanatos | DEITY | 古希腊 | PARTIAL | SOURCE_BACKED |
 | deity.greek.theia | 忒亚 | Theia | DEITY | 古希腊 | PARTIAL | SOURCE_BACKED |
 | deity.greek.uranus | 乌拉诺斯 | Uranus | PRIMORDIAL_DEITY | 古希腊 | PARTIAL | SOURCE_BACKED |

@@ -102,7 +102,7 @@ class HeroicEpicsTests(unittest.TestCase):
                 (version_id,),
             )]
 
-    def test_schema_49_and_50_seal_v034_preserved_after_v035(self):
+    def test_schema_49_and_50_seal_v034_preserved_after_v036(self):
         with self.connect() as connection:
             migrations = dict(connection.execute(
                 "SELECT version,name FROM schema_migrations WHERE version IN (49,50)"
@@ -124,13 +124,13 @@ class HeroicEpicsTests(unittest.TestCase):
             ).fetchone()
         self.assertEqual(migrations, {49: "20261024_v0340_heroic_epics", 50: "20261024_v0340_heroic_epics_release"})
         self.assertEqual(dict(release), {"schema_version": 50, "data_version": "0.34.0"})
-        self.assertEqual(dict(latest), {"id": "release.v0.35.0", "schema_version": 52, "data_version": "0.35.0"})
+        self.assertEqual(dict(latest), {"id": "release.v0.36.0", "schema_version": 54, "data_version": "0.36.0"})
         self.assertEqual(tuple(batch), ("CHECKPOINT_COMPLETE", "0.34.0"))
         self.assertEqual(targets, {"COMPLETED": 16})
         self.assertEqual(session["status"], "COMPLETED")
         meta = self.snapshot["meta"]
-        self.assertEqual(meta["projectVersion"], "0.35.0-world-epics")
-        self.assertEqual(meta["dataVersion"], "0.35.0")
+        self.assertEqual(meta["projectVersion"], "0.36.0-deity-story-upgrade")
+        self.assertEqual(meta["dataVersion"], "0.36.0")
         # Later versions only add series; the v0.34 checkpoint remains a lower bound.
         self.assertGreaterEqual(meta["counts"]["storySeries"], 9)
         self.assertGreaterEqual(meta["counts"]["storySeriesParts"], 31)
@@ -273,7 +273,8 @@ class HeroicEpicsTests(unittest.TestCase):
         for entity_id, version_id in (
             ("deity.greek.hera", "storyver.greek.library_2_4_2_5_heracles_1"),
             ("hero.greek.heracles", "storyver.greek.library_2_4_2_5_heracles_1"),
-            ("deity.greek.apollo", "storyver.greek.library_2_6_2_8_heracles_3"),
+            # v0.36: Apollo now opens his own Homeric Hymn, where he is anchored in most sections.
+            ("deity.greek.apollo", "storyver.greek.hymn3_apollo_evelyn_white"),
             ("deity.greek.atlas", "storyver.greek.library_2_5_heracles_2"),
             ("deity.greek.hebe", "storyver.greek.library_2_6_2_8_heracles_3"),
             ("deity.greek.eros", "storyver.greek.argonautica_seaton_3_4"),
@@ -311,7 +312,7 @@ class HeroicEpicsTests(unittest.TestCase):
             manifest = generate(DB, root / "offline", root / "manifest.json")
             html_text = (root / "offline" / HTML_NAME).read_text(encoding="utf-8")
             archive = json.loads((root / "offline" / JSON_NAME).read_text(encoding="utf-8"))
-        self.assertEqual(HTML_NAME, "world-mythology-v0.35-story-archive.html")
+        self.assertEqual(HTML_NAME, "world-mythology-v0.36-story-archive.html")
         self.assertGreaterEqual(manifest["counts"]["storySeries"], 9)
         self.assertEqual([series["id"] for series in archive["storySeries"]][3:9], list(SERIES))
         for series_id in SERIES:

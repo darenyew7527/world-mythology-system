@@ -45,6 +45,16 @@
   - 来源：[Baˁlu Epic KTU 1.1–1.6 — corpus and tablet concordance](https://eupt.uni-goettingen.de/Korpus.html)；定位：KTU corpus overview and concordance
 - `claim.v0200.event_baal` [VERIFIED / TEXT_SAYS / 0.97] Baal participates in the KTU 1.5–1.6 sequence.
   - 来源：[Baˁlu Epic KTU 1.1–1.6 — corpus and tablet concordance](https://eupt.uni-goettingen.de/Korpus.html)；定位：KTU corpus overview and concordance
+- `claim.v0360.baal_palace.01` [VERIFIED / TEXT_SAYS / 0.90] The Ugaritic Baal Cycle, KTU 1.3 I, describes Baal at a feast, served by Radmanu with a great cup that no woman, not even Athirat, had seen, filled with a thousand jars of wine, while a singer sang of Baal on the heights of Saphon.
+  - 来源：[Baˁlu Epic KTU 1.1–1.6 — corpus and tablet concordance](https://eupt.uni-goettingen.de/Korpus.html)；定位：KTU 1.3 I
+- `claim.v0360.baal_palace.03` [VERIFIED / TEXT_SAYS / 0.90] The Ugaritic Baal Cycle, KTU 1.3 III, says that Baal sent his messengers Gupn and Ugar to bid Anat remove war from the earth, set love in the land and come to Saphon, where he would reveal to her the word of the tree and the whisper of the stone, the lightning the heavens do not know.
+  - 来源：[Baˁlu Epic KTU 1.1–1.6 — corpus and tablet concordance](https://eupt.uni-goettingen.de/Korpus.html)；定位：KTU 1.3 III
+- `claim.v0360.baal_palace.12` [VERIFIED / TEXT_SAYS / 0.90] The Ugaritic Baal Cycle, KTU 1.4 V–VI, says that Anat brought Baal the news of El's consent, that Baal summoned Kothar-wa-Khasis to build the house, and that when Kothar proposed a window Baal refused, Kothar answering that Baal would return to his word.
+  - 来源：[Baˁlu Epic KTU 1.1–1.6 — corpus and tablet concordance](https://eupt.uni-goettingen.de/Korpus.html)；定位：KTU 1.4 V–VI
+- `claim.v0360.baal_palace.13` [VERIFIED / TEXT_SAYS / 0.90] The Ugaritic Baal Cycle, KTU 1.4 VI, says that cedars from Lebanon and Sirion were cut, that fire burned in the house for six days and on the seventh the silver had turned into plates and the gold into bricks, and that Baal held a feast for the seventy sons of Athirat.
+  - 来源：[Baˁlu Epic KTU 1.1–1.6 — corpus and tablet concordance](https://eupt.uni-goettingen.de/Korpus.html)；定位：KTU 1.4 VI
+- `claim.v0360.baal_palace.14` [VERIFIED / TEXT_SAYS / 0.90] The Ugaritic Baal Cycle, KTU 1.4 VII–VIII, says that Baal seized sixty-six cities and seventy-seven towns, then had Kothar open the window, gave forth his holy voice through a rift in the clouds so that the earth quaked and his enemies fled, and sent Gupn and Ugar to Mot.
+  - 来源：[Baˁlu Epic KTU 1.1–1.6 — corpus and tablet concordance](https://eupt.uni-goettingen.de/Korpus.html)；定位：KTU 1.4 VII–VIII
 - `claim.v060.ugaritic.baal_associated_title` [VERIFIED / SCHOLARLY_INTERPRETATION / 0.96] Baal is also a lord/master title; the Ugaritic storm deity’s record therefore cannot absorb every Baal-named figure.
   - 来源：[Hadad authority record](https://www.britishmuseum.org/collection/term/BIOG143718)；定位：British Museum Hadad authority record
 - `claim.v060.ugaritic.baal_participated_yamm_event` [VERIFIED / TEXT_SAYS / 0.99] Baal is a combatant in the KTU 1.2 IV event layer.

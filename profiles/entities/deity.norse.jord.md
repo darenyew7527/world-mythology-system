@@ -24,6 +24,9 @@
 
 ## Claims 与证据
 
-尚无 claim；实体仅为发现/索引入口。
+- `claim.v0360.gylf_creation.11` [VERIFIED / TEXT_SAYS / 0.90] Snorri's Edda, Gylfaginning 9, says that the sons of Borr made Askr and Embla from two logs, built Ásgarðr in the middle of the world, and that Jörð (Earth) was Óðinn's daughter and wife, from whom he had his first son, Ása-Þórr.
+  - 来源：[Snorri Sturluson, Edda](https://www.vsnrweb-publications.org.uk/Edda-1.pdf)；定位：Gylfaginning 9
+- `claim.v0360.gylf_creation.12` [VERIFIED / TEXT_SAYS / 0.90] Snorri's Edda, Gylfaginning 10, says that Nótt, daughter of the giant Narfi, bore Auðr to Naglfari, Jörð to Annarr and Dagr to Dellingr, and that Allfather set Night and Day in the sky with the horses Hrímfaxi and Skinfaxi.
+  - 来源：[Snorri Sturluson, Edda](https://www.vsnrweb-publications.org.uk/Edda-1.pdf)；定位：Gylfaginning 10
 
 > 本档案只代表当前阶段性基线，不是对该传统的最终或唯一解释。

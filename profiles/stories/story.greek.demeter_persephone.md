@@ -6,6 +6,9 @@
 - 证据状态: `SOURCE_BACKED`
 - 阅读时间: 9 分钟
 
+> 系列连载：[荷马颂歌连载](series.md) · 第一部 · 致得墨忒耳（1/4）· Hymn 2, lines 1–495
+> 下一部：[荷马颂歌 · 第二部 致阿波罗：勒托的漂泊与德尔斐](story.greek.hymn_apollo.md)
+
 ## 阅读边界
 
 珀耳塞福涅被带往冥界后，得墨忒耳离开诸神寻找女儿；本页严格以《荷马颂歌·致得墨忒耳》的见证范围叙述。
@@ -268,8 +271,10 @@ The event record brings Demeter to Eleusis; the hymn continues with arrangements
 - `CHARACTER` 特里普托勒摩斯 (`hero.greek.triptolemos`)
 - `TEXT` 《荷马颂歌·致得墨忒耳》 (`text.greek.homeric_hymn_demeter`)
 
+**继续读下一部：[荷马颂歌 · 第二部 致阿波罗：勒托的漂泊与德尔斐](story.greek.hymn_apollo.md)**
+
 ## 编辑说明
 
-原创中文概述；不复制现代译文，不把后世版本并入本见证。
+原创中文概述；不复制现代译文，不把后世版本并入本见证。v0.36 起作为“荷马颂歌连载”的第一部，长篇版本依据《荷马颂歌·致得墨忒耳》全篇。
 
 > 本故事页是可持续扩张的阶段性阅读基线；只重述已连接见证，不把现代改编或推测写成古代事实。

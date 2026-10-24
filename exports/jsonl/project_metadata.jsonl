@@ -1,10 +1,10 @@
 {"key":"baseline_statement","updated_at":"2026-08-10T00:00:00Z","value":"Current publicly discoverable material has a staged knowledge baseline; the system remains expandable."}
 {"key":"completion_policy","updated_at":"2026-08-10T00:00:00Z","value":"NO_ALL_COMPLETE"}
-{"key":"data_version","updated_at":"2026-10-24T21:00:00Z","value":"0.35.0"}
-{"key":"generated_at","updated_at":"2026-10-24T21:00:00Z","value":"2026-10-24T21:00:00Z"}
+{"key":"data_version","updated_at":"2026-10-24T23:30:00Z","value":"0.36.0"}
+{"key":"generated_at","updated_at":"2026-10-24T23:30:00Z","value":"2026-10-24T23:30:00Z"}
 {"key":"project_name","updated_at":"2026-08-10T00:00:00Z","value":"世界神话系统 / World Mythology System"}
-{"key":"project_status","updated_at":"2026-10-24T21:00:00Z","value":"v0.35.0 sealed staged checkpoint: world epic series with part-by-part reading; every section keeps its own evidence, never ALL COMPLETE"}
-{"key":"project_version","updated_at":"2026-10-24T21:00:00Z","value":"0.35.0-world-epics"}
-{"key":"schema_version","updated_at":"2026-10-24T21:00:00Z","value":"52"}
+{"key":"project_status","updated_at":"2026-10-24T23:30:00Z","value":"v0.36.0 sealed staged checkpoint: stories for evidence-card deities with section-by-section evidence, never ALL COMPLETE"}
+{"key":"project_version","updated_at":"2026-10-24T23:30:00Z","value":"0.36.0-deity-story-upgrade"}
+{"key":"schema_version","updated_at":"2026-10-24T23:30:00Z","value":"54"}
 {"key":"story_route_policy","updated_at":"2026-08-30T03:30:00Z","value":"Reading routes are editorial navigation, not common-origin claims; event order is not absolute chronology"}
 {"key":"story_witness_policy","updated_at":"2026-08-31T23:05:00Z","value":"Witnesses remain separate; alignments are editorial navigation; NOT_STATED and UNMODELED never become inferred facts"}

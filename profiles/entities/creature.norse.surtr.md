@@ -26,5 +26,7 @@ Fire giant of Muspell who leads its sons at Ragnarök, kills Freyr and burns the
   - 来源：[Snorri Sturluson, Edda](https://www.vsnrweb-publications.org.uk/Edda-1.pdf)；定位：Gylfaginning 51
 - `claim.v0340.ragnarok.09` [VERIFIED / TEXT_SAYS / 0.90] In Gylfaginning 51 Surtr flings fire over the earth and burns the whole world, and Snorri quotes the Seeress's Prophecy: the sun turns black, the earth sinks into the sea and the stars fall.
   - 来源：[Snorri Sturluson, Edda](https://www.vsnrweb-publications.org.uk/Edda-1.pdf)；定位：Gylfaginning 51
+- `claim.v0360.gylf_creation.02` [VERIFIED / TEXT_SAYS / 0.90] Snorri's Edda, Gylfaginning 4, says that first there was the bright, burning southern world Muspell, at whose border sits Surtr with a flaming sword, who at the end of the world will defeat the gods and burn the world.
+  - 来源：[Snorri Sturluson, Edda](https://www.vsnrweb-publications.org.uk/Edda-1.pdf)；定位：Gylfaginning 4
 
 > 本档案只代表当前阶段性基线，不是对该传统的最终或唯一解释。

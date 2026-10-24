@@ -34,5 +34,9 @@
   - 来源：[Gods and goddesses: creation](https://www.ucl.ac.uk/museums-static/digitalegypt/religion/deitiescreation.html)；定位：Gods and goddesses: creation — the creator's first offshoots and their children
 - `claim.v0310.egypt.geb_separation` [VERIFIED / TEXT_SAYS / 0.90] In the UCL synthesis Geb and Nut are separated by Shu (earth, held apart from the sky).
   - 来源：[Gods and goddesses: creation](https://www.ucl.ac.uk/museums-static/digitalegypt/religion/deitiescreation.html)；定位：Gods and goddesses: creation — the creator's first offshoots and their children
+- `claim.v0360.memphite.03` [VERIFIED / TEXT_SAYS / 0.90] The Shabaka Stone (BM EA 498) says that Geb gathered the Nine Gods, judged between Horus and Seth, and first made Seth king of Upper Egypt up to Su and Horus king of Lower Egypt up to the place where his father drowned, so that they made peace at Ayan.
+  - 来源：[The Shabaka Stone (Memphite Theology), British Museum EA 498](https://www.britishmuseum.org/collection/object/Y_EA498)；定位：Shabaka Stone (BM EA 498), Geb's first judgement
+- `claim.v0360.memphite.04` [VERIFIED / TEXT_SAYS / 0.90] The Shabaka Stone (BM EA 498) says that it seemed wrong to Geb that Horus's portion equalled Seth's, so he gave his whole inheritance to Horus, who as uniter of the land was proclaimed Ta-tenen and wore the two crowns, uniting the Two Lands in the Wall Nome.
+  - 来源：[The Shabaka Stone (Memphite Theology), British Museum EA 498](https://www.britishmuseum.org/collection/object/Y_EA498)；定位：Shabaka Stone (BM EA 498), the whole inheritance to Horus
 
 > 本档案只代表当前阶段性基线，不是对该传统的最终或唯一解释。

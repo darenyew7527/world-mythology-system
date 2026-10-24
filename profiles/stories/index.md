@@ -10,7 +10,7 @@
 | [美狄亚恢复埃厄忒斯王位](story.greek.medea_restoration.md) | Medea restores Aeetes | 古希腊 | MYTHIC_NARRATIVE | 1 | SOURCE_BACKED | 3 |
 | [阿佛洛狄忒的两种出身见证](story.greek.aphrodite_origins.md) | Variant origins of Aphrodite | 古希腊 | GENEALOGICAL_ACCOUNT | 2 | CONFLICTING | 6 |
 | [阿斯克与恩布拉：两种北欧见证](story.norse.ask_embla.md) | Ask and Embla in two witnesses | 北欧 | CREATION_ACCOUNT | 2 | CONFLICTING | 7 |
-| [诸神宝物的锻造](story.norse.forging_treasures.md) | Forging the divine treasures | 北欧 | MYTHIC_NARRATIVE | 1 | PARTIAL | 5 |
+| [诸神宝物的锻造](story.norse.forging_treasures.md) | Forging the divine treasures | 北欧 | MYTHIC_NARRATIVE | 2 | PARTIAL | 10 |
 | [索尔寻找被夺走的妙尔尼尔](story.norse.hammer_recovery.md) | Thor recovers Mjolnir | 北欧 | MYTHIC_NARRATIVE | 1 | PARTIAL | 4 |
 | [诸神黄昏：世界的毁灭与重生](story.norse.ragnarok.md) | Ragnarök: the destruction and renewal of the world | 北欧 | MYTHIC_NARRATIVE | 2 | SOURCE_BACKED | 10 |
 | [奥丁与密米尔之泉](story.norse.odin_mimir.md) | Odin and Mimirs well | 北欧 | MYTHIC_NARRATIVE | 1 | SOURCE_BACKED | 3 |
@@ -39,7 +39,7 @@
 | [华纳神族：尼奥尔德、弗雷与芙蕾雅](story.norse.vanir_family.md) | Njörðr, Freyr and Freyja — the Vanir family | 北欧 | MYTHIC_NARRATIVE | 1 | SOURCE_BACKED | 5 |
 | [提尔的手：束缚芬里尔](story.norse.tyr_fenrir.md) | Týr's hand and the binding of Fenrir | 北欧 | MYTHIC_NARRATIVE | 1 | SOURCE_BACKED | 4 |
 | [海姆达尔：众神的守望者](story.norse.heimdall_watchman.md) | Heimdallr, watchman of the gods | 北欧 | MYTHIC_NARRATIVE | 1 | SOURCE_BACKED | 4 |
-| [尤弥尔与世界的形成](story.norse.ymir_world.md) | Ymir and the shaping of the world | 北欧 | MYTHIC_NARRATIVE | 1 | SOURCE_BACKED | 4 |
+| [尤弥尔与世界的形成](story.norse.ymir_world.md) | Ymir and the shaping of the world | 北欧 | MYTHIC_NARRATIVE | 2 | SOURCE_BACKED | 13 |
 | [弗丽嘉的誓言与巴德尔之死](story.norse.frigg_baldr.md) | Frigg's oaths and the death of Baldr | 北欧 | MYTHIC_NARRATIVE | 2 | SOURCE_BACKED | 7 |
 | [蛇山上的诞生：维齐洛波奇特利](story.mexica.birth_huitzilopochtli.md) | The birth of Huitzilopochtli on Serpent Mountain | 墨西卡 | DIVINE_COMBAT | 1 | SOURCE_BACKED | 5 |
 | [图拉的羽蛇神与蒂特拉卡瓦](story.mexica.quetzalcoatl_tollan.md) | Quetzalcoatl and Titlacauan at Tollan | 墨西卡 | MYTHIC_NARRATIVE | 1 | SOURCE_BACKED | 4 |
@@ -107,6 +107,21 @@
 | [列王纪 · 第二部 鲁斯塔姆的七关](story.persian.rostam_seven_labours.md) | Shahnameh, Part 2: the seven stages of Rostam | 波斯 | MYTHIC_NARRATIVE | 1 | SOURCE_BACKED | 10 |
 | [列王纪 · 第三部 鲁斯塔姆与苏赫拉布](story.persian.rostam_sohrab.md) | Shahnameh, Part 3: Rostam and Sohrāb | 波斯 | MYTHIC_NARRATIVE | 1 | SOURCE_BACKED | 10 |
 | [搜神记选读：十三个志怪故事](story.chinese.soushenji_tales.md) | Soushen ji: thirteen tales of the strange | 中国民间信仰 | MYTHIC_NARRATIVE | 1 | SOURCE_BACKED | 14 |
+| [荷马颂歌 · 第二部 致阿波罗：勒托的漂泊与德尔斐](story.greek.hymn_apollo.md) | Homeric Hymns, Part 2: Apollo — Leto's wandering and Delphi | 古希腊 | MYTHIC_NARRATIVE | 1 | SOURCE_BACKED | 12 |
+| [荷马颂歌 · 第三部 致赫尔墨斯：迈亚的孩子](story.greek.hymn_hermes.md) | Homeric Hymns, Part 3: Hermes — Maia's child | 古希腊 | MYTHIC_NARRATIVE | 1 | SOURCE_BACKED | 12 |
+| [荷马颂歌 · 第四部 致阿佛洛狄忒：女神与牧人](story.greek.hymn_aphrodite.md) | Homeric Hymns, Part 4: Aphrodite — the goddess and the herdsman | 古希腊 | MYTHIC_NARRATIVE | 1 | SOURCE_BACKED | 11 |
+| [提坦的子女：光、风、睡与死（据赫西俄德《神谱》）](story.greek.titans_children.md) | The children of the Titans: light, wind, sleep and death (after Hesiod's Theogony) | 古希腊 | GENEALOGICAL_ACCOUNT | 1 | SOURCE_BACKED | 13 |
+| [阿耳忒弥斯：狩猎女神的十二个故事（据《书库》）](story.greek.artemis_library.md) | Artemis: twelve tales of the huntress (after the Library) | 古希腊 | MYTHIC_NARRATIVE | 1 | SOURCE_BACKED | 10 |
+| [狄俄倪索斯：两次出生的神（据《书库》）](story.greek.dionysus_library.md) | Dionysus: the twice-born god (after the Library) | 古希腊 | MYTHIC_NARRATIVE | 1 | SOURCE_BACKED | 10 |
+| [阿瑞斯：特洛伊城下的战神（据《伊利亚特》）](story.greek.ares_iliad.md) | Ares: the war god before Troy (after the Iliad) | 古希腊 | MYTHIC_NARRATIVE | 1 | SOURCE_BACKED | 12 |
+| [索尔与赫朗格尼尔：石心巨人与三岁的马格尼](story.norse.thor_hrungnir.md) | Thor and Hrungnir: the stone-hearted giant and three-year-old Magni | 北欧 | MYTHIC_NARRATIVE | 1 | SOURCE_BACKED | 11 |
+| [孔苏远行：本特蕾什石碑的故事](story.egyptian.bentresh_khonsu.md) | Khonsu's journey: the tale of the Bentresh Stela | 古埃及 | MYTHIC_NARRATIVE | 1 | SOURCE_BACKED | 11 |
+| [两兄弟的故事：巴塔、松树谷与拉-哈拉赫提](story.egyptian.two_brothers.md) | The Tale of Two Brothers: Bata, the Valley of the Pine and Pre-Harakhti | 古埃及 | MYTHIC_NARRATIVE | 1 | SOURCE_BACKED | 14 |
+| [阿蒙的女儿：哈特谢普苏特的神圣诞生](story.egyptian.hatshepsut_divine_birth.md) | Daughter of Amun: the divine birth of Hatshepsut | 古埃及 | MYTHIC_NARRATIVE | 1 | SOURCE_BACKED | 10 |
+| [普塔用心与舌创造世界：孟菲斯神学](story.egyptian.memphite_theology.md) | Ptah creates by heart and tongue: the Memphite Theology | 古埃及 | CREATION_ACCOUNT | 1 | SOURCE_BACKED | 11 |
+| [巴力的宫殿：伊勒、阿西拉特与银金之屋](story.ugaritic.baal_palace.md) | The palace of Baal: El, Athirat and the house of silver and gold | 乌加里特 | MYTHIC_NARRATIVE | 1 | SOURCE_BACKED | 14 |
+| [伊南娜与埃比赫：不肯低头的山](story.sumerian.inana_ebih.md) | Inana and Ebiḫ: the mountain that would not bow | 苏美尔 | DIVINE_COMBAT | 1 | SOURCE_BACKED | 9 |
+| [雷公：汉代人画中的雷神与王充的反驳](story.chinese.leigong_leixu.md) | Leigong: the Han image of the thunder god and Wang Chong's rebuttal | 中国传统跨时期总类 | TRADITION_OVERVIEW | 1 | SOURCE_BACKED | 7 |
 
 另见：[神祇故事集 — 全部神祇的故事，打开即可阅读](deities/index.md)
 

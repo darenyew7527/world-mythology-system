@@ -26,5 +26,7 @@
 
 - `claim.v0310.egypt.hathor_event` [VERIFIED / TEXT_SAYS / 0.90] Hathor is the loving, maternal character to which the goddess returns at the end of the episode.
   - 来源：[Gods and goddesses: creation](https://www.ucl.ac.uk/museums-static/digitalegypt/religion/deitiescreation.html)；定位：Gods and goddesses: creation — the Tale of the Heavenly Cow
+- `claim.v0360.hatshepsut_birth.11` [VERIFIED / TEXT_SAYS / 0.90] The divine birth cycle at Deir el-Bahari shows Hathor and the nurse goddesses suckling Hatshepsut and her ka at Amun's command, with the child and her ka also drinking from divine cows.
+  - 来源：[Divine birth cycle of Hatshepsut, Deir el-Bahari: Thesaurus Linguae Aegyptiae scene texts (after Brunner's numbering)](https://thesaurus-linguae-aegyptiae.de/text/HT6VX6MTDFA23BCFLNEKOTHO2I)；定位：Deir el-Bahari, middle colonnade (north), birth cycle: the nursing of the child
 
 > 本档案只代表当前阶段性基线，不是对该传统的最终或唯一解释。

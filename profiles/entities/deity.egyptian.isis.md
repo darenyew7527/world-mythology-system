@@ -42,5 +42,7 @@
   - 来源：[Plutarch, On Isis and Osiris (tr. F. C. Babbitt, Loeb Moralia V, 1936)](https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Plutarch/Moralia/Isis_and_Osiris*/home.html)；定位：ch. 17
 - `claim.v0320.plutarch_osiris.12` [VERIFIED / TEXT_SAYS / 0.90] Plutarch says Isis released the captured Typhon, Horus tore the diadem from her head, the gods with Hermes' help judged Horus legitimate, and the tomb of Osiris is placed on an inaccessible island near Philae.
   - 来源：[Plutarch, On Isis and Osiris (tr. F. C. Babbitt, Loeb Moralia V, 1936)](https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Plutarch/Moralia/Isis_and_Osiris*/home.html)；定位：ch. 19–20
+- `claim.v0360.memphite.12` [VERIFIED / TEXT_SAYS / 0.90] The Shabaka Stone (BM EA 498) says that Osiris drowned in his water, that at Horus's command Isis and Nephthys grasped him and brought him to land, that he entered the earth at the Royal Fortress north of Memphis, and that Horus arose as king in his father's arms.
+  - 来源：[The Shabaka Stone (Memphite Theology), British Museum EA 498](https://www.britishmuseum.org/collection/object/Y_EA498)；定位：Shabaka Stone (BM EA 498), Osiris drowned and brought ashore at Memphis
 
 > 本档案只代表当前阶段性基线，不是对该传统的最终或唯一解释。

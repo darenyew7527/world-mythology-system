@@ -21,6 +21,7 @@ Lunar deity, child of Hyperion and Theia in Hesiod and subject of Homeric Hymn 3
 | Relation | Target | Review / layer | Evidence | Confidence | Direction |
 |---|---|---|---:|---:|---|
 | `APPEARS_IN` | 《荷马颂歌·致塞勒涅》（第32首） (`text.greek.homeric_hymn_selene_32`) | VERIFIED / TEXT_SAYS / TEXTUAL_WITNESS | 1 | 1.00 | stored claim; `claim.v040.selene.appears_hymn32` |
+| `CHILD_OF` | 许珀里翁 (`deity.greek.hyperion`) | VERIFIED / TEXT_SAYS / MYTHIC_NARRATIVE | 1 | 0.90 | stored claim; `claim.v0360.theog_titans.06` |
 | `CHILD_OF` | 许珀里翁 (`deity.greek.hyperion`) | VERIFIED / TEXT_SAYS / MYTHIC_NARRATIVE | 1 | 0.99 | inferred inverse; `claim.v040.hyperion.parent_selene` |
 | `CHILD_OF` | 忒亚 (`deity.greek.theia`) | VERIFIED / TEXT_SAYS / MYTHIC_NARRATIVE | 1 | 0.99 | inferred inverse; `claim.v040.theia.parent_selene` |
 | `REPRESENTS` | 月亮 (`concept.comparative.moon`) | VERIFIED / SCHOLARLY_INTERPRETATION / SCHOLARLY_INTERPRETATION | 1 | 0.95 | stored claim; `claim.v040.selene.represents_moon` |
@@ -29,6 +30,8 @@ Lunar deity, child of Hyperion and Theia in Hesiod and subject of Homeric Hymn 3
 
 ## Claims 与证据
 
+- `claim.v0360.theog_titans.06` [VERIFIED / TEXT_SAYS / 0.90] Hesiod, Theogony 371–374, says that Theia, in love with Hyperion, bore great Helios, clear Selene and Eos, who shines on all on earth and on the deathless gods.
+  - 来源：[Hesiod, Theogony, Evelyn-White English text](https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0130)；定位：Theogony 371–374
 - `claim.v040.selene.appears_hymn32` [VERIFIED / TEXT_SAYS / 1.00] Selene is the principal subject of Homeric Hymn 32.
   - 来源：[Homeric Hymn 32 to Selene, Evelyn-White edition and translation](https://scaife.perseus.org/reader/urn%3Acts%3AgreekLit%3Atlg0013.tlg032.perseus-grc2%3A1-20/)；定位：Hymn 32, lines 1-20
 - `claim.v040.selene.chariot_hymn32` [VERIFIED / TEXT_SAYS / 0.99] Homeric Hymn 32 lines 1-20 describes Selene’s radiance, horses and monthly sign.

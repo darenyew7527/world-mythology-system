@@ -24,6 +24,7 @@ Ancestor licked free from rime by Auðhumla in Gylfaginning.
 
 ## Claims 与证据
 
-尚无 claim；实体仅为发现/索引入口。
+- `claim.v0360.gylf_creation.05` [VERIFIED / TEXT_SAYS / 0.90] Snorri's Edda, Gylfaginning 6, says that the cow Auðumbla, who fed Ymir with four rivers of milk, licked the salty ice-blocks until on the third day a whole man, Búri, beautiful, big and powerful, came out of them.
+  - 来源：[Snorri Sturluson, Edda](https://www.vsnrweb-publications.org.uk/Edda-1.pdf)；定位：Gylfaginning 6
 
 > 本档案只代表当前阶段性基线，不是对该传统的最终或唯一解释。

@@ -23,6 +23,7 @@
 
 ## Claims 与证据
 
-尚无 claim；实体仅为发现/索引入口。
+- `claim.v0360.skald_sif.11` [VERIFIED / TEXT_SAYS / 0.90] Snorri's Edda, Skáldskaparmál 35, says that Brokkr gave Óðinn the ring Draupnir, Freyr the shining boar and Thor the hammer that never misses and returns to his hand, and that the gods judged the hammer best as a defence against the frost-giants, so the dwarf won the wager.
+  - 来源：[Snorri Sturluson: Edda. Skáldskaparmál](https://vsnr.org/editions/snorri-sturluson-edda-skaldskaparmal/)；定位：Skáldskaparmál 35
 
 > 本档案只代表当前阶段性基线，不是对该传统的最终或唯一解释。

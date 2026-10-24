@@ -51,6 +51,7 @@
 | weapon.norse.gungnir | 冈格尼尔 | Gungnir | WEAPON | 北欧 | PARTIAL | UNVERIFIED |
 | weapon.norse.mjolnir | 妙尔尼尔 | Mjölnir | WEAPON | 北欧 | PARTIAL | UNVERIFIED |
 | artifact.norse.naglfar | 纳吉尔法 | Naglfar | SHIP | 北欧 | PARTIAL | SOURCE_BACKED |
+| artifact.norse.skidbladnir | 斯基德布拉德尼尔 | Skíðblaðnir | SHIP | 北欧 | PARTIAL | SOURCE_BACKED |
 | weapon.norse.freyr_sword | 弗雷之剑 | Sword of Freyr | WEAPON | 北欧 | PARTIAL | UNVERIFIED |
 | weapon.norse.tyrfing | 提尔锋 | Tyrfing | WEAPON | 北欧 | PARTIAL | UNVERIFIED |
 | weapon.ugaritic.ayyamur | 阿亚穆尔 | Ayyamur | WEAPON | 乌加里特 | PARTIAL | SOURCE_BACKED |

@@ -55,6 +55,8 @@
 {"entity_id":"hero.chinese.chiyou","notes":"Rebel","role":"CHARACTER","sort_order":20,"story_id":"story.chinese.huangdi_chiyou","story_version_id":"storyver.chinese.zhuolu_shiji"}
 {"entity_id":"event.chinese.battle_of_zhuolu","notes":"Battle","role":"EVENT","sort_order":30,"story_id":"story.chinese.huangdi_chiyou","story_version_id":"storyver.chinese.zhuolu_shiji"}
 {"entity_id":"text.chinese.shiji_ancient","notes":"Witness","role":"TEXT","sort_order":40,"story_id":"story.chinese.huangdi_chiyou","story_version_id":"storyver.chinese.zhuolu_shiji"}
+{"entity_id":"deity.chinese.leigong","notes":"The thunder god of Han belief and painting","role":"CHARACTER","sort_order":10,"story_id":"story.chinese.leigong_leixu","story_version_id":"storyver.chinese.lunheng_leixu"}
+{"entity_id":"text.chinese.lunheng","notes":"Lunheng","role":"TEXT","sort_order":20,"story_id":"story.chinese.leigong_leixu","story_version_id":"storyver.chinese.lunheng_leixu"}
 {"entity_id":"deity.chinese.leize_thunder_spirit","notes":"Derived from an explicitly linked story claim subject.","role":"CHARACTER","sort_order":10,"story_id":"story.chinese.leize_thunder","story_version_id":"storyver.chinese.leize_shanhaijing"}
 {"entity_id":"concept.comparative.thunder","notes":"Derived from an explicitly linked story claim object.","role":"RELATED","sort_order":20,"story_id":"story.chinese.leize_thunder","story_version_id":"storyver.chinese.leize_shanhaijing"}
 {"entity_id":"text.chinese.shanhaijing","notes":"Derived from an explicitly linked story claim object.","role":"TEXT","sort_order":20,"story_id":"story.chinese.leize_thunder","story_version_id":"storyver.chinese.leize_shanhaijing"}
@@ -154,6 +156,23 @@
 {"entity_id":"artifact.chinese.golden_fillet","notes":"Fillet","role":"ARTIFACT","sort_order":80,"story_id":"story.chinese.xiyouji_white_bone","story_version_id":"storyver.chinese.xiyouji_ch27_31"}
 {"entity_id":"place.chinese.huaguo_shan","notes":"Wukong's home","role":"PLACE","sort_order":90,"story_id":"story.chinese.xiyouji_white_bone","story_version_id":"storyver.chinese.xiyouji_ch27_31"}
 {"entity_id":"text.chinese.xiyouji","notes":"Novel","role":"TEXT","sort_order":100,"story_id":"story.chinese.xiyouji_white_bone","story_version_id":"storyver.chinese.xiyouji_ch27_31"}
+{"entity_id":"deity.egyptian.khonsu","notes":"Khonsu-in-Thebes-Neferhotep and Khonsu-the-Provider","role":"CHARACTER","sort_order":10,"story_id":"story.egyptian.bentresh_khonsu","story_version_id":"storyver.egyptian.bentresh_stela_louvre_c284"}
+{"entity_id":"historical.egyptian.ramesses_ii","notes":"The king of the tale","role":"CHARACTER","sort_order":20,"story_id":"story.egyptian.bentresh_khonsu","story_version_id":"storyver.egyptian.bentresh_stela_louvre_c284"}
+{"entity_id":"person.egyptian.bentresh","notes":"The possessed princess","role":"CHARACTER","sort_order":30,"story_id":"story.egyptian.bentresh_khonsu","story_version_id":"storyver.egyptian.bentresh_stela_louvre_c284"}
+{"entity_id":"deity.egyptian.amun_ra","notes":"Lord of Thebes","role":"CHARACTER","sort_order":40,"story_id":"story.egyptian.bentresh_khonsu","story_version_id":"storyver.egyptian.bentresh_stela_louvre_c284"}
+{"entity_id":"festival.egyptian.opet","notes":"Feast of Southern Ipet","role":"EVENT","sort_order":50,"story_id":"story.egyptian.bentresh_khonsu","story_version_id":"storyver.egyptian.bentresh_stela_louvre_c284"}
+{"entity_id":"site.egypt.karnak","notes":"Thebes","role":"PLACE","sort_order":60,"story_id":"story.egyptian.bentresh_khonsu","story_version_id":"storyver.egyptian.bentresh_stela_louvre_c284"}
+{"entity_id":"text.egypt.bentresh_stela","notes":"Bentresh Stela","role":"TEXT","sort_order":70,"story_id":"story.egyptian.bentresh_khonsu","story_version_id":"storyver.egyptian.bentresh_stela_louvre_c284"}
+{"entity_id":"deity.egyptian.amun_ra","notes":"Divine father","role":"CHARACTER","sort_order":10,"story_id":"story.egyptian.hatshepsut_divine_birth","story_version_id":"storyver.egyptian.deir_el_bahari_birth_cycle"}
+{"entity_id":"deity.egyptian.amun","notes":"Amun","role":"CHARACTER","sort_order":20,"story_id":"story.egyptian.hatshepsut_divine_birth","story_version_id":"storyver.egyptian.deir_el_bahari_birth_cycle"}
+{"entity_id":"deity.egyptian.thoth","notes":"Messenger and scribe","role":"CHARACTER","sort_order":30,"story_id":"story.egyptian.hatshepsut_divine_birth","story_version_id":"storyver.egyptian.deir_el_bahari_birth_cycle"}
+{"entity_id":"historical.egyptian.ahmose_queen","notes":"Mother","role":"CHARACTER","sort_order":40,"story_id":"story.egyptian.hatshepsut_divine_birth","story_version_id":"storyver.egyptian.deir_el_bahari_birth_cycle"}
+{"entity_id":"historical.egyptian.thutmose_i","notes":"Form taken by the god","role":"CHARACTER","sort_order":50,"story_id":"story.egyptian.hatshepsut_divine_birth","story_version_id":"storyver.egyptian.deir_el_bahari_birth_cycle"}
+{"entity_id":"deity.egyptian.khnum","notes":"Potter of the child","role":"CHARACTER","sort_order":60,"story_id":"story.egyptian.hatshepsut_divine_birth","story_version_id":"storyver.egyptian.deir_el_bahari_birth_cycle"}
+{"entity_id":"deity.egyptian.heqet","notes":"Birth goddess","role":"CHARACTER","sort_order":70,"story_id":"story.egyptian.hatshepsut_divine_birth","story_version_id":"storyver.egyptian.deir_el_bahari_birth_cycle"}
+{"entity_id":"deity.egyptian.hathor","notes":"Presents and nurses the child","role":"CHARACTER","sort_order":80,"story_id":"story.egyptian.hatshepsut_divine_birth","story_version_id":"storyver.egyptian.deir_el_bahari_birth_cycle"}
+{"entity_id":"historical.egyptian.hatshepsut","notes":"The divine child","role":"CHARACTER","sort_order":90,"story_id":"story.egyptian.hatshepsut_divine_birth","story_version_id":"storyver.egyptian.deir_el_bahari_birth_cycle"}
+{"entity_id":"text.egypt.hatshepsut_birth_cycle","notes":"Birth cycle","role":"TEXT","sort_order":100,"story_id":"story.egyptian.hatshepsut_divine_birth","story_version_id":"storyver.egyptian.deir_el_bahari_birth_cycle"}
 {"entity_id":"deity.egyptian.ra","notes":"Sun-god","role":"CHARACTER","sort_order":10,"story_id":"story.egyptian.heavenly_cow","story_version_id":"storyver.egyptian.heavenly_cow_ucl"}
 {"entity_id":"deity.egyptian.sekhmet","notes":"Eye of Ra","role":"CHARACTER","sort_order":20,"story_id":"story.egyptian.heavenly_cow","story_version_id":"storyver.egyptian.heavenly_cow_ucl"}
 {"entity_id":"deity.egyptian.hathor","notes":"Gentle form","role":"CHARACTER","sort_order":30,"story_id":"story.egyptian.heavenly_cow","story_version_id":"storyver.egyptian.heavenly_cow_ucl"}
@@ -170,6 +189,17 @@
 {"entity_id":"deity.egyptian.horus","notes":"Child","role":"CHARACTER","sort_order":90,"story_id":"story.egyptian.heliopolitan_family","story_version_id":"storyver.egyptian.heliopolis_ucl"}
 {"entity_id":"event.egyptian.separation_geb_nut","notes":"Separation","role":"EVENT","sort_order":100,"story_id":"story.egyptian.heliopolitan_family","story_version_id":"storyver.egyptian.heliopolis_ucl"}
 {"entity_id":"event.egyptian.osiris_murder_restoration","notes":"Osiris cycle","role":"EVENT","sort_order":110,"story_id":"story.egyptian.heliopolitan_family","story_version_id":"storyver.egyptian.heliopolis_ucl"}
+{"entity_id":"deity.egyptian.ptah","notes":"Creator by heart and tongue","role":"CHARACTER","sort_order":10,"story_id":"story.egyptian.memphite_theology","story_version_id":"storyver.egyptian.shabaka_stone_memphite"}
+{"entity_id":"deity.egyptian.atum","notes":"Created by Ptah","role":"CHARACTER","sort_order":20,"story_id":"story.egyptian.memphite_theology","story_version_id":"storyver.egyptian.shabaka_stone_memphite"}
+{"entity_id":"deity.egyptian.geb","notes":"Judge of Horus and Seth","role":"CHARACTER","sort_order":30,"story_id":"story.egyptian.memphite_theology","story_version_id":"storyver.egyptian.shabaka_stone_memphite"}
+{"entity_id":"deity.egyptian.horus","notes":"King of the united land","role":"CHARACTER","sort_order":40,"story_id":"story.egyptian.memphite_theology","story_version_id":"storyver.egyptian.shabaka_stone_memphite"}
+{"entity_id":"deity.egyptian.seth","notes":"Rival of Horus","role":"CHARACTER","sort_order":50,"story_id":"story.egyptian.memphite_theology","story_version_id":"storyver.egyptian.shabaka_stone_memphite"}
+{"entity_id":"deity.egyptian.osiris","notes":"The drowned god","role":"CHARACTER","sort_order":60,"story_id":"story.egyptian.memphite_theology","story_version_id":"storyver.egyptian.shabaka_stone_memphite"}
+{"entity_id":"deity.egyptian.isis","notes":"Rescues Osiris","role":"CHARACTER","sort_order":70,"story_id":"story.egyptian.memphite_theology","story_version_id":"storyver.egyptian.shabaka_stone_memphite"}
+{"entity_id":"deity.egyptian.nephthys","notes":"Rescues Osiris","role":"CHARACTER","sort_order":80,"story_id":"story.egyptian.memphite_theology","story_version_id":"storyver.egyptian.shabaka_stone_memphite"}
+{"entity_id":"deity.egyptian.thoth","notes":"Takes shape as Ptah's tongue","role":"CHARACTER","sort_order":90,"story_id":"story.egyptian.memphite_theology","story_version_id":"storyver.egyptian.shabaka_stone_memphite"}
+{"entity_id":"historical.egyptian.shabaka","notes":"Copyist king","role":"CHARACTER","sort_order":100,"story_id":"story.egyptian.memphite_theology","story_version_id":"storyver.egyptian.shabaka_stone_memphite"}
+{"entity_id":"text.egypt.memphite_theology","notes":"Memphite Theology","role":"TEXT","sort_order":110,"story_id":"story.egyptian.memphite_theology","story_version_id":"storyver.egyptian.shabaka_stone_memphite"}
 {"entity_id":"deity.egyptian.nephthys","notes":"Mourner","role":"CHARACTER","sort_order":10,"story_id":"story.egyptian.mourning_sisters","story_version_id":"storyver.egyptian.mourning_sisters_met"}
 {"entity_id":"deity.egyptian.isis","notes":"Mourner","role":"CHARACTER","sort_order":20,"story_id":"story.egyptian.mourning_sisters","story_version_id":"storyver.egyptian.mourning_sisters_met"}
 {"entity_id":"deity.egyptian.osiris","notes":"Mourned","role":"CHARACTER","sort_order":30,"story_id":"story.egyptian.mourning_sisters","story_version_id":"storyver.egyptian.mourning_sisters_met"}
@@ -195,6 +225,12 @@
 {"entity_id":"deity.egyptian.ra","notes":"Derived from an explicitly linked story claim subject.","role":"CHARACTER","sort_order":10,"story_id":"story.egyptian.solar_night","story_version_id":"storyver.egyptian.solar_met"}
 {"entity_id":"text.egypt.amduat","notes":"Derived from an explicitly linked story claim object.","role":"TEXT","sort_order":20,"story_id":"story.egyptian.solar_night","story_version_id":"storyver.egyptian.solar_met"}
 {"entity_id":"artifact.egyptian.solar_barque","notes":"Derived from an explicitly linked story claim object.","role":"RELATED","sort_order":20,"story_id":"story.egyptian.solar_night","story_version_id":"storyver.egyptian.solar_met"}
+{"entity_id":"hero.egyptian.anpu","notes":"Elder brother","role":"CHARACTER","sort_order":10,"story_id":"story.egyptian.two_brothers","story_version_id":"storyver.egyptian.dorbiney_two_brothers"}
+{"entity_id":"hero.egyptian.bata","notes":"Younger brother","role":"CHARACTER","sort_order":20,"story_id":"story.egyptian.two_brothers","story_version_id":"storyver.egyptian.dorbiney_two_brothers"}
+{"entity_id":"deity.egyptian.ra_horakhty","notes":"Pre-Harakhti, judge of the just","role":"CHARACTER","sort_order":30,"story_id":"story.egyptian.two_brothers","story_version_id":"storyver.egyptian.dorbiney_two_brothers"}
+{"entity_id":"deity.egyptian.khnum","notes":"Fashions Bata's wife","role":"CHARACTER","sort_order":40,"story_id":"story.egyptian.two_brothers","story_version_id":"storyver.egyptian.dorbiney_two_brothers"}
+{"entity_id":"deity.egyptian.hathor","notes":"The Seven Hathors","role":"CHARACTER","sort_order":50,"story_id":"story.egyptian.two_brothers","story_version_id":"storyver.egyptian.dorbiney_two_brothers"}
+{"entity_id":"text.egypt.two_brothers","notes":"Tale of Two Brothers","role":"TEXT","sort_order":60,"story_id":"story.egyptian.two_brothers","story_version_id":"storyver.egyptian.dorbiney_two_brothers"}
 {"entity_id":"museum.egypt.papyrus_ani_frame3","notes":"Papyrus frame","role":"ARTIFACT","sort_order":10,"story_id":"story.egyptian.weighing_heart_ani","story_version_id":"storyver.egyptian.weighing_ani_bm"}
 {"entity_id":"deity.egyptian.anubis","notes":"Tends the balance","role":"CHARACTER","sort_order":20,"story_id":"story.egyptian.weighing_heart_ani","story_version_id":"storyver.egyptian.weighing_ani_bm"}
 {"entity_id":"deity.egyptian.thoth","notes":"Scribe","role":"CHARACTER","sort_order":30,"story_id":"story.egyptian.weighing_heart_ani","story_version_id":"storyver.egyptian.weighing_ani_bm"}
@@ -244,6 +280,16 @@
 {"entity_id":"deity.greek.dione","notes":"Derived from an explicitly linked story claim subject.","role":"CHARACTER","sort_order":10,"story_id":"story.greek.aphrodite_origins","story_version_id":"storyver.greek.aphrodite_iliad"}
 {"entity_id":"deity.greek.zeus","notes":"Derived from an explicitly linked story claim object.","role":"CHARACTER","sort_order":20,"story_id":"story.greek.aphrodite_origins","story_version_id":"storyver.greek.aphrodite_iliad"}
 {"entity_id":"text.greek.iliad","notes":"Derived from an explicitly linked story claim object.","role":"RELATED","sort_order":20,"story_id":"story.greek.aphrodite_origins","story_version_id":"storyver.greek.aphrodite_iliad"}
+{"entity_id":"deity.greek.ares","notes":"God of war","role":"CHARACTER","sort_order":10,"story_id":"story.greek.ares_iliad","story_version_id":"storyver.greek.iliad_butler_ares"}
+{"entity_id":"deity.greek.athena","notes":"Adversary","role":"CHARACTER","sort_order":20,"story_id":"story.greek.ares_iliad","story_version_id":"storyver.greek.iliad_butler_ares"}
+{"entity_id":"deity.greek.aphrodite","notes":"Ally","role":"CHARACTER","sort_order":30,"story_id":"story.greek.ares_iliad","story_version_id":"storyver.greek.iliad_butler_ares"}
+{"entity_id":"deity.greek.apollo","notes":"Rouses Ares","role":"CHARACTER","sort_order":40,"story_id":"story.greek.ares_iliad","story_version_id":"storyver.greek.iliad_butler_ares"}
+{"entity_id":"deity.greek.hera","notes":"Mother","role":"CHARACTER","sort_order":50,"story_id":"story.greek.ares_iliad","story_version_id":"storyver.greek.iliad_butler_ares"}
+{"entity_id":"deity.greek.zeus","notes":"Father","role":"CHARACTER","sort_order":60,"story_id":"story.greek.ares_iliad","story_version_id":"storyver.greek.iliad_butler_ares"}
+{"entity_id":"deity.greek.hermes","notes":"Rescuer from the jar","role":"CHARACTER","sort_order":70,"story_id":"story.greek.ares_iliad","story_version_id":"storyver.greek.iliad_butler_ares"}
+{"entity_id":"deity.greek.dione","notes":"Tells of the jar","role":"CHARACTER","sort_order":80,"story_id":"story.greek.ares_iliad","story_version_id":"storyver.greek.iliad_butler_ares"}
+{"entity_id":"hero.greek.diomedes","notes":"Wounds Ares","role":"CHARACTER","sort_order":90,"story_id":"story.greek.ares_iliad","story_version_id":"storyver.greek.iliad_butler_ares"}
+{"entity_id":"text.greek.iliad","notes":"Iliad","role":"TEXT","sort_order":100,"story_id":"story.greek.ares_iliad","story_version_id":"storyver.greek.iliad_butler_ares"}
 {"entity_id":"hero.greek.jason","notes":"Leader","role":"CHARACTER","sort_order":10,"story_id":"story.greek.argonautica_fleece_return","story_version_id":"storyver.greek.argonautica_seaton_3_4"}
 {"entity_id":"artifact.greek.argo","notes":"Ship","role":"ARTIFACT","sort_order":20,"story_id":"story.greek.argonautica_fleece_return","story_version_id":"storyver.greek.argonautica_seaton_3_4"}
 {"entity_id":"artifact.greek.golden_fleece","notes":"Quest","role":"ARTIFACT","sort_order":30,"story_id":"story.greek.argonautica_fleece_return","story_version_id":"storyver.greek.argonautica_seaton_3_4"}
@@ -277,6 +323,19 @@
 {"entity_id":"hero.greek.phineus","notes":"Seer","role":"CHARACTER","sort_order":150,"story_id":"story.greek.argonautica_outward","story_version_id":"storyver.greek.argonautica_seaton_1_2"}
 {"entity_id":"creature.greek.harpies","notes":"Tormentors","role":"CHARACTER","sort_order":160,"story_id":"story.greek.argonautica_outward","story_version_id":"storyver.greek.argonautica_seaton_1_2"}
 {"entity_id":"deity.greek.apollo","notes":"Epiphany","role":"CHARACTER","sort_order":170,"story_id":"story.greek.argonautica_outward","story_version_id":"storyver.greek.argonautica_seaton_1_2"}
+{"entity_id":"deity.greek.artemis","notes":"Huntress","role":"CHARACTER","sort_order":10,"story_id":"story.greek.artemis_library","story_version_id":"storyver.greek.library_artemis"}
+{"entity_id":"deity.greek.leto","notes":"Mother","role":"CHARACTER","sort_order":20,"story_id":"story.greek.artemis_library","story_version_id":"storyver.greek.library_artemis"}
+{"entity_id":"deity.greek.apollo","notes":"Twin brother","role":"CHARACTER","sort_order":30,"story_id":"story.greek.artemis_library","story_version_id":"storyver.greek.library_artemis"}
+{"entity_id":"deity.greek.eos","notes":"Lover of Orion","role":"CHARACTER","sort_order":40,"story_id":"story.greek.artemis_library","story_version_id":"storyver.greek.library_artemis"}
+{"entity_id":"hero.greek.orion","notes":"Hunter","role":"CHARACTER","sort_order":50,"story_id":"story.greek.artemis_library","story_version_id":"storyver.greek.library_artemis"}
+{"entity_id":"hero.greek.heracles","notes":"Hunter of the hind","role":"CHARACTER","sort_order":60,"story_id":"story.greek.artemis_library","story_version_id":"storyver.greek.library_artemis"}
+{"entity_id":"hero.greek.actaeon","notes":"Hunter","role":"CHARACTER","sort_order":70,"story_id":"story.greek.artemis_library","story_version_id":"storyver.greek.library_artemis"}
+{"entity_id":"hero.greek.niobe","notes":"Boastful mother","role":"CHARACTER","sort_order":80,"story_id":"story.greek.artemis_library","story_version_id":"storyver.greek.library_artemis"}
+{"entity_id":"hero.greek.callisto","notes":"Companion","role":"CHARACTER","sort_order":90,"story_id":"story.greek.artemis_library","story_version_id":"storyver.greek.library_artemis"}
+{"entity_id":"deity.greek.maia","notes":"Fosters Arcas","role":"CHARACTER","sort_order":100,"story_id":"story.greek.artemis_library","story_version_id":"storyver.greek.library_artemis"}
+{"entity_id":"hero.greek.iphigenia","notes":"Daughter of Agamemnon","role":"CHARACTER","sort_order":110,"story_id":"story.greek.artemis_library","story_version_id":"storyver.greek.library_artemis"}
+{"entity_id":"deity.greek.zeus","notes":"Father","role":"CHARACTER","sort_order":120,"story_id":"story.greek.artemis_library","story_version_id":"storyver.greek.library_artemis"}
+{"entity_id":"text.greek.apollodorus_library","notes":"Library","role":"TEXT","sort_order":130,"story_id":"story.greek.artemis_library","story_version_id":"storyver.greek.library_artemis"}
 {"entity_id":"deity.greek.demeter","notes":"Derived from an explicitly linked story claim subject.","role":"CHARACTER","sort_order":10,"story_id":"story.greek.demeter_persephone","story_version_id":"storyver.greek.demeter_hymn2"}
 {"entity_id":"hero.greek.triptolemos","notes":"Derived from an explicitly linked story claim subject.","role":"CHARACTER","sort_order":10,"story_id":"story.greek.demeter_persephone","story_version_id":"storyver.greek.demeter_hymn2"}
 {"entity_id":"deity.greek.hecate","notes":"Derived from an explicitly linked story claim subject.","role":"CHARACTER","sort_order":10,"story_id":"story.greek.demeter_persephone","story_version_id":"storyver.greek.demeter_hymn2"}
@@ -296,6 +355,16 @@
 {"entity_id":"hero.greek.triptolemos","notes":"Taught the rites","role":"CHARACTER","sort_order":90,"story_id":"story.greek.demeter_persephone","story_version_id":"storyver.greek.demeter_hymn2_long"}
 {"entity_id":"event.greek.persephone_abduction","notes":"Abduction","role":"EVENT","sort_order":100,"story_id":"story.greek.demeter_persephone","story_version_id":"storyver.greek.demeter_hymn2_long"}
 {"entity_id":"text.greek.homeric_hymn_demeter","notes":"Hymn","role":"TEXT","sort_order":110,"story_id":"story.greek.demeter_persephone","story_version_id":"storyver.greek.demeter_hymn2_long"}
+{"entity_id":"deity.greek.semele","notes":"Mother","role":"CHARACTER","sort_order":10,"story_id":"story.greek.dionysus_library","story_version_id":"storyver.greek.library_3_4_3_5_dionysus"}
+{"entity_id":"deity.greek.dionysus","notes":"God of wine","role":"CHARACTER","sort_order":20,"story_id":"story.greek.dionysus_library","story_version_id":"storyver.greek.library_3_4_3_5_dionysus"}
+{"entity_id":"deity.greek.zeus","notes":"Father","role":"CHARACTER","sort_order":30,"story_id":"story.greek.dionysus_library","story_version_id":"storyver.greek.library_3_4_3_5_dionysus"}
+{"entity_id":"deity.greek.hera","notes":"Jealous queen","role":"CHARACTER","sort_order":40,"story_id":"story.greek.dionysus_library","story_version_id":"storyver.greek.library_3_4_3_5_dionysus"}
+{"entity_id":"deity.greek.hermes","notes":"Carries the child","role":"CHARACTER","sort_order":50,"story_id":"story.greek.dionysus_library","story_version_id":"storyver.greek.library_3_4_3_5_dionysus"}
+{"entity_id":"deity.greek.rhea","notes":"Purifies Dionysus","role":"CHARACTER","sort_order":60,"story_id":"story.greek.dionysus_library","story_version_id":"storyver.greek.library_3_4_3_5_dionysus"}
+{"entity_id":"person.greek.lycurgus_edonian","notes":"Thracian king","role":"CHARACTER","sort_order":70,"story_id":"story.greek.dionysus_library","story_version_id":"storyver.greek.library_3_4_3_5_dionysus"}
+{"entity_id":"hero.greek.pentheus","notes":"Theban king","role":"CHARACTER","sort_order":80,"story_id":"story.greek.dionysus_library","story_version_id":"storyver.greek.library_3_4_3_5_dionysus"}
+{"entity_id":"person.greek.icarius_attica","notes":"Athenian host","role":"CHARACTER","sort_order":90,"story_id":"story.greek.dionysus_library","story_version_id":"storyver.greek.library_3_4_3_5_dionysus"}
+{"entity_id":"text.greek.apollodorus_library","notes":"Library","role":"TEXT","sort_order":100,"story_id":"story.greek.dionysus_library","story_version_id":"storyver.greek.library_3_4_3_5_dionysus"}
 {"entity_id":"festival.greek.great_eleusinia","notes":"Public festival/procession layer.","role":"EVENT","sort_order":1,"story_id":"story.greek.eleusinia_procession","story_version_id":"storyver.greek.eleusinia_acropolis"}
 {"entity_id":"ritual.greek.eleusinian_mysteries","notes":"Boundary marker; secret contents excluded.","role":"CONTEXT","sort_order":2,"story_id":"story.greek.eleusinia_procession","story_version_id":"storyver.greek.eleusinia_acropolis"}
 {"entity_id":"site.greece.eleusinion_athens","notes":"Public Athens setting.","role":"PLACE","sort_order":10,"story_id":"story.greek.eleusinia_procession","story_version_id":"storyver.greek.eleusinia_acropolis"}
@@ -339,6 +408,34 @@
 {"entity_id":"deity.greek.prometheus","notes":"Freed","role":"CHARACTER","sort_order":110,"story_id":"story.greek.heracles_far_labours","story_version_id":"storyver.greek.library_2_5_heracles_2"}
 {"entity_id":"creature.greek.cerberus","notes":"Twelfth labour","role":"CHARACTER","sort_order":120,"story_id":"story.greek.heracles_far_labours","story_version_id":"storyver.greek.library_2_5_heracles_2"}
 {"entity_id":"deity.greek.helios","notes":"Lends his goblet","role":"CHARACTER","sort_order":130,"story_id":"story.greek.heracles_far_labours","story_version_id":"storyver.greek.library_2_5_heracles_2"}
+{"entity_id":"deity.greek.aphrodite","notes":"Goddess of the hymn","role":"CHARACTER","sort_order":10,"story_id":"story.greek.hymn_aphrodite","story_version_id":"storyver.greek.hymn5_aphrodite_evelyn_white"}
+{"entity_id":"deity.greek.athena","notes":"Unbent by Aphrodite","role":"CHARACTER","sort_order":20,"story_id":"story.greek.hymn_aphrodite","story_version_id":"storyver.greek.hymn5_aphrodite_evelyn_white"}
+{"entity_id":"deity.greek.artemis","notes":"Unbent by Aphrodite","role":"CHARACTER","sort_order":30,"story_id":"story.greek.hymn_aphrodite","story_version_id":"storyver.greek.hymn5_aphrodite_evelyn_white"}
+{"entity_id":"deity.greek.hestia","notes":"Unbent by Aphrodite","role":"CHARACTER","sort_order":40,"story_id":"story.greek.hymn_aphrodite","story_version_id":"storyver.greek.hymn5_aphrodite_evelyn_white"}
+{"entity_id":"deity.greek.zeus","notes":"Father of gods","role":"CHARACTER","sort_order":50,"story_id":"story.greek.hymn_aphrodite","story_version_id":"storyver.greek.hymn5_aphrodite_evelyn_white"}
+{"entity_id":"hero.greek.anchises","notes":"Trojan herdsman","role":"CHARACTER","sort_order":60,"story_id":"story.greek.hymn_aphrodite","story_version_id":"storyver.greek.hymn5_aphrodite_evelyn_white"}
+{"entity_id":"hero.greek.aeneas","notes":"Son foretold","role":"CHARACTER","sort_order":70,"story_id":"story.greek.hymn_aphrodite","story_version_id":"storyver.greek.hymn5_aphrodite_evelyn_white"}
+{"entity_id":"hero.greek.ganymede","notes":"Example of Zeus's favour","role":"CHARACTER","sort_order":80,"story_id":"story.greek.hymn_aphrodite","story_version_id":"storyver.greek.hymn5_aphrodite_evelyn_white"}
+{"entity_id":"deity.greek.eos","notes":"Dawn","role":"CHARACTER","sort_order":90,"story_id":"story.greek.hymn_aphrodite","story_version_id":"storyver.greek.hymn5_aphrodite_evelyn_white"}
+{"entity_id":"hero.greek.tithonus","notes":"Eos's beloved","role":"CHARACTER","sort_order":100,"story_id":"story.greek.hymn_aphrodite","story_version_id":"storyver.greek.hymn5_aphrodite_evelyn_white"}
+{"entity_id":"text.greek.homeric_hymn_aphrodite_5","notes":"Hymn to Aphrodite","role":"TEXT","sort_order":110,"story_id":"story.greek.hymn_aphrodite","story_version_id":"storyver.greek.hymn5_aphrodite_evelyn_white"}
+{"entity_id":"deity.greek.leto","notes":"Mother","role":"CHARACTER","sort_order":10,"story_id":"story.greek.hymn_apollo","story_version_id":"storyver.greek.hymn3_apollo_evelyn_white"}
+{"entity_id":"deity.greek.apollo","notes":"Hero of the hymn","role":"CHARACTER","sort_order":20,"story_id":"story.greek.hymn_apollo","story_version_id":"storyver.greek.hymn3_apollo_evelyn_white"}
+{"entity_id":"deity.greek.artemis","notes":"Sister","role":"CHARACTER","sort_order":30,"story_id":"story.greek.hymn_apollo","story_version_id":"storyver.greek.hymn3_apollo_evelyn_white"}
+{"entity_id":"deity.greek.zeus","notes":"Father","role":"CHARACTER","sort_order":40,"story_id":"story.greek.hymn_apollo","story_version_id":"storyver.greek.hymn3_apollo_evelyn_white"}
+{"entity_id":"deity.greek.hera","notes":"Jealous queen","role":"CHARACTER","sort_order":50,"story_id":"story.greek.hymn_apollo","story_version_id":"storyver.greek.hymn3_apollo_evelyn_white"}
+{"entity_id":"deity.greek.eileithyia","notes":"Birth goddess","role":"CHARACTER","sort_order":60,"story_id":"story.greek.hymn_apollo","story_version_id":"storyver.greek.hymn3_apollo_evelyn_white"}
+{"entity_id":"deity.greek.iris","notes":"Messenger","role":"CHARACTER","sort_order":70,"story_id":"story.greek.hymn_apollo","story_version_id":"storyver.greek.hymn3_apollo_evelyn_white"}
+{"entity_id":"creature.greek.delphic_drakaina","notes":"She-dragon","role":"CHARACTER","sort_order":80,"story_id":"story.greek.hymn_apollo","story_version_id":"storyver.greek.hymn3_apollo_evelyn_white"}
+{"entity_id":"creature.greek.typhon","notes":"Typhaon","role":"CHARACTER","sort_order":90,"story_id":"story.greek.hymn_apollo","story_version_id":"storyver.greek.hymn3_apollo_evelyn_white"}
+{"entity_id":"site.greece.delos","notes":"Birthplace","role":"PLACE","sort_order":100,"story_id":"story.greek.hymn_apollo","story_version_id":"storyver.greek.hymn3_apollo_evelyn_white"}
+{"entity_id":"site.greece.delphi","notes":"Pytho","role":"PLACE","sort_order":110,"story_id":"story.greek.hymn_apollo","story_version_id":"storyver.greek.hymn3_apollo_evelyn_white"}
+{"entity_id":"text.greek.homeric_hymn_apollo_3","notes":"Hymn to Apollo","role":"TEXT","sort_order":120,"story_id":"story.greek.hymn_apollo","story_version_id":"storyver.greek.hymn3_apollo_evelyn_white"}
+{"entity_id":"deity.greek.maia","notes":"Mother","role":"CHARACTER","sort_order":10,"story_id":"story.greek.hymn_hermes","story_version_id":"storyver.greek.hymn4_hermes_evelyn_white"}
+{"entity_id":"deity.greek.hermes","notes":"Hero of the hymn","role":"CHARACTER","sort_order":20,"story_id":"story.greek.hymn_hermes","story_version_id":"storyver.greek.hymn4_hermes_evelyn_white"}
+{"entity_id":"deity.greek.apollo","notes":"Brother","role":"CHARACTER","sort_order":30,"story_id":"story.greek.hymn_hermes","story_version_id":"storyver.greek.hymn4_hermes_evelyn_white"}
+{"entity_id":"deity.greek.zeus","notes":"Father","role":"CHARACTER","sort_order":40,"story_id":"story.greek.hymn_hermes","story_version_id":"storyver.greek.hymn4_hermes_evelyn_white"}
+{"entity_id":"text.greek.homeric_hymn_hermes_4","notes":"Hymn to Hermes","role":"TEXT","sort_order":50,"story_id":"story.greek.hymn_hermes","story_version_id":"storyver.greek.hymn4_hermes_evelyn_white"}
 {"entity_id":"deity.greek.perses_helios","notes":"Derived from an explicitly linked story claim subject.","role":"CHARACTER","sort_order":10,"story_id":"story.greek.medea_restoration","story_version_id":"storyver.greek.medea_library"}
 {"entity_id":"hero.greek.medea","notes":"Derived from an explicitly linked story claim subject.","role":"CHARACTER","sort_order":10,"story_id":"story.greek.medea_restoration","story_version_id":"storyver.greek.medea_library"}
 {"entity_id":"hero.greek.aeetes","notes":"Derived from an explicitly linked story claim subject.","role":"CHARACTER","sort_order":10,"story_id":"story.greek.medea_restoration","story_version_id":"storyver.greek.medea_library"}
@@ -409,6 +506,34 @@
 {"entity_id":"deity.greek.zeus","notes":"Derived from an explicitly linked story claim subject.","role":"CHARACTER","sort_order":10,"story_id":"story.greek.titanomachy","story_version_id":"storyver.greek.titanomachy_theogony"}
 {"entity_id":"deity.greek.cronus","notes":"Derived from an explicitly linked story claim subject.","role":"CHARACTER","sort_order":10,"story_id":"story.greek.titanomachy","story_version_id":"storyver.greek.titanomachy_theogony"}
 {"entity_id":"text.greek.theogony","notes":"Derived from an explicitly linked story claim object.","role":"RELATED","sort_order":20,"story_id":"story.greek.titanomachy","story_version_id":"storyver.greek.titanomachy_theogony"}
+{"entity_id":"deity.greek.chaos","notes":"First of all","role":"CHARACTER","sort_order":10,"story_id":"story.greek.titans_children","story_version_id":"storyver.greek.theogony_titans_children"}
+{"entity_id":"deity.greek.erebus","notes":"Darkness","role":"CHARACTER","sort_order":20,"story_id":"story.greek.titans_children","story_version_id":"storyver.greek.theogony_titans_children"}
+{"entity_id":"deity.greek.nyx","notes":"Night","role":"CHARACTER","sort_order":30,"story_id":"story.greek.titans_children","story_version_id":"storyver.greek.theogony_titans_children"}
+{"entity_id":"deity.greek.aether","notes":"Upper air","role":"CHARACTER","sort_order":40,"story_id":"story.greek.titans_children","story_version_id":"storyver.greek.theogony_titans_children"}
+{"entity_id":"deity.greek.hemera","notes":"Day","role":"CHARACTER","sort_order":50,"story_id":"story.greek.titans_children","story_version_id":"storyver.greek.theogony_titans_children"}
+{"entity_id":"deity.greek.uranus","notes":"Heaven","role":"CHARACTER","sort_order":60,"story_id":"story.greek.titans_children","story_version_id":"storyver.greek.theogony_titans_children"}
+{"entity_id":"deity.greek.gaia","notes":"Earth","role":"CHARACTER","sort_order":70,"story_id":"story.greek.titans_children","story_version_id":"storyver.greek.theogony_titans_children"}
+{"entity_id":"deity.greek.crius","notes":"Titan","role":"CHARACTER","sort_order":80,"story_id":"story.greek.titans_children","story_version_id":"storyver.greek.theogony_titans_children"}
+{"entity_id":"deity.greek.theia","notes":"Titaness","role":"CHARACTER","sort_order":90,"story_id":"story.greek.titans_children","story_version_id":"storyver.greek.theogony_titans_children"}
+{"entity_id":"deity.greek.hyperion","notes":"Titan","role":"CHARACTER","sort_order":100,"story_id":"story.greek.titans_children","story_version_id":"storyver.greek.theogony_titans_children"}
+{"entity_id":"deity.greek.hypnos","notes":"Sleep","role":"CHARACTER","sort_order":110,"story_id":"story.greek.titans_children","story_version_id":"storyver.greek.theogony_titans_children"}
+{"entity_id":"deity.greek.thanatos","notes":"Death","role":"CHARACTER","sort_order":120,"story_id":"story.greek.titans_children","story_version_id":"storyver.greek.theogony_titans_children"}
+{"entity_id":"deity.greek.pontus","notes":"Sea","role":"CHARACTER","sort_order":130,"story_id":"story.greek.titans_children","story_version_id":"storyver.greek.theogony_titans_children"}
+{"entity_id":"deity.greek.eurybia","notes":"Daughter of Sea and Earth","role":"CHARACTER","sort_order":140,"story_id":"story.greek.titans_children","story_version_id":"storyver.greek.theogony_titans_children"}
+{"entity_id":"deity.greek.helios","notes":"Sun","role":"CHARACTER","sort_order":150,"story_id":"story.greek.titans_children","story_version_id":"storyver.greek.theogony_titans_children"}
+{"entity_id":"deity.greek.selene","notes":"Moon","role":"CHARACTER","sort_order":160,"story_id":"story.greek.titans_children","story_version_id":"storyver.greek.theogony_titans_children"}
+{"entity_id":"deity.greek.eos","notes":"Dawn","role":"CHARACTER","sort_order":170,"story_id":"story.greek.titans_children","story_version_id":"storyver.greek.theogony_titans_children"}
+{"entity_id":"deity.greek.astraeus","notes":"Father of winds and stars","role":"CHARACTER","sort_order":180,"story_id":"story.greek.titans_children","story_version_id":"storyver.greek.theogony_titans_children"}
+{"entity_id":"deity.greek.pallas_titan","notes":"Titan","role":"CHARACTER","sort_order":190,"story_id":"story.greek.titans_children","story_version_id":"storyver.greek.theogony_titans_children"}
+{"entity_id":"deity.greek.styx","notes":"Oath of the gods","role":"CHARACTER","sort_order":200,"story_id":"story.greek.titans_children","story_version_id":"storyver.greek.theogony_titans_children"}
+{"entity_id":"deity.greek.zeus","notes":"King of the gods","role":"CHARACTER","sort_order":210,"story_id":"story.greek.titans_children","story_version_id":"storyver.greek.theogony_titans_children"}
+{"entity_id":"deity.greek.phoebe","notes":"Titaness","role":"CHARACTER","sort_order":220,"story_id":"story.greek.titans_children","story_version_id":"storyver.greek.theogony_titans_children"}
+{"entity_id":"deity.greek.leto","notes":"Daughter of Phoebe","role":"CHARACTER","sort_order":230,"story_id":"story.greek.titans_children","story_version_id":"storyver.greek.theogony_titans_children"}
+{"entity_id":"deity.greek.asteria","notes":"Daughter of Phoebe","role":"CHARACTER","sort_order":240,"story_id":"story.greek.titans_children","story_version_id":"storyver.greek.theogony_titans_children"}
+{"entity_id":"deity.greek.perses","notes":"Son of Crius","role":"CHARACTER","sort_order":250,"story_id":"story.greek.titans_children","story_version_id":"storyver.greek.theogony_titans_children"}
+{"entity_id":"deity.greek.hecate","notes":"Daughter of Asteria and Perses","role":"CHARACTER","sort_order":260,"story_id":"story.greek.titans_children","story_version_id":"storyver.greek.theogony_titans_children"}
+{"entity_id":"hero.greek.tithonus","notes":"Husband of Eos","role":"CHARACTER","sort_order":270,"story_id":"story.greek.titans_children","story_version_id":"storyver.greek.theogony_titans_children"}
+{"entity_id":"text.greek.theogony","notes":"Theogony","role":"TEXT","sort_order":280,"story_id":"story.greek.titans_children","story_version_id":"storyver.greek.theogony_titans_children"}
 {"entity_id":"creature.greek.typhon","notes":"Derived from an explicitly linked story claim subject.","role":"CHARACTER","sort_order":10,"story_id":"story.greek.zeus_typhon","story_version_id":"storyver.greek.typhon_theogony"}
 {"entity_id":"deity.greek.zeus","notes":"Derived from an explicitly linked story claim subject.","role":"CHARACTER","sort_order":10,"story_id":"story.greek.zeus_typhon","story_version_id":"storyver.greek.typhon_theogony"}
 {"entity_id":"deity.greek.gaia","notes":"Derived from an explicitly linked story claim object.","role":"CHARACTER","sort_order":20,"story_id":"story.greek.zeus_typhon","story_version_id":"storyver.greek.typhon_theogony"}
@@ -738,6 +863,22 @@
 {"entity_id":"artifact.norse.draupnir","notes":"Derived from an explicitly linked story claim object.","role":"RELATED","sort_order":20,"story_id":"story.norse.forging_treasures","story_version_id":"storyver.norse.forging_skald"}
 {"entity_id":"creature.norse.gullinbursti","notes":"Derived from an explicitly linked story claim object.","role":"RELATED","sort_order":20,"story_id":"story.norse.forging_treasures","story_version_id":"storyver.norse.forging_skald"}
 {"entity_id":"event.norse.forging_divine_treasures","notes":"Derived from an explicitly linked story claim object.","role":"EVENT","sort_order":20,"story_id":"story.norse.forging_treasures","story_version_id":"storyver.norse.forging_skald"}
+{"entity_id":"deity.norse.sif","notes":"Wife of Thor","role":"CHARACTER","sort_order":10,"story_id":"story.norse.forging_treasures","story_version_id":"storyver.norse.skald_35_sif_long"}
+{"entity_id":"deity.norse.ullr","notes":"Son of Sif","role":"CHARACTER","sort_order":20,"story_id":"story.norse.forging_treasures","story_version_id":"storyver.norse.skald_35_sif_long"}
+{"entity_id":"deity.norse.thor","notes":"Husband of Sif","role":"CHARACTER","sort_order":30,"story_id":"story.norse.forging_treasures","story_version_id":"storyver.norse.skald_35_sif_long"}
+{"entity_id":"deity.norse.loki","notes":"Cuts Sif's hair","role":"CHARACTER","sort_order":40,"story_id":"story.norse.forging_treasures","story_version_id":"storyver.norse.skald_35_sif_long"}
+{"entity_id":"being.norse.sons_of_ivaldi","notes":"Dwarf smiths","role":"CHARACTER","sort_order":50,"story_id":"story.norse.forging_treasures","story_version_id":"storyver.norse.skald_35_sif_long"}
+{"entity_id":"being.norse.brokkr","notes":"Dwarf","role":"CHARACTER","sort_order":60,"story_id":"story.norse.forging_treasures","story_version_id":"storyver.norse.skald_35_sif_long"}
+{"entity_id":"being.norse.eitri","notes":"Dwarf smith","role":"CHARACTER","sort_order":70,"story_id":"story.norse.forging_treasures","story_version_id":"storyver.norse.skald_35_sif_long"}
+{"entity_id":"deity.norse.odin","notes":"Judge","role":"CHARACTER","sort_order":80,"story_id":"story.norse.forging_treasures","story_version_id":"storyver.norse.skald_35_sif_long"}
+{"entity_id":"deity.norse.freyr","notes":"Judge","role":"CHARACTER","sort_order":90,"story_id":"story.norse.forging_treasures","story_version_id":"storyver.norse.skald_35_sif_long"}
+{"entity_id":"artifact.norse.skidbladnir","notes":"Ship","role":"ARTIFACT","sort_order":100,"story_id":"story.norse.forging_treasures","story_version_id":"storyver.norse.skald_35_sif_long"}
+{"entity_id":"weapon.norse.gungnir","notes":"Spear","role":"ARTIFACT","sort_order":110,"story_id":"story.norse.forging_treasures","story_version_id":"storyver.norse.skald_35_sif_long"}
+{"entity_id":"creature.norse.gullinbursti","notes":"Golden boar","role":"ARTIFACT","sort_order":120,"story_id":"story.norse.forging_treasures","story_version_id":"storyver.norse.skald_35_sif_long"}
+{"entity_id":"artifact.norse.draupnir","notes":"Ring","role":"ARTIFACT","sort_order":130,"story_id":"story.norse.forging_treasures","story_version_id":"storyver.norse.skald_35_sif_long"}
+{"entity_id":"weapon.norse.mjolnir","notes":"Hammer","role":"ARTIFACT","sort_order":140,"story_id":"story.norse.forging_treasures","story_version_id":"storyver.norse.skald_35_sif_long"}
+{"entity_id":"event.norse.forging_divine_treasures","notes":"Forging of the treasures","role":"EVENT","sort_order":150,"story_id":"story.norse.forging_treasures","story_version_id":"storyver.norse.skald_35_sif_long"}
+{"entity_id":"text.norse.skaldskaparmal","notes":"Skáldskaparmál","role":"TEXT","sort_order":160,"story_id":"story.norse.forging_treasures","story_version_id":"storyver.norse.skald_35_sif_long"}
 {"entity_id":"deity.norse.frigg","notes":"Mother","role":"CHARACTER","sort_order":10,"story_id":"story.norse.frigg_baldr","story_version_id":"storyver.norse.frigg_gylf"}
 {"entity_id":"deity.norse.baldr","notes":"Son","role":"CHARACTER","sort_order":20,"story_id":"story.norse.frigg_baldr","story_version_id":"storyver.norse.frigg_gylf"}
 {"entity_id":"deity.norse.odin","notes":"Husband","role":"CHARACTER","sort_order":30,"story_id":"story.norse.frigg_baldr","story_version_id":"storyver.norse.frigg_gylf"}
@@ -784,6 +925,18 @@
 {"entity_id":"deity.norse.baldr","notes":"Returns","role":"CHARACTER","sort_order":140,"story_id":"story.norse.ragnarok","story_version_id":"storyver.norse.ragnarok_gylf_long"}
 {"entity_id":"deity.norse.hodr","notes":"Returns","role":"CHARACTER","sort_order":150,"story_id":"story.norse.ragnarok","story_version_id":"storyver.norse.ragnarok_gylf_long"}
 {"entity_id":"artifact.norse.gjallarhorn","notes":"Horn","role":"ARTIFACT","sort_order":160,"story_id":"story.norse.ragnarok","story_version_id":"storyver.norse.ragnarok_gylf_long"}
+{"entity_id":"deity.norse.thor","notes":"Thunder god","role":"CHARACTER","sort_order":10,"story_id":"story.norse.thor_hrungnir","story_version_id":"storyver.norse.skald_17_hrungnir"}
+{"entity_id":"giant.norse.hrungnir","notes":"Stone-hearted giant","role":"CHARACTER","sort_order":20,"story_id":"story.norse.thor_hrungnir","story_version_id":"storyver.norse.skald_17_hrungnir"}
+{"entity_id":"deity.norse.odin","notes":"Rider of Sleipnir","role":"CHARACTER","sort_order":30,"story_id":"story.norse.thor_hrungnir","story_version_id":"storyver.norse.skald_17_hrungnir"}
+{"entity_id":"creature.norse.sleipnir","notes":"Odin's horse","role":"CHARACTER","sort_order":40,"story_id":"story.norse.thor_hrungnir","story_version_id":"storyver.norse.skald_17_hrungnir"}
+{"entity_id":"deity.norse.freyja","notes":"Serves the giant","role":"CHARACTER","sort_order":50,"story_id":"story.norse.thor_hrungnir","story_version_id":"storyver.norse.skald_17_hrungnir"}
+{"entity_id":"deity.norse.sif","notes":"Threatened by the giant","role":"CHARACTER","sort_order":60,"story_id":"story.norse.thor_hrungnir","story_version_id":"storyver.norse.skald_17_hrungnir"}
+{"entity_id":"hero.norse.thjalfi","notes":"Thor's servant","role":"CHARACTER","sort_order":70,"story_id":"story.norse.thor_hrungnir","story_version_id":"storyver.norse.skald_17_hrungnir"}
+{"entity_id":"giant.norse.mokkurkalfi","notes":"Clay giant","role":"CHARACTER","sort_order":80,"story_id":"story.norse.thor_hrungnir","story_version_id":"storyver.norse.skald_17_hrungnir"}
+{"entity_id":"deity.norse.magni","notes":"Son of Thor","role":"CHARACTER","sort_order":90,"story_id":"story.norse.thor_hrungnir","story_version_id":"storyver.norse.skald_17_hrungnir"}
+{"entity_id":"being.norse.jarnsaxa","notes":"Mother of Magni","role":"CHARACTER","sort_order":100,"story_id":"story.norse.thor_hrungnir","story_version_id":"storyver.norse.skald_17_hrungnir"}
+{"entity_id":"weapon.norse.mjolnir","notes":"Hammer","role":"ARTIFACT","sort_order":110,"story_id":"story.norse.thor_hrungnir","story_version_id":"storyver.norse.skald_17_hrungnir"}
+{"entity_id":"text.norse.skaldskaparmal","notes":"Skáldskaparmál","role":"TEXT","sort_order":120,"story_id":"story.norse.thor_hrungnir","story_version_id":"storyver.norse.skald_17_hrungnir"}
 {"entity_id":"deity.norse.thor","notes":"Hero","role":"CHARACTER","sort_order":10,"story_id":"story.norse.thor_utgarda_loki","story_version_id":"storyver.norse.utgard_gylf"}
 {"entity_id":"deity.norse.loki","notes":"Companion","role":"CHARACTER","sort_order":20,"story_id":"story.norse.thor_utgarda_loki","story_version_id":"storyver.norse.utgard_gylf"}
 {"entity_id":"hero.norse.thjalfi","notes":"Servant","role":"CHARACTER","sort_order":30,"story_id":"story.norse.thor_utgarda_loki","story_version_id":"storyver.norse.utgard_gylf"}
@@ -830,6 +983,22 @@
 {"entity_id":"being.norse.ymir","notes":"Primordial giant","role":"CHARACTER","sort_order":10,"story_id":"story.norse.ymir_world","story_version_id":"storyver.norse.ymir_gylf"}
 {"entity_id":"deity.norse.odin","notes":"Slayer","role":"CHARACTER","sort_order":20,"story_id":"story.norse.ymir_world","story_version_id":"storyver.norse.ymir_gylf"}
 {"entity_id":"event.norse.slaying_of_ymir","notes":"World-making","role":"EVENT","sort_order":30,"story_id":"story.norse.ymir_world","story_version_id":"storyver.norse.ymir_gylf"}
+{"entity_id":"concept.norse.fire_ice_cosmogony","notes":"Fire and ice","role":"RELATED","sort_order":10,"story_id":"story.norse.ymir_world","story_version_id":"storyver.norse.gylf_4_12_creation_long"}
+{"entity_id":"creature.norse.surtr","notes":"Guardian of Muspell","role":"CHARACTER","sort_order":20,"story_id":"story.norse.ymir_world","story_version_id":"storyver.norse.gylf_4_12_creation_long"}
+{"entity_id":"being.norse.ymir","notes":"First giant","role":"CHARACTER","sort_order":30,"story_id":"story.norse.ymir_world","story_version_id":"storyver.norse.gylf_4_12_creation_long"}
+{"entity_id":"creature.norse.audhumla","notes":"Primeval cow","role":"CHARACTER","sort_order":40,"story_id":"story.norse.ymir_world","story_version_id":"storyver.norse.gylf_4_12_creation_long"}
+{"entity_id":"deity.norse.buri","notes":"Licked from the ice","role":"CHARACTER","sort_order":50,"story_id":"story.norse.ymir_world","story_version_id":"storyver.norse.gylf_4_12_creation_long"}
+{"entity_id":"deity.norse.borr","notes":"Son of Búri","role":"CHARACTER","sort_order":60,"story_id":"story.norse.ymir_world","story_version_id":"storyver.norse.gylf_4_12_creation_long"}
+{"entity_id":"being.norse.bestla","notes":"Wife of Borr","role":"CHARACTER","sort_order":70,"story_id":"story.norse.ymir_world","story_version_id":"storyver.norse.gylf_4_12_creation_long"}
+{"entity_id":"deity.norse.odin","notes":"Son of Borr","role":"CHARACTER","sort_order":80,"story_id":"story.norse.ymir_world","story_version_id":"storyver.norse.gylf_4_12_creation_long"}
+{"entity_id":"deity.norse.vili","notes":"Son of Borr","role":"CHARACTER","sort_order":90,"story_id":"story.norse.ymir_world","story_version_id":"storyver.norse.gylf_4_12_creation_long"}
+{"entity_id":"deity.norse.ve","notes":"Son of Borr","role":"CHARACTER","sort_order":100,"story_id":"story.norse.ymir_world","story_version_id":"storyver.norse.gylf_4_12_creation_long"}
+{"entity_id":"person.norse.ask","notes":"First man","role":"CHARACTER","sort_order":110,"story_id":"story.norse.ymir_world","story_version_id":"storyver.norse.gylf_4_12_creation_long"}
+{"entity_id":"person.norse.embla","notes":"First woman","role":"CHARACTER","sort_order":120,"story_id":"story.norse.ymir_world","story_version_id":"storyver.norse.gylf_4_12_creation_long"}
+{"entity_id":"deity.norse.jord","notes":"Earth, mother of Thor","role":"CHARACTER","sort_order":130,"story_id":"story.norse.ymir_world","story_version_id":"storyver.norse.gylf_4_12_creation_long"}
+{"entity_id":"deity.norse.thor","notes":"Son of Jörð","role":"CHARACTER","sort_order":140,"story_id":"story.norse.ymir_world","story_version_id":"storyver.norse.gylf_4_12_creation_long"}
+{"entity_id":"event.norse.slaying_of_ymir","notes":"Slaying of Ymir","role":"EVENT","sort_order":150,"story_id":"story.norse.ymir_world","story_version_id":"storyver.norse.gylf_4_12_creation_long"}
+{"entity_id":"text.norse.gylfaginning","notes":"Gylfaginning","role":"TEXT","sort_order":160,"story_id":"story.norse.ymir_world","story_version_id":"storyver.norse.gylf_4_12_creation_long"}
 {"entity_id":"person.persian.kay_kavus","notes":"Shah","role":"CHARACTER","sort_order":10,"story_id":"story.persian.rostam_seven_labours","story_version_id":"storyver.persian.zimmern_mazinderan"}
 {"entity_id":"hero.persian.zal","notes":"Counsellor","role":"CHARACTER","sort_order":20,"story_id":"story.persian.rostam_seven_labours","story_version_id":"storyver.persian.zimmern_mazinderan"}
 {"entity_id":"hero.persian.rostam","notes":"Hero","role":"CHARACTER","sort_order":30,"story_id":"story.persian.rostam_seven_labours","story_version_id":"storyver.persian.zimmern_mazinderan"}
@@ -870,6 +1039,10 @@
 {"entity_id":"monster.sumerian.huwawa","notes":"Guardian","role":"CHARACTER","sort_order":30,"story_id":"story.sumerian.gilgamesh_huwawa_utu","story_version_id":"storyver.sumerian.gilgamesh_huwawa_etcsl"}
 {"entity_id":"event.sumerian.gilgamesh_huwawa","notes":"Expedition","role":"EVENT","sort_order":40,"story_id":"story.sumerian.gilgamesh_huwawa_utu","story_version_id":"storyver.sumerian.gilgamesh_huwawa_etcsl"}
 {"entity_id":"text.mesopotamia.gilgamesh","notes":"Later epic, kept separate","role":"RELATED","sort_order":50,"story_id":"story.sumerian.gilgamesh_huwawa_utu","story_version_id":"storyver.sumerian.gilgamesh_huwawa_etcsl"}
+{"entity_id":"deity.sumerian.inanna","notes":"Goddess of battle","role":"CHARACTER","sort_order":10,"story_id":"story.sumerian.inana_ebih","story_version_id":"storyver.sumerian.inana_ebih_etcsl"}
+{"entity_id":"deity.sumerian.an","notes":"Father in heaven","role":"CHARACTER","sort_order":20,"story_id":"story.sumerian.inana_ebih","story_version_id":"storyver.sumerian.inana_ebih_etcsl"}
+{"entity_id":"place.sumerian.ebih","notes":"The defiant mountain","role":"PLACE","sort_order":30,"story_id":"story.sumerian.inana_ebih","story_version_id":"storyver.sumerian.inana_ebih_etcsl"}
+{"entity_id":"text.sumerian.inana_ebih","notes":"Inana and Ebiḫ","role":"TEXT","sort_order":40,"story_id":"story.sumerian.inana_ebih","story_version_id":"storyver.sumerian.inana_ebih_etcsl"}
 {"entity_id":"deity.sumerian.inanna","notes":"Derived from an explicitly linked story claim subject.","role":"CHARACTER","sort_order":10,"story_id":"story.sumerian.inanna_descent","story_version_id":"storyver.sumerian.inanna_etcsl"}
 {"entity_id":"event.sumerian.inanna_descent","notes":"Derived from an explicitly linked story claim object.","role":"EVENT","sort_order":20,"story_id":"story.sumerian.inanna_descent","story_version_id":"storyver.sumerian.inanna_etcsl"}
 {"entity_id":"deity.sumerian.inanna","notes":"Queen of heaven","role":"CHARACTER","sort_order":10,"story_id":"story.sumerian.inanna_descent","story_version_id":"storyver.sumerian.inanna_etcsl_long"}
@@ -890,6 +1063,14 @@
 {"entity_id":"deity.ugaritic.mot","notes":"Derived from an explicitly linked story claim subject.","role":"CHARACTER","sort_order":10,"story_id":"story.ugaritic.baal_mot","story_version_id":"storyver.ugaritic.baal_mot_ktu15_16"}
 {"entity_id":"deity.ugaritic.anat","notes":"Derived from an explicitly linked story claim subject.","role":"CHARACTER","sort_order":10,"story_id":"story.ugaritic.baal_mot","story_version_id":"storyver.ugaritic.baal_mot_ktu15_16"}
 {"entity_id":"event.ugaritic.baal_mot_ktu15_16","notes":"Derived from an explicitly linked story claim subject.","role":"EVENT","sort_order":10,"story_id":"story.ugaritic.baal_mot","story_version_id":"storyver.ugaritic.baal_mot_ktu15_16"}
+{"entity_id":"deity.ugaritic.baal","notes":"Storm god","role":"CHARACTER","sort_order":10,"story_id":"story.ugaritic.baal_palace","story_version_id":"storyver.ugaritic.ktu_1_3_1_4_palace"}
+{"entity_id":"deity.ugaritic.anat","notes":"Warrior goddess","role":"CHARACTER","sort_order":20,"story_id":"story.ugaritic.baal_palace","story_version_id":"storyver.ugaritic.ktu_1_3_1_4_palace"}
+{"entity_id":"deity.ugaritic.el","notes":"Father of the gods","role":"CHARACTER","sort_order":30,"story_id":"story.ugaritic.baal_palace","story_version_id":"storyver.ugaritic.ktu_1_3_1_4_palace"}
+{"entity_id":"deity.ugaritic.asherah","notes":"Athirat, mother of the gods","role":"CHARACTER","sort_order":40,"story_id":"story.ugaritic.baal_palace","story_version_id":"storyver.ugaritic.ktu_1_3_1_4_palace"}
+{"entity_id":"deity.ugaritic.kothar_wa_khasis","notes":"Craftsman god","role":"CHARACTER","sort_order":50,"story_id":"story.ugaritic.baal_palace","story_version_id":"storyver.ugaritic.ktu_1_3_1_4_palace"}
+{"entity_id":"deity.ugaritic.yam","notes":"Sea","role":"CHARACTER","sort_order":60,"story_id":"story.ugaritic.baal_palace","story_version_id":"storyver.ugaritic.ktu_1_3_1_4_palace"}
+{"entity_id":"deity.ugaritic.mot","notes":"Death","role":"CHARACTER","sort_order":70,"story_id":"story.ugaritic.baal_palace","story_version_id":"storyver.ugaritic.ktu_1_3_1_4_palace"}
+{"entity_id":"text.ugaritic.baal_cycle.ktu1_3_1_4","notes":"KTU 1.3–1.4","role":"TEXT","sort_order":80,"story_id":"story.ugaritic.baal_palace","story_version_id":"storyver.ugaritic.ktu_1_3_1_4_palace"}
 {"entity_id":"deity.ugaritic.baal","notes":"Derived from an explicitly linked story claim subject.","role":"CHARACTER","sort_order":10,"story_id":"story.ugaritic.baal_yamm","story_version_id":"storyver.ugaritic.baal_yamm_ktu12"}
 {"entity_id":"deity.ugaritic.yam","notes":"Derived from an explicitly linked story claim subject.","role":"CHARACTER","sort_order":10,"story_id":"story.ugaritic.baal_yamm","story_version_id":"storyver.ugaritic.baal_yamm_ktu12"}
 {"entity_id":"event.ugaritic.baal_yamm_ktu12","notes":"Derived from an explicitly linked story claim subject.","role":"EVENT","sort_order":10,"story_id":"story.ugaritic.baal_yamm","story_version_id":"storyver.ugaritic.baal_yamm_ktu12"}

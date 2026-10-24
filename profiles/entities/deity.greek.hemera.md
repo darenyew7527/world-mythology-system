@@ -22,9 +22,12 @@ Hemera, Day, is born from Nyx through union with Erebus in Theogony 124-125.
 |---|---|---|---:|---:|---|
 | `CHILD_OF` | 厄瑞玻斯 (`deity.greek.erebus`) | VERIFIED / TEXT_SAYS / MYTHIC_NARRATIVE | 1 | 0.99 | stored claim; `claim.v040.hemera.child_erebus` |
 | `CHILD_OF` | 倪克斯 (`deity.greek.nyx`) | VERIFIED / TEXT_SAYS / MYTHIC_NARRATIVE | 1 | 0.99 | stored claim; `claim.v040.hemera.child_nyx` |
+| `SIBLING_OF` | 埃忒耳 (`deity.greek.aether`) | VERIFIED / TEXT_SAYS / MYTHIC_NARRATIVE | 1 | 0.90 | inferred inverse; `claim.v0360.theog_titans.02` |
 
 ## Claims 与证据
 
+- `claim.v0360.theog_titans.13` [VERIFIED / TEXT_SAYS / 0.90] Hesiod, Theogony 744–757, says that near where Atlas holds up heaven, Night and Day greet each other as they pass the great bronze threshold, one going in as the other goes out, so that the house never holds both, Day bringing light to men and Night carrying Sleep.
+  - 来源：[Hesiod, Theogony, Evelyn-White English text](https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0130)；定位：Theogony 744–757
 - `claim.v040.hemera.child_erebus` [VERIFIED / TEXT_SAYS / 0.99] Theogony 124-125 presents Erebus as Hemera’s other parent.
   - 来源：[Hesiod, Theogony, Evelyn-White English text](https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0130)；定位：Theogony 124-125
 - `claim.v040.hemera.child_nyx` [VERIFIED / TEXT_SAYS / 0.99] Theogony 124-125 presents Hemera as a child of Nyx.

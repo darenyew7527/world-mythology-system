@@ -31,5 +31,9 @@
   - 来源：[Papyrus of Ani, frame 3](https://www.britishmuseum.org/collection/object/Y_EA10470-3)；定位：EA10470,3 — museum description of the Hall of Judgment
 - `claim.v0320.plutarch_osiris.01` [VERIFIED / TEXT_SAYS / 0.90] In Plutarch's account Hermes (Thoth) wins a seventieth part of each day's light from the Moon at draughts and composes the five epagomenal days, on which Rhea (Nut) can give birth.
   - 来源：[Plutarch, On Isis and Osiris (tr. F. C. Babbitt, Loeb Moralia V, 1936)](https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Plutarch/Moralia/Isis_and_Osiris*/home.html)；定位：ch. 12
+- `claim.v0360.hatshepsut_birth.03` [VERIFIED / TEXT_SAYS / 0.90] The divine birth cycle at Deir el-Bahari shows Thoth leading Amun to the palace of Queen Ahmose.
+  - 来源：[Divine birth cycle of Hatshepsut, Deir el-Bahari: Thesaurus Linguae Aegyptiae scene texts (after Brunner's numbering)](https://thesaurus-linguae-aegyptiae.de/text/HT6VX6MTDFA23BCFLNEKOTHO2I)；定位：Deir el-Bahari, middle colonnade (north), birth cycle: Thoth leads Amun
+- `claim.v0360.hatshepsut_birth.07` [VERIFIED / TEXT_SAYS / 0.90] The divine birth cycle at Deir el-Bahari shows Thoth coming before Queen Ahmose to announce her dignity and the coming birth, declaring that Amun is satisfied with her.
+  - 来源：[Divine birth cycle of Hatshepsut, Deir el-Bahari: Thesaurus Linguae Aegyptiae scene texts (after Brunner's numbering)](https://thesaurus-linguae-aegyptiae.de/text/HT6VX6MTDFA23BCFLNEKOTHO2I)；定位：Deir el-Bahari, middle colonnade (north), birth cycle: Thoth's announcement to Ahmose
 
 > 本档案只代表当前阶段性基线，不是对该传统的最终或唯一解释。

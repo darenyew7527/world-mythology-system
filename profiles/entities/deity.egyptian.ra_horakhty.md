@@ -32,6 +32,10 @@
 
 ## Claims 与证据
 
+- `claim.v0360.two_brothers.06` [VERIFIED / TEXT_SAYS / 0.90] Papyrus D'Orbiney says that Bata, fleeing, prayed to Pre-Harakhti as the judge of the wrongdoer and the just, and that Re made a great water full of crocodiles appear between the brothers.
+  - 来源：[Papyrus D'Orbiney (the Tale of Two Brothers), British Museum EA 10183](https://www.britishmuseum.org/collection/object/Y_EA10183-2)；定位：Papyrus D'Orbiney (BM EA 10183), the prayer to Pre-Harakhti
+- `claim.v0360.two_brothers.09` [VERIFIED / TEXT_SAYS / 0.90] Papyrus D'Orbiney says that the Ennead, meeting Bata alone in the Valley of the Pine, pitied him, and that Pre-Harakhti told Khnum to fashion a wife for Bata, whom the Seven Hathors foretold would die by the knife.
+  - 来源：[Papyrus D'Orbiney (the Tale of Two Brothers), British Museum EA 10183](https://www.britishmuseum.org/collection/object/Y_EA10183-2)；定位：Papyrus D'Orbiney (BM EA 10183), the Ennead and Khnum
 - `claim.v070.egypt.ra_horakhty_abu_simbel` [VERIFIED / HISTORICAL_REALITY / 0.99] The official Abu Simbel record identifies Ra-Horakhty among the four seated sanctuary figures.
   - 来源：[Abu Simbel](https://egymonuments.gov.eg/archaeological-sites/abu-simbel/)；定位：Sanctuary
 - `claim.v070.egypt.ra_horakhty_component_horus` [VERIFIED / HISTORICAL_REALITY / 0.96] Ra-Horakhty incorporates Horus specifically in the horizon-protector scope described by the registered catalogue.

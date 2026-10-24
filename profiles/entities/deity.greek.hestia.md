@@ -32,6 +32,8 @@ Child of Rhea and Cronus in Hesiod and recipient of first-and-last banquet libat
 
 ## Claims 与证据
 
+- `claim.v0360.hym_aphrodite.03` [VERIFIED / TEXT_SAYS / 0.90] Homeric Hymn 5, lines 21–32, says that Hestia, first and youngest child of Cronos, refused Poseidon and Apollo and swore by Zeus's head to remain a maiden, and that Zeus gave her the centre of every house and honour in all temples.
+  - 来源：[Hesiod, the Homeric Hymns, and Homerica, tr. Hugh G. Evelyn-White (1914)](https://www.gutenberg.org/ebooks/348)；定位：Homeric Hymn 5, lines 21–32
 - `claim.v040.hestia.appears_hymn29` [VERIFIED / TEXT_SAYS / 1.00] Hestia is the principal addressee of Homeric Hymn 29.
   - 来源：[Homeric Hymn 29 to Hestia, Evelyn-White English text](https://scaife.perseus.org/reader/urn%3Acts%3AgreekLit%3Atlg0013.tlg029.perseus-eng2%3A1-14/)；定位：Hymn 29, lines 1-14
 - `claim.v040.hestia.child_cronus` [VERIFIED / TEXT_SAYS / 0.99] Theogony 453-458 presents Hestia among the children of Rhea and Cronus.

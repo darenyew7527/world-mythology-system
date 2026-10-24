@@ -33,6 +33,7 @@
 | `PARENT_OF` | 阿耳忒弥斯 (`deity.greek.artemis`) | VERIFIED / TEXT_SAYS / MYTHIC_NARRATIVE | 1 | 0.99 | inferred inverse; `claim.v050.theogony.artemis_child_zeus` |
 | `PARENT_OF` | 雅典娜 (`deity.greek.athena`) | VERIFIED / TEXT_SAYS / MYTHIC_NARRATIVE | 1 | 0.98 | inferred inverse; `claim.v050.theogony.athena_child_zeus` |
 | `PARENT_OF` | 狄俄倪索斯 (`deity.greek.dionysus`) | VERIFIED / TEXT_SAYS / MYTHIC_NARRATIVE | 1 | 0.99 | inferred inverse; `claim.v050.theogony.dionysus_child_zeus` |
+| `PARENT_OF` | 狄俄倪索斯 (`deity.greek.dionysus`) | VERIFIED / TEXT_SAYS / MYTHIC_NARRATIVE | 1 | 0.90 | inferred inverse; `claim.v0360.lib_dionysus.03` |
 | `PARENT_OF` | 赫尔墨斯 (`deity.greek.hermes`) | VERIFIED / TEXT_SAYS / MYTHIC_NARRATIVE | 1 | 0.99 | inferred inverse; `claim.v050.theogony.hermes_child_zeus` |
 | `PARENT_OF` | 珀耳塞福涅 (`deity.greek.persephone`) | VERIFIED / TEXT_SAYS / MYTHIC_NARRATIVE | 1 | 0.99 | inferred inverse; `claim.v050.theogony.persephone_child_zeus` |
 | `PARTICIPATED_IN` | 宙斯与提丰之战 (`event.greek.zeus_typhon_battle`) | VERIFIED / TEXT_SAYS / MYTHIC_NARRATIVE | 1 | 0.99 | stored claim; `claim.zeus.participated_typhon` |
@@ -57,6 +58,12 @@
   - 来源：[Hesiod, Theogony, Evelyn-White English text](https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0130)；定位：lines 881–929
 - `claim.v0340.heracles_1.02` [VERIFIED / TEXT_SAYS / 0.90] On the night before Amphitryon's return from the Taphian war, Zeus in his likeness lies with Alcmena and makes the night threefold; Alcmena bears Heracles to Zeus and Iphicles to Amphitryon.
   - 来源：[Pseudo-Apollodorus, Library](https://topostext.org/work/150)；定位：Library 2.4.7–2.4.8
+- `claim.v0360.hym_aphrodite.04` [VERIFIED / TEXT_SAYS / 0.90] Homeric Hymn 5, lines 33–55, says that Aphrodite deceives even Zeus into loving mortal women and boasts of it, so Zeus put into her heart desire for the mortal Anchises, who was herding cattle on Ida.
+  - 来源：[Hesiod, the Homeric Hymns, and Homerica, tr. Hugh G. Evelyn-White (1914)](https://www.gutenberg.org/ebooks/348)；定位：Homeric Hymn 5, lines 33–55
+- `claim.v0360.hym_hermes.10` [VERIFIED / TEXT_SAYS / 0.90] Homeric Hymn 4, lines 323–396, says that Apollo accused Hermes before Zeus, that Hermes denied the theft with clever oaths, and that Zeus laughed and ordered the brothers to search together, with Hermes showing where the cattle were hidden.
+  - 来源：[Hesiod, the Homeric Hymns, and Homerica, tr. Hugh G. Evelyn-White (1914)](https://www.gutenberg.org/ebooks/348)；定位：Homeric Hymn 4, lines 323–396
+- `claim.v0360.iliad_ares.09` [VERIFIED / TEXT_SAYS / 0.90] Homer, Iliad 5.864–909, says that the wounded Ares complained to Zeus about Athena, that Zeus called him the most hateful of the gods, who loves only strife and has Hera's unyielding temper, yet had Paeon heal him, after which Hebe bathed him and he sat by Zeus.
+  - 来源：[Homer, The Iliad, rendered into English prose (tr. Samuel Butler, 1898)](https://www.gutenberg.org/ebooks/2199)；定位：Iliad 5.864–909
 - `claim.v050.theogony.zeus_participated_titanomachy` [VERIFIED / TEXT_SAYS / 0.98] Theogony 617-735 makes Zeus a leading participant in the war against the Titans.
   - 来源：[Hesiod, Theogony, Evelyn-White English text](https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0130)；定位：lines 617-735
 - `claim.v060.greek.zeus_thunder_scope` [VERIFIED / TEXT_SAYS / 0.98] Hesiod’s Theogony places thunder, lightning and the thunderbolt among the powers given to Zeus by the Cyclopes.

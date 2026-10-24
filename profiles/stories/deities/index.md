@@ -6,14 +6,14 @@
 |---|---|---:|---:|---:|---:|
 | [Ifá](ifa.md) | Ifá | 1 | 0 | 1 | 0 |
 | [中国上古神话](chinese_ancient.md) | Ancient Chinese | 6 | 6 | 0 | 0 |
-| [中国民间信仰](chinese_folk.md) | Chinese Folk Religion | 10 | 9 | 1 | 0 |
+| [中国民间信仰](chinese_folk.md) | Chinese Folk Religion | 10 | 10 | 0 | 0 |
 | [中国道教](daoist.md) | Chinese Daoist | 1 | 1 | 0 | 0 |
-| [乌加里特](ugaritic.md) | Ugaritic | 8 | 5 | 3 | 0 |
+| [乌加里特](ugaritic.md) | Ugaritic | 8 | 7 | 1 | 0 |
 | [亚述](assyrian.md) | Assyrian | 1 | 0 | 1 | 0 |
-| [北欧](norse.md) | Norse | 31 | 22 | 9 | 0 |
+| [北欧](norse.md) | Norse | 31 | 28 | 3 | 0 |
 | [印度教传统](hindu.md) | Hindu | 13 | 13 | 0 | 0 |
-| [古埃及](egyptian.md) | Ancient Egyptian | 27 | 16 | 11 | 0 |
-| [古希腊](greek.md) | Ancient Greek | 51 | 29 | 22 | 0 |
+| [古埃及](egyptian.md) | Ancient Egyptian | 29 | 23 | 6 | 0 |
+| [古希腊](greek.md) | Ancient Greek | 56 | 56 | 0 | 0 |
 | [吠陀传统](vedic.md) | Vedic | 2 | 2 | 0 | 0 |
 | [墨西卡](mexica.md) | Mexica | 6 | 6 | 0 | 0 |
 | [夏威夷](hawaiian.md) | Hawaiian | 1 | 1 | 0 | 0 |
@@ -28,5 +28,5 @@
 | [琐罗亚斯德传统](zoroastrian.md) | Zoroastrian | 3 | 3 | 0 | 0 |
 | [约鲁巴](yoruba.md) | Yoruba | 4 | 0 | 2 | 2 |
 | [芬兰](finnish.md) | Finnish | 2 | 2 | 0 | 0 |
-| [苏美尔](sumerian.md) | Sumerian | 10 | 9 | 1 | 0 |
+| [苏美尔](sumerian.md) | Sumerian | 10 | 10 | 0 | 0 |
 | [阿卡德](akkadian.md) | Akkadian | 3 | 3 | 0 | 0 |

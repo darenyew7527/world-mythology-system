@@ -37,6 +37,8 @@
   - 来源：[Apollonius Rhodius, The Argonautica (tr. R. C. Seaton, 1912)](https://www.gutenberg.org/ebooks/830)；定位：Book II, the Clashing Rocks
 - `claim.v0340.perseus.11` [VERIFIED / TEXT_SAYS / 0.90] Perseus returns the sandals, wallet and cap through Hermes to the nymphs and gives the Gorgon's head to Athena, who sets it in the middle of her aegis.
   - 来源：[Pseudo-Apollodorus, Library](https://topostext.org/work/150)；定位：Library 2.4.3
+- `claim.v0360.iliad_ares.12` [VERIFIED / TEXT_SAYS / 0.90] Homer, Iliad 21.391–414, says that Ares attacked Athena and struck her aegis, and that Athena felled him with a great boundary stone, so that he covered seven plethra as he lay, while she mocked him with his mother Hera's curses.
+  - 来源：[Homer, The Iliad, rendered into English prose (tr. Samuel Butler, 1898)](https://www.gutenberg.org/ebooks/2199)；定位：Iliad 21.391–414
 - `claim.v050.iliad5.athena_uses_aegis` [VERIFIED / TEXT_SAYS / 0.98] Iliad 5 depicts Athena putting on the tasselled aegis while arming for battle.
   - 来源：[Homer, Iliad](https://scaife.perseus.org/library/urn:cts:greekLit:tlg0012.tlg001/)；定位：Book 5, lines 735-745
 - `claim.v050.theogony.athena_child_zeus` [VERIFIED / TEXT_SAYS / 0.98] Theogony 924-926 describes Athena as produced from Zeus’s head.

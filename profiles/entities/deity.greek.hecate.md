@@ -22,6 +22,7 @@ Daughter of Asteria and Perses who receives extensive honors in Hesiod; a torch-
 |---|---|---|---:|---:|---|
 | `APPEARS_IN` | 《荷马颂歌·致得墨忒耳》 (`text.greek.homeric_hymn_demeter`) | VERIFIED / TEXT_SAYS / TEXTUAL_WITNESS | 1 | 0.99 | stored claim; `claim.v040.hecate.appears_hymn2` |
 | `CHILD_OF` | 阿斯忒里亚 (`deity.greek.asteria`) | VERIFIED / TEXT_SAYS / MYTHIC_NARRATIVE | 1 | 0.99 | inferred inverse; `claim.v040.asteria.parent_hecate` |
+| `CHILD_OF` | 珀耳塞斯（提坦） (`deity.greek.perses`) | VERIFIED / TEXT_SAYS / MYTHIC_NARRATIVE | 1 | 0.90 | stored claim; `claim.v0360.theog_titans.12` |
 | `CHILD_OF` | 珀耳塞斯（提坦） (`deity.greek.perses`) | VERIFIED / TEXT_SAYS / MYTHIC_NARRATIVE | 1 | 0.99 | inferred inverse; `claim.v040.perses.parent_hecate` |
 | `CHILD_OF` | 珀耳塞斯（提坦） (`deity.greek.perses`) | VERIFIED / TEXT_SAYS / MYTHIC_NARRATIVE | 1 | 0.99 | inferred inverse; `claim.v090.perses_parent_hecate_apollodorus` |
 | `MENTIONED_IN` | 神谱 (`text.greek.theogony`) | VERIFIED / TEXT_SAYS / TEXTUAL_WITNESS | 1 | 0.99 | stored claim; `claim.v040.hecate.mentioned_theogony` |
@@ -32,6 +33,8 @@ Daughter of Asteria and Perses who receives extensive honors in Hesiod; a torch-
   - 来源：[Homeric Hymn 2 to Demeter, Evelyn-White English text](https://scaife.perseus.org/reader/urn%3Acts%3AgreekLit%3Atlg0013.tlg002.perseus-eng2%3A1-135/)；定位：lines 19–39
 - `claim.v0320.theogony.07` [VERIFIED / TEXT_SAYS / 0.90] Zeus honours Hecate above all, granting her a share of earth, sea and starry heaven; she gives success to those she favours.
   - 来源：[Hesiod, Theogony, Evelyn-White English text](https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0130)；定位：lines 337–452
+- `claim.v0360.theog_titans.12` [VERIFIED / TEXT_SAYS / 0.90] Hesiod, Theogony 411–452, says that Asteria bore Hecate to Perses, and that Zeus honoured her above all, giving her a share in earth, sea and heaven and power to aid kings, warriors, athletes, fishermen and herdsmen.
+  - 来源：[Hesiod, Theogony, Evelyn-White English text](https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0130)；定位：Theogony 411–452
 - `claim.v040.hecate.appears_hymn2` [VERIFIED / TEXT_SAYS / 0.99] Hecate hears Persephone and later meets Demeter carrying a torch in Homeric Hymn 2.
   - 来源：[Homeric Hymn 2 to Demeter, Evelyn-White English text](https://scaife.perseus.org/reader/urn%3Acts%3AgreekLit%3Atlg0013.tlg002.perseus-eng2%3A1-135/)；定位：Hymn 2, lines 25-62
 - `claim.v040.hecate.domain_theogony` [VERIFIED / TEXT_SAYS / 0.97] Theogony 411-452 assigns Hecate extensive shares and honors across several spheres.

@@ -21,11 +21,15 @@
 | Relation | Target | Review / layer | Evidence | Confidence | Direction |
 |---|---|---|---:|---:|---|
 | `PARENT_OF` | 阿斯特赖俄斯 (`deity.greek.astraeus`) | VERIFIED / TEXT_SAYS / MYTHIC_NARRATIVE | 1 | 0.99 | stored claim; `claim.v090.crius_parent_astraeus` |
+| `PARENT_OF` | 阿斯特赖俄斯 (`deity.greek.astraeus`) | VERIFIED / TEXT_SAYS / MYTHIC_NARRATIVE | 1 | 0.90 | inferred inverse; `claim.v0360.theog_titans.07` |
 | `PARENT_OF` | 帕拉斯（提坦） (`deity.greek.pallas_titan`) | VERIFIED / TEXT_SAYS / MYTHIC_NARRATIVE | 1 | 0.99 | stored claim; `claim.v090.crius_parent_pallas` |
 | `PARENT_OF` | 珀耳塞斯（提坦） (`deity.greek.perses`) | VERIFIED / TEXT_SAYS / MYTHIC_NARRATIVE | 1 | 0.99 | stored claim; `claim.v090.crius_parent_perses` |
+| `SIBLING_OF` | 忒亚 (`deity.greek.theia`) | VERIFIED / TEXT_SAYS / MYTHIC_NARRATIVE | 1 | 0.90 | stored claim; `claim.v0360.theog_titans.03` |
 
 ## Claims 与证据
 
+- `claim.v0360.theog_titans.03` [VERIFIED / TEXT_SAYS / 0.90] Hesiod, Theogony 126–138, says that Earth bore Heaven, the mountains and Pontus, and then to Heaven bore the Titans, among them Coeus, Crius, Hyperion, Iapetus, Theia, Rhea, Themis, Mnemosyne, Phoebe, Tethys and, youngest, Cronos.
+  - 来源：[Hesiod, Theogony, Evelyn-White English text](https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0130)；定位：Theogony 126–138
 - `claim.v090.crius_parent_astraeus` [VERIFIED / TEXT_SAYS / 0.99] Theogony 375-377 names Astraeus among the children of Crius and Eurybia.
   - 来源：[Hesiod, Theogony](https://scaife.perseus.org/library/urn:cts:greekLit:tlg0020.tlg001/)；定位：Theogony 375-377
 - `claim.v090.crius_parent_pallas` [VERIFIED / TEXT_SAYS / 0.99] Theogony 375-377 names Pallas among the children of Crius and Eurybia.

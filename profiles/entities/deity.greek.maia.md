@@ -25,6 +25,10 @@
 
 ## Claims 与证据
 
+- `claim.v0360.hym_hermes.01` [VERIFIED / TEXT_SAYS / 0.90] Homeric Hymn 4, lines 1–19, says that the shy nymph Maia, living in a shadowy cave, was visited by Zeus at night while Hera slept, and bore Hermes, who was born at dawn, played the lyre at midday and stole Apollo's cattle in the evening.
+  - 来源：[Hesiod, the Homeric Hymns, and Homerica, tr. Hugh G. Evelyn-White (1914)](https://www.gutenberg.org/ebooks/348)；定位：Homeric Hymn 4, lines 1–19
+- `claim.v0360.hym_hermes.06` [VERIFIED / TEXT_SAYS / 0.90] Homeric Hymn 4, lines 142–183, says that Hermes slipped back into Maia's cave through the keyhole like mist and lay in his cradle, and that Maia rebuked him, while he answered that he would win honour like Apollo's or become prince of robbers.
+  - 来源：[Hesiod, the Homeric Hymns, and Homerica, tr. Hugh G. Evelyn-White (1914)](https://www.gutenberg.org/ebooks/348)；定位：Homeric Hymn 4, lines 142–183
 - `claim.v050.theogony.maia_mentioned` [VERIFIED / TEXT_SAYS / 0.99] Theogony 938-939 names Maia in the genealogy of Hermes.
   - 来源：[Hesiod, Theogony, Evelyn-White English text](https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0130)；定位：lines 938-939
 

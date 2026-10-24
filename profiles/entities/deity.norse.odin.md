@@ -52,5 +52,9 @@
   - 来源：[The Story of the Volsungs (Volsunga Saga), tr. Eiríkr Magnússon and William Morris (1888 ed.)](https://www.gutenberg.org/ebooks/1152)；定位：Völsunga saga ch. 1
 - `claim.v0340.vol_1.11` [VERIFIED / TEXT_SAYS / 0.90] In Sigmundr's last battle against Lyngvi, a one-eyed man in a blue cloak holds up his spear against Sigmundr's stroke and the sword breaks in two, and Sigmundr falls mortally wounded.
   - 来源：[The Story of the Volsungs (Volsunga Saga), tr. Eiríkr Magnússon and William Morris (1888 ed.)](https://www.gutenberg.org/ebooks/1152)；定位：Völsunga saga ch. 11
+- `claim.v0360.skald_hrungnir.01` [VERIFIED / TEXT_SAYS / 0.90] Snorri's Edda, Skáldskaparmál 17, says that while Thor was in the east Óðinn rode Sleipnir to the giant Hrungnir, wagered his head that no horse in Jötunheimr was as good, and was chased by Hrungnir on Gullfaxi right into Ásgarðr.
+  - 来源：[Snorri Sturluson: Edda. Skáldskaparmál](https://vsnr.org/editions/snorri-sturluson-edda-skaldskaparmal/)；定位：Skáldskaparmál 17
+- `claim.v0360.skald_sif.09` [VERIFIED / TEXT_SAYS / 0.90] Snorri's Edda, Skáldskaparmál 35, says that when Brokkr and Loki brought their treasures to Ásgarðr the gods sat in judgement and agreed that the verdict of Óðinn, Thor and Freyr should stand.
+  - 来源：[Snorri Sturluson: Edda. Skáldskaparmál](https://vsnr.org/editions/snorri-sturluson-edda-skaldskaparmal/)；定位：Skáldskaparmál 35
 
 > 本档案只代表当前阶段性基线，不是对该传统的最终或唯一解释。

@@ -25,6 +25,7 @@
 
 ## Claims 与证据
 
-尚无 claim；实体仅为发现/索引入口。
+- `claim.v0360.skald_hrungnir.10` [VERIFIED / TEXT_SAYS / 0.90] Snorri's Edda, Skáldskaparmál 17, says that when neither Thjálfi nor all the Æsir could lift Hrungnir's leg from Thor's neck, Magni, Thor's three-year-old son by the giantess Járnsaxa, threw it off, and Thor gave him the horse Gullfaxi, though Óðinn said it was wrong to give it to a giantess's son.
+  - 来源：[Snorri Sturluson: Edda. Skáldskaparmál](https://vsnr.org/editions/snorri-sturluson-edda-skaldskaparmal/)；定位：Skáldskaparmál 17
 
 > 本档案只代表当前阶段性基线，不是对该传统的最终或唯一解释。

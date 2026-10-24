@@ -147,3 +147,14 @@
 2. [列王纪 · 第二部 鲁斯塔姆的七关](story.persian.rostam_seven_labours.md) — “The March into Mazinderan”; “Kai Kaous Committeth More Follies”，12 章，约 10 分钟
    - 跳过：本部只讲“凯·卡乌斯的更多愚行”中的飞天宝座一段，略去哈马瓦兰之战与苏达贝的故事。
 3. [列王纪 · 第三部 鲁斯塔姆与苏赫拉布](story.persian.rostam_sohrab.md) — “Rustem and Sohrab”，12 章，约 10 分钟
+
+## 荷马颂歌连载 / The Homeric Hymns (series)
+
+按《荷马颂歌》集子的顺序连读四首长篇颂歌：致得墨忒耳、致阿波罗、致赫尔墨斯、致阿佛洛狄忒，共五十二章。
+
+> 选录说明：集子中的第一首《致狄俄倪索斯》只存残篇，第六至三十三首是较短的颂歌，暂未收录；四部都是完整的故事，可以单独阅读。第一部沿用 v0.32 的长篇得墨忒耳版本。
+
+1. [得墨忒耳寻找珀耳塞福涅](story.greek.demeter_persephone.md) — Hymn 2, lines 1–495，14 章，约 9 分钟
+2. [荷马颂歌 · 第二部 致阿波罗：勒托的漂泊与德尔斐](story.greek.hymn_apollo.md) — Hymn 3, lines 1–546，14 章，约 12 分钟
+3. [荷马颂歌 · 第三部 致赫尔墨斯：迈亚的孩子](story.greek.hymn_hermes.md) — Hymn 4, lines 1–580，12 章，约 12 分钟
+4. [荷马颂歌 · 第四部 致阿佛洛狄忒：女神与牧人](story.greek.hymn_aphrodite.md) — Hymn 5, lines 1–293，12 章，约 11 分钟

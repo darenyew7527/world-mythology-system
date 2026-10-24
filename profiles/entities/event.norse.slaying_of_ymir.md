@@ -27,5 +27,7 @@ Odin and his brothers kill the primordial giant Ymir and make the world from his
 
 - `claim.v0310.norse.ymir_world` [VERIFIED / TEXT_SAYS / 0.95] From Ymir's flesh the earth is made, from his blood the sea and lakes, from his bones the rocks, and from his skull the sky.
   - 来源：[Snorri Sturluson, Edda](https://www.vsnrweb-publications.org.uk/Edda-1.pdf)；定位：Gylfaginning 8
+- `claim.v0360.gylf_creation.08` [VERIFIED / TEXT_SAYS / 0.90] Snorri's Edda, Gylfaginning 8, says that the sons of Borr carried Ymir to the middle of Ginnungagap and made the earth from his flesh, the sea and lakes from his blood and rocks and stones from his bones and teeth, setting the sea in a ring around the earth.
+  - 来源：[Snorri Sturluson, Edda](https://www.vsnrweb-publications.org.uk/Edda-1.pdf)；定位：Gylfaginning 8
 
 > 本档案只代表当前阶段性基线，不是对该传统的最终或唯一解释。
